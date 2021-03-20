@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0358884,
+                        "lng":-118.3774902
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0371116803,
+                              "lng":-118.3762236697
+                        },
+                        "southwest":{
+                              "lat":34.0344137197,
+                              "lng":-118.3789216303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Super Gallito",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106924307627626384652\">Frank Alonso<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwII5hj3hDWv8mGx1kZkwOVQEC6Q5l-2yNuN0ArNC2ZarfCwIpvzWv85zhXRaw_Xvq6-eIKTdrOymDFPKWIu8xuzFZCnyE9BUPdGfjHkB3-40xKkLD45pBJJGSD26xr5Awfgn0dYYjxiDZvrJ6cVTjJOHEtSX_MTpP4H_MM_v21W0sd1",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJQ6myn3G5woARe1dIGdRZoc8",
+            "plus_code":{
+                  "compound_code":"2JPF+92 Los Angeles, CA, USA",
+                  "global_code":"85632JPF+92"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJQ6myn3G5woARe1dIGdRZoc8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"2450 South La Cienega Boulevard, Los Angeles",
+            "CBG":60372702001,
+            "Radius":272.918510488
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0352328,
+                        "lng":-118.3773932
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0366247803,
+                              "lng":-118.3759796697
+                        },
+                        "southwest":{
+                              "lat":34.0339268197,
+                              "lng":-118.3786776303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sabores De Oaxaca",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116212605747346958180\">Monchis Amor<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJoXfUGu2bXNSsg_1UrTKRl1nJzTUiVWCxZYs0ootSvaC9_BsbHhpUcUsmPhxYLkAR9U8mCpFHRlAk1kachZIIHqdzxM30tuX9tDwpfxNz1oCO7Zr56Gvv5n42etWARMnVgqbqaLimuf566ea4MF-dJLIF8Px4_SWBczdiiVwrM2rYV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJfZ5EN3a5woARGvZ5rtXoAfA",
+            "plus_code":{
+                  "compound_code":"2JPF+32 Los Angeles, CA, USA",
+                  "global_code":"85632JPF+32"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJfZ5EN3a5woARGvZ5rtXoAfA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":360,
+            "vicinity":"6136 Venice Boulevard, Los Angeles",
+            "CBG":60372702001,
+            "Radius":272.918510488
+      }
+]

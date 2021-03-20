@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8567342,
+                        "lng":-73.8944376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8580469803,
+                              "lng":-73.8930016197
+                        },
+                        "southwest":{
+                              "lat":40.8553490197,
+                              "lng":-73.8956995803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Domingo",
+            "place_id":"ChIJFdKnar_1wokRy-gIpjJEB3M",
+            "plus_code":{
+                  "compound_code":"V444+M6 The Bronx, NY, USA",
+                  "global_code":"87G8V444+M6"
+            },
+            "reference":"ChIJFdKnar_1wokRy-gIpjJEB3M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4575 Park Avenue, The Bronx",
+            "CBG":360050385002,
+            "Radius":98.5637749192
+      }
+]

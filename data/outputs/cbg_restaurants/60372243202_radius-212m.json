@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.038893,
+                        "lng":-118.2807679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0401986803,
+                              "lng":-118.2795130697
+                        },
+                        "southwest":{
+                              "lat":34.0375007197,
+                              "lng":-118.2822110303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Pupusa Urban Eatery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113181097174222551591\">La Pupusa Urban Eatery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIdIrGgaPSCERqD2GlODi2wzBJVX3XCDK-zMNUtsp6DhGN7n4ltr9m60Lso1FKnM2YEPGb7mbtYxl-PWsQzvMK5fX8BqF5uVOT-FfhwILokVTcpysoRXqMQo9n4T4_JWIQEWDaOAzUr27hv1pF52PafGajdViP1QqNP3j98GrE-Wx7q",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJASc2t5THwoAR7dZfOXtmrro",
+            "plus_code":{
+                  "compound_code":"2PQ9+HM Los Angeles, CA, USA",
+                  "global_code":"85632PQ9+HM"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJASc2t5THwoAR7dZfOXtmrro",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":425,
+            "vicinity":"1051 West Washington Boulevard unit # g, Los Angeles",
+            "CBG":60372243202,
+            "Radius":211.5417539377
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0385278,
+                        "lng":-118.283808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0398773303,
+                              "lng":-118.2824407197
+                        },
+                        "southwest":{
+                              "lat":34.0371793697,
+                              "lng":-118.2851386803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"TAMIX MEXICAN FOOD TRUCK",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103096808596845820939\">TAMIX MEXICAN FOOD TRUCK<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcQuklECbWahzRyKt-OStWwo_tobWatuu6fZng4tTLrdoa9ylmuLMDgtbpqbTGQZ4c8so1yft3RyKU-Q5BC__E5EV_raHN3OK2zFcT1a7IGFzdmK0Ku9uEOXHAkpPvSNvWmskkLv8TvCPMC5vMqRWRrqwbjpoDpQX9wXOWtoI4SoN0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-cwPPzXHwoARDtEWTw3VhXw",
+            "plus_code":{
+                  "compound_code":"2PQ8+CF Los Angeles, CA, USA",
+                  "global_code":"85632PQ8+CF"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJ-cwPPzXHwoARDtEWTw3VhXw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1940 Hoover Street, Los Angeles",
+            "CBG":60372243202,
+            "Radius":211.5417539377
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.858047,
+                        "lng":-118.301077
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8594332803,
+                              "lng":-118.2997281697
+                        },
+                        "southwest":{
+                              "lat":33.8567353197,
+                              "lng":-118.3024261303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wienerschnitzel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116044004941102266969\">Ignacio Garcia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIcyaLNYjsT6Qbh5zAjdCvpikn1gGFqgYFuu-GQnKdbPlNxZ2NsjmvSfB3mCdT-zRFpXJ334tHUKMOBsxvFjKcwpskE5lKPFo3z_H0vIvlh0h9fVLE6B2tzrig89QxzgHEPHP6LVlgPGAvJJCtQ7gqmgfK3P1pIV02zMW6Sy1jOrIic",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ7xB1k1e1woAR45iFH_31OSA",
+            "plus_code":{
+                  "compound_code":"VM5X+6H Torrance, CA, USA",
+                  "global_code":"8553VM5X+6H"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ7xB1k1e1woAR45iFH_31OSA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":660,
+            "vicinity":"1352 West 190th Street, Torrance",
+            "CBG":60372913001,
+            "Radius":356.4624620432
+      }
+]

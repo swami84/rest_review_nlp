@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6622115,
+                        "lng":-73.9966078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6635028803,
+                              "lng":-73.9951616197
+                        },
+                        "southwest":{
+                              "lat":40.6608049197,
+                              "lng":-73.9978595803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Alnoor Halal Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":947,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102414314584515179359\">Carter Nichols<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGyWKrQEXqfgWaESoB7N15wCNSpgHqbgONpD_P5tkMyczacOIf0C1vgb7bAMxKoVZQYJhIUK9Lp7LQz1XEear-EUxI5vMmudqfINuhPNVwtTzQpufppIGylSgwo89UEGRO_6zdGUuQgBkp3q6ZP9JJfmXXB1zQUX6tzRWchs11h_js",
+                        "width":1268
+                  }
+            ],
+            "place_id":"ChIJecHGUe9awokRrq2b2Qunk70",
+            "plus_code":{
+                  "compound_code":"M263+V9 New York, NY, USA",
+                  "global_code":"87G8M263+V9"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJecHGUe9awokRrq2b2Qunk70",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":510,
+            "vicinity":"710 4th Avenue, Brooklyn",
+            "CBG":360470145003,
+            "Radius":123.5472135346
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6618091,
+                        "lng":-73.9969424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6631147803,
+                              "lng":-73.9955231697
+                        },
+                        "southwest":{
+                              "lat":40.6604168197,
+                              "lng":-73.9982211303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China Delight",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":612,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105966481832104236312\">Cameron Feliciano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJNmYoKcleUu4iUnrYOtOclft9_jU6uo8RQ9kA0eKWfdb6lEP4gK4X6x2---F8_FEfA8Dw3rcSyVdfS3GMzKedWry3W4vWvXgEiZGz3fFgzoyCJeSrmAcYw4bO7GN8Iu7mzZ58nvWSiA9DTUHjGph848SRaH8rStFX5j8ZmXLIFmldV",
+                        "width":816
+                  }
+            ],
+            "place_id":"ChIJtyNm6OhawokR8t7rQa8m_d8",
+            "plus_code":{
+                  "compound_code":"M263+P6 Brooklyn, NY, USA",
+                  "global_code":"87G8M263+P6"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJtyNm6OhawokR8t7rQa8m_d8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":89,
+            "vicinity":"722 4th Avenue, Brooklyn",
+            "CBG":360470145003,
+            "Radius":123.5472135346
+      }
+]

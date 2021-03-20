@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8862038,
+                        "lng":-73.8610129
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8876040303,
+                              "lng":-73.8598121197
+                        },
+                        "southwest":{
+                              "lat":40.8849060697,
+                              "lng":-73.8625100803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Good Dine",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110630560330466736540\">David Richards<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIglZsGGrAIfVEiG17i9bV8HSM-sVmuSv0Q9Epxf9iAVd-gYcucfynG-5TZjqu01jhtxH1XXrbTZWxueXT6g0SACZ69hZGvvlmSl2zdY32HbVtUnl40Vq9S9GfiV4xaqiNtAR9q4P-mbOg48Fx9JuC75rTXwWqNCGzc1aLWlBGk-xOw",
+                        "width":2992
+                  }
+            ],
+            "place_id":"ChIJR8pdNyPzwokRtYIf_C43exM",
+            "plus_code":{
+                  "compound_code":"V4PQ+FH The Bronx, NY, USA",
+                  "global_code":"87G8V4PQ+FH"
+            },
+            "rating":4.1,
+            "reference":"ChIJR8pdNyPzwokRtYIf_C43exM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":332,
+            "vicinity":"3922 White Plains Road, The Bronx",
+            "CBG":360050396004,
+            "Radius":119.1014767662
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8865372,
+                        "lng":-73.860955
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8879173303,
+                              "lng":-73.8597001697
+                        },
+                        "southwest":{
+                              "lat":40.8852193697,
+                              "lng":-73.8623981303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Holy Fruits Juice Press",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1472,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105850924102982188231\">Holy Fruits Juice Press<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK3RUJ9ucDF1dYjrrqQYZuyog1yreEYre6lNhFLK6khnCNVol-8Hv60q95Cjpehf43Nfms0-dcyoCmAOK-qJX98wZzysTr2qjOXWvxCYGp33EhPh8AHbLNao7SMjLWRPJZuvtKQnVbHsXirVTK16PA1LlygvLrnOy_gNXxxwx2h6ZWw",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJq_kpg0TzwokRzQapKqvcfo8",
+            "plus_code":{
+                  "compound_code":"V4PQ+JJ The Bronx, NY, USA",
+                  "global_code":"87G8V4PQ+JJ"
+            },
+            "rating":4.8,
+            "reference":"ChIJq_kpg0TzwokRzQapKqvcfo8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"3932A White Plains Road, The Bronx",
+            "CBG":360050396004,
+            "Radius":119.1014767662
+      }
+]

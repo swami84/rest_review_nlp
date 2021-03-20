@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":33.8003148,
+                        "lng":-117.9009847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8017526803,
+                              "lng":-117.8996872697
+                        },
+                        "southwest":{
+                              "lat":33.7990547197,
+                              "lng":-117.9023852303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger Theory - Anaheim, California",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106342211433539104330\">Dave<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLgdWSS7BAyDUcH4jx3dIQ98ib-mnR0FjFuvweGwgMl_zyNQo3_dbRih6pzALqGNBS4yZrMB6QbNbM8iFkAFwZ3F_aoJirYfq0S_hx-ftYaKpX3VDerde8HmtdtepzDuRwmG3B_suAmABKKrnR1ioSifC_9MUpm1SeCxQGLhgHK7er8",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJAYn40pTX3IARnO676UZWBlo",
+            "plus_code":{
+                  "compound_code":"R32X+4J Anaheim, CA, USA",
+                  "global_code":"8554R32X+4J"
+            },
+            "rating":4.5,
+            "reference":"ChIJAYn40pTX3IARnO676UZWBlo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"1915 South Manchester Avenue, Anaheim",
+            "CBG":60590875041,
+            "Radius":323.6968593986
+      }
+]

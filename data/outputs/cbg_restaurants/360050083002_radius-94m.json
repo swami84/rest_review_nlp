@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8154018,
+                        "lng":-73.9029598
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8166212303,
+                              "lng":-73.9017954697
+                        },
+                        "southwest":{
+                              "lat":40.8139232697,
+                              "lng":-73.9044934303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Seis Vecinos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107952571092447323819\">Seis Vecinos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIstDXCFr6ElPZ3pYL2roXY8am7oVp9v4S13sxmuiioZy2Y7xklQvXqKVatypCVLiGVoOWTrrG7KFZee0FLNfcYJHJfZf6JxOMQAJzmgqMDlNSrQhQ18lEM2Ts4Mc-Ot_fXVST-37DWDMtJgzGm2cqm6erKtjLbouw60bjK06lutlxq",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJb4LjG7r1wokRyAd4TrnrVeQ",
+            "plus_code":{
+                  "compound_code":"R38W+5R New York, NY, USA",
+                  "global_code":"87G8R38W+5R"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJb4LjG7r1wokRyAd4TrnrVeQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1451,
+            "vicinity":"640 Prospect Avenue, The Bronx",
+            "CBG":360050083002,
+            "Radius":94.152068593
+      }
+]

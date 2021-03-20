@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8763789,
+                        "lng":-87.6965631
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8775209803,
+                              "lng":-87.6951886697
+                        },
+                        "southwest":{
+                              "lat":41.8748230197,
+                              "lng":-87.6978866303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Shark's Fish & Chicken",
+            "place_id":"ChIJAZHhJAYtDogRrNmc22gWtk8",
+            "plus_code":{
+                  "compound_code":"V8G3+H9 Chicago, IL, USA",
+                  "global_code":"86HJV8G3+H9"
+            },
+            "rating":4.3,
+            "reference":"ChIJAZHhJAYtDogRrNmc22gWtk8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"338 South California Avenue, Chicago",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":170318370001,
+            "Radius":280.5264988222
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8762353,
+                        "lng":-87.7006593
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8775842303,
+                              "lng":-87.6995163697
+                        },
+                        "southwest":{
+                              "lat":41.8748862697,
+                              "lng":-87.7022143303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Joe Willies Seafood WestTown",
+            "place_id":"ChIJDSr2b58yDogROJ5gHc3Bb4w",
+            "plus_code":{
+                  "compound_code":"V7GX+FP Chicago, IL, USA",
+                  "global_code":"86HJV7GX+FP"
+            },
+            "rating":4.1,
+            "reference":"ChIJDSr2b58yDogROJ5gHc3Bb4w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":193,
+            "vicinity":"337 South Sacramento Boulevard, Chicago",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106663673370203370282\">Daniel Rice<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLAxoV5VtqC4coo5r5_LtIi-dZYSWP342Vx4W_JUY9x5Z39VqhVAGj-iOugFZY9WbK0CV9BzAelY4Z2GoLwQEVEJpKyKwiogAX5joq77nTSABNTfq-P62u0ym3uNHzScY03ABvWeNFhdZu2ds3f_d3aVc4ViqHIDwINfgeqMy7rVofq",
+                        "width":4032
+                  }
+            ],
+            "CBG":170318370001,
+            "Radius":280.5264988222
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6453616,
+                        "lng":-74.0104154
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6466702303,
+                              "lng":-74.0089324697
+                        },
+                        "southwest":{
+                              "lat":40.6439722697,
+                              "lng":-74.0116304303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Isla",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115252935846100305550\">C T<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJbvTO8B5J3O102Yum_TkcRDEosHp1KqCN2j7Y157edaireStLmF3RaqU-abXS5czKUkV43ZVNWOItdsBEVwxADa6c9GG6syTONSNOjmnTSD1Rosou8nit4dj-uiUZj_RaxgBjg0bYn71wZa_koF_URXsKShFlrKiFrpwG-P6T86q9d",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJo21LnLZawokRqDwvfOLFP5Y",
+            "plus_code":{
+                  "compound_code":"JXWQ+4R Brooklyn, NY, USA",
+                  "global_code":"87G7JXWQ+4R"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJo21LnLZawokRqDwvfOLFP5Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":351,
+            "vicinity":"4920 5th Avenue, Brooklyn",
+            "CBG":360470078002,
+            "Radius":110.9289122821
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6454503,
+                        "lng":-74.0103192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6467145803,
+                              "lng":-74.0088843697
+                        },
+                        "southwest":{
+                              "lat":40.6440166197,
+                              "lng":-74.0115823303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117450429341046534436\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKqU-j5c1eHq2xU6GBY-wlNVAedmOTM5icqyTHJB_gq884vXNVUPxcL-3VtmNqPLrZkPp6uYBjhjAR4wTrFqOLUp9rP-SeW7L6klbQ6Yf-_C1nsyFHYoamY0zEXYBjs8Y-IZ4QLTnpZQzYsWRnHEXa42Db-PTD8q5fiPtzv87G3yqYP",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJ__U6WA1bwokRJIc-FgL5IA0",
+            "plus_code":{
+                  "compound_code":"JXWQ+5V New York, NY, USA",
+                  "global_code":"87G7JXWQ+5V"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJ__U6WA1bwokRJIc-FgL5IA0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":193,
+            "vicinity":"4918 5th Avenue, Brooklyn",
+            "CBG":360470078002,
+            "Radius":110.9289122821
+      }
+]

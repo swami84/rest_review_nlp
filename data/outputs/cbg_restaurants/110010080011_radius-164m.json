@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8991067,
+                        "lng":-76.9851262
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9004807303,
+                              "lng":-76.9836710197
+                        },
+                        "southwest":{
+                              "lat":38.8977827697,
+                              "lng":-76.9863689803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chick-fil-A",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3472,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100532029038248651538\">Will Jones<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJZeAZ2BzNCe3ogN79xequ48-uctZevdhM1wJ1G_aj_Xtaqwx8oZ7vxPqPPCWt2oL5XN_0iQ3MAOP6qiGdIhwYoXinvnfiyIclpI4UQ00KvFw41B61lLccb_Ne4cedRPuJzH5CVjRPrXSL2Gil3Ktw9l5WZz0Q7RQtEs4wL8X4Zghp",
+                        "width":4624
+                  }
+            ],
+            "place_id":"ChIJseVNSEC4t4kRghd51D0Bnas",
+            "plus_code":{
+                  "compound_code":"V2X7+JW Washington, DC, USA",
+                  "global_code":"87C5V2X7+JW"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJseVNSEC4t4kRghd51D0Bnas",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1795,
+            "vicinity":"1401 Maryland Avenue Northeast, Washington",
+            "CBG":110010080011,
+            "Radius":163.6412411191
+      }
+]

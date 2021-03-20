@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.855021,
+                        "lng":-73.889548
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8563324303,
+                              "lng":-73.8881235697
+                        },
+                        "southwest":{
+                              "lat":40.8536344697,
+                              "lng":-73.8908215303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Teitel Warehouse",
+            "place_id":"ChIJa6AkbdD1wokR8zqUHUMrgQk",
+            "plus_code":{
+                  "compound_code":"V446+25 The Bronx, NY, USA",
+                  "global_code":"87G8V446+25"
+            },
+            "reference":"ChIJa6AkbdD1wokR8zqUHUMrgQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2357 Hoffman Street, The Bronx",
+            "CBG":360050387002,
+            "Radius":109.8446837388
+      }
+]

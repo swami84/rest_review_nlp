@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":38.9014236,
+                        "lng":-77.0505667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9024462803,
+                              "lng":-77.0494214197
+                        },
+                        "southwest":{
+                              "lat":38.8997483197,
+                              "lng":-77.0521193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Subway",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":531,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117605034288407140140\">Javier Gutierrez Abella<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIVAG8jZktIGAVaxpyGc0jw_HsOG9tPlyNHULU-ExwI40TDeupTjjbhB-KTE8l_T4chIyJ0hDkSVNfOih0lxnhwtPorYE8PufBz7VKzBULa0BQBmaQlaMljqZP-3WQJqHuvokIj1oafH0t5Xl1CDE9Ukd9TL8OuUj7M5riJmg2mdBTS",
+                        "width":841
+                  }
+            ],
+            "place_id":"ChIJaxYt37O3t4kROOcROE0_B88",
+            "plus_code":{
+                  "compound_code":"WW2X+HQ Washington, DC, USA",
+                  "global_code":"87C4WW2X+HQ"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJaxYt37O3t4kROOcROE0_B88",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"900 23rd Street Northwest, Washington",
+            "CBG":110010056004,
+            "Radius":165.8026387316
+      }
+]

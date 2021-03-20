@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8544465,
+                        "lng":-73.8941765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8557647803,
+                              "lng":-73.8926850697
+                        },
+                        "southwest":{
+                              "lat":40.8530668197,
+                              "lng":-73.8953830303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"AQUA BAR GRILL",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102175146547438140490\">AQUA BAR GRILL<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLsuIq3-ix5UPRa2tylWx_9Lzl-u5wwZ8DRsJ-zIL54Bksp0ZV1Qlvha1onfyoTaWza-qUxSajtgj6lcy3o4W-gkKXlREc8vqmRLgJNfoQ366x1vrh1FKnD1m5gyTliNzvBdPxEoo2WseiBVp1xGWY0W0xQQSb-VUO4YTd647YYe5Cv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK_KQ10j1wokRWcn0FUVAAXY",
+            "plus_code":{
+                  "compound_code":"V434+Q8 New York, NY, USA",
+                  "global_code":"87G8V434+Q8"
+            },
+            "rating":4.2,
+            "reference":"ChIJK_KQ10j1wokRWcn0FUVAAXY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"2241 Washington Avenue, The Bronx",
+            "CBG":360050385004,
+            "Radius":139.8939899436
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8544433,
+                        "lng":-73.8917857
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8558373803,
+                              "lng":-73.8904889697
+                        },
+                        "southwest":{
+                              "lat":40.8531394197,
+                              "lng":-73.8931869303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"FRIED CHICKEN & PIZZA",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108192245809944329008\">Miguel Melenciano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFHJhxJJBOxuS4iJPsRoxH1GfIrZOVG63VyGFLB8z_NoJxg3CVdiXVeJMXgue05ceTbAOhWbHC1bE75arj6-BISTFAqz5pcOCBkNqj49JRRZdeBW_LdV4tZ-NH4Je_StWkqdwCFXdyCrRbbYxvitIrRPmFErT-ujLpTkK0KYLYswoy",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJybgmtX30wokRUFx2kkYJIhw",
+            "plus_code":{
+                  "compound_code":"V435+Q7 New York, NY, USA",
+                  "global_code":"87G8V435+Q7"
+            },
+            "rating":3.9,
+            "reference":"ChIJybgmtX30wokRUFx2kkYJIhw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"2280 Bathgate Avenue, The Bronx",
+            "CBG":360050385004,
+            "Radius":139.8939899436
+      }
+]

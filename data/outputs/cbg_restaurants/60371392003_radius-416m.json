@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1743493,
+                        "lng":-118.5231342
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1757998303,
+                              "lng":-118.5217851197
+                        },
+                        "southwest":{
+                              "lat":34.1731018697,
+                              "lng":-118.5244830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kfir's kosher kitchen",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110124968091801026184\">Shahar Chompi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL38vRtiGW69oxcP2akDOZ0SVmL_h1n-jOdiac3vo7qYg7TsYDn_WsqAp4LH9U4ph0ODamASJ7-vpuBLKSGUQlr14VhiBSod-IPMENDASMYwuAXqeTzAvCEinKR4d6EzEL7j_BVTqDwsH6UwLrN-NiSrDuRGlWikLnsikmkUumENNZ2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJBwPZ5qSZwoARMRyD-zyb_Bs",
+            "plus_code":{
+                  "compound_code":"5FFG+PP Encino, Los Angeles, CA, USA",
+                  "global_code":"85635FFG+PP"
+            },
+            "rating":4.8,
+            "reference":"ChIJBwPZ5qSZwoARMRyD-zyb_Bs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"5709 Enfield Avenue, Encino",
+            "CBG":60371392003,
+            "Radius":415.507913195
+      }
+]

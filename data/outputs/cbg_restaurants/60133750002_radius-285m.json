@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.9360542,
+                        "lng":-122.3489851
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.9375361803,
+                              "lng":-122.3476330197
+                        },
+                        "southwest":{
+                              "lat":37.9348382197,
+                              "lng":-122.3503309803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos La Raza",
+            "photos":[
+                  {
+                        "height":3492,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103202217290338153417\">P. I.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIV8VPlzvsn78BHe9QiCWbObauTNXPjGkpH4dUUFnjL1SyvfjJynJlsWg6pX87aMTx33JdG7-DrNZGbFZRhZFL-ZKM9NWyBL5VbpRqZJ-8aok4-v7ISd7AX8cEdy9mrxVSDHKP20Dvc6tG1XlxtYFNJRXjaWBCUdTnQNWhu_HJp_Gr-",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJJwfgoVR5hYAROarQYvarMQE",
+            "plus_code":{
+                  "compound_code":"WMP2+CC Richmond, CA, USA",
+                  "global_code":"849VWMP2+CC"
+            },
+            "rating":4.4,
+            "reference":"ChIJJwfgoVR5hYAROarQYvarMQE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"514080011, Richmond",
+            "CBG":60133750002,
+            "Radius":284.9950503568
+      }
+]

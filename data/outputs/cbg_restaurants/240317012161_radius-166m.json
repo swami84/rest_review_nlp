@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.052474,
+                        "lng":-77.1121104
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0538771803,
+                              "lng":-77.1106573197
+                        },
+                        "southwest":{
+                              "lat":39.0511792197,
+                              "lng":-77.1133552803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"K-Pot Korean BBQ & Hot Pot",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1433,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109613233567053007629\">Igor at skvltd.media<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL0iWn9zB-cQKpdsTGWBwEzvcXwOvkePBh1F58z1BXDQNtjglc0-C62WWDSX8Fm7kzgN4U7dQEtWGTp48x48OMpDB57namlIm4bmAB-JdmWESV1471Toz5gql6V9kdPL3ZLyojK0oEJpwJYJjD-5EAJAwUvBV2TLFeYyLBe4WGi_VlN",
+                        "width":2000
+                  }
+            ],
+            "place_id":"ChIJR4fpedXNt4kR8ymVY7ub2l8",
+            "plus_code":{
+                  "compound_code":"3V2Q+X5 Rockville, MD, USA",
+                  "global_code":"87F43V2Q+X5"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJR4fpedXNt4kR8ymVY7ub2l8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":632,
+            "vicinity":"5550 Randolph Road, Rockville",
+            "CBG":240317012161,
+            "Radius":165.5134548447
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0513437,
+                        "lng":-77.1094946
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0527715803,
+                              "lng":-77.1081150197
+                        },
+                        "southwest":{
+                              "lat":39.0500736197,
+                              "lng":-77.1108129803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taj Caterers & Cafe - Specialty Catering & Take-out",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":945,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102319116676449698761\">Taj Caterers &amp; Cafe - Specialty Catering &amp; Take-out<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIGZ3ql-G1TqOpa-NPsFwwtIVCxslZPHwNmHN_v8fxf6sAbD-ED7O_cM0jJ4QqWNIz5XU3-vJj0-TfGNsxt-rgjVNh-iqGfiDon0TNuIO2UsEVtHXy_9NHPpBATFhoDb9MwQqNcaQNUSoxXkQ4UWlFT8IiH8XMA9McdRfIPD6m3c3h4",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJMzspwi7Mt4kRo06OjORdj4M",
+            "plus_code":{
+                  "compound_code":"3V2R+G6 Rockville, MD, USA",
+                  "global_code":"87F43V2R+G6"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJMzspwi7Mt4kRo06OjORdj4M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"12101 Nebel Street, Rockville",
+            "CBG":240317012161,
+            "Radius":165.5134548447
+      }
+]

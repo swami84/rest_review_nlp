@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8563269,
+                        "lng":-73.9010937
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8576120303,
+                              "lng":-73.8998116197
+                        },
+                        "southwest":{
+                              "lat":40.8549140697,
+                              "lng":-73.9025095803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pico De Gallo Restaurant",
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107272551211013648939\">Sury Figuereo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJT4t_hC7ADQUpo7GHj12Tg7O9fWFjJGf_qSqkYktGV6YC1flAWsiEY1buIlJy8RN1LQIuiYW-DZHiIjpqSHotyl-8w_n5Mx-mZE3tZ_IROV2wiJRGaulWV7UyUgIA0S4_WOso8K_Dlhhr0ZtqFQhG6Bycs5AVzFI7d99Mexcbx_d7h",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJtexVr3D0wokRrNEsecaJSjY",
+            "plus_code":{
+                  "compound_code":"V34X+GH The Bronx, NY, USA",
+                  "global_code":"87G8V34X+GH"
+            },
+            "rating":2,
+            "reference":"ChIJtexVr3D0wokRrNEsecaJSjY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2233 Grand Concourse, The Bronx",
+            "CBG":360050237041,
+            "Radius":69.7977994499
+      }
+]

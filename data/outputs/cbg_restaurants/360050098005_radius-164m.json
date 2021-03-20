@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.826042,
+                        "lng":-73.8543071
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8273234803,
+                              "lng":-73.8529364697
+                        },
+                        "southwest":{
+                              "lat":40.8246255197,
+                              "lng":-73.8556344303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"eat",
+            "place_id":"ChIJu856TsX0wokRJvw1clTWZZo",
+            "plus_code":{
+                  "compound_code":"R4GW+C7 The Bronx, NY, USA",
+                  "global_code":"87G8R4GW+C7"
+            },
+            "reference":"ChIJu856TsX0wokRJvw1clTWZZo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2040 Bruckner Boulevard, The Bronx",
+            "CBG":360050098005,
+            "Radius":164.438762223
+      }
+]

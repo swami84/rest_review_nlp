@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.641112,
+                        "lng":-74.00766
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6423963303,
+                              "lng":-74.0062033197
+                        },
+                        "southwest":{
+                              "lat":40.6396983697,
+                              "lng":-74.0089012803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fuding Wok (\u6b63\u5b97\u798f\u9f0e\u8089\u7247\uff09",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109968714222653962765\">Anthony Giudice<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLRSgUJsETwZ88S2GKGLWJJ67Me0PKEmRAUnIBWyBdS630Z5X2FKZd8U_iarooz7FuatrR3AB1RETPkpjmmLJ6lkHBMhGK2nnxwkODfggtmNMhNxezyckNBwJi0IYeq6M2ZE62meW0FkKh0oBeM4g_1xffpYRZ4bVMiCLASRK0c3TaJ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJXxEXe81bwokRsk975-IysKo",
+            "plus_code":{
+                  "compound_code":"JXRR+CW Brooklyn, NY, USA",
+                  "global_code":"87G7JXRR+CW"
+            },
+            "rating":3.4,
+            "reference":"ChIJXxEXe81bwokRsk975-IysKo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_delivery",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"5216 7th Avenue, Brooklyn",
+            "CBG":360470100001,
+            "Radius":109.6401972441
+      }
+]

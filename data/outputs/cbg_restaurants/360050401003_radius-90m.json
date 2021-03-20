@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8622879,
+                        "lng":-73.8999847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8636679303,
+                              "lng":-73.8986147197
+                        },
+                        "southwest":{
+                              "lat":40.8609699697,
+                              "lng":-73.9013126803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Authentic Mexican food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105670190256356069506\">Autentica comida mexicana<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIhkiRZKtqVA5T6eddx_bD6kR_VYq0ddi0X-VwTo4wy7TeBHmU1MJaXpzBYUGkqTyRXiHreFhWq18TC5iMVCkAmOrzhspml-HDeHG0TU_pVyLNVjdLMDsUaN7UX8OvQRj2S7EHIM0dLG-xgdUKgcwWl_79LnazNAWCTDKXOMTiCnq7_",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJ366OXaJhwokRa9Gsp8lA40s",
+            "plus_code":{
+                  "compound_code":"V462+W2 New York, NY, USA",
+                  "global_code":"87G8V462+W2"
+            },
+            "rating":5,
+            "reference":"ChIJ366OXaJhwokRa9Gsp8lA40s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"56 East Fordham Road, The Bronx",
+            "CBG":360050401003,
+            "Radius":90.2156609455
+      }
+]

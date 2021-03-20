@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8229395,
+                        "lng":-73.8954099
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8242731803,
+                              "lng":-73.8940468697
+                        },
+                        "southwest":{
+                              "lat":40.8215752197,
+                              "lng":-73.8967448303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Antojitos Elohim",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114040658231017930436\">Elvira JImenez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIx3QfJ22gRrRpb3O4ydRnuPD-TtqIe9C9XIFhHoL3gmKXvOPoThVWq3jskVtahAZibXCx6yGC60OxqSCNd_ei-h3wtBiFfJpOX4JVBxW-GbL_MN2s8hbLTZ72V--dmAVIbNconNMepItqr_lpkRPxw-kyY5AJUhVps7wJ4EzSILjSb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ8TPJBlv1wokR8IJWZhlpJsM",
+            "plus_code":{
+                  "compound_code":"R4F3+5R The Bronx, NY, USA",
+                  "global_code":"87G8R4F3+5R"
+            },
+            "rating":4.9,
+            "reference":"ChIJ8TPJBlv1wokR8IJWZhlpJsM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"971B Westchester Avenue, The Bronx",
+            "CBG":360050159002,
+            "Radius":112.7941835419
+      }
+]

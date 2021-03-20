@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1024349,
+                        "lng":-118.309461
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1037824303,
+                              "lng":-118.3081727697
+                        },
+                        "southwest":{
+                              "lat":34.1010844697,
+                              "lng":-118.3108707303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Happy Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106900819802226383274\">Kate K<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL69gCtC3-aR4-IwHm1SjmgRxFKBn9KUjxpwyiavOUFsEJWqyV46oVAQ3e58kXYrfT7PPqQcTszrwf69kF_HIiLX0gb1Paf-Eh2EvxNJLQFo9jJpgM1B_8MgKMvscWTDbBZcOaht99vTljAkKv7qk5qKpiLzArPwYMD6ySS-XdPvk66",
+                        "width":5504
+                  }
+            ],
+            "place_id":"ChIJlaE8SAa_woARsmrNT7jMwss",
+            "plus_code":{
+                  "compound_code":"4M2R+X6 Los Angeles, CA, USA",
+                  "global_code":"85634M2R+X6"
+            },
+            "rating":4.9,
+            "reference":"ChIJlaE8SAa_woARsmrNT7jMwss",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"1723 North Western Avenue, Los Angeles",
+            "CBG":60371903011,
+            "Radius":188.7574647271
+      }
+]

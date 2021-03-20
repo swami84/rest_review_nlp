@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8574902,
+                        "lng":-87.6420633
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8588418303,
+                              "lng":-87.6406132697
+                        },
+                        "southwest":{
+                              "lat":41.8561438697,
+                              "lng":-87.6433112303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bodhi Thai Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106432887881920741581\">Just Apeek<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUOz3I7u-viutx9uG6zROFICiUZSSssJxWqh5xKL02jTGFAEaL53jzCommrWnli9BuLkVx-ThZ7lS-S4DF5OBBaDKekOJC5GqwIKZpB5LrLrjhERPb0yz8zB-EyOGeRwjQZ2nym9MKnlRJd6lwxB_FDTXEQG-MN1qOGDxc3X9AesL7",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJj2r6vPUsDogRbxfQzk3-6yA",
+            "plus_code":{
+                  "compound_code":"V945+X5 Chicago, IL, USA",
+                  "global_code":"86HJV945+X5"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJj2r6vPUsDogRbxfQzk3-6yA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":125,
+            "vicinity":"1800 South Jefferson Street, Chicago",
+            "CBG":170313102001,
+            "Radius":248.3370033011
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8565274,
+                        "lng":-87.6419776
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8579374803,
+                              "lng":-87.6406794197
+                        },
+                        "southwest":{
+                              "lat":41.8552395197,
+                              "lng":-87.6433773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mary's Taqueria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107676042495624745295\">Ian Le<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKLIPSHvuWQ-uk7safacga4r5Y3l2m60o8Iet-hv77JbeAY_6sLrRwVHIdCidbcLdiva5PvbNPWKBDopkvUhuRx1ri66qAer-GJ2syPKiCAE7sum_7z4SdZ30XK46BCJwSSY72IRJ-thz-8CUeKhNap7S5c6Zol9KlMUBj2t2xvGErI",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJxXnekvUsDogREHBxqfwkDho",
+            "plus_code":{
+                  "compound_code":"V945+J6 Chicago, IL, USA",
+                  "global_code":"86HJV945+J6"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJxXnekvUsDogREHBxqfwkDho",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":295,
+            "vicinity":"1901 South Canalport Avenue, Chicago",
+            "CBG":170313102001,
+            "Radius":248.3370033011
+      }
+]

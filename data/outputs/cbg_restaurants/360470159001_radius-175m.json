@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6747722,
+                        "lng":-73.9718111
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6761628803,
+                              "lng":-73.9705680197
+                        },
+                        "southwest":{
+                              "lat":40.6734649197,
+                              "lng":-73.9732659803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Montauk Club",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1338,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116022848943439438466\">Montauk Club<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxPdzN-Da_wKDgQ1Z4fgwOQiVgxkYCA2902GvUP2ajGbcHHiliP1XcnZrXMNNWQp24ISvMuRNDsGudKmxVelTFSu0hYVYr1EH-P-tl8f88C8n4E4UWp51pmbJJyQmRASWdoqfqacTlKk8RNZGQW3OmAckr7ZkEQE9pC00ib748YJp5",
+                        "width":2000
+                  }
+            ],
+            "place_id":"ChIJj3thBKhbwokRReEBfyFA0g8",
+            "plus_code":{
+                  "compound_code":"M2FH+W7 Brooklyn, NY, USA",
+                  "global_code":"87G8M2FH+W7"
+            },
+            "rating":4.4,
+            "reference":"ChIJj3thBKhbwokRReEBfyFA0g8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"25 8th Avenue, Brooklyn",
+            "CBG":360470159001,
+            "Radius":175.3005220527
+      }
+]

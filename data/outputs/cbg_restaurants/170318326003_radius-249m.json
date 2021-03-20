@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9176064,
+                        "lng":-87.6488545
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9189670303,
+                              "lng":-87.6473251697
+                        },
+                        "southwest":{
+                              "lat":41.9162690697,
+                              "lng":-87.6500231303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Stella Barra Pizzeria & Wine Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103359372565039456131\">Stella Barra Pizzeria &amp; Wine Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJX2NLHQm6hlf1AleAa_3q56c-w6d95MVtHSuL12v_rOtMShPVdRzG_w4P-U_KoDifJNC9tcAe99vVRHNtuQ7v74IIRybk0nb_i73FNGTafTI2HpBz1hygTDmkTNVEPQfn-TX0TAfoRuVThFIDvLbANXGzU3B7mY-QnaKN_ShZJ1Vp3",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJp62DLhjTD4gRbgyWnw-XLBQ",
+            "plus_code":{
+                  "compound_code":"W992+2F Chicago, IL, USA",
+                  "global_code":"86HJW992+2F"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJp62DLhjTD4gRbgyWnw-XLBQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":389,
+            "vicinity":"1954 North Halsted Street, Chicago",
+            "CBG":170318326003,
+            "Radius":249.2990278308
+      }
+]

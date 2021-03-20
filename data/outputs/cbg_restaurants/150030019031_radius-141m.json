@@ -1,0 +1,93 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":21.2869793,
+                        "lng":-157.8359883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.2882755303,
+                              "lng":-157.8346679197
+                        },
+                        "southwest":{
+                              "lat":21.2855775697,
+                              "lng":-157.8373658803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chopchop rotisserie",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108030872033922133620\">tammy CHENG<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKqMqcvPynXOqDVtsERpxFSjc8EhIC1FKHtS43EMJUeKIv9T7oH3YqnR9-xwgHUbEVPf2QhxY-P1y0qb0xRhfS2SqISaW82e_9fctVG3__ZJ_sVRDm1DTJchNysXFzJ1S579PrDu5_xiJJzeLVZQlu15IM_MXKggf2PdyYLVLbmAYRS",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJQSTnOuRtAHwRHMJjFbysWns",
+            "plus_code":{
+                  "compound_code":"75P7+QJ Honolulu, HI, USA",
+                  "global_code":"73H475P7+QJ"
+            },
+            "rating":4.6,
+            "reference":"ChIJQSTnOuRtAHwRHMJjFbysWns",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29.0,
+            "vicinity":"438 Hobron Lane Ste H3, Honolulu",
+            "CBG":150030019031,
+            "Radius":140.5794707402
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.2870306,
+                        "lng":-157.8361078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.2883287803,
+                              "lng":-157.8347863197
+                        },
+                        "southwest":{
+                              "lat":21.2856308197,
+                              "lng":-157.8374842803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Germaine's Luau",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJtWJ-Fv1tAHwR-W01bwq06PI",
+            "plus_code":{
+                  "compound_code":"75P7+RH Honolulu, HI, USA",
+                  "global_code":"73H475P7+RH"
+            },
+            "rating":null,
+            "reference":"ChIJtWJ-Fv1tAHwR-W01bwq06PI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"438 Hobron Lane #501, Honolulu",
+            "CBG":150030019031,
+            "Radius":140.5794707402
+      }
+]

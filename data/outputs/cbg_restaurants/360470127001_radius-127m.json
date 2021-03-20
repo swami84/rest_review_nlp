@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6829011,
+                        "lng":-73.9821948
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6842723303,
+                              "lng":-73.9809059197
+                        },
+                        "southwest":{
+                              "lat":40.6815743697,
+                              "lng":-73.9836038803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lano's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107423169886996527565\">valerie lamboy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKtsnzHiY3FwnSiYr2GCkdgp3iqAYDB5NkRO_zl34VrKW_0UGw6-vMAhKmWdeUQVVcddd1A-57yl1nSGs6bcbc49SQTKVAHMKKW61wj7O0zVeLAE3FNWdzG5LG4noFP7vQ3ybAPyXHm3pf6Gk1XiLbUySrkWIAazJERdX6gZ-eWchLM",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJ-3lu2qxbwokRv9bS4HAXJaI",
+            "plus_code":{
+                  "compound_code":"M2M9+54 New York, NY, USA",
+                  "global_code":"87G8M2M9+54"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ-3lu2qxbwokRv9bS4HAXJaI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"107 3rd Avenue, Brooklyn",
+            "CBG":360470127001,
+            "Radius":127.0328945583
+      }
+]

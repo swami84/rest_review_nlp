@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8291124,
+                        "lng":-73.9131564
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8305076303,
+                              "lng":-73.9119439197
+                        },
+                        "southwest":{
+                              "lat":40.8278096697,
+                              "lng":-73.9146418803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rare Snaxz",
+            "place_id":"ChIJJ1szpan1wokRx0AtFljXlvA",
+            "plus_code":{
+                  "compound_code":"R3HP+JP The Bronx, NY, USA",
+                  "global_code":"87G8R3HP+JP"
+            },
+            "reference":"ChIJJ1szpan1wokRx0AtFljXlvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1072 Teller Avenue, The Bronx",
+            "CBG":360050143001,
+            "Radius":203.1952106886
+      }
+]

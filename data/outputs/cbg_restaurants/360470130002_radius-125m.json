@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6328874,
+                        "lng":-74.0210106
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6342835303,
+                              "lng":-74.0197658197
+                        },
+                        "southwest":{
+                              "lat":40.6315855697,
+                              "lng":-74.0224637803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Al Aqsa Bakery & Restaurant",
+            "photos":[
+                  {
+                        "height":1036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100628241609761386745\">Jared Cohee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLLRIYl81D6528Ycj-99DV9_0y8MITuMq5oRgxcDv82b2avpOpZZP1fHWOjqtUklCIYUiXtUDzu27FNvpLZzo_VO2M5onCwxMX0QZSteKraKIt1Bsd2MYgNH0LuODbJYaQCD3jYhI1oSc5JS6WRQYA9LxsGnxMiJR_1-g1PbrBvPzWn",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJsf1m2exFwokRJQgwjnVAj0w",
+            "plus_code":{
+                  "compound_code":"JXMH+5H New York, NY, USA",
+                  "global_code":"87G7JXMH+5H"
+            },
+            "rating":4.4,
+            "reference":"ChIJsf1m2exFwokRJQgwjnVAj0w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"6917 5th Avenue, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470130002,
+            "Radius":125.0707909015
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6329484,
+                        "lng":-74.0209579
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6343140303,
+                              "lng":-74.0197394697
+                        },
+                        "southwest":{
+                              "lat":40.6316160697,
+                              "lng":-74.0224374303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Beit Jeddo",
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114157522331491318558\">Khalil Ali<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLGWtcktwQGjQcaMNHlxoIvCdMrJPkqWoWJzX2cjTw3jS1pkIlahlaR-qNuSQQoYCaiz4hwTrC7hw4BqftEvhcnvwNR8HTm5iWsVr0suZ3TMfv-PSVUXYqEKGQzSR_gC1C1949qVuenR-4lOpSkmZGvoDMDESeBk0S5SYSdeqCalPak",
+                        "width":1620
+                  }
+            ],
+            "place_id":"ChIJj9-V81BFwokRdT9qHpW5rCw",
+            "plus_code":{
+                  "compound_code":"JXMH+5J Brooklyn, NY, USA",
+                  "global_code":"87G7JXMH+5J"
+            },
+            "rating":3.8,
+            "reference":"ChIJj9-V81BFwokRdT9qHpW5rCw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"6917 5th Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470130002,
+            "Radius":125.0707909015
+      }
+]

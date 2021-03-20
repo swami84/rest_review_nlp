@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":38.9061559,
+                        "lng":-77.0740828
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9075048803,
+                              "lng":-77.0727338197
+                        },
+                        "southwest":{
+                              "lat":38.9048069197,
+                              "lng":-77.0754317803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bulldog Tavern",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101015030954278188821\">Sergio Paix\u00e3o Pardo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIQANcHV7NoQyeEqzcFGBXHiOI74KeGm5T0YDWxMvLm5WTAUPsQTHB9bN_rmGzwX7rsC883NVVsdwm1-vpLgnGTguSd4iQPBVdWL9kIbxHTfwPhHz7vqFHH9gEInfkSmrDU7-Ln2m-8mWPe2ORfWtk0d7Y2MHEZ8dd9h1xyeqFfE9yz",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ1SMLTkG2t4kRk_iwegm5j84",
+            "plus_code":{
+                  "compound_code":"WW4G+F9 Washington, DC, USA",
+                  "global_code":"87C4WW4G+F9"
+            },
+            "price_level":2,
+            "rating":3.3,
+            "reference":"ChIJ1SMLTkG2t4kRk_iwegm5j84",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"Georgetown University, 205 Prospect Street Healey Family Student Center, Washington",
+            "CBG":110010002024,
+            "Radius":320.9336296829
+      }
+]

@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.845715,
+                        "lng":-122.29675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8470979803,
+                              "lng":-122.2952417697
+                        },
+                        "southwest":{
+                              "lat":37.8444000197,
+                              "lng":-122.2979397303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jamba Team Up",
+            "photos":[
+                  {
+                        "height":320,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114164263406349993391\">Jamba Team Up<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJr0KTXTu7Zz_9KPXlLOpm_7eYSp0ptNi2oSuI1VMJsjzetg33qSJWBntC6m_aSgJtGsvEYYTh2kY1yUiwwh7ovVd_FIBJAxX3L_6ib5-MbEgSsw-mFEbFCIQETRTm6KTRvL-3yTp2uhI9gdtuBg8pEddY-_UHJXyHISSpRMOkAY3_0",
+                        "width":560
+                  }
+            ],
+            "place_id":"ChIJn1fOVlh-hYAR99vNvr-wTGk",
+            "plus_code":{
+                  "compound_code":"RPW3+77 Emeryville, CA, USA",
+                  "global_code":"849VRPW3+77"
+            },
+            "price_level":1,
+            "rating":1,
+            "reference":"ChIJn1fOVlh-hYAR99vNvr-wTGk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"6475 Christie Avenue, Emeryville",
+            "CBG":60014251021,
+            "Radius":254.9606374454
+      }
+]

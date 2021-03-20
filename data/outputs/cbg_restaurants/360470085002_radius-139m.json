@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.676124,
+                        "lng":-74.0048908
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6774306303,
+                              "lng":-74.0035630197
+                        },
+                        "southwest":{
+                              "lat":40.6747326697,
+                              "lng":-74.0062609803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken & Pizza",
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100659253073855439253\">Dahlia Ayala<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIH7xXr_WyhWTq5wAGZnW_Q2bVzBjost7tRKYB8wXdvSV82A6w0NHJmqguaq3000WGQoVMaCv1UFF6nb777DfTNHXy17yCh8AX6GBk0yS7Cni_bSkK06tjPGp5b21WBc1fYTlsCsZfoKGplCKSjnqouwQ8ytALFa27CZJTzr0z6GzX",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJlULp5_RawokRwVlwaKsYztw",
+            "plus_code":{
+                  "compound_code":"MXGW+C2 Brooklyn, NY, USA",
+                  "global_code":"87G7MXGW+C2"
+            },
+            "rating":4,
+            "reference":"ChIJlULp5_RawokRwVlwaKsYztw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"783 Hicks Street, Brooklyn",
+            "CBG":360470085002,
+            "Radius":139.0770237812
+      }
+]

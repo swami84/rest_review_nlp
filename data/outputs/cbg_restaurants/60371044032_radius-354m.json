@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2645547,
+                        "lng":-118.4377911
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2660331803,
+                              "lng":-118.4365853197
+                        },
+                        "southwest":{
+                              "lat":34.2633352197,
+                              "lng":-118.4392832803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Coco Hut Thai Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104482060553833492414\">Leonardo Diaz de Sandi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJq6EDuY0S_jekwu8xCqsdCSlwzcSqVSx_RO0RpxEfhBGOxFBCWssuHVSy-GqWwaOEV3vw5cfc8uTFVimdtG68L75LZQXqfjPRt3XqfkBYMxfZYd2rryu6c5IRY--3H5Q5iZJPIw6MZaVIgjHNxmCtXEa6YJrxn2hWcTU71K4szddn",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJB6lzdgCRwoARlHHEJKylmHc",
+            "plus_code":{
+                  "compound_code":"7H76+RV Pacoima, Los Angeles, CA, USA",
+                  "global_code":"85637H76+RV"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJB6lzdgCRwoARlHHEJKylmHc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":164,
+            "vicinity":"10690 Laurel Canyon Boulevard, Pacoima",
+            "CBG":60371044032,
+            "Radius":353.8462854551
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2647221,
+                        "lng":-118.4378031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2660357803,
+                              "lng":-118.4365474197
+                        },
+                        "southwest":{
+                              "lat":34.2633378197,
+                              "lng":-118.4392453803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Charly's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108385715448285602653\">Squally Hunter<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJRutiUZ1smP0BYUUvBlbHasyAPooakJu0Z4FM7xmWRji0h6fMN_Jq1fJun0es39UdYULBsslNCPAReau3SHaaa5VWaDJtmmFC8XbdfT5Ktfsy_XbHHnvFJU1nhCjSkIuJK9VWwN8Bp2vgf9p14EeX3VKiAUGh5YJ3usueajoPkrYHU",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJOwffdQCRwoARA4v_84fXchc",
+            "plus_code":{
+                  "compound_code":"7H76+VV Pacoima, Los Angeles, CA, USA",
+                  "global_code":"85637H76+VV"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJOwffdQCRwoARA4v_84fXchc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":387,
+            "vicinity":"10690 Laurel Canyon Boulevard, Pacoima",
+            "CBG":60371044032,
+            "Radius":353.8462854551
+      }
+]

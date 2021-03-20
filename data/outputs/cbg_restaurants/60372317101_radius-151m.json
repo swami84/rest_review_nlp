@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0074626,
+                        "lng":-118.2913869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0088125803,
+                              "lng":-118.2901273697
+                        },
+                        "southwest":{
+                              "lat":34.0061146197,
+                              "lng":-118.2928253303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tom's Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112582936825340797849\">Juan Calderon<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKtwhPtr-NkqtAMyPzm4YKpApEGwEA2G5-ZYbiK_jAQ_GFsv2BVE-nhdkqP2SajlPl28CVFXbmZcYoycaIRWZfLyhJzREYOTpYv2xWA606mhPlZOVIgjvvAZ3K2kmOhtp8y0o0UfkUJICPgJxYdOeX7HnE55RDQdOnXjMzRAlAct94n",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJKYM1VgTIwoARdkP-P1omtlI",
+            "plus_code":{
+                  "compound_code":"2P45+XC Los Angeles, CA, USA",
+                  "global_code":"85632P45+XC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJKYM1VgTIwoARdkP-P1omtlI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":156,
+            "vicinity":"4182 South Vermont Avenue, Los Angeles",
+            "CBG":60372317101,
+            "Radius":150.5012066096
+      }
+]

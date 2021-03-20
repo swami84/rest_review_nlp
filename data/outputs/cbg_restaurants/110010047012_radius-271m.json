@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9058203,
+                        "lng":-77.0140677
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9071055803,
+                              "lng":-77.0126831697
+                        },
+                        "southwest":{
+                              "lat":38.9044076197,
+                              "lng":-77.0153811303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Andy's Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102479839061698836899\">Caitlin Higgins<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7uSt-zKpZfjTSBgAmNKnDt0-UAUnEDwNGpXwdoyL0EwyNmODrDGT-aJyK5V3kIPHXyXoJIf_8Nag_Ki9jxsKGcz4JYup8vNyUI48XhDVpzCwkAMFnHC4NaK9qm4H2GEhWz6wQJiOiObVAFrLSpJfQcszC_X5DaNs9y7PUZA5bVqVG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwbQU8PS3t4kRs6fmvaTXPvQ",
+            "plus_code":{
+                  "compound_code":"WX4P+89 Washington, DC, USA",
+                  "global_code":"87C4WX4P+89"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJwbQU8PS3t4kRs6fmvaTXPvQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":124,
+            "vicinity":"209 New York Avenue Northwest, Washington",
+            "CBG":110010047012,
+            "Radius":271.1751277425
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9022708,
+                        "lng":-77.0166019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9037426303,
+                              "lng":-77.0152497697
+                        },
+                        "southwest":{
+                              "lat":38.9010446697,
+                              "lng":-77.0179477303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"JOE & THE JUICE",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106907903035802233335\">\uc774\uc784\ud638<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIsK5hpEh4DbvuU4AlNXOhMLfMTyTOpl2MlBI3ke1fpyCstQRqe1xlU2rlzaIdZVBzlxGG1yPix8tNagpoJPhOPgOiEvZFUeW6WvmkK7gye1_PMqlLmI4uAB2yF8Sc9CVvVT5eWeR1I8LfL5LLs9EGRvHZndwrLSogArI9MnzXgeC1d",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ9-b7Unu3t4kROpWX9n1_vZc",
+            "plus_code":{
+                  "compound_code":"WX2M+W9 Washington, DC, USA",
+                  "global_code":"87C4WX2M+W9"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJ9-b7Unu3t4kROpWX9n1_vZc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"400 K Street Northwest, Washington",
+            "CBG":110010047012,
+            "Radius":271.1751277425
+      }
+]

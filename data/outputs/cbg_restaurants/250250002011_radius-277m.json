@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3586262,
+                        "lng":-71.1573378
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3600586303,
+                              "lng":-71.1559540197
+                        },
+                        "southwest":{
+                              "lat":42.3573606697,
+                              "lng":-71.1586519803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"IHOP",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2272,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114455200443956506230\">Helmuth Trefftz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKXUeTdOR-1NXyqlI8iJ_nhcizatogTO1xXaH48Q8nGb_d2Pb5p1DyHMlauJncpPv-8PXw9U0eTVfFgZWzJcRIheYfoJPUDOH7SlXZiRtFL7ksf50ty18lSp-r8wq-lqTWpGpJEpRUb9eDovxkfMQD85aX5RZnIQXXjMeYW7Mfi4lWQ",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJG2SG3Dp444kRTBuTS2ilRn4",
+            "plus_code":{
+                  "compound_code":"9R5V+F3 Brighton, Boston, MA, USA",
+                  "global_code":"87JC9R5V+F3"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJG2SG3Dp444kRTBuTS2ilRn4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2081,
+            "vicinity":"1850 Soldiers Field Road, Brighton",
+            "CBG":250250002011,
+            "Radius":276.9670968021
+      }
+]

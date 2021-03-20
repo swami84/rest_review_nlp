@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7735329,
+                        "lng":-117.9791272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7748842803,
+                              "lng":-117.9778901197
+                        },
+                        "southwest":{
+                              "lat":33.7721863197,
+                              "lng":-117.9805880803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Secret Ph\u1edf - G\u00e0 N\u01b0\u1edbng Lu - Clay Vase Baked Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106910133968769346006\">Vi Nguyen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJN5pkqaceJsYvoFcGNLItt4q2P8zYQo6oWBvoDIjMNwGleogtilYEwaDNHawweLJ-Og6MjC0DFMXBnD63NHTLzrFVJ4HHSd6eklDnJpmJu1oHtZyAd9c3r6662K2rw3YRzeJTjkbwKZOnKxb-5mk15KhoGKsTgh8oIPQohJbmL3FLa",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVVXFjIUo3YARWtUOY5maxQ0",
+            "plus_code":{
+                  "compound_code":"Q2FC+C8 Garden Grove, CA, USA",
+                  "global_code":"8554Q2FC+C8"
+            },
+            "rating":4.3,
+            "reference":"ChIJVVXFjIUo3YARWtUOY5maxQ0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"8762 Garden Grove Boulevard, Garden Grove",
+            "CBG":60590888015,
+            "Radius":260.7904941355
+      }
+]

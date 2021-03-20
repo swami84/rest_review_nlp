@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7896536,
+                        "lng":-122.4139068
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7909382303,
+                              "lng":-122.4124890697
+                        },
+                        "southwest":{
+                              "lat":37.7882402697,
+                              "lng":-122.4151870303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gusto Pinsa Romana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108275094879802646346\">JC Alexander<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLw1qB0viKTaIPp-qk1ZhR6Vvw7f-h3FLH-iKeV1iYcAb_cndDYDaLEiNPQUd0_Dgl72hjGF3IhDPf5OrqT9kEDN-LgxXOP22qbl11x3bNe5K2akxwEQKdbj5u_PN0lp3qEwaH3Zp4n8WuBx_RxxwI-mMCvbyw4Qq_cUrdL91gYNWk9",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJm_AHaZKAhYARwFzqP49IC4o",
+            "plus_code":{
+                  "compound_code":"QHQP+VC Lower Nob Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHQP+VC"
+            },
+            "rating":4.9,
+            "reference":"ChIJm_AHaZKAhYARwFzqP49IC4o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":267,
+            "vicinity":"1000 Bush Street, San Francisco",
+            "CBG":60750119012,
+            "Radius":99.0823572069
+      }
+]

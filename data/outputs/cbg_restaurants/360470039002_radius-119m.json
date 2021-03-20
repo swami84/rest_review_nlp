@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6855772,
+                        "lng":-73.9819258
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6870135303,
+                              "lng":-73.9805182197
+                        },
+                        "southwest":{
+                              "lat":40.6843155697,
+                              "lng":-73.9832161803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Hollow Nickel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104899289947906963649\">Kevin H.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ3qeCEv9EOxrRGSj-ZiOSWJZ-srI2P2-UDNOegu55XuYHGpfMyU2QcY7cG9j8qSF22Zefdnujd8lJl7m4i-N-r4dKOSeTkENW1EXoMg9UbxPQsOtcEQyW7p5r4d3F5vP01ID9_evM9EEw967paI9sptQfPieWCij7Su_UALhFzIz4I",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJwbvAWK1bwokRDxw1O9vNXN4",
+            "plus_code":{
+                  "compound_code":"M2P9+66 New York, NY, USA",
+                  "global_code":"87G8M2P9+66"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJwbvAWK1bwokRDxw1O9vNXN4",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":552,
+            "vicinity":"494 Atlantic Avenue, Brooklyn",
+            "CBG":360470039002,
+            "Radius":118.7320859722
+      }
+]

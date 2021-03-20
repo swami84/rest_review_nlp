@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6421348,
+                        "lng":-74.0065679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6434837803,
+                              "lng":-74.0052189197
+                        },
+                        "southwest":{
+                              "lat":40.6407858197,
+                              "lng":-74.0079168803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Donghai",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113128523291828664657\">Moon Man<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK2I7vSYQQd31BV-wrhF4CbX0ko8uTj68zszrbU6oX--jUryvUjupp8tKppUHwfaRqM2K9jTfWHi3TFbRzGrw6Ql6FhvaNTMJwhssWJgx5dMhORJlXtvWHIDH_yNzLLWWUkjMuEeXxXEzurzMc7GWZYTYFVyaWwObRVJ6yeTIfGVbhM",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJPxfrf7VawokR0ev0NyDaH5U",
+            "plus_code":{
+                  "compound_code":"JXRV+V9 New York, NY, USA",
+                  "global_code":"87G7JXRV+V9"
+            },
+            "rating":3.6,
+            "reference":"ChIJPxfrf7VawokR0ev0NyDaH5U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48.0,
+            "vicinity":"5024 7th Avenue, Brooklyn",
+            "CBG":360470098003,
+            "Radius":109.6271319645
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6435074,
+                        "lng":-74.0078194
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6448859303,
+                              "lng":-74.0064392197
+                        },
+                        "southwest":{
+                              "lat":40.6421879697,
+                              "lng":-74.0091371803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"6th Ave. Cafe",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKhRwhJVTIeR_WDDUbQsUZFU6zc-rZ6Y_8ZerKvRPzbD8HsAx1BB92egIwTYcAYlsC4gf97grhpar0HxCxbpMMnaUG1riuGui4rZmln3IF9LgDg7tyPJdOQEhScHyE9ZjfsO9ZzJmbPZqW2xn6Pddog3E8LH7x4oy0mSdpbEHr7c8-q",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ1zh3EGRbwokRwpMFvSCssvI",
+            "plus_code":{
+                  "compound_code":"JXVR+CV Brooklyn, NY, USA",
+                  "global_code":"87G7JXVR+CV"
+            },
+            "rating":null,
+            "reference":"ChIJ1zh3EGRbwokRwpMFvSCssvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"610 50th Street, Brooklyn",
+            "CBG":360470098003,
+            "Radius":109.6271319645
+      }
+]

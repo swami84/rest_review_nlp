@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8280624,
+                        "lng":-73.9010364
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8294113803,
+                              "lng":-73.8996874197
+                        },
+                        "southwest":{
+                              "lat":40.8267134197,
+                              "lng":-73.9023853803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Suga On The Block Chicken & Waffle",
+            "permanently_closed":true,
+            "place_id":"ChIJ1UGaHE70wokRNKSQf-kwgQ4",
+            "plus_code":{
+                  "compound_code":"R3HX+6H The Bronx, NY, USA",
+                  "global_code":"87G8R3HX+6H"
+            },
+            "rating":3.7,
+            "reference":"ChIJ1UGaHE70wokRNKSQf-kwgQ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"The Bronx",
+            "CBG":360050135003,
+            "Radius":131.5433150063
+      }
+]

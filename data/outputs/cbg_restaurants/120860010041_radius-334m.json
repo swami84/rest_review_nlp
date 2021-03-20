@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.843647,
+                        "lng":-80.2089066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8449941803,
+                              "lng":-80.2076116697
+                        },
+                        "southwest":{
+                              "lat":25.8422962197,
+                              "lng":-80.2103096303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BBQ Shack",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106549544171697218964\">Tre&#39;dereon Vanderguilt<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI6OnC9m-9jMgHY7-8Vm_dTeG_Ts9Ge1G-gF7qwKMMV_GT-dgadu2p_FxBZwIbvKyUyajXg2dwkiOoJ6sR27lS7caJYkWFcRCuLDljPxAC9ZQbgaepHQkg8k3DHAFBc6YRo3zljIAd8yD-TsIAM0cOcIsZhPkXllRkml90xpszL7fe_",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJpezY7imx2YgREPepGoAQ1GA",
+            "plus_code":{
+                  "compound_code":"RQVR+FC Miami, FL, USA",
+                  "global_code":"76QXRQVR+FC"
+            },
+            "rating":4.2,
+            "reference":"ChIJpezY7imx2YgREPepGoAQ1GA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"7503 Northwest 7th Avenue, Miami",
+            "CBG":120860010041,
+            "Radius":334.2526891308
+      }
+]

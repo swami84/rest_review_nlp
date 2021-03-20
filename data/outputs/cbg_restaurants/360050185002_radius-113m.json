@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8288488,
+                        "lng":-73.9034092
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8301977803,
+                              "lng":-73.9020602197
+                        },
+                        "southwest":{
+                              "lat":40.8274998197,
+                              "lng":-73.9047581803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"509 Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100806903821713292816\">509 Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxo7UzK8Ujbrm134-H1Td34YuOnwP-9pfmWZyJmD0e9xfU8OBYCxmzloZ2CUvXzoR64WJAFeHoHfKGr_v4E6TAbBeGUwFCLOkU56kdeG8DBxqOcmCInBAN3tw9dzpub2gFUD8wJQDUk6hb1avl5aRkDBphi5eGrg3ZVKnXqT2OZTA",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJnyHIJ0v0wokRQmlGtUSOTdg",
+            "plus_code":{
+                  "compound_code":"R3HW+GJ New York, NY, USA",
+                  "global_code":"87G8R3HW+GJ"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJnyHIJ0v0wokRQmlGtUSOTdg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"1167 Boston Road, The Bronx",
+            "CBG":360050185002,
+            "Radius":113.2181041911
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8288488,
+                        "lng":-73.9034092
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8301977803,
+                              "lng":-73.9020602197
+                        },
+                        "southwest":{
+                              "lat":40.8274998197,
+                              "lng":-73.9047581803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bronx, NY 10456 | Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJE1aSYE70wokR9LRiaBxZztE",
+            "plus_code":{
+                  "compound_code":"R3HW+GJ The Bronx, NY, USA",
+                  "global_code":"87G8R3HW+GJ"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJE1aSYE70wokR9LRiaBxZztE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"1167 Boston Road, The Bronx",
+            "CBG":360050185002,
+            "Radius":113.2181041911
+      }
+]

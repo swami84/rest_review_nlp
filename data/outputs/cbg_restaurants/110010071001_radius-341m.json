@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8752641,
+                        "lng":-76.9897697
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8766208803,
+                              "lng":-76.9886690197
+                        },
+                        "southwest":{
+                              "lat":38.8739229197,
+                              "lng":-76.9913669803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cedar Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ75XQiMm5t4kRmJ-wZm4oqQo",
+            "plus_code":{
+                  "compound_code":"V2G6+43 Washington, DC, USA",
+                  "global_code":"87C5V2G6+43"
+            },
+            "rating":3.6,
+            "reference":"ChIJ75XQiMm5t4kRmJ-wZm4oqQo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1220 12th Street Southeast # 50, Washington",
+            "CBG":110010071001,
+            "Radius":341.1742626424
+      }
+]

@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0306921,
+                        "lng":-118.4215481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0319747303,
+                              "lng":-118.4202059197
+                        },
+                        "southwest":{
+                              "lat":34.0292767697,
+                              "lng":-118.4229038803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Niko Niko Sushi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115421552074418712897\">N park<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKwelPR4x6HJaJJ8v5dBJ99o7hpVQ5Aab9Q3Uf5rS4Y-WXK030utMBW04IDxEBhW-A1JSmTZbnxeKVrn7751IMqWrdAFyehQJzFzhX6s81aZMA66w-9hHf7tN_0QyfiPfL6fTCXFqYNNLXHeFZOLFd0bLcBu1I4wjjzxO5JdT5jvexe",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3caBxba7woARFeD1REnpcuo",
+            "plus_code":{
+                  "compound_code":"2HJH+79 Los Angeles, CA, USA",
+                  "global_code":"85632HJH+79"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJ3caBxba7woARFeD1REnpcuo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":177,
+            "vicinity":"10839 National Boulevard, Los Angeles",
+            "CBG":60372717011,
+            "Radius":307.4931573736
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0307504,
+                        "lng":-118.4213516
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0319539803,
+                              "lng":-118.4198836197
+                        },
+                        "southwest":{
+                              "lat":34.0292560197,
+                              "lng":-118.4225815803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Winchell's Donut House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109771433077248858796\">Thomas Miller<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ1Tno3Z9M5QQ9qMfnxOHiA062tTeUtGV5hMPYR2LND4ES5NggDKymPPIJfr-45baj5YugrDMqs9e12rX9ZbAaX9734Ux77P2bFuM3FwcTOME6Z49G84tJm1IHKXRI64MjYhPBVoE7eRIV7PrCuNT3jmQv5xSq-a_YEUb6j4FBfwqML",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJa8-9xLa7woARQ-pbsHXDFn0",
+            "plus_code":{
+                  "compound_code":"2HJH+8F Los Angeles, CA, USA",
+                  "global_code":"85632HJH+8F"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJa8-9xLa7woARQ-pbsHXDFn0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":190,
+            "vicinity":"10833 National Boulevard, Los Angeles",
+            "CBG":60372717011,
+            "Radius":307.4931573736
+      }
+]

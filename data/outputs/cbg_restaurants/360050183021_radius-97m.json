@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8276486,
+                        "lng":-73.9202735
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8290306303,
+                              "lng":-73.9190001197
+                        },
+                        "southwest":{
+                              "lat":40.8263326697,
+                              "lng":-73.9216980803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"tonomE Inc... Delicious Dishes",
+            "place_id":"ChIJk-p5pzP0wokReP7qgpB2Y7k",
+            "plus_code":{
+                  "compound_code":"R3HH+3V The Bronx, NY, USA",
+                  "global_code":"87G8R3HH+3V"
+            },
+            "reference":"ChIJk-p5pzP0wokReP7qgpB2Y7k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"930 Sheridan Avenue, The Bronx",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050183021,
+            "Radius":96.9273763738
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.828173,
+                        "lng":-73.920008
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8294685303,
+                              "lng":-73.9186887697
+                        },
+                        "southwest":{
+                              "lat":40.8267705697,
+                              "lng":-73.9213867303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Happy Deli",
+            "place_id":"ChIJEWh7ozP0wokRAjzqLeF9F5Y",
+            "plus_code":{
+                  "compound_code":"R3HH+7X The Bronx, NY, USA",
+                  "global_code":"87G8R3HH+7X"
+            },
+            "reference":"ChIJEWh7ozP0wokRAjzqLeF9F5Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"201 East 163rd Street, The Bronx",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115653886005331047687\">Ali Hadi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJnG3RpaUrMxKM3aexaYFz_Q_FUZcvg_s_1PBaD4Pg2O86RsKTeWTIcq0ZesgHYIEjmvARdo1bi1v4Fl5N2CSNUq2-EwcOcoufXNo0GqOCCoNTbJ1eLlRKaI3Vbe13zYJb9MSkVYSHv7u4kxoNRZVaa0kmIw0fjE7PqlKnph9AILHOd",
+                        "width":3024
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.3,
+            "user_ratings_total":131.0,
+            "CBG":360050183021,
+            "Radius":96.9273763738
+      }
+]

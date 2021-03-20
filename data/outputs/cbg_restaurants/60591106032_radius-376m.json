@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8707732,
+                        "lng":-117.9989377
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8721191303,
+                              "lng":-117.9974145697
+                        },
+                        "southwest":{
+                              "lat":33.8694211697,
+                              "lng":-118.0001125303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Gallo Loco",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108198367501898163401\">Tacos Gallo Loco<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwId5vQjZvcIqJVyuvamrs0Y2KqDSrkDWlgpZenCjdKX6XPbwixZVEAhYHvLpEi7XTj7xNkXeaRQ5UfI5SCZVBu-TtGk6C5XzZRhOmuti_y8ypZvHgQQJEbbjBHNLBkeom6fQrG9WFhrUzdEp1RX7-FxI8jYLe9PiHS0VAPbSv1NvsoW",
+                        "width":539
+                  }
+            ],
+            "place_id":"ChIJvcFt98wr3YARk49Ld284dVk",
+            "plus_code":{
+                  "compound_code":"V2C2+8C Buena Park, CA, USA",
+                  "global_code":"8554V2C2+8C"
+            },
+            "rating":1.0,
+            "reference":"ChIJvcFt98wr3YARk49Ld284dVk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6211 Beach Boulevard, Buena Park",
+            "price_level":null,
+            "CBG":60591106032,
+            "Radius":376.0940407713
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8697566,
+                        "lng":-117.998847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8711578803,
+                              "lng":-117.9975003197
+                        },
+                        "southwest":{
+                              "lat":33.8684599197,
+                              "lng":-118.0001982803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Maggie",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113875732715857904363\">R L<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLjFpqQBcaYxQKdXiFikTW5DhE9ic9_BBJ-3HtSc93o_MLhEoVblaiNC2UttFeX_vEtYKWSVT4E_MR6aEwvQ5hCKr31FM7RI_qR6OfufZN_N60YU26cTHLYBMcWfizAFQpvMqUs9dDZ4rmKYpv7niwGqMCwqUtjouN66Hk9TmXBnUPV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJJcsSsZcr3YARv_VCX3LFWlk",
+            "plus_code":{
+                  "compound_code":"V292+WF Buena Park, CA, USA",
+                  "global_code":"8554V292+WF"
+            },
+            "rating":4.6,
+            "reference":"ChIJJcsSsZcr3YARv_VCX3LFWlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":422,
+            "vicinity":"7711-7703 Commonwealth Avenue, Buena Park",
+            "price_level":1.0,
+            "CBG":60591106032,
+            "Radius":376.0940407713
+      }
+]

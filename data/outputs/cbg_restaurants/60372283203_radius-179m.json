@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.007889,
+                        "lng":-118.2585096
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0090608303,
+                              "lng":-118.2571588697
+                        },
+                        "southwest":{
+                              "lat":34.0063628697,
+                              "lng":-118.2598568303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Puesto De Tacos El Maestro",
+            "place_id":"ChIJNYr72z7JwoARiBDEBfBmYlg",
+            "plus_code":{
+                  "compound_code":"2P5R+5H Los Angeles, CA, USA",
+                  "global_code":"85632P5R+5H"
+            },
+            "reference":"ChIJNYr72z7JwoARiBDEBfBmYlg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Los Angeles",
+            "CBG":60372283203,
+            "Radius":179.3989807166
+      }
+]

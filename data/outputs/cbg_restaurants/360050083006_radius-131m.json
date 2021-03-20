@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8128863,
+                        "lng":-73.9020562
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8141863303,
+                              "lng":-73.9006829697
+                        },
+                        "southwest":{
+                              "lat":40.8114883697,
+                              "lng":-73.9033809303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wilbel Pizza",
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117279763217068995783\">Wilton Jemenez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFsW07yPA2JTZf_9eMyzKlhYNaPqG2aJprT2HqxFt9Fni8QTeEPaaZMFqD6UQRgEsk78OpUV8zQ37jNnxbHwIic3p67NCr9W1_Nqh1jt-cGgoGkHJVJ-e7emfimRem1SZ4YHxQNjdrhWT3yJo7GdWtztqaz2Yr6zGSYZCKa3ifeSxr",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJD26WdLD1wokRQ7dRsGs0L6k",
+            "plus_code":{
+                  "compound_code":"R37X+55 The Bronx, NY, USA",
+                  "global_code":"87G8R37X+55"
+            },
+            "rating":4.4,
+            "reference":"ChIJD26WdLD1wokRQ7dRsGs0L6k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"605 Southern Boulevard, The Bronx",
+            "CBG":360050083006,
+            "Radius":131.0888153716
+      }
+]

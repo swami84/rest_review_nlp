@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9238212,
+                        "lng":-87.754121
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9253092303,
+                              "lng":-87.7527759697
+                        },
+                        "southwest":{
+                              "lat":41.9226112697,
+                              "lng":-87.7554739303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mama Luna's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107231931924538860660\">Mama Luna&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKU37yQpYLL85b8EcK_l1LKsOgPoH5X_kOmsBRruING08BV9ej7q-YvucYFZqi7epyn1xgtlZpF3Crawlu1z0g04qLM1JEqYsY14NqGouCkLpsPd0DqBeDGGxgqNwTaaCxHC6qMK0gA__bO4-jlaE7l6uiB71UFPgajsn1_yFNhb9NE",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJM7yp9ezMD4gREu0FWrOumwI",
+            "plus_code":{
+                  "compound_code":"W6FW+G9 Chicago, IL, USA",
+                  "global_code":"86HJW6FW+G9"
+            },
+            "price_level":2.0,
+            "rating":3.4,
+            "reference":"ChIJM7yp9ezMD4gREu0FWrOumwI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":851,
+            "vicinity":"5109 West Fullerton Avenue, Chicago",
+            "CBG":170311911005,
+            "Radius":256.5822328416
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9238386,
+                        "lng":-87.754121
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9253179303,
+                              "lng":-87.7527757197
+                        },
+                        "southwest":{
+                              "lat":41.9226199697,
+                              "lng":-87.7554736803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"3 D's",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ69fnX-zMD4gRbD9G41RoUd4",
+            "plus_code":{
+                  "compound_code":"W6FW+G9 Chicago, IL, USA",
+                  "global_code":"86HJW6FW+G9"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ69fnX-zMD4gRbD9G41RoUd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"5109 West Fullerton Avenue, Chicago",
+            "CBG":170311911005,
+            "Radius":256.5822328416
+      }
+]

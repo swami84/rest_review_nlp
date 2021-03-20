@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8470876,
+                        "lng":-87.6167516
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8483681803,
+                              "lng":-87.6155917197
+                        },
+                        "southwest":{
+                              "lat":41.8456702197,
+                              "lng":-87.6182896803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100060247553377285807\">Leah Ellington<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKQM8c4w--PTj87jQJBuuzn65XpCoXtCvp88zwwmeRvQvZ4BHgE7THvaH-_W8OP71Of3EDa2-Nmiy_jyO6rB4JBYDORzedu3Ga8qUdA9rgMUExOruCeYQ-CId7N-TKcNt00j0SOenG0oKMg9l_zKbF-uCRtn9y1jJHdtsnVs6gH1xcJ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJa5YQhF0sDogRJ-64ouG0Pyk",
+            "plus_code":{
+                  "compound_code":"R9WM+R7 Chicago, IL, USA",
+                  "global_code":"86HJR9WM+R7"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJa5YQhF0sDogRJ-64ouG0Pyk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1887,
+            "vicinity":"2525 South Doctor Martin Luther King Junior Drive, Chicago",
+            "CBG":170318410001,
+            "Radius":579.7851645174
+      }
+]

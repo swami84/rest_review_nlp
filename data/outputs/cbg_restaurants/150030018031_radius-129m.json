@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.2764839,
+                        "lng":-157.8224218
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.2778807303,
+                              "lng":-157.8210143197
+                        },
+                        "southwest":{
+                              "lat":21.2751827697,
+                              "lng":-157.8237122803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hula Dogs",
+            "place_id":"ChIJz5htbhFzAHwRcpwYyRQGR2s",
+            "plus_code":{
+                  "compound_code":"75GH+H2 Honolulu, HI, USA",
+                  "global_code":"73H475GH+H2"
+            },
+            "reference":"ChIJz5htbhFzAHwRcpwYyRQGR2s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2457 Cleghorn Street, Honolulu",
+            "CBG":150030018031,
+            "Radius":128.8527984304
+      }
+]

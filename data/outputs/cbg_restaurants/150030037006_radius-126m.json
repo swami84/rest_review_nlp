@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.2938368,
+                        "lng":-157.8481964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.2952393803,
+                              "lng":-157.8468256197
+                        },
+                        "southwest":{
+                              "lat":21.2925414197,
+                              "lng":-157.8495235803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chun Wah Kam Noodle Factory",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115907180328677326191\">Mae Fukushima<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJvr9EK8fh6wErGjAhupXv41Xpw_SXhdifnaX-yalfhOS7wqvhbprjSSksBAhpBDq7yJxk4NXT95y95qfvFG9q2gfXjEdEbnTLHp7OiCKNzrEzaxyLSSrGWE3h281_akJWM880J6BPYel0TxMUrkw9ei6H29JQfgdYC18FVKTjh1IQH",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ51yt1ORtAHwRU9QPrB35ewo",
+            "plus_code":{
+                  "compound_code":"75V2+GP Honolulu, HI, USA",
+                  "global_code":"73H475V2+GP"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ51yt1ORtAHwRU9QPrB35ewo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":520,
+            "vicinity":"537 Pensacola Street, Honolulu",
+            "CBG":150030037006,
+            "Radius":125.940713507
+      }
+]

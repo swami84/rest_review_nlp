@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8404114,
+                        "lng":-73.8664148
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8418259303,
+                              "lng":-73.8651225697
+                        },
+                        "southwest":{
+                              "lat":40.8391279697,
+                              "lng":-73.8678205303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"NEW HONG KONG KITCHEN",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":8064,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112741913406119765523\">Toni-Ann Henry<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL4AmypZg1aA_MOoR3vAQMRpimNReM4bhQycfhinR7Xv705oQkXeKG0WdBfQV2cEdihOAaqc03SlPcH5ILOVNh3CCgbtX60AfOeOIyWTqnWx2hBBd7MFyxlaNoqd8XGg0Mv6oIJKROsYiz76Fye-DHz16g51Ia6fvXapO_Cwexa50t_",
+                        "width":6048
+                  }
+            ],
+            "place_id":"ChIJ8d19kZX0wokRPdKLOPxuf64",
+            "plus_code":{
+                  "compound_code":"R4RM+5C New York, NY, USA",
+                  "global_code":"87G8R4RM+5C"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ8d19kZX0wokRPdKLOPxuf64",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"1838 East Tremont Avenue, The Bronx",
+            "CBG":360050216013,
+            "Radius":57.79020095
+      }
+]

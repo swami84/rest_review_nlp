@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9411947,
+                        "lng":-77.025533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9425830803,
+                              "lng":-77.0240977197
+                        },
+                        "southwest":{
+                              "lat":38.9398851197,
+                              "lng":-77.0267956803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pupuseria Miraflores",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2880,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115139422908448171869\">Sandra Cabrera<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJg8esiYtIjMcc-BbRIxmZulC44X610UcVBsC-4d7fBayDG0oddiRvC8fDzVUakQx6lI_mEVJpHgI5Rt9bLXSXXrW1NseFa-9RP_jSo3aPOPfDHuMdO8_Six5PqRYySu9nBRQXB1-yeBS5G6B56_0QogKEl1SIRlJi_PsL3C8NESChD",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJ37UP-fLJt4kRRNuVnOw68AY",
+            "plus_code":{
+                  "compound_code":"WXRF+FQ Washington, DC, USA",
+                  "global_code":"87C4WXRF+FQ"
+            },
+            "rating":4.8,
+            "reference":"ChIJ37UP-fLJt4kRRNuVnOw68AY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"4128 Georgia Avenue Northwest, Washington",
+            "CBG":110010025021,
+            "Radius":212.0842601346
+      }
+]

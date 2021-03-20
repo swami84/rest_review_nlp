@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8292953,
+                        "lng":-73.853437
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8306351803,
+                              "lng":-73.8521571197
+                        },
+                        "southwest":{
+                              "lat":40.8279372197,
+                              "lng":-73.8548550803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Rosario Brothers Deli Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111690647433594288468\">Rosario Brothers Deli Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ8DGslbZvRiDtbeLeHgeI8gXN6jJbsoORl9SCnMqlSo06-qtVEKKlfo1qQ8IyD6-1DmDtCQTS0WtcFVtxWGZi4I2IHLy9jsKP7RYLmKqxRHKuqptSacFzhfwEjuBnqG5vumM7LVqEhHKODtI0q4YbXfZbrcQd1tGrkgM9yNzWeW-Iw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVybbX8_0wokR7b-lOK8lR9s",
+            "plus_code":{
+                  "compound_code":"R4HW+PJ New York, NY, USA",
+                  "global_code":"87G8R4HW+PJ"
+            },
+            "rating":4.3,
+            "reference":"ChIJVybbX8_0wokR7b-lOK8lR9s",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"1082 Olmstead Avenue, The Bronx",
+            "CBG":360050078001,
+            "Radius":178.1651390702
+      }
+]

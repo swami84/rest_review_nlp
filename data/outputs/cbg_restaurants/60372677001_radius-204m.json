@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0437767,
+                        "lng":-118.4462763
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0451603803,
+                              "lng":-118.4448684197
+                        },
+                        "southwest":{
+                              "lat":34.0424624197,
+                              "lng":-118.4475663803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bar Hayama",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106719009182678673812\">Bar Hayama<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJzG9pKqQjfOg5VIVAiOLzJDRKFvWUP7aIqv26S-1eX-1msyDxgnCocwUT5DyWF8Nwm3FEdV5kcMbINTeQKdc2Dm1RHgkkUAT5OUwu4huj7U9C2VQTmllejdw5EGXho5ibNsQrlkC2Jq-gEYmnEtUmbUXyA4c_hv6mvUAnrKTnGlc6e",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVcIiT3G7woARNsNlcyqw1ic",
+            "plus_code":{
+                  "compound_code":"2HV3+GF Los Angeles, CA, USA",
+                  "global_code":"85632HV3+GF"
+            },
+            "price_level":3.0,
+            "rating":4.4,
+            "reference":"ChIJVcIiT3G7woARNsNlcyqw1ic",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":171,
+            "vicinity":"1803 Sawtelle Boulevard, Los Angeles",
+            "CBG":60372677001,
+            "Radius":204.1602467578
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0426266,
+                        "lng":-118.4452787
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0440081303,
+                              "lng":-118.4438717697
+                        },
+                        "southwest":{
+                              "lat":34.0413101697,
+                              "lng":-118.4465697303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"LA Prime Caffe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115718827636314013902\">LA Prime Caffe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLRcxnuOBphGxEHdvDI4IRNH_9xlqjPOobnctFFkLLuAy2ZJCcIonoNmbfx5bb67aq_f7_FqdLEFFNz00CKCzFjuQFyXH-dJX-L701cA7oxaWVRgDbaxHgISdHqJCf3AcUmERbMkzYaDs5ScYMOGs4vPpoVVMw_kIXH1D0VyO45PEvR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK_uqVOC7woARDtQW5bs4Bak",
+            "plus_code":{
+                  "compound_code":"2HV3+3V Los Angeles, CA, USA",
+                  "global_code":"85632HV3+3V"
+            },
+            "price_level":null,
+            "rating":4.7,
+            "reference":"ChIJK_uqVOC7woARDtQW5bs4Bak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"1849 Sawtelle Boulevard, Los Angeles",
+            "CBG":60372677001,
+            "Radius":204.1602467578
+      }
+]

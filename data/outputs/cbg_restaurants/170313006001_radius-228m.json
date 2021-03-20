@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8478893,
+                        "lng":-87.7182294
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8492345303,
+                              "lng":-87.7170356697
+                        },
+                        "southwest":{
+                              "lat":41.8465365697,
+                              "lng":-87.7197336303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lu Lu's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJp_EqSV0yDogRRj53pY0ug30",
+            "plus_code":{
+                  "compound_code":"R7XJ+5P Chicago, IL, USA",
+                  "global_code":"86HJR7XJ+5P"
+            },
+            "rating":3.8,
+            "reference":"ChIJp_EqSV0yDogRRj53pY0ug30",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"2401 South Ridgeway Avenue, Chicago",
+            "CBG":170313006001,
+            "Radius":227.9688980924
+      }
+]

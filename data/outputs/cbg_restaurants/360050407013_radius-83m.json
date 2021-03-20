@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8710981,
+                        "lng":-73.8902928
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8723402303,
+                              "lng":-73.8888364197
+                        },
+                        "southwest":{
+                              "lat":40.8696422697,
+                              "lng":-73.8915343803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cocoro\u2019s Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1071,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117851395903500041359\">Cocoro\u2019s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKdvN4AZFjGTBZZMAJ0US1I6POu-Mi1LYPxm5npbeOMB46RjDPwM7N4TJa-Avv33t4aju-w3FwcFMrUjOQBd-9hfpsnmQvK9tM-v9QeZgxsC-5qVkTkVgC81CuZc5fnWW9WM-7VLbneHYWMqzpKs_UMr-jnRATt8o537fRbqe0Id6az",
+                        "width":1125
+                  }
+            ],
+            "place_id":"ChIJl_xVar_zwokRe6_2Dl2aIPc",
+            "plus_code":{
+                  "compound_code":"V4C5+CV New York, NY, USA",
+                  "global_code":"87G8V4C5+CV"
+            },
+            "reference":"ChIJl_xVar_zwokRe6_2Dl2aIPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2877 Grand Concourse, The Bronx",
+            "CBG":360050407013,
+            "Radius":83.4809957302
+      }
+]

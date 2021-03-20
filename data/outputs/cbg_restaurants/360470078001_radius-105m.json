@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.64699,
+                        "lng":-74.0116532
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6483888303,
+                              "lng":-74.0103873697
+                        },
+                        "southwest":{
+                              "lat":40.6456908697,
+                              "lng":-74.0130853303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pariscien Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115507590210961975443\">james j<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLm0hlfUIesXXeL6Y-tLccxDcslxaadiWzL8KW5JUYfnyIZdEJrSfPFeUJZ-_qz3rGs5zp8EpYDDyDJNHNkA4zB0Oh4czlB2PWa1ax11Xd_RKqtRdSlrlo7hbyzRgDihxhFjcKtEYSgh08HUW4mxpWc43tCZ90cE8LiGBnGJXOQQd6K",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJv7lMz7ZawokRgjDN2kQfrko",
+            "plus_code":{
+                  "compound_code":"JXWQ+Q8 New York, NY, USA",
+                  "global_code":"87G7JXWQ+Q8"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJv7lMz7ZawokRgjDN2kQfrko",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":285,
+            "vicinity":"4823 4th Avenue, Brooklyn",
+            "CBG":360470078001,
+            "Radius":104.5700699056
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.647798,
+                        "lng":-74.011578
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6491469803,
+                              "lng":-74.0102290197
+                        },
+                        "southwest":{
+                              "lat":40.6464490197,
+                              "lng":-74.0129269803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New King Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJBafE--s1W3k53dO-raAh1D0-p9ZbikpFKM_N3SyF2_aV7JGYMfysnCkmWEazUOwdfDLnaF4DFobIWAQQTIXI6Pfr-GCM1LcjX0sSHQ5309k7_INq504oTbEhqnd6erfFVYAoLOfYabnHdkvbqS2OuRsL6ocushvz8Xi2x5HbD9hxg",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJjbA-2LZawokRRgDHBFMpvLM",
+            "plus_code":{
+                  "compound_code":"JXXQ+49 New York, NY, USA",
+                  "global_code":"87G7JXXQ+49"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJjbA-2LZawokRRgDHBFMpvLM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"4724 4th Avenue, Brooklyn",
+            "CBG":360470078001,
+            "Radius":104.5700699056
+      }
+]

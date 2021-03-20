@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8345737,
+                        "lng":-73.9286361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8358992803,
+                              "lng":-73.9272147697
+                        },
+                        "southwest":{
+                              "lat":40.8332013197,
+                              "lng":-73.9299127303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken & Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104893772829775665546\">Bree Daella<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwInmemxcE_dgGUb52xfNbG0_Rx3pJ5rUVZzx5gT0aMLZ_RM8VhSoyE5PhA-WXnYbT3Emv1vYv5gBheZGVMp0Y-wdvmoc2QOeHUzbI4HwDqqquYtWn8jbMrACGOJnVeei0ade5dwvUslrH2mnNKMYguZ8oYHWIJiVJdQ3cl66Ei5DDLP",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJs6u4Fy_0wokRNbZFADf9qN0",
+            "plus_code":{
+                  "compound_code":"R3MC+RG The Bronx, NY, USA",
+                  "global_code":"87G8R3MC+RG"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJs6u4Fy_0wokRNbZFADf9qN0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"1051 Ogden Avenue, The Bronx",
+            "CBG":360050193004,
+            "Radius":118.6435829989
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.835839,
+                        "lng":-73.9275251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8372249303,
+                              "lng":-73.9262781697
+                        },
+                        "southwest":{
+                              "lat":40.8345269697,
+                              "lng":-73.9289761303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Fine Fare Supermarket Highbridge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":856,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114203876703221543591\">Fine Fare Supermarket Highbridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL1TwYQ44ixUNKcjCjQrAp6WP2nl3uIp4RMHNvutngWMts4OWH7Y3JimehTV-0IMsbb93I4JxPwb_S70pXeP--sRUhEEluE1a1dtva93BDDULqRxCCZaCAIb27swX1gA5BJYDq1pb1UCwgNvRdhQ4K5Y9MFdB9KMKKZpiuvYSGsQGWy",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJVckyhyX0wokRF2iC8f1SNdc",
+            "plus_code":{
+                  "compound_code":"R3PC+8X New York, NY, USA",
+                  "global_code":"87G8R3PC+8X"
+            },
+            "price_level":null,
+            "rating":3.6,
+            "reference":"ChIJVckyhyX0wokRF2iC8f1SNdc",
+            "scope":"GOOGLE",
+            "types":[
+                  "supermarket",
+                  "grocery_or_supermarket",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"1136 Ogden Avenue, The Bronx",
+            "CBG":360050193004,
+            "Radius":118.6435829989
+      }
+]

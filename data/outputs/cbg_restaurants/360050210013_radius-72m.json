@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8420371,
+                        "lng":-73.8558323
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8434376303,
+                              "lng":-73.8544934197
+                        },
+                        "southwest":{
+                              "lat":40.8407396697,
+                              "lng":-73.8571913803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jimmy's Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJGe2dSLr0wokRz-a9qYQfIdk",
+            "plus_code":{
+                  "compound_code":"R4RV+RM The Bronx, NY, USA",
+                  "global_code":"87G8R4RV+RM"
+            },
+            "rating":4.1,
+            "reference":"ChIJGe2dSLr0wokRz-a9qYQfIdk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"2254 East Tremont Avenue, The Bronx",
+            "CBG":360050210013,
+            "Radius":72.2911592891
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8936371,
+                        "lng":-87.6164321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8948999303,
+                              "lng":-87.6150804197
+                        },
+                        "southwest":{
+                              "lat":41.8922019697,
+                              "lng":-87.6177783803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"ServedIN Kitchen @ Axis",
+            "place_id":"ChIJuwkFTXYrDogR5ziBwEpH85s",
+            "plus_code":{
+                  "compound_code":"V9VM+FC Chicago, IL, USA",
+                  "global_code":"86HJV9VM+FC"
+            },
+            "rating":5,
+            "reference":"ChIJuwkFTXYrDogR5ziBwEpH85s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"446 East Ontario Street, Chicago",
+            "CBG":170310814022,
+            "Radius":88.4411037538
+      }
+]

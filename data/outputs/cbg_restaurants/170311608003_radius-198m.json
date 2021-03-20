@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9489202,
+                        "lng":-87.7124972
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9503242803,
+                              "lng":-87.7112005197
+                        },
+                        "southwest":{
+                              "lat":41.9476263197,
+                              "lng":-87.7138984803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burrito House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104261694246321419907\">Thomas The gAzelle<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKnwJ3_KG3VFg86ydI0WqHyszWFGOkUn_E5V_yr4lqc9xjh0jyv5sp7hF5E4Oh9gBLtY0xq7CfCEM5CbaM9r9hSynBqeskNxwCuBFufvpjZBgkqB1KfqmAXe7lz1CoJW0ev2Aj8DtKdIob5CT0MM3ia0sJk-H5-UTqmzFQrgUZWwgel",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ85in1ZDND4gRHi6oShzxLZ0",
+            "plus_code":{
+                  "compound_code":"W7XQ+H2 Chicago, IL, USA",
+                  "global_code":"86HJW7XQ+H2"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ85in1ZDND4gRHi6oShzxLZ0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":657,
+            "vicinity":"3718 North Elston Avenue, Chicago",
+            "CBG":170311608003,
+            "Radius":198.2739120087
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9466917,
+                        "lng":-87.7149139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9479648803,
+                              "lng":-87.7135642197
+                        },
+                        "southwest":{
+                              "lat":41.9452669197,
+                              "lng":-87.7162621803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mirabella Italian Cuisine & Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116286363768610094843\">Mirabella Italian Cuisine &amp; Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZodQcDyQkmmvyOtWX5gaP_wstfWuE9afGh3rfNIKTFP4fmhFwLbzr1qVWS4xFvQcqThSPGm47lilgGHZvMiGg2X8m2gdVMfyjqAUlN0WqKyUT_EiwaPaEMes7oRKU55Vvwyx9VDeoOjOv2hnFloz9iw2D90_sHOWs_fgJI1scfY_e",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJf0tYgJfND4gRpZr00lVb1qI",
+            "plus_code":{
+                  "compound_code":"W7WP+M2 Chicago, IL, USA",
+                  "global_code":"86HJW7WP+M2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJf0tYgJfND4gRpZr00lVb1qI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":301,
+            "vicinity":"3454 West Addison Street, Chicago",
+            "CBG":170311608003,
+            "Radius":198.2739120087
+      }
+]

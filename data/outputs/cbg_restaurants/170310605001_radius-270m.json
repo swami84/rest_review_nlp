@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.951191,
+                        "lng":-87.65986
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9525191803,
+                              "lng":-87.6584317197
+                        },
+                        "southwest":{
+                              "lat":41.9498212197,
+                              "lng":-87.6611296803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Uncommon Ground - Lakeview",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102223173294440833091\">Uncommon Ground - Lakeview<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcpRoPEckGk3KurGTu3SCDjwD25lCLHgQUMj78cv9I14j7ZCrat99_6YDkI5s3FXXowjdebJF_IcwphhC5nH_lcWGcuLXehvrJ7U-ihb7OAlzbKJhj0xujddE8ppbrvwjWvsqdURaCoEBw0j7PkCAfTA7317O0tayBuMaIY-8hkAZB",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJMbuzb0vSD4gR9V5RRimiri4",
+            "plus_code":{
+                  "compound_code":"X82R+F3 Chicago, IL, USA",
+                  "global_code":"86HJX82R+F3"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJMbuzb0vSD4gR9V5RRimiri4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":382,
+            "vicinity":"3800 North Clark Street, Chicago",
+            "CBG":170310605001,
+            "Radius":269.5627925511
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9540009,
+                        "lng":-87.6631455
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9553407803,
+                              "lng":-87.6618866197
+                        },
+                        "southwest":{
+                              "lat":41.9526428197,
+                              "lng":-87.6645845803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101492787084424790378\">Yum Yum<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLG0zfogZe199DqTsnSy0X2AMs2yRI2_-ImfzWTT4omt2K_2ZRy6yjr4Qc5tNs8siesL0QykNiCtREtv2SH-zHrXYEcbW8lIJd0FgA8dHGEQqwmbczNfYn2FNMnRGM9PKcwkYwUf6iqUoG7l3QN7Uicg9cd74q-ubijKMN28Ld_kWxx",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJpYaNIErSD4gRX1EP9f7hjrc",
+            "plus_code":{
+                  "compound_code":"X83P+JP Chicago, IL, USA",
+                  "global_code":"86HJX83P+JP"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJpYaNIErSD4gRX1EP9f7hjrc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":799,
+            "vicinity":"1323 West Irving Park Road, Chicago",
+            "CBG":170310605001,
+            "Radius":269.5627925511
+      }
+]

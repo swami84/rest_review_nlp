@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8474849,
+                        "lng":-73.9084444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8487425803,
+                              "lng":-73.9071437697
+                        },
+                        "southwest":{
+                              "lat":40.8460446197,
+                              "lng":-73.9098417303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116531646603094890795\">Roger B. Mason<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJb8ddtgw5mlSLBYbKNJOSLrmgr_Hbdk2dOIbZ_ma2QVIl9mkn1EwzMpOTr62hm8PittZS6QH6ZAmOyGe5J-FVkb13QIVDhC3trfxcdQHjGjQp_ySrPLQGtWtkLFMmz4Ax1Juj3caY4Ylvrf6Wtpy2_7g2DiFM3Al54QhNmpvl368",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ_8n6kWv0wokRnWgyfbDkFw4",
+            "plus_code":{
+                  "compound_code":"R3WR+XJ The Bronx, NY, USA",
+                  "global_code":"87G8R3WR+XJ"
+            },
+            "price_level":1.0,
+            "rating":3.6,
+            "reference":"ChIJ_8n6kWv0wokRnWgyfbDkFw4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":132,
+            "vicinity":"1815 Grand Concourse, The Bronx",
+            "CBG":360050227012,
+            "Radius":95.2745665133
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8479281,
+                        "lng":-73.9089308
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8493587303,
+                              "lng":-73.9075534197
+                        },
+                        "southwest":{
+                              "lat":40.8466607697,
+                              "lng":-73.9102513803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pao's Juice Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115615428148942322558\">Pao&#39;s Juice Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUguC7Tg8ADsYjVZARtx0qzOvg-_T3W5vM65PYjnZoLkJHWVMTkewYim05PRshGd-ywMQ14ET2kMI2PFUdxxC7-4BBTMdoBp37L1BEMXqnmMP9OX9_PeOYw2iLsDdGeFzVpoVwdN2lN7FFaFB9JrB1TzEzpQ1rrljOkkHY--Gw2Hpk",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJk4F1XU_1wokRgZvzDIkI50I",
+            "plus_code":{
+                  "compound_code":"R3XR+5C The Bronx, NY, USA",
+                  "global_code":"87G8R3XR+5C"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJk4F1XU_1wokRgZvzDIkI50I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"124 East 176th Street, The Bronx",
+            "CBG":360050227012,
+            "Radius":95.2745665133
+      }
+]

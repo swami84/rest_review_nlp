@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7632472,
+                        "lng":-117.1248278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7645518803,
+                              "lng":-117.1235572697
+                        },
+                        "southwest":{
+                              "lat":32.7618539197,
+                              "lng":-117.1262552303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Zarape Mexican Cantina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116435463100477792396\">El Zarape Mexican Cantina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1lXhl4Zbj3s3ZRR1XoxqLLJfAC23uxYts0cKFtatmsesfxUZprbGXIAocU47m7U0ydelOG2WA5jnQS4mOLMyR_UQNvpo84mt2XlzIcLUrq2uU7CKsp6z5Fm9xMYvRehJ3BzQRKmPBYVba-4Q5yf9r_KG9T8lViv54pEF4G39Jxyng",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJpZegP19U2YARWFAGOD3_DoY",
+            "plus_code":{
+                  "compound_code":"QV7G+73 San Diego, CA, USA",
+                  "global_code":"8544QV7G+73"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJpZegP19U2YARWFAGOD3_DoY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":582,
+            "vicinity":"3201 Adams Avenue, San Diego",
+            "CBG":60730018004,
+            "Radius":185.2570428576
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7636111,
+                        "lng":-117.1247222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7648485303,
+                              "lng":-117.1235004697
+                        },
+                        "southwest":{
+                              "lat":32.7621505697,
+                              "lng":-117.1261984303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mauricio's #1 Mexican food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115344227914124175826\">Matthew Egan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKVjdP2GFh0ck6xa8SAkvedezh1rAjNefoEcLOddikecvAwi8lMcbz9ZDrsGpmn9B1bLqXyim2BS5srMZQvXMn4Y7i0lI6vlwxR-e4qPhoQjLkAwBQPf8vBjG5zgvSp5vTNw763DCmQNeYK1EO8mGLUflzyE4NMaOtcv1afobh6Xk_h",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJaft_FlVU2YARMW5PfWJKoIc",
+            "plus_code":{
+                  "compound_code":"QV7G+C4 San Diego, CA, USA",
+                  "global_code":"8544QV7G+C4"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJaft_FlVU2YARMW5PfWJKoIc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":436,
+            "vicinity":"3200 Adams Avenue #102, San Diego",
+            "CBG":60730018004,
+            "Radius":185.2570428576
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8902778,
+                        "lng":-73.8594444
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8915796803,
+                              "lng":-73.8579496197
+                        },
+                        "southwest":{
+                              "lat":40.8888817197,
+                              "lng":-73.8606475803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BX Uptown Caribbean Taste",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110609199366272924396\">Cindi Marvelous<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLeqqZTZdggFY5fh7XWuJ5qBS5LBZbxZVs0e8pCBaQZlRmO1x3Rrlc_76WndanckhLmxLNvTaQg3nFbFhkepuTUq2D_TY09E-kt4FIgVSWkJDb8396G_To-vZt2gEX92SHJKKMtRXpI98ndd7TriVaOXKq6fyf210RSpAj1UDYuLZdb",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJIzZ_ASTzwokRDunY_FqVqeE",
+            "plus_code":{
+                  "compound_code":"V4RR+46 New York, NY, USA",
+                  "global_code":"87G8V4RR+46"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJIzZ_ASTzwokRDunY_FqVqeE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":329,
+            "vicinity":"4061 White Plains Road, The Bronx",
+            "CBG":360050408002,
+            "Radius":109.7403127109
+      }
+]

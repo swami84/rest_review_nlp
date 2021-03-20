@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6148982,
+                        "lng":-74.0134306
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6161771803,
+                              "lng":-74.0119645197
+                        },
+                        "southwest":{
+                              "lat":40.6134792197,
+                              "lng":-74.0146624803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mia Zia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2049,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107985473542167365468\">Susan Torrone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLN-UnWj9YJLKTisj3FyK68qyyvc1j0sWJDsJUIiQ7zcv1nVizCp70EFGW1iiiYPKSs1a6aWAwaqIVTBlAk9aJ2AUiCZPHd_GdQibxYNiM5F_bNSz2-6ZranUu3aUWBbhhQgfKUDoEJ3WJnrx9O2Yq3VHl9AeEKztAjtg9hmw0MUwWa",
+                        "width":3949
+                  }
+            ],
+            "place_id":"ChIJoWXV7axFwokReHqMCn8z2tg",
+            "plus_code":{
+                  "compound_code":"JX7P+XJ New York, NY, USA",
+                  "global_code":"87G7JX7P+XJ"
+            },
+            "rating":4.4,
+            "reference":"ChIJoWXV7axFwokReHqMCn8z2tg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"8424 13th Avenue, Brooklyn",
+            "CBG":360470148002,
+            "Radius":156.4749067591
+      }
+]

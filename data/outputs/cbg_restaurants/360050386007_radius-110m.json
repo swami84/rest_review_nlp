@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8762374,
+                        "lng":-73.8495765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8774831803,
+                              "lng":-73.8481700697
+                        },
+                        "southwest":{
+                              "lat":40.8747852197,
+                              "lng":-73.8508680303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China Wok",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109796620599060288582\">Zyro Fn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIn2iSEGYJunVCNVdk07t1r5FQQCt6XOcTG_GIzpyhvZkhH1Y2UngUrZ2ia1r5rFV7fV14bmo7olZKNO_FJEzYjq1iUdu91PvOK9X3C1ePucSGXZ_O53mrHmYKrXvrPwxCejn5SaEB7e70ESzVD7rjSqYyvVCwdrvQYkvgEO8pmxRI0",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJdcMqQzbzwokRTPctfLCPq5M",
+            "plus_code":{
+                  "compound_code":"V5G2+F5 The Bronx, NY, USA",
+                  "global_code":"87G8V5G2+F5"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJdcMqQzbzwokRTPctfLCPq5M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"3431 Boston Road #2507, The Bronx",
+            "CBG":360050386007,
+            "Radius":109.9793497212
+      }
+]

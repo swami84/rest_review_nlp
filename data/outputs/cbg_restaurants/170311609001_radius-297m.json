@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.952221,
+                        "lng":-87.7173578
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9536354303,
+                              "lng":-87.7159269197
+                        },
+                        "southwest":{
+                              "lat":41.9509374697,
+                              "lng":-87.7186248803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Thai Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114834160163235690209\">Boom Ski<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKblVUGnvV4hPW4c8DpET_0PyQeUc0eAMIiB97iw6BOLVu1cnsdmGiUd_gA8x9jdeEI-tX3PzU8FT5Bu3ZR7QgcoQtX9J5TN3umRtE4_reEUIUsKEf1sK0FDGdb7R3GYDzWRe3lzGc1yrN-gYlpzYPWBpNEj3yDmLVgtTb0wTsKpCs-",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJs-svA77ND4gR4RfsjPlIVI4",
+            "plus_code":{
+                  "compound_code":"X72M+V3 Chicago, IL, USA",
+                  "global_code":"86HJX72M+V3"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJs-svA77ND4gR4RfsjPlIVI4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":151.0,
+            "vicinity":"3922 North Elston Avenue, Chicago",
+            "CBG":170311609001,
+            "Radius":297.3905321906
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9530461,
+                        "lng":-87.7185098
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9544531303,
+                              "lng":-87.7170882697
+                        },
+                        "southwest":{
+                              "lat":41.9517551697,
+                              "lng":-87.7197862303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Massage Therapist in Chicago, IL | Dragon Healthy Spa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJrYicQL7ND4gRjv1WlfzleqQ",
+            "plus_code":{
+                  "compound_code":"X73J+6H Chicago, IL, USA",
+                  "global_code":"86HJX73J+6H"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJrYicQL7ND4gRjv1WlfzleqQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"3962 North Elston Avenue, Chicago",
+            "CBG":170311609001,
+            "Radius":297.3905321906
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6960415,
+                        "lng":-73.9913797
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6971992803,
+                              "lng":-73.9898735697
+                        },
+                        "southwest":{
+                              "lat":40.6945013197,
+                              "lng":-73.9925715303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Biga",
+            "place_id":"ChIJNX7s33BbwokR90IMFnHqmok",
+            "plus_code":{
+                  "compound_code":"M2W5+CC Brooklyn, NY, USA",
+                  "global_code":"87G8M2W5+CC"
+            },
+            "rating":5,
+            "reference":"ChIJNX7s33BbwokR90IMFnHqmok",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1 Clinton Street, Brooklyn",
+            "CBG":360470005021,
+            "Radius":129.665447164
+      }
+]

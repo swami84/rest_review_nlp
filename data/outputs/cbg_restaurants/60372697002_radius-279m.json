@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.035345,
+                        "lng":-118.389399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0366759803,
+                              "lng":-118.3879596697
+                        },
+                        "southwest":{
+                              "lat":34.0339780197,
+                              "lng":-118.3906576303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dolce Isola - The Ivy Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110074943227504122850\">Jory<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKpcOH3csI8zrbn6glRtRxpWr8qOwQ20w2aCWKRHAc-Zc5q2ShBm-63To2O_o9ai-nQHWZZxMcThoy3mLKU6lj1CPgBgxh5p7zFKXyyPwIF_2jKcEh9c5Zhwn4g2kEu6UBoCRRTQWEqCaNPAuqoe-RprRO7EkhuJvDvMmeB42fX36-j",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJnYul8n65woARPfqq2apPHfs",
+            "plus_code":{
+                  "compound_code":"2JP6+46 Los Angeles, CA, USA",
+                  "global_code":"85632JP6+46"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJnYul8n65woARPfqq2apPHfs",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"2869 South Robertson Boulevard, Los Angeles",
+            "CBG":60372697002,
+            "Radius":279.2829619228
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0324082,
+                        "lng":-118.3893814
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0336909303,
+                              "lng":-118.3884841197
+                        },
+                        "southwest":{
+                              "lat":34.0309929697,
+                              "lng":-118.3911820803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Court Deli",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJqzk1cX-5woARP97tmOR0nuQ",
+            "plus_code":{
+                  "compound_code":"2JJ6+X6 Los Angeles, CA, USA",
+                  "global_code":"85632JJ6+X6"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJqzk1cX-5woARP97tmOR0nuQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3000 South Robertson Boulevard, Los Angeles",
+            "CBG":60372697002,
+            "Radius":279.2829619228
+      }
+]

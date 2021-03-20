@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6435623,
+                        "lng":-74.011625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6449695803,
+                              "lng":-74.0103707697
+                        },
+                        "southwest":{
+                              "lat":40.6422716197,
+                              "lng":-74.0130687303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Royal Kings Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":447,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106813448772729459146\">Royal Kings Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKNLCtxLI2F0oh3iKD_3j58eZqwG1Iik996BGIqKHATMyMnFzejiQcoZJDe_QPADoMr5z1QxR2h3Lfjn_ZM_setXlcwKVGGK6v--gIUmNjYRcuO_cSOlpEvjo1zyd4c2M6CbfWH0S80Q4rTq3sAK1A1PIBeR1Iv4f7e0o_Os_UYwAE1",
+                        "width":673
+                  }
+            ],
+            "place_id":"ChIJKbAdcLRawokRgx3kX6-QyMs",
+            "plus_code":{
+                  "compound_code":"JXVQ+C8 New York, NY, USA",
+                  "global_code":"87G7JXVQ+C8"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJKbAdcLRawokRgx3kX6-QyMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":275,
+            "vicinity":"5211 5th Avenue #1, Brooklyn",
+            "CBG":360470100004,
+            "Radius":109.609709169
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6433707,
+                        "lng":-74.0117819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6447852303,
+                              "lng":-74.0105418197
+                        },
+                        "southwest":{
+                              "lat":40.6420872697,
+                              "lng":-74.0132397803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La cocina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101645014660552302843\">La cocina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUrZl6z5q00RSA3lwMWMxwnQZnU_IZptQLBzkWEwFFWM7lTJZiO8Aawzxs0B8NJd1jd9UsPliTKqv-RnDvKnFvgv54F2Zve4X3SCZS4aEqPXZCmJ7T3JR2I2VzaJ7Cifj7448CirhkpchT-CffZz-7AVGVV9b6BsmksUTtr8G2UhgT",
+                        "width":1414
+                  }
+            ],
+            "place_id":"ChIJ200gF3hbwokR0loRyDwQ4us",
+            "plus_code":{
+                  "compound_code":"JXVQ+87 New York, NY, USA",
+                  "global_code":"87G7JXVQ+87"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ200gF3hbwokR0loRyDwQ4us",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5223 5th Avenue # 4r, Brooklyn",
+            "CBG":360470100004,
+            "Radius":109.609709169
+      }
+]

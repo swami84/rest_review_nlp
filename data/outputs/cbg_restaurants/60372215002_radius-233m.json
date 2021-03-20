@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0325736,
+                        "lng":-118.3006749
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0339246303,
+                              "lng":-118.2993252697
+                        },
+                        "southwest":{
+                              "lat":34.0312266697,
+                              "lng":-118.3020232303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos de la se\u00f1ora q cae bien",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116146126068266698586\">Jeremiah Sellers<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtJidiHNbZ0EFozzHcQkkaZ2XB0QAUGtblcye7eSKEc3jO3lDERdHpdlPV-qTd7tcfz94iegbLGhS-rvclmK-QgSfVPDvWkAHrN7QkX6PUis38Ku5ROx8Hj0Qukuu30eZLbq8j8NPvYmm0WipmHwW6Q5vwAszHbU2sHZlCsFmv3-0O",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJLwZ841O5woARqQxSj8Ktc-8",
+            "plus_code":{
+                  "compound_code":"2MMX+2P Los Angeles, CA, USA",
+                  "global_code":"85632MMX+2P"
+            },
+            "rating":5.0,
+            "reference":"ChIJLwZ841O5woARqQxSj8Ktc-8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"Normandie \/ Adams, Los Angeles",
+            "opening_hours":null,
+            "CBG":60372215002,
+            "Radius":232.6917844908
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0333333,
+                        "lng":-118.3000515
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0346829303,
+                              "lng":-118.2988124197
+                        },
+                        "southwest":{
+                              "lat":34.0319849697,
+                              "lng":-118.3015103803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Manoly's Food Truck",
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117111893903525442060\">Manoly&#39;s Food Truck<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK-2KHA9aQmhPQXkGSKh7UnuFmgoHAW4aBypWi5SRvjxWxYrQw5ud0MiPihw_4mkyO5xFl0U6jriUny63jBwKDyWVw2_TUXsh5IV6QrwCdm82Kbc7cyGUSbhmpcIDOmdCipcTQMSdXNWerqnjVY53siO_spQjfmNIpw9qzCKvoPdW6J",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJFfotE125woAR4Pk8vV9oJio",
+            "plus_code":{
+                  "compound_code":"2MMX+8X Los Angeles, CA, USA",
+                  "global_code":"85632MMX+8X"
+            },
+            "rating":3.7,
+            "reference":"ChIJFfotE125woAR4Pk8vV9oJio",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"2512 Normandie Avenue, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":60372215002,
+            "Radius":232.6917844908
+      }
+]

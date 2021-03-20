@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8911597,
+                        "lng":-73.8508651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8925816303,
+                              "lng":-73.8494755197
+                        },
+                        "southwest":{
+                              "lat":40.8898836697,
+                              "lng":-73.8521734803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"House Of Flava\u2019",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101996943899822768111\">House Of Flava\u2019<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ31Wz26v4YxVo4kp8DrgXSY739knGumk0biXWQyAspPrfs-HCoyxv3q23Wn50WCVSvnyeu2HI5qbggGVy2EHG587ahbU81XKA-OcblbuUy7_AYkvKotC6QTLfPllNQ_sATCfOHrmyLT91_lgf-PrrWEJnDW5SswAu_wYVD1_VVveUd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJySqMtLfzwokR2zVkDclEX5w",
+            "plus_code":{
+                  "compound_code":"V4RX+FM The Bronx, NY, USA",
+                  "global_code":"87G8V4RX+FM"
+            },
+            "rating":4.6,
+            "reference":"ChIJySqMtLfzwokR2zVkDclEX5w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"920A East 233rd Street, The Bronx",
+            "CBG":360050424002,
+            "Radius":168.1029350301
+      }
+]

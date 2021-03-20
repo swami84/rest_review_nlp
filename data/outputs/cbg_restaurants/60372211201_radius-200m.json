@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0424684,
+                        "lng":-118.2920389
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0438183803,
+                              "lng":-118.2904694197
+                        },
+                        "southwest":{
+                              "lat":34.0411204197,
+                              "lng":-118.2931673803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"TORTAS Hula,Hula",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJEUWNYd7HwoAROcIluy7wVx0",
+            "plus_code":{
+                  "compound_code":"2PR5+X5 Los Angeles, CA, USA",
+                  "global_code":"85632PR5+X5"
+            },
+            "reference":"ChIJEUWNYd7HwoAROcIluy7wVx0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1707 South Vermont Avenue, Los Angeles",
+            "CBG":60372211201,
+            "Radius":199.9206406272
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9405936,
+                        "lng":-118.2829276
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9419424803,
+                              "lng":-118.2814243697
+                        },
+                        "southwest":{
+                              "lat":33.9392445197,
+                              "lng":-118.2841223303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Oasis Water Store 25cents",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":809,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111688326798165708003\">Oasis Water Store 25cents<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLVCMgOvjKg3neOMoR6GfDHjRX4rpWSm7JuaG28ZXsRlI1N1Tgq1oTSEKQ6CdP3jHOBc32jqFMWwxZc0bLsvpqWv26vnLMY6WDZ25u4U0t-YWFZag0oSsE7yo4fbD0YQrnOCx__zBzTv8IFnTNf4dtua4hOrPy4WK2590D6AZFTSroN",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJabukMqDJwoARK1XSZ8lbcc4",
+            "plus_code":{
+                  "compound_code":"WPR8+6R Los Angeles, CA, USA",
+                  "global_code":"8553WPR8+6R"
+            },
+            "rating":5,
+            "reference":"ChIJabukMqDJwoARK1XSZ8lbcc4",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"10503 South Figueroa Street unit A, Los Angeles",
+            "CBG":60372412013,
+            "Radius":199.1077717588
+      }
+]

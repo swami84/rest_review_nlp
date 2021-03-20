@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.0145072,
+                        "lng":-76.976705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.0159180303,
+                              "lng":-76.9755783697
+                        },
+                        "southwest":{
+                              "lat":39.0132200697,
+                              "lng":-76.9782763303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wendy's Wonderful Snow Cones",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114192910915850216836\">Isaias Nolasco<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKWtcuF3B_odt9ScRHfGXfKNOiU7dYB_INaVt8W3E1gOwUPUVJ6Kzfcq7vYd2-x_MD49MkaxHMZpCoLigWEX8YXQg2w3XHilR0p11oTmrXe9pygD0KJ8DRI4tj-vO_M43l2JRQXJD1C9xoKEONSpwQToNR4tEKmi3b4dMukhrLsUG9k",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ8VTmCKfFt4kRLegzqnmpU-w",
+            "plus_code":{
+                  "compound_code":"227F+R8 Silver Spring, MD, USA",
+                  "global_code":"87F5227F+R8"
+            },
+            "rating":4.7,
+            "reference":"ChIJ8VTmCKfFt4kRLegzqnmpU-w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"9625 Mount Pisgah Road, Silver Spring",
+            "CBG":240317016011,
+            "Radius":310.2406648792
+      }
+]

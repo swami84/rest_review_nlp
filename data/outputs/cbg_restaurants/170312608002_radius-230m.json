@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8754266,
+                        "lng":-87.7256249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8767782803,
+                              "lng":-87.7242005697
+                        },
+                        "southwest":{
+                              "lat":41.8740803197,
+                              "lng":-87.7268985303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Boom Fried Rice",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJZ9e1ROgyDogRZcn4Q4uqOC8",
+            "plus_code":{
+                  "compound_code":"V7GF+5Q Chicago, IL, USA",
+                  "global_code":"86HJV7GF+5Q"
+            },
+            "rating":4.2,
+            "reference":"ChIJZ9e1ROgyDogRZcn4Q4uqOC8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21.0,
+            "vicinity":"356 South Pulaski Road, Chicago",
+            "CBG":170312608002,
+            "Radius":230.1727556781
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8756332,
+                        "lng":-87.7256252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8770288803,
+                              "lng":-87.7242786697
+                        },
+                        "southwest":{
+                              "lat":41.8743309197,
+                              "lng":-87.7269766303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Barbeque Drums",
+            "opening_hours":null,
+            "place_id":"ChIJl8F2Q-gyDogRusweeSt2gws",
+            "plus_code":{
+                  "compound_code":"V7GF+7P Chicago, IL, USA",
+                  "global_code":"86HJV7GF+7P"
+            },
+            "rating":null,
+            "reference":"ChIJl8F2Q-gyDogRusweeSt2gws",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":170312608002,
+            "Radius":230.1727556781
+      }
+]

@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8631261,
+                        "lng":-73.8900753
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8643845303,
+                              "lng":-73.8885744697
+                        },
+                        "southwest":{
+                              "lat":40.8616865697,
+                              "lng":-73.8912724303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Three Sisters",
+            "place_id":"ChIJYczVzYHzwokRY7qYw5xSLnY",
+            "plus_code":{
+                  "compound_code":"V475+7X The Bronx, NY, USA",
+                  "global_code":"87G8V475+7X"
+            },
+            "reference":"ChIJYczVzYHzwokRY7qYw5xSLnY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2605 Webster Avenue, The Bronx",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050397002,
+            "Radius":91.4474566613
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8631266,
+                        "lng":-73.8897302
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8644314803,
+                              "lng":-73.8883418197
+                        },
+                        "southwest":{
+                              "lat":40.8617335197,
+                              "lng":-73.8910397803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Girasoles",
+            "place_id":"ChIJmQIpzoHzwokRgMEQHUUNe9M",
+            "plus_code":{
+                  "compound_code":"V476+74 New York, NY, USA",
+                  "global_code":"87G8V476+74"
+            },
+            "reference":"ChIJmQIpzoHzwokRgMEQHUUNe9M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2613 Webster Avenue, The Bronx",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105116993344939276739\">Gustavo Ma\u00f1an<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKbbQfVQ6YG6ErO-23S-9adv03YykcbdDLHalS4XJO6wpquTud83nH7XrmvVezTgLYGEWkQxHmzD12jLnc9KPsq8HQcvG1D4vMTf_s3M4ebwNcOdRMu7zyrdDbOd4ji2kBpZWmp0MwMdiwnNTpAm0OmRXkDeLiUM7ec0q2EU2CjT7bY",
+                        "width":4032
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.1,
+            "user_ratings_total":350.0,
+            "CBG":360050397002,
+            "Radius":91.4474566613
+      }
+]

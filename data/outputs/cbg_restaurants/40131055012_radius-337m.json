@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5564792,
+                        "lng":-112.1140293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5578473803,
+                              "lng":-112.1126798697
+                        },
+                        "southwest":{
+                              "lat":33.5551494197,
+                              "lng":-112.1153778303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Restaurant denis",
+            "place_id":"ChIJY089BChtK4cRubpB9mqrwf0",
+            "plus_code":{
+                  "compound_code":"HV4P+H9 Phoenix, AZ, USA",
+                  "global_code":"8559HV4P+H9"
+            },
+            "reference":"ChIJY089BChtK4cRubpB9mqrwf0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8152 North Black Canyon Highway, Phoenix",
+            "CBG":40131055012,
+            "Radius":336.5077543985
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5555171,
+                        "lng":-112.1137266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5567689803,
+                              "lng":-112.1123756197
+                        },
+                        "southwest":{
+                              "lat":33.5540710197,
+                              "lng":-112.1150735803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonald",
+            "place_id":"ChIJh7QMF4htK4cRlkDr7lqnCh8",
+            "plus_code":{
+                  "compound_code":"HV4P+6G Phoenix, AZ, USA",
+                  "global_code":"8559HV4P+6G"
+            },
+            "reference":"ChIJh7QMF4htK4cRlkDr7lqnCh8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8114 North Black Canyon Highway, Phoenix",
+            "CBG":40131055012,
+            "Radius":336.5077543985
+      }
+]

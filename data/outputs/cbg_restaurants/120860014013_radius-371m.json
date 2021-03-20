@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8471431,
+                        "lng":-80.2023696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8484993303,
+                              "lng":-80.2010401697
+                        },
+                        "southwest":{
+                              "lat":25.8458013697,
+                              "lng":-80.2037381303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Honduras Nica Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100586437124448693661\">Grily Urena<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLxoHEmJGY_rKnJuzqME-g1W-Sx-XvMeh2fzot9Bozo7Q3bk_u-L8KJ_MynyxuoxCYFb-ftSXej8P-K28G8ld26SKnqdgs1dVSH3Qk8S0ZJwENUkwvA04jy-cpNSp37fFNDApv5EukGP_HZmi-EJ94yHTd3-bJaT14_ZR1Xm-F97I1f",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJE14C6nax2YgRzLLWuYYB1TU",
+            "plus_code":{
+                  "compound_code":"RQWX+V3 Miami, FL, USA",
+                  "global_code":"76QXRQWX+V3"
+            },
+            "rating":3.5,
+            "reference":"ChIJE14C6nax2YgRzLLWuYYB1TU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"280 Northwest 79th Street, Miami",
+            "price_level":null,
+            "CBG":120860014013,
+            "Radius":371.1286939464
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8472368,
+                        "lng":-80.199251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8486371803,
+                              "lng":-80.1979030697
+                        },
+                        "southwest":{
+                              "lat":25.8459392197,
+                              "lng":-80.2006010303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dany's Restaurant Cafeteria",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112508244746861220752\">Sade Hicks<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJTXsFDx5yydnnbpf47oVYWFUmy13sK7yUq0ecliStbj3GJpMruhSDv6nO3eaKLQNh7w9JYsBeTs_EK1MEmZM5l-VfxXIunlBRVUsouGFgBV-ZypSgHYFNo3Fr3ePFa-YRrAIMMIwSD3QNje9-5YYc4zfW-P7blffBLvsXnzC69fTK4",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJqcu-ZXex2YgR_TNRYDuw9H0",
+            "plus_code":{
+                  "compound_code":"RRW2+V7 Miami, FL, USA",
+                  "global_code":"76QXRRW2+V7"
+            },
+            "rating":4.3,
+            "reference":"ChIJqcu-ZXex2YgR_TNRYDuw9H0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"Miami",
+            "price_level":1.0,
+            "CBG":120860014013,
+            "Radius":371.1286939464
+      }
+]

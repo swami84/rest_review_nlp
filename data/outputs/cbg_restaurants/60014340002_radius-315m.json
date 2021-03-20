@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.692049,
+                        "lng":-122.110127
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.6934711303,
+                              "lng":-122.1087716697
+                        },
+                        "southwest":{
+                              "lat":37.6907731697,
+                              "lng":-122.1114696303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Farmhouse Kitchen Thai Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100861743348744915393\">egardina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKYObNXrzRsxQVh7jHH3ThXYTRean76V0SW4KXS2PweOYANoRonVwINN1MBDlH30xBCKRtKwsa0QhkjLcwG2KC9yxm_5BLlD-obdD8vPpMPvAplHMNnbHgPBmZeTmf-e_wkax9v7_KRTa5NBbBntTwQ01zzVMCk2I02ltgnkXm_FoQU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-84hNy-Rj4ARYgFODqGVzH0",
+            "plus_code":{
+                  "compound_code":"MVRQ+RW San Leandro, CA, USA",
+                  "global_code":"849VMVRQ+RW"
+            },
+            "rating":4.3,
+            "reference":"ChIJ-84hNy-Rj4ARYgFODqGVzH0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"16695 East 14th Street, San Leandro",
+            "CBG":60014340002,
+            "Radius":315.3128336909
+      }
+]

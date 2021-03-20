@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.3732872,
+                        "lng":-111.9632492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.3746363803,
+                              "lng":-111.9618599697
+                        },
+                        "southwest":{
+                              "lat":33.3719384197,
+                              "lng":-111.9645579303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los 3 de Culiacan",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJSdp9i9UFK4cR7a2qoVo1e4w",
+            "plus_code":{
+                  "compound_code":"92FP+8P Guadalupe, AZ, USA",
+                  "global_code":"855C92FP+8P"
+            },
+            "rating":5,
+            "reference":"ChIJSdp9i9UFK4cR7a2qoVo1e4w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"8037 South Avenida del Yaqui, Guadalupe",
+            "CBG":40133200021,
+            "Radius":379.3653719833
+      }
+]

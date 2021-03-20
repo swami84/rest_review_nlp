@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8779,
+                        "lng":-73.8468831
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8792469803,
+                              "lng":-73.8455404697
+                        },
+                        "southwest":{
+                              "lat":40.8765490197,
+                              "lng":-73.8482384303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Uncle Mitchs Corner",
+            "place_id":"ChIJKxYgETTzwokRJ5l2AigSvGg",
+            "plus_code":{
+                  "compound_code":"V5H3+56 The Bronx, NY, USA",
+                  "global_code":"87G8V5H3+56"
+            },
+            "reference":"ChIJKxYgETTzwokRJ5l2AigSvGg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3431 Eastchester Road, The Bronx",
+            "CBG":360050386006,
+            "Radius":89.4520761016
+      }
+]

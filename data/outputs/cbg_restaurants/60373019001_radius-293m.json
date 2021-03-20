@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1581076,
+                        "lng":-118.2490975
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1595524803,
+                              "lng":-118.2477263197
+                        },
+                        "southwest":{
+                              "lat":34.1568545197,
+                              "lng":-118.2504242803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"We're Pouring",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118105042995788778451\">Levon Saryan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKub6p_h1DJ9yYGZ0bGZ5nq0_KzqxuutPqePYYinhhBE1ra7b06uCnS20_LZUbbJml58lqGnxWY2wD-rTY3lu9Z27h6FXO-NauNKCJM2XPpoim2dDqfswHva9BRsLWRWHyyJSznBxPoyAVkw3cuqGHzyNlJb14VguaU-jqVRHKfd6Ee",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVXaVmq3BwoARxsIRvCUz898",
+            "plus_code":{
+                  "compound_code":"5Q52+69 Glendale, CA, USA",
+                  "global_code":"85635Q52+69"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJVXaVmq3BwoARxsIRvCUz898",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":228,
+            "vicinity":"524 East Glenoaks Boulevard, Glendale",
+            "CBG":60373019001,
+            "Radius":293.0241233558
+      }
+]

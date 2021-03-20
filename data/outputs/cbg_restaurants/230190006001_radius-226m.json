@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.8010033,
+                        "lng":-68.7752858
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.8023777803,
+                              "lng":-68.7740271697
+                        },
+                        "southwest":{
+                              "lat":44.7996798197,
+                              "lng":-68.7767251303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117182863560617315976\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwITqahtVPUEPWLHVFkyzgLuB6g7dNfNQ_-1KH0qKK2S4bCcbtWlL6bvbOyuMDdMlzYIsQI_9S5XuN4et0jkjH2SY27wO_nv_bazd-57VOX_ct5fUW133ha0oOPoDldA-siV-VZTzAF9sIXLljNIwSQgC22KVpfHndVVPs52iJcxZvG3",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJ3ThlQ0RLrkwRzvjfEs9Y32I",
+            "plus_code":{
+                  "compound_code":"R62F+CV Bangor, ME, USA",
+                  "global_code":"87PHR62F+CV"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJ3ThlQ0RLrkwRzvjfEs9Y32I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":426,
+            "vicinity":"6 Clinton Street, Bangor",
+            "CBG":230190006001,
+            "Radius":225.8851916917
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.8003799,
+                        "lng":-68.7776386
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.8017808303,
+                              "lng":-68.7761846697
+                        },
+                        "southwest":{
+                              "lat":44.7990828697,
+                              "lng":-68.7788826303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ichiban (Bangor)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100781619813062243617\">Drakken Bane<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUIk5MZw9tZw0iaxCMjPtmoH1UVe672qI3MrNOSJhnBZAGuJUQqT_75H0yKR43sM7aR5mgClkVILp1o2Wlazww2zCJMTsBT5BMmDMllc6I3MvVD18lvFzCOcwHQmyOFFQgIiiY5ZwcGq1AvXyZEoGMRspUu4FQiZ1009usEXW1UE52",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJEUvFEkRLrkwR12czTTqwXkY",
+            "plus_code":{
+                  "compound_code":"R62C+5W Bangor, ME, USA",
+                  "global_code":"87PHR62C+5W"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJEUvFEkRLrkwR12czTTqwXkY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"226 Third and, Union Street, Bangor",
+            "CBG":230190006001,
+            "Radius":225.8851916917
+      }
+]

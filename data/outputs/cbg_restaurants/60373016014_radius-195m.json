@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1703163,
+                        "lng":-118.2905518
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1716860303,
+                              "lng":-118.2892314697
+                        },
+                        "southwest":{
+                              "lat":34.1689880697,
+                              "lng":-118.2919294303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Shrimp-Boss",
+            "place_id":"ChIJSZVir6TBwoARtEcMhR9gUjU",
+            "plus_code":{
+                  "compound_code":"5PC5+4Q Glendale, CA, USA",
+                  "global_code":"85635PC5+4Q"
+            },
+            "reference":"ChIJSZVir6TBwoARtEcMhR9gUjU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Western Avenue, Glendale",
+            "CBG":60373016014,
+            "Radius":194.9223980317
+      }
+]

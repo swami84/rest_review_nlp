@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8314743,
+                        "lng":-73.9058466
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8328129303,
+                              "lng":-73.9044303197
+                        },
+                        "southwest":{
+                              "lat":40.8301149697,
+                              "lng":-73.9071282803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Arka Snack Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3040,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105157764034448681899\">Arka Snack Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLMGwmARQ3TjhCwA-QDngyZ7mKaAdafrWlL9FhQHTcEVVfXeU-vcSVxvy2FHmCKadGDyBeKQ5YQX3d9v7fGkEjads72dtr7DOvZoNvDE_W9vwirvF0S8pc6wT5bHEBUV1-ObJmi4hMKbF6zPFhVtPg2SjfZmPNxHVoPF1prc61colJc",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJ6UDiOU_0wokRfyL4GZ6ZLjQ",
+            "plus_code":{
+                  "compound_code":"R3JV+HM The Bronx, NY, USA",
+                  "global_code":"87G8R3JV+HM"
+            },
+            "rating":5,
+            "reference":"ChIJ6UDiOU_0wokRfyL4GZ6ZLjQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"3531 3rd Avenue, The Bronx",
+            "CBG":360050145003,
+            "Radius":111.0321660236
+      }
+]

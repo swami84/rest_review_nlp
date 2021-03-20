@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6440174,
+                        "lng":-74.0147951
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6454105303,
+                              "lng":-74.0135189197
+                        },
+                        "southwest":{
+                              "lat":40.6427125697,
+                              "lng":-74.0162168803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"My Coral",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115034317907569632101\">Slava Gorodovoy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLuw3mYQWMiW6QHCeQC1ZcYsk5Ej9FfYKIOC9bbRxjTBKRlJJNm86uaDmD1c5or3l0rCyZj8eNLVom_NYNXD-IeEEzAMMbXjQgOh2_VZ3XY0KmSfjPhrb-li-fFbq1DfjZeSnfS6P1ywvrCwWVHKMaDkxE0Vf7GokBBj53sGRhj8PN3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ52ylr7NawokR0_RIX7kHAs8",
+            "plus_code":{
+                  "compound_code":"JXVP+J3 New York, NY, USA",
+                  "global_code":"87G7JXVP+J3"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ52ylr7NawokR0_RIX7kHAs8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"5401 4th Avenue #3005, Brooklyn",
+            "CBG":360470076003,
+            "Radius":121.0709306926
+      }
+]

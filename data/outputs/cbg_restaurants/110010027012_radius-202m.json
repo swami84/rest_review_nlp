@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9324297,
+                        "lng":-77.0390419
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9337990803,
+                              "lng":-77.0376336697
+                        },
+                        "southwest":{
+                              "lat":38.9311011197,
+                              "lng":-77.0403316303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Argyle Market Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107786663955900196317\">Hannah J<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJYpsFdKD6dEs8EvEuiCdTfA3iDd5cbLLB-2wvZWEj5AX-zZB8AvuDjxwoY4KzYvBTVgAAuwpd7miUpQpHPUHI-ouwj8WYBnSCnCY2MpFu9JvjdbzaP6bsNdHNhq-pZx6xli-hEWcgrggThPWRcRo0PvOoHGJnzGLhX2gggDb0EB9Ov",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJudI9moHJt4kR0FmageLGinc",
+            "plus_code":{
+                  "compound_code":"WXJ6+X9 Washington, DC, USA",
+                  "global_code":"87C4WXJ6+X9"
+            },
+            "rating":4.2,
+            "reference":"ChIJudI9moHJt4kR0FmageLGinc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"3220 17th Street Northwest, Washington",
+            "CBG":110010027012,
+            "Radius":201.713359774
+      }
+]

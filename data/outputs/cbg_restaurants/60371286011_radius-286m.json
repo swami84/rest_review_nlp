@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1789375,
+                        "lng":-118.4338002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1802867803,
+                              "lng":-118.4322725697
+                        },
+                        "southwest":{
+                              "lat":34.1775888197,
+                              "lng":-118.4349705303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Smoke It BBQ & Catering",
+            "place_id":"ChIJq6qqqlaWwoAR6EPlh1oxceQ",
+            "plus_code":{
+                  "compound_code":"5HH8+HF Van Nuys, Los Angeles, CA, USA",
+                  "global_code":"85635HH8+HF"
+            },
+            "rating":4.8,
+            "reference":"ChIJq6qqqlaWwoAR6EPlh1oxceQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"Van Nuys",
+            "CBG":60371286011,
+            "Radius":286.037441981
+      }
+]

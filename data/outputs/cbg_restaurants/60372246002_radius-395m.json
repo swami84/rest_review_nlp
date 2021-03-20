@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0244972,
+                        "lng":-118.2731926
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0258262303,
+                              "lng":-118.2717919197
+                        },
+                        "southwest":{
+                              "lat":34.0231282697,
+                              "lng":-118.2744898803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Seree's Coffee Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114596017226681837219\">Pattaraporn Tangcharoen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUSsAuI5xwayh6NBhj3t2hZiWU8rK2OKRIPXnC1kklmMc3aK-Sg8N8P4nFIqG2aWE6tAHfCqEsRPILRvhA6iGfoh4IqPhAhsdfoktMY87ET5VTQlbFhyR3prcD6PauMAYA-57lQppzxKeyVsm5O9MFvDe9dcnWrpwTaCcxFynZieYf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVREEft7HwoAR6NQSsrC7OX8",
+            "plus_code":{
+                  "compound_code":"2PFG+QP Los Angeles, CA, USA",
+                  "global_code":"85632PFG+QP"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJVREEft7HwoAR6NQSsrC7OX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"2800 South Grand Avenue, Los Angeles",
+            "CBG":60372246002,
+            "Radius":395.0737307013
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0255162,
+                        "lng":-118.2712673
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0268663803,
+                              "lng":-118.2698159697
+                        },
+                        "southwest":{
+                              "lat":34.0241684197,
+                              "lng":-118.2725139303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Barbacoa Estilo Toluca",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111021727551341379911\">Jonathan Cervantes<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxfyAvHOZtgy0VVchOEmbH_OhhZYiiu5R8AfccVOR0AhR4V0rwxgHkEgeVtzEisBH1w-NOGIKTqUecru4DIZA0wnA1fufVyyVlWhdkvCXXLy4Vs0wJIAtQSlr8Zbl1i58TgsGJVdIi82PG61Va0McFEGhoCPHXf2ulHPJ8O94gNQfb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ-IOHNzHwoAR1IROf7PcqdM",
+            "plus_code":{
+                  "compound_code":"2PGH+6F Los Angeles, CA, USA",
+                  "global_code":"85632PGH+6F"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJZ-IOHNzHwoAR1IROf7PcqdM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":249,
+            "vicinity":"2609 South Hill Street, Los Angeles",
+            "CBG":60372246002,
+            "Radius":395.0737307013
+      }
+]

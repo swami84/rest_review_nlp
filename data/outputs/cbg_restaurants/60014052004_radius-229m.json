@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8082194,
+                        "lng":-122.2488333
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8096171803,
+                              "lng":-122.2475578197
+                        },
+                        "southwest":{
+                              "lat":37.8069192197,
+                              "lng":-122.2502557803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Cafe Lakeview",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2688,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107721404123505875377\">Trap Speed 1320<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5-O35Sl_5UalIMksLIMr7lLYwgNxjR8giSi2-4rYpsHgwO8njs-hJdmzoD6lZ84-6P1bBWRaWxfQbwe1WWBIffxiSQ_p_oFpUsrlWlzLB6uIxcCnX0DMvTG9zPBusGfHGo2TcHJXHY7zTiLLEY7KD4hQX6u0Lus2q_L9eR8tSIQ19",
+                        "width":2971
+                  }
+            ],
+            "place_id":"ChIJH8aa0UaHj4ARSHFM1PAedKU",
+            "plus_code":{
+                  "compound_code":"RQ52+7F Oakland, CA, USA",
+                  "global_code":"849VRQ52+7F"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJH8aa0UaHj4ARSHFM1PAedKU",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"2834 Lakeshore Avenue, Oakland",
+            "CBG":60014052004,
+            "Radius":228.5859198348
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6878008,
+                        "lng":-73.9957434
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6891344803,
+                              "lng":-73.9943060697
+                        },
+                        "southwest":{
+                              "lat":40.6864365197,
+                              "lng":-73.9970040303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Vara",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104111246635874032234\">ZAGAT<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIL59TdGFfuJOCO-k2PJyhoYycymMy9uqCF-Z0CG5Oe8i4sw7hExMPtr9ZtBX4lcUAsjIs59d1Fstk_z4SFR5FeuCdePWXZjN270xsa-IW7oF33lcFdhBR7jWLTqH7cTQwSstqPbSiA_3QPFBcfJTn7DnuFSvJLX2q2_deFyPN5og-p",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJVT21BE9awokR_TVyGHmHvtU",
+            "plus_code":{
+                  "compound_code":"M2Q3+4P New York, NY, USA",
+                  "global_code":"87G8M2Q3+4P"
+            },
+            "price_level":3.0,
+            "rating":4.6,
+            "reference":"ChIJVT21BE9awokR_TVyGHmHvtU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":501,
+            "vicinity":"268 Clinton Street, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470045002,
+            "Radius":118.3023629338
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6878828,
+                        "lng":-73.995709
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6892082303,
+                              "lng":-73.9942708697
+                        },
+                        "southwest":{
+                              "lat":40.6865102697,
+                              "lng":-73.9969688303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Saint Julivert",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109673791694826464177\">Jackie Gordon Singing Chef<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwINzlLlnIHKAMSYaUh0xYluzq3PsRRXN3GRT5Rymr08KT6pMLx_SrAlLsDP2be8HYbAwed9OViCsAj85hnDcMerYNmP98uPpF2596nOnOLwNHRGXT0Tl7Kc0-FbpdMtieL7zduQR_n1jxdUXFpnntROEp6Shn39Wnr5NAH4PHw2_wE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJC_-pxFdbwokRuPw-9HZucGA",
+            "plus_code":{
+                  "compound_code":"M2Q3+5P Brooklyn, NY, USA",
+                  "global_code":"87G8M2Q3+5P"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJC_-pxFdbwokRuPw-9HZucGA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":97,
+            "vicinity":"264 Clinton Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470045002,
+            "Radius":118.3023629338
+      }
+]

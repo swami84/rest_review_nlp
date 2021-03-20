@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.93047,
+                        "lng":-118.2874088
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9319234803,
+                              "lng":-118.2859944697
+                        },
+                        "southwest":{
+                              "lat":33.9292255197,
+                              "lng":-118.2886924303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":766,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100501779669715857960\">Subway<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLB-M1bBhKSidlGUpg1X9NN3RSq7trDomG07n9kDDYeXwDnLDFElNP0DZ-Qp1ssrpwoz6Jxpv3TbQsgNzs6FtI0h36U3Z2zSx0z-iCJd8fnZL2yXyjNmV8Pzk6ms0oDF3w1l-Y1OvWISyoQE8qxu0qNEWcw7mwW0AA0UUcsy-0W-LvP",
+                        "width":766
+                  }
+            ],
+            "place_id":"ChIJ3QEF0hzKwoARc7m4huf9wx8",
+            "plus_code":{
+                  "compound_code":"WPJ7+52 Los Angeles, CA, USA",
+                  "global_code":"8553WPJ7+52"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ3QEF0hzKwoARc7m4huf9wx8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":185,
+            "vicinity":"700 West Imperial Highway Unit 107, Los Angeles",
+            "CBG":60372412024,
+            "Radius":301.2180658549
+      }
+]

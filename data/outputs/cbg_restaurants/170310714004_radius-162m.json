@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9239961,
+                        "lng":-87.636768
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9254045303,
+                              "lng":-87.6353567197
+                        },
+                        "southwest":{
+                              "lat":41.9227065697,
+                              "lng":-87.6380546803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mon Ami Gabi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1295,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111699836545251295150\">Logan Mathew Jung<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJojdYmLyXBokxs4WJkpYzOlKz6QvjVE9LiQJktdLtZLqQ60Ab4xFK5w-BC8Nc9qkjL35YzHitV8c-W8FqSMopu4oU_4wRKL_q3ibGyF5iyFbQg8M2QW_Tmhco9PQBG9KSMxK-_iKdlDFEeDzRCwSZlG2wz2EWpg98fZIla3yLXeNJu",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJNQeqa23TD4gRzt-J6DkIhKw",
+            "plus_code":{
+                  "compound_code":"W9F7+H7 Chicago, IL, USA",
+                  "global_code":"86HJW9F7+H7"
+            },
+            "price_level":3,
+            "rating":4.6,
+            "reference":"ChIJNQeqa23TD4gRzt-J6DkIhKw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":628,
+            "vicinity":"2300 North Lincoln Park West, Chicago",
+            "CBG":170310714004,
+            "Radius":161.6755121645
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9234706,
+                        "lng":-87.6393662
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9248504803,
+                              "lng":-87.6379395697
+                        },
+                        "southwest":{
+                              "lat":41.9221525197,
+                              "lng":-87.6406375303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sushi Para II",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101115466662032939666\">Marisol<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1B-OJKZwJqx-iSEEF4Mz8gXj9CxBE_MOPJlSNqry49uVrUShvtdI8PoS99RPRLD4yT_dDSUx0cAPzAsE0ikvaMOwi13Vycpiq2jRIXi3GQv4FWhQjMwH2SN0Kbgaqf8SinjOFyNW8NpHPDYEmK5u2fuWj76xI8pWlFB4WzWTttFxk",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJJYnU3BLTD4gRlBhCX-Sp_ZU",
+            "plus_code":{
+                  "compound_code":"W9F6+97 Chicago, IL, USA",
+                  "global_code":"86HJW9F6+97"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJJYnU3BLTD4gRlBhCX-Sp_ZU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":776,
+            "vicinity":"2258 North Clark Street, Chicago",
+            "CBG":170310714004,
+            "Radius":161.6755121645
+      }
+]

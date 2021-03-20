@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8683483,
+                        "lng":-73.882159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8696621303,
+                              "lng":-73.8807667197
+                        },
+                        "southwest":{
+                              "lat":40.8669641697,
+                              "lng":-73.8834646803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nava Bx Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1261,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106175638669647152554\">Nava Bx Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIVL1Kc_um8a-0ZscDbHXKFSH7ATIYE3jRxoudffCm9b0OJy6urIzootInb0P8L5pq6WoihcEUP8FPuMuuIITxRB3QhtAuUcslD27bPCSRTe1qskQ3pw4fthuzKd6V24a7A7YGdAnTRLpRnLEqMEfGgtHgIkVFEVRrGoHJsijaly59l",
+                        "width":1109
+                  }
+            ],
+            "place_id":"ChIJOdE2-rrzwokRVgsqkdZSV8M",
+            "plus_code":{
+                  "compound_code":"V499+84 New York, NY, USA",
+                  "global_code":"87G8V499+84"
+            },
+            "rating":5,
+            "reference":"ChIJOdE2-rrzwokRVgsqkdZSV8M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3003A Webster Avenue, The Bronx",
+            "CBG":360050415006,
+            "Radius":99.8902397745
+      }
+]

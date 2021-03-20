@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3501671,
+                        "lng":-71.1321269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3514645303,
+                              "lng":-71.1307020697
+                        },
+                        "southwest":{
+                              "lat":42.3487665697,
+                              "lng":-71.1334000303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Avenue Bar Allston",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105117792274492423685\">Kurt Kaiser<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIwjkyGoGbx37yPqvNR4mYrwtOhSuG2sumqXsBMkds9XSrLtsO0Fkm7cQ_-qevhUZo-57ncuRRQz-IQ1BlverC8qDto3VaJWk-qYinjAZWyN6XohjfhypCGtqs17VititdFblShHVUtCGr_wAnWjrFeqZHXZbTlOHTq02pm1h7vap_",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJgw3WEcZ544kRl1OnDzjRFns",
+            "plus_code":{
+                  "compound_code":"9V29+34 Boston, MA, USA",
+                  "global_code":"87JC9V29+34"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJgw3WEcZ544kRl1OnDzjRFns",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":565,
+            "vicinity":"1249 Commonwealth Avenue, Boston",
+            "CBG":250250007044,
+            "Radius":124.1640153891
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3496694,
+                        "lng":-71.1331778
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3509541803,
+                              "lng":-71.1317722697
+                        },
+                        "southwest":{
+                              "lat":42.3482562197,
+                              "lng":-71.1344702303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hopewell Bar & Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2620,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102288592920183279515\">Yonghyun Song<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7AmkfrQPP9ejXsFZejCVMAeOPPtRon01w4iIzoMsTqKzcOq4tWFDGDsrkNAWdEVF2zbtZCiya-izMFgclf1pNr4V09VPPPbFZGvN1E1Q-QwcpsCVDXX-WYjBbYYgZatZIsLlkHMotruFMYWXK3qzjsszzrYf07OpvZHrouk_HNdWL",
+                        "width":4656
+                  }
+            ],
+            "place_id":"ChIJ7YVnn8h544kRfiv1BvK0xAA",
+            "plus_code":{
+                  "compound_code":"8VX8+VP Boston, MA, USA",
+                  "global_code":"87JC8VX8+VP"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ7YVnn8h544kRfiv1BvK0xAA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":681,
+            "vicinity":"1277 Commonwealth Avenue, Boston",
+            "CBG":250250007044,
+            "Radius":124.1640153891
+      }
+]

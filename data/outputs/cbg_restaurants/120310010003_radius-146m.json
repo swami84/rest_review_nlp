@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3317649,
+                        "lng":-81.6529478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3332339303,
+                              "lng":-81.6516499697
+                        },
+                        "southwest":{
+                              "lat":30.3305359697,
+                              "lng":-81.6543479303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111020122612435528180\">Lance Beaudoin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFc_PhpiJu7ObdaiiEkEE_vcs0jJtH-1EkdN7ioNLisDh9K0eUQEJSAVcoowdkqECx_DC8rCTL4VjcTOm1Z8n9rRD5MmqSVsAgKAS0SOzBwTrKBGBfFwOivcH2n1EckcJXdjAz2MK-IAvyL6Ckw69abmI6BkUXeNHe27rG3GfHTw-7",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJXfg4JSK35YgRt2TWO37oRls",
+            "plus_code":{
+                  "compound_code":"88JW+PR Springfield, Jacksonville, FL, USA",
+                  "global_code":"862W88JW+PR"
+            },
+            "price_level":1.0,
+            "rating":3.2,
+            "reference":"ChIJXfg4JSK35YgRt2TWO37oRls",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1404.0,
+            "vicinity":"210 East State Street, Jacksonville",
+            "CBG":120310010003,
+            "Radius":146.4308388049
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.3300877,
+                        "lng":-81.652646
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.3313318803,
+                              "lng":-81.6513284197
+                        },
+                        "southwest":{
+                              "lat":30.3286339197,
+                              "lng":-81.6540263803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Restaurante cinco de mayo",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ8dR9umG35YgRg5nQrymoiR4",
+            "plus_code":{
+                  "compound_code":"88JW+2W Downtown, Jacksonville, FL, USA",
+                  "global_code":"862W88JW+2W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJ8dR9umG35YgRg5nQrymoiR4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"Jacksonville",
+            "CBG":120310010003,
+            "Radius":146.4308388049
+      }
+]

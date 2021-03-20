@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":42.3565288,
+                        "lng":-71.1867
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3575014803,
+                              "lng":-71.1853350197
+                        },
+                        "southwest":{
+                              "lat":42.3548035197,
+                              "lng":-71.1880329803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Social Restaurant & Bar",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111958959926495510862\">Mike<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKDhPjI0QR-aDiIbED2QJsbI_0EhE3yPTX73OBHte7JcEeXoSrgKOJ_9KDdgshFgNZBUNcPg7JJpxNG4O_AkncP-8Xy0GO-5jMsqjAxZX57fWn0d2ZIGaRN-_LKJJ7tw0MQQoZ4NMuGlsYpfM7Mrg_eC-LGi8Srv_znpiB7nZ5VHo4k",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJBQfSZwt444kRbKPESMfoE6E",
+            "plus_code":{
+                  "compound_code":"9R47+J8 Newton, MA, USA",
+                  "global_code":"87JC9R47+J8"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJBQfSZwt444kRbKPESMfoE6E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":254,
+            "vicinity":"320 Washington Street, Newton",
+            "opening_hours":null,
+            "CBG":250173731003,
+            "Radius":300.9537643132
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.355419,
+                        "lng":-71.186404
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3567527803,
+                              "lng":-71.1849664197
+                        },
+                        "southwest":{
+                              "lat":42.3540548197,
+                              "lng":-71.1876643803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"C & N Pizza and Grille",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":610,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109260075978292941307\">C &amp; N Pizza and Grille<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK2X4J23nWoHr4zeeAuFJ92Pl2dKSDQma7bi224PFVAi5aX8ijtKJBtJCpy0FJYxwPtAmLaGc2eiScm_b5R8YHxgB0G-PvpDD5NuSLkgXJPu0Mdw8xFWJSsf39v2YgFa_zRUB-EqudG_5IWAyX5sTiM94U4FPFgMVEiLEw8wMF8XCll",
+                        "width":1151
+                  }
+            ],
+            "place_id":"ChIJoYniqgx444kR7s-gffzFseY",
+            "plus_code":{
+                  "compound_code":"9R47+5C Newton, MA, USA",
+                  "global_code":"87JC9R47+5C"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJoYniqgx444kR7s-gffzFseY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"437 Centre Street, Newton",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":250173731003,
+            "Radius":300.9537643132
+      }
+]

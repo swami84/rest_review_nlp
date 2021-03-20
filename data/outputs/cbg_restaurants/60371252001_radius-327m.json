@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1719194,
+                        "lng":-118.3817917
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1733919303,
+                              "lng":-118.3804510697
+                        },
+                        "southwest":{
+                              "lat":34.1706939697,
+                              "lng":-118.3831490303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Coffee for Breakfast",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116197471975777437325\">Daryell Claude Camacho<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLC6rSnUx6_EBU1MRzg8lnIJ2jvCyGNDE1CA6_Vh7eHuLWM1MD2qCKSOWTwOosyezRNtH5awlF1IfGKkLD20Yn-5M89tXolIj3qaSkXPw_yJ6GliLzPyPGzGdbCQXBiYbZXN6yI3q0fKrplty-4K9-U_elZBFh72eN7gHBbGwS9hUEd",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJxYLdBOaVwoARW-IObKt6WTo",
+            "plus_code":{
+                  "compound_code":"5JC9+Q7 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635JC9+Q7"
+            },
+            "rating":4.5,
+            "reference":"ChIJxYLdBOaVwoARW-IObKt6WTo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":219,
+            "vicinity":"11482 Burbank Boulevard, North Hollywood",
+            "CBG":60371252001,
+            "Radius":326.9891165139
+      }
+]

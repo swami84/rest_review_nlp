@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9682583,
+                        "lng":-118.2826568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9696072303,
+                              "lng":-118.2813088197
+                        },
+                        "southwest":{
+                              "lat":33.9669092697,
+                              "lng":-118.2840067803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hawaiian Barbecue Figueroa St",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ73RgG-LHwoARSEs3nRBc_wA",
+            "plus_code":{
+                  "compound_code":"XP98+8W Los Angeles, CA, USA",
+                  "global_code":"8553XP98+8W"
+            },
+            "rating":4.9,
+            "reference":"ChIJ73RgG-LHwoARSEs3nRBc_wA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"7818 South Figueroa Street, Los Angeles",
+            "CBG":60372383102,
+            "Radius":273.1586664196
+      }
+]

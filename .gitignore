@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.idea/
+data/inputs/safegraph_open_census_data/
+config/
+catboost_info/
+geckodriver.log

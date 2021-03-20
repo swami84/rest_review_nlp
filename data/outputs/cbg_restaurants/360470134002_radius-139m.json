@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6299441,
+                        "lng":-74.0226686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6312709803,
+                              "lng":-74.0212270697
+                        },
+                        "southwest":{
+                              "lat":40.6285730197,
+                              "lng":-74.0239250303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gino's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111457964529775375222\">Gino&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIU4FY_0NsI8zzNx7MSlHEJV6sdbc0GTBrDudIYGlcD66ntLwOp8RZX76whT82ZMrbvRc_GVB5-zfnd_0A5T2svKJNov4jaO2rRwmu6KAZ5xiSrIA9qsKFDUNCbrjdskiz9g9g8S1cyMfj7WO5TKaK15iyLBYkVVjkeiicx76Qp2dbi",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJh-vySVpFwokRlqjYXgXa2rg",
+            "plus_code":{
+                  "compound_code":"JXHG+XW Brooklyn, NY, USA",
+                  "global_code":"87G7JXHG+XW"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJh-vySVpFwokRlqjYXgXa2rg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1374,
+            "vicinity":"7414 5th Avenue, Brooklyn",
+            "CBG":360470134002,
+            "Radius":139.0884669651
+      }
+]

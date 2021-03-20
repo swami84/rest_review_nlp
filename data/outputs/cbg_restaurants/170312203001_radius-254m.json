@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9290591,
+                        "lng":-87.6977272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9304097803,
+                              "lng":-87.6962772697
+                        },
+                        "southwest":{
+                              "lat":41.9277118197,
+                              "lng":-87.6989752303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rosie's Sidekick",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104197414107712900249\">Kyle Eldridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJkfAxzRe2bVImXNGlLS0xmkPwtJVhRpepeLJmfY2O27atFBGhClCby2Q1bjiauInAewkvyRESp8L9mHKZrFq0Hgfa_t9bR2Br2kseu2_mR4iV6dwZBVVVXmD_0uZrnmf4CAPxD2VM4luP7lOP7W6AH8leelf9GAoVOzotL90ZgvEMl",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgVjwXg3ND4gRgMmCNIo7eeA",
+            "plus_code":{
+                  "compound_code":"W8H2+JW Chicago, IL, USA",
+                  "global_code":"86HJW8H2+JW"
+            },
+            "rating":4.4,
+            "reference":"ChIJgVjwXg3ND4gRgMmCNIo7eeA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":93,
+            "vicinity":"2610 North California Avenue, Chicago",
+            "price_level":null,
+            "CBG":170312203001,
+            "Radius":254.3381410641
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9288767,
+                        "lng":-87.6976844
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9301409303,
+                              "lng":-87.6962807197
+                        },
+                        "southwest":{
+                              "lat":41.9274429697,
+                              "lng":-87.6989786803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mi Tocaya Antojer\u00eda",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116097651318194384763\">Eduardo Jim\u00e9nez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL-IQimu-6SOUx9CxRKZ1pOLsWDs4Ug2vq3Ia9T0QoPw35fIsQ8884Ymw2Rodu1RwpxKEf1bkC3NU4V-ooy4xreA1WEzX-4TEm0dKboxX-zdrTc1qWt5f3SWyrIqnRgugaKeYmYwPqJVezMYS_CNojNswaMM4zyxZzNrYHUs9my5ha4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3SXSgX3ND4gR4fD_C6KhXEU",
+            "plus_code":{
+                  "compound_code":"W8H2+HW Chicago, IL, USA",
+                  "global_code":"86HJW8H2+HW"
+            },
+            "rating":4.6,
+            "reference":"ChIJ3SXSgX3ND4gR4fD_C6KhXEU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":573,
+            "vicinity":"2800 West Logan Boulevard, Chicago",
+            "price_level":2.0,
+            "CBG":170312203001,
+            "Radius":254.3381410641
+      }
+]

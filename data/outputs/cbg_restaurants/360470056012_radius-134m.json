@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6153003,
+                        "lng":-74.0342062
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6166690303,
+                              "lng":-74.0329417697
+                        },
+                        "southwest":{
+                              "lat":40.6139710697,
+                              "lng":-74.0356397303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Kitty Kiernans",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107625344132545898224\">Estuardo Garcia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJIf2_NKvV7X-EkshoqPbT9u5s7E6kdXNCDy90Cw2q_3oRXYy1ekQteCV22KYILP2NTwbfOxII28YIu2ImEi2BPZ-C2ZtVNIhihtrc8t01xVHuUg31CnHIfKY3Qmv8YlX16HULVqJghbIAC9N-FUN14a3Xuza7YyvjSp8LGgLb9hRPp",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJ1c9U64hPwokR8JIyztxRsow",
+            "plus_code":{
+                  "compound_code":"JX88+48 Brooklyn, NY, USA",
+                  "global_code":"87G7JX88+48"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ1c9U64hPwokR8JIyztxRsow",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"9715 3rd Avenue, Brooklyn",
+            "CBG":360470056012,
+            "Radius":133.7284039596
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6157829,
+                        "lng":-74.034403
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6171318803,
+                              "lng":-74.0330540197
+                        },
+                        "southwest":{
+                              "lat":40.6144339197,
+                              "lng":-74.0357519803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Panda Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1321,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106740845827278873381\">Steve<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ-t-Yhq-StcWNhBLH9oOVDlILn857nxtH0E0c9a6FJB4t7z6Ys2Kux-p6DrazrasBzs0Cen3nWnQ-Rs1gKC60fkoYYDbZUqfPGG7PM5V1OFHcyjAQcLcF74qAmePxjmCwDrqpokW5tuD5t8WCi9zfsLbKSkWtxfWB8SP9xJ4-w9iRl",
+                        "width":1835
+                  }
+            ],
+            "place_id":"ChIJrYoW6IhPwokRB2bIjRCaMMQ",
+            "plus_code":{
+                  "compound_code":"JX88+86 New York, NY, USA",
+                  "global_code":"87G7JX88+86"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJrYoW6IhPwokRB2bIjRCaMMQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"9708 3rd Avenue, Brooklyn",
+            "CBG":360470056012,
+            "Radius":133.7284039596
+      }
+]

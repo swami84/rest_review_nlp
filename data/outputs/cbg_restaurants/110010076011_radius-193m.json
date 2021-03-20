@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8716526,
+                        "lng":-76.9738087
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8731017303,
+                              "lng":-76.9725413197
+                        },
+                        "southwest":{
+                              "lat":38.8704037697,
+                              "lng":-76.9752392803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lee's Brunch",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101810068829626301924\">Austin Graff<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKbySFe1LbibXuXqyCyMQg2pPsiKZbcATnVe-hsFk1NIWueeDEOFt3uaaOEkUcacPoUe8h7RjE9ZCDuBgSMnJBuO-WMq9Us9gnEQSlhEzfI-kT3Xv_mqu5n-XCUDv3bReLkRBJJ_IsdN67QCxGRdGJ4qxFG_jfJyTBBnnGbgs9J___B",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgxOaRa65t4kRh0b01i8CqRM",
+            "plus_code":{
+                  "compound_code":"V2CG+MF Washington, DC, USA",
+                  "global_code":"87C5V2CG+MF"
+            },
+            "rating":4.2,
+            "reference":"ChIJgxOaRa65t4kRh0b01i8CqRM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"2221 Minnesota Avenue Southeast, Washington",
+            "CBG":110010076011,
+            "Radius":192.978405875
+      }
+]

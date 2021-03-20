@@ -1,0 +1,114 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8952178,
+                        "lng":-76.9947293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8965665303,
+                              "lng":-76.9934995197
+                        },
+                        "southwest":{
+                              "lat":38.8938685697,
+                              "lng":-76.9961974803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"7-Eleven - Closed",
+            "photos":[
+                  {
+                        "height":588,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104749302749692434582\">7-Eleven - Closed<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJQri2Stuo7nm-j38AR02zPtwtplW3ulF7jzAVnHuRR8wJB382zF9azM4wWY5o-ux_GkcxC55Fnw4c756VPYNgi3_mJpqzYIO5A28MroDa-rlLF3VY3xpL67ubijMb74pBVTGa4mlQR9krRfj3pvUduv07KQnGIKUsV3D84M1bkcVM",
+                        "width":864
+                  }
+            ],
+            "place_id":"ChIJkf2KlTu4t4kRKE5DeaI-hTY",
+            "plus_code":{
+                  "compound_code":"V2W4+34 Washington, DC, USA",
+                  "global_code":"87C5V2W4+34"
+            },
+            "price_level":1,
+            "rating":2.5,
+            "reference":"ChIJkf2KlTu4t4kRKE5DeaI-hTY",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"407 8th Street Northeast, Washington",
+            "opening_hours":null,
+            "CBG":110010083021,
+            "Radius":288.1738789626
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8956444,
+                        "lng":-76.995173
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8970172303,
+                              "lng":-76.9937213697
+                        },
+                        "southwest":{
+                              "lat":38.8943192697,
+                              "lng":-76.9964193303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Uncle Kenny's Smokehouse",
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105413640032567848549\">Jino Hyun<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJAVJzaCXpZKgvagt9M3ArOQcPmpkMgzoe6Go6PlaJkszIhhecgumBE-EZ5iHkFCV20o9uEQdrRCSSoEECYROmLPEQZq3rMaG0CMvJYyvptVvGgDXAo_sJdLtDbriAZf_0xzIpCCBjkGRHWcO-jSnhT_lZhs7SIg6BWOA6tjYTtNak5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNxeAkDu4t4kRMBK3xXypRfs",
+            "plus_code":{
+                  "compound_code":"V2W3+7W Washington, DC, USA",
+                  "global_code":"87C5V2W3+7W"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJNxeAkDu4t4kRMBK3xXypRfs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":459,
+            "vicinity":"732 Maryland Avenue Northeast, Washington",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":110010083021,
+            "Radius":288.1738789626
+      }
+]

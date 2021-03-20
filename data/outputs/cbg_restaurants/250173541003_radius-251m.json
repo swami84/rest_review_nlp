@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3791065,
+                        "lng":-71.1270989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3804461803,
+                              "lng":-71.1258190697
+                        },
+                        "southwest":{
+                              "lat":42.3777482197,
+                              "lng":-71.1285170303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Forage",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1512,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117091254274117419016\">Forage<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwITN4p_oHQyI--xTA1PpenoSQ6PXWF7Vp4BhttNns2tRCnS0dLAlsdkuWPMyGa8v3987zBxMBepwXfPbh3kiqkV6fvC7BgkQl5fd43CiY1y_kAo_BkoEiwqpOFIs6Cenz_vtU6JgSd65PlfKXZ23L1nroMLZGJ8UE0SZ2ubKHfuo3wl",
+                        "width":2016
+                  }
+            ],
+            "place_id":"ChIJo3Epc2x344kRRQqKiE7CABk",
+            "plus_code":{
+                  "compound_code":"9VHF+J5 Cambridge, MA, USA",
+                  "global_code":"87JC9VHF+J5"
+            },
+            "price_level":3,
+            "rating":4.6,
+            "reference":"ChIJo3Epc2x344kRRQqKiE7CABk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":232,
+            "vicinity":"5 Craigie Circle, Cambridge",
+            "CBG":250173541003,
+            "Radius":250.5325757799
+      }
+]

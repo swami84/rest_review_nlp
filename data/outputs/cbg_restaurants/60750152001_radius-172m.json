@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7879648,
+                        "lng":-122.4271064
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7893256303,
+                              "lng":-122.4256677197
+                        },
+                        "southwest":{
+                              "lat":37.7866276697,
+                              "lng":-122.4283656803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Octavia",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116161977784542581048\">Octavia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIOIS2cD5WZmRYLdlEOxEhaXVyHlPpUQSOaLButhHyODg51pbWluXOgg9EIO99yXrbdKishzlt152uZ0Q8ggJ2YB-YknHYLGrYgFGFowz0f60_dFAhejlXcxdjnRcoJjywznBjXmlW2rxGv9eD4Gq9Tk_FsoGQqYZaQN4Dbv792w2Gv",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJs32Mdr-AhYARZmI19fIPvOM",
+            "plus_code":{
+                  "compound_code":"QHQF+55 Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHQF+55"
+            },
+            "price_level":4,
+            "rating":4.6,
+            "reference":"ChIJs32Mdr-AhYARZmI19fIPvOM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":497,
+            "vicinity":"1701 Octavia Street, San Francisco",
+            "CBG":60750152001,
+            "Radius":172.0889214356
+      }
+]

@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9543876,
+                        "lng":-87.6470526
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9557852303,
+                              "lng":-87.6457006697
+                        },
+                        "southwest":{
+                              "lat":41.9530872697,
+                              "lng":-87.6483986303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"A&R SkyLounge",
+            "place_id":"ChIJAYQ6tE7TD4gRXGmwafJJpiM",
+            "plus_code":{
+                  "compound_code":"X933+Q5 Chicago, IL, USA",
+                  "global_code":"86HJX933+Q5"
+            },
+            "reference":"ChIJAYQ6tE7TD4gRXGmwafJJpiM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Park Place Towers, 655 Irving Park Road, Chicago",
+            "CBG":170310314005,
+            "Radius":156.7472599274
+      }
+]

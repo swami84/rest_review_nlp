@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6435074,
+                        "lng":-74.0078194
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6448859303,
+                              "lng":-74.0064392197
+                        },
+                        "southwest":{
+                              "lat":40.6421879697,
+                              "lng":-74.0091371803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"6th Ave. Cafe",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKirtZrWXh_n-H93tryyXIssGunPIqyMCKZ-Tj9i95o90dB6HxYAORvfXL5a7UEsGrVQZIB5h2AyjYAxB3LipIq78F4u3pqmrcezXQDxoz-UzsR2lnIbQOgqZ1Y6hVeov4cyg3ecSFbgHpUOo0-e9QuC-yJJXDaXWxS-6OTXItOZ-l2",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ1zh3EGRbwokRwpMFvSCssvI",
+            "plus_code":{
+                  "compound_code":"JXVR+CV Brooklyn, NY, USA",
+                  "global_code":"87G7JXVR+CV"
+            },
+            "reference":"ChIJ1zh3EGRbwokRwpMFvSCssvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"610 50th Street, Brooklyn",
+            "opening_hours":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470098002,
+            "Radius":109.6648718587
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6433033,
+                        "lng":-74.0084315
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6446877803,
+                              "lng":-74.0071420197
+                        },
+                        "southwest":{
+                              "lat":40.6419898197,
+                              "lng":-74.0098399803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chen No. 1 Cafe",
+            "photos":[
+                  {
+                        "height":4031,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108439452220140524815\">yong chen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKXg_G6_tMWDp5N-TTLKoju5YiRlMyofvCP7FGzXiImGMu4Je_vkyIWOsWp2eVO66qV0reC4XtvJAUVyphw4xyA1kHLN9ok3Ja3hsGgKxgBtEWwi7S56D8TWkpZhG40dRPIsme2sYlKXRmCqAHl_HzTJ5W03g3YqvkIs1MmIaLM--T2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJeTYZKpRbwokRlkvCNcewgRM",
+            "plus_code":{
+                  "compound_code":"JXVR+8J Brooklyn, NY, USA",
+                  "global_code":"87G7JXVR+8J"
+            },
+            "reference":"ChIJeTYZKpRbwokRlkvCNcewgRM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5017 6th Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "rating":5.0,
+            "user_ratings_total":1.0,
+            "CBG":360470098002,
+            "Radius":109.6648718587
+      }
+]

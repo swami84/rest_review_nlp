@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8201076,
+                        "lng":-73.8099328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8213421303,
+                              "lng":-73.8085914197
+                        },
+                        "southwest":{
+                              "lat":40.8186441697,
+                              "lng":-73.8112893803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":709,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100903130539969907955\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIjE_h9G393iUbpmTFyzNsxI_H4uodCr7y0cPVJzWXONWVxJpvdNLsNIBELp-2XcLaeUxMocb1nMjzWOhnozzo-xJZ4BHX_VsRF2CwT0aRqhCV-FAEY_zMFG-am5jUrfICx5Ss7BC9E9bnqEdl4wLGLVZfNv0q4x6Vy8uvX6Mpy5JEc",
+                        "width":1261
+                  }
+            ],
+            "place_id":"ChIJ76PfCRqLwokRp_sXFO0Crts",
+            "plus_code":{
+                  "compound_code":"R5CR+22 New York, NY, USA",
+                  "global_code":"87G8R5CR+22"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ76PfCRqLwokRp_sXFO0Crts",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"4147 Throgs Neck Expressway, The Bronx",
+            "CBG":360050138001,
+            "Radius":440.1239288957
+      }
+]

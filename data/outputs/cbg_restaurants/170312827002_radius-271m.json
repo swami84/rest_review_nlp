@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8743156,
+                        "lng":-87.6866091
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8756677803,
+                              "lng":-87.6851154697
+                        },
+                        "southwest":{
+                              "lat":41.8729698197,
+                              "lng":-87.6878134303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Johnna's Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116957894754788866888\">Johnna&#39;s Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJV2lCPqrQp7AnESI5fcjs-z5iH__wOt8v-UJmWDdZ5JZyXC-8MVE-mwpLYR4U4XYqYTPCS2cJ5BqoLZGaqXReeIUrxSmO3dtAxcnd8XXi-_XuVpWemTj7rbSIM6x7Oop4RluDkoyqgF4okXtXOS9LYG8fpYkxXcAXGxOVoiopwUXHP",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJY6fhYGgtDogRbddrvGYx31Y",
+            "plus_code":{
+                  "compound_code":"V8F7+P9 Chicago, IL, USA",
+                  "global_code":"86HJV8F7+P9"
+            },
+            "rating":4.1,
+            "reference":"ChIJY6fhYGgtDogRbddrvGYx31Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"520 South Western Avenue, Chicago",
+            "CBG":170312827002,
+            "Radius":271.0089817855
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9329915,
+                        "lng":-77.0329838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9342920803,
+                              "lng":-77.0315150197
+                        },
+                        "southwest":{
+                              "lat":38.9315941197,
+                              "lng":-77.0342129803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Thip Khao Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113897701786691527341\">Rocky &amp; Rio<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKqzRVmurZyHaEthz4UrvV7MWdOeGzzWaj2mqVKwYGjHXFVD_7YgDqwSUFq8_smbashUN_GRC6jqs6DPkMH89F4xiWs94F1G0vSwKfkmZlDH9YQszo3pgu4gyd_zXc4MeLQ6WiNbojVwBw-49V39a_mkqhSN92uAHz5SwS2TyUDCaW2",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ_aTmBjIt4kRBOOprOJHSwk",
+            "plus_code":{
+                  "compound_code":"WXM8+5R Washington, DC, USA",
+                  "global_code":"87C4WXM8+5R"
+            },
+            "price_level":2.0,
+            "rating":4.7,
+            "reference":"ChIJZ_aTmBjIt4kRBOOprOJHSwk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1010,
+            "vicinity":"3462 14th Street Northwest, Washington",
+            "CBG":110010028011,
+            "Radius":145.574032652
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9333499,
+                        "lng":-77.0329209
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9347166803,
+                              "lng":-77.0314828197
+                        },
+                        "southwest":{
+                              "lat":38.9320187197,
+                              "lng":-77.0341807803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Karibbean Kitchen LLC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112944171278447789584\">Karibbean Kitchen LLC<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKDp4I4Lx_35OswGCo4YI5Kqd1xgVUZns0lfgqDrNLuLh2pFdbzZN1QQ2i5xiXXZdw3SH0_8xOZJb8jZUzYne2ACaU2kQLYw2VcCM-NwgLft_kF_dbZfHATaU9NLHLyCtL18xjMZae8HiU4f2QouAF9AU0TnDH8lr5FDnrQ_WHdJ44N",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJPbYI4rfJt4kRK1Yq0UW0uo4",
+            "plus_code":{
+                  "compound_code":"WXM8+8R Washington, DC, USA",
+                  "global_code":"87C4WXM8+8R"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJPbYI4rfJt4kRK1Yq0UW0uo4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":116,
+            "vicinity":"1400 Meridian Place Northwest, Washington",
+            "CBG":110010028011,
+            "Radius":145.574032652
+      }
+]

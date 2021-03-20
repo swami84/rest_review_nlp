@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8315194,
+                        "lng":-73.930022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8328917303,
+                              "lng":-73.9287430197
+                        },
+                        "southwest":{
+                              "lat":40.8301937697,
+                              "lng":-73.9314409803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"VicNat Diner",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107892719167115160136\">Quan Southall<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJZO9twc-5YzqNxs4frCl1V60CGBKOimtSBgmmzMl2rbmI78GGENC1Ao7eKW2rn-wMHiGL3yUK-kJnqEvd_4iSvYJvzU0o6wueV51Ho9MTtjMz2RBBrdX9PjuSBmHGeSaA8XbJ30TUeJWrq2ZzAAkSNvAlSB4y6B2QL_8PWIxn5cM1w",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhZfMkKT1wokRoTJDPEnSNOA",
+            "plus_code":{
+                  "compound_code":"R3J9+JX New York, NY, USA",
+                  "global_code":"87G8R3J9+JX"
+            },
+            "rating":4.4,
+            "reference":"ChIJhZfMkKT1wokRoTJDPEnSNOA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":79,
+            "vicinity":"948 Ogden Avenue, The Bronx",
+            "CBG":360050189001,
+            "Radius":258.5989282237
+      }
+]

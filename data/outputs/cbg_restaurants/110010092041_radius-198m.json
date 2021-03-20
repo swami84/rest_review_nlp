@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9243582,
+                        "lng":-77.0008241
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9257058303,
+                              "lng":-76.9993492697
+                        },
+                        "southwest":{
+                              "lat":38.9230078697,
+                              "lng":-77.0020472303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sapphire Kitchen",
+            "place_id":"ChIJ__-jQ_jHt4kRuIrZW3yfh-g",
+            "plus_code":{
+                  "compound_code":"WXFX+PM Washington, DC, USA",
+                  "global_code":"87C4WXFX+PM"
+            },
+            "reference":"ChIJ__-jQ_jHt4kRuIrZW3yfh-g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2640 4th Street Northeast, Washington",
+            "CBG":110010092041,
+            "Radius":198.2442097955
+      }
+]

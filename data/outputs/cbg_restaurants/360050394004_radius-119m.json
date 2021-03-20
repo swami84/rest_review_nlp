@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8855132,
+                        "lng":-73.8620758
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8868170803,
+                              "lng":-73.8605840197
+                        },
+                        "southwest":{
+                              "lat":40.8841191197,
+                              "lng":-73.8632819803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114291455805698085090\">Aaron Holness<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKnwVejIBbBl5itBdiaH3Z6ZmGSwwboG781HyGh_NwtULXP10kngeOqjRARE9wxNcA1QVgzt58qPgQVrTiSB1voKmDOnBreEE1btiOMVpDrRSYile-WLryCHzv1ZZYEZReLkXKGdOYZMcHQ8dHwitfzxM2Segi1alU-ZQ7QCiJoDnoQ",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJuxkS1j_zwokR30ozFHYdhqk",
+            "plus_code":{
+                  "compound_code":"V4PQ+65 New York, NY, USA",
+                  "global_code":"87G8V4PQ+65"
+            },
+            "price_level":1,
+            "rating":2.5,
+            "reference":"ChIJuxkS1j_zwokR30ozFHYdhqk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":416,
+            "vicinity":"3869 White Plains Road, The Bronx",
+            "CBG":360050394004,
+            "Radius":119.0132484869
+      }
+]

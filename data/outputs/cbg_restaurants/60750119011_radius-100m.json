@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7911157,
+                        "lng":-122.4136056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7924527803,
+                              "lng":-122.4124838197
+                        },
+                        "southwest":{
+                              "lat":37.7897548197,
+                              "lng":-122.4151817803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Osso Steakhouse",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":895,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106139427706950738332\">Osso Steakhouse<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKoKDomQNrq8YeOGTS5JKNGYMP0kl4Nn-AkpKx5vqqYwsfh3CjMMVaVbDEFA5t_y1odTcxFG2AeIFJuXjMbZaftcaQW26F3wZotsllLWbiZ2Lq3zHlvJFqswbVqXaloDKI2KCsKivCXUkaFShohylkw_adazfKRjv7eo18DpSSspJRu",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJs0tSjpKAhYAR6e21lYe-YdY",
+            "plus_code":{
+                  "compound_code":"QHRP+CH Lower Nob Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHRP+CH"
+            },
+            "price_level":4,
+            "rating":4.3,
+            "reference":"ChIJs0tSjpKAhYAR6e21lYe-YdY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":563,
+            "vicinity":"1177 California Street, San Francisco",
+            "CBG":60750119011,
+            "Radius":100.0573962296
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9931638,
+                        "lng":-118.4746842
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9945400303,
+                              "lng":-118.4734635197
+                        },
+                        "southwest":{
+                              "lat":33.9918420697,
+                              "lng":-118.4761614803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Barrique",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":684,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105377687225585454433\">Barrique<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ3GD2cGJl5wP-jM9emivVBp4GdD7jH3TZFWV7F1j_F1tgzb6ATO3nhHNZr3NRCKjN0RYJeZLpniMQwqg7ICDljJFAjapz_19c3u-H_AK5U9Usp6Tn4V8DPvlzsqHP3E4cmtJG5uGGrZDruyrlYZRGulC0itDhdrv_e2KE_kQiWZkU",
+                        "width":1217
+                  }
+            ],
+            "place_id":"ChIJDZhLJ8a6woARChFCedB2_l4",
+            "plus_code":{
+                  "compound_code":"XGVG+74 Venice, Los Angeles, CA, USA",
+                  "global_code":"8553XGVG+74"
+            },
+            "price_level":3,
+            "rating":4.6,
+            "reference":"ChIJDZhLJ8a6woARChFCedB2_l4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":420,
+            "vicinity":"796 Main Street, Venice",
+            "CBG":60372734023,
+            "Radius":184.9604147314
+      }
+]

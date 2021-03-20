@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.2876132,
+                        "lng":-76.5900653
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2890415303,
+                              "lng":-76.5887751697
+                        },
+                        "southwest":{
+                              "lat":39.2863435697,
+                              "lng":-76.5914731303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy Hour Heaven",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":511,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111476466004735866978\">Happy Hour Heaven<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJmi5s5NWKa2QYBgy32jq_x35j9aKY0NOeeMoZAN1qyOE3ou3MgpHdoUJgEmZHFtPO0qYYHsgkX6kvf1lqbCsbrK140rcgwoKIKm158djLagMdGTiHJ6hFCKgI2Urce6u8thxXkMh3Cu2BEI4_hi4I07vOsB8o0YLRGyKn0qhShAZfp",
+                        "width":511
+                  }
+            ],
+            "place_id":"ChIJb7v3J38EyIkR0y5a1K86Et4",
+            "plus_code":{
+                  "compound_code":"7CQ5+2X Baltimore, MD, USA",
+                  "global_code":"87F57CQ5+2X"
+            },
+            "rating":4.5,
+            "reference":"ChIJb7v3J38EyIkR0y5a1K86Et4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"1901 Gough Street, Baltimore",
+            "CBG":245100201002,
+            "Radius":184.8863985462
+      }
+]

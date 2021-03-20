@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6385229,
+                        "lng":-74.0153231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6400111803,
+                              "lng":-74.0138279197
+                        },
+                        "southwest":{
+                              "lat":40.6373132197,
+                              "lng":-74.0165258803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"5avenida tacos california cors",
+            "permanently_closed":true,
+            "place_id":"ChIJORkSL51FwokRm0fBVeg95vk",
+            "plus_code":{
+                  "compound_code":"JXQM+CV Brooklyn, NY, USA",
+                  "global_code":"87G7JXQM+CV"
+            },
+            "reference":"ChIJORkSL51FwokRm0fBVeg95vk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11220, Brooklyn",
+            "CBG":360470102002,
+            "Radius":135.9837351233
+      }
+]

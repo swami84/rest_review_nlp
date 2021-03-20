@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8175922,
+                        "lng":-73.8882581
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8189069803,
+                              "lng":-73.8870065697
+                        },
+                        "southwest":{
+                              "lat":40.8162090197,
+                              "lng":-73.8897045303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Montefino",
+            "place_id":"ChIJeSw7hQD1wokRO3XWNvVH9QU",
+            "plus_code":{
+                  "compound_code":"R496+2M New York, NY, USA",
+                  "global_code":"87G8R496+2M"
+            },
+            "rating":5,
+            "reference":"ChIJeSw7hQD1wokRO3XWNvVH9QU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"842 Hunts Point Avenue, The Bronx",
+            "CBG":360050115022,
+            "Radius":117.1288013023
+      }
+]

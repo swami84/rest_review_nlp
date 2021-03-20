@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8752255,
+                        "lng":-73.8798431
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8765883803,
+                              "lng":-73.8783211697
+                        },
+                        "southwest":{
+                              "lat":40.8738904197,
+                              "lng":-73.8810191303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sal's Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108145886173649878689\">E C<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLrglP1-nGxajN1d7kjnjw-6SSrlwEf2LqIbjxaTbCyf_hxiIVEB2TZtgj4xTQts906VMaWUHkb8pxYanOAYtYFTqnTRd8I0nN6rll0Lmbq49G9Y7YdLuN-m5nwdQZ-Vt9lDXUGUOUmUAZy1zlI1bJB72Yu_3jhW2SjkbvUvHMRQKF",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ_rHT3LzwokR-hV_GkMICcI",
+            "plus_code":{
+                  "compound_code":"V4GC+33 New York, NY, USA",
+                  "global_code":"87G8V4GC+33"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJZ_rHT3LzwokR-hV_GkMICcI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":254,
+            "vicinity":"3167 Bainbridge Avenue, The Bronx",
+            "CBG":360050419005,
+            "Radius":72.0110155172
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8755828,
+                        "lng":-73.8793411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8769266303,
+                              "lng":-73.8780926197
+                        },
+                        "southwest":{
+                              "lat":40.8742286697,
+                              "lng":-73.8807905803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dragon Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100689882983855597440\">Freddy Karlow<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIaC394R5Hy_YgWC_avYkdmZ7bABHUXgZAWzKOwRTUNbCQefrANi1PWQSIGlZzMPdmQpvpsAmHmH9dcflfakkqeRwy2nIiCk44ARWlnSi04NM02sqWc9pKJNmcCaNKgECdZJPCygeB0tp8sbyH26lQapiCU4GbaKAMlAeq2sN61s-Vn",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJg3GzW3LzwokRN2_CTn5IXPA",
+            "plus_code":{
+                  "compound_code":"V4GC+67 The Bronx, NY, USA",
+                  "global_code":"87G8V4GC+67"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJg3GzW3LzwokRN2_CTn5IXPA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"3178 Bainbridge Avenue, The Bronx",
+            "CBG":360050419005,
+            "Radius":72.0110155172
+      }
+]

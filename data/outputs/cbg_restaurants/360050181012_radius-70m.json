@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8328864,
+                        "lng":-73.9157055
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8341925803,
+                              "lng":-73.9142299697
+                        },
+                        "southwest":{
+                              "lat":40.8314946197,
+                              "lng":-73.9169279303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Restaurante latino",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117231952594655254387\">Restaurante latino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIBdmMktfMvS0JmRN3rIQAnAj9LAOFsDU_Sls5Ym_YZD7vU_8j5FnnUxljfSxljUMfKImIQ5XNNrpf9-aiXY-lKSGQQT6pxhPdcd9XzKqBo87fTPMggN1uGygD1qw2rxjPpxUkpva_6QJEponNyzwEJCLq_xHnQ8XeGDxLEwxcU6bQu",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJAfmQg7T1wokRvaE1Oj6xMEA",
+            "plus_code":{
+                  "compound_code":"R3MM+5P The Bronx, NY, USA",
+                  "global_code":"87G8R3MM+5P"
+            },
+            "rating":5,
+            "reference":"ChIJAfmQg7T1wokRvaE1Oj6xMEA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1175 Grant Avenue, The Bronx",
+            "CBG":360050181012,
+            "Radius":70.4943539803
+      }
+]

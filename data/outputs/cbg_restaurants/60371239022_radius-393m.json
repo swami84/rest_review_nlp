@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1739728,
+                        "lng":-118.3961167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1753108303,
+                              "lng":-118.3949705697
+                        },
+                        "southwest":{
+                              "lat":34.1726128697,
+                              "lng":-118.3976685303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Catering Los Angeles",
+            "place_id":"ChIJ32lr23SWwoARQsbvNcrImFY",
+            "plus_code":{
+                  "compound_code":"5JF3+HH Valley Village, Los Angeles, CA, USA",
+                  "global_code":"85635JF3+HH"
+            },
+            "rating":5,
+            "reference":"ChIJ32lr23SWwoARQsbvNcrImFY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5700 Laurel Canyon Boulevard, Valley Village",
+            "CBG":60371239022,
+            "Radius":393.302058105
+      }
+]

@@ -1,0 +1,147 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9415564,
+                        "lng":-118.2778884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9429053303,
+                              "lng":-118.2766680697
+                        },
+                        "southwest":{
+                              "lat":33.9402073697,
+                              "lng":-118.2793660303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pupusas To go Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":364,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116709139338252409311\">Pupusas To go Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLw89Ss6Q2_FiAYelB0MPFp7Y6CMwyOsjezL9S0gY5Vg1sjZpnJIAUNaxciQPEvoCZqC26ddYOPyP1ItzB14DC2f-LaMF3ZlmKUJyDkTbyQ5pARsfW1YLx4Wh6ajdVkzV0dS6zc7J9xltDphYUtFwkTG3ozrNksgLb36oJNM71wmv2K",
+                        "width":700
+                  }
+            ],
+            "place_id":"ChIJKQkt3pHJwoARrjGEK37wPwY",
+            "plus_code":{
+                  "compound_code":"WPRC+JR Los Angeles, CA, USA",
+                  "global_code":"8553WPRC+JR"
+            },
+            "rating":4.7,
+            "reference":"ChIJKQkt3pHJwoARrjGEK37wPwY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6.0,
+            "vicinity":"10410 South Broadway, Los Angeles",
+            "CBG":60372411202,
+            "Radius":265.1595008666
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.939483,
+                        "lng":-118.274555
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9406945303,
+                              "lng":-118.2732053197
+                        },
+                        "southwest":{
+                              "lat":33.9379965697,
+                              "lng":-118.2759032803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chuco Mariscos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107607526875263560532\">Carlos Anguiano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKzp0EpGeG-jxaxFpkrRnLAeykVLpxwBGBYnwokCyRBRv4hhyey2rgYBnhAa4qfZkwGocku-ZvvYcPM8omiaXynBh69-jBd1YBAAYCizbI97jFwRGFUi9yIirTC2sZ9nmpLuDNOK8i7FNVP-3G1UpBDndELPSAYKnNjpv2PbUqxk1XC",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJLSpT54rJwoAR2Xh-LTZsc8o",
+            "plus_code":{
+                  "compound_code":"WPQG+Q5 Los Angeles, CA, USA",
+                  "global_code":"8553WPQG+Q5"
+            },
+            "rating":4.6,
+            "reference":"ChIJLSpT54rJwoAR2Xh-LTZsc8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81.0,
+            "vicinity":"115 West 107th Street, Los Angeles",
+            "CBG":60372411202,
+            "Radius":265.1595008666
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9417782,
+                        "lng":-118.2785411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9431272803,
+                              "lng":-118.2771171197
+                        },
+                        "southwest":{
+                              "lat":33.9404293197,
+                              "lng":-118.2798150803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Peoples Kitchen",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJFQtwe_PJwoARoCZjFbRqNL4",
+            "plus_code":{
+                  "compound_code":"WPRC+PH Los Angeles, CA, USA",
+                  "global_code":"8553WPRC+PH"
+            },
+            "rating":null,
+            "reference":"ChIJFQtwe_PJwoARoCZjFbRqNL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"10387 South Broadway, Los Angeles",
+            "CBG":60372411202,
+            "Radius":265.1595008666
+      }
+]

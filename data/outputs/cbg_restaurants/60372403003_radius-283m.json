@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9542621,
+                        "lng":-118.2829017
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9556112803,
+                              "lng":-118.2814587197
+                        },
+                        "southwest":{
+                              "lat":33.9529133197,
+                              "lng":-118.2841566803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Carnitas Estilo Michoacan",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJO7H2cKbJwoARoK8HZeFSnqI",
+            "plus_code":{
+                  "compound_code":"XP38+PR Los Angeles, CA, USA",
+                  "global_code":"8553XP38+PR"
+            },
+            "rating":5,
+            "reference":"ChIJO7H2cKbJwoARoK8HZeFSnqI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"9027 South Figueroa Street, Los Angeles",
+            "CBG":60372403003,
+            "Radius":282.6201273085
+      }
+]

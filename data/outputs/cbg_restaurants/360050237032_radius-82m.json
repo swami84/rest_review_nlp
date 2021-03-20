@@ -1,0 +1,91 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8587704,
+                        "lng":-73.9001039
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8601535303,
+                              "lng":-73.8988568197
+                        },
+                        "southwest":{
+                              "lat":40.8574555697,
+                              "lng":-73.9015547803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zona AMD",
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112723133271716409468\">Luzy Figon<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKOp6b6u9a2GiU9cpy8Wzn1QOkhmWJh6-gra5imLxxym-DGAWe8b1WmQJAuTy84DL2FWVYbKIgZR31hqryL5z1lTKzES8_oJ33XnQaecE3GH_hLj-ew2BvUsWh26JS3m8HFqQ5UTHcd11IffaMD_J0JvRSDqdGBxRqf6N7VNJpUVIws",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "plus_code":{
+                  "compound_code":"V35X+GX New York, NY, USA",
+                  "global_code":"87G8V35X+GX"
+            },
+            "reference":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2330 Creston Avenue, The Bronx",
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050237032,
+            "Radius":81.7821944466
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8589992,
+                        "lng":-73.8994404
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8603188803,
+                              "lng":-73.8980098697
+                        },
+                        "southwest":{
+                              "lat":40.8576209197,
+                              "lng":-73.9007078303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"New Concept Juice",
+            "photos":null,
+            "place_id":"ChIJMzCPyXn0wokRNOVjJ_-XbDw",
+            "plus_code":{
+                  "compound_code":"V452+H6 The Bronx, NY, USA",
+                  "global_code":"87G8V452+H6"
+            },
+            "reference":"ChIJMzCPyXn0wokRNOVjJ_-XbDw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2347 Grand Concourse, The Bronx",
+            "rating":1.0,
+            "user_ratings_total":1.0,
+            "CBG":360050237032,
+            "Radius":81.7821944466
+      }
+]

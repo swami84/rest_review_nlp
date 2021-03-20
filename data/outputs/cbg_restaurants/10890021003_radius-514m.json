@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.7196508,
+                        "lng":-86.614158
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.7212342803,
+                              "lng":-86.6128080697
+                        },
+                        "southwest":{
+                              "lat":34.7185363197,
+                              "lng":-86.6155060303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Big Spring Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107842336300707472774\">tipi30<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ9wLLrwgIDBxrwjocsCNQAXIaQ6lXz0w49dja5mgD2sAZqv_NL7oWBty6R_mwf4r2kGdhNEjPHsDnj972zzFKV1KJdxqbLSpZqqeD7OoHVSFf87UZfG8TDsjHsrXJBul833mhLjnLfUQ2iNIfuQ7MnKT-fUKAu1wdHh38YuWlHZq2o",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJNRYaQ5lsYogRKbgbcK2R52w",
+            "plus_code":{
+                  "compound_code":"P99P+V8 Huntsville, AL, USA",
+                  "global_code":"866MP99P+V8"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJNRYaQ5lsYogRKbgbcK2R52w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":936,
+            "vicinity":"3507 Governors Drive Southwest, Huntsville",
+            "CBG":10890021003,
+            "Radius":513.8200017994
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.7198331,
+                        "lng":-86.6117127
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.7213192803,
+                              "lng":-86.6103627197
+                        },
+                        "southwest":{
+                              "lat":34.7186213197,
+                              "lng":-86.6130606803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Senor Taco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJfRKGwYRsYogRVyAt3OvjpV4",
+            "plus_code":{
+                  "compound_code":"P99Q+W8 Huntsville, AL, USA",
+                  "global_code":"866MP99Q+W8"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJfRKGwYRsYogRVyAt3OvjpV4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3315 Governors Drive Southwest, Huntsville",
+            "CBG":10890021003,
+            "Radius":513.8200017994
+      }
+]

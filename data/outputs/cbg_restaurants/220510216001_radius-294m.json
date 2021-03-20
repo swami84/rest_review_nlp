@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.995566,
+                        "lng":-90.192195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9968978303,
+                              "lng":-90.1912165197
+                        },
+                        "southwest":{
+                              "lat":29.9941998697,
+                              "lng":-90.1939144803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zita's La Pizzeria LLC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2101,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105149964082328899907\">Miss April Nola<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKIcs3rpCLUK_1ykDgpU2INk23Qjv0GEk_Bd5jeN0UKEEgdqOuGEYki1y45AUdR06ERcWjbffLE8SGf7s-G5C1YMjoWK-VVisNBfBlhOLJ2Gy0kpQWnK3sC76UYMw7nEanO6pZBCjCsPoICFUsTu0YzUqzH27DvrX0sLaruRvzmrN-v",
+                        "width":1711
+                  }
+            ],
+            "place_id":"ChIJbZQ9lIywIIYRoTKXHWfQUXQ",
+            "plus_code":{
+                  "compound_code":"XRW5+64 Metairie, LA, USA",
+                  "global_code":"76XFXRW5+64"
+            },
+            "rating":4.2,
+            "reference":"ChIJbZQ9lIywIIYRoTKXHWfQUXQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"2221 Transcontinental Drive, Metairie",
+            "CBG":220510216001,
+            "Radius":293.9725512005
+      }
+]

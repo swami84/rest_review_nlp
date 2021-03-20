@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2342025,
+                        "lng":-118.4681019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2355024303,
+                              "lng":-118.4667543697
+                        },
+                        "southwest":{
+                              "lat":34.2328044697,
+                              "lng":-118.4694523303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Tapachulteca",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113114361987612011791\">La Tapachulteca<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLOoWi35WR21AtCI8uMy56VFsHV8d8oEx5hWBmQ_Ua2EA3B5vbjx3gzfLcYvg-8u0pgiIE08hbUX6OsiTCwzBK3gNEHtVHTsALvJ8jAi0-q8EZbfqcFqKgSIKHq0O44KtZUpNVKPTN5xyC2n2B8igMMtmpBER71-A-FuIdU8sd13146",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJm1qYYr6QwoAR1d-TAP14G70",
+            "plus_code":{
+                  "compound_code":"6GMJ+MQ North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GMJ+MQ"
+            },
+            "rating":3.7,
+            "reference":"ChIJm1qYYr6QwoAR1d-TAP14G70",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":194.0,
+            "vicinity":"9023 Sepulveda Boulevard, North Hills",
+            "CBG":60371174051,
+            "Radius":253.4680963709
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2334213,
+                        "lng":-118.4683353
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2348349803,
+                              "lng":-118.4669821197
+                        },
+                        "southwest":{
+                              "lat":34.2321370197,
+                              "lng":-118.4696800803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Los Paisas",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118201634824316289789\">JC Hidalgo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKu7OnvC2riTfxiaXEEbovxkLPAN9uFTs9CMXasto3kGZJu02AvSl-6LMgxixW13wS4BithENKDC29rpBHCKZa0LMHUcniA8k0zbEej0y-wi6PuiEJ_w8wLwMjG_bI_OvaBC0T1CUoUt9LualtNGif_smA8wtgc1gV5SiCk-fZRROf",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJvdvrd4yRwoAR9rBiapS9cwE",
+            "plus_code":{
+                  "compound_code":"6GMJ+9M North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GMJ+9M"
+            },
+            "rating":null,
+            "reference":"ChIJvdvrd4yRwoAR9rBiapS9cwE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"8961 Sepulveda Boulevard, North Hills",
+            "CBG":60371174051,
+            "Radius":253.4680963709
+      }
+]

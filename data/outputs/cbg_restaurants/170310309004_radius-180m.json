@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9762835,
+                        "lng":-87.6725101
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9776048303,
+                              "lng":-87.6712030697
+                        },
+                        "southwest":{
+                              "lat":41.9749068697,
+                              "lng":-87.6739010303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fat Chris's Pizza and Such",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112039547042034081269\">Fat Chris&#39;s Pizza and Such<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIwqU0Tz3soIwToLDAJY6UjiN0j4ANlfX3RmdMm0dNWQ5vds37c4fMGr6XK_dulj8Pt8OPGQkexmgyC9kObSgZnc3rz71ld6s8DfBQoBqxJbORPFnIXVO83vI7mTTuCKVUJOVgMmpGGnCNqv9V-d2MVar3UDaTa2qFlKkk9w3N-OCJd",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJjz8U8YnRD4gRRr8dB9MMQxU",
+            "plus_code":{
+                  "compound_code":"X8GG+GX Chicago, IL, USA",
+                  "global_code":"86HJX8GG+GX"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJjz8U8YnRD4gRRr8dB9MMQxU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":309,
+            "vicinity":"1706 West Foster Avenue, Chicago",
+            "CBG":170310309004,
+            "Radius":179.8623650257
+      }
+]

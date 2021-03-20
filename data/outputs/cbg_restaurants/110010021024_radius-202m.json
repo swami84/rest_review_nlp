@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.956175,
+                        "lng":-77.0164
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9575305303,
+                              "lng":-77.0149001197
+                        },
+                        "southwest":{
+                              "lat":38.9548325697,
+                              "lng":-77.0175980803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"LIBRARY TAVERN",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4005,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106071502930355896868\">LIBRARY TAVERN<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLj8_Soucp-YZCPe0pwl4g44svlPt07YhueOCLYXlsSd0kv8jD2beT3Qavr0BJX8bSpk5LgpTniNU0yX9Biy6j0jWwDzPfYyvneCgXZU-DFY9-RcaMk0DKmGPV8QfU5L9mE8s_PMcWu5LlmkJdIDWt28xS3AFx4tz_PLNMe_7Jt1zsM",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJ53ryHHrIt4kRO15ID-mAXMI",
+            "plus_code":{
+                  "compound_code":"XX4M+FC Washington, DC, USA",
+                  "global_code":"87C4XX4M+FC"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ53ryHHrIt4kRO15ID-mAXMI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":210,
+            "vicinity":"5420 3rd Street Northwest, Washington",
+            "CBG":110010021024,
+            "Radius":201.5191685159
+      }
+]

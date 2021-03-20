@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6813111,
+                        "lng":-73.9740989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6826600803,
+                              "lng":-73.9727499197
+                        },
+                        "southwest":{
+                              "lat":40.6799621197,
+                              "lng":-73.9754478803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dean Organic Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1985,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104842433142609722240\">Rob Cooke<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIn722RE9yp8gwiDCQAdba_-FeiibdDnEcdIDdOW9wHJLJWJHBes90oXLvVsKeX_Srs8t49QrxENnuxxnDTA2n7PX9a90zJET-mO44SecIYTs4hNvm8osACIf8UK9xY5Y68cEoarspInz2sj1HR61H4WyMXP_QPIo2El1z8ZtatY14z",
+                        "width":3506
+                  }
+            ],
+            "place_id":"ChIJwQIun69bwokRhWh9k6O9DUE",
+            "plus_code":{
+                  "compound_code":"M2JG+G9 Brooklyn, NY, USA",
+                  "global_code":"87G8M2JG+G9"
+            },
+            "rating":4.2,
+            "reference":"ChIJwQIun69bwokRhWh9k6O9DUE",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"486 Dean Street, Brooklyn",
+            "CBG":360470161001,
+            "Radius":152.1388237227
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7949229,
+                        "lng":-122.4235486
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7962740303,
+                              "lng":-122.4220974197
+                        },
+                        "southwest":{
+                              "lat":37.7935760697,
+                              "lng":-122.4247953803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy Donuts",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2660,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114520404417890430624\">Chao Ratha<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9lckH4w0IMv1FhfFU8t2Inbsl5VxzZFyd47hAaq-_Y7-i3k5-kSKWWw-jSs3SbK-vt3aoO8lWW45azHEDH4w3m1FHt9-dVhvNeXcZzN8VUQQHKwyPvQ1q4rP1xPHZqF4acEuq7eO13wPRu5TO7cRNDqDyOc5GO1salGIqWmbS19qU",
+                        "width":3738
+                  }
+            ],
+            "place_id":"ChIJe0G8-emAhYARcGc8op1Lw6o",
+            "plus_code":{
+                  "compound_code":"QHVG+XH Pacific Heights, San Francisco, CA, USA",
+                  "global_code":"849VQHVG+XH"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJe0G8-emAhYARcGc8op1Lw6o",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":119,
+            "vicinity":"2101 Van Ness Avenue, San Francisco",
+            "CBG":60750131011,
+            "Radius":167.9532786334
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.73645,
+                        "lng":-117.174989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7377507303,
+                              "lng":-117.1737266697
+                        },
+                        "southwest":{
+                              "lat":32.7350527697,
+                              "lng":-117.1764246303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Starlite",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":483,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110998623842836580894\">Starlite<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZZuVBWGC5WtTncm7hyDwl8vJhLPQNZNvEPDAqUR5_6bhlgJ8DtaMO9r7qZl-M4SfhbUuLaKFUuXc6aKIGwrdWvOegJH1pdiiElQJr8OLU72du3Tdjxwkdi8wePHQSWmAvQSBY807gIiKZLUPtj3ap56-Ld7QIbxLiScs051BRNclB",
+                        "width":725
+                  }
+            ],
+            "place_id":"ChIJ8aKflTSr3oAR-pSbTLFwINQ",
+            "plus_code":{
+                  "compound_code":"PRPG+H2 San Diego, CA, USA",
+                  "global_code":"8544PRPG+H2"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ8aKflTSr3oAR-pSbTLFwINQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":628,
+            "vicinity":"3175 India Street, San Diego",
+            "CBG":60730061002,
+            "Radius":377.7875970135
+      }
+]

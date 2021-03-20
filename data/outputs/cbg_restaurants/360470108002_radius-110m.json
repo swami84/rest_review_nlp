@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6412321,
+                        "lng":-74.0034143
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6425810803,
+                              "lng":-74.0020653197
+                        },
+                        "southwest":{
+                              "lat":40.6398831197,
+                              "lng":-74.0047632803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Xing Xing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJDaTCAstawokRVVh1RE9rZHI",
+            "plus_code":{
+                  "compound_code":"JXRW+FJ Brooklyn, NY, USA",
+                  "global_code":"87G7JXRW+FJ"
+            },
+            "rating":4.5,
+            "reference":"ChIJDaTCAstawokRVVh1RE9rZHI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"4917 8th Avenue, Brooklyn",
+            "CBG":360470108002,
+            "Radius":109.6518095191
+      }
+]

@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8363084,
+                        "lng":-73.9148727
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8375911803,
+                              "lng":-73.9134049697
+                        },
+                        "southwest":{
+                              "lat":40.8348932197,
+                              "lng":-73.9161029303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Razancha Bar & Restaurant",
+            "place_id":"ChIJiXNjrjj0wokRd2Btn3yrcx0",
+            "plus_code":{
+                  "compound_code":"R3PP+G3 The Bronx, NY, USA",
+                  "global_code":"87G8R3PP+G3"
+            },
+            "rating":4.2,
+            "reference":"ChIJiXNjrjj0wokRd2Btn3yrcx0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"213 East 170th Street, The Bronx",
+            "CBG":360050179022,
+            "Radius":69.6105695809
+      }
+]

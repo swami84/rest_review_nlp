@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8918111,
+                        "lng":-73.8585834
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8931147803,
+                              "lng":-73.8570881697
+                        },
+                        "southwest":{
+                              "lat":40.8904168197,
+                              "lng":-73.8597861303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King Correan",
+            "place_id":"ChIJByOExibzwokRTzZqFMXA7IM",
+            "plus_code":{
+                  "compound_code":"V4RR+PH New York, NY, USA",
+                  "global_code":"87G8V4RR+PH"
+            },
+            "reference":"ChIJByOExibzwokRTzZqFMXA7IM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4137 White Plains Road, The Bronx",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050420003,
+            "Radius":119.5230006816
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8918034,
+                        "lng":-73.8585611
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8931109303,
+                              "lng":-73.8570770197
+                        },
+                        "southwest":{
+                              "lat":40.8904129697,
+                              "lng":-73.8597749803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jimbo's Hamburger Palace",
+            "place_id":"ChIJByOExibzwokRsMigXjsbCBM",
+            "plus_code":{
+                  "compound_code":"V4RR+PH New York, NY, USA",
+                  "global_code":"87G8V4RR+PH"
+            },
+            "reference":"ChIJByOExibzwokRsMigXjsbCBM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"street1, 4137 White Plains Road between 230 and 231",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102071879922416504672\">Vosmap<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLbklK4G6qKwA1tZQau7Ladg85-tpYrrqNDzCm8tQ_IJWX4l_PbN8WJdac1woI7gazmhETjwb3Pl5LyU39Us3ukdv3CIf2HzUza-eZx_f1MaHjya51cdANrvWDNExkFD7WCbU8NWW67oH_QVDhx9BG9s8UWtH2Xn12ob01QM7UBYFEV",
+                        "width":3888
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.1,
+            "user_ratings_total":387.0,
+            "CBG":360050420003,
+            "Radius":119.5230006816
+      }
+]

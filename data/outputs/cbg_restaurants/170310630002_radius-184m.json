@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9327554,
+                        "lng":-87.6529328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9340509803,
+                              "lng":-87.6515823197
+                        },
+                        "southwest":{
+                              "lat":41.9313530197,
+                              "lng":-87.6542802803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Satay Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1478,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117361783462132605518\">Somchai Soipech<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIWmSPx6ElAgWKxfM0-1xBCQm9NT23r7sTuZdCro78hurTIik5fsUvmvri_KQOJ0ZZkMW5-wHoYoPfhEQ6uiAIDmiHStUiWvq1DD6UwL6nCv13qvXjokuNxqkN8gWqcWViJk4DHw9A7uiYM43AstBd6McmPh70INhpVrikyUYVKUFFB",
+                        "width":1108
+                  }
+            ],
+            "place_id":"ChIJ56xF1AbTD4gRGtj9wdNHz3E",
+            "plus_code":{
+                  "compound_code":"W8MW+4R Chicago, IL, USA",
+                  "global_code":"86HJW8MW+4R"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJ56xF1AbTD4gRGtj9wdNHz3E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"936 West Diversey Parkway, Chicago",
+            "CBG":170310630002,
+            "Radius":184.4347743432
+      }
+]

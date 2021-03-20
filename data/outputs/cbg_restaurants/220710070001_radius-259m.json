@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9634634,
+                        "lng":-90.1052377
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9645853303,
+                              "lng":-90.1043633697
+                        },
+                        "southwest":{
+                              "lat":29.9618873697,
+                              "lng":-90.1070613303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chick-fil-A",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":288,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113885790671761032545\">Chick-fil-A<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwITCqdYs3cBpLA7rEFCIa6NNfvKtn7ehk-WV3Y9WnYiKHjnXROwo_2sN0Le0RGcXy33gFYqFea725bMPWlkGrm3OugNhEZ36yvQgGqSuGFk7I8NjU_GeFUtwXQB6f9MI-Q-ftsDoR_82e0HOTG9Xh2agpkuKUoeFzKFDX3AQZGSFgRo",
+                        "width":512
+                  }
+            ],
+            "place_id":"ChIJC-S9jgWpIIYRcJydi9dKV-g",
+            "plus_code":{
+                  "compound_code":"XV7V+9W New Orleans, LA, USA",
+                  "global_code":"76XFXV7V+9W"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJC-S9jgWpIIYRcJydi9dKV-g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"University Center, 4980 Dixon Street, New Orleans",
+            "CBG":220710070001,
+            "Radius":259.2173324143
+      }
+]

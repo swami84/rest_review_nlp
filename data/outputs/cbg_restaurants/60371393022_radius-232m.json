@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1763688,
+                        "lng":-118.5393212
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1776988803,
+                              "lng":-118.5382856197
+                        },
+                        "southwest":{
+                              "lat":34.1750009197,
+                              "lng":-118.5409835803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"D'Fusion",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2208,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116773627396482390736\">D&#39;Fusion<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL033LFafy1ymOnhl-M9OuGwviJ5Qdilbfchp9FH_g4oF5lw0QOGr2kQ1EJGI1Rgb8XAP4NzYvGcUOyp9B3J2opuHQypTvkuypn_VcEwhAot5hzOad9HG-EiM78AREg9lGz6IghpbKcE3DDXWme6RRFWjRrVLlUNAP9Hr1nWO3p4Bl1",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJCyeQBQ-ZwoARcmlGFN4XfaU",
+            "plus_code":{
+                  "compound_code":"5FG6+G7 Tarzana, Los Angeles, CA, USA",
+                  "global_code":"85635FG6+G7"
+            },
+            "reference":"ChIJCyeQBQ-ZwoARcmlGFN4XfaU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"18620 Hatteras Street #182, Tarzana",
+            "CBG":60371393022,
+            "Radius":231.5776608494
+      }
+]

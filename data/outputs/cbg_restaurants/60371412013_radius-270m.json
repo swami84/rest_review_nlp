@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1526231,
+                        "lng":-118.4473238
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1540106803,
+                              "lng":-118.4459913197
+                        },
+                        "southwest":{
+                              "lat":34.1513127197,
+                              "lng":-118.4486892803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111842107628251809131\">Kyle Leone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJpCtJ7T42Kzod6yj5p0hIfcj4_n2B3C8897H78tVOqDciypiHqwOqmICWNpheP2DIRgJ_LuTu_zuArZVSwuH0NhqkwprhTSdGrkTkymoIzxGtWi00VZXwgGWORbi0033GlRBZ-nO6PQ0_OeAyRWWm12SFSLv28mN-02Sg_5LwJR6xy",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJlzw-VM6XwoARCtBD9nvJ3wY",
+            "plus_code":{
+                  "compound_code":"5H33+23 Sherman Oaks, Los Angeles, CA, USA",
+                  "global_code":"85635H33+23"
+            },
+            "rating":4.6,
+            "reference":"ChIJlzw-VM6XwoARCtBD9nvJ3wY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"4454 Van Nuys Boulevard, Sherman Oaks",
+            "CBG":60371412013,
+            "Radius":269.5515743602
+      }
+]

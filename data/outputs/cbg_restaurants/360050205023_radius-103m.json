@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8509269,
+                        "lng":-73.9202294
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8523280803,
+                              "lng":-73.9189922197
+                        },
+                        "southwest":{
+                              "lat":40.8496301197,
+                              "lng":-73.9216901803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Marisco Centro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104161550573702644165\">Nelson Ventura<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK_jU7YuLm0kGikSXl78b2KNfAa4ZJ50_0KinCp59GvEhm6Lhe7q3ZhOsxJF0KRY30gszRHjh8O7jWn4CUOl9mbqS5VsIuBYDnheMSHxVGim-xD2JzoyA8RSXbW5_VoDzyifwAFIPYmkOOqrUxYFKLBUeDf8xNjVNmVxVvB3VGocvUB",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJq6raPRH0wokRDsAPPH-LFbY",
+            "plus_code":{
+                  "compound_code":"V32H+9W The Bronx, NY, USA",
+                  "global_code":"87G8V32H+9W"
+            },
+            "rating":4.4,
+            "reference":"ChIJq6raPRH0wokRDsAPPH-LFbY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1736 Undercliff Avenue, The Bronx",
+            "CBG":360050205023,
+            "Radius":103.3206593714
+      }
+]

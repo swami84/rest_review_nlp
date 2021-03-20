@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7787247,
+                        "lng":-87.605568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7801512803,
+                              "lng":-87.6043858197
+                        },
+                        "southwest":{
+                              "lat":41.7774533197,
+                              "lng":-87.6070837803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"JB One",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111881280797794583615\">JB One<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK3QUVUKVmvvYVRJzUpqj8znNGboSCYzGcSGiOo5UFnw4AZyBhOgWm5wo1UrIVTvrYGDbqqYbbb2NxItLzukv6GF__vyOShltabjtvzFj0Dm6-g3XU2ZrWm-Q5O8XUapJTfbsYZWNpILu0Yd7Q8HRb3wo4BP6h7C6b13DVkGF_6OW5u",
+                        "width":550
+                  }
+            ],
+            "place_id":"ChIJk-4M8SYpDogRCnAu8VxVSYE",
+            "plus_code":{
+                  "compound_code":"Q9HV+FQ Chicago, IL, USA",
+                  "global_code":"86HJQ9HV+FQ"
+            },
+            "rating":3.5,
+            "reference":"ChIJk-4M8SYpDogRCnAu8VxVSYE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":188,
+            "vicinity":"6359 South Cottage Grove Avenue, Chicago",
+            "CBG":170314208001,
+            "Radius":241.9103882745
+      }
+]

@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6160373,
+                        "lng":-74.0314793
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6173862803,
+                              "lng":-74.0301303197
+                        },
+                        "southwest":{
+                              "lat":40.6146883197,
+                              "lng":-74.0328282803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fort Hamilton Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":6936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107211055381599822701\">Louis Ma<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKX2zAAt7lLYEZACy_d5rig7mP6yhBEbZA1mUsFzmBGWZzeyUC7gAodGE5H_qeNzLzhlcbwMHuP33ZpprxTPz_h1mlz6dcewTdsUOwgQ6wzcowHpnnN_sl2S3cBTbipbDgs9722gdmvazK39DE6M2-eloQFC63P_DY9g2o6TtJjdcy2",
+                        "width":9248
+                  }
+            ],
+            "place_id":"ChIJ58VENYhPwokRlY-E1J7ChgQ",
+            "plus_code":{
+                  "compound_code":"JX89+CC Brooklyn, NY, USA",
+                  "global_code":"87G7JX89+CC"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJ58VENYhPwokRlY-E1J7ChgQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":203,
+            "vicinity":"9502 4th Avenue, Brooklyn",
+            "CBG":360470054003,
+            "Radius":115.0753139688
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6166109,
+                        "lng":-74.0311449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6179216803,
+                              "lng":-74.0296812697
+                        },
+                        "southwest":{
+                              "lat":40.6152237197,
+                              "lng":-74.0323792303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hunter's Steak & Ale House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115506783767185998281\">Hunter&#39;s Steak &amp; Ale House<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIrHpFH1nqVbSy4h-zpX7Z5AE-FQPLGAvTNO3QzZyePzxbJ-7ZGH3YamCn8PqWpO8VKb68eA1ghjBqv6MUfxXy-igZOHskzdTKrf5mZ0Yb-yfOcHPq-_K64fkvwt4o6kGbtezq5HKJPnUl128SdtwZriiSyJZ4_yqIyOZox-uhVfwER",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJZ4dtz4lPwokRMY7NhFM0Go4",
+            "plus_code":{
+                  "compound_code":"JX89+JG Brooklyn, NY, USA",
+                  "global_code":"87G7JX89+JG"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJZ4dtz4lPwokRMY7NhFM0Go4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":495,
+            "vicinity":"9404 4th Avenue, Brooklyn",
+            "CBG":360470054003,
+            "Radius":115.0753139688
+      }
+]

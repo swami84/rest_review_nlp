@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.849294,
+                        "lng":-73.916584
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8506998303,
+                              "lng":-73.9153377197
+                        },
+                        "southwest":{
+                              "lat":40.8480018697,
+                              "lng":-73.9180356803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"7-Eleven - Closed",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103036538369899457648\">Richard Frias<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI6iGRpS0uU0pQ4_1GAnLAm-qc4s0CmZtok9cFt45WSg9tevXR0dxdem1h9OEu2aKLP5XaNI0BssLV2MDyFc7frcFGtmcySaxd4z4YVStLYQlR1TEVfEpD6iZI3s0ociL4gDEb4ggG3YPpuJsa2Fcnxd4n4fc8vle3qXCdBZcSJcV9h",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJvfX0dRT0wokR-v1gfy5g2t4",
+            "plus_code":{
+                  "compound_code":"R3XM+P9 New York, NY, USA",
+                  "global_code":"87G8R3XM+P9"
+            },
+            "price_level":1,
+            "rating":2,
+            "reference":"ChIJvfX0dRT0wokR-v1gfy5g2t4",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"1764 University Avenue, The Bronx",
+            "CBG":360050215024,
+            "Radius":81.7568914525
+      }
+]

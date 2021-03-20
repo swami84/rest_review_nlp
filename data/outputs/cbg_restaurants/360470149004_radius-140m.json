@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6614278,
+                        "lng":-73.9863847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6627767803,
+                              "lng":-73.9850357197
+                        },
+                        "southwest":{
+                              "lat":40.6600788197,
+                              "lng":-73.9877336803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sips' N Bites",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112635348768513184984\">vivian cordova<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKM4LAoWb7Tx84_8Eg9sI8No9lQCzeyhtnkxSg0ug1vfz_wGFlmV_S3SMfjwvlGI3-IW2MP7Mjg7MkjzlFksg5T6Gwe1UD_BJFyfTI6Q3xZ-Sgl8l6USlAERffF8Y4M3Xsp-wRnDKdCiqKBFofPS19tLhETOHbFGm5j6OPTtFx77ccb",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ40JvfOFawokREUsKuepdOL4",
+            "plus_code":{
+                  "compound_code":"M267+HC Brooklyn, NY, USA",
+                  "global_code":"87G8M267+HC"
+            },
+            "rating":4.5,
+            "reference":"ChIJ40JvfOFawokREUsKuepdOL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"364 Prospect Avenue, Brooklyn",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":360470149004,
+            "Radius":139.7892839699
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.661458,
+                        "lng":-73.985772
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6628581303,
+                              "lng":-73.9845228197
+                        },
+                        "southwest":{
+                              "lat":40.6601601697,
+                              "lng":-73.9872207803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Joy Kitchen",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109968714222653962765\">Anthony Giudice<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxmn4lzDVpH2kLcZAU5YiNRiPaXJz4x5gsIrWDL4fp8BS-ChDAQaBqnFo7N0RDqJn76keLAr4Ytnj_TLpWIXvM39ooEEVPjZDOjIXG0mIo-eSNayuwE-ms5WUpz5RTU2EjX7XiSnYkNoYN1R7sCr9yIuBc8VeeHmm21AVQgpJZuQUR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJbZdWgOFawokRCXEkNvG60n4",
+            "plus_code":{
+                  "compound_code":"M267+HM Brooklyn, NY, USA",
+                  "global_code":"87G8M267+HM"
+            },
+            "rating":3.5,
+            "reference":"ChIJbZdWgOFawokRCXEkNvG60n4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":45,
+            "vicinity":"497 7th Avenue A, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":360470149004,
+            "Radius":139.7892839699
+      }
+]

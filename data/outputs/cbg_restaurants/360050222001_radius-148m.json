@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8364852,
+                        "lng":-73.8530918
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8377261803,
+                              "lng":-73.8517320197
+                        },
+                        "southwest":{
+                              "lat":40.8350282197,
+                              "lng":-73.8544299803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sabor Latino",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117768608905090782733\">anthony gopar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwICfeH2UPc_O3wvMkeKg2AXLOZe73IJdnCMsQWyoq2u3mek56A5TCK1FDud8WsUKfQpCezaDN91XA3Q-0mc567PnsQ0saKcxtBIS2VJC2b71cdsd1fnd1QPsot6Fh-ZpJ5RuDwaS-Yz0s2ErxWssIRMRz9Qr9SVc8Sf5A5AGDwW4sbD",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJAxKN8rf0wokR75p3u7N1Kek",
+            "plus_code":{
+                  "compound_code":"R4PW+HQ The Bronx, NY, USA",
+                  "global_code":"87G8R4PW+HQ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJAxKN8rf0wokR75p3u7N1Kek",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":394,
+            "vicinity":"2161 Starling Avenue, The Bronx",
+            "CBG":360050222001,
+            "Radius":148.1005716642
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.001625,
+                        "lng":-87.6611
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0029267803,
+                              "lng":-87.6596817197
+                        },
+                        "southwest":{
+                              "lat":42.0002288197,
+                              "lng":-87.6623796803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blaze Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1114,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100774369438094807903\">Blaze Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL5KvpJEjd4z7YXliqWaUMo02mmZQ2VpNksly82jbIYBlGi12OXBp9hmB4omGLtg-qKxQt8TiIaszPujdFK_I8nw2SC162WmCIdF2kQ6vCSMNkEaP9hQxkYcqMmDgm-Ik4GH6AUu3Wjh7cT5iKMTbtjsnoufb5upQ4bUUGNB_8RhJcp",
+                        "width":1684
+                  }
+            ],
+            "place_id":"ChIJY32N5abRD4gRjnH3vGDMsVo",
+            "plus_code":{
+                  "compound_code":"282Q+JH Chicago, IL, USA",
+                  "global_code":"86JJ282Q+JH"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJY32N5abRD4gRjnH3vGDMsVo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":647,
+            "vicinity":"6550 North Sheridan Road, Chicago",
+            "CBG":170310105032,
+            "Radius":163.6898631232
+      }
+]

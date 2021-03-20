@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6464059,
+                        "lng":-74.0086293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6478221303,
+                              "lng":-74.0073864697
+                        },
+                        "southwest":{
+                              "lat":40.6451241697,
+                              "lng":-74.0100844303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nieves Tia Mimi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103795271122406215834\">Kevin Ayala<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLB3lX_QdxcODdC1hvoeVc5wn3qIMvmXhP0klOa_0ls_QC2-zF_tOyzUQ95rGc6e0NRNZZeLP9Rnc5hUritKHeC0r7Y6JDCSfJjr3iVCeVZIeRs-xdtjLlCPP_bAKTGCjeEJ9Bu-z0BpLLl4_flVW1OdKClq5PvHAXd1l9vKR0_7lgj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJzbwhQ7ZawokR2_nP9-pLxAg",
+            "plus_code":{
+                  "compound_code":"JXWR+HG Brooklyn, NY, USA",
+                  "global_code":"87G7JXWR+HG"
+            },
+            "rating":4.4,
+            "reference":"ChIJzbwhQ7ZawokR2_nP9-pLxAg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":342,
+            "vicinity":"4711 5th Avenue, Brooklyn",
+            "price_level":null,
+            "CBG":360470096003,
+            "Radius":109.5196472382
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.646968,
+                        "lng":-74.0080543
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6483801303,
+                              "lng":-74.0068100697
+                        },
+                        "southwest":{
+                              "lat":40.6456821697,
+                              "lng":-74.0095080303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rax's Pizza",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113530369348231339706\">Nixon Hernandez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJCk8davZf14hwobKh1cPGwQOEXTrvDcsP-7AbcrS5sz9uTRZ3M4KVKutvhaKIEKsqBK_Qs02ZACnsW8wtyvLTQVKEiOl0llqO5OnrZjZOzh5NDcAnUCWgy_ZYYUxArL5UdfKDQoBnqm_l8ghkbIUQzbugkF8xkqd9ElzB5ckuzX4C8",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJJXWjSbZawokRkWoLx7zB9pE",
+            "plus_code":{
+                  "compound_code":"JXWR+QQ Brooklyn, NY, USA",
+                  "global_code":"87G7JXWR+QQ"
+            },
+            "rating":4.1,
+            "reference":"ChIJJXWjSbZawokRkWoLx7zB9pE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"4613 5th Avenue, Brooklyn",
+            "price_level":1.0,
+            "CBG":360470096003,
+            "Radius":109.5196472382
+      }
+]

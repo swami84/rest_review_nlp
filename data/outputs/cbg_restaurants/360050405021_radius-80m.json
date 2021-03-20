@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8644559,
+                        "lng":-73.8909596
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8657924303,
+                              "lng":-73.8895904697
+                        },
+                        "southwest":{
+                              "lat":40.8630944697,
+                              "lng":-73.8922884303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lorretta riddles",
+            "place_id":"ChIJVVUokYHzwokR3cVZuqTHgvA",
+            "plus_code":{
+                  "compound_code":"V475+QJ The Bronx, NY, USA",
+                  "global_code":"87G8V475+QJ"
+            },
+            "rating":3.3,
+            "reference":"ChIJVVUokYHzwokR3cVZuqTHgvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"2632-2640 Marion Avenue, The Bronx",
+            "CBG":360050405021,
+            "Radius":80.4420392347
+      }
+]

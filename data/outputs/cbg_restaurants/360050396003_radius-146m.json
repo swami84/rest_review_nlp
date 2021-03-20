@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.883938,
+                        "lng":-73.8624
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8853150803,
+                              "lng":-73.8611403697
+                        },
+                        "southwest":{
+                              "lat":40.8826171197,
+                              "lng":-73.8638383303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Krust Caribbean Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1316,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102144032589788159530\">Golden Krust Caribbean Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5XsiIZNuaRFmQqNc4LRhXWpELZRTcXv9DyiIHv0b1E3HbzcsWsGCOFbxQDHHf8LFHMbNXwuUlQ1qm3YmhefFA-GZ08gB2TrDH0DhPjQe0qKMwbunT9E45SAKyKAGUIJQhXbAEmZFAwtj1IR7pV0cKMzCOhbJPpNIC2fFueo86wGjg",
+                        "width":1757
+                  }
+            ],
+            "place_id":"ChIJ4aFT_DzzwokRstmee5h0IUU",
+            "plus_code":{
+                  "compound_code":"V4MQ+H2 New York, NY, USA",
+                  "global_code":"87G8V4MQ+H2"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJ4aFT_DzzwokRstmee5h0IUU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"3812 White Plains Road, The Bronx",
+            "CBG":360050396003,
+            "Radius":145.7914354478
+      }
+]

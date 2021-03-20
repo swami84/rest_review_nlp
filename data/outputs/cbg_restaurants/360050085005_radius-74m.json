@@ -1,0 +1,94 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8159865,
+                        "lng":-73.8968046
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8173035803,
+                              "lng":-73.8954068697
+                        },
+                        "southwest":{
+                              "lat":40.8146056197,
+                              "lng":-73.8981048303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Mama's Fried Chicken & Pizza",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111073528260787826149\">Adony ramirez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJRygrxBPsSsiJV9K4Omw_uSYfOAj9-SsjuAYheJUEJzgCSUljqDFd0NOXYbyokFRFHVUh3iMLagzP60llFZhYSFDhv96oKRYX8oskNSVtaQsDCztrbr3eORNIqxw55WG0aCtO5EztmyglXzvkrxyPAPQ7yI24M5yq7lZOaTcdfh2l4",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJsVRlka71wokR6ZZ2dL_hKPI",
+            "plus_code":{
+                  "compound_code":"R483+97 New York, NY, USA",
+                  "global_code":"87G8R483+97"
+            },
+            "rating":4.5,
+            "reference":"ChIJsVRlka71wokR6ZZ2dL_hKPI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"787 Southern Boulevard, The Bronx",
+            "permanently_closed":null,
+            "CBG":360050085005,
+            "Radius":74.0099758239
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8161695,
+                        "lng":-73.8966378
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8174849303,
+                              "lng":-73.8952315697
+                        },
+                        "southwest":{
+                              "lat":40.8147869697,
+                              "lng":-73.8979295303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Red Star",
+            "photos":null,
+            "place_id":"ChIJXeRHl671wokRa2qS-KKEkvs",
+            "plus_code":{
+                  "compound_code":"R483+F8 The Bronx, NY, USA",
+                  "global_code":"87G8R483+F8"
+            },
+            "rating":3.5,
+            "reference":"ChIJXeRHl671wokRa2qS-KKEkvs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"795 Southern Boulevard, The Bronx",
+            "permanently_closed":true,
+            "CBG":360050085005,
+            "Radius":74.0099758239
+      }
+]

@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.7807,
+                        "lng":-87.60399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7819900303,
+                              "lng":-87.6026415197
+                        },
+                        "southwest":{
+                              "lat":41.7792920697,
+                              "lng":-87.6053394803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Great Steak",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106979706271870654585\">Great Steak<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLm6dMVR1jYo7IbOZfgKw_9l2kPWKoWgt70meRXncyKwaNyA7jxie7k11B_wyIao8vR5go-V1FulrDl24oUJtONc_qDulqlnUsBzbz9t6fjeRGpU9YyYlnhRbXAtXnLespvl2NiAt3ws-WiiYFn_XzspkPNA2XCdVff_hObGO1OX3t9",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ-a5V_yMpDogRY-7IEuaNSvs",
+            "plus_code":{
+                  "compound_code":"Q9JW+7C Chicago, IL, USA",
+                  "global_code":"86HJQ9JW+7C"
+            },
+            "rating":3.8,
+            "reference":"ChIJ-a5V_yMpDogRY-7IEuaNSvs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"850 East 63rd Street, Chicago",
+            "CBG":170314204001,
+            "Radius":279.332536201
+      }
+]

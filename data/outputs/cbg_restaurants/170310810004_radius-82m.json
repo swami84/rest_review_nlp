@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9034979,
+                        "lng":-87.6341384
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9048440803,
+                              "lng":-87.6329547197
+                        },
+                        "southwest":{
+                              "lat":41.9021461197,
+                              "lng":-87.6356526803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Surf's Up Old Town",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103616698665612558526\">Surf&#39;s Up Old Town<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLSilPNdRf7B4IYivx2yHPHl4fQS4IY680pN3nlx81iF5XrKGcaYzAxpdClvJaDG1Cg4eLKZt8DJ_W8-vOSiDtLe98CokPjPrxw-6dLFLtygxqICDHTK6JyGqc8dB-UH_zNstiRTBrK7fMZqNwi9vFCDVIOZLuEmSASFKenK4qWHMMp",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ75eyxPzTD4gROWvgXSCSqJc",
+            "plus_code":{
+                  "compound_code":"W938+98 Chicago, IL, USA",
+                  "global_code":"86HJW938+98"
+            },
+            "rating":4.2,
+            "reference":"ChIJ75eyxPzTD4gROWvgXSCSqJc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"1143 North Wells Street, Chicago",
+            "CBG":170310810004,
+            "Radius":82.2808177478
+      }
+]

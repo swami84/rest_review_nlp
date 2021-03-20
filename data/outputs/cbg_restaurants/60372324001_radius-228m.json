@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0017932,
+                        "lng":-118.3087289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0031428803,
+                              "lng":-118.3074899697
+                        },
+                        "southwest":{
+                              "lat":34.0004449197,
+                              "lng":-118.3101879303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Flor Blanca",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108065653946273507843\">Jose&#39; Mendoza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLG4pvrx63nTX2O74P84kXvV47gCg7aKsJiGGKvueKYz1MDajIXnDnivL8UtBWDtHLv-4R0OuOcrup4oYyavCN814bSPrZ1Qpj7I4_LqcY4av4egfcNO1J2uXtuSrt5QMjINSBfdx6pbldLkNLvjuucC6VkI6r5Hry9XaWCe-RSppJ9",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJsUqI5_q3woARFSElPenYHb0",
+            "plus_code":{
+                  "compound_code":"2M2R+PG Los Angeles, CA, USA",
+                  "global_code":"85632M2R+PG"
+            },
+            "rating":4.2,
+            "reference":"ChIJsUqI5_q3woARFSElPenYHb0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"4600 South Western Avenue, Los Angeles",
+            "CBG":60372324001,
+            "Radius":227.6510213007
+      }
+]

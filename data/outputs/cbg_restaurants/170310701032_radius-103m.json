@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9273573,
+                        "lng":-87.6417864
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9287806303,
+                              "lng":-87.6404122197
+                        },
+                        "southwest":{
+                              "lat":41.9260826697,
+                              "lng":-87.6431101803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Fat Shallot Lincoln Park",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112249419185374619559\">The Fat Shallot Lincoln Park<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKYgVZQguV13iUTTEZGR9YI0AyIxt480zimJKh4vJiSNZKeyCDEvqzkLYaFQ6lU3l0zib5jxoYUCEQGVzkj1C0kQTqxeIqtxMlWir2Utx6yWkjbHzycQo3iwH8pTHgxgs9jqbwOu_n2kVjDg0O-je4KuyIAZ2-Svgu8uNMvbqaSyTHJ",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJ24D4z2nTD4gRfvBjIVbfv5U",
+            "plus_code":{
+                  "compound_code":"W9G5+W7 Chicago, IL, USA",
+                  "global_code":"86HJW9G5+W7"
+            },
+            "rating":4.7,
+            "reference":"ChIJ24D4z2nTD4gRfvBjIVbfv5U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106.0,
+            "vicinity":"2468 North Clark Street, Chicago",
+            "CBG":170310701032,
+            "Radius":103.3991898283
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9266562,
+                        "lng":-87.642433
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9280409303,
+                              "lng":-87.6410843197
+                        },
+                        "southwest":{
+                              "lat":41.9253429697,
+                              "lng":-87.6437822803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Salvatore's Ristorante",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJM0Eywg3TD4gRDOHQyNqpLkE",
+            "plus_code":{
+                  "compound_code":"W9G5+M2 Chicago, IL, USA",
+                  "global_code":"86HJW9G5+M2"
+            },
+            "rating":null,
+            "reference":"ChIJM0Eywg3TD4gRDOHQyNqpLkE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":170310701032,
+            "Radius":103.3991898283
+      }
+]

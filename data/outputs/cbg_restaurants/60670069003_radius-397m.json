@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.6114093,
+                        "lng":-121.4459442
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.6127467303,
+                              "lng":-121.4445993197
+                        },
+                        "southwest":{
+                              "lat":38.6100487697,
+                              "lng":-121.4472972803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109390295449977956257\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKKLr2S5-ja85lFCUU8FzLtNmhzzApIoQs3K-qG0p7HeuWyyWd0MI0PIm0pTaMSEtzPenDqxVQpv7fvq-gMLcb36y91QcD-hv43I_3kjCuFZbWKeOt1iAIVaEe42D2vbqJd6t0BilX470chQt-j3lTNaPEGtSjMOlcs9WBMi8avZ8X8",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJqxCEgVjXmoARgUM7YFelEOE",
+            "plus_code":{
+                  "compound_code":"JH63+HJ Sacramento, CA, USA",
+                  "global_code":"84CWJH63+HJ"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJqxCEgVjXmoARgUM7YFelEOE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1533,
+            "vicinity":"901 El Camino Avenue, Sacramento",
+            "CBG":60670069003,
+            "Radius":396.7949793317
+      }
+]

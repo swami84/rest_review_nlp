@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1015202,
+                        "lng":-118.3183675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1029555803,
+                              "lng":-118.3170235697
+                        },
+                        "southwest":{
+                              "lat":34.1002576197,
+                              "lng":-118.3197215303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Palms Thai Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1526,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106310704887233363997\">Palms Thai Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLmDhOVVs2DkEshy7WQaWMLmxwY8OADIgJ7GYIgWMueLYbQMqgfzghRNSAXB03EuanrUnzLTwdyqSuTYesA8Qv7pK_ifQ_6YbE6Mpxz9IjMGnS9rTLbFqceE2a4lbDDZjOdR5XLlFypwYRn3CROYxkBiNqxYvuYKoWq_bjOCFOU1h0m",
+                        "width":2984
+                  }
+            ],
+            "place_id":"ChIJkSGEFka_woARJagRSBO3Qe0",
+            "plus_code":{
+                  "compound_code":"4M2J+JM Los Angeles, CA, USA",
+                  "global_code":"85634M2J+JM"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJkSGEFka_woARJagRSBO3Qe0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1434,
+            "vicinity":"5900 Hollywood Boulevard b, Los Angeles",
+            "CBG":60371910002,
+            "Radius":221.3450271898
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0978856,
+                        "lng":-118.3181278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0991086803,
+                              "lng":-118.3167707697
+                        },
+                        "southwest":{
+                              "lat":34.0964107197,
+                              "lng":-118.3194687303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"ixlb Dimsum Eats",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109160304024107812275\">ixlb Dimsum Eats<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJmcPIv1ZfueQlMdeXV4WpbXD-qiKfkwmjWw-RXrbOPgU4BsokTewCzOPEJzLPp9qQTHIda9q8K8APzI-3gkpRlr8Xl4kXxBezR-jkoGv5QuOanFhBvaHjznHPUH65RNtnLm9jq_Vh8RH6WZ_FG4wWhJCEHRMS3LcEkrEKV6kSbpKay",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJX9eyIUm_woART2-8how99Pg",
+            "plus_code":{
+                  "compound_code":"3MXJ+5P Los Angeles, CA, USA",
+                  "global_code":"85633MXJ+5P"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJX9eyIUm_woART2-8how99Pg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":461,
+            "vicinity":"5900 Sunset Boulevard, Los Angeles",
+            "CBG":60371910002,
+            "Radius":221.3450271898
+      }
+]

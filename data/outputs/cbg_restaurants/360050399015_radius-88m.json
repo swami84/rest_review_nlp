@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8635296,
+                        "lng":-73.8939839
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8648785803,
+                              "lng":-73.8926349197
+                        },
+                        "southwest":{
+                              "lat":40.8621806197,
+                              "lng":-73.8953328803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy Garden",
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101420493999043514484\">Manuel Suquilanda<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL3VY-N9zo5X92zGCBALYMrYySb0HFUxFqiEx7PIoWHHY4lhhkCPQgTR5kvnPo1S5xG83a8WM7pOLLM2mpQkZTnUVmh9qlTDlaR3nYRyMkdP4CqAqTnUIJbqAIZB5Q8d17iaUMVl-r02hHwxHj-pJnhY4_5C1k1BjMbkZNDWf5cppfu",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJAVeBXIHzwokRlY9ojtEyc2A",
+            "plus_code":{
+                  "compound_code":"V474+CC The Bronx, NY, USA",
+                  "global_code":"87G8V474+CC"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJAVeBXIHzwokRlY9ojtEyc2A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"277 East Kingsbridge Road, The Bronx",
+            "CBG":360050399015,
+            "Radius":87.6874769317
+      }
+]

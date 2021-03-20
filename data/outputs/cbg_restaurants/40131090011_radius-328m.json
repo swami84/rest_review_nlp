@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5080415,
+                        "lng":-112.1164917
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5093892303,
+                              "lng":-112.1152531697
+                        },
+                        "southwest":{
+                              "lat":33.5066912697,
+                              "lng":-112.1179511303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Culichi Sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104812410062431350870\">Aley<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIhQ-Vw2UN3iCFkFGJZ6w5sDNAywpibEpBlymvQ_EjSa3PgCc2gxmjhKUbcZVrVIda2ABDBD3n9-RxeoC3MHxmqU3a_HDQaO9nACu35-irKTZXssuFwx2nWR8i0r4CNrSkim_yvI4lZePmEC60WxNw4McdzcZ_8L0AJVP9Xox3uTEa3",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVyAlWDgTK4cRe71gToS0W5Q",
+            "plus_code":{
+                  "compound_code":"GV5M+6C Phoenix, AZ, USA",
+                  "global_code":"8559GV5M+6C"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJVyAlWDgTK4cRe71gToS0W5Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":152,
+            "vicinity":"4807 North 27th Avenue, Phoenix",
+            "CBG":40131090011,
+            "Radius":328.2468379343
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.5081778,
+                        "lng":-112.1166072
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.5095261803,
+                              "lng":-112.1153120197
+                        },
+                        "southwest":{
+                              "lat":33.5068282197,
+                              "lng":-112.1180099803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lupita hot dogs tortas y antojitos",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ2fK84EATK4cRxMo91V9LfmI",
+            "plus_code":{
+                  "compound_code":"GV5M+79 Phoenix, AZ, USA",
+                  "global_code":"8559GV5M+79"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ2fK84EATK4cRxMo91V9LfmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"4813 North 27th Avenue, Phoenix",
+            "CBG":40131090011,
+            "Radius":328.2468379343
+      }
+]

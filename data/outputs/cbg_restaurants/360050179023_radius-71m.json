@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8379816,
+                        "lng":-73.9138179
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8394283803,
+                              "lng":-73.9125349697
+                        },
+                        "southwest":{
+                              "lat":40.8367304197,
+                              "lng":-73.9152329303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Better health club",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115924576409569238068\">Better health club<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLCoIY_nYqjE8ZOgsVGmGkchZYF_bw5Rzrfzo0IBg20KshN0CYr2_xL0xALfYbhkUVccyHpoHXHONc9GbKGK2WcVpdIm-25luXieboVksliRCHhxci2LA_ELEAWBhpRrm4-oKntYlsWxqEtZqf1Pv2TPbjOW8NdxCAoggq7NTqhoB9Q",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtTQA7Yr1wokRhdFD0QCv5Co",
+            "plus_code":{
+                  "compound_code":"R3QP+5F The Bronx, NY, USA",
+                  "global_code":"87G8R3QP+5F"
+            },
+            "reference":"ChIJtTQA7Yr1wokRhdFD0QCv5Co",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1384 Grand Concourse, The Bronx",
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050179023,
+            "Radius":70.6837461765
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8382515,
+                        "lng":-73.9131016
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8396821303,
+                              "lng":-73.9117999697
+                        },
+                        "southwest":{
+                              "lat":40.8369841697,
+                              "lng":-73.9144979303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nuevo Robles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJqzXxpTj0wokRsn810aLZVfQ",
+            "plus_code":{
+                  "compound_code":"R3QP+8Q The Bronx, NY, USA",
+                  "global_code":"87G8R3QP+8Q"
+            },
+            "reference":"ChIJqzXxpTj0wokRsn810aLZVfQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"216 East 170th Street, The Bronx",
+            "rating":3.5,
+            "user_ratings_total":4.0,
+            "CBG":360050179023,
+            "Radius":70.6837461765
+      }
+]

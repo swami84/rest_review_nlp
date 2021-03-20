@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9254247,
+                        "lng":-87.6568405
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9267211803,
+                              "lng":-87.6554888197
+                        },
+                        "southwest":{
+                              "lat":41.9240232197,
+                              "lng":-87.6581867803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Branko's",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2679,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103065985453723443733\">Eddie Moy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL1k-F-Q0Avbub4BDka3IcDens8OFylROJR94slkgsnd2Kppjp3KJVI4GRqFmGGcFmQXy4l9yYHQ0j0m32caThPljAKbYrobVlf-w4GYxxA1qIMmtHyumZJzsPDkezl_ARF_Wp2II0E27sLIO2mdG9gkH-Gpiw4rj7H4ii9kvwN1l7e",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJPV0LNR3TD4gRZuXpYU6D0_8",
+            "plus_code":{
+                  "compound_code":"W8GV+57 Chicago, IL, USA",
+                  "global_code":"86HJW8GV+57"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJPV0LNR3TD4gRZuXpYU6D0_8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":123,
+            "vicinity":"1118 West Fullerton Avenue, Chicago",
+            "CBG":170310704002,
+            "Radius":179.6250631263
+      }
+]

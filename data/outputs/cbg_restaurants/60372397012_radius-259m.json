@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9645756,
+                        "lng":-118.2785391
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9659151303,
+                              "lng":-118.2770722697
+                        },
+                        "southwest":{
+                              "lat":33.9632171697,
+                              "lng":-118.2797702303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Tacorin",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113356938471263603656\">El Tacorin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyyZJbrKR3dQG1dm40-2JLSpWZFNhTzjxAGnnZUNto8XhEOhc67Z9aq7yqZRtSObBGYxh_mAG6PxqdCk0fDMSjFj8UOTRkqCiCjt_3PIB4BGaxPWy6wijM4RJhcK_gIRc1orOc3iFnd93OsDHnhlr-mwmKb32J3s0V5QCmh239Z5wp",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJBVEvqsfJwoAR6zY1jf64PwY",
+            "plus_code":{
+                  "compound_code":"XP7C+RH Los Angeles, CA, USA",
+                  "global_code":"8553XP7C+RH"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJBVEvqsfJwoAR6zY1jf64PwY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":220,
+            "vicinity":"8215 South Broadway, Los Angeles",
+            "CBG":60372397012,
+            "Radius":259.1160054739
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.996598,
+                        "lng":-82.454937
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9978758303,
+                              "lng":-82.4536659697
+                        },
+                        "southwest":{
+                              "lat":27.9951778697,
+                              "lng":-82.4563639303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106124543399244724781\">Gene S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKceGTjvXMeZDTMh08sdqu29Gj9MCFARvDn_s7jT4LmjEunVnGgeLVn9dYdpq8aaaynnOrR9RFoh-OCpTQ8fmFfUROcVkwVC99pJ3u124sb9cb1VtU67dw_FmFk5nN1Zuk6PtfpVf5U-t6VYQN6uPBFn6SQEIC92mJeHwv7qT3bjxSH",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJ55xwmB_EwogRU8BWOwsl__g",
+            "plus_code":{
+                  "compound_code":"XGWW+J2 Tampa, FL, USA",
+                  "global_code":"76VVXGWW+J2"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ55xwmB_EwogRU8BWOwsl__g",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1444,
+            "vicinity":"502 East Hillsborough Avenue, Tampa",
+            "CBG":120570016003,
+            "Radius":346.860525717
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9485282,
+                        "lng":-90.0850601
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9498521303,
+                              "lng":-90.0836654197
+                        },
+                        "southwest":{
+                              "lat":29.9471541697,
+                              "lng":-90.0863633803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taqueria DF",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103521854170142731848\">Rosaura Oseguera<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKMmr51try3JI_VMprkV6-k-_ht_qPcwKJbfMm5MxSYXE6Hp9RXx6HQ0BBJHKCAUtbuminxwqGB9YshoR7qOves71oH6Vdg4D5Taw0G9akOHesd4ULvuuy_bPFAS1Syhu1xS9YXSn0gd04IEpmPFs03tjn5OT5axymCDbk53-P25FHE",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJSQt5xcKlIIYRiAxjbl65POA",
+            "plus_code":{
+                  "compound_code":"WWX7+CX New Orleans, LA, USA",
+                  "global_code":"76XFWWX7+CX"
+            },
+            "rating":4.1,
+            "reference":"ChIJSQt5xcKlIIYRiAxjbl65POA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"Earhart Blvd & US-90 BUS & Pontchartrain Expy, New Orleans",
+            "CBG":220710140004,
+            "Radius":238.2042898257
+      }
+]

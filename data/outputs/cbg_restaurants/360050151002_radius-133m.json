@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8323837,
+                        "lng":-73.898194
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8337927803,
+                              "lng":-73.8969261697
+                        },
+                        "southwest":{
+                              "lat":40.8310948197,
+                              "lng":-73.8996241303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Empire King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111520672279126605493\">Henry Lauture<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK8WPdJ7lu8dW7y4N_KJ_S6Mwjdc7yCEkYAcEGoOC5zkqXBriZ7-LpBmHWPAE8-SU8VEufIVem09MnsWQZNy3mXn0v3eMBEcDsnAFKCMaLrYBjAK-SQqv8oz5Gjai4WUdI6yXWUJuAMzsGjfnS9sMGM8cK0gDV2kNHQ2AD4rk-cMiA8",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJH8V5hVr0wokR2pp7ssfco7I",
+            "plus_code":{
+                  "compound_code":"R4J2+XP The Bronx, NY, USA",
+                  "global_code":"87G8R4J2+XP"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJH8V5hVr0wokR2pp7ssfco7I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"1374 Boston Road, The Bronx",
+            "CBG":360050151002,
+            "Radius":132.5221164577
+      }
+]

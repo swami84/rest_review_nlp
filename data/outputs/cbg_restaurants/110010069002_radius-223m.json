@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.881099,
+                        "lng":-76.986661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8823836303,
+                              "lng":-76.9853831197
+                        },
+                        "southwest":{
+                              "lat":38.8796856697,
+                              "lng":-76.9880810803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Lomita Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110619111633653193984\">Brenna Holmes<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIwziyW4CkEwuE1VCvW2eAk031UvfQiqLgj7eQyovvkPDEsxdrl9M68X1D59HH6sxU1ixYSfQ04XlbR4K3IQbeqyQyKdfct1Ed53oMGJggo2tiC85waeaCOLjGmJLbg8mCQbw1cGpR8ZdTYyrGOLiJPoSWd_duqYiragwUw5dgxwCLo",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJodGVpEq4t4kRjWvJSu6tVt8",
+            "plus_code":{
+                  "compound_code":"V2J7+C8 Washington, DC, USA",
+                  "global_code":"87C5V2J7+C8"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJodGVpEq4t4kRjWvJSu6tVt8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":199.0,
+            "vicinity":"1330 Pennsylvania Avenue Southeast, Washington",
+            "CBG":110010069002,
+            "Radius":222.5704667226
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8835975,
+                        "lng":-76.9865298
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8849474303,
+                              "lng":-76.9846740197
+                        },
+                        "southwest":{
+                              "lat":38.8822494697,
+                              "lng":-76.9873719803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bento Sushi",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJKQZbEVO5t4kRgzUdohnUN8s",
+            "plus_code":{
+                  "compound_code":"V2M7+C9 Washington, DC, USA",
+                  "global_code":"87C5V2M7+C9"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJKQZbEVO5t4kRgzUdohnUN8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"415 14th Street Southeast, Washington",
+            "CBG":110010069002,
+            "Radius":222.5704667226
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8299809,
+                        "lng":-73.9147869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8313625803,
+                              "lng":-73.9135394697
+                        },
+                        "southwest":{
+                              "lat":40.8286646197,
+                              "lng":-73.9162374303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Halall Coffee Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3968,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100506589734069548895\">Christiana Awusavi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIbsdak0hWgyuA2DccmSyzn_vr5o6Fzb941qKDU9_RJu7HhQq-39VTZrdSCEJew0Sui4tLd1__OdmCiNeik5y5nTMDBq-9YcaVPL5ETcdmDvtU2lHbSfR6VLAw9GKnRuDgCaPEEUVa62w-cZLP8OuCdCY5AqnRD7vrts_n1oq4h7KzZ",
+                        "width":2976
+                  }
+            ],
+            "place_id":"ChIJvWiYGzf0wokRzZbGphgAObE",
+            "plus_code":{
+                  "compound_code":"R3HP+X3 The Bronx, NY, USA",
+                  "global_code":"87G8R3HP+X3"
+            },
+            "rating":4.1,
+            "reference":"ChIJvWiYGzf0wokRzZbGphgAObE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"1064 College Avenue, The Bronx",
+            "CBG":360050175002,
+            "Radius":86.8448872602
+      }
+]

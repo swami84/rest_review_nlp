@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8622445,
+                        "lng":-73.8915993
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8635134803,
+                              "lng":-73.8903089697
+                        },
+                        "southwest":{
+                              "lat":40.8608155197,
+                              "lng":-73.8930069303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107443207429120036219\">Little Caesars Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwItcHL7F4SC1N9-PCVo6V0pEKAYumpKLPvigTDqOQM40MjwK9qJ9qxvkR43mQ9mR9owHJ4eL-6-6pb2s3mmsfCRI2nBxMGzy2hctI0mWmLnccC4x3JZQ8fr5aYzoAPghQjkXa2DYZxqmsLrvoTywz_JREso31Vw9iCZF4Meo9c7YjRC",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJCw8XbY_zwokRWvjzY5M3W5I",
+            "plus_code":{
+                  "compound_code":"V465+V9 New York, NY, USA",
+                  "global_code":"87G8V465+V9"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJCw8XbY_zwokRWvjzY5M3W5I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":234,
+            "vicinity":"2537 Decatur Avenue, The Bronx",
+            "CBG":360050399013,
+            "Radius":92.8447630604
+      }
+]

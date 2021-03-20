@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9651772,
+                        "lng":-117.3296968
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9665575303,
+                              "lng":-117.3283516197
+                        },
+                        "southwest":{
+                              "lat":33.9638595697,
+                              "lng":-117.3310495803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Vivi Eatery",
+            "place_id":"ChIJj5LbSHmv3IARNO3BhvEcSV0",
+            "plus_code":{
+                  "compound_code":"XM8C+34 Riverside, CA, USA",
+                  "global_code":"8554XM8C+34"
+            },
+            "reference":"ChIJj5LbSHmv3IARNO3BhvEcSV0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1400 South University Drive, Riverside",
+            "CBG":60650422063,
+            "Radius":424.7058648693
+      }
+]

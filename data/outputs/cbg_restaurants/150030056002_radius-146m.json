@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3303636,
+                        "lng":-157.8651954
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3317497303,
+                              "lng":-157.8637845697
+                        },
+                        "southwest":{
+                              "lat":21.3290517697,
+                              "lng":-157.8664825303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"K & K Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112470876861356680409\">Richard Verbrugge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUnS792gykLpi6Xs8_2WRNOWPH0e4HzL_4TNXHPwBn5iQA93oZ298jscZrwQmtHxhQxRF7sJNek9dwTJUJZAwKmLIl8vvYn4ADvXb4vV01hlU74bEKv0SfIgbzCFE6XlPkPiQUtNTEdWZFGYhTC98tQB1kjc67IiHPRZv1EED9sHCH",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJFQ-0fIduAHwR145vCg5yqWo",
+            "plus_code":{
+                  "compound_code":"84JM+4W Honolulu, HI, USA",
+                  "global_code":"73H484JM+4W"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJFQ-0fIduAHwR145vCg5yqWo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"1223 North School Street, Honolulu",
+            "CBG":150030056002,
+            "Radius":145.8972882163
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3300511,
+                        "lng":-157.8667595
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3313815303,
+                              "lng":-157.8653175197
+                        },
+                        "southwest":{
+                              "lat":21.3286835697,
+                              "lng":-157.8680154803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Upscale Hawaii Food Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115454581620256185986\">Leslie808<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIpD4Y92uQCmLTJ2wpmuQx8PRbkwPFev6fsLKYvjJ266-5WZJmKF56xXumiuCIcVmXMWvWySUlhFA5ojcU-PPnqdPvk4HAOCmbHyS17AqkRv2z_u70alzmWsIsBKL7GBr5c7x_Fe6O41XxRWIZ9GEVALkexCp03BFBEUX5hMJoOVBjH",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJQSkxY31uAHwRZU8kdDf6ouw",
+            "plus_code":{
+                  "compound_code":"84JM+27 Honolulu, HI, USA",
+                  "global_code":"73H484JM+27"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJQSkxY31uAHwRZU8kdDf6ouw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"1510 Kohou Street, Honolulu",
+            "CBG":150030056002,
+            "Radius":145.8972882163
+      }
+]

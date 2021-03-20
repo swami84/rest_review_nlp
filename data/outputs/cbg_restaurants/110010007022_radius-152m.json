@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9233217,
+                        "lng":-77.0727256
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9246548803,
+                              "lng":-77.0714888697
+                        },
+                        "southwest":{
+                              "lat":38.9219569197,
+                              "lng":-77.0741868303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Glover Park Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117012078606120153298\">Andrey Tikhonov<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIEdH8CXruKy2SANwO86ympPpd8TNw54G5ECQY3xFaD2zPKN3N3lUgEUrcME5axOw90p_ZNHB-I_n_dYyrhQjvF6zprLNl8J7UFF72nsXQIAO-QOA8u96O5dhpvUyjxPdM10YtPBu2e4Rw6ZOiYbyNxcpdp1Mp-Me4ZBoVoSMo_F0Ci",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJw8tmYiS2t4kRtaUYz3MuAW8",
+            "plus_code":{
+                  "compound_code":"WWFG+8W Washington, DC, USA",
+                  "global_code":"87C4WWFG+8W"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJw8tmYiS2t4kRtaUYz3MuAW8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":137,
+            "vicinity":"2505 Wisconsin Avenue Northwest, Washington",
+            "CBG":110010007022,
+            "Radius":152.4565114685
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9233217,
+                        "lng":-77.0727256
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9246548803,
+                              "lng":-77.0714888697
+                        },
+                        "southwest":{
+                              "lat":38.9219569197,
+                              "lng":-77.0741868303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Prince Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":854,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112536459033682242835\">Little Prince Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLl3Op-F3qTzDdbKOdrOo3VkSzICjwwj74Ahx4VQ_oIK3C7BRE8MG7kEy05w02MuEFZzy6xyTLLOqjs6JQYqddFs1fFJXP6dR1fnDBYrt_QCtt0yGM-GRFHsequhXIiY20Xr7dDB0y7O_uVbXzr3LfYaLwmdNuwE6PombLO6fzWFGRh",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJM2JhhiS2t4kRlpYvCuh1mMo",
+            "plus_code":{
+                  "compound_code":"WWFG+8W Washington, DC, USA",
+                  "global_code":"87C4WWFG+8W"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJM2JhhiS2t4kRlpYvCuh1mMo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"2505 Wisconsin Avenue Northwest, Washington",
+            "CBG":110010007022,
+            "Radius":152.4565114685
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8598975,
+                        "lng":-73.8935665
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8612957803,
+                              "lng":-73.8921737697
+                        },
+                        "southwest":{
+                              "lat":40.8585978197,
+                              "lng":-73.8948717303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"3 Way",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113482718649241495027\">Trey Rocwilder<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRdOSJXKIlF0GscBK9Nqjr6GytbVRi2VMNLOX3WzHGoKFXArzwZjRpSZhN0-PSyVLeYU6wbpR3bthfDbvuX4d2EG39_f_LXgEKZON-IyHlf2zC4Gz6h7mFlXtm7IDM_nM7XX89wq81klSMvpZzPdpJ-2NVd5F8ZmCema-yaKhozxSM",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJNSmAQX_0wokRtgU74LogeJ8",
+            "plus_code":{
+                  "compound_code":"V454+XH New York, NY, USA",
+                  "global_code":"87G8V454+XH"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJNSmAQX_0wokRtgU74LogeJ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":631,
+            "vicinity":"384 East 188th Street, The Bronx",
+            "CBG":360050399022,
+            "Radius":55.7035436083
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8600068,
+                        "lng":-73.893739
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8613975803,
+                              "lng":-73.8923529197
+                        },
+                        "southwest":{
+                              "lat":40.8586996197,
+                              "lng":-73.8950508803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cris Juice Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100221716912245309498\">Cris Juice Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKdzKqONmV0Fc54c_eqri4BBWTQV7ARDlWB93AxdVNoM2E2r3HMwMXRB72JQjPW6_e4pCAnV_aSHG8QIon6doyOrvscyNZvCATqhIOKLoA_rpBVLg6vT4OwLwBCK8cjtty20i_Q4GD4Mp9zqwiC8x7d8r7dGWKAErLNyQuzFs3GVUxT",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJTap5RH_0wokRtlKZRdofiBI",
+            "plus_code":{
+                  "compound_code":"V464+2G The Bronx, NY, USA",
+                  "global_code":"87G8V464+2G"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJTap5RH_0wokRtlKZRdofiBI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"370 East 188th Street #5549, The Bronx",
+            "CBG":360050399022,
+            "Radius":55.7035436083
+      }
+]

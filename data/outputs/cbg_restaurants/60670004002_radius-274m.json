@@ -1,0 +1,62 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.5760974,
+                        "lng":-121.4672656
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.5773890803,
+                              "lng":-121.4656954197
+                        },
+                        "southwest":{
+                              "lat":38.5746911197,
+                              "lng":-121.4683933803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111754449309439321714\">Michael Kahn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwS9wKvow4dHbUVcLshAWyW_ETojvkstcLSr1hLK0cm04xbDv4HFnPIuCWQEVJtyG9xazGdlu3-qz2ii1kGJJ788rxWb0SyOO3t_c-zn3KRWWokn5cN8ASnI5rjO89hP6aEbdXUEG0d9tNEuNs9KLWuR-u5zFLFUd0a4HeKGWMeKPT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe-nI5-vqrFIRXkDC_dk1pDI",
+            "plus_code":{
+                  "compound_code":"HGGM+C3 Sacramento, CA, USA",
+                  "global_code":"84CWHGGM+C3"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJe-nI5-vqrFIRXkDC_dk1pDI",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "atm",
+                  "gas_station",
+                  "meal_takeaway",
+                  "finance",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"730 29th Street, Sacramento",
+            "CBG":60670004002,
+            "Radius":274.235604817
+      }
+]

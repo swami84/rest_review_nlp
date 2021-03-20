@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9060234,
+                        "lng":-87.6304882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9072551803,
+                              "lng":-87.6291435197
+                        },
+                        "southwest":{
+                              "lat":41.9045572197,
+                              "lng":-87.6318414803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"3 Arts Club Caf\u00e9",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":799,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107327819874619151047\">Heli Trivedi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK96cBHHvuvtiNUHVDEsObwMiJaAyIf6A4GyeaJZg6wKSylzLnr3OgYf61g4W6xXQcaPMDudrFwvQo6dAtOU-o26E_6BkqdiQQtD6C3PabzEsGpOlYino-hVEQCSkZpAHp4h0qWj_wHmsC430vDIJuKxsBrQQpNx0QlYwMYNwML581v",
+                        "width":1599
+                  }
+            ],
+            "place_id":"ChIJI9-bbkXTD4gRXW_oUmh1zrg",
+            "plus_code":{
+                  "compound_code":"W949+CR Chicago, IL, USA",
+                  "global_code":"86HJW949+CR"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJI9-bbkXTD4gRXW_oUmh1zrg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1619,
+            "vicinity":"1300 North Dearborn Street, Chicago",
+            "CBG":170310802022,
+            "Radius":134.0089816345
+      }
+]

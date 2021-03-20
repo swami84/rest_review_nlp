@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.26652,
+                        "lng":-76.6523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2679318803,
+                              "lng":-76.6510485197
+                        },
+                        "southwest":{
+                              "lat":39.2652339197,
+                              "lng":-76.6537464803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizza Time",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":719,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110583017618536768238\">sultan mahmood<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKBwKhBhXUscAxImJUThAWo6nI9QqaMl5vhP3XllAWj0Q5pPmZpI2lWsb5TyVIY2CR7pR4sDFuNQghI0inP7YAonpiJdqRaPMTR-T-f99Q7atgaiUKfQsFAmaLP50hLMG_9vmnI6SZjps93hz3rUDfMtRAKnz5HGgXzFWKBF08u4m2y",
+                        "width":1279
+                  }
+            ],
+            "place_id":"ChIJW4CSU88cyIkRiRwFqKQ_-Uc",
+            "plus_code":{
+                  "compound_code":"788X+J3 Baltimore, MD, USA",
+                  "global_code":"87F5788X+J3"
+            },
+            "price_level":2.0,
+            "rating":3.3,
+            "reference":"ChIJW4CSU88cyIkRiRwFqKQ_-Uc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"2511 Washington Boulevard, Baltimore",
+            "CBG":245102503033,
+            "Radius":268.9640333078
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.266451,
+                        "lng":-76.652327
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2678718803,
+                              "lng":-76.6510894697
+                        },
+                        "southwest":{
+                              "lat":39.2651739197,
+                              "lng":-76.6537874303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"No 1 Taste III",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109923770276692802324\">harvey nicewonger<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLVq9SmQJDZfR0HzQ0vNMGHIcx5LHSH_w3BhtSfSfzT16eDvHw6l0aOwzOgGmnSy0ev1CZUvcuHLsaupNvdoLjZrq7XE1xvlvkrjAC8FCl5M-xlgVzCEkgi0nBSyAno73fSdHKHitovCxJqITDmZYggnc4TAuEGtW73Rm8t5OwYuwIN",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJSwj0U88cyIkRQR739ARY8Wk",
+            "plus_code":{
+                  "compound_code":"788X+H3 Baltimore, MD, USA",
+                  "global_code":"87F5788X+H3"
+            },
+            "price_level":null,
+            "rating":3.6,
+            "reference":"ChIJSwj0U88cyIkRQR739ARY8Wk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"2513 Washington Boulevard, Baltimore",
+            "CBG":245102503033,
+            "Radius":268.9640333078
+      }
+]

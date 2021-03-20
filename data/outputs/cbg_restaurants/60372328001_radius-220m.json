@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9940754,
+                        "lng":-118.2780823
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9954254803,
+                              "lng":-118.2768551697
+                        },
+                        "southwest":{
+                              "lat":33.9927275197,
+                              "lng":-118.2795531303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chavez Guadalupe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJo6vwPT_IwoARpj23E5j3K-0",
+            "plus_code":{
+                  "compound_code":"XPVC+JQ Los Angeles, CA, USA",
+                  "global_code":"8553XPVC+JQ"
+            },
+            "rating":4.3,
+            "reference":"ChIJo6vwPT_IwoARpj23E5j3K-0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"5300 South Broadway, Los Angeles",
+            "photos":null,
+            "CBG":60372328001,
+            "Radius":220.4624490725
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9940703,
+                        "lng":-118.2781407
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9954200803,
+                              "lng":-118.2768843697
+                        },
+                        "southwest":{
+                              "lat":33.9927221197,
+                              "lng":-118.2795823303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taqueria Don Lupe",
+            "opening_hours":null,
+            "place_id":"ChIJZ73oFz_IwoAR822Z7p36_Xc",
+            "plus_code":{
+                  "compound_code":"XPVC+JP Los Angeles, CA, USA",
+                  "global_code":"8553XPVC+JP"
+            },
+            "rating":4.6,
+            "reference":"ChIJZ73oFz_IwoAR822Z7p36_Xc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"5300 South Broadway, Los Angeles",
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107968742525101262278\">Stephany Orduna<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKADHqm4On2TGvdyL6A_rQ-3K1eTeSgO7-CWw-WvgW_LdLOoMRYsB6IprdqZXriliPLkUqKHpuVgeuYwB-vKSobXhs_fzKuGb-Ps7BbNODd3CC0B5_jPnt_Qs-_mLCXBSmAPGpyHJNbt8R5cZI2X5LU_bJCokDhs9gic8BD1TtjyR_a",
+                        "width":1080
+                  }
+            ],
+            "CBG":60372328001,
+            "Radius":220.4624490725
+      }
+]

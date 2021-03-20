@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6685639,
+                        "lng":-73.9803877
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6698957803,
+                              "lng":-73.9789887197
+                        },
+                        "southwest":{
+                              "lat":40.6671978197,
+                              "lng":-73.9816866803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Five Guys",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118072126550114776165\">Martin Harwood<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJeCTZxzY7fSYY0VKxfP1hErjs1QsWUkCFDYUKRlpV-7_Yd-9ejpMcOT_xyCMxibcpeH3PHdCVAyATHjZ4F9mUoj8iJ5CJU6QKmYPkbALaCNBdJxaZC-LHZQiKH7d06VgmVlIu2l4t0YWolw0C-BzhQ9jlNr2LGaicbBJ8RkLmonlIt",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJaZ03VAJbwokRUYocdowrw9Q",
+            "plus_code":{
+                  "compound_code":"M299+CR New York, NY, USA",
+                  "global_code":"87G8M299+CR"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJaZ03VAJbwokRUYocdowrw9Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":709,
+            "vicinity":"284 7th Avenue, Brooklyn",
+            "CBG":360470153004,
+            "Radius":109.2854301337
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.668977,
+                        "lng":-73.981006
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6703976803,
+                              "lng":-73.9795970197
+                        },
+                        "southwest":{
+                              "lat":40.6676997197,
+                              "lng":-73.9822949803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Plexiglass Cabin for Restaurant, Plexiglass Cacun , Dining Partition for Cafe and Restaurant",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJbaY3jKhbwokRhvJkyQR35vg",
+            "plus_code":{
+                  "compound_code":"M299+HH New York, NY, USA",
+                  "global_code":"87G8M299+HH"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJbaY3jKhbwokRhvJkyQR35vg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"462 6th Street, Brooklyn",
+            "CBG":360470153004,
+            "Radius":109.2854301337
+      }
+]

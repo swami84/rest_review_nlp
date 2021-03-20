@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8340405,
+                        "lng":-80.2036035
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8353907303,
+                              "lng":-80.2021865197
+                        },
+                        "southwest":{
+                              "lat":25.8326927697,
+                              "lng":-80.2048844803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jkt's Wings & Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100673529069205462270\">Jkt&#39;s Wings &amp; Burgers<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKEdwXFa7OaVoY2ZHTx7Z_PV6v07IZcvvsfZiJl-VC6xM4-Pg4Ve-XSNpaGX_Q841O912kB5mxIW7VLqz6YGMahDBn_gqFMWBAYXp07gbtWc371zZS4VguPNEMeheA5F_mH81Ml0Q3sfwZVzVu4tcZxIbLUVfe2IAE3UD0hoJqiJdMq",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJX5YhNVyx2YgRzZtd6_PqD3M",
+            "plus_code":{
+                  "compound_code":"RQMW+JH Miami, FL, USA",
+                  "global_code":"76QXRQMW+JH"
+            },
+            "rating":5,
+            "reference":"ChIJX5YhNVyx2YgRzZtd6_PqD3M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"6338 Northwest 4th Avenue, Miami",
+            "CBG":120860020014,
+            "Radius":272.8753532942
+      }
+]

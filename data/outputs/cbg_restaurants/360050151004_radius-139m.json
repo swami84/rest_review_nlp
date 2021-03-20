@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8292072,
+                        "lng":-73.897884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8305320803,
+                              "lng":-73.8964336197
+                        },
+                        "southwest":{
+                              "lat":40.8278341197,
+                              "lng":-73.8991315803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken and Pizza",
+            "photos":[
+                  {
+                        "height":2280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109969515535046316821\">Tommy C&#39;s Cat<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIXU88JPqT9OuKkBpHjrC3HPwP0dpZRpKtQ9UixGmoWx2rqr4lLhhuRFZXA2LGF1bBdXZ402H8LTyF_t2cCLym7JsRlhM1_QOenvBY6KDUOwXrDjQ-BxuWtcWaC54wkdHCpkxxm-7ZWdSgViGFRDh0QfWIA0eUzXIM6WuxW_j3VN5xu",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJRWKWknz1wokRKnxkP6pYWEk",
+            "plus_code":{
+                  "compound_code":"R4H2+MR The Bronx, NY, USA",
+                  "global_code":"87G8R4H2+MR"
+            },
+            "rating":4.8,
+            "reference":"ChIJRWKWknz1wokRKnxkP6pYWEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1335 Prospect Avenue, The Bronx",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":360050151004,
+            "Radius":139.0793124933
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8292814,
+                        "lng":-73.8969592
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8305812303,
+                              "lng":-73.8956971697
+                        },
+                        "southwest":{
+                              "lat":40.8278832697,
+                              "lng":-73.8983951303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King Grill",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101404390902966177481\">Evelyn Ortiz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIEvB-mF3cVGi1NTl4oGgVa6WHJ9Z1-77cunhyQPxLcPYfrcp04-j2l394Y1HxkhcX1FGjtacRfdvuJACUpgPGjEXUzn_MUDJi9TrfulPd-0lHVdPpMrv1r1REqPyuFSrYZiey4CCkRkL4z9cSmAGa94x4nX38XsEnV4cB52wPM88Zm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJvT-84lD0wokRiwXbO5zOCwY",
+            "plus_code":{
+                  "compound_code":"R4H3+P6 New York, NY, USA",
+                  "global_code":"87G8R4H3+P6"
+            },
+            "rating":4.1,
+            "reference":"ChIJvT-84lD0wokRiwXbO5zOCwY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":265,
+            "vicinity":"855 East 169th Street, The Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":360050151004,
+            "Radius":139.0793124933
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6197448,
+                        "lng":-74.0328352
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6210696803,
+                              "lng":-74.0313714197
+                        },
+                        "southwest":{
+                              "lat":40.6183717197,
+                              "lng":-74.0340693803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Al Horno Lean Mexican Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2654,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106740845827278873381\">Steve<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLRA4Zo9exCFUmJkyvAhrc2RLnXySrLZiz_wX_dgZ9CF9q-V6_b0Ke9HGFtUinP04RrJd2oZrr-JE_G4we47-P0Zgem6wxhSh3E4qBwHJPtL_5zyPF99R6Vo6b8XIVG2AaNPRXGxi_PYVkQ7ohxt1OhyxpGAGXpw0E5TTYIntfJ6AR5",
+                        "width":2232
+                  }
+            ],
+            "place_id":"ChIJy3CITn1PwokRIkc05ikYrDY",
+            "plus_code":{
+                  "compound_code":"JX98+VV Brooklyn, NY, USA",
+                  "global_code":"87G7JX98+VV"
+            },
+            "rating":4.5,
+            "reference":"ChIJy3CITn1PwokRIkc05ikYrDY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"9112 3rd Avenue, Brooklyn",
+            "CBG":360470058003,
+            "Radius":109.5980924334
+      }
+]

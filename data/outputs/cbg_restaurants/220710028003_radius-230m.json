@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9771321,
+                        "lng":-90.0677311
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9784275303,
+                              "lng":-90.0664387197
+                        },
+                        "southwest":{
+                              "lat":29.9757295697,
+                              "lng":-90.0691366803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Goodtimes Wingery & Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103887139358613618077\">Knowledge Jones<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJvclSKDe7Ab4CPltX0iFK5THhke9Y0bj-8yP16qYfsScBz1O72DzRzqKtMofBqtbF5gOFDfEWDVkt50N-QT5R7A_XYKGinfxSXApiguzlILapQXoXrvU-XaiS9Mf5tejIdl6s6SNHeNiWel5IjvcFJaQnGdRKDAMk4mvZml5edYySf",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJS68dS0qvIIYRAd6iIMl1Ui8",
+            "plus_code":{
+                  "compound_code":"XWGJ+VW New Orleans, LA, USA",
+                  "global_code":"76XFXWGJ+VW"
+            },
+            "rating":4.0,
+            "reference":"ChIJS68dS0qvIIYRAd6iIMl1Ui8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"2001 Saint Bernard Avenue a1, New Orleans",
+            "CBG":220710028003,
+            "Radius":230.400133266
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9773675,
+                        "lng":-90.067621
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9786101803,
+                              "lng":-90.0665136697
+                        },
+                        "southwest":{
+                              "lat":29.9759122197,
+                              "lng":-90.0692116303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Da Fix",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118147318571997866178\">Corey Rowan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIX1VfLxuCrLKoVQFimOzGk-lHeAZ33bUOV2QF8ScEu3yQ7Wnv540LVZrMBaer5NZ95DdLt94SK8RR1XIpqciITqRPGESEDwmKuFI6MyfwPPmSfoscFPTLCOKQO1IVhSpFBUdsx-93yVj7i32TammTLvYB5I3kwtldp8AImnCYEynXi",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJnwQBEpKpIIYRN5f3bY5qkuw",
+            "plus_code":{
+                  "compound_code":"XWGJ+WX New Orleans, LA, USA",
+                  "global_code":"76XFXWGJ+WX"
+            },
+            "rating":4.8,
+            "reference":"ChIJnwQBEpKpIIYRN5f3bY5qkuw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"2001 Saint Bernard Avenue Ste A1, New Orleans",
+            "CBG":220710028003,
+            "Radius":230.400133266
+      }
+]

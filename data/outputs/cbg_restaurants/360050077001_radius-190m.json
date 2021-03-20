@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8185238,
+                        "lng":-73.9028923
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8200434303,
+                              "lng":-73.9016889197
+                        },
+                        "southwest":{
+                              "lat":40.8173454697,
+                              "lng":-73.9043868803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"5 Naciones",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3292,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104126414001259853112\">5 Naciones<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK8W5zLa0M0k7clsBhJsSZxfzyLtx-hMSqwOLePImTj5aKku9smx7sJ6kj-pTcp9LyBcwyMWh9dj74_keKTmu73YDa7mjhd3J3Y-W_rB3tYlsmydCNodNjqRMv6ypTiFJvrNTT3dWUlwShnTgBUvbeIoTfghUCL5eCJhLa6qKk2Eje5",
+                        "width":4986
+                  }
+            ],
+            "place_id":"ChIJN4IF8Bf1wokR3a99_7_zmTI",
+            "plus_code":{
+                  "compound_code":"R39W+CR The Bronx, NY, USA",
+                  "global_code":"87G8R39W+CR"
+            },
+            "rating":4.8,
+            "reference":"ChIJN4IF8Bf1wokR3a99_7_zmTI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"806 Westchester Avenue, The Bronx",
+            "CBG":360050077001,
+            "Radius":189.5097610374
+      }
+]

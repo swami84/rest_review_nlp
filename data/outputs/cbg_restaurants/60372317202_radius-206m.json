@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0073349,
+                        "lng":-118.2829049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0086847303,
+                              "lng":-118.2814739197
+                        },
+                        "southwest":{
+                              "lat":34.0059867697,
+                              "lng":-118.2841718803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Sazon Ktracho",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112198142036907232632\">Miguel Molina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLk6Dvt5xOfQpTiCwoncEVKJZDgmErJW349LUt6eTAiCWw01Gy8-ZBk9RKdyYHZKv-1YIs4-ZjfvSA7K0YUfcGkHXISkeDZaAiVJwaswCAjciTPmknc-u1hbsPhXLp37QO8Ft-6zSsgjqHF2F4YqEPaxYZX1iwhE2H7VmoYkDbzSqki",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJcfe-Gw7IwoAR1EV2vfD2aow",
+            "plus_code":{
+                  "compound_code":"2P48+WR Los Angeles, CA, USA",
+                  "global_code":"85632P48+WR"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJcfe-Gw7IwoAR1EV2vfD2aow",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":584,
+            "vicinity":"4181 South Figueroa Street, Los Angeles",
+            "CBG":60372317202,
+            "Radius":206.1755937072
+      }
+]

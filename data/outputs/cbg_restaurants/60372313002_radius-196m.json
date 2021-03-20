@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.010643,
+                        "lng":-118.305904
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0119739803,
+                              "lng":-118.3046026197
+                        },
+                        "southwest":{
+                              "lat":34.0092760197,
+                              "lng":-118.3073005803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Paseo San Miguel",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2952,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114676581342146000280\">hector arias<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIcQU8wlB7dUC-jMDDrv_Ip3-JPdi9LhBnRqLLlrxi-rb6Q1NVx0agAGIlOH4VTSoKyiMVy1-QwEbmjdOziiQRls1tUWalOeZuT4LRswDyzCceDbNbqsTdPoXLmafaCcyliUvxsjQ8Llyx3t7zXNH0_DyIwcfsO8FIkPeWZlmBz1_x3",
+                        "width":5248
+                  }
+            ],
+            "place_id":"ChIJRbQ1sPi3woARuIrg_gArGw0",
+            "plus_code":{
+                  "compound_code":"2M6V+7J Los Angeles, CA, USA",
+                  "global_code":"85632M6V+7J"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJRbQ1sPi3woARuIrg_gArGw0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1794,
+            "vicinity":"1560 West Martin Luther King Junior Boulevard, Los Angeles",
+            "CBG":60372313002,
+            "Radius":196.1725394637
+      }
+]

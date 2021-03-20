@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8382075,
+                        "lng":-73.9247885
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8395983303,
+                              "lng":-73.9232626197
+                        },
+                        "southwest":{
+                              "lat":40.8369003697,
+                              "lng":-73.9259605803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hua Zhuo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112885883665674711327\">Lenin Soriano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJultxT6dJ-Jznb095_i1o3j7a4EOn69_NVtYG8TNhXz0arcYvLxPKC0RCkwZIqEPXgTseiuMci0ITyADYZz2GIWED8m2mHxVkYxU460-5C-qEfkEBcMWY70gIAW50LYKeFQdywKr0cGJrGhIViSNOH-Vg8_oUpjJxKFLTtumDTPedM",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJSzbl1iT0wokRM8LTXL1y-ks",
+            "plus_code":{
+                  "compound_code":"R3QG+73 The Bronx, NY, USA",
+                  "global_code":"87G8R3QG+73"
+            },
+            "rating":4.4,
+            "reference":"ChIJSzbl1iT0wokRM8LTXL1y-ks",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"112 West 168th Street, The Bronx",
+            "CBG":360050211003,
+            "Radius":115.969439945
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8382546,
+                        "lng":-73.9247763
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8396011303,
+                              "lng":-73.9232565197
+                        },
+                        "southwest":{
+                              "lat":40.8369031697,
+                              "lng":-73.9259544803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wah Yong",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJMdtb1iT0wokR3w0Zazf18do",
+            "plus_code":{
+                  "compound_code":"R3QG+83 The Bronx, NY, USA",
+                  "global_code":"87G8R3QG+83"
+            },
+            "rating":4.1,
+            "reference":"ChIJMdtb1iT0wokR3w0Zazf18do",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"112 West 168th Street, The Bronx",
+            "CBG":360050211003,
+            "Radius":115.969439945
+      }
+]

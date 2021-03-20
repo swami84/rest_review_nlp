@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8575252,
+                        "lng":-73.8914699
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8588492803,
+                              "lng":-73.8900608197
+                        },
+                        "southwest":{
+                              "lat":40.8561513197,
+                              "lng":-73.8927587803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Lucky Coming",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117103949353637708028\">Marina Urena<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK14IZ0m0UkMLrr9x10WTkXfEglZCnhDFuj-AN-oqG9PCbOd1TU_bCA9T33eoA2kD8lI3JeDc7SvVk8ZgwT-F1BNCCUOXtkmHLbBl1_ESfvLckhcfcvn29CSKJHr-junAoQCcBpLqVMH4N7fSOdm4WyUBX18Vwj4Jxb_Ni7GSNzNSci",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJS62dUH70wokRvUm5VZrKtqM",
+            "plus_code":{
+                  "compound_code":"V455+2C The Bronx, NY, USA",
+                  "global_code":"87G8V455+2C"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJS62dUH70wokRvUm5VZrKtqM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"2387 Washington Avenue, The Bronx",
+            "CBG":360050385001,
+            "Radius":141.8462826643
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8574092,
+                        "lng":-73.8907643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8587603303,
+                              "lng":-73.8895777697
+                        },
+                        "southwest":{
+                              "lat":40.8560623697,
+                              "lng":-73.8922757303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy's Chicken & Biscuits",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110534128024363513064\">Kennedy&#39;s Chicken &amp; Biscuits<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL2lqKQ6Ey2mw0C9f2VPu0x3VvWdSAUdJd-8QXwBnph58L4yIOGKSn8sKA4HboejzfJuwrAJ4LtdCaNkNra6COch3vyt-lWdU79GrPzsaWyCdiBDuA8Am5hiVpArnuT7fMr1AW_etI1uCfaqjdtvLOIlSlD9hgnBFup0X4dmgSjR4y_",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJ97DpTn70wokRqiBwJmJJui0",
+            "plus_code":{
+                  "compound_code":"V445+XM The Bronx, NY, USA",
+                  "global_code":"87G8V445+XM"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ97DpTn70wokRqiBwJmJJui0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"4652 3rd Avenue, The Bronx",
+            "CBG":360050385001,
+            "Radius":141.8462826643
+      }
+]

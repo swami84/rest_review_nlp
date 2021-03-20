@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.577589,
+                        "lng":-87.500656
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.5789405303,
+                              "lng":-87.4990604197
+                        },
+                        "southwest":{
+                              "lat":41.5762425697,
+                              "lng":-87.5017583803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizza Snack",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103979509758810408254\">Real Goat Blitzer<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJSumzoQJi3N7PwSOzIot9DOkgGBikFTfBx7o6IJcwj-sUAh7GMS3ULnANPCJcUeW7QJ87rJa5YGZNB3PcIb3x5bBPHEfg7qBhvg8plE17XvT-Gl0yr5lJcSxQGjotPNmbThP83BDAI59n58uMpd0n7gDe43hB-ObNKZuRUiqTQ-bdw",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJuxqky9TfEYgRmklfzm7bhrE",
+            "plus_code":{
+                  "compound_code":"HFHX+2P Hammond, IN, USA",
+                  "global_code":"86HJHFHX+2P"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJuxqky9TfEYgRmklfzm7bhrE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106,
+            "vicinity":"7450 Columbia Avenue, Hammond",
+            "CBG":180890217003,
+            "Radius":326.8318653763
+      }
+]

@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8337,
+                        "lng":-73.8589959
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8349090303,
+                              "lng":-73.8576214197
+                        },
+                        "southwest":{
+                              "lat":40.8322110697,
+                              "lng":-73.8603193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Subway",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112521663062669060662\">JUSTICE 4 ALL<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIwqXEBbir_GSLVpbfS_F49dUsu3bMGjCMt_4qlbBDcSnPSvKMYTGbGo7ymK7eFth0w0GhznMynMhJIvSXpzFmT5BluwK615Y36vwK1ht5exPro5D6METc1CjH6sKcf_1P8eKkuRNXCPGy5n29gUONhV8Ix6AoAuwBQ466HhQC9khCK",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJewH3yXvywokRAVlkbrJVQgs",
+            "plus_code":{
+                  "compound_code":"R4MR+FC New York, NY, USA",
+                  "global_code":"87G8R4MR+FC"
+            },
+            "price_level":1.0,
+            "rating":3.6,
+            "reference":"ChIJewH3yXvywokRAVlkbrJVQgs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64.0,
+            "vicinity":"1957 Westchester Avenue, The Bronx",
+            "CBG":360050222002,
+            "Radius":111.5298782044
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8334996,
+                        "lng":-73.8601428
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8347455303,
+                              "lng":-73.8587730697
+                        },
+                        "southwest":{
+                              "lat":40.8320475697,
+                              "lng":-73.8614710303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"FABULOUS LOUNGE",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107863378002981323989\">Jose Morales<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLOdLdIkYfaQc4O1p5hwvIn59OFcia1Wg2rgubV0hHKYmlodKwPoeqdvtoPYIbaMndRqQK7RpRJzrSM7YWhYxqxSIvAadPjWeH5GIG5xsTvO8VAvlkmZvr1RbQCNrqS1Zat1LN0XQIuifr1oZsDulx0TF6eDLKRZOk4di3p1hCWI8Rj",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJLwguL8H0wokRgzsbEb8pkGU",
+            "plus_code":{
+                  "compound_code":"R4MQ+9W The Bronx, NY, USA",
+                  "global_code":"87G8R4MQ+9W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJLwguL8H0wokRgzsbEb8pkGU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1915 Westchester Avenue, The Bronx",
+            "CBG":360050222002,
+            "Radius":111.5298782044
+      }
+]

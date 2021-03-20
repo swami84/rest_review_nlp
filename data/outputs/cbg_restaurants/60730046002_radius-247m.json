@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7118876,
+                        "lng":-117.1469259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7130665303,
+                              "lng":-117.1455833697
+                        },
+                        "southwest":{
+                              "lat":32.7103685697,
+                              "lng":-117.1482813303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Smokin Joe's BBQ",
+            "place_id":"ChIJL1vDfDFT2YAR6ydVmnioATs",
+            "plus_code":{
+                  "compound_code":"PV63+Q6 San Diego, CA, USA",
+                  "global_code":"8544PV63+Q6"
+            },
+            "rating":1,
+            "reference":"ChIJL1vDfDFT2YAR6ydVmnioATs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1830 Market Street #A7, San Diego",
+            "CBG":60730046002,
+            "Radius":246.8121475101
+      }
+]

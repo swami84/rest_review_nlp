@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1084532,
+                        "lng":-118.2681542
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1097627303,
+                              "lng":-118.2667202197
+                        },
+                        "southwest":{
+                              "lat":34.1070647697,
+                              "lng":-118.2694181803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blair's Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":745,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105479560891833857355\">Blair&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJT3cmwXosv2Xfvop_omo2stEx6vPURrJ-banDuGj1AWIAc3aIbf2iUdsmoc5Qf7CiAKyfDGgoEd-7M9lmd1a7jKqBjBK3gA4Mr4-FnGl_vZ4KcMRYNV0YfzR2j_eh1uNHlXGnqR3GNl_Hge8w6GefSR5nA_b4ACJlaBJQHYXCG__LR",
+                        "width":742
+                  }
+            ],
+            "place_id":"ChIJ0-Ahm87AwoARsC9d6diqmPY",
+            "plus_code":{
+                  "compound_code":"4P5J+9P Los Angeles, CA, USA",
+                  "global_code":"85634P5J+9P"
+            },
+            "price_level":3,
+            "rating":4.4,
+            "reference":"ChIJ0-Ahm87AwoARsC9d6diqmPY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":148,
+            "vicinity":"2901 Rowena Avenue, Los Angeles",
+            "CBG":60371882012,
+            "Radius":275.8067770928
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.107701,
+                        "lng":-118.2667943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1091785803,
+                              "lng":-118.2654105697
+                        },
+                        "southwest":{
+                              "lat":34.1064806197,
+                              "lng":-118.2681085303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"little pine restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115975215214103478030\">Andreas Turanski<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7aJkADbgga487OjeAvPl3L6qT12HR8jWzMuMPF9Z6_xRqbk2eV5su61s0zZabxLMKnxK1p8q5Q290PgQyyb6_7X9j1urzlELL5ck-hC_0JReOw5jRBT4Tfupq3TZkTzdtAbS3SBuxyeUHIEpJdo26CNVlzEp97yToCJ4aVCBFS0c",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJjc_P0c3AwoARBWVMPN_YVRU",
+            "plus_code":{
+                  "compound_code":"4P5M+37 Los Angeles, CA, USA",
+                  "global_code":"85634P5M+37"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJjc_P0c3AwoARBWVMPN_YVRU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":609,
+            "vicinity":"2870 Rowena Avenue, Los Angeles",
+            "CBG":60371882012,
+            "Radius":275.8067770928
+      }
+]

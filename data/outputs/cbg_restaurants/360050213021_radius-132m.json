@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8432614,
+                        "lng":-73.9193718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8445822803,
+                              "lng":-73.9179588197
+                        },
+                        "southwest":{
+                              "lat":40.8418843197,
+                              "lng":-73.9206567803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Ocampo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102133488862265749896\">Isaac Ocampo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLq5zO0M5x8mKf939JbLH9y4V0JopuoQbyDIleJ5szRhWaUIMELwSMHMGZ2pzWfFgkj6ffAL7wpQvUE-bGvIcP4AmWNCgTj-5thlo0kZ_VUHoNVzhK8U9IfWcD_osJMD1rGtc02GhCwaZ2MnYAQi8ga0eV_X4gz_sk5-63CbzbTKZI",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJz0eNJ8H1wokRdHpz4TO0Tsk",
+            "plus_code":{
+                  "compound_code":"R3VJ+87 New York, NY, USA",
+                  "global_code":"87G8R3VJ+87"
+            },
+            "rating":5,
+            "reference":"ChIJz0eNJ8H1wokRdHpz4TO0Tsk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1479 Jesup Avenue, The Bronx",
+            "CBG":360050213021,
+            "Radius":131.9323292684
+      }
+]

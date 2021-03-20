@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8570798,
+                        "lng":-73.8860185
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8584716803,
+                              "lng":-73.8847577697
+                        },
+                        "southwest":{
+                              "lat":40.8557737197,
+                              "lng":-73.8874557303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"M&G Restaurant II",
+            "place_id":"ChIJ6w73Dpz1wokRMq6mx8Mzp8A",
+            "plus_code":{
+                  "compound_code":"V447+RH The Bronx, NY, USA",
+                  "global_code":"87G8V447+RH"
+            },
+            "rating":4.8,
+            "reference":"ChIJ6w73Dpz1wokRMq6mx8Mzp8A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"2472 Arthur Avenue, The Bronx",
+            "CBG":360050389002,
+            "Radius":93.3507887168
+      }
+]

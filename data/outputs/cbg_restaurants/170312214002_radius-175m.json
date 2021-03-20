@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9216454,
+                        "lng":-87.6955899
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9230571803,
+                              "lng":-87.6941751197
+                        },
+                        "southwest":{
+                              "lat":41.9203592197,
+                              "lng":-87.6968730803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Victory Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4656,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116535439382549669648\">Joel Barker<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLACi4dsNfB5bvHUjA9invF_2octgYWKg9vJ8vUlPYa4Z9trr_2Wh0vxo_OgnRU2lO8Kp2Jy4YLyEs6b7bg8DVb9Upz_tU2xNqyb8nEQwjjWgwvzc3FQYNLRg8YCgWl5HvoHp2XpbIKNbe0GW3Zf7QZuFHy3io_2pLXlBvzYvYtcFqx",
+                        "width":3492
+                  }
+            ],
+            "place_id":"ChIJFzcdEEHTD4gRDu4-GYKIp0s",
+            "plus_code":{
+                  "compound_code":"W8C3+MQ Chicago, IL, USA",
+                  "global_code":"86HJW8C3+MQ"
+            },
+            "rating":4.0,
+            "reference":"ChIJFzcdEEHTD4gRDu4-GYKIp0s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"2246 North Milwaukee Avenue, Chicago",
+            "price_level":null,
+            "CBG":170312214002,
+            "Radius":175.0915810601
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9196139,
+                        "lng":-87.697075
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9209858303,
+                              "lng":-87.6958115697
+                        },
+                        "southwest":{
+                              "lat":41.9182878697,
+                              "lng":-87.6985095303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lonesome Rose",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100294834915155744681\">Miguel Angel<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJvR_i8yYhb--lQi-9Vu2vmcLMySJI4cx_6ZffaarsXrL5ZzeQ-ZwMmxWu80zKJKu3Zaeql67aFPPxZ_X8--vloLTqfm5ju4Ntd6L0uaZ4f9kLTlZHvEh0dnW9Tg7h2a7IDWTHR_BjSI1fComwydHawMf1GNvosRJ5pGfFSkwLbttnu",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJM8R4JZ7SD4gRUacn4EYFh4I",
+            "plus_code":{
+                  "compound_code":"W893+R5 Chicago, IL, USA",
+                  "global_code":"86HJW893+R5"
+            },
+            "rating":4.4,
+            "reference":"ChIJM8R4JZ7SD4gRUacn4EYFh4I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":786,
+            "vicinity":"2101 North California Avenue, Chicago",
+            "price_level":2.0,
+            "CBG":170312214002,
+            "Radius":175.0915810601
+      }
+]

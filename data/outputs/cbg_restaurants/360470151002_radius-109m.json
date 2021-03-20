@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6641419,
+                        "lng":-73.980845
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6654908803,
+                              "lng":-73.9794960197
+                        },
+                        "southwest":{
+                              "lat":40.6627929197,
+                              "lng":-73.9821939803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Johnny Mack's Bar & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113487000170334489115\">Johnny Mack&#39;s Bar &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLvcgTTYqaOeUglXFNNv99bsGOirhgGQF2RS2-ca_4NjHHK1ACuRmYcY7tny2feZMly7KRb8QANbvfcBVAjTmuhaNjuGEwh_hALEN7u648eJ6vlRY1AXXFvfdOlJfL4gww2VdcE-ri6SvRcCkv1_ifVL8zUSF0x9Rx7vUlY_hV-WEae",
+                        "width":2660
+                  }
+            ],
+            "place_id":"ChIJWZDFGx1bwokRvUu_Sqca6DU",
+            "plus_code":{
+                  "compound_code":"M279+MM Brooklyn, NY, USA",
+                  "global_code":"87G8M279+MM"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJWZDFGx1bwokRvUu_Sqca6DU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":135,
+            "vicinity":"1114 8th Avenue, Brooklyn",
+            "CBG":360470151002,
+            "Radius":109.1994732415
+      }
+]

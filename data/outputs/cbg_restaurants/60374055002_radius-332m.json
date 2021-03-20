@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0738084,
+                        "lng":-117.9259643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0751629303,
+                              "lng":-117.9247245197
+                        },
+                        "southwest":{
+                              "lat":34.0724649697,
+                              "lng":-117.9274224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"It's Pho Girls",
+            "place_id":"ChIJ2y_q8UnXwoARffuGi_e5b8Y",
+            "plus_code":{
+                  "compound_code":"33FF+GJ West Covina, CA, USA",
+                  "global_code":"856433FF+GJ"
+            },
+            "rating":5.0,
+            "reference":"ChIJ2y_q8UnXwoARffuGi_e5b8Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"116 North Vincent Avenue, West Covina",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60374055002,
+            "Radius":332.2592883973
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0738084,
+                        "lng":-117.9259643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0751629303,
+                              "lng":-117.9247245197
+                        },
+                        "southwest":{
+                              "lat":34.0724649697,
+                              "lng":-117.9274224803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Saigon Avenue",
+            "place_id":"ChIJNzz0GdLXwoAR7Qfn7CZOd1M",
+            "plus_code":{
+                  "compound_code":"33FF+GJ West Covina, CA, USA",
+                  "global_code":"856433FF+GJ"
+            },
+            "rating":4.6,
+            "reference":"ChIJNzz0GdLXwoAR7Qfn7CZOd1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"116 North Vincent Avenue, West Covina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114141380109805950013\">omar lopez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKuOMSNKnCbo0CSOtd3ONc45irVjZpdF8YBuK6JNrey0i2YH8a-vVzBDXX28FuFUdHeSQcxC64I9S8q6CrwzVjeu_CFmsOX5mMIM-m0pCkIu4_J2iKCKpplcpkansASgBa8le4XhET1Ft3ddoQ0OP7AqI_kIortzY2HUvqUMlkTe6D5",
+                        "width":6000
+                  }
+            ],
+            "CBG":60374055002,
+            "Radius":332.2592883973
+      }
+]

@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8395622,
+                        "lng":-73.8636238
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8409024803,
+                              "lng":-73.8623606197
+                        },
+                        "southwest":{
+                              "lat":40.8382045197,
+                              "lng":-73.8650585803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ajo y Oregano",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3712,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101797824759928952730\">Ajo y Oregano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ_xNylhZLv4m-d0IyVXtI4ewjs26pAtR7Jw3EANzN2ZIIQOHDPVaGwhbeTAxWLtiofQkdxX787_yulkyMYTy7GsIjlGwZAdn9T85SoHlrHRO22nO8LF8rlXUL8f6nWawlCPfDluxQyWkVlsnXYemx7xcSHkc5nN6AKFMOhjygxxlTh",
+                        "width":5568
+                  }
+            ],
+            "place_id":"ChIJz_zvS770wokR2G-DXoskJP0",
+            "plus_code":{
+                  "compound_code":"R4QP+RH The Bronx, NY, USA",
+                  "global_code":"87G8R4QP+RH"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJz_zvS770wokR2G-DXoskJP0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1439,
+            "vicinity":"1556 White Plains Road, The Bronx",
+            "CBG":360050216021,
+            "Radius":87.4821387114
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8395058,
+                        "lng":-73.8635196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8408413803,
+                              "lng":-73.8623027197
+                        },
+                        "southwest":{
+                              "lat":40.8381434197,
+                              "lng":-73.8650006803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wang Xiao Feng Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJ4QC_S770wokRQImU1uRo0_U",
+            "plus_code":{
+                  "compound_code":"R4QP+RH New York, NY, USA",
+                  "global_code":"87G8R4QP+RH"
+            },
+            "price_level":null,
+            "rating":3.0,
+            "reference":"ChIJ4QC_S770wokRQImU1uRo0_U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1556 White Plains Road, The Bronx",
+            "CBG":360050216021,
+            "Radius":87.4821387114
+      }
+]

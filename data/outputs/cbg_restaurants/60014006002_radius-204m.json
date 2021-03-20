@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8410696,
+                        "lng":-122.2648127
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8424270803,
+                              "lng":-122.2633648697
+                        },
+                        "southwest":{
+                              "lat":37.8397291197,
+                              "lng":-122.2660628303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nitya's Restaurant",
+            "place_id":"ChIJdX99ZVZ9hYARa8WC7oUjeRA",
+            "plus_code":{
+                  "compound_code":"RPRP+C3 Oakland, CA, USA",
+                  "global_code":"849VRPRP+C3"
+            },
+            "rating":4.5,
+            "reference":"ChIJdX99ZVZ9hYARa8WC7oUjeRA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"5527 Shattuck Avenue, Oakland",
+            "CBG":60014006002,
+            "Radius":204.4103320033
+      }
+]

@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8967502,
+                        "lng":-76.9478089
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8980512803,
+                              "lng":-76.9463949197
+                        },
+                        "southwest":{
+                              "lat":38.8953533197,
+                              "lng":-76.9490928803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Deanwood Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJV5m0WpO4t4kRWlXFqQl1DTE",
+            "plus_code":{
+                  "compound_code":"V3W2+PV Washington, DC, USA",
+                  "global_code":"87C5V3W2+PV"
+            },
+            "rating":1.0,
+            "reference":"ChIJV5m0WpO4t4kRWlXFqQl1DTE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"4058 Minnesota Avenue Northeast, Washington",
+            "photos":null,
+            "CBG":110010096021,
+            "Radius":381.213512244
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8970435,
+                        "lng":-76.9478322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.8982778803,
+                              "lng":-76.9463156197
+                        },
+                        "southwest":{
+                              "lat":38.8955799197,
+                              "lng":-76.9490135803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eclectic Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJSXSuXpO4t4kR7N28Zd1PBqM",
+            "plus_code":{
+                  "compound_code":"V3W2+RV Washington, DC, USA",
+                  "global_code":"87C5V3W2+RV"
+            },
+            "rating":3.7,
+            "reference":"ChIJSXSuXpO4t4kR7N28Zd1PBqM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":104,
+            "vicinity":"4058 C, Minnesota Avenue Northeast, Washington",
+            "photos":[
+                  {
+                        "height":668,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111589954548249336688\">Eclectic Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIWpQ35YrmLC2fmCiQf3LnqznU8eTn8horsXMr0e4jXXfRaeIVhpaP9DvI1Pfg6KqSfYiq9Zae0G_sZAIA_H4pbQC1UkHFFITTtqVMM8o4hq7M8VJ7q7TWuHUIyDki7j4z0oY-qAOjXFzj5dFBq4uiBz8M4w7V7W2N9zUoxxzXrE03N",
+                        "width":1000
+                  }
+            ],
+            "CBG":110010096021,
+            "Radius":381.213512244
+      }
+]

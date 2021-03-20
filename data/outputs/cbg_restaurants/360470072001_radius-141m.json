@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6399616,
+                        "lng":-74.0198495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6412781303,
+                              "lng":-74.0185354197
+                        },
+                        "southwest":{
+                              "lat":40.6385801697,
+                              "lng":-74.0212333803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Reloko cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2184,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117474041609983643739\">Nanette Faccilonga<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIGhsPxDY1S9M72A6cRH-1Rw0OGLww-gja4ZYz1NyDxE8cs_IhKpLI1ZjUGfsK_M5MqMeGOIYOPfe_RvlmDkHnlRvPEqbdSYJg_P6EC_nNDMoDJo2UraLyd5SBkfBfezPX7bjpVids9IvCRZu3ohOFo90sYmPbiGoKIDlnBoEpxHucy",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJJXq31d1FwokRabT1WJBbzvs",
+            "plus_code":{
+                  "compound_code":"JXQJ+X3 Brooklyn, NY, USA",
+                  "global_code":"87G7JXQJ+X3"
+            },
+            "rating":5.0,
+            "reference":"ChIJJXq31d1FwokRabT1WJBbzvs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"371 62nd Street, Brooklyn",
+            "CBG":360470072001,
+            "Radius":141.0361116439
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6401661,
+                        "lng":-74.0195681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6414595303,
+                              "lng":-74.0181214197
+                        },
+                        "southwest":{
+                              "lat":40.6387615697,
+                              "lng":-74.0208193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tony's Pizza and Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115858940744768349123\">Tony&#39;s Pizza and Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJd-0gCdAuX8B2_hPO5CucKKHCkvHclSfJmXZ_flOTUIsiNkZ4Tyc8gKwQ3WpqT_4J000XRFnTTylm7GqEv4kv6AwGzoZ6fgqiAqO0LgTZDB6It7jiwXnAfJN8YK8mlGQB3NQPKux5to43tbUMF8dK39H-aMSUlE0cpvXW-fHarR1Sa",
+                        "width":1333
+                  }
+            ],
+            "place_id":"ChIJn3JuEodFwokRzNfr3DizBe8",
+            "plus_code":{
+                  "compound_code":"JXRJ+35 New York, NY, USA",
+                  "global_code":"87G7JXRJ+35"
+            },
+            "rating":3.8,
+            "reference":"ChIJn3JuEodFwokRzNfr3DizBe8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"6112 4th Avenue, Brooklyn",
+            "CBG":360470072001,
+            "Radius":141.0361116439
+      }
+]

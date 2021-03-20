@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9064324,
+                        "lng":-87.7265519
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9077713303,
+                              "lng":-87.7251331697
+                        },
+                        "southwest":{
+                              "lat":41.9050733697,
+                              "lng":-87.7278311303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jimmy's Red Hots",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105057473974068541194\">Ivette Ortiz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL0B5NAZlAgWiG4mStmmvbiU6HE2ps0KW5v_KGNCJBQsIL8sHp1kRpxXAkoyUgBdOzlC5WZP3yl2p1ZUVQSCflK5UpSfirwWVJJ1CIHCua6_RraSk05daku9ssjQb_r8p4ylgVA8s6vhVu_20jpOLfFxhvAqhCgUalhMvENRafe8aP4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ4RmRBDDND4gREfYFjtVaGnA",
+            "plus_code":{
+                  "compound_code":"W74F+H9 Chicago, IL, USA",
+                  "global_code":"86HJW74F+H9"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ4RmRBDDND4gREfYFjtVaGnA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3444,
+            "vicinity":"4000 West Grand Avenue, Chicago",
+            "CBG":170312306001,
+            "Radius":180.3148496779
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9087982,
+                        "lng":-87.7262192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9101449303,
+                              "lng":-87.7250014697
+                        },
+                        "southwest":{
+                              "lat":41.9074469697,
+                              "lng":-87.7276994303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pozoleria San Juan Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3712,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104527686616654627047\">matthew gilboy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJKKCmeis2rdTWE1bx8yy9t4jcNHLRYrlMdDKIz23QJm_1ybTwr2ShW1QqZ-anX-EFsdNr55fVD4JtlQ48u7al59DIHEDI6bZD8S6DXQyIOzNnrIp-FRvv40M3MDlfeXwMSjOiFai-2E-MHaRU3bJXdFrTV4yFR-2Ebzqpfp8nxS-vu",
+                        "width":7104
+                  }
+            ],
+            "place_id":"ChIJV1KsxTrND4gRNQqz6e3fUjo",
+            "plus_code":{
+                  "compound_code":"W75F+GG Chicago, IL, USA",
+                  "global_code":"86HJW75F+GG"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJV1KsxTrND4gRNQqz6e3fUjo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":636,
+            "vicinity":"1523 North Pulaski Road, Chicago",
+            "CBG":170312306001,
+            "Radius":180.3148496779
+      }
+]

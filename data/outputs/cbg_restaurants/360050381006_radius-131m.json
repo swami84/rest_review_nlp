@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8507071,
+                        "lng":-73.9016162
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8521134803,
+                              "lng":-73.9001842197
+                        },
+                        "southwest":{
+                              "lat":40.8494155197,
+                              "lng":-73.9028821803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nick's Pizza Lounge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":809,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112010642109575964202\">Nick&#39;s Pizza Lounge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLWH0-uvl--PNczSat6WtzPuVSp9z9qcAKocUBhuhQSXTcnoHyciIRuEeMU0uyyDZUpAbe8OWFtvIn9-3x7wUXfLcGbneiVe44E-HazwKXBOC_8Ps3pbx7688aG_O8C9k1pjLLNdV4onZuDPubiCY4ChQZmktqUXA-bNsm3m88U6dul",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJOeEtLvj1wokRGF3UFT6O2EU",
+            "plus_code":{
+                  "compound_code":"V32X+79 The Bronx, NY, USA",
+                  "global_code":"87G8V32X+79"
+            },
+            "rating":4.6,
+            "reference":"ChIJOeEtLvj1wokRGF3UFT6O2EU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"292 East Burnside Avenue, The Bronx",
+            "CBG":360050381006,
+            "Radius":131.1021697924
+      }
+]

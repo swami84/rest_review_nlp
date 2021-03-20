@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8831343,
+                        "lng":-73.8801861
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8844146803,
+                              "lng":-73.8786755697
+                        },
+                        "southwest":{
+                              "lat":40.8817167197,
+                              "lng":-73.8813735303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Marisco centr\u00f3",
+            "place_id":"ChIJYxsNVpHzwokRuoxgbjCMLoM",
+            "plus_code":{
+                  "compound_code":"V4M9+7W New York, NY, USA",
+                  "global_code":"87G8V4M9+7W"
+            },
+            "reference":"ChIJYxsNVpHzwokRuoxgbjCMLoM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3521 Dekalb Avenue, The Bronx",
+            "CBG":360050431003,
+            "Radius":77.7415577987
+      }
+]

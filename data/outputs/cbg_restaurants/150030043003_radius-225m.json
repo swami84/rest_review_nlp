@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3172222,
+                        "lng":-157.855
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3186208803,
+                              "lng":-157.8537170197
+                        },
+                        "southwest":{
+                              "lat":21.3159229197,
+                              "lng":-157.8564149803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bangkok Chef",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106839740157626943872\">Dino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIpiwjI0-o-dpcE6dBQpv9ha9NqB0CAbUueC0T0MXuCYAu_4xNcjSDP5iM87DHCnhO7urRH-t7lv8OublAnSASI4i2GXNBuCTkcxcC5aWFcE5DLVH7aaLW_Q2K0Fj2C6uDIo7wYkYc4wpZF04FFVaDBzjcCCXBZAYyKsfPmMI8yw5AI",
+                        "width":3477
+                  }
+            ],
+            "place_id":"ChIJM10zIdhtAHwR2wO8jq3Tcmw",
+            "plus_code":{
+                  "compound_code":"848W+V2 Honolulu, HI, USA",
+                  "global_code":"73H4848W+V2"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJM10zIdhtAHwR2wO8jq3Tcmw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":293,
+            "vicinity":"1627 Nuuanu Avenue, Honolulu",
+            "CBG":150030043003,
+            "Radius":225.1031596218
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3184017,
+                        "lng":-157.8537685
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3198374303,
+                              "lng":-157.8525215697
+                        },
+                        "southwest":{
+                              "lat":21.3171394697,
+                              "lng":-157.8552195303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Aloha Sushi Nuuanu",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107664436242706248813\">Seohyun Park<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ6Es5jePeWCo1rf3HNSfS6YzVmIi6axryBh3D-LpDWNxaJmcNDPZG5USwFxa7sjakph6UnMrFEQvooLuR9pm_F7LrFcYWVY4f-jON-f38Q2NEDaQFKHnyBzlT29shR0gBWQWgl9OAddNXJGjVHjyG1uNvI1C1ghC5V7iRKWX2crwZ9",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJ621YdNdtAHwRwJawDdQLFZE",
+            "plus_code":{
+                  "compound_code":"849W+9F Honolulu, HI, USA",
+                  "global_code":"73H4849W+9F"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJ621YdNdtAHwRwJawDdQLFZE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"1741 Nuuanu Avenue #G2, Honolulu",
+            "CBG":150030043003,
+            "Radius":225.1031596218
+      }
+]

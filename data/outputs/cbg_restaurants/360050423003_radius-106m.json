@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8748458,
+                        "lng":-73.8792094
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8762536303,
+                              "lng":-73.8778882197
+                        },
+                        "southwest":{
+                              "lat":40.8735556697,
+                              "lng":-73.8805861803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nicky's Coffee Shop Inc",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1954,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118294749524532585878\">Nicky&#39;s Coffee Shop Inc<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI_UHZXbxcPEE17B-b-X2pHovVaxwyB8EjlJmi5PN7nMwxfzRXSY4I6telW_ER9Ysv7PBsx2s80zE7fSBEDxJxmPpnCo3Xyd-K6-pH3NY8qzv0s9lpCHbpVBQ7rr6aX5g5fC2riEzMIyPAtOGAenjtJNwrtdrVyG1g5keOCFkFgF41q",
+                        "width":1274
+                  }
+            ],
+            "place_id":"ChIJ70QHSHLzwokR1mSyuGTx30w",
+            "plus_code":{
+                  "compound_code":"V4FC+W8 New York, NY, USA",
+                  "global_code":"87G8V4FC+W8"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ70QHSHLzwokR1mSyuGTx30w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":362,
+            "vicinity":"3140 Bainbridge Avenue, The Bronx",
+            "CBG":360050423003,
+            "Radius":105.7355102718
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8750762,
+                        "lng":-73.8793237
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8764251803,
+                              "lng":-73.8779747197
+                        },
+                        "southwest":{
+                              "lat":40.8737272197,
+                              "lng":-73.8806726803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Galaxy Coffee shop Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102591229440449051069\">Galaxy Coffeeshop Inc.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJXiA34AKRJiBDINH3-WQ0auuSCWyW06qNYfIKbpZMzIEdWTarjPj0H6aYCbDRAT4LMeSAZDUZwWDk4Ka-HzjzA5btpTz7kTjMUJdPdMBo1fHn2FQfRVeIxUuUs4rIh89JrvUp4xvy1LYb3__Hp9LJ1xhyzrPd0ve4eNXtDjhZeHEBx",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJD2U-RnLzwokRzcdvTo5xEzA",
+            "plus_code":{
+                  "compound_code":"V4GC+27 The Bronx, NY, USA",
+                  "global_code":"87G8V4GC+27"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJD2U-RnLzwokRzcdvTo5xEzA",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"3150 Bainbridge Avenue, The Bronx",
+            "CBG":360050423003,
+            "Radius":105.7355102718
+      }
+]

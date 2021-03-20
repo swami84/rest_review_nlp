@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0238084,
+                        "lng":-93.6382529
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0252236803,
+                              "lng":-93.6374173197
+                        },
+                        "southwest":{
+                              "lat":42.0225257197,
+                              "lng":-93.6401152803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Seasons Marketplace",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104490141326383205056\">Nathan Masters<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJQZzepg5zE05br6H4I0u1LGyvAHHPYxlfNJbBJZ8AfdYRsp8elGjPju5CXbL-r_y_nB7Oxa_HKLRfp60UyZZjnfOM0ChjbPtJUdXzFM4_xvD7tzNbwPpO2Q9CA0rA3AbgHI9kuD61TPyUXXkA4HW-_6zQ8wgVJi1CquCmD5Gx1fV31",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJOztajZ5w7ocR_ZcbGqXjrtE",
+            "plus_code":{
+                  "compound_code":"29F6+GM Ames, IA, USA",
+                  "global_code":"86J829F6+GM"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJOztajZ5w7ocR_ZcbGqXjrtE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":220,
+            "vicinity":"224 Beach Road, Ames",
+            "CBG":191690008001,
+            "Radius":531.2218695297
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.9811319,
+                        "lng":-82.4549264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9824716303,
+                              "lng":-82.4536590697
+                        },
+                        "southwest":{
+                              "lat":27.9797736697,
+                              "lng":-82.4563570303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102359821778854569975\">B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ71ZzUXe_9ondR_mT4gx0O3DkmBD6AvgnrGv5gyWAk0-x5n4ZT_4ZNycKyL90CeXxDePWFSzO3f1pu9UDfZGmy_jFKbx7SeyJxFFz6iEwu4Vn1JT8LCg8pv4dk_c0PjR4wLnL_ZfbB7nisxjUkNVs-4_y1nQf0x_jsZ6ZAScpx17St",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJkZxi4BXEwogRtCwllumRgRI",
+            "plus_code":{
+                  "compound_code":"XGJW+F2 Tampa, FL, USA",
+                  "global_code":"76VVXGJW+F2"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJkZxi4BXEwogRtCwllumRgRI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2335,
+            "vicinity":"501 E Dr M L K Jr Dr, Tampa",
+            "CBG":120570022003,
+            "Radius":322.6587354225
+      }
+]

@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.295583,
+                        "lng":-76.5773892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.2969366803,
+                              "lng":-76.5759083197
+                        },
+                        "southwest":{
+                              "lat":39.2942387197,
+                              "lng":-76.5786062803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chef Ty Southern Flair",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJL1bssogFyIkROle0U6eYFvU",
+            "plus_code":{
+                  "compound_code":"7CWF+62 Baltimore, MD, USA",
+                  "global_code":"87F57CWF+62"
+            },
+            "rating":1,
+            "reference":"ChIJL1bssogFyIkROle0U6eYFvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"630 North Linwood Avenue, Baltimore",
+            "CBG":245100601004,
+            "Radius":122.7005338078
+      }
+]

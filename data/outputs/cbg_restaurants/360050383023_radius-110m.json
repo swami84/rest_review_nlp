@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8581412,
+                        "lng":-73.89625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8595420303,
+                              "lng":-73.8949879197
+                        },
+                        "southwest":{
+                              "lat":40.8568440697,
+                              "lng":-73.8976858803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Xin Xing",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105883970731823828827\">Carlos Cedeno<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCytFpwVL0TUqS4g4S1vhMUUY5OT_Y1AE-X9zMV02WntYH-N7csUKmOWm3GiupM6fdocH4S0l89X95xygs3wx0qeY0_51M05CvI_zfqPtmjqRJrUYTaxt-GGsIGZNd21WfgqJTrTknWIEFLyJ0dqo5VVRc67TFhlIJZR39U71TrMIT",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJESnlFnn0wokR_hZfnAPvvXs",
+            "plus_code":{
+                  "compound_code":"V453+7G The Bronx, NY, USA",
+                  "global_code":"87G8V453+7G"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJESnlFnn0wokR_hZfnAPvvXs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"2352 Tiebout Avenue, The Bronx",
+            "CBG":360050383023,
+            "Radius":109.9446130005
+      }
+]

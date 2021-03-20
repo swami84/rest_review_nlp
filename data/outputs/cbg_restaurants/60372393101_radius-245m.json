@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9783966,
+                        "lng":-118.2792598
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9796347303,
+                              "lng":-118.2779098697
+                        },
+                        "southwest":{
+                              "lat":33.9769367697,
+                              "lng":-118.2806078303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"A&w cleaning services",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112177181496891449396\">A&amp;w cleaning services<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKr9VRqxpxbyN7h0MrgO0JsFbdlWQWhinvJQHgS29lU14piKlZ6Gs6lKfOvb1hlgyEfQnwk895ZfqwYY7dv-Yt2UyhAiOimsGDPNh3ivmDmzYA-CGAu5Q3LOtRtc8Bg3pmMgyMV4MTN1B6_V1N4z7Yy42iZs7wsEVYo4UFdrArIhdNq",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJsTz-1RPJwoARhc8YxFyb3Ms",
+            "plus_code":{
+                  "compound_code":"XPHC+97 Los Angeles, CA, USA",
+                  "global_code":"8553XPHC+97"
+            },
+            "rating":4.0,
+            "reference":"ChIJsTz-1RPJwoARhc8YxFyb3Ms",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"327 West 68th Street, Los Angeles",
+            "CBG":60372393101,
+            "Radius":245.1837069934
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9786791,
+                        "lng":-118.2785032
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9800280303,
+                              "lng":-118.2770612197
+                        },
+                        "southwest":{
+                              "lat":33.9773300697,
+                              "lng":-118.2797591803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Broadway Tacos",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114900228749758182264\">Paulo Castro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvMBLzO2SFOWpbL2TyzV-RKSSIXvNZM-CW7v2OYLOUUyhgJYiy5QoM6FY8upRsNJ0VXIIcuaFQpv9Fcf8wDh7eactmKp-3dcGRlDcrv65Jjjp7WtVY3idsCHbSbYCgG3834LhCdZW6fccCigyWJGBNA2EgRcD-HDLD77sSaUi6_oef",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ1SjmGDXIwoAR2aAl6kLnKYg",
+            "plus_code":{
+                  "compound_code":"XPHC+FH Los Angeles, CA, USA",
+                  "global_code":"8553XPHC+FH"
+            },
+            "rating":4.6,
+            "reference":"ChIJ1SjmGDXIwoAR2aAl6kLnKYg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"6709 South Broadway, Los Angeles",
+            "CBG":60372393101,
+            "Radius":245.1837069934
+      }
+]

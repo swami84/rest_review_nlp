@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7828369,
+                        "lng":-122.4448997
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7841370803,
+                              "lng":-122.4435209697
+                        },
+                        "southwest":{
+                              "lat":37.7814391197,
+                              "lng":-122.4462189303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tony's Cable Car Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102488940779777932651\">Tony&#39;s Cable Car Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL5tcYmbIyAn_IQA3dNzCi52gYDI5ObhaXpJBJf6AAgWeNucDkZhIFSaz1TKS3dX2K6Vp2kn0e-564_67mxBPgQwOuPPZDlCmlCZOgMRhR3x4X22XMbofkyKl6cxhnfcQfDCIYYJ69fU6-X2jVdcd2KlQolTZALsNkpCAqGBfXDdrb4",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJg_sKZbWAhYARxSZHTn3Azwc",
+            "plus_code":{
+                  "compound_code":"QHM4+42 Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHM4+42"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJg_sKZbWAhYARxSZHTn3Azwc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":535,
+            "vicinity":"2500 Geary Boulevard, San Francisco",
+            "CBG":60750154002,
+            "Radius":167.1696687429
+      }
+]

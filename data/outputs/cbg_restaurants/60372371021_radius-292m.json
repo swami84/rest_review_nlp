@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9886384,
+                        "lng":-118.2829179
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9900492303,
+                              "lng":-118.2815707197
+                        },
+                        "southwest":{
+                              "lat":33.9873512697,
+                              "lng":-118.2842686803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tam's Burgers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105367910119278668013\">Luis Hernandez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIDaE88PM-sYDSFXJyGx49CLbrgvH_GYbE09HYmaXLCLdOTRpltmHSREbgsiwkP1FOSY5fubJ8obyOUqjPSGTz3Qh92x4vJ6OBXQ19tZRy33KRBMAyZtLeTK1Loj3MPofVTpXKdj_Htoj252sJTJLzprXx59mFZ2mN5c8EFhvMth9Q6",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJm8xqMjrIwoARsA4rH-ffCnI",
+            "plus_code":{
+                  "compound_code":"XPQ8+FR Los Angeles, CA, USA",
+                  "global_code":"8553XPQ8+FR"
+            },
+            "price_level":2.0,
+            "rating":3.7,
+            "reference":"ChIJm8xqMjrIwoARsA4rH-ffCnI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"5837 South Figueroa Street, Los Angeles",
+            "CBG":60372371021,
+            "Radius":291.9047334877
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9887371,
+                        "lng":-118.28313
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9901107303,
+                              "lng":-118.2817175697
+                        },
+                        "southwest":{
+                              "lat":33.9874127697,
+                              "lng":-118.2844155303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Antojitos Centro Americanos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107938543383392758919\">Jarold Dubon<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIWzDMUZKdZcmtRjd5lcbduqHpEVTPOo_q8BnSvrAfx6nSnf7mQT2fxaNb9eFYltVbr7wx82qQIVK5NT5_jlCN96yHC7a1WsqGhEdzDZxQYZ_zDNQObR2FCXFej2tbr8zYlD87uwHNdRstgseACv6q0NtsVErBCMqjcWlC61H2Qlnsl",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJSdEY3snJwoARKTTRDLsyN8M",
+            "plus_code":{
+                  "compound_code":"XPQ8+FP Los Angeles, CA, USA",
+                  "global_code":"8553XPQ8+FP"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJSdEY3snJwoARKTTRDLsyN8M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"5821 South Figueroa Street, Los Angeles",
+            "CBG":60372371021,
+            "Radius":291.9047334877
+      }
+]

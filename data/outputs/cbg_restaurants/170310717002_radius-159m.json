@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9109407,
+                        "lng":-87.6404918
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9123365303,
+                              "lng":-87.6391558197
+                        },
+                        "southwest":{
+                              "lat":41.9096385697,
+                              "lng":-87.6418537803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Forastero Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111949404221042554585\">David Supp-Montgomerie<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKv1iKtLEQKz8vIKKPT2lNu-4GT5VWkI12PLild4Uz1owHy41-hum0sCnvxcB7L4I5zXm6PwBW6Bxo-Osz4ds5t32R9AFuglATKeocoztDoHaJCUVQVMmBkqMntkrn71SQ9t9-TVYveabTLlbq5X3_IPdFzvZbhNk4XyH41Pyx4aamr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJgWTbLj_TD4gRbDCxosGqfqg",
+            "plus_code":{
+                  "compound_code":"W965+9R Chicago, IL, USA",
+                  "global_code":"86HJW965+9R"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJgWTbLj_TD4gRbDCxosGqfqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":348,
+            "vicinity":"449 West North Avenue, Chicago",
+            "CBG":170310717002,
+            "Radius":158.9112850319
+      }
+]

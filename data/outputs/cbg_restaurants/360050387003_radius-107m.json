@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8568918,
+                        "lng":-73.8878716
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8582679303,
+                              "lng":-73.8864973197
+                        },
+                        "southwest":{
+                              "lat":40.8555699697,
+                              "lng":-73.8891952803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Stop One Mini",
+            "place_id":"ChIJAfvRkYD0wokRZX_692pNMQw",
+            "plus_code":{
+                  "compound_code":"V446+QV The Bronx, NY, USA",
+                  "global_code":"87G8V446+QV"
+            },
+            "rating":5,
+            "reference":"ChIJAfvRkYD0wokRZX_692pNMQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"566 East 188th Street A, The Bronx",
+            "CBG":360050387003,
+            "Radius":107.4377559459
+      }
+]

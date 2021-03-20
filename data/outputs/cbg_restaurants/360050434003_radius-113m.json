@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8966643,
+                        "lng":-73.8552189
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8980591803,
+                              "lng":-73.8540154197
+                        },
+                        "southwest":{
+                              "lat":40.8953612197,
+                              "lng":-73.8567133803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Ring",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110630560330466736540\">David Richards<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLIBmH5RXYysdWUXhVkHqKbcO-exfTORltXlX5OSLAbYPnVFsBnoqVzbTdqEvLhAFZ593V5H2FI-pKELkjNvpAH28sp4KnyLjB-pKuSiYivdqNliv3_Z-qr9iejCjZQEcm_I4u_2pOztbpy1p2cDYa72nkF6jdlp0Y87KSYk_hrnURY",
+                        "width":1879
+                  }
+            ],
+            "place_id":"ChIJN-Nfe9jywokRoGrErGLjcBc",
+            "plus_code":{
+                  "compound_code":"V4WV+MW New York, NY, USA",
+                  "global_code":"87G8V4WV+MW"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJN-Nfe9jywokRoGrErGLjcBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"4342 White Plains Road, The Bronx",
+            "CBG":360050434003,
+            "Radius":113.0154966941
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7985426,
+                        "lng":-122.4458232
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7999080803,
+                              "lng":-122.4445515197
+                        },
+                        "southwest":{
+                              "lat":37.7972101197,
+                              "lng":-122.4472494803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Final Final",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101339900385466770505\">Final Final<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJk0smVl6ZyNbOlf0Cb0YvJruIBbZSzO_sFLEf0J9imx969eb2gygRURVBKHw0cCh0CWX7FKygr2D3-6iJZn_IueJav7VHMq7A02YcIPGPummi1iJzvFevZ2mCjmOAjupYjGhTOgtox3NgqkHLcuLyPpUUGCcIw1GUNmiYv-wSrToQA",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJTx2ix9SAhYARjNIgHLlm7rI",
+            "plus_code":{
+                  "compound_code":"QHX3+CM Cow Hollow, San Francisco, CA, USA",
+                  "global_code":"849VQHX3+CM"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJTx2ix9SAhYARjNIgHLlm7rI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":308,
+            "vicinity":"2990 Baker Street, San Francisco",
+            "CBG":60750128003,
+            "Radius":182.1257807112
+      }
+]

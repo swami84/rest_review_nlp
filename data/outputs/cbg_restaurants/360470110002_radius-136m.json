@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6430977,
+                        "lng":-73.9940984
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6444575803,
+                              "lng":-73.9928301697
+                        },
+                        "southwest":{
+                              "lat":40.6417596197,
+                              "lng":-73.9955281303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rancho San Miguel",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":731,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117509479021705732066\">Rancho San Miguel<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwInmbh_D3-jgoiKrChk7hOHLP6DdlHhaNoUFccgJubMmrNyPt6lkukXUnsS9pLBCnxqdt18t6JbQQe9q9uEgbBY5BOZX-vCUQC5sXgzRBtBnPXK_Z8JtOQ5zTjIf_s85TmeScFdopEIWQQWMXX7rEip8VVXfwNssYh21VzlvekDeMtL",
+                        "width":1332
+                  }
+            ],
+            "place_id":"ChIJPdwo-NFawokRa3V9ax8zz_U",
+            "plus_code":{
+                  "compound_code":"J2V4+69 New York, NY, USA",
+                  "global_code":"87G8J2V4+69"
+            },
+            "rating":4.3,
+            "reference":"ChIJPdwo-NFawokRa3V9ax8zz_U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"4109 New Utrecht Avenue, Brooklyn",
+            "CBG":360470110002,
+            "Radius":135.6638404998
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8447336,
+                        "lng":-73.9091613
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8459896303,
+                              "lng":-73.9079356197
+                        },
+                        "southwest":{
+                              "lat":40.8432916697,
+                              "lng":-73.9106335803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Thaiba Fried Chicken",
+            "place_id":"ChIJMUHQXmr0wokReaXLiQ_PD9w",
+            "plus_code":{
+                  "compound_code":"R3VR+V8 The Bronx, NY, USA",
+                  "global_code":"87G8R3VR+V8"
+            },
+            "rating":4.8,
+            "reference":"ChIJMUHQXmr0wokReaXLiQ_PD9w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"162 East 174th Street, The Bronx",
+            "CBG":360050229021,
+            "Radius":106.4136936723
+      }
+]

@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7608371,
+                        "lng":-122.1811588
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7621617303,
+                              "lng":-122.1797845197
+                        },
+                        "southwest":{
+                              "lat":37.7594637697,
+                              "lng":-122.1824824803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mames",
+            "place_id":"ChIJV4iXDDeFj4ARr67LcZ5HV7Y",
+            "plus_code":{
+                  "compound_code":"QR69+8G Oakland, CA, USA",
+                  "global_code":"849VQR69+8G"
+            },
+            "reference":"ChIJV4iXDDeFj4ARr67LcZ5HV7Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"76th Avenue, Oakland",
+            "CBG":60014085005,
+            "Radius":240.4010425215
+      }
+]

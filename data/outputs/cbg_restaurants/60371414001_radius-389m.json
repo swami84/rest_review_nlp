@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.1555355,
+                        "lng":-118.4739304
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1567808303,
+                              "lng":-118.4725708197
+                        },
+                        "southwest":{
+                              "lat":34.1540828697,
+                              "lng":-118.4752687803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ameci Pizza Kitchen",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":400,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100180998557941046135\">Ameci Pizza Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLJLDTtqgFFHOmwoGNVV0S4RswqtuiIGsc3oUxaaH9nGySgJtjm3AjHMBBzZTd7MR1gq15eLAu0m6XVpknocDl2cYNu0OouvsWoYSpIjbG8JIDTO1ijIgJNxJnkz9Vi0s2UzDClvqzJ_uNI0k5ry66ZWxDO_OTDESsUft_tAJ7zhu84",
+                        "width":597
+                  }
+            ],
+            "place_id":"ChIJNwgempKXwoAR_Fu92BqFt-o",
+            "plus_code":{
+                  "compound_code":"5G4G+6C Encino, Los Angeles, CA, USA",
+                  "global_code":"85635G4G+6C"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJNwgempKXwoAR_Fu92BqFt-o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"15615 Ventura Boulevard, Encino",
+            "CBG":60371414001,
+            "Radius":388.8469757959
+      }
+]

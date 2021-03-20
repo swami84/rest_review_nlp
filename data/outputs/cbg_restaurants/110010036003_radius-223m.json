@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9245674,
+                        "lng":-77.0272346
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9259163803,
+                              "lng":-77.0257878197
+                        },
+                        "southwest":{
+                              "lat":38.9232184197,
+                              "lng":-77.0284857803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pho Viet USA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104656962366263101407\">Pho Viet Usa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIINi4B_PoUuSdKICvJCDgoeEdDlRqi31zDX5Z02oEtLRBuuX1hrtLiHHldNoDmfnXdRyspxhcro9ZXZthX6NP5JsjWl9Rpn2NRU7yANurH9_st2Z-28INZ0WnYaiax82Gi3rELue_cOElHz5GM_zvegOzvncRVhwApRJ1FTm0iMxjU",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJv2Iqh3i3t4kRyc7KLZtZP4U",
+            "plus_code":{
+                  "compound_code":"WXFF+R4 Washington, DC, USA",
+                  "global_code":"87C4WXFF+R4"
+            },
+            "rating":3.9,
+            "reference":"ChIJv2Iqh3i3t4kRyc7KLZtZP4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"2628 11th Street Northwest, Washington",
+            "CBG":110010036003,
+            "Radius":222.8463153682
+      }
+]

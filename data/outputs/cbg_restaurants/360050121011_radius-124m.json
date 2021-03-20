@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8269268,
+                        "lng":-73.8881284
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8281985303,
+                              "lng":-73.8867900197
+                        },
+                        "southwest":{
+                              "lat":40.8255005697,
+                              "lng":-73.8894879803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken",
+            "place_id":"ChIJ-TOkhu_1wokRHnqg3fbGSpw",
+            "plus_code":{
+                  "compound_code":"R4G6+QP The Bronx, NY, USA",
+                  "global_code":"87G8R4G6+QP"
+            },
+            "reference":"ChIJ-TOkhu_1wokRHnqg3fbGSpw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1029 East 167th Street, The Bronx",
+            "opening_hours":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050121011,
+            "Radius":123.7415805822
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8272093,
+                        "lng":-73.8866319
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8286223803,
+                              "lng":-73.8853407197
+                        },
+                        "southwest":{
+                              "lat":40.8259244197,
+                              "lng":-73.8880386803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Whitlock Fried Chicken",
+            "place_id":"ChIJm5Xs-vj0wokRbiDNezHxA1k",
+            "plus_code":{
+                  "compound_code":"R4G7+V8 The Bronx, NY, USA",
+                  "global_code":"87G8R4G7+V8"
+            },
+            "reference":"ChIJm5Xs-vj0wokRbiDNezHxA1k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"The Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "rating":4.0,
+            "user_ratings_total":1.0,
+            "CBG":360050121011,
+            "Radius":123.7415805822
+      }
+]

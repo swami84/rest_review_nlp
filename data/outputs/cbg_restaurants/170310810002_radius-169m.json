@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.89773,
+                        "lng":-87.630905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8990346803,
+                              "lng":-87.6297434197
+                        },
+                        "southwest":{
+                              "lat":41.8963367197,
+                              "lng":-87.6324413803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Regina Mary",
+            "place_id":"ChIJ878SAE3TD4gRaFTrjobi-BI",
+            "plus_code":{
+                  "compound_code":"V9X9+3J Chicago, IL, USA",
+                  "global_code":"86HJV9X9+3J"
+            },
+            "reference":"ChIJ878SAE3TD4gRaFTrjobi-BI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"833 North Clark Street, Chicago",
+            "CBG":170310810002,
+            "Radius":169.2474716434
+      }
+]

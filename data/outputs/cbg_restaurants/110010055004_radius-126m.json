@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9094067,
+                        "lng":-77.0476088
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9108191303,
+                              "lng":-77.0463138197
+                        },
+                        "southwest":{
+                              "lat":38.9081211697,
+                              "lng":-77.0490117803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Asia 54",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJncrwhMS3t4kR16F-70kAXW4",
+            "plus_code":{
+                  "compound_code":"WX52+QX Washington, DC, USA",
+                  "global_code":"87C4WX52+QX"
+            },
+            "rating":5,
+            "reference":"ChIJncrwhMS3t4kR16F-70kAXW4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2122 P Street Northwest, Washington",
+            "CBG":110010055004,
+            "Radius":125.9672490224
+      }
+]

@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8153484,
+                        "lng":-73.9000905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8166358803,
+                              "lng":-73.8986354197
+                        },
+                        "southwest":{
+                              "lat":40.8139379197,
+                              "lng":-73.9013333803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Chopsticks Kitchen",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKByFjDHZ4Ow8b_AEUEmgVWLERGxRbwebaW_iHK0bffmf2OnuqJEac7CenzlKBkUqhW3WTVyLDHYGRd8cb9bPHl6z4RA8rbGwTFG1mrekYIMIj1cJVf_TDfGVhuk0q2Auj6E9gWgSy_oxeLqKT9KEjvFYZj3tcyfrCv2NxoZg6IJV1C",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ-x-NLq71wokRJz_q9eZvO4s",
+            "plus_code":{
+                  "compound_code":"R38X+4X New York, NY, USA",
+                  "global_code":"87G8R38X+4X"
+            },
+            "rating":4.4,
+            "reference":"ChIJ-x-NLq71wokRJz_q9eZvO4s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":133,
+            "vicinity":"959 Leggett Avenue, The Bronx",
+            "CBG":360050085002,
+            "Radius":131.4961202366
+      }
+]

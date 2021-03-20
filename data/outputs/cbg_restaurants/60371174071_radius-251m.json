@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2286941,
+                        "lng":-118.4689207
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2299544303,
+                              "lng":-118.4675745697
+                        },
+                        "southwest":{
+                              "lat":34.2272564697,
+                              "lng":-118.4702725303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Leo's Tacos Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118325101668322983571\">Leo&#39;s Tacos Truck<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL5TfoyqYgmwshjM4iQWWiWojd_BXu_7_6wXHL_upkvp73cyC35Y0mp9zTCYKYU93xy-UdygXfA8X2Lf9TqfIXCu0MmO5P6bHJhwgj51NAUHYJ2Wew8JI518VudKMWLDiYNJuYiYIMH0MFnwK4949VgTSVpY3FLUMt4YRvs8Qdb9QuT",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJq6oavrmQwoARnu4adJgQ0ws",
+            "plus_code":{
+                  "compound_code":"6GHJ+FC North Hills, Los Angeles, CA, USA",
+                  "global_code":"85636GHJ+FC"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJq6oavrmQwoARnu4adJgQ0ws",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":611,
+            "vicinity":"15421 Parthenia Street, North Hills",
+            "CBG":60371174071,
+            "Radius":251.2601698765
+      }
+]

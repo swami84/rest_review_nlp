@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9533552,
+                        "lng":-87.7320259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9547446803,
+                              "lng":-87.7306240197
+                        },
+                        "southwest":{
+                              "lat":41.9520467197,
+                              "lng":-87.7333219803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lou Malnati's Pizzeria - Carry Out",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101753048156556143748\">Lou Malnati&#39;s Pizzeria - Carry Out<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKL8f3qltSRo2FW6xENrM__Kn91wP0KtZda-EBj3zya7w6ywsU0rs2qeJC-rAJlFAEJGQqMHgDfKdNhJhb2hQaUEYWTEnA1n4zFbhmfmQ4JjNasZ0HTfgqQUcbyPVabEpeBokF9eKDPHAM6z5L4U27Uv_p4eMeQA6707M0Oi--wlXZ2",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJedRfJ7TND4gRRNghCMxJix8",
+            "plus_code":{
+                  "compound_code":"X739+85 Chicago, IL, USA",
+                  "global_code":"86HJX739+85"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJedRfJ7TND4gRRNghCMxJix8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":355,
+            "vicinity":"3986 North Avondale Avenue, Chicago",
+            "CBG":170311603002,
+            "Radius":204.2272778216
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9534261,
+                        "lng":-87.732271
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9548641303,
+                              "lng":-87.7309214197
+                        },
+                        "southwest":{
+                              "lat":41.9521661697,
+                              "lng":-87.7336193803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Potbelly Sandwich Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2426,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109669855484647094723\">David Johnsen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOIIMUIu1ndpqERz1g1cqQQmHTJSavIeOOWFNjRt8sIfm4P9fNpzUjOh1cAO7khM4adwxPZInQQalqEJ1orSNpZBBjCnjiyAl1aQVST60d8BAYyHSkMzG-dj6U3zti5yFE7bbKkrw5Uk5Q9ZFcJoHks1duhOWPBXSoWHRoByhTUKGP",
+                        "width":3656
+                  }
+            ],
+            "place_id":"ChIJ5V5-JrTND4gR_inN8tDVJFU",
+            "plus_code":{
+                  "compound_code":"X739+93 Chicago, IL, USA",
+                  "global_code":"86HJX739+93"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ5V5-JrTND4gR_inN8tDVJFU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":333,
+            "vicinity":"4185 West Irving Park Road #1, Chicago",
+            "CBG":170311603002,
+            "Radius":204.2272778216
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1514931,
+                        "lng":-118.2581558
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1527983803,
+                              "lng":-118.2566950697
+                        },
+                        "southwest":{
+                              "lat":34.1501004197,
+                              "lng":-118.2593930303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Phoenicia Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108088898367853333899\">Ara Kerestedjian<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK-Meeb1RBnbuUnoZNJZCOX_XI3osqXa-nhCZ6uNFikoRsxAKF-myIxtyVA4n9x7iZAF0dtVDwX55Rh_cMUWf91eqpjJvrpW8qc6zwvyurQAmn6QtXupD0jMnxjlbXsu0bDYpIyWyNAoMETkhUwi7oBSRaf-mBkwbDEZbb2R__-jek1",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJJS3O-FPAwoARfpc4I0mASB8",
+            "plus_code":{
+                  "compound_code":"5P2R+HP Glendale, CA, USA",
+                  "global_code":"85635P2R+HP"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJJS3O-FPAwoARfpc4I0mASB8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":594,
+            "vicinity":"343 North Central Avenue, Glendale",
+            "CBG":60373018011,
+            "Radius":180.2963130703
+      }
+]

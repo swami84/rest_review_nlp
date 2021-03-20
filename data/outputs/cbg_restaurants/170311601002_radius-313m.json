@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9653944,
+                        "lng":-87.7444583
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9668468803,
+                              "lng":-87.7432202697
+                        },
+                        "southwest":{
+                              "lat":41.9641489197,
+                              "lng":-87.7459182303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"5th Province",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3984,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109897975546567699465\">Tom A<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKK8DY1NPVUbZ6mKVxA-kwqWC4CG-CgwKp3mI0GKM7QS4gHxHdq_-FoaOZNixFGwuFOwjUoOU8oJX8y-0NQ3DOm3-vWMu_XsfsuspAIwaO4PTk9vB1MAQc2Axx2FUcLPqPhf5dbwG-I8NiUBLwbjmpyjbLfdKywRx0vX--rNGA5yYt",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJQ2jYTDDMD4gREReK9qylfqk",
+            "plus_code":{
+                  "compound_code":"X784+56 Chicago, IL, USA",
+                  "global_code":"86HJX784+56"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJQ2jYTDDMD4gREReK9qylfqk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":83,
+            "vicinity":"4626 North Knox Avenue, Chicago",
+            "CBG":170311601002,
+            "Radius":312.6613248798
+      }
+]

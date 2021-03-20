@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9857409,
+                        "lng":-87.6523892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9869044303,
+                              "lng":-87.6514656697
+                        },
+                        "southwest":{
+                              "lat":41.9842064697,
+                              "lng":-87.6541636303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Lake Breeze Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117616034409135062797\">Gino J<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLcOO2g5uIs7zmHj47J8-1SfjsOC6vqGrmk98aqMwgePF43viVa_WK-GSTFeS70S-K48LxONPURYpgDi07EqEYKiX-mNo6_JehIzp15XWzEgvJ1clDZzX1PpevSprrQ2041dhEXioxsMRoOwVccmKGIZyocKQxHybzI8O3ZdndF9MK5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ34BhWBLRD4gRQ5phlBq20qw",
+            "plus_code":{
+                  "compound_code":"X8PX+72 Chicago, IL, USA",
+                  "global_code":"86HJX8PX+72"
+            },
+            "rating":5,
+            "reference":"ChIJ34BhWBLRD4gRQ5phlBq20qw",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"5800 North Lake Shore Drive, Chicago",
+            "CBG":170310306042,
+            "Radius":174.6255625514
+      }
+]

@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9669113,
+                        "lng":-87.6536642
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9683520303,
+                              "lng":-87.6525218197
+                        },
+                        "southwest":{
+                              "lat":41.9656540697,
+                              "lng":-87.6552197803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Frank Fox",
+            "place_id":"ChIJHUclAznTD4gRuh-swn0u_pw",
+            "plus_code":{
+                  "compound_code":"X88W+QG Chicago, IL, USA",
+                  "global_code":"86HJX88W+QG"
+            },
+            "reference":"ChIJHUclAznTD4gRuh-swn0u_pw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Chicago",
+            "CBG":170310315011,
+            "Radius":92.5786800262
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9656677,
+                        "lng":-87.6536799
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9669066803,
+                              "lng":-87.6523276197
+                        },
+                        "southwest":{
+                              "lat":41.9642087197,
+                              "lng":-87.6550255803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Main Dish Special Events & Catering",
+            "place_id":"ChIJnxZ4xenTD4gRJX4KBWP69D8",
+            "plus_code":{
+                  "compound_code":"X88W+7G Chicago, IL, USA",
+                  "global_code":"86HJX88W+7G"
+            },
+            "reference":"ChIJnxZ4xenTD4gRJX4KBWP69D8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"928 West Wilson Avenue, Chicago",
+            "CBG":170310315011,
+            "Radius":92.5786800262
+      }
+]

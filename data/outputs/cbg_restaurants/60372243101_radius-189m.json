@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.04677,
+                        "lng":-118.282113
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0482081303,
+                              "lng":-118.2808129197
+                        },
+                        "southwest":{
+                              "lat":34.0455101697,
+                              "lng":-118.2835108803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King Taco # 10",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103522005474693681551\">King Taco # 10<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKlhmPNA0G91g_szbsp3I5bwpYzTFo4LV1DX5hSN-Nqg65y6adVl2oUtFr98daFfTYBKMMcCIHfLX8yxSbBiUZovvAg75TEGzrk6kJTEBIcrUEBcNE0CszthA5CZIliUPpV5c3hHJQ9rB470ZSM8ryMg44n9_8PCrRUS6QwSayXdZ1V",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJb0XWt5DHwoARknfw-dzT_i4",
+            "plus_code":{
+                  "compound_code":"2PW9+P5 Los Angeles, CA, USA",
+                  "global_code":"85632PW9+P5"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJb0XWt5DHwoARknfw-dzT_i4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2848,
+            "vicinity":"2020 West Pico Boulevard, Los Angeles",
+            "CBG":60372243101,
+            "Radius":188.8653598616
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0469734,
+                        "lng":-118.2825889
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0482553803,
+                              "lng":-118.2811991197
+                        },
+                        "southwest":{
+                              "lat":34.0455574197,
+                              "lng":-118.2838970803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pupuseria Don Carlos Village",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101792887061072866752\">Adam Overton<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAfN8RL_utf8TDwNmkkTZRPi7KTvISbkQas2d-OW0g8_Z-4nwsqHQk6F_Ow9KSEpG34DmgqFgl1oPpsZS-a_MKFiEZz_MAACG474EHXagVDtAkVpWSaAAUksVRPjOK-AxORsNXWQHLItycGCfpvHUULt89H9jRybPC26FAutdMcR-N",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJVXBUt5DHwoAROBgZ52bq0O4",
+            "plus_code":{
+                  "compound_code":"2PW8+QX Los Angeles, CA, USA",
+                  "global_code":"85632PW8+QX"
+            },
+            "price_level":null,
+            "rating":3.6,
+            "reference":"ChIJVXBUt5DHwoAROBgZ52bq0O4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":239,
+            "vicinity":"2046 West Pico Boulevard, Los Angeles",
+            "CBG":60372243101,
+            "Radius":188.8653598616
+      }
+]

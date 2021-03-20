@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9448838,
+                        "lng":-87.6491223
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9462061803,
+                              "lng":-87.6479213697
+                        },
+                        "southwest":{
+                              "lat":41.9435082197,
+                              "lng":-87.6506193303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lark",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":917,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102977990986569909650\">Lark<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLb20KOyx7tI-EfTY69kVtkVP_sWpHtQVCyP03hOGQ-D-aDbqq0xEcCiZzrsElN_3IDEs9Wnxzgxg4OKG5nl2wXWh1-WcdmwAMaqGlVYzqWTSYkrZNJxqHNaRQSJev6w-Jq5DAF7RT17WGrBXCqwDCdqdHYwMmr-uAoV3EIP_JBd0Tb",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJD20e5K_TD4gRlrkMBeyG2l4",
+            "plus_code":{
+                  "compound_code":"W9V2+X9 Chicago, IL, USA",
+                  "global_code":"86HJW9V2+X9"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJD20e5K_TD4gRlrkMBeyG2l4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":397,
+            "vicinity":"3441 North Halsted Street, Chicago",
+            "CBG":170310620002,
+            "Radius":142.4844010438
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6936541,
+                        "lng":-73.9984793
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6950503803,
+                              "lng":-73.9971170197
+                        },
+                        "southwest":{
+                              "lat":40.6923524197,
+                              "lng":-73.9998149803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"River Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101722662155725775464\">3bwarwick<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI_88eoJI2Gb_M5dtdcgtrGy_eg8oKy1Q4lhWEhVNz5KkED-dz4azAMizU5V7HMv9pCD4bVxDKbtOzJMuJP-gZa3TWBU8MgKWigwWMMQNOsiSE2lsLdU_tL9-lh7FeDWdWoUw3N-3yBHxaTFsjAJ7F_u0PfFWIvtcbYHi1sNirBILjy",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJy7j_j0ZawokRrnTeTM1Ke0s",
+            "plus_code":{
+                  "compound_code":"M2V2+FJ Brooklyn, NY, USA",
+                  "global_code":"87G8M2V2+FJ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJy7j_j0ZawokRrnTeTM1Ke0s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":299,
+            "vicinity":"32 Joralemon Street, Brooklyn",
+            "CBG":360470003014,
+            "Radius":139.2302843084
+      }
+]

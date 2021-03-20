@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9270753,
+                        "lng":-87.6306663
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9279967303,
+                              "lng":-87.6294377697
+                        },
+                        "southwest":{
+                              "lat":41.9252987697,
+                              "lng":-87.6321357303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Theater on the Lake",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1809,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110005592416372306191\">Theater on the Lake<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKgl06DPub7Zwl7kFx3pp2y1UXOLDnXQO2dPATmL2aE70DlqzfSjCp9ULBjvjo84U3lwlK5ubP_5HRn5o98Ezw5n663VaXrdvQGD7GvXm-oBUZcg_3Xt8ZpSAYlu06ufj8LPLzPocujQQVJ_bUgzA_CELVEcsrSeHk0bSFfziaAq0I_",
+                        "width":3872
+                  }
+            ],
+            "place_id":"ChIJ9wm2tXHTD4gRaSxHG55KHFQ",
+            "plus_code":{
+                  "compound_code":"W9G9+RP Chicago, IL, USA",
+                  "global_code":"86HJW9G9+RP"
+            },
+            "rating":4.5,
+            "reference":"ChIJ9wm2tXHTD4gRaSxHG55KHFQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":565,
+            "vicinity":"2401 North Lake Shore Drive, Chicago",
+            "CBG":170310701013,
+            "Radius":382.8337094155
+      }
+]

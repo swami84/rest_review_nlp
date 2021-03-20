@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6512445,
+                        "lng":-74.0080125
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6525431803,
+                              "lng":-74.0065737697
+                        },
+                        "southwest":{
+                              "lat":40.6498452197,
+                              "lng":-74.0092717303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Yummy Yummy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2407,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115183086544552542262\">john li<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJDaBlfbiMRd2VxTjKzyRs54Zai7CLziJZjqVJbyGiZibcHmUQ3QVKP8ixbjW6seMDCrR4zkiWPHZ8pwRXbpBGYDBaEw1ZzteV1XLVGGZqgYNSk5Lnrv1p6nPpALh-rAE4bwCrKcfOz_AGi0HE8cBOHP3ktNehvm_iTfGHp8RunU4qJ",
+                        "width":3606
+                  }
+            ],
+            "place_id":"ChIJOQLKarhawokRSzB6N92nESg",
+            "plus_code":{
+                  "compound_code":"MX2R+FQ Brooklyn, NY, USA",
+                  "global_code":"87G7MX2R+FQ"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJOQLKarhawokRSzB6N92nESg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"4122 4th Avenue, Brooklyn",
+            "CBG":360470082003,
+            "Radius":121.9197894725
+      }
+]

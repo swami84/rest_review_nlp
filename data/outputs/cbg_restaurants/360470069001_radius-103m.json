@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6856255,
+                        "lng":-73.990996
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6870068803,
+                              "lng":-73.9897325697
+                        },
+                        "southwest":{
+                              "lat":40.6843089197,
+                              "lng":-73.9924305303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Black Forest Brooklyn - Smith Street",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3006,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113479490243076428448\">Eve Mosher<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIz9Hd4RtgzDuQbk09BN577pY-GjtJo4q0t5cK662_t7jtsKjsb-ov8e7_Xo8uVtcjdx7kGg7XU9MnuxOwZBLahf_-8XYDdKcRZR7Qkde44371uxXO0989gqpQ2wYzQfrwHrBgzynaQjIbmejm_kiFKG8SQcZM5J8gpCn4p8aytaPkF",
+                        "width":5344
+                  }
+            ],
+            "place_id":"ChIJV2vKuVFawokRhpb9MS8Dljg",
+            "plus_code":{
+                  "compound_code":"M2P5+7J New York, NY, USA",
+                  "global_code":"87G8M2P5+7J"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJV2vKuVFawokRhpb9MS8Dljg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":339,
+            "vicinity":"181 Smith Street, Brooklyn",
+            "CBG":360470069001,
+            "Radius":102.7785575054
+      }
+]

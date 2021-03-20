@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9327083,
+                        "lng":-87.6550667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9340042303,
+                              "lng":-87.6537156697
+                        },
+                        "southwest":{
+                              "lat":41.9313062697,
+                              "lng":-87.6564136303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Paddy Long's Beer & Bacon Pub",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101083959226369442419\">Paddy Long&#39;s Beer &amp; Bacon Pub<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJZAfUv_dn6LUBKroyuw262Sy9Eb-dcYXjN3UTE70p6VuLHEzZPgFhcMOWoiTN6yJMEQfMsHX460FnvwqLuh2KZckUczqj0DqXXejmjHMdG0yM9qFcEqgRR-T2RGNqTyNtHNVwYWvw7BvzC6a0pS5pQ47WDGF9GbcPs7IT2fVGjR8ee",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ2xZNAwHTD4gRWSPNSSFNNMo",
+            "plus_code":{
+                  "compound_code":"W8MV+3X Chicago, IL, USA",
+                  "global_code":"86HJW8MV+3X"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ2xZNAwHTD4gRWSPNSSFNNMo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":486,
+            "vicinity":"1028 West Diversey Parkway, Chicago",
+            "CBG":170310629002,
+            "Radius":179.6994750509
+      }
+]

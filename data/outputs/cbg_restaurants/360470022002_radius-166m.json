@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6449579,
+                        "lng":-74.020976
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6462938303,
+                              "lng":-74.0196049697
+                        },
+                        "southwest":{
+                              "lat":40.6435958697,
+                              "lng":-74.0223029303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gyro&Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113451202737461391356\">Gyro&amp;Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIRIgP9pbJdvm1QUDM2SwUOh6tFue4X9XlNbOC_IkyLao7ZEgr8iDsztEgggXhzVm-s_mzWg_Dz0uedEn4o2RZLEDuOF7hWc7ey44JhPn5tffl_9mo_-2gPPAKfR9e0wDvcSdqkZ5PJgPrNqd4noDHpLJFf-QS3oe74Qs2S54L-bxeg",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJcQNUefxbwokRVg1sphTa9TM",
+            "plus_code":{
+                  "compound_code":"JXVH+XJ Brooklyn, NY, USA",
+                  "global_code":"87G7JXVH+XJ"
+            },
+            "rating":5,
+            "reference":"ChIJcQNUefxbwokRVg1sphTa9TM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"5701 2nd Avenue, Brooklyn",
+            "CBG":360470022002,
+            "Radius":165.5153779998
+      }
+]

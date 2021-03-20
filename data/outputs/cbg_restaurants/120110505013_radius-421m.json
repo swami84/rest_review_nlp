@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":26.181652,
+                        "lng":-80.148232
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":26.1829437803,
+                              "lng":-80.1468817197
+                        },
+                        "southwest":{
+                              "lat":26.1802458197,
+                              "lng":-80.1495796803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fat Freddy's Sub Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":690,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109241038397786194206\">Fat Freddy&#39;s Sub Shop<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKnTrpbBZ9JrDz2faNdJ51lzpzZUGNiAd9a6fLxUgK_K4nEUqEZ1t1QeZAIHHsUzTO4NkKvuZvzo3T7xHhf5OAhPT_ySzuV7YbuX7b7jMuAgW2IjG5k2Bj1NRqd2x1NaNJ4Gs9KE82Nf6v-IR7RJpW8uQEsF3Wpo_ONffxCGd51HcUC",
+                        "width":1225
+                  }
+            ],
+            "place_id":"ChIJyY3H_9MD2YgR0T9flqR9kqE",
+            "plus_code":{
+                  "compound_code":"5VJ2+MP Oakland Park, FL, USA",
+                  "global_code":"76RX5VJ2+MP"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJyY3H_9MD2YgR0T9flqR9kqE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":192,
+            "vicinity":"221 Prospect Road #3925, Oakland Park",
+            "CBG":120110505013,
+            "Radius":420.8271912519
+      }
+]

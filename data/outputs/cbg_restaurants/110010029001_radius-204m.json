@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9326043,
+                        "lng":-77.0282445
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9339410303,
+                              "lng":-77.0269958197
+                        },
+                        "southwest":{
+                              "lat":38.9312430697,
+                              "lng":-77.0296937803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Coupe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1400,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116745312132814297696\">The Coupe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKv1srzlohKhZPVzcjzZxMwT8OQTD3uuxrV3OfcN56hPPf8o_SJB2yHH_COYtWFVt0XVClc5vEsdzituvohtGut5J6eOHCuAmpjyZ1QaXG5KM_p-4Y9D6egifUtssuFG6M2WmnDEwfCJklnUTFLFVFFsiZrL-vM0CLr6xVCxBE6MFQK",
+                        "width":2100
+                  }
+            ],
+            "place_id":"ChIJ45GEXBnIt4kRoOAe0y91i44",
+            "plus_code":{
+                  "compound_code":"WXMC+2P Washington, DC, USA",
+                  "global_code":"87C4WXMC+2P"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJ45GEXBnIt4kRoOAe0y91i44",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1249,
+            "vicinity":"3415 11th Street Northwest, Washington",
+            "CBG":110010029001,
+            "Radius":203.8794123917
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.932286,
+                        "lng":-77.028596
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9336487303,
+                              "lng":-77.0271433197
+                        },
+                        "southwest":{
+                              "lat":38.9309507697,
+                              "lng":-77.0298412803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ossobuco Ristorante",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105688036788824968997\">Fatih Demirci<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL1vvho-tzYvDwxAZdVqkNJUwjzEWTZzP9ahiHFYtSyEEMqs-jXMHwnDmiPVocI76EN1GW5Yp435iJxJAdCgvR3RQP3h8TckKpnA_P21tlbtsjinZiRuITp9W80QH2ZPDMA9wjTNec_d4_FVoeR33xcaVmb6LBPB5ZR4iJsp3V8SNl-",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJKyjvAd7Jt4kRPiPCZ3QQeB8",
+            "plus_code":{
+                  "compound_code":"WXJC+WH Washington, DC, USA",
+                  "global_code":"87C4WXJC+WH"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJKyjvAd7Jt4kRPiPCZ3QQeB8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"3418 11th Street Northwest, Washington",
+            "CBG":110010029001,
+            "Radius":203.8794123917
+      }
+]

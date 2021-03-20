@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6953012,
+                        "lng":-73.9954878
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6965629803,
+                              "lng":-73.9941520197
+                        },
+                        "southwest":{
+                              "lat":40.6938650197,
+                              "lng":-73.9968499803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lantern",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108492738181551111937\">Cherishe Cumma<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKPcx7BsbNPibG42F-8POULPDxLE5PQOBlCYhUyG3hIusKbUKtsBb4y--FsFDZhL4xh_UkLdwwKdpbynzcuBcoyceTW4b4FE1F7RwRr2nQfUGyhuY446zuIDL0lI_N07TKIagokHuegU5jvo6_YyV66nepYJFTvQKjF1sMMlKWhRFeV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJu_V1zUdawokRajRClD40UIc",
+            "plus_code":{
+                  "compound_code":"M2W3+4R Brooklyn, NY, USA",
+                  "global_code":"87G8M2W3+4R"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJu_V1zUdawokRajRClD40UIc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":777,
+            "vicinity":"101 Montague Street, Brooklyn",
+            "CBG":360470005012,
+            "Radius":76.8417099544
+      }
+]

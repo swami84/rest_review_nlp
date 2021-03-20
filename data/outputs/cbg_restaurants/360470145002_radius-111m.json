@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6605091,
+                        "lng":-73.9945277
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6618172803,
+                              "lng":-73.9931113197
+                        },
+                        "southwest":{
+                              "lat":40.6591193197,
+                              "lng":-73.9958092803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"5th Avenue Asian Taste",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103317033538683486838\">Stephanie Alberg-Widlits<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLKqUSyEHTY__qnc6xeLl1hZ4d-bi-FA4eLsIPMA4_wYBSQAR5HfLGZKmhK6Xc8AxAHmO6HE44Fk2jNzcwn4cvgJ1Xf9cPcP9D4mZqoPzXFbEtYuULtGOCWoyTY5JULud4JIcKzH7L_0Ith5QZmQZbjpXKxtUG0lSU6GEfzIm5neO6r",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJbQBLKuZawokRsKEAdDAedKI",
+            "plus_code":{
+                  "compound_code":"M264+65 New York, NY, USA",
+                  "global_code":"87G8M264+65"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJbQBLKuZawokRsKEAdDAedKI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"718 5th Avenue, Brooklyn",
+            "CBG":360470145002,
+            "Radius":110.9102590006
+      }
+]

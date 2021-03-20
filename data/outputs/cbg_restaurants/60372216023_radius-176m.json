@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0401852,
+                        "lng":-118.2882681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0414543803,
+                              "lng":-118.2869174197
+                        },
+                        "southwest":{
+                              "lat":34.0387564197,
+                              "lng":-118.2896153803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"A & K Roofing Supply",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJvYIs843HwoARCgY_pXs9hSM",
+            "plus_code":{
+                  "compound_code":"2PR6+3M Los Angeles, CA, USA",
+                  "global_code":"85632PR6+3M"
+            },
+            "rating":5,
+            "reference":"ChIJvYIs843HwoARCgY_pXs9hSM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1467 West Washington Boulevard, Los Angeles",
+            "CBG":60372216023,
+            "Radius":176.1012747579
+      }
+]

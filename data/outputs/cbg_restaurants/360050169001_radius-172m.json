@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8379898,
+                        "lng":-73.9011575
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8393796803,
+                              "lng":-73.8998354697
+                        },
+                        "southwest":{
+                              "lat":40.8366817197,
+                              "lng":-73.9025334303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Red House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJqVPCTUP0wokRzAHBOYegfnk",
+            "plus_code":{
+                  "compound_code":"R3QX+5G New York, NY, USA",
+                  "global_code":"87G8R3QX+5G"
+            },
+            "rating":3.7,
+            "reference":"ChIJqVPCTUP0wokRzAHBOYegfnk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":90,
+            "vicinity":"538 Claremont Parkway, The Bronx",
+            "photos":null,
+            "price_level":null,
+            "CBG":360050169001,
+            "Radius":171.976053783
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.838107,
+                        "lng":-73.901622
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8394020303,
+                              "lng":-73.9001521197
+                        },
+                        "southwest":{
+                              "lat":40.8367040697,
+                              "lng":-73.9028500803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ_8GyRUP0wokRWOb1-pO4aHA",
+            "plus_code":{
+                  "compound_code":"R3QX+69 New York, NY, USA",
+                  "global_code":"87G8R3QX+69"
+            },
+            "rating":4.0,
+            "reference":"ChIJ_8GyRUP0wokRWOb1-pO4aHA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"3827 3rd Avenue, The Bronx",
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118350535183320080163\">Joel Oakley<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKsJSBYEYWhPYhoiqwiBzvWPt0wZJm9zZ9rNcx3utGz__Nq72fnxqkNk3YYMn0OuMo5ifpSrlwyYXTpy1GYOscn47sxS3OSvbGdt0FgH497Y9puc1hrkwJThl_gJIkw8605XMfML-lRkc9l2CZdsDCJFOW3RKBYjk45kesjinyRKzfM",
+                        "width":3456
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":360050169001,
+            "Radius":171.976053783
+      }
+]

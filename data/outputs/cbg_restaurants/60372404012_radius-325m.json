@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":33.9496772,
+                        "lng":-118.2834504
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9510270803,
+                              "lng":-118.2820495197
+                        },
+                        "southwest":{
+                              "lat":33.9483291197,
+                              "lng":-118.2847474803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pupusas. Graciela",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":392,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105320548943972166722\">Lizbeth Contreras<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtRe9Y5z7KJ0io9ctIA4ot2VMVaaD4wDQi6W925dGYEH4a8OftsLHWK_q1O6bkp38V8WZxdLfkB9spwHS39sfIHMWVp7A3FyPLfCv1hBQ_KKFH3n6_sPkiCpOAw-F0iK-SI09ds4cJDktcBbxYgvlUvf01ZTsyjdDJrqjfi0DprjZy",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJP_K_3pzJwoARwFdYKr-7kXI",
+            "plus_code":{
+                  "compound_code":"WPX8+VJ Los Angeles, CA, USA",
+                  "global_code":"8553WPX8+VJ"
+            },
+            "reference":"ChIJP_K_3pzJwoARwFdYKr-7kXI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Success Avenue &, Century Boulevard, Los Angeles",
+            "opening_hours":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372404012,
+            "Radius":325.3906869156
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9542621,
+                        "lng":-118.2829017
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9556112803,
+                              "lng":-118.2814587197
+                        },
+                        "southwest":{
+                              "lat":33.9529133197,
+                              "lng":-118.2841566803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Carnitas Estilo Michoacan",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJO7H2cKbJwoARoK8HZeFSnqI",
+            "plus_code":{
+                  "compound_code":"XP38+PR Los Angeles, CA, USA",
+                  "global_code":"8553XP38+PR"
+            },
+            "reference":"ChIJO7H2cKbJwoARoK8HZeFSnqI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9027 South Figueroa Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "rating":5.0,
+            "user_ratings_total":1.0,
+            "CBG":60372404012,
+            "Radius":325.3906869156
+      }
+]

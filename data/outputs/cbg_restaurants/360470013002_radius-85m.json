@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7005446,
+                        "lng":-73.9874945
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7019606303,
+                              "lng":-73.9861450697
+                        },
+                        "southwest":{
+                              "lat":40.6992626697,
+                              "lng":-73.9888430303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Randolph Beer DUMBO",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1373,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105577932498771063988\">Randolph Beer DUMBO<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ9eD_sc_fmE8PYb6YolYZxZ1Ulf1O3TSn5TeEUBBjUdPgYUxLUkaRlxPGBpo3TJ4Ad4DnhJFlEs-L86yBFIyElugz2mWirJpw_jkxbKpTuvkF4dxdOovVlDnqzXttN0WgeIvpgpPAGwXI4NAlKBNkOfOHdT1esoig8T8nyt0Rf4zHe",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJix9FO6lbwokRkZyFzr3vOeg",
+            "plus_code":{
+                  "compound_code":"P227+62 New York, NY, USA",
+                  "global_code":"87G8P227+62"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJix9FO6lbwokRkZyFzr3vOeg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":249,
+            "vicinity":"82 Prospect Street, Brooklyn",
+            "CBG":360470013002,
+            "Radius":84.8744427624
+      }
+]

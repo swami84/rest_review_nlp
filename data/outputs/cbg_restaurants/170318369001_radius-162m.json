@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.881173,
+                        "lng":-87.7021782
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8824388803,
+                              "lng":-87.7008282197
+                        },
+                        "southwest":{
+                              "lat":41.8797409197,
+                              "lng":-87.7035261803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Go Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":417,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107519961181521743919\">Go Fish &amp; Chicken<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4RIK7I14NOECqOpv_rf4YI3ISCHmTb3AU6qFh_pSxVHkl623jz90ls74nVtBNzoA8JupaKJPQA3IEsdbrEFpT2CPMdls7HN6lmlck6vPVL6h8pXnupOq7lgBezLFX1Iz1LHNo9JlvubXrTL9354nH3R3bjNTgr2IEl5K4q5nU1_Mb",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJc5YgWqEyDogREcSUPdmGRDY",
+            "plus_code":{
+                  "compound_code":"V7JX+F4 Chicago, IL, USA",
+                  "global_code":"86HJV7JX+F4"
+            },
+            "rating":5,
+            "reference":"ChIJc5YgWqEyDogREcSUPdmGRDY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"3022 West Madison Street, Chicago",
+            "CBG":170318369001,
+            "Radius":162.0501382297
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3871919,
+                        "lng":-157.9427687
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3883609803,
+                              "lng":-157.9415029697
+                        },
+                        "southwest":{
+                              "lat":21.3856630197,
+                              "lng":-157.9442009303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2597,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104928676314049118734\">Ken Stringer<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL96cXWsbantlLi8y0gvyJJ2nHY9FNr8u03Qc8PyZyxcBmUb_zsfheLYJ4SjyQ9hKI5Wj5FUo2M-aJhgOy5rJQgsmcYNMJyvOZVjK7MMo_gBHMqDFIoc7Ga6RdOHWlyNo3pDl9a2YK05b055r5kNpHLRKOBtOYm-2ZGPTWm1G9M972n",
+                        "width":3526
+                  }
+            ],
+            "place_id":"ChIJSQA1uA1vAHwRmJhNwUCRpqE",
+            "plus_code":{
+                  "compound_code":"93P4+VV Aiea, HI, USA",
+                  "global_code":"73H493P4+VV"
+            },
+            "rating":3.7,
+            "reference":"ChIJSQA1uA1vAHwRmJhNwUCRpqE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"98-1002 Moanalua Road, Aiea",
+            "CBG":150030078074,
+            "Radius":208.2562770295
+      }
+]

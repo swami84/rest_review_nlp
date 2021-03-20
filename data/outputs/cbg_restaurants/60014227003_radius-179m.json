@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8668177,
+                        "lng":-122.2513954
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8681537303,
+                              "lng":-122.2501879197
+                        },
+                        "southwest":{
+                              "lat":37.8654557697,
+                              "lng":-122.2528858803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Dough",
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117533116986336712686\">Dough<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKK4xP8aazI_9v7VQN3NrivUmV9LBwQQavohMExBnXss9Ia5rpA6dseu9R4rF5v03nvKdejSgsbMi8QK4tI7A-nuGw6FYGXYfdyVUV9P4ipDALxbo6WpO4FA3ju5oYOqe4Yl5JdeX3vFfxmIRZ3KuTSOAFgnYrG3i6BlS7t9LaUgXP1",
+                        "width":2200
+                  }
+            ],
+            "place_id":"ChIJM2DYdoN9hYARNoVngq_vX1M",
+            "plus_code":{
+                  "compound_code":"VP8X+PC Berkeley, CA, USA",
+                  "global_code":"849VVP8X+PC"
+            },
+            "rating":5,
+            "reference":"ChIJM2DYdoN9hYARNoVngq_vX1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2425 Piedmont Avenue, Berkeley",
+            "CBG":60014227003,
+            "Radius":178.9877560194
+      }
+]

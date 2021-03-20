@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.663379,
+                        "lng":-73.994689
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6647279803,
+                              "lng":-73.9933400197
+                        },
+                        "southwest":{
+                              "lat":40.6620300197,
+                              "lng":-73.9960379803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brothers Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":861,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109856378423508550979\">Brothers Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKojrgdLkEX2bkglSlB1sHUv7r_fywdD2tyFS3acXBbypbH2OnRb8uQo0CBKoHypYahBrzl6R91c4u5Gurk8CUrRDo8LsifE12aHUMNRLLRjh4zxKHP_GrsDbiWw91OdpRCtjLSrMS-CKrTpV9YwSPF1c5zJxT9_f2splGTyGPasBmM",
+                        "width":1385
+                  }
+            ],
+            "place_id":"ChIJpZL09-VawokRnFQ18Rc7onk",
+            "plus_code":{
+                  "compound_code":"M274+94 Brooklyn, NY, USA",
+                  "global_code":"87G8M274+94"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJpZL09-VawokRnFQ18Rc7onk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":116,
+            "vicinity":"647 4th Avenue, Brooklyn",
+            "CBG":360470145004,
+            "Radius":131.745214235
+      }
+]

@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8513108,
+                        "lng":-73.9080697
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8526103303,
+                              "lng":-73.9067730697
+                        },
+                        "southwest":{
+                              "lat":40.8499123697,
+                              "lng":-73.9094710303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"African Home Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107864959759841677983\">African Home Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIjK0WLs7YFZ0NWyo2sO2AAPOlY8gB7BYeTDRiftHGJ9bfhE7NsE9OcLouuCaqdvQJCvMNnhcZRkRES3S5NA_jqI_i7kWrhp3SDNVeFidNrCSaaHzakhvXZaI0MSizEEby_eL4HsHdXbDmahmyuRe6dv1n4E9Vis-4ug2zLhuVN779M",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJBYCAuG30wokRKG7FHgMlGT8",
+            "plus_code":{
+                  "compound_code":"V32R+GQ The Bronx, NY, USA",
+                  "global_code":"87G8V32R+GQ"
+            },
+            "rating":4.4,
+            "reference":"ChIJBYCAuG30wokRKG7FHgMlGT8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33.0,
+            "vicinity":"57 East Tremont Avenue, The Bronx",
+            "CBG":360050233011,
+            "Radius":122.3654242263
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8513411,
+                        "lng":-73.9080742
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8526322303,
+                              "lng":-73.9067864697
+                        },
+                        "southwest":{
+                              "lat":40.8499342697,
+                              "lng":-73.9094844303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Arakan Restaurant",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJtQV7uG30wokRzpMVB2tMOSE",
+            "plus_code":{
+                  "compound_code":"V32R+GQ The Bronx, NY, USA",
+                  "global_code":"87G8V32R+GQ"
+            },
+            "rating":null,
+            "reference":"ChIJtQV7uG30wokRzpMVB2tMOSE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"57 East Tremont Avenue, The Bronx",
+            "CBG":360050233011,
+            "Radius":122.3654242263
+      }
+]

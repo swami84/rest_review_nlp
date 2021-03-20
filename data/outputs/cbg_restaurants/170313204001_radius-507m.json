@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.8767606,
+                        "lng":-87.6186533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8780995803,
+                              "lng":-87.61766265
+                        },
+                        "southwest":{
+                              "lat":41.8754016197,
+                              "lng":-87.62162525
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Franco's at the Fountain",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103109580539975529461\">Travel With Me<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJjceGmHadYbrhLbjk8WEhGaiWOAA4MyLtZiaj3yVbACKj-jvRo31B-Cgrw-NnqtclwqlM-G0ITDZX2bvqYLt_Ahkta1H3FL3jStg723SILAAVxGcsKXBU13RRuSN7lvzIvdhTHXvP_fYjh6bP80XmjZ9aJOXF_nbNkiwnUo3hSftAG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJS0MBdqAsDogR--wI06rTf0w",
+            "plus_code":{
+                  "compound_code":"V9GJ+PG Chicago, IL, USA",
+                  "global_code":"86HJV9GJ+PG"
+            },
+            "rating":2.9,
+            "reference":"ChIJS0MBdqAsDogR--wI06rTf0w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"South Columbus Drive, Chicago",
+            "CBG":170313204001,
+            "Radius":506.6186852226
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.8748034,
+                        "lng":-87.6186158
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8761392303,
+                              "lng":-87.6176304
+                        },
+                        "southwest":{
+                              "lat":41.8734412697,
+                              "lng":-87.621572
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Buck's Four Star Grill",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107572492110303896228\">Raymond King<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJckbk4Cu8C_xSKKahnTrLuCvVHI8kDENw6QClPX5iQVlwfAWVlKbGsmsMj7UurTFSAEYsp6oGgWvhVU7Hgg_Qv3vBNf1_Kt3hSaGPyga_628Ym_PbBie4AdSTtx9cDi6Vnpr5Imgu8C_B2bOInZJDlQjwYwd9VxEXl2lEplpCc3aQ9",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJyU1zAmArDogRAbX3DeU2Oyg",
+            "plus_code":{
+                  "compound_code":"V9FJ+WH Chicago, IL, USA",
+                  "global_code":"86HJV9FJ+WH"
+            },
+            "rating":4.4,
+            "reference":"ChIJyU1zAmArDogRAbX3DeU2Oyg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"301 South Columbus Drive, Chicago",
+            "CBG":170313204001,
+            "Radius":506.6186852226
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7629795,
+                        "lng":-122.4084796
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7644094803,
+                              "lng":-122.4071390697
+                        },
+                        "southwest":{
+                              "lat":37.7617115197,
+                              "lng":-122.4098370303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Morris",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":850,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102050853888011689729\">The Morris<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMyDH4dkLDcoeO6Mrwh2mhFDxcr3UnmWVAS3V-hLI1CqUP7a2moek8rDg_eK5tF6KS3zO3haeJt7M5TbaCe9DL062CnWPZsw_gCZZpwP9gbLYzK8qCuNl_eStrRxNc1HHQ3Lh44MtcWD0q92Plda01NrO3IdA7kjc4Csx6s0p1U27f",
+                        "width":1317
+                  }
+            ],
+            "place_id":"ChIJqZE4DTF-j4ARUYdqdEEgh8k",
+            "plus_code":{
+                  "compound_code":"QH7R+5J Mission District, San Francisco, CA, USA",
+                  "global_code":"849VQH7R+5J"
+            },
+            "price_level":3,
+            "rating":4.7,
+            "reference":"ChIJqZE4DTF-j4ARUYdqdEEgh8k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":353,
+            "vicinity":"2501 Mariposa Street, San Francisco",
+            "CBG":60750228021,
+            "Radius":176.5561869604
+      }
+]

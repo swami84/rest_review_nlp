@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8316665,
+                        "lng":-73.9218679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8331216803,
+                              "lng":-73.9205467697
+                        },
+                        "southwest":{
+                              "lat":40.8304237197,
+                              "lng":-73.9232447303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"House of Cheng",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105696147556422395494\">House of Cheng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1vCesSHq7M-BAGV31CrKsQ6ZO7H7lo7iVayt_Tr03R8xK4RIS6EdcDQUdCGYwAa2onrtskcPmEB0x8od4inwKFyRLE6HAekOmHJm4OXwwhM_jnjDWUpS-8vEGg7lNwEl_EnjlIz1-qHx7CBw23kk_bEu5P1jlnINUq0qe63r3QRaD",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJCdSrojH0wokRIcm6t8KpHs0",
+            "plus_code":{
+                  "compound_code":"R3JH+M7 The Bronx, NY, USA",
+                  "global_code":"87G8R3JH+M7"
+            },
+            "rating":3.5,
+            "reference":"ChIJCdSrojH0wokRIcm6t8KpHs0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"89 East 165th Street, The Bronx",
+            "CBG":360050195001,
+            "Radius":127.3032255494
+      }
+]

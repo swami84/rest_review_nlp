@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3079257,
+                        "lng":-76.6406079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3093251803,
+                              "lng":-76.6393197197
+                        },
+                        "southwest":{
+                              "lat":39.3066272197,
+                              "lng":-76.6420176803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hoodfellas Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104987254108594196418\">Hoodfellas Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKVFiFtrBkqHsue8bVbb253cZUXOidkOI1VESfcWI0oeC3wLlGp1qBoJ6Vl6B4laE8X5m0SwcjUykElDHqHOhwhGr3aCLIuogNZ_BRHPS1JcMI_1jxtf3w0ZVUvWkAYcm28F1ja65sCTG4FY3i-s7bS5_KeBsFoSXc5RaKI1wUuB_VL",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJ-zx7VN8FyIkRRjOB0JQE1p8",
+            "plus_code":{
+                  "compound_code":"8955+5Q Baltimore, MD, USA",
+                  "global_code":"87F58955+5Q"
+            },
+            "rating":4.3,
+            "reference":"ChIJ-zx7VN8FyIkRRjOB0JQE1p8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9.0,
+            "vicinity":"607 Baker Street, Baltimore",
+            "CBG":245101501002,
+            "Radius":197.4123458529
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.308125,
+                        "lng":-76.6403892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3095146803,
+                              "lng":-76.6389817197
+                        },
+                        "southwest":{
+                              "lat":39.3068167197,
+                              "lng":-76.6416796803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Calabar Grill & Pizza",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":950,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111652928104737644221\">Calabar Grill &amp; Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZdzWE2k5qI-6fV5AQXIkT4tJ-ruWnjUtQc4QdgOrVLGwfp_ICdNplreSfUtt5T65J6XVsx58meA9y5HG8vbOwCcK2Zv_0o_inP4_63c8yT-ciaIki64vZvgdDTO8O4vH3-dn5a0hXk4UXfFeCas2mWJAPHAQdy58tKXtYs6la96VV",
+                        "width":650
+                  }
+            ],
+            "place_id":"ChIJszcpxbQEyIkRFy0JwQPJtvc",
+            "plus_code":{
+                  "compound_code":"8955+6R Baltimore, MD, USA",
+                  "global_code":"87F58955+6R"
+            },
+            "rating":null,
+            "reference":"ChIJszcpxbQEyIkRFy0JwQPJtvc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2242 Pennsylvania Avenue, Baltimore",
+            "CBG":245101501002,
+            "Radius":197.4123458529
+      }
+]

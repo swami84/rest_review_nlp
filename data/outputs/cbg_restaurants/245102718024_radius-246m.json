@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3450253,
+                        "lng":-76.6811969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3464651303,
+                              "lng":-76.6799145697
+                        },
+                        "southwest":{
+                              "lat":39.3437671697,
+                              "lng":-76.6826125303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"K.C. Carry Out",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3984,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103087507934028011143\">Allan Zheng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLU3KFaEpLq7qPkmLtqsHlpuJ4LQLRlXbIDvXWxRj69Wzfs5n1SJmqaQC-RK0dBjp8CcYoF4IY7A2FiA5cIBTX0PCZy_P5aKVk9KS6Uz8GEc1piaMoKZD2HFpZsL2PuPLm5dzlQMMOJCXmCqxa8LVBUgI3cdsadYvPSEuDRk-oZbKV4",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJ25v6I_oayIkRwxJbP-LpLkw",
+            "plus_code":{
+                  "compound_code":"88W9+2G Baltimore, MD, USA",
+                  "global_code":"87F588W9+2G"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ25v6I_oayIkRwxJbP-LpLkw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"3801 West Belvedere Avenue, Baltimore",
+            "CBG":245102718024,
+            "Radius":245.7503876203
+      }
+]

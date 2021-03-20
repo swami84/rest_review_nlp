@@ -1,0 +1,146 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8344764,
+                        "lng":-73.9170603
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8357873803,
+                              "lng":-73.9157335197
+                        },
+                        "southwest":{
+                              "lat":40.8330894197,
+                              "lng":-73.9184314803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Tony\u2019s Billiard Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJb2nNWzf0wokRUxp97234V8M",
+            "plus_code":{
+                  "compound_code":"R3MM+Q5 The Bronx, NY, USA",
+                  "global_code":"87G8R3MM+Q5"
+            },
+            "rating":4.0,
+            "reference":"ChIJb2nNWzf0wokRUxp97234V8M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":36,
+            "vicinity":"185 East 167th Street, The Bronx",
+            "photos":null,
+            "CBG":360050179013,
+            "Radius":92.1288940295
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8342402,
+                        "lng":-73.9157755
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8354616303,
+                              "lng":-73.9145393197
+                        },
+                        "southwest":{
+                              "lat":40.8327636697,
+                              "lng":-73.9172372803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Antonio's Restaurant",
+            "opening_hours":null,
+            "place_id":"ChIJAcZvezf0wokRHAbM4V5VJBQ",
+            "plus_code":{
+                  "compound_code":"R3MM+MM The Bronx, NY, USA",
+                  "global_code":"87G8R3MM+MM"
+            },
+            "rating":4.3,
+            "reference":"ChIJAcZvezf0wokRHAbM4V5VJBQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"The Bronx",
+            "photos":[
+                  {
+                        "height":2880,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112182496514739090756\">Raymond Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ5NDG9KNb7jYcL_SCgGt4-1Mm426w5W1xIYxWD7AK8pRVSoIHUKZ1Rf8Va-vSPKCbk1r8cVAHQV20-UXqKB7GqStXEfkqK423qKGvVOimqy4vOHfrxWNeZbqw4ZpFsBNIgz-8584olfZ8kKQ1ZrA5G8y3D2vgxKGxw_GbQDyj-QHIi",
+                        "width":2160
+                  }
+            ],
+            "CBG":360050179013,
+            "Radius":92.1288940295
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8341025,
+                        "lng":-73.9160818
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8354129803,
+                              "lng":-73.9147546697
+                        },
+                        "southwest":{
+                              "lat":40.8327150197,
+                              "lng":-73.9174526303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Era",
+            "opening_hours":null,
+            "place_id":"ChIJrzBmezf0wokRhrotj_cBFpg",
+            "plus_code":{
+                  "compound_code":"R3MM+JH The Bronx, NY, USA",
+                  "global_code":"87G8R3MM+JH"
+            },
+            "rating":5.0,
+            "reference":"ChIJrzBmezf0wokRhrotj_cBFpg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"211 East 167th Street, The Bronx",
+            "photos":[
+                  {
+                        "height":1632,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117667833766508941537\">casique Alvarado<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIbGctLESPnTkXBWjnDVtoiwBTCk4PRUdETTuQW2hcrJYmEUBhGxIu8O0IA-5iLBudA0JR20hUWZ8AdYX1jlABKASbZY_job9bmeRpMcf2Gx_6DaEkK9eoJ4kUFiG-XjVVY-oYnj6FIJcF1e3HgdD0qJpaqGFk3k3IuLdOVlBCCONNi",
+                        "width":1224
+                  }
+            ],
+            "CBG":360050179013,
+            "Radius":92.1288940295
+      }
+]

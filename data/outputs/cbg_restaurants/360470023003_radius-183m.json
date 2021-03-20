@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6979935,
+                        "lng":-73.9846369
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6993672303,
+                              "lng":-73.9834482697
+                        },
+                        "southwest":{
+                              "lat":40.6966692697,
+                              "lng":-73.9861462303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Amarachi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106100903592178769882\">Amarachi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKydrVsgz2JXX7BGGz1jMU0Uyeg3VsYBoECUE-sUCnA5Ek0EKdx_2eXtRYefLndpTKaYXclf9QSvijAqUSDVtoFBYpo21TbymWExM-KibKIV5Wf4H-j9GAgenOym9LlaiGSMDlmpTLfSfVJz13b9viYLg5YUdN0GRKewL0xJeSLsYF",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJyY3tyZVbwokR-ZkiDeLq_vo",
+            "plus_code":{
+                  "compound_code":"M2X8+54 New York, NY, USA",
+                  "global_code":"87G8M2X8+54"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJyY3tyZVbwokR-ZkiDeLq_vo",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1018,
+            "vicinity":"189 Bridge Street, Brooklyn",
+            "CBG":360470023003,
+            "Radius":182.8287662485
+      }
+]

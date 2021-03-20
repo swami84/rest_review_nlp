@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6258796,
+                        "lng":-74.023843
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6272710303,
+                              "lng":-74.0226191197
+                        },
+                        "southwest":{
+                              "lat":40.6245730697,
+                              "lng":-74.0253170803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taste of Lebanon",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106740845827278873381\">Steve<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK4rNlxzgKd7T0jgmWMQAQcQIFnTJPCOVfyVR49DIikF6kfnAbja8_3VzIsPrMZMAy1_YU_0tlCcEQCJ-edQ8DU8JBDaP9u7s5CS-AvcJNbi97XYtmmfFuavycwi6_VprrsJbZihM0yZuklFmcksrWCQv4cBYrNvVvTOewSCvPx86HM",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJQehShiNFwokRop_doDG4YK4",
+            "plus_code":{
+                  "compound_code":"JXGG+9F New York, NY, USA",
+                  "global_code":"87G7JXGG+9F"
+            },
+            "reference":"ChIJQehShiNFwokRop_doDG4YK4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"7919 5th Avenue, Brooklyn",
+            "opening_hours":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470136002,
+            "Radius":113.4175432658
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6255104,
+                        "lng":-74.0239126
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6269248803,
+                              "lng":-74.0225973697
+                        },
+                        "southwest":{
+                              "lat":40.6242269197,
+                              "lng":-74.0252953303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mussels & More",
+            "photos":[
+                  {
+                        "height":2584,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106740845827278873381\">Steve<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJqdFmHwSkgnhHjMjAHhd9D4oTTHtQevkEFuaFdk_SPpLxJ91zQXmLK0CzjZ3nSHNfRpQ2wV5w9nawCVYoWpY-SxB0p8onG2jyH-K1dlOIc3_pR2hNLDkPefO2jS-CWedsje7rz7WVPJNGMLCnlEyUnMsHWhTy2_RY5SY0-edGqMz1J",
+                        "width":3446
+                  }
+            ],
+            "place_id":"ChIJzUubKFxFwokRb6EQR-OwjgE",
+            "plus_code":{
+                  "compound_code":"JXGG+6C Brooklyn, NY, USA",
+                  "global_code":"87G7JXGG+6C"
+            },
+            "reference":"ChIJzUubKFxFwokRb6EQR-OwjgE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8001 5th Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "user_ratings_total":307.0,
+            "CBG":360470136002,
+            "Radius":113.4175432658
+      }
+]

@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8647524,
+                        "lng":-73.8875207
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8660804303,
+                              "lng":-73.8861406197
+                        },
+                        "southwest":{
+                              "lat":40.8633824697,
+                              "lng":-73.8888385803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"mcdonals",
+            "photos":[
+                  {
+                        "height":1946,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116944906018704938015\">mcdonals<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ3Vpjv6BYiwvhUD49x_XEPfj3Dgtu0gUbnTrW3-1QHPpJ_WmUp3nslf9KrdXA7Ei4Y2pBBh10J8rZrsxMuWKVLblziFSnu-VCT7kLL68P3IIaPKHdf4iW1dTIJnzzs9lGrwRQDUvFOaNMHSyuDEpmPU-MPXfrxSEJY5YO7ZgsEYNNl",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJo_mCMq7zwokRfkLELDRFeQ4",
+            "plus_code":{
+                  "compound_code":"V476+WX The Bronx, NY, USA",
+                  "global_code":"87G8V476+WX"
+            },
+            "reference":"ChIJo_mCMq7zwokRfkLELDRFeQ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Webster Avenue, The Bronx",
+            "opening_hours":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360050405024,
+            "Radius":87.5585153411
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8649982,
+                        "lng":-73.8866306
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8664030303,
+                              "lng":-73.8853612197
+                        },
+                        "southwest":{
+                              "lat":40.8637050697,
+                              "lng":-73.8880591803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Billy\u2019s Chimi-Fritura",
+            "photos":[
+                  {
+                        "height":2080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101913100623249193309\">Billy\u2019s Chimi-Fritura<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKkhFlB1A6vdggDqJZlFbPNdiaYNwyLqazcHk6KdK3eJNw5YQ42QV903ylk3Gly-ex1zPnfXT_GsaMEC24e4pBArCdXRNv8p_NMgE-eZhzJyihYeI6wr05BIi-jEK8CzhlUoeKnHDh5ZyplL3uRhmqgG6Y-lO_r7mZAC2-eDQQPMM8_",
+                        "width":1102
+                  }
+            ],
+            "place_id":"ChIJQ2S7tHjzwokRsEpu7dKJ5s4",
+            "plus_code":{
+                  "compound_code":"V477+X8 The Bronx, NY, USA",
+                  "global_code":"87G8V477+X8"
+            },
+            "reference":"ChIJQ2S7tHjzwokRsEpu7dKJ5s4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2740 Webster Avenue, The Bronx",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "user_ratings_total":304.0,
+            "CBG":360050405024,
+            "Radius":87.5585153411
+      }
+]

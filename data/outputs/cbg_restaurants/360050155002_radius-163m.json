@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.835497,
+                        "lng":-73.89065
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8369163803,
+                              "lng":-73.8892624697
+                        },
+                        "southwest":{
+                              "lat":40.8342184197,
+                              "lng":-73.8919604303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107520416555168297995\">Erickson Reyes07<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKmEawyGNj6ez30-_qM1N0f5RdXJerohloJ9bP6HR3MsRWiRFdRiR--7pcQqN0DBRJ0S4QAPVl55gg-ChBq25pejzCbOEXYV1q6Kv_MQQ0WgZ0qjcVVTDl1cZUC1NvhmtbYAN5i-wHEh_Nfiud9_UJcjSSUXzLtcXWkUQ2gu2p5Pz1K",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ9UTDy1j0wokRj1Kcv6dt1MA",
+            "plus_code":{
+                  "compound_code":"R4P5+5P New York, NY, USA",
+                  "global_code":"87G8R4P5+5P"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ9UTDy1j0wokRj1Kcv6dt1MA",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1272,
+            "vicinity":"1600 Boston Road, The Bronx",
+            "CBG":360050155002,
+            "Radius":162.8867211994
+      }
+]

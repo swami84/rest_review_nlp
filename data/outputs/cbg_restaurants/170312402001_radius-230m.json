@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.912285,
+                        "lng":-87.667498
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9136295803,
+                              "lng":-87.6662424697
+                        },
+                        "southwest":{
+                              "lat":41.9109316197,
+                              "lng":-87.6689404303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Choppers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":353,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108678777874581893849\">Choppers<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLqXD6QirVQc0juJfYc1AN4D_bQxQ7Ibca27AkSPoU555LUmD2c_7FpMXfMSa5LrnmZBcZsYxKqR2BVAnRr-nllMDYRldUi0fl7Er791yAWNTOLySXUAcwyW7ZstTAtOx34uebPX585LIPqlOfCgRwAVuPr6Rp54CPmkL8EHF2dDwmS",
+                        "width":755
+                  }
+            ],
+            "place_id":"ChIJjZiTttzSD4gREWf34-9l9vs",
+            "plus_code":{
+                  "compound_code":"W86M+W2 Chicago, IL, USA",
+                  "global_code":"86HJW86M+W2"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJjZiTttzSD4gREWf34-9l9vs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1099,
+            "vicinity":"1659 North Ashland Avenue, Chicago",
+            "CBG":170312402001,
+            "Radius":229.92923341
+      }
+]

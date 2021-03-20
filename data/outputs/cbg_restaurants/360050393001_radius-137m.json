@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8562073,
+                        "lng":-73.8821775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8575945803,
+                              "lng":-73.8809616697
+                        },
+                        "southwest":{
+                              "lat":40.8548966197,
+                              "lng":-73.8836596303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eleuterio picazo",
+            "place_id":"ChIJ-8rMxFT1wokRupkb96oFXoI",
+            "plus_code":{
+                  "compound_code":"V449+F4 The Bronx, NY, USA",
+                  "global_code":"87G8V449+F4"
+            },
+            "reference":"ChIJ-8rMxFT1wokRupkb96oFXoI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2481 Crotona Avenue #6489, The Bronx",
+            "CBG":360050393001,
+            "Radius":137.3891416768
+      }
+]

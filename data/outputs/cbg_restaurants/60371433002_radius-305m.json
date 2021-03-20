@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1561196,
+                        "lng":-118.3925081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1573175803,
+                              "lng":-118.3911588197
+                        },
+                        "southwest":{
+                              "lat":34.1546196197,
+                              "lng":-118.3938567803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mozy Mozanko",
+            "place_id":"ChIJ9dSzggGVwoARqSlt_i6wgE0",
+            "plus_code":{
+                  "compound_code":"5J44+CX Valley Village, Los Angeles, CA, USA",
+                  "global_code":"85635J44+CX"
+            },
+            "reference":"ChIJ9dSzggGVwoARqSlt_i6wgE0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11905 Kling Street, Valley Village",
+            "CBG":60371433002,
+            "Radius":305.4236024526
+      }
+]

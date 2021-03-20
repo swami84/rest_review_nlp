@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4649606,
+                        "lng":-112.0577114
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4665867803,
+                              "lng":-112.0563834697
+                        },
+                        "southwest":{
+                              "lat":33.4638888197,
+                              "lng":-112.0590814303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Miss Lulu's Caf\u00e9",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104216989528436701163\">Emmaline Berry<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJI5tsr3TRCh0XE3LT4ze09pcoxOVUFlQLL60wJ-X8_e1sC2jD8UJi-Hwusc7iE3W7Hgrhj5cDeco2H4izCbAxnJaXnj8o7nhbhI1ZDI2hxy8N8uU7AokiNUMDGzdlccmEJosCEB0U84Svz4C0dp_jI7TbL4DHcIpSW7T-L8TEgyHO9",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJoV6LoQ0SK4cRik2rupRHyT4",
+            "plus_code":{
+                  "compound_code":"FW7R+XW Phoenix, AZ, USA",
+                  "global_code":"8559FW7R+XW"
+            },
+            "rating":4.6,
+            "reference":"ChIJoV6LoQ0SK4cRik2rupRHyT4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"1111 East McDowell Road, Phoenix",
+            "price_level":null,
+            "CBG":40131132032,
+            "Radius":472.9137245013
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.465477,
+                        "lng":-112.052363
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4669719803,
+                              "lng":-112.0510157697
+                        },
+                        "southwest":{
+                              "lat":33.4642740197,
+                              "lng":-112.0537137303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rainbow Donuts",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101369370231258275136\">Sigmon Whitener<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxLRuvE2YcqqXySbIKQfWfoUyBOtQtfTlwN7lowOlaz8QlrHxOCg6uMDwLj7bn2w5Uj6jX-tNmlhCSYk88iBHUUTl36gIidmG6NRInGfQShraNS_3zd-Yz3iWyiOqEg7_KgeJx9N54FzQBMkzWgte_wpUVEYcsTneKocA-zLJOPOLE",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ-TLBlQsSK4cRBdaSmiBF7HE",
+            "plus_code":{
+                  "compound_code":"FW8X+53 Phoenix, AZ, USA",
+                  "global_code":"8559FW8X+53"
+            },
+            "rating":4.7,
+            "reference":"ChIJ-TLBlQsSK4cRBdaSmiBF7HE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":515,
+            "vicinity":"1347 East McDowell Road, Phoenix",
+            "price_level":1.0,
+            "CBG":40131132032,
+            "Radius":472.9137245013
+      }
+]

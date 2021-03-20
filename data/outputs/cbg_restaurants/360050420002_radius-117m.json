@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8935644,
+                        "lng":-73.8586441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8949133803,
+                              "lng":-73.8572951197
+                        },
+                        "southwest":{
+                              "lat":40.8922154197,
+                              "lng":-73.8599930803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Best Sushi In Bronx",
+            "place_id":"ChIJ32oIPCfzwokRo_4u8YCC41k",
+            "plus_code":{
+                  "compound_code":"V4VR+CG The Bronx, NY, USA",
+                  "global_code":"87G8V4VR+CG"
+            },
+            "rating":4.4,
+            "reference":"ChIJ32oIPCfzwokRo_4u8YCC41k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"670 East 233rd Street, The Bronx",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":360050420002,
+            "Radius":116.8199458584
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.893578,
+                        "lng":-73.858459
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8949269803,
+                              "lng":-73.8571100197
+                        },
+                        "southwest":{
+                              "lat":40.8922290197,
+                              "lng":-73.8598079803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Loong Xin",
+            "place_id":"ChIJV9P0OyfzwokRED5-DwhHvOs",
+            "plus_code":{
+                  "compound_code":"V4VR+CJ The Bronx, NY, USA",
+                  "global_code":"87G8V4VR+CJ"
+            },
+            "rating":4.2,
+            "reference":"ChIJV9P0OyfzwokRED5-DwhHvOs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"670 East 233rd Street, The Bronx",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101386402854173221594\">Melissa Roman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJ-1aKuJVhQwl3l3xr-GmV6loST6XdCkiJ8XBNLeeGd_tBts075XyLWbLZ-HIGd8KoEDjhrd2wJScxeiN6wFJacTBPSsYx-nl6CVQMNmC3YKplLElFfhBi1nFvbWk5DB5GR25BrmHLvixTxEx5Oxt5o3OpOvtLrFwdm1Gf19hpYl-z",
+                        "width":4032
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":360050420002,
+            "Radius":116.8199458584
+      }
+]

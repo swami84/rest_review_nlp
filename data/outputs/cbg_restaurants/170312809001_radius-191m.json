@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8790513,
+                        "lng":-87.6860127
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8802683803,
+                              "lng":-87.6848044697
+                        },
+                        "southwest":{
+                              "lat":41.8775704197,
+                              "lng":-87.6875024303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wendy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1962,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100294834915155744681\">Miguel Angel<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL0t3V1m7d5EP2i9qYQ2_zPrz99C5ohJtDuR9TGQfF9sZjdPCCBC7BuiWxFIn4suVnt3J-fVrXTnXwA237IrOTu8YstMA8eWH-E7MzSh4p-RkhstcqP_dZybztAf8zUzbD1C5N0QsBplxfpZ6ZctQcA7__32qOy12wtdoEee-LyhJhh",
+                        "width":3544
+                  }
+            ],
+            "place_id":"ChIJCbCcHEMtDogRppZNzO0ZH6Y",
+            "plus_code":{
+                  "compound_code":"V8H7+JH Chicago, IL, USA",
+                  "global_code":"86HJV8H7+JH"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJCbCcHEMtDogRppZNzO0ZH6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1470,
+            "vicinity":"145 South Western Avenue, Chicago",
+            "CBG":170312809001,
+            "Radius":191.0662822861
+      }
+]

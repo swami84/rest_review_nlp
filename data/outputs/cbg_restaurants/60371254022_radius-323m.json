@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1573217,
+                        "lng":-118.3713275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1586685803,
+                              "lng":-118.3699016197
+                        },
+                        "southwest":{
+                              "lat":34.1559706197,
+                              "lng":-118.3725995803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hy Mart",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105356006364273310205\">YORAM ALGAVE<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvXOsrupYn5iF47JR1JC6LO8JWHououKtchCsJKb9eB_r8iK6IspWrR-SvJIWiWJkj9sPTrZutoD3IdB694DFAPdt1UzZVmwPwFOZF1Ulm9XC8Xep97_I3vfy6XM8-qYKjlkuSbc6fP5i6ATgRwnE59GElutngh829Icnb7y_MRhOo",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJoUZtvh--woARoQEOn5SsXCQ",
+            "plus_code":{
+                  "compound_code":"5J4H+WF North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J4H+WF"
+            },
+            "rating":4.6,
+            "reference":"ChIJoUZtvh--woARoQEOn5SsXCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"4795 Vineland Avenue #3545, North Hollywood",
+            "CBG":60371254022,
+            "Radius":322.560561565
+      }
+]

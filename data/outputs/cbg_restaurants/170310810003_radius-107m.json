@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9015225,
+                        "lng":-87.6315056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9028799803,
+                              "lng":-87.6300939697
+                        },
+                        "southwest":{
+                              "lat":41.9001820197,
+                              "lng":-87.6327919303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fit Cafe",
+            "place_id":"ChIJ1a0MjU7TD4gR08mmEWoHDmQ",
+            "plus_code":{
+                  "compound_code":"W929+J9 Chicago, IL, USA",
+                  "global_code":"86HJW929+J9"
+            },
+            "reference":"ChIJ1a0MjU7TD4gR08mmEWoHDmQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1030 North Clark Street, Chicago",
+            "CBG":170310810003,
+            "Radius":106.8748424832
+      }
+]

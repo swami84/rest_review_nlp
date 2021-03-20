@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.834958,
+                        "lng":-73.917863
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8362473803,
+                              "lng":-73.9164039197
+                        },
+                        "southwest":{
+                              "lat":40.8335494197,
+                              "lng":-73.9191018803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Bar In Control",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":906,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113097096992049111196\">Bar In Control<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKrp6-iTcIKRL9WBCuhyD-LHIl9jUhbreqMqF972Wj9mmC7RlJGmYzOUx_lpXbjUzLFn17xVSwtRihZcMK5cw3JXVu-YGExdZ1SA95UKCwfr0Wakt8_CxvfpU7-vvAHZ1cltEJZ7OKTuHHRrGmSkh7ulSQ8Sc8D4YU9WvHS5NHTGRpA",
+                        "width":1919
+                  }
+            ],
+            "place_id":"ChIJ8Yle_Dn0wokRQgZM73NT_Qc",
+            "plus_code":{
+                  "compound_code":"R3MJ+XV The Bronx, NY, USA",
+                  "global_code":"87G8R3MJ+XV"
+            },
+            "rating":5.0,
+            "reference":"ChIJ8Yle_Dn0wokRQgZM73NT_Qc",
+            "scope":"GOOGLE",
+            "types":[
+                  "accounting",
+                  "finance",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1215 Grand Concourse, The Bronx",
+            "price_level":null,
+            "CBG":360050197001,
+            "Radius":96.2336107014
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8351196,
+                        "lng":-73.9188435
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8364231303,
+                              "lng":-73.9175358697
+                        },
+                        "southwest":{
+                              "lat":40.8337251697,
+                              "lng":-73.9202338303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mi Pueblito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115767717794202148787\">Abraham Ram\u00edrez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKI-WNRR3W87L_jgSbW7qZqh49A0Koph3zGhAfFs5-46DP4TyULmpk6K-hAI-vmdOeX2XPXhll7frLvtI6D8CvRVBcY2mUuOHXJ3aHLuOEbrf09GmHrjOeHezCYHD5GVmBP7mRM70MoX29sxpc_VmmysBHxmfT4Pl5GEcOzvlavk2OY",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJr0xABDr0wokRGf2x29ISu8s",
+            "plus_code":{
+                  "compound_code":"R3PJ+2F The Bronx, NY, USA",
+                  "global_code":"87G8R3PJ+2F"
+            },
+            "rating":3.8,
+            "reference":"ChIJr0xABDr0wokRGf2x29ISu8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":164,
+            "vicinity":"111 East 167th Street, The Bronx",
+            "price_level":1.0,
+            "CBG":360050197001,
+            "Radius":96.2336107014
+      }
+]

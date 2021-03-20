@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0400829,
+                        "lng":-118.3113803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0413856803,
+                              "lng":-118.3100313197
+                        },
+                        "southwest":{
+                              "lat":34.0386877197,
+                              "lng":-118.3127292803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Porvenir Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108296727273206679043\">El Porvenir Bakery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ0N9Iys7enK5UhnZmHDQlTnIzIC7HPpxM42WHk3XO3YtY3pgX7aC8qrBGfD-KXByDmKzNinIrBARNSSjZG3hcVZ-EOYB5mvx_acEGA5hlWhBQbRdfKKAIsdC8nY3gsHvx0WFQ-OZMtFP177AE2RNT9QUcZ0KjXfQbgX30f8ua7vMaE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJOaOI5G-4woAR3YAP59bkA7c",
+            "plus_code":{
+                  "compound_code":"2MRQ+2C Los Angeles, CA, USA",
+                  "global_code":"85632MRQ+2C"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJOaOI5G-4woAR3YAP59bkA7c",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"2273 West Washington Boulevard, Los Angeles",
+            "CBG":60372214022,
+            "Radius":291.7078393935
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0401529,
+                        "lng":-118.3151994
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0415688303,
+                              "lng":-118.3139826197
+                        },
+                        "southwest":{
+                              "lat":34.0388708697,
+                              "lng":-118.3166805803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Como En El D.f. Taco Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110336496583990792316\">Jose Santiago<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLggOVzudwJtqU61PNSDO02n6BB0cN5ibJcgGLhPCQ1I6v7C8hZUCEngmpS1cHVREKLoJeotw6p0JJSutmdPmi-aK9bEEhr22hhT439xAG2TQjQzcMCpnAHvRrMClKQWNFMnlTiCLNsSoi2AXs0lbHRH9sxEtCb61WplOS44QHNxQ2g",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJB6vGi2W4woARAZd4Hnxfjfw",
+            "plus_code":{
+                  "compound_code":"2MRM+3W Los Angeles, CA, USA",
+                  "global_code":"85632MRM+3W"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJB6vGi2W4woARAZd4Hnxfjfw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":296,
+            "vicinity":"2431 West Washington Boulevard, Los Angeles",
+            "CBG":60372214022,
+            "Radius":291.7078393935
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.841881,
+                        "lng":-80.2005808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8432299803,
+                              "lng":-80.1992318197
+                        },
+                        "southwest":{
+                              "lat":25.8405320197,
+                              "lng":-80.2019297803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Natural",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117264693542344289111\">La Natural<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJz_TAsiKKHVEBMn1l0gTtbgR0zIaPRuCq1mNAISNvUr1lTbwxjI98zR_o7VeYjQT5j07XiEPgWoWPlU0aoF4XGGGrjiodNla3u3AcXnscibNlZ92MnP9a7O0I9VlYj8dAJv2Bo_Rm93fRW-1x2vkGK5a4KU9m_yz29hFp2QQee-wC5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJaeBbjZmx2YgRI0Yb0-WQtPU",
+            "plus_code":{
+                  "compound_code":"RQRX+QQ Miami, FL, USA",
+                  "global_code":"76QXRQRX+QQ"
+            },
+            "rating":4.4,
+            "reference":"ChIJaeBbjZmx2YgRI0Yb0-WQtPU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"7289 Northwest 2nd Avenue, Miami",
+            "CBG":120860014012,
+            "Radius":355.9575770714
+      }
+]

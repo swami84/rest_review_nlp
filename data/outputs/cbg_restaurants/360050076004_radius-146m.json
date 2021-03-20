@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8326213,
+                        "lng":-73.8682393
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8340120803,
+                              "lng":-73.8669006197
+                        },
+                        "southwest":{
+                              "lat":40.8313141197,
+                              "lng":-73.8695985803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mandarin Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3840,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112451604411434712223\">pedro Jos\u00e9<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJVqdemA8B5wJnYeLY24YrlyelcuFbTiTfcfDIgHYlq3WqsPEYE30QZo91kKMNOg38NLXe9yR-Zep-KkaeEUjjPXVskQUjSAINjEfCpbGLLB6ijcWxekY8-_3vnvwkJKJ5DdS0x3U-Qh5smpoHu_CjCNL4mPm1A3APy9b3Fqm9lu5m_",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJv-38Kur0wokRRuJqoGzNG7A",
+            "plus_code":{
+                  "compound_code":"R4MJ+2P The Bronx, NY, USA",
+                  "global_code":"87G8R4MJ+2P"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJv-38Kur0wokRRuJqoGzNG7A",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"1762 East 172nd Street, The Bronx",
+            "CBG":360050076004,
+            "Radius":146.4721349909
+      }
+]

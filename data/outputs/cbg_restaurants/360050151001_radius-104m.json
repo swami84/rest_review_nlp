@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8330641,
+                        "lng":-73.8977484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8343472803,
+                              "lng":-73.8963444697
+                        },
+                        "southwest":{
+                              "lat":40.8316493197,
+                              "lng":-73.8990424303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Halal Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106395394598554720128\">Abdoulaye I BAH<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIpeUyg-BvEAnNWm-GwZq40ecibsVhZ8esfgZEcKvTXtLmM03YqEYX6PSXBKBN7fCJwXKiVMWe3mEhTAWoLjDDew-yoqBXmU6jKcYaiJdZEUv15vARA-2MFF4Cn4aDt02E2o9dfdpu3_x7G6Z7zdv1K-rtmXZEF4sreNYBExmFrxdH2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJX_TkX1r0wokRva1q99SXUVg",
+            "plus_code":{
+                  "compound_code":"R4M2+6W The Bronx, NY, USA",
+                  "global_code":"87G8R4M2+6W"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJX_TkX1r0wokRva1q99SXUVg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"The Bronx",
+            "CBG":360050151001,
+            "Radius":103.7970843409
+      }
+]

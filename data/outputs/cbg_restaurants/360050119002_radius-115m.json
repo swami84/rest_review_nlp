@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8237463,
+                        "lng":-73.8892025
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8250872303,
+                              "lng":-73.8880198197
+                        },
+                        "southwest":{
+                              "lat":40.8223892697,
+                              "lng":-73.8907177803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cake N Wings",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJJbmJeFX0wokRVlI7z9MdlLA",
+            "plus_code":{
+                  "compound_code":"R4F6+F8 The Bronx, NY, USA",
+                  "global_code":"87G8R4F6+F8"
+            },
+            "rating":4.5,
+            "reference":"ChIJJbmJeFX0wokRVlI7z9MdlLA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1012 Faile Street, The Bronx",
+            "CBG":360050119002,
+            "Radius":114.9715384065
+      }
+]

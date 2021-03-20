@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6812741,
+                        "lng":-74.0042689
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6826495803,
+                              "lng":-74.0030181197
+                        },
+                        "southwest":{
+                              "lat":40.6799516197,
+                              "lng":-74.0057160803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Jalopy Tavern",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114038374511394021008\">Jalopy Tavern<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJmPR3ZjgNIqEp3-UaSClmhuBxx-IrH0FMzGGcT39T3YMJ7kgb66-ACVm3OgY4L0oWzb8IICrlTsHGrR9zDGbkGNW-2IGp-Fcv91nvlt5x72WuIcsx735UJ5HzW3SjsZYoieqLt6GoebBAkvzOBsSsO3f1yak1IcHDRBxR5CoQh61cR",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJZ1tlsl9awokRj1-T1FJc_Do",
+            "plus_code":{
+                  "compound_code":"MXJW+G7 Brooklyn, NY, USA",
+                  "global_code":"87G7MXJW+G7"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJZ1tlsl9awokRj1-T1FJc_Do",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"317 Columbia Street, Brooklyn",
+            "CBG":360470051003,
+            "Radius":148.5169470569
+      }
+]

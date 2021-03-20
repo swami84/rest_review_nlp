@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8420608,
+                        "lng":-73.9246841
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8433501303,
+                              "lng":-73.9232540697
+                        },
+                        "southwest":{
+                              "lat":40.8406521697,
+                              "lng":-73.9259520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118310246849535303377\">wavy stacks176<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI6mll5DMMssB_cxCAB29njjdJ7aZ_9sgzU2Iy_EBK6iLhQTu9Smsg7TPPZluFWAf7PdlHEsVSgF0GI0ny-FAC6WUsWGwkXUgTgtvZOZr0gY0BA3x1psLSTh0MJIi3BJEF6pN6ONbiSd39VExXr_m9aFAN9ZW2AqqbE7GCrzIX1k5FX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJzxP3MyP0wokRHo93kSHjYyk",
+            "plus_code":{
+                  "compound_code":"R3RG+R4 The Bronx, NY, USA",
+                  "global_code":"87G8R3RG+R4"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJzxP3MyP0wokRHo93kSHjYyk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":113,
+            "vicinity":"1377 Ogden Avenue #2, The Bronx",
+            "CBG":360050201002,
+            "Radius":100.8637807755
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8420949,
+                        "lng":-73.9246646
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8434644303,
+                              "lng":-73.9231892697
+                        },
+                        "southwest":{
+                              "lat":40.8407664697,
+                              "lng":-73.9258872303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Cocina Pizza Restaurante",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":574,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108503258880373341253\">La Cocina Pizza Restaurante<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJmHPF7lois-WaSNcbDvRn6csuuSlYOjzx3O0AqnDGgnlyPD9FNhJs5SEUKcWYMovBNf2iVzJ8PbNQwsCTK5uImvtoInTfZz5tPz4nBjuy91VI6ZBH43Fae2soQc0n3u54Bo51B9JF3zb7YHylmFj0ctkumftzSXQecu3lZL2gWN-IG",
+                        "width":1019
+                  }
+            ],
+            "place_id":"ChIJX7Yb71_1wokRAacWLjJQ0Pg",
+            "plus_code":{
+                  "compound_code":"R3RG+R4 New York, NY, USA",
+                  "global_code":"87G8R3RG+R4"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJX7Yb71_1wokRAacWLjJQ0Pg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1381 Ogden Avenue, The Bronx",
+            "CBG":360050201002,
+            "Radius":100.8637807755
+      }
+]

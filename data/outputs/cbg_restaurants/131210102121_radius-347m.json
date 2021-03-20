@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9106026,
+                        "lng":-84.380003
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9119920303,
+                              "lng":-84.3785461197
+                        },
+                        "southwest":{
+                              "lat":33.9092940697,
+                              "lng":-84.3812440803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wok N Roll Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3570,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114954816439207979528\">DC Glenn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ3tAK7GUZ0iTH8BSJVl-aEBl0DrEgvzKRawpaYQuIBhL7VWsusGdo12SDn3F9ejfOhP-piI28I0acIDHqSmPHCvSm48UZJhevFrO_hIoMS4ggv1IzCoyWc4eiB30_-txRiFzLoF_2XT14Aeh2X9POO29enT4ej3kiQuc1pGBfimbU7",
+                        "width":5354
+                  }
+            ],
+            "place_id":"ChIJ_yAATRwP9YgRqihTz0HFNSY",
+            "plus_code":{
+                  "compound_code":"WJ69+6X Atlanta, GA, USA",
+                  "global_code":"865QWJ69+6X"
+            },
+            "price_level":2.0,
+            "rating":2.9,
+            "reference":"ChIJ_yAATRwP9YgRqihTz0HFNSY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":47,
+            "vicinity":"215 Northwood Drive #9, Atlanta",
+            "CBG":131210102121,
+            "Radius":347.073364129
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9112719,
+                        "lng":-84.3812252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9126235303,
+                              "lng":-84.3798744197
+                        },
+                        "southwest":{
+                              "lat":33.9099255697,
+                              "lng":-84.3825723803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos good carro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1868,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106294571215414271711\">Juan Jos\u00e9<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKQNIb5ytBQFKGJJflH_q-iuo-Ai1MzCueIwuMdFKLKoEtTVGjpzUaCH8hiOpksF6llAR1o6nPWcElDTrky9U_eekxRX_fXubHFDS8n-YmAkU0SYP38vmQzReGkG715ad85q85WRygP8_KgHnXo9QEMGHMkGVjHXbDV2Vpx4KcYf4xh",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJicZFK5gP9YgRZTPAfZIq-lQ",
+            "plus_code":{
+                  "compound_code":"WJ69+GG Sandy Springs, GA, USA",
+                  "global_code":"865QWJ69+GG"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJicZFK5gP9YgRZTPAfZIq-lQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"178 Northwood Drive, Sandy Springs",
+            "CBG":131210102121,
+            "Radius":347.073364129
+      }
+]

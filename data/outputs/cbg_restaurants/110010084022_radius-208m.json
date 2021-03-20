@@ -1,0 +1,93 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.899822,
+                        "lng":-76.9931624
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9013653303,
+                              "lng":-76.9918130197
+                        },
+                        "southwest":{
+                              "lat":38.8986673697,
+                              "lng":-76.9945109803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"7-Eleven - CLOSED - Closed",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJkf2KlTu4t4kRfHnjOCC4P38",
+            "plus_code":{
+                  "compound_code":"V2X4+WP Washington, DC, USA",
+                  "global_code":"87C5V2X4+WP"
+            },
+            "price_level":1.0,
+            "rating":3.0,
+            "reference":"ChIJkf2KlTu4t4kRfHnjOCC4P38",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1.0,
+            "vicinity":"957 H Street Northeast, Washington",
+            "CBG":110010084022,
+            "Radius":208.2226483532
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.8998965,
+                        "lng":-76.9934782
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9014027803,
+                              "lng":-76.9921289197
+                        },
+                        "southwest":{
+                              "lat":38.8987048197,
+                              "lng":-76.9948268803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kita Marie's Kitchen",
+            "opening_hours":null,
+            "place_id":"ChIJf5wQpdS5t4kRjJQQY_TNBbE",
+            "plus_code":{
+                  "compound_code":"V2X4+XJ Washington, DC, USA",
+                  "global_code":"87C5V2X4+XJ"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJf5wQpdS5t4kRjJQQY_TNBbE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"929 H Street Northeast, Washington",
+            "CBG":110010084022,
+            "Radius":208.2226483532
+      }
+]

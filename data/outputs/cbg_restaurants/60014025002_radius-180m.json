@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8029467,
+                        "lng":-122.2848547
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8043076303,
+                              "lng":-122.2836143197
+                        },
+                        "southwest":{
+                              "lat":37.8016096697,
+                              "lng":-122.2863122803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Salam Halal Market & Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109455366979384739147\">EMS<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK4wCa7VBgLwRulnGnHkxVfWzmsYXkiNWlCqllDo-LGSFlFeNT1buU0eOdcRQiMV4dBPIqiq2ZW_XWjwYSVw-CsJSXON3HV2cLnTrb87ySFv_i5mn8XlU0n3U8v8psELmjTtZ5Q6HOiWoPl8LMqgXpOKi0dy4I9lvOoBMQ1YyD2jQRI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJzW8F6kKBj4ARh01XAlXDGCQ",
+            "plus_code":{
+                  "compound_code":"RP38+53 Oakland, CA, USA",
+                  "global_code":"849VRP38+53"
+            },
+            "rating":4.5,
+            "reference":"ChIJzW8F6kKBj4ARh01XAlXDGCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":134,
+            "vicinity":"999 7th Street, Oakland",
+            "CBG":60014025002,
+            "Radius":180.0754926002
+      }
+]

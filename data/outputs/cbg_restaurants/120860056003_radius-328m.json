@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7675886,
+                        "lng":-80.2694163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7690819303,
+                              "lng":-80.2680738197
+                        },
+                        "southwest":{
+                              "lat":25.7663839697,
+                              "lng":-80.2707717803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"KAE",
+            "place_id":"ChIJc0e4VyC32YgRLAiAkjXkmqc",
+            "plus_code":{
+                  "compound_code":"QP9J+26 Coral Gables, FL, USA",
+                  "global_code":"76QXQP9J+26"
+            },
+            "rating":4.3,
+            "reference":"ChIJc0e4VyC32YgRLAiAkjXkmqc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"4490 Southwest 4th Street, Coral Gables",
+            "CBG":120860056003,
+            "Radius":328.3835410032
+      }
+]

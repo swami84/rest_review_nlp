@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.940684,
+                        "lng":-87.6442309
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9420417303,
+                              "lng":-87.6429776197
+                        },
+                        "southwest":{
+                              "lat":41.9393437697,
+                              "lng":-87.6456755803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sushi + Rotary Sushi Bar",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2208,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116869278842306722712\">Samir Jagad<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKGYFe3iNkDt4IIskStavnU0Z2mPrjo8go2DTCme7-mohJoEw0d1tpcf6jitRqK6NrU7C2fm4TPOhqJGglFcli2zfk0T0MvCaukRQL1DHFvkZDKMcSRvjjuOa1XV-d46BF0bwFSMuioiLDHGzvruNfKzlFGTbrmF_tc4E5GIyznBGuU",
+                        "width":4480
+                  }
+            ],
+            "place_id":"ChIJxz_9GqTTD4gR44QMPax89Sg",
+            "plus_code":{
+                  "compound_code":"W9R4+78 Chicago, IL, USA",
+                  "global_code":"86HJW9R4+78"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJxz_9GqTTD4gR44QMPax89Sg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1105,
+            "vicinity":"3219 North Broadway, Chicago",
+            "opening_hours":null,
+            "CBG":170310619014,
+            "Radius":109.7025987698
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9410085,
+                        "lng":-87.6442497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9422725803,
+                              "lng":-87.6429884197
+                        },
+                        "southwest":{
+                              "lat":41.9395746197,
+                              "lng":-87.6456863803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eggsperience Cafe - Lakeview",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118002083722835478813\">Eggsperience Cafe - Lakeview<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKw33Bdb56hNx2S4EphynOI3n7dzcYyoOFaEd16MuD9KRigjK_9q5KxehMxO09o1l3HbNI7FbFv7C2RpEiiAtC3Fqco6YUv_vt3RBA4OPe46Qy2Tebg-VUhFwrCqqHgxb5sfKQB-UchnDe-h7yV-8-sbmpmmGqfBD-X_r49eLwXf-Xm",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJOcPqFqTTD4gR47DNL9IooCM",
+            "plus_code":{
+                  "compound_code":"W9R4+C8 Chicago, IL, USA",
+                  "global_code":"86HJW9R4+C8"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJOcPqFqTTD4gR47DNL9IooCM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":334,
+            "vicinity":"3233 North Broadway, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":170310619014,
+            "Radius":109.7025987698
+      }
+]

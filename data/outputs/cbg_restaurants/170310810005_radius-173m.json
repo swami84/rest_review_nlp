@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8995407,
+                        "lng":-87.6348952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9009252303,
+                              "lng":-87.6334578197
+                        },
+                        "southwest":{
+                              "lat":41.8982272697,
+                              "lng":-87.6361557803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"\u0627\u0644\u0645\u0637\u0639\u0645 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u064a",
+            "place_id":"ChIJ9-Cjw0vTD4gR5NQIH9D1K8k",
+            "plus_code":{
+                  "compound_code":"V9X8+R2 Chicago, IL, USA",
+                  "global_code":"86HJV9X8+R2"
+            },
+            "rating":5.0,
+            "reference":"ChIJ9-Cjw0vTD4gR5NQIH9D1K8k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"211 West Walton Street, Chicago",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":170310810005,
+            "Radius":173.37060285
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8995257,
+                        "lng":-87.6349066
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9009177303,
+                              "lng":-87.6334635197
+                        },
+                        "southwest":{
+                              "lat":41.8982197697,
+                              "lng":-87.6361614803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bismilahi restaurant is now BULSHO restaurant",
+            "place_id":"ChIJg6qbw0vTD4gRGRWK-_hz9lU",
+            "plus_code":{
+                  "compound_code":"V9X8+R2 Chicago, IL, USA",
+                  "global_code":"86HJV9X8+R2"
+            },
+            "rating":4.6,
+            "reference":"ChIJg6qbw0vTD4gRGRWK-_hz9lU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"211 West Walton Street, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100679940398610337849\">Abdirazak Ishak<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKk-2y1oiupu0r389mAeCrmQcs2d6JrYpnl65QdiIG__O92WKRG9ZmTmIgQbQDVt6g8-kTNKsBSbQMU1J-WX9hXj9AQO3CwSeaqQDv1F1hvp4IrLI6O77nAe35eZZKken0IIlym6kF4ENGkba0e-2TlU_osRmL37qcEC2LdWhdn_CcI",
+                        "width":1600
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":170310810005,
+            "Radius":173.37060285
+      }
+]

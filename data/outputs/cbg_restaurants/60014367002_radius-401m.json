@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.6653523,
+                        "lng":-122.1026015
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.6667392303,
+                              "lng":-122.1011147697
+                        },
+                        "southwest":{
+                              "lat":37.6640412697,
+                              "lng":-122.1038127303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Loretta's Catering By Torpedos",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117426988497883120757\">LeRoy Baratone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLkRA7aNdeb9dgBcEL9WbFlxVbTUkDRuDi9cNG307vcR1kiW2SwvrQ4SbzYcy9-v5e8M7eRawkZZVcnFUI3wbjgLZQh4IoZyhbWV1YY3FLa75-4bvCghBLNDf2QbKdfNEkzuHHNEpMSN6-B1wosD4j0Fe51QCOKqHm-CfMG3rU2HNzi",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJRRYeSWyRj4ARfu8SOTgFTpg",
+            "plus_code":{
+                  "compound_code":"MV8W+4X Hayward, CA, USA",
+                  "global_code":"849VMV8W+4X"
+            },
+            "rating":4.9,
+            "reference":"ChIJRRYeSWyRj4ARfu8SOTgFTpg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"22435 Santa Clara Street, Hayward",
+            "CBG":60014367002,
+            "Radius":400.5479832216
+      }
+]

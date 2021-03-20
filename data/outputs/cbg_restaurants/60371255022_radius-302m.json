@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1550227,
+                        "lng":-118.3665569
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1562529303,
+                              "lng":-118.3652082697
+                        },
+                        "southwest":{
+                              "lat":34.1535549697,
+                              "lng":-118.3679062303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sandra",
+            "place_id":"ChIJTcs0rOO_woARcATRkll1voM",
+            "plus_code":{
+                  "compound_code":"5J4M+29 North Hollywood, Los Angeles, CA, USA",
+                  "global_code":"85635J4M+29"
+            },
+            "reference":"ChIJTcs0rOO_woARcATRkll1voM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10823 Hortense Street, North Hollywood",
+            "CBG":60371255022,
+            "Radius":302.1355061714
+      }
+]

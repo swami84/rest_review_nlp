@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7160568,
+                        "lng":-117.9911499
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7174040303,
+                              "lng":-117.9897150697
+                        },
+                        "southwest":{
+                              "lat":33.7147060697,
+                              "lng":-117.9924130303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Woody's Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115246706364037305283\">Charlie Klippel<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvMVrgn1_GW_Jsk7YwZuKeR6MgI3Dem_RCIdJOEMhf55iV5tzpaCE6XL3EZc7F_8iIlAoT_RZJ4okMyTtjE5dQUuuGx9OV-xavXETk3Phl30bYrve3WT7WNtbEN3kHOZ9bXctDDB_v5dhvZvT1w-oSbpjs1eTFXn5p9o2ld6wh8pca",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJFYzyRvQm3YAR1oZgr6DW64g",
+            "plus_code":{
+                  "compound_code":"P285+CG Huntington Beach, CA, USA",
+                  "global_code":"8554P285+CG"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJFYzyRvQm3YAR1oZgr6DW64g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":420,
+            "vicinity":"7871 Warner Avenue, Huntington Beach",
+            "CBG":60590994114,
+            "Radius":242.3803365039
+      }
+]

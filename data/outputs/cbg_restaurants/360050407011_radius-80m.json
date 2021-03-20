@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8704877,
+                        "lng":-73.8917114
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8718366803,
+                              "lng":-73.8903624197
+                        },
+                        "southwest":{
+                              "lat":40.8691387197,
+                              "lng":-73.8930603803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Buen Ambiente",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117606218579553483268\">Jose Marquez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtzqQdHhFfXPOKZfBmvGX9LJKFScb2IXyLtF06rsyAAVJhMBQu9TEaGncGqwX9_GMmaigSlYzGKlXaL9tF-wh5S_FIWaslARq9CcsWKueNs7-6q1Px2KFWor9oiuU4rLjZphO7r4Cj7id5Y2PlbVGVKscgzoAqBZwjawPc0ayHoCzp",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJvez8Kp3zwokR4J1oGVesnhU",
+            "plus_code":{
+                  "compound_code":"V4C5+58 New York, NY, USA",
+                  "global_code":"87G8V4C5+58"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJvez8Kp3zwokR4J1oGVesnhU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":172,
+            "vicinity":"108 East 198th Street, The Bronx",
+            "CBG":360050407011,
+            "Radius":79.8841448487
+      }
+]

@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0684816,
+                        "lng":-118.0700054
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0698033303,
+                              "lng":-118.0687398197
+                        },
+                        "southwest":{
+                              "lat":34.0671053697,
+                              "lng":-118.0714377803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chinese New Media",
+            "place_id":"ChIJ__8_Fn_QwoARvlvE6Jt0nhk",
+            "plus_code":{
+                  "compound_code":"3W9H+9X El Monte, CA, USA",
+                  "global_code":"85633W9H+9X"
+            },
+            "rating":5.0,
+            "reference":"ChIJ__8_Fn_QwoARvlvE6Jt0nhk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"9040 Telstar Avenue, El Monte",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":60374336011,
+            "Radius":332.6236139387
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0681267,
+                        "lng":-118.0693283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0694749803,
+                              "lng":-118.0679020197
+                        },
+                        "southwest":{
+                              "lat":34.0667770197,
+                              "lng":-118.0705999803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"THE PIZZA OVEN",
+            "place_id":"ChIJ2XPHDX_QwoARzqG6j4coQiQ",
+            "plus_code":{
+                  "compound_code":"3W9J+77 El Monte, CA, USA",
+                  "global_code":"85633W9J+77"
+            },
+            "rating":4.6,
+            "reference":"ChIJ2XPHDX_QwoARzqG6j4coQiQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"9060 Telstar Avenue # 201, El Monte",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2322,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108253232828284534125\">Jen Chang<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUVZ8HTtXL6MAfvHFB48Qp338fMjUZl3cSPT7QXSZRj9JontEI9FINgjj8rIWG6DitazHI4Fcq0j0b7o99Cp3Zq8KDVH2gH9Nrk_oJtb7kXgRVTB9wUEpWSCn41aCz0RPka4SJtxYYoQel8XItmV2aghbdm5bm8M4QYkFg5PU2ogMs",
+                        "width":4128
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":60374336011,
+            "Radius":332.6236139387
+      }
+]

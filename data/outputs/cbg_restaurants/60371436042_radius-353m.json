@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1385778,
+                        "lng":-118.3665391
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1400994303,
+                              "lng":-118.3650903197
+                        },
+                        "southwest":{
+                              "lat":34.1374014697,
+                              "lng":-118.3677882803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"SunCafe Organic",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3744,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112459688724200387135\">SunCafe Organic<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJXZ2nUa_ot2EQsuaQFrqxyNxo3n3alzKRZgF0NbXuG5L42vmo8iDHfZVqQuW8iwiqcch_oD_SRs6WmEMIWnD0478u5kjLNhZzQPkZdCDdNtd2DDwJCrCcumFsVpF5aQ-r0PDxO79mKaaKr4c4e_9ArZWuAXPJ4B68-P8BmcielXpEI",
+                        "width":5616
+                  }
+            ],
+            "place_id":"ChIJj2XzOkS-woAR0LVPCRsgs-Q",
+            "plus_code":{
+                  "compound_code":"4JQM+C9 Studio City, Los Angeles, CA, USA",
+                  "global_code":"85634JQM+C9"
+            },
+            "price_level":2.0,
+            "rating":4.6,
+            "reference":"ChIJj2XzOkS-woAR0LVPCRsgs-Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":863.0,
+            "vicinity":"10820 Ventura Boulevard, Studio City",
+            "CBG":60371436042,
+            "Radius":353.4173798908
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1381605,
+                        "lng":-118.3651421
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1395979303,
+                              "lng":-118.3636397197
+                        },
+                        "southwest":{
+                              "lat":34.1368999697,
+                              "lng":-118.3663376803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Backdrop Cafe and Lounge",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJwRjtS3i_woARNYvazjg1fRQ",
+            "plus_code":{
+                  "compound_code":"4JQM+7W Studio City, Los Angeles, CA, USA",
+                  "global_code":"85634JQM+7W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJwRjtS3i_woARNYvazjg1fRQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"10730 Ventura Boulevard, Studio City",
+            "CBG":60371436042,
+            "Radius":353.4173798908
+      }
+]

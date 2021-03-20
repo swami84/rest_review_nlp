@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8651662,
+                        "lng":-73.8924679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8665151803,
+                              "lng":-73.8911189197
+                        },
+                        "southwest":{
+                              "lat":40.8638172197,
+                              "lng":-73.8938168803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Anbu Room",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116314596696642628167\">Carlos Vizcaino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKPmFPvwSsW2_UBwkq8rOW30_yBdpW6aACOVKcpSSPcGlwezzFiMpDpEA_BagVy9lKFdhZbmWSgbkG3PnvtiehjbWVR5eFdpsH25-FTnei83y1xslIzErZBBQWGbyFp9MEB6O5Aax8cu339EYDQDrZ0PnI6JeM6QTs1GY1hdl-JYdyk",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ6RMMe4HzwokR-kAK1eWCnEY",
+            "plus_code":{
+                  "compound_code":"V485+32 The Bronx, NY, USA",
+                  "global_code":"87G8V485+32"
+            },
+            "rating":4.1,
+            "reference":"ChIJ6RMMe4HzwokR-kAK1eWCnEY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":57,
+            "vicinity":"2650 Briggs Avenue, The Bronx",
+            "CBG":360050405011,
+            "Radius":110.4818048617
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8653976,
+                        "lng":-73.8929004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8672846803,
+                              "lng":-73.88941615
+                        },
+                        "southwest":{
+                              "lat":40.8645867197,
+                              "lng":-73.89444675
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blanquita Resturant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106970094049780080131\">360 MAGAZINE<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJxC_9Ydtw3IBGsvDj-D5dqM9rP0QkdHZD8F77a-5K8y_STBHhkvc9pffjbm_Us0j-FBa0k1xWUmFXRe6JFZ7xDdxRXfPtOlNx81H--bKqklBx8273YHUR4u4BiEwdoZhelBJjJN7dRZsQk8u3MLtGhw0K4X7i51DZncOklb1PCV7K4",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJHydbY4HzwokRTpBTAwJ3GFI",
+            "plus_code":{
+                  "compound_code":"V484+5R The Bronx, NY, USA",
+                  "global_code":"87G8V484+5R"
+            },
+            "rating":4.4,
+            "reference":"ChIJHydbY4HzwokRTpBTAwJ3GFI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"2647 Briggs Avenue, The Bronx",
+            "CBG":360050405011,
+            "Radius":110.4818048617
+      }
+]

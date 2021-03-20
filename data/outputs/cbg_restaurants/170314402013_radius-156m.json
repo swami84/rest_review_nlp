@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7459701,
+                        "lng":-87.6052562
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7473196303,
+                              "lng":-87.6038573697
+                        },
+                        "southwest":{
+                              "lat":41.7446216697,
+                              "lng":-87.6065553303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Wrap Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104337816713293709483\">Lashaun Price<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5AIzqxfEk1cgPdm3fAraLla7FBASkeCNboqmwYY9uvPartyE7VeNxURb_GOXdXArCbc5-hEgLzoa_-8JDGpB6pfNEwwWeOqJZeAhw-1Br6UKh6DnQ2S_Uto-wlCXfqYIFNNAOqu3wx7IFHfMVrBG8Y5vL__5RaSgQ1sJQZezctCpE",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ7S2GQxMpDogRv_khHz2sW2w",
+            "plus_code":{
+                  "compound_code":"P9WV+9V Chicago, IL, USA",
+                  "global_code":"86HJP9WV+9V"
+            },
+            "rating":4.3,
+            "reference":"ChIJ7S2GQxMpDogRv_khHz2sW2w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":328,
+            "vicinity":"8154 South Cottage Grove Avenue, Chicago",
+            "CBG":170314402013,
+            "Radius":156.3751964872
+      }
+]

@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6402089,
+                        "lng":-73.9987775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6414822303,
+                              "lng":-73.9975077197
+                        },
+                        "southwest":{
+                              "lat":40.6387842697,
+                              "lng":-74.0002056803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"\u05e4\u05e8\u05d9\u05e7\u05d5\u05df \u05dc\u05d9\u05dc \u05e9\u05d9\u05e9\u05d9 \/ Freakin Leil Shishi",
+            "place_id":"ChIJP_X0npBbwokRHZY2On6QH2s",
+            "plus_code":{
+                  "compound_code":"J2R2+3F Brooklyn, NY, USA",
+                  "global_code":"87G8J2R2+3F"
+            },
+            "rating":5,
+            "reference":"ChIJP_X0npBbwokRHZY2On6QH2s",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"955 48th Street, Brooklyn",
+            "CBG":360470114001,
+            "Radius":138.0040474412
+      }
+]

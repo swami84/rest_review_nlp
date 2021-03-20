@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7971079,
+                        "lng":-122.4272061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7985039803,
+                              "lng":-122.4258320197
+                        },
+                        "southwest":{
+                              "lat":37.7958060197,
+                              "lng":-122.4285299803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blue Fog Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104414998457340790842\">Russell Horton<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUb2B0a29u0M5f_fdJdsQYLO796E2d85lNsmoHZG4tZAeSZUYaXQjnzrFHtEDvNGiYnH7KfT24TgcFzAXcKTY8JnU_QNH9C4fq1My_U3PcaiCm6ec0oi974WMQAFz7a0jrl9UUvz7HgrJWk1LsgsUhGxuARDvqeNa6FhGxMMuLMzGE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJz49YH8OAhYARKXiCKNUQ98I",
+            "plus_code":{
+                  "compound_code":"QHWF+R4 Pacific Heights, San Francisco, CA, USA",
+                  "global_code":"849VQHWF+R4"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJz49YH8OAhYARKXiCKNUQ98I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"2567 Gough Street, San Francisco",
+            "CBG":60750130001,
+            "Radius":168.5444970404
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7971887,
+                        "lng":-122.4239694
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7985481303,
+                              "lng":-122.4225447697
+                        },
+                        "southwest":{
+                              "lat":37.7958501697,
+                              "lng":-122.4252427303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Matterhorn Restaurant and Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":9072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114945265393830173404\">Chris Jenny<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIdvpKPyY16Ag8I4fBkrutgLqGm3hZU8vQhIGadp42oWluazIZpqhguPnisG02WCd1JQ0VoP-G2xK2nIW-D8mfpzxwJwk6BAjFoSQifbwXSZExFsJ4nhA-PiPb_YrvuzZMrKwc4o69amXS0HvfvLsKLvwR98SR1ZXudI-j2DHw97Tur",
+                        "width":12096
+                  }
+            ],
+            "place_id":"ChIJ5wknN4OBhYARPnrCyIBgvlk",
+            "plus_code":{
+                  "compound_code":"QHWG+VC Pacific Heights, San Francisco, CA, USA",
+                  "global_code":"849VQHWG+VC"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJ5wknN4OBhYARPnrCyIBgvlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"2323 Van Ness Avenue, San Francisco",
+            "CBG":60750130001,
+            "Radius":168.5444970404
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8321303,
+                        "lng":-73.8508471
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8334735303,
+                              "lng":-73.8496162197
+                        },
+                        "southwest":{
+                              "lat":40.8307755697,
+                              "lng":-73.8523141803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sabrosura",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115596523384886917587\">Sabrosura<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIm_YqvDJxtLGJuvDCd7cifcxlRES6Zg8xJebvprLUkRrSDmRbTDglL1vT6CuWT5xf2EwTW_DGgwFQSIq2NN2iWAWfIYMHy3ccL77JpRr3eYMk1RDJJLNjZZ69YcY2-rgVu07nUucgRCyncNAtfJmmInpB-VGTA3ZPHHqAtOIvVJ-nd",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJa2sI_cj0wokRBO_F1eX2h_8",
+            "plus_code":{
+                  "compound_code":"R4JX+VM New York, NY, USA",
+                  "global_code":"87G8R4JX+VM"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJa2sI_cj0wokRBO_F1eX2h_8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1732,
+            "vicinity":"1200 Castle Hill Avenue, The Bronx",
+            "CBG":360050092002,
+            "Radius":116.3325540036
+      }
+]

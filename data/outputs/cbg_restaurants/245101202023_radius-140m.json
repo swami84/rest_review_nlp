@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3291296,
+                        "lng":-76.6177191
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3304775803,
+                              "lng":-76.6164108197
+                        },
+                        "southwest":{
+                              "lat":39.3277796197,
+                              "lng":-76.6191087803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jordanian Hala Food Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":476,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112115065960016000242\">Mohammad Alomary<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKkR9fQeQ2B-u4PNgfo4BVcEs4KyKuEvsSJUL85r0FLkNS-mhUMY4K2EbOzWeV8nM4cA3miothDhne4xFODyN0Hr0ymzT_-VQ-Ue3dxvZpGVN2M3pk6ke_HUkGsnes46lidcdzcXN0loop-vixSudxj094maLDVMjwsJ8ejuw1m-IpI",
+                        "width":635
+                  }
+            ],
+            "place_id":"ChIJtas2sNIFyIkRCVKwfxttIgM",
+            "plus_code":{
+                  "compound_code":"89HJ+MW Baltimore, MD, USA",
+                  "global_code":"87F589HJ+MW"
+            },
+            "rating":4.8,
+            "reference":"ChIJtas2sNIFyIkRCVKwfxttIgM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"E 34th St &, North Charles Street, Baltimore",
+            "CBG":245101202023,
+            "Radius":139.8985405996
+      }
+]

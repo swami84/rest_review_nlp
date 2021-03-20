@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8284476,
+                        "lng":-73.920953
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8297544803,
+                              "lng":-73.9196275197
+                        },
+                        "southwest":{
+                              "lat":40.8270565197,
+                              "lng":-73.9223254803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Acelas Cafe Juice Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3203,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106618635371652415129\">brand new<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK6Op7HuPgEbOfKTxdstviykhUUy8D-IwA5sIY9-cPjiFd7N57MLbS9_YS0ffnQmdY77wu99VzBQMoZRSxXPRGzWOtsBtRtlcIG1lAfRO0nJWk2Xt-zZflmtdBcMzjrLK1Zz7y-bJ2Qh9q9czuFrF7UFBIuqOvEgECQwxZOEDW-LoRl",
+                        "width":2216
+                  }
+            ],
+            "place_id":"ChIJez2yTTL0wokRitdiE1eL93s",
+            "plus_code":{
+                  "compound_code":"R3HH+9J The Bronx, NY, USA",
+                  "global_code":"87G8R3HH+9J"
+            },
+            "rating":5,
+            "reference":"ChIJez2yTTL0wokRitdiE1eL93s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"181 East 163rd Street, The Bronx",
+            "CBG":360050183012,
+            "Radius":74.3532521363
+      }
+]

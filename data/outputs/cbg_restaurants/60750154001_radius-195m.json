@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7874213,
+                        "lng":-122.4466576
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7887223303,
+                              "lng":-122.4452970697
+                        },
+                        "southwest":{
+                              "lat":37.7860243697,
+                              "lng":-122.4479950303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Laureate Bar & Lounge",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115939263609228060181\">Paul Ferreira<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLZaVOpKIHzyKGKJWUrcm5e2rV0wSBSHJv9udWAopoBcIvO9xCjTc1RHTTWuzFlmWFZb-I97TV9GwLJK4N8QmNY1pZbWt9FlXcW9zZahf7dplb0fb4xSR2-RrexPVLyXAPNNDRd18bVLdZnBwESFIhXWIDzU_Az_5TlG52-wffOcxQ-",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJjV6EqsyAhYARyTIYNiX9fmY",
+            "plus_code":{
+                  "compound_code":"QHP3+X8 Pacific Heights, San Francisco, CA, USA",
+                  "global_code":"849VQHP3+X8"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJjV6EqsyAhYARyTIYNiX9fmY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"444 Presidio Avenue, San Francisco",
+            "CBG":60750154001,
+            "Radius":195.3937674765
+      }
+]

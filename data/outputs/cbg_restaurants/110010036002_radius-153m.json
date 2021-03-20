@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9251877,
+                        "lng":-77.0319478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9265296803,
+                              "lng":-77.0307670697
+                        },
+                        "southwest":{
+                              "lat":38.9238317197,
+                              "lng":-77.0334650303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109626979293097043760\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMTVlmda2LgRZZTbQJkrtxswAeaQaRL8pY2eRIes4mQ2WQO7-3G5uIZ7fcVqoTzApc0usGl3SzKbgG9C6sEa8Q-aafsD7tPb9NPDr5Ci9va32PKKXvXXF6lmRdZ2ZgGd0IjdezIsPr_gpFzXgOeJtv9y6FBr1j-qhFS4GuikLxxjhf",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJoxUp5-e3t4kR6LQ1sddDy6Q",
+            "plus_code":{
+                  "compound_code":"WXG9+36 Washington, DC, USA",
+                  "global_code":"87C4WXG9+36"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJoxUp5-e3t4kR6LQ1sddDy6Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":264,
+            "vicinity":"2701 14th Street Northwest, Washington",
+            "CBG":110010036002,
+            "Radius":153.0067172024
+      }
+]

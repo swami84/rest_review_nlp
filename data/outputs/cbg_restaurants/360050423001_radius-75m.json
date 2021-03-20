@@ -1,0 +1,96 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8799132,
+                        "lng":-73.8755306
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8811746303,
+                              "lng":-73.8742550197
+                        },
+                        "southwest":{
+                              "lat":40.8784766697,
+                              "lng":-73.8769529803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sing Fei",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104671826816177712949\">micheal w<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZtKgfp2_zQnuvHzCioXZvDVhRNTtiJ5E-J9wn-2IT0sm50Q1ueLGJ16s1YT54MqyFvooAsCAz0_ovsYUvhcgz_48yunNBIlqlbv2ELy9zCw5_67k8GZoal122uQ6CK7bs3X_znkTL-SzOCcHinRD-sikNRcNHAYhh6_0vvy0SOgXC",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJL79Y8hLzwokRDDFgMszTVN8",
+            "plus_code":{
+                  "compound_code":"V4HF+XQ The Bronx, NY, USA",
+                  "global_code":"87G8V4HF+XQ"
+            },
+            "rating":3.9,
+            "reference":"ChIJL79Y8hLzwokRDDFgMszTVN8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33.0,
+            "vicinity":"263 East Gun Hill Road, The Bronx",
+            "CBG":360050423001,
+            "Radius":75.1241258321
+      },
+      {
+            "business_status":null,
+            "geometry":{
+                  "location":{
+                        "lat":40.8799105,
+                        "lng":-73.8764677
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8813526803,
+                              "lng":-73.8753094697
+                        },
+                        "southwest":{
+                              "lat":40.8786547197,
+                              "lng":-73.8780074303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Grill Hill NYC",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJx_65P4nzwokRjuPzeGitPp4",
+            "plus_code":{
+                  "compound_code":"V4HF+XC New York, NY, USA",
+                  "global_code":"87G8V4HF+XC"
+            },
+            "rating":null,
+            "reference":"ChIJx_65P4nzwokRjuPzeGitPp4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"236 East Gun Hill Road, The Bronx",
+            "CBG":360050423001,
+            "Radius":75.1241258321
+      }
+]

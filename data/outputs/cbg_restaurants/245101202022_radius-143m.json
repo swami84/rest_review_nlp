@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.3290934,
+                        "lng":-76.6157283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.3304943303,
+                              "lng":-76.6143837697
+                        },
+                        "southwest":{
+                              "lat":39.3277963697,
+                              "lng":-76.6170817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tamber's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102767751265615253072\">Chandni Mahtani<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCnsj5J0tqYA2ZIbbjFqYGvyj_fHrY9c-gNJWL0ETGV__PLknT7lhXGVDjswHuLpzPS-uFtzCLK-5k81AXNldFJ5vDYgdX22g1eICWRUq9nbsFEXAXHw89lCQrAhUN-5ykQUe1IifoIcZ5P0v_V1YXCSNVotm17732zw8Gtwa7xCXv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwxGV1h8FyIkRrE7wd3yfU6M",
+            "plus_code":{
+                  "compound_code":"89HM+JP Baltimore, MD, USA",
+                  "global_code":"87F589HM+JP"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJwxGV1h8FyIkRrE7wd3yfU6M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":484,
+            "vicinity":"3327 Saint Paul Street, Baltimore",
+            "CBG":245101202022,
+            "Radius":142.6161460262
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8740582,
+                        "lng":-73.8796133
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8754146303,
+                              "lng":-73.8781237197
+                        },
+                        "southwest":{
+                              "lat":40.8727166697,
+                              "lng":-73.8808216803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Curry & Kebab",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115734784932873085175\">Naomi De Jesus<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJh4hPpybi-hK3DTHPzX-CpTPB_4cJLB3dmpBFd9w14MnpfTbhTmLGRCAeF7HSnQ4SWlwCL0cmWtzY9KozcdG_h1_D5sGcLExT30Sir1Dw8msM7EBo0wIseXfAFUSzGuFeiHuxuB0GCbpMaO8yDpaW70MSo502ISxzTPIBS-MRzndQi",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJXxJTLnLzwokRzO40tB4rGFY",
+            "plus_code":{
+                  "compound_code":"V4FC+J5 New York, NY, USA",
+                  "global_code":"87G8V4FC+J5"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJXxJTLnLzwokRzO40tB4rGFY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":182,
+            "vicinity":"3111 Bainbridge Avenue, The Bronx",
+            "CBG":360050419003,
+            "Radius":98.5976786438
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8740885,
+                        "lng":-73.8794823
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8754435803,
+                              "lng":-73.8780588697
+                        },
+                        "southwest":{
+                              "lat":40.8727456197,
+                              "lng":-73.8807568303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"La Familia Markets",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100309700694587195121\">Kenneth kjackson165<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLoDLLj_AdfNoKpdDkQtxfKxovqm7yR0et-vMTGvSxc0dclV1a6K8OoeEFoJ5miM-m0BXdlg4_h9SDktv6xf-GWX9CbB-PW1LaCxaUHGMwLIheKWT1sOaQKQyLBQuO9Reb72mkiIAMkwDmCLj4HnSu8IxhxLGuJmetX2ymBsNI0Tw0",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJkYQpBUvzwokRky0XC-vypJI",
+            "plus_code":{
+                  "compound_code":"V4FC+J6 The Bronx, NY, USA",
+                  "global_code":"87G8V4FC+J6"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJkYQpBUvzwokRky0XC-vypJI",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "florist",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3113 Bainbridge Avenue, The Bronx",
+            "CBG":360050419003,
+            "Radius":98.5976786438
+      }
+]

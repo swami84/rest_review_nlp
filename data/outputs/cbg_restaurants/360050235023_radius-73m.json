@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8518146,
+                        "lng":-73.9031172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8531907803,
+                              "lng":-73.9017325197
+                        },
+                        "southwest":{
+                              "lat":40.8504928197,
+                              "lng":-73.9044304803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"AA Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK_dY0kWXtAUhNmmTKSUsK5lIs-JEy-xlvkMsMyrZ8-MtA4syJJB9UJGFOfz6pCMNo8p9K_vYTvlPZGWgMIL9QnWEY23Z5zC4Pv5QX07hqFtCmBBLvH4gyu0skD95WE7hsz4W6PoZNEAScyu_lsiHauPDyilYREGO1kTQFcVaSpIi9O",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJCZfV1W_0wokRSudDquOyZQk",
+            "plus_code":{
+                  "compound_code":"V32W+PQ The Bronx, NY, USA",
+                  "global_code":"87G8V32W+PQ"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJCZfV1W_0wokRSudDquOyZQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":136,
+            "vicinity":"214 East Burnside Avenue, The Bronx",
+            "CBG":360050235023,
+            "Radius":73.4530637265
+      }
+]

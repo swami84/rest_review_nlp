@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9994395,
+                        "lng":-118.2830843
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0007887303,
+                              "lng":-118.2817290697
+                        },
+                        "southwest":{
+                              "lat":33.9980907697,
+                              "lng":-118.2844270303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Solomon's Seafoods Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJxRXpvsfJwoAR5qMBp0F9GvI",
+            "plus_code":{
+                  "compound_code":"XPX8+QQ Los Angeles, CA, USA",
+                  "global_code":"8553XPX8+QQ"
+            },
+            "reference":"ChIJxRXpvsfJwoAR5qMBp0F9GvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4805 South Figueroa Street, Los Angeles",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372321201,
+            "Radius":224.6657894786
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9990159,
+                        "lng":-118.2829486
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0003164803,
+                              "lng":-118.2815821197
+                        },
+                        "southwest":{
+                              "lat":33.9976185197,
+                              "lng":-118.2842800803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Head Repair & Machine Shop \/ Tacos Oaxaca",
+            "opening_hours":null,
+            "place_id":"ChIJ-0SZvSLJwoARpKlv6nNpJ0U",
+            "plus_code":{
+                  "compound_code":"XPX8+JR Los Angeles, CA, USA",
+                  "global_code":"8553XPX8+JR"
+            },
+            "reference":"ChIJ-0SZvSLJwoARpKlv6nNpJ0U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4825 South Figueroa Street, Los Angeles",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113349869360813593276\">Hector Morales<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLBPtScLDetUVoycR5fIvLEcTyn1cFHoZJHyvrRiGE5n08Vcjqn60-AIzbJg0G_tdXHTl3rZsUkKvDRWI9LEcLkpG77RKhqxSG1DuonDwnYjn7k9SJMQ1kp7yizkkYRTs8aeU9XIwKqtdD3-1-0ZLxipZKtjPVeRFE2rUm75FmpOn2R",
+                        "width":3024
+                  }
+            ],
+            "rating":5.0,
+            "user_ratings_total":1.0,
+            "CBG":60372321201,
+            "Radius":224.6657894786
+      }
+]

@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7043936,
+                        "lng":-117.0934305
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7056454803,
+                              "lng":-117.0920821197
+                        },
+                        "southwest":{
+                              "lat":32.7029475197,
+                              "lng":-117.0947800803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Diaz Brothers Mexican Catering",
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111192446391811451381\">Sergio Lopez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJqivaQEmhK66AQKlVMJbFNZu2bhI6we8WmIF6V3UX1EqrNV8gJWcIAcIKfSDDcBUAvKA2JuRjIh3EYIgrzXsokSYBuBvlzGFH7XUOoDEA2qxCbpWw_8OH93I_kQzZ2GvxPpRxD1TeZQ9Ws224NNeG6LzlK5l9RJXi3RSbIVpi0gmOs",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJB1JiYsNT2YARJXy5AJ1AK_M",
+            "plus_code":{
+                  "compound_code":"PW34+QJ San Diego, CA, USA",
+                  "global_code":"8544PW34+QJ"
+            },
+            "rating":4.5,
+            "reference":"ChIJB1JiYsNT2YARJXy5AJ1AK_M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"4704 Imperial Avenue, San Diego",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":60730033041,
+            "Radius":265.6865734089
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7044519,
+                        "lng":-117.0940447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7057980803,
+                              "lng":-117.0925330697
+                        },
+                        "southwest":{
+                              "lat":32.7031001197,
+                              "lng":-117.0952310303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bane Phonkeo's",
+            "photos":[
+                  {
+                        "height":1241,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100628241609761386745\">Jared Cohee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUVurV8j4IK3okqbzviVMxa6TC7ojzeLic045Hc1u0pA7gqXzv-7RR2FRv1joSS8KcESaEHJPvpuK13DX9cLrEDHdDqZDDWxhruhmN11Gt7royKP8w7mYlIVWgR3v3j5kqJRIy0XFlyP4KKUUH0014xXIrPSkXk6skA4K-ohrot31L",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJuVe8eMNT2YARWGWtTgqiaNg",
+            "plus_code":{
+                  "compound_code":"PW34+Q9 San Diego, CA, USA",
+                  "global_code":"8544PW34+Q9"
+            },
+            "rating":4.4,
+            "reference":"ChIJuVe8eMNT2YARWGWtTgqiaNg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"110 47th Street, San Diego",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "price_level":1.0,
+            "CBG":60730033041,
+            "Radius":265.6865734089
+      }
+]

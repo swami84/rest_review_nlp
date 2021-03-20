@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6838921,
+                        "lng":-73.9993129
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6852667303,
+                              "lng":-73.9980560197
+                        },
+                        "southwest":{
+                              "lat":40.6825687697,
+                              "lng":-74.0007539803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eton Chan Catering",
+            "place_id":"ChIJe2gq5ltawokRKyPU3g2fy2I",
+            "plus_code":{
+                  "compound_code":"M2M2+H7 New York, NY, USA",
+                  "global_code":"87G8M2M2+H7"
+            },
+            "reference":"ChIJe2gq5ltawokRKyPU3g2fy2I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"517 Henry Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470067004,
+            "Radius":91.8243463093
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.683486,
+                        "lng":-73.999295
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6847794303,
+                              "lng":-73.9979836697
+                        },
+                        "southwest":{
+                              "lat":40.6820814697,
+                              "lng":-74.0006816303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Cigogne",
+            "place_id":"ChIJJ13o4FtawokR6Nk-NchRJIM",
+            "plus_code":{
+                  "compound_code":"M2M2+97 Brooklyn, NY, USA",
+                  "global_code":"87G8M2M2+97"
+            },
+            "reference":"ChIJJ13o4FtawokR6Nk-NchRJIM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"215 Union Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":816,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109719004627163297258\">Jeffrey Rosenberg, Virtual360NY<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJmysWapr64wymmMUAQ_o0Zsa-FiHbwcjwPaqsd4C5Mrf_yf9bYSF_zMWSmuJpHHXNaDqnI_trNK-ywOBEDgqyCeiZlxOxCjMKYtLuHLtEnYhXpJVK0Lpu34VJFMUmwKhXS5s2mIKBywQE-VJSX1Ue6wgpSNUsunTb_kH_YucOeHdxQ",
+                        "width":1224
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.3,
+            "user_ratings_total":295.0,
+            "CBG":360470067004,
+            "Radius":91.8243463093
+      }
+]

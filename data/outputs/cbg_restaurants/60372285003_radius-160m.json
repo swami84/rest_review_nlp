@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0041336,
+                        "lng":-118.2699431
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0053894303,
+                              "lng":-118.2684730697
+                        },
+                        "southwest":{
+                              "lat":34.0026914697,
+                              "lng":-118.2711710303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Church's Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106235938226067016060\">Tyron Darrington<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIasGiBUpWRiiTBcQp-2-gIySKoP8Q0R6UMjujQmCqbi5WPud5EwyEsm3ZqIF2CxmIf5kEdG9s92cno5MsK_wJ8kWA19j8gx2GKKMTDBqyYHyRLoOCsk28ER0X8IuShQCo5ImMdf8LWBnXgXp_wb4vNAhC4zjQW6MghsHiuc-Ry5QnH",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJhZ9tXmnIwoARd4qLrC3fTuA",
+            "plus_code":{
+                  "compound_code":"2P3J+M2 Los Angeles, CA, USA",
+                  "global_code":"85632P3J+M2"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJhZ9tXmnIwoARd4qLrC3fTuA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":503,
+            "vicinity":"261 East Vernon Avenue, Los Angeles",
+            "CBG":60372285003,
+            "Radius":160.0847554786
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0039906,
+                        "lng":-118.2722294
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0052653803,
+                              "lng":-118.2708770697
+                        },
+                        "southwest":{
+                              "lat":34.0025674197,
+                              "lng":-118.2735750303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos el Pony",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":669,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112789646637900618549\">Ken Shaw<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKHaLovV_URhFUel1my1Z-S4S1eKAYMJbvVvx1D4F7OiC2J45OrHrD66rPPOAEHGm3AUhlGBZm1t-qGore_EBkKv8rRjjADFXpsebjTgAQeNnvKyYzqk2Ps9i3hnzYCTpYZUHrMFjHX9b9cFpLfsfok3hpBIKDHbI50_S5taU0Pa7bT",
+                        "width":698
+                  }
+            ],
+            "place_id":"ChIJXUcHj2vIwoARbXR9VquKpg8",
+            "plus_code":{
+                  "compound_code":"2P3H+H4 Los Angeles, CA, USA",
+                  "global_code":"85632P3H+H4"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJXUcHj2vIwoARbXR9VquKpg8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"181e East Vernon Avenue, Los Angeles",
+            "CBG":60372285003,
+            "Radius":160.0847554786
+      }
+]

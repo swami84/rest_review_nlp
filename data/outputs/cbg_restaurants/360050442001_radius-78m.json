@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9065173,
+                        "lng":-73.8484536
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9078492803,
+                              "lng":-73.8473206697
+                        },
+                        "southwest":{
+                              "lat":40.9051513197,
+                              "lng":-73.8500186303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"HotSpot Grill & Jerk",
+            "place_id":"ChIJVVWZhc7ywokRsi16i2JV-nc",
+            "plus_code":{
+                  "compound_code":"W542+JJ The Bronx, NY, USA",
+                  "global_code":"87G8W542+JJ"
+            },
+            "rating":1,
+            "reference":"ChIJVVWZhc7ywokRsi16i2JV-nc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4850 White Plains Road, The Bronx",
+            "CBG":360050442001,
+            "Radius":78.1540044142
+      }
+]

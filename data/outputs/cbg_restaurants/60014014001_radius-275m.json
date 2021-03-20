@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8253049,
+                        "lng":-122.2750255
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8266717303,
+                              "lng":-122.2737937197
+                        },
+                        "southwest":{
+                              "lat":37.8239737697,
+                              "lng":-122.2764916803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Javi's Cooking \"Empanadas Argentinas\"",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103336666854841501673\">Maritere Mar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKKHjwHG6Tc1nQ8R7y5N6bpkr0UdVzIIokB5etk3t0adHXhkUm-uZHE5HGT4XDCEHpcdMjaazCPbdug93_Iz_icqsRp0nTPzbqLiEmf6I-WyPzMs1-r0cLeLSNUCLnL63M52zjeO2rHT8lSsKvThiytpSxqApRBi4qpI3-THraMO3wA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJuWDzKhl_hYARIeK0k72pCqo",
+            "plus_code":{
+                  "compound_code":"RPGF+4X Oakland, CA, USA",
+                  "global_code":"849VRPGF+4X"
+            },
+            "rating":4.6,
+            "reference":"ChIJuWDzKhl_hYARIeK0k72pCqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"3446 Market Street, Oakland",
+            "CBG":60014014001,
+            "Radius":275.1724441787
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.832486,
+                        "lng":-117.927944
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8338814803,
+                              "lng":-117.9271306697
+                        },
+                        "southwest":{
+                              "lat":33.8311835197,
+                              "lng":-117.9298286303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ruby's Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1400,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103049509819367654073\">Ruby&#39;s Diner<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ82bMZC1c29VDUJRtDlceqyjkpwToV5ue4AmqBO0Is5NyjA9JycKmljX6Pi9-v84hO_flftyCVJ8PhaR8PhuinFuedDE66CeOmKCKN7ybpKQgg5vjhAUNryZnnHCKuBgoegvcNFKHzYRPg8AOZd8DOnKQawlY7U0IVhZSkBVy-F5Sw",
+                        "width":934
+                  }
+            ],
+            "place_id":"ChIJscoo19gp3YAR96dnFtJw87A",
+            "plus_code":{
+                  "compound_code":"R3JC+XR Anaheim, CA, USA",
+                  "global_code":"8554R3JC+XR"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJscoo19gp3YAR96dnFtJw87A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1366,
+            "vicinity":"1128 West Lincoln Avenue, Anaheim",
+            "CBG":60590872003,
+            "Radius":224.0834321084
+      }
+]

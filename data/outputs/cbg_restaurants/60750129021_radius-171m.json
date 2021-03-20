@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7998846,
+                        "lng":-122.4277883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8012878803,
+                              "lng":-122.4264505197
+                        },
+                        "southwest":{
+                              "lat":37.7985899197,
+                              "lng":-122.4291484803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Fort Mason Market & Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2983,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113326406767366093780\">Chucky Chuck<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIcUBMfQ_yQefWJqXYPqRVFtVPT352wdl4Msw5s28ECrc79WaVPtR8hbqgQZOAIAUe7lFtH0esi6zaMGaYC7Tc70XzWcAdjHgjL6qdTfOfkI5s-Lun6CQEkhJ0svs2P0Lw29DQEWufZUQ94yZWrEPMn9meWo8jVDM-y4TsCyvpyJf5R",
+                        "width":3818
+                  }
+            ],
+            "place_id":"ChIJyQws7tyAhYARgj8gerHLlzw",
+            "plus_code":{
+                  "compound_code":"QHXC+XV Cow Hollow, San Francisco, CA, USA",
+                  "global_code":"849VQHXC+XV"
+            },
+            "rating":4.0,
+            "reference":"ChIJyQws7tyAhYARgj8gerHLlzw",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"1701 Greenwich Street, San Francisco",
+            "price_level":null,
+            "CBG":60750129021,
+            "Radius":170.6755085948
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8009742,
+                        "lng":-122.4289232
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8022405303,
+                              "lng":-122.4275891197
+                        },
+                        "southwest":{
+                              "lat":37.7995425697,
+                              "lng":-122.4302870803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Atami Sushi Bar & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117981244423914204812\">Justine Kononov<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJC7GvxzZAoHw6Z3lZ93Z5FiZSRX5rxT6qaSoFVTH-MRiaGNt1dekyynyMg-0PoGX0Gylft5YJLZF3UTTukMUUEpZSAWw4IaiBUuiYKRRP91hCahh0_7iFkXNdLfHiIefu9OtM2Zd5mYdaLXZWGhUuYPuwm8sHzX-areu1XPF8vCikh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJEa1JbtyAhYARoRA5b_tf5GA",
+            "plus_code":{
+                  "compound_code":"RH2C+9C Marina District, San Francisco, CA, USA",
+                  "global_code":"849VRH2C+9C"
+            },
+            "rating":4.6,
+            "reference":"ChIJEa1JbtyAhYARoRA5b_tf5GA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":131,
+            "vicinity":"1662 Lombard Street, San Francisco",
+            "price_level":2.0,
+            "CBG":60750129021,
+            "Radius":170.6755085948
+      }
+]

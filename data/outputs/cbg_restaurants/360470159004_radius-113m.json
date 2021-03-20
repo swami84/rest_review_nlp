@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6760775,
+                        "lng":-73.9746695
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6774264803,
+                              "lng":-73.9733205197
+                        },
+                        "southwest":{
+                              "lat":40.6747285197,
+                              "lng":-73.9760184803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bombay Kabab",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100354971972742399327\">Ros B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKf7oo87J7qq-CQQg4qdJo-k6Hp2ar4lcsygerwsm3_5DgCWIZ2FxDY1Ya_idfsOEQkw6-H8yddqXdbXyQEuUZwGHrlIsayIpY_K5mkRq9V8POfwa-J6ZuRL3em8npInEiH5aIZ6cw3reiBMNlUBEGINnX93pcQTJH6kzLkBVPHlBfe",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ4cgnrABbwokRUn9X53k4Rpg",
+            "plus_code":{
+                  "compound_code":"M2GG+C4 New York, NY, USA",
+                  "global_code":"87G8M2GG+C4"
+            },
+            "rating":4.1,
+            "reference":"ChIJ4cgnrABbwokRUn9X53k4Rpg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":76,
+            "vicinity":"54 7th Avenue, Brooklyn",
+            "CBG":360470159004,
+            "Radius":113.1196597616
+      }
+]

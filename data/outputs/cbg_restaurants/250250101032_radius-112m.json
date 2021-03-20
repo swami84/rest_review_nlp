@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3497666,
+                        "lng":-71.0979065
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3512961803,
+                              "lng":-71.0965320697
+                        },
+                        "southwest":{
+                              "lat":42.3485982197,
+                              "lng":-71.0992300303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Fresh Food Company at Marciano Commons",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100893715293559431468\">Xiangyi Meng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUYHpROk7Mq4oSoHnetQB4JAGKJzQbHvmpZNZBjn_cNq47CuiDkrGOurG81jrnD0ka7ACLas5w6wUk65BH8NHq8VEPKkDgJHajwfnpQ4D0ADISaV5uK9XHWlySvcGFQK64_3AzV2vYw80tgPRyoHsULlOo-t6C9aJMz7P920UygZch",
+                        "width":5504
+                  }
+            ],
+            "place_id":"ChIJu68FA_h544kRFZ4pbYQVLcI",
+            "plus_code":{
+                  "compound_code":"8WX2+WR Boston, MA, USA",
+                  "global_code":"87JC8WX2+WR"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJu68FA_h544kRFZ4pbYQVLcI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"100 Bay State Road, Boston",
+            "CBG":250250101032,
+            "Radius":112.1971526774
+      }
+]

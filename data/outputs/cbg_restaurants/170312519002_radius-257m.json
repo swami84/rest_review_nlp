@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8825945,
+                        "lng":-87.7553269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8838286803,
+                              "lng":-87.7539745697
+                        },
+                        "southwest":{
+                              "lat":41.8811307197,
+                              "lng":-87.7566725303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"NeNe's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117165434404999187736\">NeNe&#39;s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL-KhIR-VAz2fiSx8dnb2WISr9Q8wgGEXz0neDlfvWUCYqWyeYCr-uCE46rAd148dGErrmGxKZEN_T0TrW-9mRZ0O62x0Tgz7iUs2-NtZFGC-DpscLGpSbNVy9NK2hJe8zFfwxjRby2v2eHTdmVQDTCrUdqKLEEGdnIj-M88DI15vIp",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJffwdhcEzDogRuYsKJEFRqAM",
+            "plus_code":{
+                  "compound_code":"V6MV+2V Chicago, IL, USA",
+                  "global_code":"86HJV6MV+2V"
+            },
+            "rating":5.0,
+            "reference":"ChIJffwdhcEzDogRuYsKJEFRqAM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3.0,
+            "vicinity":"5202 West Washington Boulevard, Chicago",
+            "CBG":170312519002,
+            "Radius":257.1374104793
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8840219,
+                        "lng":-87.7542481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8853748303,
+                              "lng":-87.7527549197
+                        },
+                        "southwest":{
+                              "lat":41.8826768697,
+                              "lng":-87.7554528803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Thee Soul Food Palace",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJYZvIftczDogRSWxfVuZtHvg",
+            "plus_code":{
+                  "compound_code":"V6MW+J8 Chicago, IL, USA",
+                  "global_code":"86HJV6MW+J8"
+            },
+            "rating":null,
+            "reference":"ChIJYZvIftczDogRSWxfVuZtHvg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"178 North Leamington Avenue, Chicago",
+            "CBG":170312519002,
+            "Radius":257.1374104793
+      }
+]

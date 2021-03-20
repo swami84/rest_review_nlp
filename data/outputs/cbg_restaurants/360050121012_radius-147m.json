@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8287794,
+                        "lng":-73.8900305
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8301280303,
+                              "lng":-73.8886375197
+                        },
+                        "southwest":{
+                              "lat":40.8274300697,
+                              "lng":-73.8913354803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Fogon",
+            "place_id":"ChIJlwNKz1f0wokRbC6T0cdwiPc",
+            "plus_code":{
+                  "compound_code":"R4H5+GX New York, NY, USA",
+                  "global_code":"87G8R4H5+GX"
+            },
+            "reference":"ChIJlwNKz1f0wokRbC6T0cdwiPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":360050121012,
+            "Radius":146.5926967013
+      }
+]

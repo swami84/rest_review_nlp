@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6445331,
+                        "lng":-74.0105559
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6458153803,
+                              "lng":-74.0092551197
+                        },
+                        "southwest":{
+                              "lat":40.6431174197,
+                              "lng":-74.0119530803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ricos Tacos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117169948057270645952\">Justin Ho<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwICAIwxU7t2RPwk3gDOK2ncmhZTHhFDeTl23nVXGIviOaNrLUpaMQH3t9Yay-ZdF_mrFLslmdkZ4-a00vGYpd9oUvF4_wjqBjXkhYhUoTxn0pHCfTSBYmshy6pr-2jSvaiOLVXt9iEZSNlahKFVQJBFpcndkUUXKQOuIKwiIpW1mUF8",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJ83ydO7RawokRnSEKeICgR1M",
+            "plus_code":{
+                  "compound_code":"JXVQ+RQ New York, NY, USA",
+                  "global_code":"87G7JXVQ+RQ"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ83ydO7RawokRnSEKeICgR1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":527,
+            "vicinity":"505 51st Street, Brooklyn",
+            "CBG":360470098004,
+            "Radius":109.582117411
+      }
+]

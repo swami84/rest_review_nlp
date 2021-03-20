@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7969495,
+                        "lng":-122.415429
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7982817803,
+                              "lng":-122.4139824197
+                        },
+                        "southwest":{
+                              "lat":37.7955838197,
+                              "lng":-122.4166803803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Serafina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114529014417769378831\">Jessica Alvarado<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLFRVbbxp_ajfi4HFIJnZzQKX86NiJWYHHiVnE7_eSLsUBEod-o8LKnyf2gJMouv6SAJ0QEPG4ha6N2kqeztnK7rGvNA7RdClYtsJmLUU84mO_5UpxUbDYut60ywl3cc7z_wrpz0nbYPhs98we1MhPiLWq_-TQ2dMT-ZacpZxBRx2jI",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJj0K63TGBhYARax87_obJF00",
+            "plus_code":{
+                  "compound_code":"QHWM+QR Russian Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHWM+QR"
+            },
+            "rating":5,
+            "reference":"ChIJj0K63TGBhYARax87_obJF00",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"1701 Jones Street, San Francisco",
+            "CBG":60750108002,
+            "Radius":139.6582911105
+      }
+]

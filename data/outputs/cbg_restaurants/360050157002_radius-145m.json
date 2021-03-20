@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8333653,
+                        "lng":-73.8874071
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8346672303,
+                              "lng":-73.8860861697
+                        },
+                        "southwest":{
+                              "lat":40.8319692697,
+                              "lng":-73.8887841303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Spanish Food Breakfast & Lunch",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJFTESSPb0wokRFoPvSdlXpbk",
+            "plus_code":{
+                  "compound_code":"R4M7+82 The Bronx, NY, USA",
+                  "global_code":"87G8R4M7+82"
+            },
+            "rating":4,
+            "reference":"ChIJFTESSPb0wokRFoPvSdlXpbk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"East 172nd Street, The Bronx",
+            "CBG":360050157002,
+            "Radius":145.2259496053
+      }
+]

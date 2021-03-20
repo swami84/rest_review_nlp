@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8315701,
+                        "lng":-73.8444647
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8329073803,
+                              "lng":-73.8432022197
+                        },
+                        "southwest":{
+                              "lat":40.8302094197,
+                              "lng":-73.8459001803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Zerega Little Vienna Delicatessen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJyVoD_sr0wokRSqYuBWBAwj0",
+            "plus_code":{
+                  "compound_code":"R5J4+J6 The Bronx, NY, USA",
+                  "global_code":"87G8R5J4+J6"
+            },
+            "rating":3.4,
+            "reference":"ChIJyVoD_sr0wokRSqYuBWBAwj0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"1130 Zerega Avenue, The Bronx",
+            "photos":null,
+            "CBG":360050096001,
+            "Radius":235.5516849031
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8298753,
+                        "lng":-73.8463112
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8310761803,
+                              "lng":-73.8449271197
+                        },
+                        "southwest":{
+                              "lat":40.8283782197,
+                              "lng":-73.8476250803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Take Away Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJa5Dl7cv0wokRlElIOCAzo84",
+            "plus_code":{
+                  "compound_code":"R5H3+XF The Bronx, NY, USA",
+                  "global_code":"87G8R5H3+XF"
+            },
+            "rating":2.8,
+            "reference":"ChIJa5Dl7cv0wokRlElIOCAzo84",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1070 Havemeyer Avenue, The Bronx",
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103740427421038593935\">henry perez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI2itJO_oRGxTcEeQ_UsGmg7NKIXm7p7AjGN9_hMs6Z2sfaJD6x0Ow9TRwsYAwmMPII9Kr1OV0OTK6_TqMcJUId6osEDsXStAQullOS18SWWAVLe-3KEH4oO0BpLfg7vg53f_4EfAKqxsyrZnu_EMmtYyZSN9ux4BqS40S_sNU4Qdf7",
+                        "width":3264
+                  }
+            ],
+            "CBG":360050096001,
+            "Radius":235.5516849031
+      }
+]

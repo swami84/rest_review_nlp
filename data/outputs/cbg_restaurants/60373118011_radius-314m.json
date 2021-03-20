@@ -1,0 +1,136 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1674706,
+                        "lng":-118.3045956
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1687277803,
+                              "lng":-118.3031226197
+                        },
+                        "southwest":{
+                              "lat":34.1660298197,
+                              "lng":-118.3058205803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Vegan Plant Based Private Chef",
+            "place_id":"ChIJ2WtSReC_woAR9f1ZADxlH5o",
+            "plus_code":{
+                  "compound_code":"5M8W+X5 Burbank, CA, USA",
+                  "global_code":"85635M8W+X5"
+            },
+            "rating":5.0,
+            "reference":"ChIJ2WtSReC_woAR9f1ZADxlH5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1.0,
+            "vicinity":"221 West Elm Avenue, Burbank",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60373118011,
+            "Radius":314.4854683551
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1665108,
+                        "lng":-118.3071531
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1677755303,
+                              "lng":-118.3058929697
+                        },
+                        "southwest":{
+                              "lat":34.1650775697,
+                              "lng":-118.3085909303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Malibu Morning",
+            "place_id":"ChIJ696DLBC_woARZIbnmt2GTLM",
+            "plus_code":{
+                  "compound_code":"5M8V+J4 Burbank, CA, USA",
+                  "global_code":"85635M8V+J4"
+            },
+            "rating":null,
+            "reference":"ChIJ696DLBC_woARZIbnmt2GTLM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1020 South Victory Boulevard, Burbank",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":60373118011,
+            "Radius":314.4854683551
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1667417,
+                        "lng":-118.308546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1681781303,
+                              "lng":-118.3073124197
+                        },
+                        "southwest":{
+                              "lat":34.1654801697,
+                              "lng":-118.3100103803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Willie's Grill & Deli",
+            "place_id":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "plus_code":{
+                  "compound_code":"5M8R+MH Burbank, CA, USA",
+                  "global_code":"85635M8R+MH"
+            },
+            "rating":4.2,
+            "reference":"ChIJCdkQ3XC_woARzuajJNxIVZc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17.0,
+            "vicinity":"929 South Victory Boulevard, Burbank",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3898,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102541233734676253950\">S H<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIBwM9QFv-2ajroqKVPKfv_yfdNpuGqY8axGqWSfWRSGoHi8RhkvicTnwbympfWmJhPfgpTcwbdNWN3Y7eCcOiKehCr_yJnBO_GoXVAId6nGhpP_-DaX1vtCmLLhWTd7os2lseILYne8HE_kiQQv4slPgrt18I0J3ISvuX2dHjad65C",
+                        "width":5332
+                  }
+            ],
+            "CBG":60373118011,
+            "Radius":314.4854683551
+      }
+]

@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0405983,
+                        "lng":-118.3767096
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0418845303,
+                              "lng":-118.3753904697
+                        },
+                        "southwest":{
+                              "lat":34.0391865697,
+                              "lng":-118.3780884303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Yum Yum Donuts",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116418254005302142023\">Winnie S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIU_1RgmoUnW29eMdgjgXqNM482OF64Fhf_hUxVYc3Dtz37ROUNa-Low_7ZLMS9YV4jzd6Aa0FdfS3-sD41zrd3Av0qAGCgUDK7ocY1AkRzDsMevSE5dkkJm2-iczCJ24g_CKfvxCiqHUCVX98UBJup3mdh5d8Aa3SDnALbj_KgSZh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJleepSHG5woAR7fFxc5sum04",
+            "plus_code":{
+                  "compound_code":"2JRF+68 Los Angeles, CA, USA",
+                  "global_code":"85632JRF+68"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJleepSHG5woAR7fFxc5sum04",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":410,
+            "vicinity":"1976 La Cienega Boulevard, Los Angeles",
+            "CBG":60372696012,
+            "Radius":175.5355100613
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.040591,
+                        "lng":-118.3766784
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0418736303,
+                              "lng":-118.3753221197
+                        },
+                        "southwest":{
+                              "lat":34.0391756697,
+                              "lng":-118.3780200803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pita Caf\u00e9",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113258802881823393573\">Cecilia Bedoya<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLJS4vLCOFAhnlvM-OF2uyWkB044-Gqy_q-3yBSr4WurRhor8aAqlW7zpqOg8l9u6PiGUPlkHTxnFApqgc9-5xvytk7nlLNJTfTLZiydDfBErvyWz7qUpS1NuvN_Me6BP5oh6ri2DNoZjDostgbfTJRZyRBF6z0iHWisGTKZTE4Ndbo",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJ14ZNRnG5woARpbUxEEmgVOw",
+            "plus_code":{
+                  "compound_code":"2JRF+68 Los Angeles, CA, USA",
+                  "global_code":"85632JRF+68"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ14ZNRnG5woARpbUxEEmgVOw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":246,
+            "vicinity":"1976 South La Cienega Boulevard, Los Angeles",
+            "CBG":60372696012,
+            "Radius":175.5355100613
+      }
+]

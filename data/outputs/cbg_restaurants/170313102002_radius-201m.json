@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.858152,
+                        "lng":-87.646447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8595047803,
+                              "lng":-87.6451953697
+                        },
+                        "southwest":{
+                              "lat":41.8568068197,
+                              "lng":-87.6478933303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kristoffer's Cafe & Bakery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107377234451620554888\">Veronica Magdaleno<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3hXAzMll9LJ6RshVoRLZxmNoyVzOAd5Lr7It_OPM91O722JBne0stlEIhA_Gv86r-wvSactPMq8SW6Wzvgs2CDho3-K4t-3X3qdIdMrP_AJrEBbqzl7b0Ut8bxe3iUo_YO6k6CjC_Ga9YfjHPKmYyrJLy88R6bm-UC0AfyVX5Kj0O",
+                        "width":3456
+                  }
+            ],
+            "place_id":"ChIJQzOWqPcsDogRyvxWAvZ7MeY",
+            "plus_code":{
+                  "compound_code":"V953+7C Chicago, IL, USA",
+                  "global_code":"86HJV953+7C"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJQzOWqPcsDogRyvxWAvZ7MeY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":298,
+            "vicinity":"1733 South Halsted Street, Chicago",
+            "CBG":170313102002,
+            "Radius":200.9251715311
+      }
+]

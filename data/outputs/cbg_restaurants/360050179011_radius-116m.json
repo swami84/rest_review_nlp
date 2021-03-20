@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.833896,
+                        "lng":-73.915092
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8352087303,
+                              "lng":-73.9136214697
+                        },
+                        "southwest":{
+                              "lat":40.8325107697,
+                              "lng":-73.9163194303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eastern Chinese Style",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":877,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109702760238786073042\">Stephanie Diaz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJiREHOplQf8_3RkeNKHB1OcGKwJrFY3ysQUadtLSQQ62H-oBfNSl0sO_gT5oEl-9Ai8YvA_3PS37x3Y8kLO6ojdJ0DycwLnA74JLDs4FH2VroyrEAS-eEo9pP97Q6tFa7RgTKzngGLG571MFm9cIlMkZC0TFQRb5Tr7HO-4aLYpJk2",
+                        "width":1308
+                  }
+            ],
+            "place_id":"ChIJz8uSgzf0wokRLXcUdvnQXuY",
+            "plus_code":{
+                  "compound_code":"R3MM+HX New York, NY, USA",
+                  "global_code":"87G8R3MM+HX"
+            },
+            "rating":4.9,
+            "reference":"ChIJz8uSgzf0wokRLXcUdvnQXuY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"1233 Grant Avenue, The Bronx",
+            "CBG":360050179011,
+            "Radius":115.6175750926
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8336168,
+                        "lng":-73.9146618
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8349119303,
+                              "lng":-73.9133441197
+                        },
+                        "southwest":{
+                              "lat":40.8322139697,
+                              "lng":-73.9160420803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy fried chicken 253",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104579928733276189447\">Kennedy fried chicken 253<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJF5bH3sJdApUXpGkyh2GwMfyJs098ItKui97tC8uMgX48TFdYLVWpBUCBnnZfCT2rDez7qTzox8P4VXMxbMbI4BysYYu88Ro8cjFAtwtFCXbqZCeGsctQl_0QAQ8XBXXwJ__Aj_t1vUdpYTNU4_8R8KZ6g5FJaim_TmuDvHFrrs8zj",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJBwEPvCr1wokRp8Tb2oXj_T8",
+            "plus_code":{
+                  "compound_code":"R3MP+C4 New York, NY, USA",
+                  "global_code":"87G8R3MP+C4"
+            },
+            "rating":4.3,
+            "reference":"ChIJBwEPvCr1wokRp8Tb2oXj_T8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"253 East 167th Street, The Bronx",
+            "CBG":360050179011,
+            "Radius":115.6175750926
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.836674,
+                        "lng":-73.857483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8380229803,
+                              "lng":-73.8561340197
+                        },
+                        "southwest":{
+                              "lat":40.8353250197,
+                              "lng":-73.8588319803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Venice Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116939627058490885058\">Mark McGill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKdmlZkiOIAMDEsdb1IeLee_NUE291H7w8aBiVc5LOdho-w-nWzAntnMZNo0Htjfn3avJqc_IHBhh7N7-o_2Lr5UP3TPsTNE0J4ES5nRJwsqbokQeE5QNWuogTGmHCpeSiAiUWShGx9RV9lEWYiZm2XmJG_-0yXMHpQKfOBJ3Lh6VWB",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJfTqUkbj0wokRf01gOgYizIU",
+            "plus_code":{
+                  "compound_code":"R4PV+M2 The Bronx, NY, USA",
+                  "global_code":"87G8R4PV+M2"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJfTqUkbj0wokRf01gOgYizIU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":177,
+            "vicinity":"1539 Unionport Road, The Bronx",
+            "CBG":360050210021,
+            "Radius":86.5346177693
+      }
+]

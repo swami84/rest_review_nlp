@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7940159,
+                        "lng":-87.6326565
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7954400803,
+                              "lng":-87.6313106197
+                        },
+                        "southwest":{
+                              "lat":41.7927421197,
+                              "lng":-87.6340085803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taco Bell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105350019328425806617\">barbara Alexander<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJjqMX1qZvtFGIvqpuSlM6dp9pmDB2IjLkFy3_6L2UNbiKvUS9J8CPkBiEQwts5dxBXdra5F2QjXR5JNgfJuKpBFM5cRoSgZD6DxbvXQ8gVUwySkizySvthXTGB90GvDN-out-M5wRqdFh5PSQ__MiNUwd7ctY0C2T5rizQrTkpZFAs",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtRSv-7gvDogR0FEJIQ70bns",
+            "plus_code":{
+                  "compound_code":"Q9V8+JW Chicago, IL, USA",
+                  "global_code":"86HJQ9V8+JW"
+            },
+            "rating":2.8,
+            "reference":"ChIJtRSv-7gvDogR0FEJIQ70bns",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"255 West Garfield Boulevard, Chicago",
+            "CBG":170318346004,
+            "Radius":416.7707825314
+      }
+]

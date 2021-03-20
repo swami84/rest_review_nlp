@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0069016,
+                        "lng":-87.6735963
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0082692803,
+                              "lng":-87.6721918197
+                        },
+                        "southwest":{
+                              "lat":42.0055713197,
+                              "lng":-87.6748897803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fonda Do\u00f1a Mary",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101952724446508900989\">maria espino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJE5kOtUid6jMm4PxAbMWnR_X_yu5HU2UTZ3l424DO67NCeXYoCq4rS0u-5guoydBlz68kfFMG4WQXf-yoBbkx568wU5MMl_3zV-njWZLGrEhyak9EHygslHT9LNTDVo7cTdBGqhAhXELlBfw6cUpcXQsYCCTaHfYLHAPfjJOOW2xiY",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ0fWKR9TRD4gR9BNYvDWygOE",
+            "plus_code":{
+                  "compound_code":"284G+QH Chicago, IL, USA",
+                  "global_code":"86JJ284G+QH"
+            },
+            "rating":4.4,
+            "reference":"ChIJ0fWKR9TRD4gR9BNYvDWygOE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"6906 North Clark Street, Chicago",
+            "CBG":170310107023,
+            "Radius":177.2695881806
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.0072839,
+                        "lng":-87.6737859
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.0086448303,
+                              "lng":-87.6723292697
+                        },
+                        "southwest":{
+                              "lat":42.0059468697,
+                              "lng":-87.6750272303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Pecado Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110923149100550522089\">Sarah<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJfhjLN9eLz3TvIItPsbcDIf02O-qYLuyWBke1qujYbwk9GrHPkAPrLQ42CQxnegt27qADwO69vkYPKGDtNhqZTZof46fjB8tGBA-7XBT_jLfRCYkpl4IkZKTKcb6Qx9W9ylZ2ELBAvKJ7YGphWdK9ZMh_zeYfaJ8T1QqkwIeUZvvb5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVVWJI7fRD4gRadX_7m4Amz0",
+            "plus_code":{
+                  "compound_code":"284G+WF Chicago, IL, USA",
+                  "global_code":"86JJ284G+WF"
+            },
+            "rating":4.5,
+            "reference":"ChIJVVWJI7fRD4gRadX_7m4Amz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":134,
+            "vicinity":"6922 North Clark Street, Chicago",
+            "CBG":170310107023,
+            "Radius":177.2695881806
+      }
+]

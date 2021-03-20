@@ -1,0 +1,91 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9060502,
+                        "lng":-87.6283171
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9072791303,
+                              "lng":-87.6269664197
+                        },
+                        "southwest":{
+                              "lat":41.9045811697,
+                              "lng":-87.6296643803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zach",
+            "place_id":"ChIJKaias1rTD4gRGd0OYSjsdO0",
+            "plus_code":{
+                  "compound_code":"W94C+CM Chicago, IL, USA",
+                  "global_code":"86HJW94C+CM"
+            },
+            "reference":"ChIJKaias1rTD4gRGd0OYSjsdO0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1301 North State Parkway, Chicago",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":170310801006,
+            "Radius":85.2299824745
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9060542,
+                        "lng":-87.6284696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9072811303,
+                              "lng":-87.6270426697
+                        },
+                        "southwest":{
+                              "lat":41.9045831697,
+                              "lng":-87.6297406303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ambassador Chicago - Chef Pedro Avila's Kitchen",
+            "place_id":"ChIJLxDhpiLTD4gRaIN8F8D8g5o",
+            "plus_code":{
+                  "compound_code":"W94C+CJ Chicago, IL, USA",
+                  "global_code":"86HJW94C+CJ"
+            },
+            "reference":"ChIJLxDhpiLTD4gRaIN8F8D8g5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1301 North State Parkway, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":479,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101762890059870110416\">Food Gallery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLk77-mI-fvWSNmjesFMQB6ABf7Fn90E-lU3Y3xOFqe0poRkODYD3MIjE35YhX9ZTxmgfyFnMX9vdxOzJQBp6ZG1JbZ4kuZiD6lDkK3g5Ub-2h1DUx-FnA6ZirlEqX8LAQ1IfsAFYaK7G13D5mOva1cZdAEoAtR6ppH01nKv26cOyHs",
+                        "width":720
+                  }
+            ],
+            "CBG":170310801006,
+            "Radius":85.2299824745
+      }
+]

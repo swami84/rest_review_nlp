@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6300291,
+                        "lng":-74.0149568
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6313780803,
+                              "lng":-74.0136078197
+                        },
+                        "southwest":{
+                              "lat":40.6286801197,
+                              "lng":-74.0163057803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ocean Chinese Restaurant",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110406156927114577573\">VETCRAFT GAMER<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLcHbJjue-xO_XcwjujFUbi49N8WV-_vPXlAccxxr5RXtQKnvemxCSa8KRKu-2po6lOCoSz70buVe683LNOmu-3lmLbreOnPLeCXqqL8GD3eOrRgjcGUuVHqWVlEDygQHUsLSWu0y7CMHwmZKM9S0bhiU_J62_99WYKEr5VVqPWIJxy",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJzxOYSEpFwokROP5uCCDJubo",
+            "plus_code":{
+                  "compound_code":"JXJP+22 Brooklyn, NY, USA",
+                  "global_code":"87G7JXJP+22"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJzxOYSEpFwokROP5uCCDJubo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"6909 8th Avenue, Brooklyn",
+            "CBG":360470132001,
+            "Radius":100.4130666535
+      }
+]

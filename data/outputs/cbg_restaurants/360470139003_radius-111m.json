@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6688577,
+                        "lng":-73.9897174
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6702374803,
+                              "lng":-73.9884321197
+                        },
+                        "southwest":{
+                              "lat":40.6675395197,
+                              "lng":-73.9911300803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Olivier Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1088,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104393312463855624848\">Olivier Bistro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwx_tdDGLwXROvlRD2lZx-PwbqlEWuf6awIwxxSzRYPU0vRI8kIQSN2aAzSbWFP2188rtQc6-eAX08QxTyd1TLMqgkZPbqWMlWSTLY74Xs6tC1ZDN1UcSKhoxyNoFCeg7rf2XGVYF7amgul7qmbPm2BOyRPFVh28FL2LsuQRdD4ANH",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJgd24b_tawokRCDAcN6dqWcg",
+            "plus_code":{
+                  "compound_code":"M296+G4 Brooklyn, NY, USA",
+                  "global_code":"87G8M296+G4"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJgd24b_tawokRCDAcN6dqWcg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":255,
+            "vicinity":"469 4th Avenue, Brooklyn",
+            "CBG":360470139003,
+            "Radius":110.6286437315
+      }
+]

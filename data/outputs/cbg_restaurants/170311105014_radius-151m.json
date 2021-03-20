@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9755106,
+                        "lng":-87.7669931
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9768403303,
+                              "lng":-87.7657369697
+                        },
+                        "southwest":{
+                              "lat":41.9741423697,
+                              "lng":-87.7684349303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kings Gyros Chicago",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2664,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116927327118692821965\">J T<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJzECebTUKGhzL2yZJcQ48YzsHCvDqHT45hqvMMae9zIXq6OZ0pGdAam3mhdD2pC7hHNE-1BU7Demy8ii5dZBcFUd_TV-OakyUUee1xsm0wEVM387fiNcyGPGgqbiSMee0v5Lv3Kv65K1YsoOjA_oO7vDjr5AGazBYMv7LEVusTCO1D",
+                        "width":3996
+                  }
+            ],
+            "place_id":"ChIJm-w5xQLMD4gRmUxURRF20jU",
+            "plus_code":{
+                  "compound_code":"X6GM+66 Chicago, IL, USA",
+                  "global_code":"86HJX6GM+66"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJm-w5xQLMD4gRmUxURRF20jU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":727,
+            "vicinity":"5233 North Milwaukee Avenue, Chicago",
+            "CBG":170311105014,
+            "Radius":151.3742837364
+      }
+]

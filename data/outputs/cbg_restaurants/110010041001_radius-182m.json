@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9163549,
+                        "lng":-77.0468996
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9177632303,
+                              "lng":-77.0454937697
+                        },
+                        "southwest":{
+                              "lat":38.9150652697,
+                              "lng":-77.0481917303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chartwell Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2637,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114943563760652884773\">Chartwell Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKezQWvba2O3TAspAAaXP9_sEWgB2ziWkp1j40NVWIhARnaktQ-LihzNBe74vyGLTDovWp40TmKNzd7Wav5TNyFxLwxTk7BNo6pdCOpGzM2JTbEksSGQ4t41oKBhbQYNi47XD-MHCYyJpCs4aAzsuuJzGaMJxHRjx2NF-8iSvORZrnd",
+                        "width":4144
+                  }
+            ],
+            "place_id":"ChIJvyTSuM-3t4kR3QH8tbSXpOk",
+            "plus_code":{
+                  "compound_code":"WX83+G6 Washington, DC, USA",
+                  "global_code":"87C4WX83+G6"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJvyTSuM-3t4kR3QH8tbSXpOk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"1914 Connecticut Avenue Northwest, Washington",
+            "CBG":110010041001,
+            "Radius":181.5884295035
+      }
+]

@@ -1,0 +1,105 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7931112,
+                        "lng":-122.4143162
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7944652803,
+                              "lng":-122.4130398697
+                        },
+                        "southwest":{
+                              "lat":37.7917673197,
+                              "lng":-122.4157378303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"KEIKO \u00e0 Nob Hill",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106098533838512483813\">Eric Liu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ1qj7y4wjJacacu0DMQVzHPCSwW1TvF-Ma99V06G-AbbkI26nipglW7QlXfYx1Hd7uLvYHr-FQjU7H_-uSb0g-4EaU8t1HduoXG9e4QmSyvQDeKVwB7ZC8YbwCnDPUTC5QF-UM-SeQN55YYTMxEH88nDYWdy3tY8ArhqPPLBWWO6ts",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ3Tv7Ne2AhYARk_WkAIjlKNw",
+            "plus_code":{
+                  "compound_code":"QHVP+67 Nob Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHVP+67"
+            },
+            "price_level":4,
+            "rating":4.5,
+            "reference":"ChIJ3Tv7Ne2AhYARk_WkAIjlKNw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":135,
+            "vicinity":"1250 Jones Street, San Francisco",
+            "CBG":60750112002,
+            "Radius":129.8200109147
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7932066,
+                        "lng":-122.4126434
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7945443303,
+                              "lng":-122.4113734697
+                        },
+                        "southwest":{
+                              "lat":37.7918463697,
+                              "lng":-122.4140714303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nob Hill Cafe",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118171796066988739837\">Nob Hill Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwZv-D4vJqw8LXFB3Zu0SqzXjl6_YeMmCS7kKb80vwW6qnMidNKr5ujP5ySjfTOx7Ttd4PSMEb5Y7n0ebLLFpClIzLPbR6H311hRlrgcOWXo8dfR8UFtQBv_yH04N8FInqlJoImn5U4fuaMXgJeW0oI0q4HnE4LMW1sO7MTOanLYOD",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJXXxDVY2AhYARdCEREpkRDKg",
+            "plus_code":{
+                  "compound_code":"QHVP+7W Nob Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHVP+7W"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJXXxDVY2AhYARdCEREpkRDKg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":769,
+            "vicinity":"1152 Taylor Street, San Francisco",
+            "CBG":60750112002,
+            "Radius":129.8200109147
+      }
+]

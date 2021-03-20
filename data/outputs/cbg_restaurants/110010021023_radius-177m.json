@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.956382,
+                        "lng":-77.01251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9577863303,
+                              "lng":-77.0111967697
+                        },
+                        "southwest":{
+                              "lat":38.9550883697,
+                              "lng":-77.0138947303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Jackie Lee's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116056539307649228459\">Jackie Lee&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI8y2_tknR2BN5l1AhLeG1XhCR5SoIpUG12bpvO0vKNAVzUvBHXH1XVu6s-ByTQHGzuG2hVOmIGsxdAd_8IBuXLEgggN-ywPV3VOEhlLZbgt8AE9reCvq0YnztLUGc1T21-ubRZ4rZrTBDFc9xeAaBZqGwAcG3p60VBQIe2bfjyMJP8",
+                        "width":768
+                  }
+            ],
+            "place_id":"ChIJc1_QR3jIt4kRGsyhKUrZhaE",
+            "plus_code":{
+                  "compound_code":"XX4P+HX Washington, DC, USA",
+                  "global_code":"87C4XX4P+HX"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJc1_QR3jIt4kRGsyhKUrZhaE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":224,
+            "vicinity":"116 Kennedy Street Northwest, Washington",
+            "CBG":110010021023,
+            "Radius":176.6859467462
+      }
+]

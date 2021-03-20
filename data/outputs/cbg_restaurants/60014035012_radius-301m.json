@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8207776,
+                        "lng":-122.2606365
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8221837303,
+                              "lng":-122.2593542197
+                        },
+                        "southwest":{
+                              "lat":37.8194857697,
+                              "lng":-122.2620521803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Judoku Sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111929238305366471359\">hyun chul kim<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJMAbGjSyA1sXILSMLYxLvBMNGR3gzuGDksRD1O7L6adA4FKTjHcH1EuXuuWaVYklrp2mBDwfMtvmE7drCzoJvjHPPZRSQ8c8G5D3VAEEW69d2XXGgSsNzKmmeX8BfZmIxKRzjpNtPKU1Lj-gzF2j-tXxrDyf2-mKVhg8RrCo2z36vc",
+                        "width":1800
+                  }
+            ],
+            "place_id":"ChIJwRdL9lWHj4ARdkHKSmcvV-w",
+            "plus_code":{
+                  "compound_code":"RPCQ+8P Oakland, CA, USA",
+                  "global_code":"849VRPCQ+8P"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJwRdL9lWHj4ARdkHKSmcvV-w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":435,
+            "vicinity":"3314 Piedmont Avenue, Oakland",
+            "CBG":60014035012,
+            "Radius":300.753798176
+      }
+]

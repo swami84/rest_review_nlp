@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7954508,
+                        "lng":-122.4190883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7967644803,
+                              "lng":-122.4177304697
+                        },
+                        "southwest":{
+                              "lat":37.7940665197,
+                              "lng":-122.4204284303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ristorante Milano",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108441728098359253438\">Tony Knox<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJbShfGP6SIhwajYAkekeQG3L7nCXdJNUJ8VWEKdok0rI54-UQJV6hFsWQt9AZUeix_vyauhG6vp3gPHe-x0zgHQ-6CPZmHj57JDg2o77oZsGmJJmCn6qetbMoIn2TSrXvMjQ3k_gxitBo0V0OJj4yJd_L5c9kVMo8n8TihHZHOG-8T",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJi8Cx-uuAhYAR5mErmzNUU1U",
+            "plus_code":{
+                  "compound_code":"QHWJ+59 Nob Hill, San Francisco, CA, USA",
+                  "global_code":"849VQHWJ+59"
+            },
+            "price_level":3,
+            "rating":4.6,
+            "reference":"ChIJi8Cx-uuAhYAR5mErmzNUU1U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":214,
+            "vicinity":"1448 Pacific Avenue, San Francisco",
+            "CBG":60750110001,
+            "Radius":140.2598453076
+      }
+]

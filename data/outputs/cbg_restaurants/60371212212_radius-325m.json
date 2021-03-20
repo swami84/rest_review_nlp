@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2281079,
+                        "lng":-118.4001399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2295585303,
+                              "lng":-118.3986451197
+                        },
+                        "southwest":{
+                              "lat":34.2268605697,
+                              "lng":-118.4013430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Comunion De Gracia",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106346247099069536620\">Ver\u00f3nica Xolalpa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwgNwWl90ISR-jGvjwbYlzla_EGTp-fTLhMlEW7ue112KMp8pCiq6iGwfDKjkx86x6DRc2b_FgvYfg7BY2cutxQAR1G1P9FwfcIBpqOgjXR6AGO-UdW2UuM1bzcRfYTMlhByLkVDz-DQqo4p_Q-KU4sCzYhl-h8giPjUhCMdKkPFLu",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJuQbwoa6WwoAR7eyeknpiODQ",
+            "plus_code":{
+                  "compound_code":"6HHX+6W Sun Valley, Los Angeles, CA, USA",
+                  "global_code":"85636HHX+6W"
+            },
+            "rating":4.7,
+            "reference":"ChIJuQbwoa6WwoAR7eyeknpiODQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"8735 Laurel Canyon Boulevard, Sun Valley",
+            "CBG":60371212212,
+            "Radius":325.0828851432
+      }
+]

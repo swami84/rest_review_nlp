@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6439143,
+                        "lng":-74.0047696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6451472803,
+                              "lng":-74.0033493697
+                        },
+                        "southwest":{
+                              "lat":40.6424493197,
+                              "lng":-74.0060473303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Helado de Coco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1135,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105767928873882418549\">Helado de Coco<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJRaYMWZcJAujnWqDSwSe0PwySXXNj6eAA2A8SHwLGzDZuX9VsgjJIC9rZxzStQ-UDUzDrkeUBbE54ZrBPnd44yu1yMLFY7o-Kw-rSn2VOYHecf4LhlcR-EBWJ8q1lqXNWFnOoh957-M57vYkMFkqio_3AxiLdPlaXdGP01QkVis-mV",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJ8S5HVkjBwogREcLVSRM2eZY",
+            "plus_code":{
+                  "compound_code":"JXVW+H3 Brooklyn, NY, USA",
+                  "global_code":"87G7JXVW+H3"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ8S5HVkjBwogREcLVSRM2eZY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"4716 7th Avenue, Brooklyn",
+            "CBG":360470096002,
+            "Radius":109.6518095191
+      }
+]

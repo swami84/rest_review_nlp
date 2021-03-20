@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8463815,
+                        "lng":-73.9181797
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8476688803,
+                              "lng":-73.9168243197
+                        },
+                        "southwest":{
+                              "lat":40.8449709197,
+                              "lng":-73.9195222803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gramma's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJG1wdB8H1wokRGA4_uMkU3oM",
+            "plus_code":{
+                  "compound_code":"R3WJ+HP New York, NY, USA",
+                  "global_code":"87G8R3WJ+HP"
+            },
+            "rating":3.8,
+            "reference":"ChIJG1wdB8H1wokRGA4_uMkU3oM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"99b Featherbed Lane, The Bronx",
+            "CBG":360050213011,
+            "Radius":79.3022598753
+      }
+]

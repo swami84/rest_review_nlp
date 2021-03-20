@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0295114,
+                        "lng":-118.2848199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0307800303,
+                              "lng":-118.2834707197
+                        },
+                        "southwest":{
+                              "lat":34.0280820697,
+                              "lng":-118.2861686803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Berlin Truck",
+            "place_id":"ChIJVQqUOrDHwoARgc3N3fTdHoI",
+            "plus_code":{
+                  "compound_code":"2PH8+R3 Los Angeles, CA, USA",
+                  "global_code":"85632PH8+R3"
+            },
+            "rating":4.3,
+            "reference":"ChIJVQqUOrDHwoARgc3N3fTdHoI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"140th Street East, Los Angeles",
+            "CBG":60372218202,
+            "Radius":203.5043637169
+      }
+]

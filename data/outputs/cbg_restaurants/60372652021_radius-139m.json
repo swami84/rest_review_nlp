@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.063573,
+                        "lng":-118.443654
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0646062303,
+                              "lng":-118.4422262197
+                        },
+                        "southwest":{
+                              "lat":34.0619082697,
+                              "lng":-118.4449241803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tatiana's Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106215833819046633617\">Tatiana&#39;s Catering<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGaWWgOVRTn3fv4YMbUf1N0zCwPmsF_i17q7TZ1UZsteJgkpOIyU4Ig3zq4fA2lif77qX3PxOPNv_PJiBmQVNcjB57bCj-9_lxwLKHhiP1LRzSTUz3DYvsnAq2HfOzeHqDYwzOtVMz0Um6nIAB9oNtSD-8g6O_HemKaAmYfQ3GFndV",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJ1dhoNIG8woARWDyVg8CSYnI",
+            "plus_code":{
+                  "compound_code":"3H74+CG Los Angeles, CA, USA",
+                  "global_code":"85633H74+CG"
+            },
+            "rating":4.9,
+            "reference":"ChIJ1dhoNIG8woARWDyVg8CSYnI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"10851 10879, Le Conte Avenue, Los Angeles",
+            "CBG":60372652021,
+            "Radius":139.339979251
+      }
+]

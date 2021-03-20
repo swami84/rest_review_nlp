@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":21.3344639,
+                        "lng":-157.8807147
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":21.3359167303,
+                              "lng":-157.8792734197
+                        },
+                        "southwest":{
+                              "lat":21.3332187697,
+                              "lng":-157.8819713803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104776371236988217610\">Rachel Torres<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMl1IQ5KNLcAydXNCmMiTe_i8wQVhg9a3VjsvLvy8LwD6AzB08Bj07xuntydH9Gh1SBV7fV3inU3ZZ-Sm4-AiRTYRPIi20zGTMjNsSkfsw5PAyCKeqiCERlwAgGpmjchlGpQQviDPvlxktMyK1qBwvuXZTIXA5Q7RDS2pzeX4QhsZ4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJe4gM04puAHwRid2Fh2tbnro",
+            "plus_code":{
+                  "compound_code":"84M9+QP Honolulu, HI, USA",
+                  "global_code":"73H484M9+QP"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJe4gM04puAHwRid2Fh2tbnro",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":290,
+            "vicinity":"2183 North King Street, Honolulu",
+            "CBG":150030062013,
+            "Radius":160.4283770325
+      }
+]

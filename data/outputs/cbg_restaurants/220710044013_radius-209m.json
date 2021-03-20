@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9647682,
+                        "lng":-90.0732443
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9660660803,
+                              "lng":-90.0718242197
+                        },
+                        "southwest":{
+                              "lat":29.9633681197,
+                              "lng":-90.0745221803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wing Snack",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103685294929648223384\">Molly O&#39;Shee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ908LfxDzJeAS-wNNTqMsPKTeJMaxQ6h6TPjlTHSxZr5ndYQjeWXF8mx8YLKru32wQ2GnpdigN_1NYzqOyG0_KRz4T5ThXn2hNKTvhXHU0mEHDhgaOKsZUONiTJNO6sq4cYrV_60FDvlDTPyP0DQvY6iMF319e7z5HnXDh5XoiIYgY",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJf42TpAemIIYRWCsyemoj5n8",
+            "plus_code":{
+                  "compound_code":"XW7G+WP New Orleans, LA, USA",
+                  "global_code":"76XFXW7G+WP"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJf42TpAemIIYRWCsyemoj5n8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":337,
+            "vicinity":"759 North Claiborne Avenue, New Orleans",
+            "CBG":220710044013,
+            "Radius":208.6540590856
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.9648914,
+                        "lng":-90.0731173
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.9661912303,
+                              "lng":-90.0716999197
+                        },
+                        "southwest":{
+                              "lat":29.9634932697,
+                              "lng":-90.0743978803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sidney's Snowballs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115250412237387471587\">Felicia Wilson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKsHfS5q9wva7cXocPYTImE3xv4e-3VzBBotWple7dP7lNijT5l78ULQOnNDAweNi3YZkE8oP3JHLjPTSjdsQxhwA3H0IcuKV8mCqyvMvNszeQoF6Lps7et9QXOxJ8a7YdvGmNtjPF5hXUC3DyK-aDSVvosVM1moYkM9MyxUMTFyZB",
+                        "width":1800
+                  }
+            ],
+            "place_id":"ChIJY_91pQemIIYRsnI4tuvEUa4",
+            "plus_code":{
+                  "compound_code":"XW7G+XQ New Orleans, LA, USA",
+                  "global_code":"76XFXW7G+XQ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJY_91pQemIIYRsnI4tuvEUa4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"767 North Claiborne Avenue, New Orleans",
+            "CBG":220710044013,
+            "Radius":208.6540590856
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8866482,
+                        "lng":-73.8614058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8879568303,
+                              "lng":-73.8599348697
+                        },
+                        "southwest":{
+                              "lat":40.8852588697,
+                              "lng":-73.8626328303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104832811056588588715\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJG38gnpCau-itK2y1BH8POc2Q95s-n-MYXryu94pe5OckwtiKStrX1LPqCeBDfR5gxkAipFZbSZG0Cj9Kd9DY6lLa--MqIxm8Ks44weyTVWZ-a-NFpBoypHFDq6QTO1WAdpfSLKNj09rMcVYlQqyWoIkC-OCnpv0Y6eOPlcUrI6Cjl",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJdwxPOSPzwokRAQCCT6S3LMU",
+            "plus_code":{
+                  "compound_code":"V4PQ+MC New York, NY, USA",
+                  "global_code":"87G8V4PQ+MC"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJdwxPOSPzwokRAQCCT6S3LMU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":241,
+            "vicinity":"3929 White Plains Road, The Bronx",
+            "CBG":360050394002,
+            "Radius":145.8492820479
+      }
+]

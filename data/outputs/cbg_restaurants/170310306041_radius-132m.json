@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9856221,
+                        "lng":-87.6554497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9869721803,
+                              "lng":-87.6540035197
+                        },
+                        "southwest":{
+                              "lat":41.9842742197,
+                              "lng":-87.6567014803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hollywood Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2990,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113923913364202295572\">Robert Gable<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3fUQOQLrVShHIT0i9RN_am5cNYwQ8zvKvh0vNfuYD0cotw_dpeSS2l4ctT94iHe0oama5-AKmuPF-cclbtpGtwz-_NIFnJ6HRHE60OyNUEIncR0Og6f0WQuLXD-MFaMkJQVT_fZk82xk6ICzP3FL_MT7wBjWSBt--ulX5pCbGIRhV",
+                        "width":3987
+                  }
+            ],
+            "place_id":"ChIJiRWIw-DRD4gRQLNh_zkzqXE",
+            "plus_code":{
+                  "compound_code":"X8PV+6R Chicago, IL, USA",
+                  "global_code":"86HJX8PV+6R"
+            },
+            "rating":4.9,
+            "reference":"ChIJiRWIw-DRD4gRQLNh_zkzqXE",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"5700 North Sheridan Road, Chicago",
+            "CBG":170310306041,
+            "Radius":132.2167184562
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9835426,
+                        "lng":-87.6548831
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9848901803,
+                              "lng":-87.6536854697
+                        },
+                        "southwest":{
+                              "lat":41.9821922197,
+                              "lng":-87.6563834303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Pharmacie",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100691920050448224730\">Nari Choi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxHwGhwLr5ejxd8YbXpHhihdfhdpmMjtNWHKO2oU9DRJEOl40p8SNY3-jXia51b6hQ45C8Qd7XskA4wBmcE6CHjU5ceszhy4BX-1ZqupxKEtShFp0ox6KzZNX9DHEkD-E948xo4CURzP_GxxvdEGtMorBXpvEgVQXHwv6w1LGolRcz",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJWY8UsVXRD4gR8ZRmmlrouGc",
+            "plus_code":{
+                  "compound_code":"X8MW+C2 Chicago, IL, USA",
+                  "global_code":"86HJX8MW+C2"
+            },
+            "rating":5.0,
+            "reference":"ChIJWY8UsVXRD4gR8ZRmmlrouGc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"5557 North Sheridan Road, Chicago",
+            "CBG":170310306041,
+            "Radius":132.2167184562
+      }
+]

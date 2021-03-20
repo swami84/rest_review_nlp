@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.866358,
+                        "lng":-87.665963
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8677046303,
+                              "lng":-87.6647867197
+                        },
+                        "southwest":{
+                              "lat":41.8650066697,
+                              "lng":-87.6674846803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"JJ Fish & Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104197414107712900249\">Kyle Eldridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIztNXTMI57iMOxpC1_Lf0WJvjIPflc5BiqGt4JKPtABrPTI85S5zFiwG1r7df11JGTM-dvwqmJiZjyJeVO7CKi7YLqeoNwhp-ctTl4HcEhaIL_Ep9uaRkX0MpNGY3EgLXYbAKm8o-jqo2B4SNZlR6D8zB56C2OFa7QNGKBSzR8_F_s",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJowVsyxotDogR2vaBA9pSx0U",
+            "plus_code":{
+                  "compound_code":"V88M+GJ Chicago, IL, USA",
+                  "global_code":"86HJV88M+GJ"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJowVsyxotDogR2vaBA9pSx0U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":99,
+            "vicinity":"1215 South Ashland Avenue, Chicago",
+            "CBG":170318429002,
+            "Radius":198.8646237252
+      }
+]

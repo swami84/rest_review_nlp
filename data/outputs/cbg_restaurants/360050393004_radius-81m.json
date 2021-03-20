@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8530311,
+                        "lng":-73.8833154
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8543467803,
+                              "lng":-73.8818504697
+                        },
+                        "southwest":{
+                              "lat":40.8516488197,
+                              "lng":-73.8845484303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"TGI Isaac",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJv0cbn4b0wokRrB7bsKMHXoU",
+            "plus_code":{
+                  "compound_code":"V438+6M The Bronx, NY, USA",
+                  "global_code":"87G8V438+6M"
+            },
+            "rating":5,
+            "reference":"ChIJv0cbn4b0wokRrB7bsKMHXoU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2357 Prospect Avenue, The Bronx",
+            "CBG":360050393004,
+            "Radius":81.119789676
+      }
+]

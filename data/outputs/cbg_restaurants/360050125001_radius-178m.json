@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8270219,
+                        "lng":-73.8911011
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8282587803,
+                              "lng":-73.8897428697
+                        },
+                        "southwest":{
+                              "lat":40.8255608197,
+                              "lng":-73.8924408303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zhu's Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLOo0a3KVEk1wS4IgKL-PJGhe689bmpSZ-Y7mALLC1Omy2dlLbawKbqpJU1iYWP48ejNcWjLSrLUyEPLTqUpJvtAD4IQsc0TXhhp00ytWGaonWfZtZE6aq159xvGn05rN_KLFfNB4mYBpf0tf4PENi-CipfbYAN1Z3T48k5uIxNUD6K",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJlfdZb1b0wokRTn3ayiOeiO4",
+            "plus_code":{
+                  "compound_code":"R4G5+RH The Bronx, NY, USA",
+                  "global_code":"87G8R4G5+RH"
+            },
+            "rating":4,
+            "reference":"ChIJlfdZb1b0wokRTn3ayiOeiO4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":69,
+            "vicinity":"971 East 167th Street, The Bronx",
+            "CBG":360050125001,
+            "Radius":177.8933685512
+      }
+]

@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8277918,
+                        "lng":-73.9070266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8291407803,
+                              "lng":-73.9056776197
+                        },
+                        "southwest":{
+                              "lat":40.8264428197,
+                              "lng":-73.9083755803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jalloh",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIWG76LDBPAQ2q6m3F0kQgCd-CQuN0dH7c0JPDF-0TTU3zz13KxlRM6DkWrOBLEwlMJ5XKztKYUTD_J0q1uiCcBFe-Ef5ZfpGLOuBlxspyFgj4GvSa0ehjgrigVdGwClG4UHhkqrQiXVoIUWrNICGgWjUb_79gkzEqyzkO-Tubch2NE",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJYcyT-0v0wokRKEK5n1t3a5k",
+            "plus_code":{
+                  "compound_code":"R3HV+45 The Bronx, NY, USA",
+                  "global_code":"87G8R3HV+45"
+            },
+            "rating":4.7,
+            "reference":"ChIJYcyT-0v0wokRKEK5n1t3a5k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"3396 3rd Avenue, The Bronx",
+            "price_level":null,
+            "CBG":360050185003,
+            "Radius":156.0399888614
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8268295,
+                        "lng":-73.9051942
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8282230303,
+                              "lng":-73.9039035197
+                        },
+                        "southwest":{
+                              "lat":40.8255250697,
+                              "lng":-73.9066014803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Gold Dragon",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112545927508386773874\">Gilbert Pe\u00f1a<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL3He7rB6oqP9sqMLCNTx9QnOA7-aYTiZsS-CnjSaOzxMW5H7PCkDv7nMlEZyfzuD5wvcDRL8mSANsT7QwPbdfHxfGQC9BTpEs2Eq-cLWV-uKGtBSyvKH_nYpuw0vbHaZvf3XGkUHGRkMuQCvml4qCrCOUOPH9uf5JVe-4k1qYo-F3p",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJKdkCFUz0wokRcg_WeUH2Vxs",
+            "plus_code":{
+                  "compound_code":"R3GV+PW The Bronx, NY, USA",
+                  "global_code":"87G8R3GV+PW"
+            },
+            "rating":4.3,
+            "reference":"ChIJKdkCFUz0wokRcg_WeUH2Vxs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"1078 Boston Road, The Bronx",
+            "price_level":2.0,
+            "CBG":360050185003,
+            "Radius":156.0399888614
+      }
+]

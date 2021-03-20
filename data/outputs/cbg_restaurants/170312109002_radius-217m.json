@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9319463,
+                        "lng":-87.6929492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9333909803,
+                              "lng":-87.6916011197
+                        },
+                        "southwest":{
+                              "lat":41.9306930197,
+                              "lng":-87.6942990803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Ravinia Brewing Company",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":747,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113011475341308992748\">Ravinia Brewing Company<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyxVM-7a2yDgjwT7EdZaOoU1a5RGW7mQnz8FpdgSGiKdWLfzj4DjdlEEiekPA2uvin7N-bc4fw1h3lzWLhzCtrHIHyk2g56xx4SoqOBezA2kJONjZoDW6bSh2dxmCyyLpTg8AvhEnYd7jWEXkqQnS7_-1H6JAQc41c8z7Rtr5pTqKT",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJdf10pzAtDogREJowKqDQ7wQ",
+            "plus_code":{
+                  "compound_code":"W8J4+QR Chicago, IL, USA",
+                  "global_code":"86HJW8J4+QR"
+            },
+            "rating":5.0,
+            "reference":"ChIJdf10pzAtDogREJowKqDQ7wQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2601 West Diversey Avenue, Chicago",
+            "price_level":null,
+            "CBG":170312109002,
+            "Radius":216.9439170647
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.932303,
+                        "lng":-87.692638
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9335696303,
+                              "lng":-87.6912893197
+                        },
+                        "southwest":{
+                              "lat":41.9308716697,
+                              "lng":-87.6939872803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ceviche Peruvian Seafood & Steakhouse",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":305,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101427897149705609636\">Ceviche Peruvian Seafood &amp; Steakhouse<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7rQj3YwfqgFR4Kuo2ltiYiE2zVnE8r2B-SvjZcc65fXnItqoV2XjH1-tnhu4hrKGUIYbnlfXel9Orn4RDXw9ny2UbYatPCZsjf-hWVDEwAUvIHSDYK5CIaAQqHSRCKcezlPSABSE94ENj6mQdVSLe2vttW41L7MEb33-KpfiHn3UM",
+                        "width":540
+                  }
+            ],
+            "place_id":"ChIJN5eatIbSD4gRiydIahv9qeo",
+            "plus_code":{
+                  "compound_code":"W8J4+WW Chicago, IL, USA",
+                  "global_code":"86HJW8J4+WW"
+            },
+            "rating":4.3,
+            "reference":"ChIJN5eatIbSD4gRiydIahv9qeo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":392,
+            "vicinity":"2554 West Diversey Avenue, Chicago",
+            "price_level":2.0,
+            "CBG":170312109002,
+            "Radius":216.9439170647
+      }
+]

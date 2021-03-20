@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8402527,
+                        "lng":-73.925628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8415548303,
+                              "lng":-73.9242955197
+                        },
+                        "southwest":{
+                              "lat":40.8388568697,
+                              "lng":-73.9269934803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"De La Gina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJkyeLoiT0wokRtywIpb5UvQo",
+            "plus_code":{
+                  "compound_code":"R3RF+4P The Bronx, NY, USA",
+                  "global_code":"87G8R3RF+4P"
+            },
+            "rating":4.3,
+            "reference":"ChIJkyeLoiT0wokRtywIpb5UvQo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"155 West 169th Street, The Bronx",
+            "CBG":360050201003,
+            "Radius":111.4527926902
+      }
+]

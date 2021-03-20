@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2210929,
+                        "lng":-118.3670075
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2223500303,
+                              "lng":-118.3657512197
+                        },
+                        "southwest":{
+                              "lat":34.2196520697,
+                              "lng":-118.3684491803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107987567247489108892\">Aswath Sasidharan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5-4mqr4SkyJ12yQv4ASkoVneW0M92Zv3bz5SXA10LaRcCMLwnwPkd_qhmy7FNbVi0n_GVw9bGhhz8IungawrrHJCRD2rG1yRZRxnv8hQo8RDFrShN6QMmGTlrflvFng6zhhj7yJ5A46qZQnQnaj9u4EtYR6wSY-5qfm9R6r1WtgJu",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNU1_KUCUwoAR8XgXL6osXRs",
+            "plus_code":{
+                  "compound_code":"6JCM+C5 Sun Valley, Los Angeles, CA, USA",
+                  "global_code":"85636JCM+C5"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJNU1_KUCUwoAR8XgXL6osXRs",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":895,
+            "vicinity":"8274 Sunland Boulevard, Sun Valley",
+            "CBG":60371222003,
+            "Radius":305.0831371601
+      }
+]

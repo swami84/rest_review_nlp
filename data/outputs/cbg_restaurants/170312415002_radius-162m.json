@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9081507,
+                        "lng":-87.6679754
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9093598803,
+                              "lng":-87.6664825197
+                        },
+                        "southwest":{
+                              "lat":41.9066619197,
+                              "lng":-87.6691804803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Carnicerias Guanajuato",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104197414107712900249\">Kyle Eldridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLjh9eGT350k6tkqxY9mJwui3sx9I4_tDZMW65RAWITeYNywHoHZyiYqn1NRdi8nKe91m2HpUod0y8hH58kICk7S4AxZkbutjIEqVSV8OvRJP3mVF0IVg5H3DLZsupH0EZH8NgdlN2teC8tPFqWlpyQ7WFYZE3ElobWm55uar7mi8dO",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJF1dc09rSD4gRB_vmpK9mw5g",
+            "plus_code":{
+                  "compound_code":"W85J+7R Chicago, IL, USA",
+                  "global_code":"86HJW85J+7R"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJF1dc09rSD4gRB_vmpK9mw5g",
+            "scope":"GOOGLE",
+            "types":[
+                  "supermarket",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":865,
+            "vicinity":"1436 North Ashland Avenue, Chicago",
+            "CBG":170312415002,
+            "Radius":161.7591653476
+      }
+]

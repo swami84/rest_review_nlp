@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":27.950159,
+                        "lng":-82.4696
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":27.9513859803,
+                              "lng":-82.4681084197
+                        },
+                        "southwest":{
+                              "lat":27.9486880197,
+                              "lng":-82.4708063803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Hooch and Hive",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3337,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107985003722541841950\">Hooch and Hive<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJ8BAJGBza6QEqy_3pSeGAODEdWrv5iGexqve42yt0kCI8ZVrQZGpDgchwi82lYp9XesX_uAhlcVXef8esgV-Ix6g36ZFDqewWhF1H9Wo7bvD_mqxHQa2YYl_fm7KHoYuVP32xB2VwaY9cNz7Q8d_7ElIi2XTq15CbcWIHa0gP7ji5",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJbczq-8XFwogR2B9FL28X16M",
+            "plus_code":{
+                  "compound_code":"XG2J+35 Tampa, FL, USA",
+                  "global_code":"76VVXG2J+35"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJbczq-8XFwogR2B9FL28X16M",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":379,
+            "vicinity":"1001 West Cass Street, Tampa",
+            "CBG":120570050002,
+            "Radius":399.4187319166
+      }
+]

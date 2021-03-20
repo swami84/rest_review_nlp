@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8392805,
+                        "lng":-73.858277
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8406979303,
+                              "lng":-73.8569985697
+                        },
+                        "southwest":{
+                              "lat":40.8379999697,
+                              "lng":-73.8596965303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Xin Xing Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1497,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106049584197170853545\">Xin Xing Chinese Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLIIb1InKHJFkkYMxnE0xW0TyYm-oEO0MVYyqlQu-JJy5vfbw5A8P8bNvZ7FJqFKpQo-upW_1VywcNifgO6xb_FXIF3WllT48T1mZjSuF7YBuWnIx_6aisCfcq9EeDNird1SIvpovZSOXvlpnqtAsuNpTRe4o359RMpgiL71hYhH-L3",
+                        "width":2659
+                  }
+            ],
+            "place_id":"ChIJf328LHr1wokRthN4r09KHs0",
+            "plus_code":{
+                  "compound_code":"R4QR+PM New York, NY, USA",
+                  "global_code":"87G8R4QR+PM"
+            },
+            "reference":"ChIJf328LHr1wokRthN4r09KHs0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1520 Metropolitan Avenue, The Bronx",
+            "CBG":360050210027,
+            "Radius":65.9257399348
+      }
+]

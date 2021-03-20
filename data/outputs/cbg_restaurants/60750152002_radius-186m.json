@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7866257,
+                        "lng":-122.4301597
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7879797303,
+                              "lng":-122.4287427697
+                        },
+                        "southwest":{
+                              "lat":37.7852817697,
+                              "lng":-122.4314407303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mums - Home of Shabu-Shabu",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":341,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105121082350881647460\">Mums - Home of Shabu-Shabu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK826LHVw4o4Oueyz_9TWXU0mIOeo8YFQvAL7BXkVCoqjK9CLPF-BecyMtDeNmF-8M09vQksjNK7mSAg9dWGoBjF78YWK-v1BjeD8ywkjEhGfsANi5r0hifN38hWNVZUjUYss65APlc8kmSfaTe40C2KaXPhMvyPGj6pXlGIMblNWmi",
+                        "width":576
+                  }
+            ],
+            "place_id":"ChIJN-rEybiAhYARmxERY8CNHAc",
+            "plus_code":{
+                  "compound_code":"QHP9+MW Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHP9+MW"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJN-rEybiAhYARmxERY8CNHAc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"1800 Sutter Street, San Francisco",
+            "opening_hours":null,
+            "CBG":60750152002,
+            "Radius":186.14922111
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7869427,
+                        "lng":-122.4299014
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7882704303,
+                              "lng":-122.4286426197
+                        },
+                        "southwest":{
+                              "lat":37.7855724697,
+                              "lng":-122.4313405803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jitlada Thai Cuisine",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100178218203739374741\">Yura Varvynets<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKgSDEAICQquRadO3Tp7axNVv2SIUp6Bsazhbego2qUj-adnNpKo2BoLB62JW3Ep5Fp2Vt3qulnDoOGvCDWHGq5Edrel9lx7h5lpraKIGum1rxkHXmgqzemqpJ0lHQ_C8FC_ok4hnwGAzKYv1dO-19pFst1LimFa3gAzI9R2zDIqGnJ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJHfxEtLiAhYARDECAdLP2408",
+            "plus_code":{
+                  "compound_code":"QHPC+Q2 Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHPC+Q2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJHfxEtLiAhYARDECAdLP2408",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":181,
+            "vicinity":"1826 Buchanan Street, San Francisco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60750152002,
+            "Radius":186.14922111
+      }
+]

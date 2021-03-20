@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8142624,
+                        "lng":-117.9070129
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8156965303,
+                              "lng":-117.9056658697
+                        },
+                        "southwest":{
+                              "lat":33.8129985697,
+                              "lng":-117.9083638303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Grand Palace",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104753210984505242108\">Claudia Jimenez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJYFXvru_svw-8TIrpXgsHKat_Gi71Q2fwdMIcdopm44Brb5yGtVGF5Yeca6AENajHU7AfX7qkFNWgN67aiTqtcHJp4iu4uDPDc2LS8aku_ReK7TQHLP_lp5_iy7RNTyMqq8skw_TC6N1IC62AONUCzOzCbuSY9690WYviPjdWjSwOJ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwdge0sjX3IAR8v6HL8yv2lo",
+            "plus_code":{
+                  "compound_code":"R37V+P5 Anaheim, CA, USA",
+                  "global_code":"8554R37V+P5"
+            },
+            "rating":4.4,
+            "reference":"ChIJwdge0sjX3IAR8v6HL8yv2lo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"1363 South Anaheim Boulevard, Anaheim",
+            "CBG":60590874032,
+            "Radius":347.1393908957
+      }
+]

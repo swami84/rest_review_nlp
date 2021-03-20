@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8249559,
+                        "lng":-122.2783378
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8262959303,
+                              "lng":-122.2769491197
+                        },
+                        "southwest":{
+                              "lat":37.8235979697,
+                              "lng":-122.2796470803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Latin Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115598469704475809199\">Freedom Funker<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKWkSrsv41pN4U_tEXEZEJ2ZDQW2T6aAckeKfDUuiyV7eJUisGvB0qHkNzwB93_WYxGJm1rF7NxsusAcWFKexTPzYCAv8r7WZ_sKppEiu5eXekNCopvxkdbsMqtiTunmMZa5wHKx_o_Q0a6k5XQk6BHSiuNbg8rvjUhLWgpw0MX7DM",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJQ2STZOJ_hYAR2Qbqy3oQiKk",
+            "plus_code":{
+                  "compound_code":"RPFC+XM Oakland, CA, USA",
+                  "global_code":"849VRPFC+XM"
+            },
+            "rating":4.0,
+            "reference":"ChIJQ2STZOJ_hYAR2Qbqy3oQiKk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"3331 Linden Street, Oakland",
+            "CBG":60014015001,
+            "Radius":228.5490151428
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.8258767,
+                        "lng":-122.2784328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.8272409303,
+                              "lng":-122.2770079197
+                        },
+                        "southwest":{
+                              "lat":37.8245429697,
+                              "lng":-122.2797058803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Magnolia Street Wine Lounge & Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100029813295177112993\">Fola Sawyerr<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLcyUsLZvOp3IbicsriWzKdGq88uCk2-FjakB7XLXhqNTKntqvPSAhedvdD-fNyYkhwkfCkZVV5e0ZxTXyi0BiXI1M6C5jJaFWxwEthe9DjmcqrWvNXCbR5X7-z9g4lBgiVjZiWNAkcCms9Knnd60jzwetnYqu1q1HqqV7SOzToxLmF",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ85Q0HIR_hYARMbD2GhtGs8A",
+            "plus_code":{
+                  "compound_code":"RPGC+9J Oakland, CA, USA",
+                  "global_code":"849VRPGC+9J"
+            },
+            "rating":4.8,
+            "reference":"ChIJ85Q0HIR_hYARMbD2GhtGs8A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"3443 San Pablo Avenue, Oakland",
+            "CBG":60014015001,
+            "Radius":228.5490151428
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8314893,
+                        "lng":-73.9188782
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8328986803,
+                              "lng":-73.9175117697
+                        },
+                        "southwest":{
+                              "lat":40.8302007197,
+                              "lng":-73.9202097303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Double Dragon Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKy4LUNq29d8qj1yiS1Kq4L2pNWPyw4vlXprGjhVfM7fN6aKMSOcKFRHqFm5k0RUG69LoBzIATmsWNeqWph4O2OxvacXTBAGYuW1CG5xAa8tQBjVqII3PemrHzfPESoeLBrLKug5zbR5cKxZY-suwqn4aEBJhUxkjgWAIyYAwRFccfZ",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ90Y2OzH0wokRw0Z6ES1LUZ8",
+            "plus_code":{
+                  "compound_code":"R3JJ+HC The Bronx, NY, USA",
+                  "global_code":"87G8R3JJ+HC"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ90Y2OzH0wokRw0Z6ES1LUZ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"183 East 166th Street, The Bronx",
+            "CBG":360050181022,
+            "Radius":96.2600684958
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8301607,
+                        "lng":-73.9189376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8315774303,
+                              "lng":-73.9175438197
+                        },
+                        "southwest":{
+                              "lat":40.8288794697,
+                              "lng":-73.9202417803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1206,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101534532822500828331\">Jiankai Ke<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ6ZmZbMPy9d6drcZ5yg0BDRRGIdmIS4iaQZ424NzMZ3969WyKHW82OyW8ruV2-mHMPolm9pM-UD-nifmhJvrZ_fhaauHuvxfXA3mRgIpp6f5HMfDQE0FjxrnWTejKr1JnEsvbD-RX21YSpUi8yXyMTsfevpKUGFA4vLbYSKAFiAKJU",
+                        "width":1720
+                  }
+            ],
+            "place_id":"ChIJ5buRUzH0wokRTx0VG9qvIyI",
+            "plus_code":{
+                  "compound_code":"R3JJ+3C New York, NY, USA",
+                  "global_code":"87G8R3JJ+3C"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJ5buRUzH0wokRTx0VG9qvIyI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"208 East 165th Street, The Bronx",
+            "CBG":360050181022,
+            "Radius":96.2600684958
+      }
+]

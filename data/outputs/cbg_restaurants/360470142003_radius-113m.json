@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.622899,
+                        "lng":-74.025112
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6241194303,
+                              "lng":-74.0236638197
+                        },
+                        "southwest":{
+                              "lat":40.6214214697,
+                              "lng":-74.0263617803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos El Nopal",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111654318848895716760\">Moe Thanks -555-<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKm-JJ_vY81SK47Hn_OF34LBR3Wou4yd_sUs8icx6IR1bbVLsMwVxWcEWvHwwPnCCseSa8I18jyVX3P5EF7GM8kZFjAEyqQPyL18KnfrqQu5-ZCvu8PmB_ZtyzJXSUjXnXGmjCDNJduc1Kj2TshDSDF-Yc9M5E6PtNfXHUABnwRGmj",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJS_6IG15FwokRjfiKDT5EbSE",
+            "plus_code":{
+                  "compound_code":"JXFF+5X Brooklyn, NY, USA",
+                  "global_code":"87G7JXFF+5X"
+            },
+            "rating":4.3,
+            "reference":"ChIJS_6IG15FwokRjfiKDT5EbSE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":191,
+            "vicinity":"8321 5th Avenue, Brooklyn",
+            "CBG":360470142003,
+            "Radius":113.3613987432
+      }
+]

@@ -1,0 +1,157 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6336494,
+                        "lng":-74.0052263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6349205803,
+                              "lng":-74.0037884697
+                        },
+                        "southwest":{
+                              "lat":40.6322226197,
+                              "lng":-74.0064864303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Yumi Delicacies",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJQBnKtHUoqO8oicWA1sZGF91StDo-SzVebDzUwgORSBdquQop1oME1HfPM9U3CAumqoOlNHi1ALIgsZAjTEWT-mwlblZ8zWzqoTIUvasVvO8pMBJpGxKwccN5EWDOjlpj5_nw_zC1ZzOiz0PFqaRUX7EmZrx8AnmbfE-N4fMfvwmK0",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJuUNfQ75FwokRlv8NALpaI7s",
+            "plus_code":{
+                  "compound_code":"JXMV+FW New York, NY, USA",
+                  "global_code":"87G7JXMV+FW"
+            },
+            "rating":5.0,
+            "reference":"ChIJuUNfQ75FwokRlv8NALpaI7s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5902 Fort Hamilton Parkway, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470116003,
+            "Radius":103.3914934011
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6338342,
+                        "lng":-74.0049059
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6351143803,
+                              "lng":-74.0034759697
+                        },
+                        "southwest":{
+                              "lat":40.6324164197,
+                              "lng":-74.0061739303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Xiang Hot Pot \u9999\u5929\u4e0b\u5e03\u9c81\u514b\u6797\u5e97",
+            "photos":[
+                  {
+                        "height":1367,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113202461844748089184\">Xiang Hot Pot<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLYNPWwNUI4Qu7tslqtZFiGTDDI7WBHoJxjUucnnbiJ5dXwg6LzUe6njwf_y_HuV32107wZ8oBtnrfQ7ALaTt88-gGNW83WhKVV0oxydYfmUM93QKnDlynDjwY3uPLqvRUMbt65DC_5IcnKXHNCtpG1ca8n8pkD6trYeUb8R79I3G8x",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJD5l6DchFwokRZKxRc9LcNqU",
+            "plus_code":{
+                  "compound_code":"JXMW+G2 Brooklyn, NY, USA",
+                  "global_code":"87G7JXMW+G2"
+            },
+            "rating":3.9,
+            "reference":"ChIJD5l6DchFwokRZKxRc9LcNqU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":203,
+            "vicinity":"5816 Fort Hamilton Parkway, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470116003,
+            "Radius":103.3914934011
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6341403,
+                        "lng":-74.004634
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6355649803,
+                              "lng":-74.0032070197
+                        },
+                        "southwest":{
+                              "lat":40.6328670197,
+                              "lng":-74.0059049803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"WW Cafe",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRXVqzePm16vFREqZv_bCQnmk6XsIcoLUVH91s5MCictsqKctnUQPady9Ou2EQfKRgkSA36Xz6ojnFM3awgG02Za6z0EbdrAblGFtR1BSvNs_1W7nOD_DiLTr03tkdksNrRW342Bk01NKAmB903AyIeuCS54_WyeVlFgY-xaDDLLxz",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ6eWZOkJFwokR70zeMMsAZG8",
+            "plus_code":{
+                  "compound_code":"JXMW+M4 Brooklyn, NY, USA",
+                  "global_code":"87G7JXMW+M4"
+            },
+            "rating":4.8,
+            "reference":"ChIJ6eWZOkJFwokR70zeMMsAZG8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"968 58th Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470116003,
+            "Radius":103.3914934011
+      }
+]

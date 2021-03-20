@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3697865,
+                        "lng":-71.0688177
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3709478803,
+                              "lng":-71.0676025197
+                        },
+                        "southwest":{
+                              "lat":42.3682499197,
+                              "lng":-71.0703004803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lingo Cafe + Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100238974252910946993\">David Gr\u00f6mling<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLZ_APpBcUR7cxNnnLLELh_9-AHD6ykPP73m6_-FJWDQxYiXTG1o9IRAU_CRdKbt5W0NxL7mKeyw70figRy3F9XL4tTooXRbadEpBWThde99z29bwvweoW5QFfmBEXWSDg4Qg97lLKqfnyHgddBdJ_jFmXiUsWW3zxU2iHGLA1B3z9",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ3YqhypVw44kRNxclVovTImc",
+            "plus_code":{
+                  "compound_code":"9W9J+WF Cambridge, MA, USA",
+                  "global_code":"87JC9W9J+WF"
+            },
+            "rating":4.4,
+            "reference":"ChIJ3YqhypVw44kRNxclVovTImc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"2 Education Circle, Cambridge",
+            "CBG":250173521012,
+            "Radius":267.8641192365
+      }
+]

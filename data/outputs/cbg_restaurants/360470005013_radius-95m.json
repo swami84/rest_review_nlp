@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6947292,
+                        "lng":-73.9947737
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6961634303,
+                              "lng":-73.9933837697
+                        },
+                        "southwest":{
+                              "lat":40.6934654697,
+                              "lng":-73.9960817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Saketumi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114744492143843299209\">Sergio Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwk_h50BEJBpo7LlAKsPmQNwhaxpOowsQZCsGA4z_-paoFf1alyptY69wI_c3YQgv-j8EODsMsdaSTQHpsOP0UT07xuTZL6tCy_GTjZsIQ5u_rR_rg92IQnwysOFKk7b_aHmzOd9UQKL8gmQ3mPmI82RKKFLFExFbVQfmEnhcGclr1",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJRdkGKkZawokRqaWvmkOoeBE",
+            "plus_code":{
+                  "compound_code":"M2V4+V3 Brooklyn, NY, USA",
+                  "global_code":"87G8M2V4+V3"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJRdkGKkZawokRqaWvmkOoeBE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":222,
+            "vicinity":"118 Montague Street, Brooklyn",
+            "CBG":360470005013,
+            "Radius":95.0471087397
+      }
+]

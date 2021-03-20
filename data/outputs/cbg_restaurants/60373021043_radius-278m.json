@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1481945,
+                        "lng":-118.2353026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1494775803,
+                              "lng":-118.2338231197
+                        },
+                        "southwest":{
+                              "lat":34.1467796197,
+                              "lng":-118.2365210803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2968,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104195080820764518056\">Armen Parsighian<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAmOTqfckVKTXxFhdpbXhs7J7ZzUWzissi_1H3aTsUnPyVhH2FBPccorKtm4Yc6EgE9k3lv8BE-AZ1uAQEjfldNc1V5vEQbP5-mv6ZDM5j6AMzTrXaoYHc9sMsc0kFk_GaQIsPCreX5d735gODUVnt7UxFc0Qk0yYGMCwbrwT9O8r0",
+                        "width":3541
+                  }
+            ],
+            "place_id":"ChIJU9z3YAnBwoARM4vp2A4eTvI",
+            "plus_code":{
+                  "compound_code":"4QX7+7V Glendale, CA, USA",
+                  "global_code":"85634QX7+7V"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJU9z3YAnBwoARM4vp2A4eTvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":257,
+            "vicinity":"200 North Verdugo Road, Glendale",
+            "CBG":60373021043,
+            "Radius":278.3702486121
+      }
+]

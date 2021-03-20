@@ -1,0 +1,50 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8299717,
+                        "lng":-73.9126971
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8313600303,
+                              "lng":-73.9114625197
+                        },
+                        "southwest":{
+                              "lat":40.8286620697,
+                              "lng":-73.9141604803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"B.O.P BURGER",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103844933951907832266\">B.O.P BURGER<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJX5wBhUuNADbAFXOOSQc3ptKFp1sa0V-p0R6fFu4HctNug-U7DrU90nNbKUH7Xq9JRO64PtZn6NXUKU8o9sglq4NOSK37yU_mLh2_MYO2jHsjrpedCU8_1Dz5pT0NLg6_g2IjqWvLUiQ3Lh-oV4MEEGrNAac6K9mvtrIJDdP5DV9RN",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJRZOZDsr1wokRWA5ykJAj_tg",
+            "plus_code":{
+                  "compound_code":"R3HP+XW The Bronx, NY, USA",
+                  "global_code":"87G8R3HP+XW"
+            },
+            "reference":"ChIJRZOZDsr1wokRWA5ykJAj_tg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"The Bronx, 1100 Teller Avenue #4k, The Bronx",
+            "CBG":360050175006,
+            "Radius":64.8376331063
+      }
+]

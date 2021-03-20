@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.91183,
+                        "lng":-77.01187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9132727303,
+                              "lng":-77.0105832197
+                        },
+                        "southwest":{
+                              "lat":38.9105747697,
+                              "lng":-77.0132811803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Glassey",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113463094228935333063\">Keshia Alfred<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKiAKIPTTYOg6qcwJufKxho6CNffQkOU87YblCbGTVi7jVOcvZONIRpU3JbYaCEB7hegWgJsYEBIeJClFjBdQJHnuMKIlYpqtPP8aYiS84PZppdCR11xWgeGWiMW2DP9p1CJXYTgyT_0aeI3-ojfIUxxwcx7Xb-bPljbLeXQ8TkFkTh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJc3bot_e3t4kRXMNW2YdP3mA",
+            "plus_code":{
+                  "compound_code":"WX6Q+P7 Washington, DC, USA",
+                  "global_code":"87C4WX6Q+P7"
+            },
+            "rating":3.9,
+            "reference":"ChIJc3bot_e3t4kRXMNW2YdP3mA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"1625 1st Street Northwest, Washington",
+            "CBG":110010046002,
+            "Radius":307.0373415918
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":38.9126548,
+                        "lng":-77.0136686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":38.9140478303,
+                              "lng":-77.0122894697
+                        },
+                        "southwest":{
+                              "lat":38.9113498697,
+                              "lng":-77.0149874303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Soul Wingz Food Truck Park",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113977151376667547285\">Soul Wingz Food Truck Park<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLxCud6YKc1IPTUAAb0IiWJk7VzRH-KWhW5fX6Ss4-Yqm7Hee4K-gmPu7o5t5ZL5hgz6sG7OMvef_3GyCPZlt4Mc7dg3YCEuaju35F0LPqauDayeRamg0qIeVNM6bzGVKrybvsYY4Js5g_1EvWgcUZ1Hs9FfH2mJxZIFjKPjFS9c60r",
+                        "width":3072
+                  }
+            ],
+            "place_id":"ChIJx-OIUHK3t4kRwi2HIBsfYss",
+            "plus_code":{
+                  "compound_code":"WX7P+3G Washington, DC, USA",
+                  "global_code":"87C4WX7P+3G"
+            },
+            "rating":4.8,
+            "reference":"ChIJx-OIUHK3t4kRwi2HIBsfYss",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"200 Florida Avenue Northwest, Washington",
+            "CBG":110010046002,
+            "Radius":307.0373415918
+      }
+]

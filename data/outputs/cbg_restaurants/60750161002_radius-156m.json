@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7789603,
+                        "lng":-122.4319977
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7802783803,
+                              "lng":-122.4305665697
+                        },
+                        "southwest":{
+                              "lat":37.7775804197,
+                              "lng":-122.4332645303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Folklores Coffee Roasters",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2976,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115115638765360127010\">Carolyn Hanrahan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9BcOrHGRqwyW9sWrgMS0bjeYlFJJ7ehgXD0WIiMj4DtxYRVHLHUO87pRX9eoCv4EvOSx4z-QM5QShyW4fQimU9m-hqVbFGWIK8Y8oPplbkMpDaaV5JUcMS0WpvmAXd7moMPcP8vZFdYfi-kg18fCLxaQ_Cpdo0tI_2KM52nDkEXTM",
+                        "width":3968
+                  }
+            ],
+            "place_id":"ChIJIzR4GLuAhYARqQO-aV5JEo4",
+            "plus_code":{
+                  "compound_code":"QHH9+H6 Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHH9+H6"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJIzR4GLuAhYARqQO-aV5JEo4",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":166,
+            "vicinity":"1035 Fillmore Street, San Francisco",
+            "CBG":60750161002,
+            "Radius":156.3884270173
+      }
+]
