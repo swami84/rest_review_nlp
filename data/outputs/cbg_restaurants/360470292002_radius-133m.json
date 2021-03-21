@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5990436,
+                        "lng":-73.9978034
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6003925803,
+                              "lng":-73.9964544197
+                        },
+                        "southwest":{
+                              "lat":40.5976946197,
+                              "lng":-73.9991523803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gyro Mania",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2930,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114614656944549190016\">Ye Aung<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI9WVLoAb1oP_Q2uJk0sCF86a4vRr5R1dLHdLY_AbaMhXhKGrHBJ0gbgQTLG2ESqj9TclXXSZmvn9oqmgN77im_XYbdj8Ek_iUT1KY3w1Saf5uXxBkGcxsPlYHnklMlZwSTIBw02fNZHwXT_DVsTuQLtEtGfm5OOVC_md1mi3UQdCi3",
+                        "width":3910
+                  }
+            ],
+            "place_id":"ChIJ22kI1QlFwokRcoOSIeAOS4U",
+            "plus_code":{
+                  "compound_code":"H2X2+JV Brooklyn, NY, USA",
+                  "global_code":"87G8H2X2+JV"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ22kI1QlFwokRcoOSIeAOS4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":261,
+            "vicinity":"2151 Bath Avenue, Brooklyn",
+            "CBG":360470292002,
+            "Radius":132.7860667592
+      }
+]

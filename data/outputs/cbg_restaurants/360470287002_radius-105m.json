@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6945207,
+                        "lng":-73.9346533
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6958372803,
+                              "lng":-73.9331523697
+                        },
+                        "southwest":{
+                              "lat":40.6931393197,
+                              "lng":-73.9358503303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sugar hill",
+            "place_id":"ChIJ2frxtWddwokRL467bJ4REyU",
+            "plus_code":{
+                  "compound_code":"M3V8+R4 Brooklyn, NY, USA",
+                  "global_code":"87G8M3V8+R4"
+            },
+            "reference":"ChIJ2frxtWddwokRL467bJ4REyU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"50 Stuyvesant Avenue, Brooklyn",
+            "CBG":360470287002,
+            "Radius":105.2587868465
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6960318,
+                        "lng":-73.9352139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6973807803,
+                              "lng":-73.9338649197
+                        },
+                        "southwest":{
+                              "lat":40.6946828197,
+                              "lng":-73.9365628803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Checkers Crazy Good Food",
+            "place_id":"ChIJL7WKzQlcwokRLpS1Q6UTalU",
+            "plus_code":{
+                  "compound_code":"M3W7+CW New York, NY, USA",
+                  "global_code":"87G8M3W7+CW"
+            },
+            "reference":"ChIJL7WKzQlcwokRLpS1Q6UTalU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"390 Vernon Avenue, Brooklyn",
+            "CBG":360470287002,
+            "Radius":105.2587868465
+      }
+]

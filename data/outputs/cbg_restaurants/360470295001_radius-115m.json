@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6854902,
+                        "lng":-73.9297937
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6868532803,
+                              "lng":-73.9283400697
+                        },
+                        "southwest":{
+                              "lat":40.6841553197,
+                              "lng":-73.9310380303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crab Bros - Cajun Seafood Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103624819303730920708\">Crab Bros - Cajun Seafood Express<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUR5mVIHvAFIMXOe9jp6qjSJG4MlmQ4EMzUBqh3pskepLZZ3fAdPwvy-srvf0tTzFWglO7MrdIRzp06ZhHPbdmDQdHdDuJWbZu6eocEpqy4HZe2Lp-vyFNLNxNjplJw6mso4yoo1c8se5JsolAgFRQRwQipQBDd1FZCtnLim3M5GZD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJiW0KyohdwokRCw9aY2FDSwo",
+            "plus_code":{
+                  "compound_code":"M3PC+53 New York, NY, USA",
+                  "global_code":"87G8M3PC+53"
+            },
+            "rating":4.6,
+            "reference":"ChIJiW0KyohdwokRCw9aY2FDSwo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"222 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470295001,
+            "Radius":114.5026894969
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6859057,
+                        "lng":-73.9298626
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6872648803,
+                              "lng":-73.9284142697
+                        },
+                        "southwest":{
+                              "lat":40.6845669197,
+                              "lng":-73.9311122303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cheri's Bedstuy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115678031198454969739\">Cecily McGuckin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ9WuaAgKpgzWppTT6oHyoSY5DhmTh2L1awbvxYO3K8qCVzGsYkUP-eAdcnIOiABSV8ybY61bZqsmQHX6z2I05LYJRyH-9HJHRN12HATbWp5jF-Z8rv0ysfJkYfmG3gX4eoS_a83ABuZbDqXkbUahUKSSSIBN1ZQs9xQvmC_yM4TcoG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJbextRwRdwokRpuU96CLH3O8",
+            "plus_code":{
+                  "compound_code":"M3PC+93 Brooklyn, NY, USA",
+                  "global_code":"87G8M3PC+93"
+            },
+            "rating":4.4,
+            "reference":"ChIJbextRwRdwokRpuU96CLH3O8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"216 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470295001,
+            "Radius":114.5026894969
+      }
+]

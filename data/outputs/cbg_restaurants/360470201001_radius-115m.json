@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.684965,
+                        "lng":-73.9629488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6862324803,
+                              "lng":-73.9615815697
+                        },
+                        "southwest":{
+                              "lat":40.6835345197,
+                              "lng":-73.9642795303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Locanda Vini & Olii",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":667,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100204422329191801656\">Locanda Vini &amp; Olii<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKOzlbIhHJJnYuQuj5_nR4xTSSEfLHZ7wIq53wSsRceeWXn5FQx_xtKruZLMtCvflvjZ4zXq9wrt47G-ZfjUjhd6LLhZUjgQX67OXHGepRq_VSrAzLQ8H7H05Eaycgypcqi73AS9hG-S0Q6OtRBicLV7FEjUhkw-mE6nvNkt7udZ30x",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJ0Wca-7xbwokRFg1cpaHFp2c",
+            "plus_code":{
+                  "compound_code":"M2MP+XR New York, NY, USA",
+                  "global_code":"87G8M2MP+XR"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ0Wca-7xbwokRFg1cpaHFp2c",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":455,
+            "vicinity":"129 Gates Avenue, Brooklyn",
+            "CBG":360470201001,
+            "Radius":115.4412404856
+      }
+]

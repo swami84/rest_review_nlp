@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6905597,
+                        "lng":-73.9334061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6918996303,
+                              "lng":-73.9321363197
+                        },
+                        "southwest":{
+                              "lat":40.6892016697,
+                              "lng":-73.9348342803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Greene Market",
+            "place_id":"ChIJUR2domJdwokRyn6eyg0o_Hs",
+            "plus_code":{
+                  "compound_code":"M3R8+6J New York, NY, USA",
+                  "global_code":"87G8M3R8+6J"
+            },
+            "reference":"ChIJUR2domJdwokRyn6eyg0o_Hs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"137 Stuyvesant Avenue, Brooklyn",
+            "CBG":360470291001,
+            "Radius":161.8830893566
+      }
+]

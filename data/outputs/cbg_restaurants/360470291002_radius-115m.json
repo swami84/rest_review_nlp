@@ -1,0 +1,91 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.689694,
+                        "lng":-73.933393
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6910383303,
+                              "lng":-73.9320851197
+                        },
+                        "southwest":{
+                              "lat":40.6883403697,
+                              "lng":-73.9347830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sal\u2019s Pizzeria",
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100890388920468425453\">Alessandro Petrini<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAGdI1axq4gIVk_wFJDBX3k9vfiLZMpouTgOKJ4MzanQqY8WQ7s4g61Dg-4NiOi7gCFl7npepsf54eSsHDQdkmO8Dqone4STVijtqGlavqxtM3TRTRzA0l3UdoJIPjWaDry7pULiWLvAN3MVKEUfP1x2-okjvS9_SIa1G1hKVm77KR",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJSaxUjxtdwokRqVzTo1EXtEU",
+            "plus_code":{
+                  "compound_code":"M3Q8+VJ Brooklyn, NY, USA",
+                  "global_code":"87G8M3Q8+VJ"
+            },
+            "rating":3.5,
+            "reference":"ChIJSaxUjxtdwokRqVzTo1EXtEU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8.0,
+            "vicinity":"Lexington Ave &, Stuyvesant Avenue, Brooklyn",
+            "CBG":360470291002,
+            "Radius":114.5638317141
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6905597,
+                        "lng":-73.9334061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6918996303,
+                              "lng":-73.9321363197
+                        },
+                        "southwest":{
+                              "lat":40.6892016697,
+                              "lng":-73.9348342803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Greene Market",
+            "photos":null,
+            "place_id":"ChIJUR2domJdwokRyn6eyg0o_Hs",
+            "plus_code":{
+                  "compound_code":"M3R8+6J New York, NY, USA",
+                  "global_code":"87G8M3R8+6J"
+            },
+            "rating":null,
+            "reference":"ChIJUR2domJdwokRyn6eyg0o_Hs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"137 Stuyvesant Avenue, Brooklyn",
+            "CBG":360470291002,
+            "Radius":114.5638317141
+      }
+]

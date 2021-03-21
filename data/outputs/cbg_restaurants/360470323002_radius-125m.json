@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.665832,
+                        "lng":-73.9538967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6671809803,
+                              "lng":-73.9525477197
+                        },
+                        "southwest":{
+                              "lat":40.6644830197,
+                              "lng":-73.9552456803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wing Hing",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116165145385916723874\">A McCarthy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIRwUpPnf1PnsjaIiO3Bywn6YIpOr56X-cCV_z5CnUaOsZgl4hsUWhK-ED47ZxbC1L_xhlpZp6sONDbK6r6EqCZyWypi15--f9gZdJf6WmF5UQm3z9d4M5JbcNC905BFLjYgMqkhKIDokMNLRVUxueUp-2zLjswUouf0v3cV-YYt4Pd",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJw8rf4HNbwokR-_ytGRAOsTA",
+            "plus_code":{
+                  "compound_code":"M28W+8C New York, NY, USA",
+                  "global_code":"87G8M28W+8C"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJw8rf4HNbwokR-_ytGRAOsTA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"312 Rogers Avenue, Brooklyn",
+            "CBG":360470323002,
+            "Radius":125.3796316755
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6662162,
+                        "lng":-73.9537482
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6675619303,
+                              "lng":-73.9523386197
+                        },
+                        "southwest":{
+                              "lat":40.6648639697,
+                              "lng":-73.9550365803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Joenise Restaurant Inc.",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJBeDC4nNbwokRFe6b0odbQI4",
+            "plus_code":{
+                  "compound_code":"M28W+FG New York, NY, USA",
+                  "global_code":"87G8M28W+FG"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJBeDC4nNbwokRFe6b0odbQI4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"United States",
+            "CBG":360470323002,
+            "Radius":125.3796316755
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6788908,
+                        "lng":-73.9186806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6801499303,
+                              "lng":-73.9173404197
+                        },
+                        "southwest":{
+                              "lat":40.6774519697,
+                              "lng":-73.9200383803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"DABAKH-KINE",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJnIemrxkmIDdGCZVqFMe6-zMtNOe3-lt56amYU8lF4JNZn9EYKmE3pWc6t4fnFCbBIwZGu5ub5Tw0rWvQ_2buMITQYcEnuh823ru9xpu5KptC5GMi9B_8OnqrlGpT6HwM6xBzqUi0fr1jq6y3--9PfbIH5xvwxlvtS-UDtXp6B7lCT",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJY9_UjU1dwokRWmftESk6P2A",
+            "plus_code":{
+                  "compound_code":"M3HJ+HG New York, NY, USA",
+                  "global_code":"87G8M3HJ+HG"
+            },
+            "rating":4.5,
+            "reference":"ChIJY9_UjU1dwokRWmftESk6P2A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"1933 Fulton Street, Brooklyn",
+            "CBG":360470301003,
+            "Radius":172.7452320904
+      }
+]

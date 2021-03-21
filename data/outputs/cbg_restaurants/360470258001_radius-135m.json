@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6120466,
+                        "lng":-73.9836679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6133319803,
+                              "lng":-73.9822040697
+                        },
+                        "southwest":{
+                              "lat":40.6106340197,
+                              "lng":-73.9849020303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Torre's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":700,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101411682322713455507\">Torre&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKdG4Tl0eeFZbU5NPska4frYPx-4JxCpKGwHlHHXaX0d5FDZj7Qn0sWMv_Zrg_dCe-rlUkxd6PGO0NTvQjKu7uNkB2AZlZJYz4Daho-uaOQj6yDlT2EbJZeDaa8XMkoE1tJpS-AfzovdyTSZdJSwvp6as8OgVWrDhSZMDpcxzcd5B9R",
+                        "width":525
+                  }
+            ],
+            "place_id":"ChIJeVkHBh5FwokR5GV1RQV2ObI",
+            "plus_code":{
+                  "compound_code":"J268+RG Brooklyn, NY, USA",
+                  "global_code":"87G8J268+RG"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJeVkHBh5FwokR5GV1RQV2ObI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":196,
+            "vicinity":"6808 Bay Parkway, Brooklyn",
+            "CBG":360470258001,
+            "Radius":134.9498555695
+      }
+]

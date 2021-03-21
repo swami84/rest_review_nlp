@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6137294,
+                        "lng":-73.9960737
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6149920803,
+                              "lng":-73.9948153197
+                        },
+                        "southwest":{
+                              "lat":40.6122941197,
+                              "lng":-73.9975132803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"bp",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107060265637502760972\">Saad Asif<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLHLdIFy7lnuOjt6nk1vY45PrOymdjnHQgsH547l4BYWgNeUtIetHjBxxrOqgXPSFMYpjN9bHFV5WCz-yY4f8RfUHKd0rn0tNGG8xpsZ7n5UwiJnKbv9uqAwvoovDwLOzBGGK7WoXk8AbhG56rXmLEvo8CO4Lv_13OXeVVL-vtt88wk",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ-hPShdFwokRxwEuDIyJk3s",
+            "plus_code":{
+                  "compound_code":"J273+FH New York, NY, USA",
+                  "global_code":"87G8J273+FH"
+            },
+            "rating":4.1,
+            "reference":"ChIJZ-hPShdFwokRxwEuDIyJk3s",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "car_wash",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":89,
+            "vicinity":"1781 Bay Ridge Parkway, Brooklyn",
+            "CBG":360470264002,
+            "Radius":116.0462681639
+      }
+]

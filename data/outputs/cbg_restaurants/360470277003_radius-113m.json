@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6859484,
+                        "lng":-73.9388842
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6872973803,
+                              "lng":-73.9375352197
+                        },
+                        "southwest":{
+                              "lat":40.6845994197,
+                              "lng":-73.9402331803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Boca Santa",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110955860254779406592\">Mitchell Bayne<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJPmansTZFD7r5kKH4zV35K92XOgjCVabz4xocQ9gjOfga7JUCRtUh2Al511QdBOZheWqfVq-vXnBFGRuhXKIBuEm8z233EJU7KxDRvjCEilmfzRgcz8hPcPMwraXXWakDr3z5EAciHP74UTE7lDxgiojFucjArgpCFrpzV5n3hXN3m",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJv4xiOxFbwokR31nDc3gqgXo",
+            "plus_code":{
+                  "compound_code":"M3P6+9C New York, NY, USA",
+                  "global_code":"87G8M3P6+9C"
+            },
+            "rating":4.9,
+            "reference":"ChIJv4xiOxFbwokR31nDc3gqgXo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"480A Madison Street, Brooklyn",
+            "CBG":360470277003,
+            "Radius":112.7179626636
+      }
+]

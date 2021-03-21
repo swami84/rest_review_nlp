@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6803509,
+                        "lng":-73.9455406
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6816120303,
+                              "lng":-73.9441947697
+                        },
+                        "southwest":{
+                              "lat":40.6789140697,
+                              "lng":-73.9468927303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wing Cheong",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115907149127057429996\">Bronson Kurtz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9SeoXJl7Z-08DDrNOqextx_viCysIouSmtBpturxZQJgo9YR7zndeCXwaofcoCs_DXrqrUtiP_boWSWMumiAHthbuZg_QxDe5NQrPnKFhTOjRG46pCs341NXyPN2a8ExemzFnrdeL8xH70dKTfo02bMkFWmCaxeoZMONE6MhqSuQK",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ7WyyfIVbwokR4jvvnC7LPkw",
+            "plus_code":{
+                  "compound_code":"M3J3+4Q Brooklyn, NY, USA",
+                  "global_code":"87G8M3J3+4Q"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ7WyyfIVbwokR4jvvnC7LPkw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":189,
+            "vicinity":"1389 Fulton Street, Brooklyn",
+            "CBG":360470269003,
+            "Radius":138.812423652
+      }
+]

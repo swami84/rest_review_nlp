@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.689694,
+                        "lng":-73.933393
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6910383303,
+                              "lng":-73.9320851197
+                        },
+                        "southwest":{
+                              "lat":40.6883403697,
+                              "lng":-73.9347830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sal\u2019s Pizzeria",
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100890388920468425453\">Alessandro Petrini<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLdUXkHK1HOh0ilj03c_Mu49HByeCJi1J1LTLiosc8W4V2Q9t619YTlPWlDGbpyNXLQrq-qs-o3C6n3XvHmVKaEgfCLehf_CFAwR8_cuu84wAzFTeCxPwUnDEN6P7DYKUKjzeCRSPMMBTexraSF2Z86fXZSm6uCC2o2pb56lmTGRmqs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJSaxUjxtdwokRqVzTo1EXtEU",
+            "plus_code":{
+                  "compound_code":"M3Q8+VJ Brooklyn, NY, USA",
+                  "global_code":"87G8M3Q8+VJ"
+            },
+            "rating":3.5,
+            "reference":"ChIJSaxUjxtdwokRqVzTo1EXtEU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"Lexington Ave &, Stuyvesant Avenue, Brooklyn",
+            "CBG":360470291003,
+            "Radius":114.3538663282
+      }
+]

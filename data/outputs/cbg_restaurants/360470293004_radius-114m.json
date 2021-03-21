@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6868837,
+                        "lng":-73.932965
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6881684303,
+                              "lng":-73.9316001697
+                        },
+                        "southwest":{
+                              "lat":40.6854704697,
+                              "lng":-73.9342981303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Madison Food Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":400,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102535641694637999078\">mohammed alrayaani<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK8r9_9AjTlBgjpzx7oxK4dhLK55ySqN5N89e0VHA7oOd0jDUZ5tDZUIX7Qs9rpJojJ6swB6LxIpFJo0jIUfx46aDyiSbwyfBcHQzKiWRknZqrLJrLZhs1xZP7DlIFWdtg_G_UWp_-ldRCx21n_YTMYN6g79EfzLeGF88cNNzN4ZNHL",
+                        "width":400
+                  }
+            ],
+            "place_id":"ChIJ_XeQ4nRcwokR6jMXRACmhug",
+            "plus_code":{
+                  "compound_code":"M3P8+QR Brooklyn, NY, USA",
+                  "global_code":"87G8M3P8+QR"
+            },
+            "rating":4.4,
+            "reference":"ChIJ_XeQ4nRcwokR6jMXRACmhug",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"613 Madison Street, Brooklyn",
+            "CBG":360470293004,
+            "Radius":114.3399477232
+      }
+]

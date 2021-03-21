@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6873087,
+                        "lng":-73.9724778
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6887280303,
+                              "lng":-73.9711429197
+                        },
+                        "southwest":{
+                              "lat":40.6860300697,
+                              "lng":-73.9738408803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Pink Tea Cup",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1256,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109748204675373717638\">Bruna Ricaldoni<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIkhkYWvE3EFqY28vGr78O6SXTPgf5VYZrfO9hSV9F4SnECDipWfJ78ZsLn53bcGTRyNdjRMQk3CDOD_ZIf1vIS1ic80pjg39Ump1dXFBr5_TBbGFhj-ant7CUhtjzccI6cK1U8TP-UqkBv_bUgPqQAbXP6Tf9GBHahlQv1J0u7PdRY",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ72u6gpNZwokR84q4UwO3LJM",
+            "plus_code":{
+                  "compound_code":"M2PH+W2 Brooklyn, NY, USA",
+                  "global_code":"87G8M2PH+W2"
+            },
+            "price_level":2,
+            "rating":3.4,
+            "reference":"ChIJ72u6gpNZwokR84q4UwO3LJM",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":625,
+            "vicinity":"120 Lafayette Avenue, Brooklyn",
+            "CBG":360470181001,
+            "Radius":102.7413862357
+      }
+]

@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.673597,
+                        "lng":-73.9674625
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6749288303,
+                              "lng":-73.9660055697
+                        },
+                        "southwest":{
+                              "lat":40.6722308697,
+                              "lng":-73.9687035303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cheryl's Global Soul",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2584,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114360485887435736464\">S\u00e9bastien Cailluet<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKKibc3eFZyjiUbUS1E97no9263juYw53YBIe2kCvGUGx4akfoFhJcPHjvU8FBGkCEopNtCIF6Bwt8UiV6bmwEhu20P2u0hI1ZkKM1n_jo_MH1hhhdhj4KyZ4gL1cLk2MMtx-JLA_TwzLoSuajtyLLms2gNpadYrGAabxgK_3gPEbl6",
+                        "width":4592
+                  }
+            ],
+            "place_id":"ChIJn3Sg2QlbwokR7c0TqJW-qRE",
+            "plus_code":{
+                  "compound_code":"M2FM+C2 New York, NY, USA",
+                  "global_code":"87G8M2FM+C2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJn3Sg2QlbwokR7c0TqJW-qRE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":875,
+            "vicinity":"236 Underhill Avenue, Brooklyn",
+            "CBG":360470207002,
+            "Radius":110.5019707693
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6747019,
+                        "lng":-73.9670249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6760327303,
+                              "lng":-73.9655873197
+                        },
+                        "southwest":{
+                              "lat":40.6733347697,
+                              "lng":-73.9682852803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hood Hing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104521650013252547074\">Dima<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI0RJQ27MuHsU03YsBzcLsXCv9NZnLhsWiqVq4UBlTHtJfSWUUhgs8azI_RyHiw4cdm4ARy1aqdzFG8r1ANxCCVEmuDiycujUeBoKPnaUbDBmlArOD4tMfQa4o36TwpTGGg0nOjVtUAYGBbS4vPCq0x4SBAx6aF_4OgM2a3JSLha9ms",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJpYcvaqdbwokR3XDq9s5byn8",
+            "plus_code":{
+                  "compound_code":"M2FM+V5 Brooklyn, NY, USA",
+                  "global_code":"87G8M2FM+V5"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJpYcvaqdbwokR3XDq9s5byn8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"198 Underhill Avenue, Brooklyn",
+            "CBG":360470207002,
+            "Radius":110.5019707693
+      }
+]

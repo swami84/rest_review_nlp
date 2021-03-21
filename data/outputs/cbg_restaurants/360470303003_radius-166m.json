@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6741103,
+                        "lng":-73.9193079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6754592803,
+                              "lng":-73.9179589197
+                        },
+                        "southwest":{
+                              "lat":40.6727613197,
+                              "lng":-73.9206568803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Ooh La La Lounge and Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103321974965355855369\">DJScratchy Page<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLLVQtzFuJv6f9izGwTllHjPaEaYnL0R8ws11ZUedSXohe8j2_gfVewPKKWWLW-v9KUxeQqidPQT98Lftc7ynhsWHW9XbjokzTPoGvglArr031Wvsj9HeWWM5umHX8ogkIDyw6Q9Fi300_T1nqeABGyAaPzvNmwel4xlAx4GFTIZFzq",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJ96qHNGRcwokR53mDj95tW3I",
+            "plus_code":{
+                  "compound_code":"M3FJ+J7 New York, NY, USA",
+                  "global_code":"87G8M3FJ+J7"
+            },
+            "price_level":2,
+            "rating":3.7,
+            "reference":"ChIJ96qHNGRcwokR53mDj95tW3I",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "night_club",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":126,
+            "vicinity":"391 Howard Avenue, Brooklyn",
+            "CBG":360470303003,
+            "Radius":166.1440138249
+      }
+]

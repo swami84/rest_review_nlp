@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6757038,
+                        "lng":-73.9559106
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6770794803,
+                              "lng":-73.9546733197
+                        },
+                        "southwest":{
+                              "lat":40.6743815197,
+                              "lng":-73.9573712803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Latin sports club",
+            "place_id":"ChIJF8mDmJtbwokRX17htqXcadY",
+            "plus_code":{
+                  "compound_code":"M2GV+7J New York, NY, USA",
+                  "global_code":"87G8M2GV+7J"
+            },
+            "reference":"ChIJF8mDmJtbwokRX17htqXcadY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"665 Franklin Avenue, Brooklyn",
+            "CBG":360470221002,
+            "Radius":128.2883250933
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6757396,
+                        "lng":-73.9559131
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6771109303,
+                              "lng":-73.9546695697
+                        },
+                        "southwest":{
+                              "lat":40.6744129697,
+                              "lng":-73.9573675303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Restaurant Des amoureux",
+            "place_id":"ChIJ95gXkgFbwokRGZYTp45_Bbw",
+            "plus_code":{
+                  "compound_code":"M2GV+7J Brooklyn, NY, USA",
+                  "global_code":"87G8M2GV+7J"
+            },
+            "reference":"ChIJ95gXkgFbwokRGZYTp45_Bbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"667 Franklin Avenue, Brooklyn",
+            "CBG":360470221002,
+            "Radius":128.2883250933
+      }
+]

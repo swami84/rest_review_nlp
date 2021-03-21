@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.693699,
+                        "lng":-73.9651648
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6949709803,
+                              "lng":-73.9638008197
+                        },
+                        "southwest":{
+                              "lat":40.6922730197,
+                              "lng":-73.9664987803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Pollitos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116914333854916522494\">Donnie Bethea<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4LEBAkJ0m0aBOfBub3NaN3diGbm6D5hCUzidTsB3e7bbak6-C9jYNN03J_04kdZLRNIy94YvMFp2_XBcUH_qmQu4ErLO1eq7xRxCjSj8Dt-DkwQcu6lA8zoZ41Kb_PKALghUV2KmyuRqU8w5C7dmFztXOYo22W4IC6RhOepgfgoS0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJWwqArhlbwokRmnwbiJSwGC8",
+            "plus_code":{
+                  "compound_code":"M2VM+FW New York, NY, USA",
+                  "global_code":"87G8M2VM+FW"
+            },
+            "rating":4.2,
+            "reference":"ChIJWwqArhlbwokRmnwbiJSwGC8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"499 Myrtle Avenue, Brooklyn",
+            "CBG":360470191002,
+            "Radius":118.5160763257
+      }
+]

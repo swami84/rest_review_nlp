@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.632854,
+                        "lng":-74.004925
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6342458803,
+                              "lng":-74.0036426697
+                        },
+                        "southwest":{
+                              "lat":40.6315479197,
+                              "lng":-74.0063406303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pho 60",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114918897175635007309\">Julie Xiao<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJqf_uU6AzPtPeKkPE5KY3ORe7a8Ges5gpQebXmdkIh_BBA_jk-6ZE6A0Yw3b3aK-mDsl35-fvK0DhYWhJ2KyyKmU2luVNymuDCOKeeRcKV8S_gv4l99OEv68IBqTdeKE3RFMB6e1xYZ3dHYKtEiJwc8QwI6AmEZoa0Z2_zsgS1CSjT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJSQ_bRjZFwokRNjNnF-RMQK8",
+            "plus_code":{
+                  "compound_code":"JXMW+42 Brooklyn, NY, USA",
+                  "global_code":"87G7JXMW+42"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJSQ_bRjZFwokRNjNnF-RMQK8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":242,
+            "vicinity":"1001 60th Street, Brooklyn",
+            "CBG":360470214002,
+            "Radius":170.4001989954
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6327676,
+                        "lng":-74.0057607
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6341874303,
+                              "lng":-74.0043847197
+                        },
+                        "southwest":{
+                              "lat":40.6314894697,
+                              "lng":-74.0070826803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Best 1 Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117217836385806665886\">Tewfik - B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAQA_6PO6lzNIvB0XDCLYWxHCb2rGUNKRNL0-D0iJEg4r-pCqpBj9jy2GnfxRwm_p-d_yXDyZlCb3CC7_OnqOq8BRYNJn9ICzqSKyr-Nuz4NWWFKq5cma1RtAEwywl66KNlE9oosLu_gBkpt_ngrIL9YPREmBvEEMMcScO0SFu2SRq",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJS84YIFtFwokRRxy0FfKfqRU",
+            "plus_code":{
+                  "compound_code":"JXMV+4M Brooklyn, NY, USA",
+                  "global_code":"87G7JXMV+4M"
+            },
+            "price_level":null,
+            "rating":3.3,
+            "reference":"ChIJS84YIFtFwokRRxy0FfKfqRU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"6005 Fort Hamilton Parkway, Brooklyn",
+            "CBG":360470214002,
+            "Radius":170.4001989954
+      }
+]

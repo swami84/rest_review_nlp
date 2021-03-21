@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6741523,
+                        "lng":-73.9536447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6755032803,
+                              "lng":-73.9523865697
+                        },
+                        "southwest":{
+                              "lat":40.6728053197,
+                              "lng":-73.9550845303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Catfish",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":667,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114413097964989377260\">Catfish<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL82jE0e06AwDsulugvS3knRHMu5aVXaD4CntR47FiCRMvhlTFZDWY-xHjz6FSmlupTo4Z6s_JBA2Xiu0HBksxHS36l8JTDVYTPv3dzR8oprLuJiYfUrHv_Dx_aWzH-ao1vP7Zk8ZjhfRquD_SxGdsHiBv5VwQyg4Uos5X7tInjv6o_",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJN4Fzf55bwokRIbPIWguahqs",
+            "plus_code":{
+                  "compound_code":"M2FW+MG Brooklyn, NY, USA",
+                  "global_code":"87G8M2FW+MG"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJN4Fzf55bwokRIbPIWguahqs",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1132,
+            "vicinity":"1433 Bedford Avenue, Brooklyn",
+            "CBG":360470221003,
+            "Radius":109.6416488458
+      }
+]

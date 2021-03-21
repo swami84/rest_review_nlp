@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6989367,
+                        "lng":-73.9410598
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7002751803,
+                              "lng":-73.9397936197
+                        },
+                        "southwest":{
+                              "lat":40.6975772197,
+                              "lng":-73.9424915803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Peking Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114591904435767875950\">Ramon Sandoval<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIP9bqTJZEY2GYAxxxymosOc3wLn3tLyqC9MXhzMKGFE29kH8SnR6ULUM1Om8QvWb6N4HKHCEOlxOvkkKOLbx_OZgqFKW_Lwl-XcEVcC0b9GjkEEFEmrGyErz_d38h7QgUrLFRhzogFFc0uJHrgqmoFSiZS3rTCf9X_JXHENloChJmt",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJP7GDRfdbwokRhLkIgIa4mMQ",
+            "plus_code":{
+                  "compound_code":"M3X5+HH Brooklyn, NY, USA",
+                  "global_code":"87G8M3X5+HH"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJP7GDRfdbwokRhLkIgIa4mMQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"25 Marcus Garvey Boulevard, Brooklyn",
+            "CBG":360470285021,
+            "Radius":195.3351121966
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6991228,
+                        "lng":-73.9410496
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7004576803,
+                              "lng":-73.9398083697
+                        },
+                        "southwest":{
+                              "lat":40.6977597197,
+                              "lng":-73.9425063303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Desaiah Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108512107129345122623\">Desaiah Inc<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFCTgLEwbRtXQMdxGRD0s2U2oZSu5v2YVXe4Y9OY_Ykm0FBSR29JylTopXbHxzSXIvDv6gLMIL54qPLOOxU6V6xYspglrymbWGiyCsK3nNQS83D9RNN6zJPx7JV0UCzDUfmF-XBDtbWoS4fZK1k0A5gqwSI2zY4jJHZ-splGP79kQD",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJffVECwRbwokRha_EFic8aPc",
+            "plus_code":{
+                  "compound_code":"M3X5+JH Brooklyn, NY, USA",
+                  "global_code":"87G8M3X5+JH"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJffVECwRbwokRha_EFic8aPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"19 Marcus Garvey Boulevard, Brooklyn",
+            "CBG":360470285021,
+            "Radius":195.3351121966
+      }
+]

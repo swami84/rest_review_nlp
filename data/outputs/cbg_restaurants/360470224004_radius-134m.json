@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6426979,
+                        "lng":-73.9914254
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6440193303,
+                              "lng":-73.9900438197
+                        },
+                        "southwest":{
+                              "lat":40.6413213697,
+                              "lng":-73.9927417803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tamales",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105224527714317557925\">Andrew Kasper<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJXUcHuYkGiTe-hdc9kCqgwtyhoaHj_2oOLRG701D2_toB7xx_8gGkvsFi4zDSWKonEun9UQdNvUeb3z-HMpo-QnbYBWCXqua-4tEAR8dzU0hp7Zp9jPxM6c_Qc2iap0hztcM7wJTqdDW79_1funRk7j8JZ-yPJ8RP4687sIHXKNpr9",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJIS2X-KhbwokRno1MHkAtu1o",
+            "plus_code":{
+                  "compound_code":"J2V5+3C Brooklyn, NY, USA",
+                  "global_code":"87G8J2V5+3C"
+            },
+            "rating":5,
+            "reference":"ChIJIS2X-KhbwokRno1MHkAtu1o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"40th St &, Fort Hamilton Parkway, Brooklyn",
+            "CBG":360470224004,
+            "Radius":134.1870099587
+      }
+]

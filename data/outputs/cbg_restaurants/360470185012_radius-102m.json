@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6963361,
+                        "lng":-73.9743264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6976527803,
+                              "lng":-73.9729731197
+                        },
+                        "southwest":{
+                              "lat":40.6949548197,
+                              "lng":-73.9756710803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Park Avenue Luncheonette",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2880,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111413583188119999039\">Lecarl Ellison<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUdtbda_D2XSOR2dgWr6_ofY095C-sR250jyfUGq8emWqfYleoB_InbkRnCXr9_kgGdiC-0rPz-3REUWZ2e1W-eJHmy1Ply1goBiecYdhI3pc_vpLXkONqTA65x7nDYhq-Nng0ZDMG8u0RS5fYkJspBsI0Vl8C9hSewHtLlUJYul7r",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJxV7zsslbwokRSGvpPsQVDk8",
+            "plus_code":{
+                  "compound_code":"M2WG+G7 New York, NY, USA",
+                  "global_code":"87G8M2WG+G7"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJxV7zsslbwokRSGvpPsQVDk8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":117,
+            "vicinity":"131 Park Avenue, Brooklyn",
+            "CBG":360470185012,
+            "Radius":102.0497160519
+      }
+]

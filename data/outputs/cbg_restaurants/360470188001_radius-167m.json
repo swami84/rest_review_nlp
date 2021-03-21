@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6182499,
+                        "lng":-74.002628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6195560803,
+                              "lng":-74.0012075197
+                        },
+                        "southwest":{
+                              "lat":40.6168581197,
+                              "lng":-74.0039054803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Meal Ticket Food's Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJHYy7lxVFwokRbNj4I1rL53g",
+            "plus_code":{
+                  "compound_code":"JX9W+7W New York, NY, USA",
+                  "global_code":"87G7JX9W+7W"
+            },
+            "rating":4.9,
+            "reference":"ChIJHYy7lxVFwokRbNj4I1rL53g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"7402 15th Avenue, Brooklyn",
+            "CBG":360470188001,
+            "Radius":166.5104982164
+      }
+]

@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5760677,
+                        "lng":-73.9909518
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5774166803,
+                              "lng":-73.9896028197
+                        },
+                        "southwest":{
+                              "lat":40.5747187197,
+                              "lng":-73.9923007803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ09AbpclFwokRBPuLvRZLzug",
+            "plus_code":{
+                  "compound_code":"H2G5+CJ Brooklyn, NY, USA",
+                  "global_code":"87G8H2G5+CJ"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJ09AbpclFwokRBPuLvRZLzug",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":122,
+            "vicinity":"2325 Mermaid Avenue, Brooklyn",
+            "CBG":360470326004,
+            "Radius":122.5668596254
+      }
+]

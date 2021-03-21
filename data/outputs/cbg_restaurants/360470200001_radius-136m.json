@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6213263,
+                        "lng":-74.0067324
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6226084303,
+                              "lng":-74.0052715197
+                        },
+                        "southwest":{
+                              "lat":40.6199104697,
+                              "lng":-74.0079694803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Las Chelitas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1669,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116813750973110073060\">Las Chelitas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL6tXXO2WqNP5Z2IRmf0jktmYY5iecUMTmK7TcNDKDMAzWlTuVGBMLSimTsb8cK_wk0badgC-jrCr39Rw_yoKl_zDZN1yZWvsV5n-7KzuRz6pPjpCQlEeLw2deZwDL-vuUOO7KJMlrLOGjbbBlr2h9op12Cxv3GtEHVv-QwpxsgC7mg",
+                        "width":1981
+                  }
+            ],
+            "place_id":"ChIJtSgIlXtFwokRwjlQ92gXiVA",
+            "plus_code":{
+                  "compound_code":"JXCV+G8 Brooklyn, NY, USA",
+                  "global_code":"87G7JXCV+G8"
+            },
+            "rating":4.5,
+            "reference":"ChIJtSgIlXtFwokRwjlQ92gXiVA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":73,
+            "vicinity":"7312 13th Avenue, Brooklyn",
+            "CBG":360470200001,
+            "Radius":135.8607878677
+      }
+]

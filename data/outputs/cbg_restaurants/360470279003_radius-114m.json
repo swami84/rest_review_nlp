@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6886625,
+                        "lng":-73.9394028
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6900237303,
+                              "lng":-73.9379434697
+                        },
+                        "southwest":{
+                              "lat":40.6873257697,
+                              "lng":-73.9406414303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brooklyn Roots",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105154994554420783574\">Maciej W\u00f3jcicki<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKKSH9XbvmV9BC9ZkkvsfDYZHPUnFKPmTM9U_hJsE06cKp-PtKrxRLPj5yPTIpEWa17E7qNVSkYIINrGHBvvf7jTqn6KlwAWt4ynjDidY7oYknImdYKpBJjNTWK7Mg8E_F-wwMewqBPVRipDYVyOnpkKdaXSk2_Ze3d71MQCm92KDZ9",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJx8qsJYtbwokRGxB00yCfxRE",
+            "plus_code":{
+                  "compound_code":"M3Q6+F6 Brooklyn, NY, USA",
+                  "global_code":"87G8M3Q6+F6"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJx8qsJYtbwokRGxB00yCfxRE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"256 Marcus Garvey Boulevard, Brooklyn",
+            "CBG":360470279003,
+            "Radius":113.5633891209
+      }
+]

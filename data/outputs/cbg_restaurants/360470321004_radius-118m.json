@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6643702,
+                        "lng":-73.9512187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6657191803,
+                              "lng":-73.9498697197
+                        },
+                        "southwest":{
+                              "lat":40.6630212197,
+                              "lng":-73.9525676803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Veggies",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103449283880676382542\">Kevin King<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIwDwjS1OeW5JtP-DOQ8k9iiDR3rVR-Qr4j4C4vrtDvFsxv-32QBxvhMAH53KCBJnVhzz2ELM4qUZVG-dcaciQyTrzXc8S6HOI_OlZVXLD_XYSiIpeDyTPW8muBUP1SBQ4FAO-6gxpcV5Dq0bIhNqt_yFBCejH5na0rWCMDK468IYZ",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJQVGABnFbwokRXKrtjOhDqnw",
+            "plus_code":{
+                  "compound_code":"M27X+PG New York, NY, USA",
+                  "global_code":"87G8M27X+PG"
+            },
+            "rating":4.4,
+            "reference":"ChIJQVGABnFbwokRXKrtjOhDqnw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"994 Nostrand Avenue, Brooklyn",
+            "CBG":360470321004,
+            "Radius":117.7724640587
+      }
+]

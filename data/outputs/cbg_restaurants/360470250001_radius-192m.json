@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6246292,
+                        "lng":-73.9942529
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6259057803,
+                              "lng":-73.9929796197
+                        },
+                        "southwest":{
+                              "lat":40.6232078197,
+                              "lng":-73.9956775803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Santos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1512,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109754650329453677049\">Charles Menz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJUjKhqYI-bgrdRqCySWcLBQ-zGN3DdILey7l9n6KYeG6iLtg8cZY9PAn-ZItB1HvHyWDffq4TBc1aksyFBnXMdCylJH3b2w6CgFqZyF6XZ-lOFf6rVdCcmR3GfpoEVUIKdYTsiCKHmQ4ATcvAokSHvwl-O3yvx8gujkP9cDZeCs9V7",
+                        "width":2016
+                  }
+            ],
+            "place_id":"ChIJ1znuySRFwokRTWlK312LU1c",
+            "plus_code":{
+                  "compound_code":"J2F4+V7 Brooklyn, NY, USA",
+                  "global_code":"87G8J2F4+V7"
+            },
+            "rating":4.3,
+            "reference":"ChIJ1znuySRFwokRTWlK312LU1c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"1535 62nd Street, Brooklyn",
+            "CBG":360470250001,
+            "Radius":191.5878506724
+      }
+]

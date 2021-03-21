@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6831452,
+                        "lng":-73.9644311
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6844158803,
+                              "lng":-73.9631259197
+                        },
+                        "southwest":{
+                              "lat":40.6817179197,
+                              "lng":-73.9658238803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken & Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106065689099620467905\">Antonio Serrano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKMv8VfRsjYIKeb2ePpp5anZcqaUoB4alOG-new5FU01fWBqzEioUAH80_uQ2EhxE5yYtktB2dKIREpgCA-NCMpUPqeIWiCc3BJ_B5douQWv0ZU6TfFT2SNCEn1V3Cn2or_PFqpGXN2WUiYcm63ye1vZh_MZFRqQS2mabmVe2nhu0MC",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJneqoTaNbwokRXkCmTCReJYY",
+            "plus_code":{
+                  "compound_code":"M2MP+76 Brooklyn, NY, USA",
+                  "global_code":"87G8M2MP+76"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJneqoTaNbwokRXkCmTCReJYY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":60,
+            "vicinity":"963 Fulton Street, Brooklyn",
+            "CBG":360470201003,
+            "Radius":106.8629284492
+      }
+]

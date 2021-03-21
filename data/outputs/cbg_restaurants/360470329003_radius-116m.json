@@ -1,0 +1,80 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6632928,
+                        "lng":-73.9507272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6646364303,
+                              "lng":-73.9494704197
+                        },
+                        "southwest":{
+                              "lat":40.6619384697,
+                              "lng":-73.9521683803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sterling Deli and Grill",
+            "place_id":"ChIJaaQQWJRbwokRX0jU9uUa-BE",
+            "plus_code":{
+                  "compound_code":"M27X+8P Brooklyn, NY, USA",
+                  "global_code":"87G8M27X+8P"
+            },
+            "rating":5,
+            "reference":"ChIJaaQQWJRbwokRX0jU9uUa-BE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1031 Nostrand Avenue, Brooklyn",
+            "CBG":360470329003,
+            "Radius":115.8953073567
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6630336,
+                        "lng":-73.9507277
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6643380803,
+                              "lng":-73.9494524697
+                        },
+                        "southwest":{
+                              "lat":40.6616401197,
+                              "lng":-73.9521504303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"D & I Restaurant Bakery",
+            "place_id":"ChIJTZq0tHFbwokR2_VKWGoL7Hg",
+            "plus_code":{
+                  "compound_code":"M27X+6P Brooklyn, NY, USA",
+                  "global_code":"87G8M27X+6P"
+            },
+            "rating":5,
+            "reference":"ChIJTZq0tHFbwokR2_VKWGoL7Hg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1033 Nostrand Avenue, Brooklyn",
+            "CBG":360470329003,
+            "Radius":115.8953073567
+      }
+]

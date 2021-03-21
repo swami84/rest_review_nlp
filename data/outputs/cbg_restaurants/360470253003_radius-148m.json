@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6914887,
+                        "lng":-73.9516669
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6928521803,
+                              "lng":-73.9502721197
+                        },
+                        "southwest":{
+                              "lat":40.6901542197,
+                              "lng":-73.9529700803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sugarhill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105590888870646889549\">Sugarhill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIiOUJR5SAGDIuazumvrgGekq-qjhX5ALyoa1t9EF0GctJ3f_63KyLAo433TKuEVErBDbtKoIDbU1zkueCRphPPcav6xByHkoLKXShtV90YSUS7En878m9C-L_Zyun5KyMk78X0Bj0EJaSpYP0qrjRCfJO6zbaVy3qhr0YIUsN7MQA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJFQazzOxbwokRQhqW7x9QGYk",
+            "plus_code":{
+                  "compound_code":"M2RX+H8 Brooklyn, NY, USA",
+                  "global_code":"87G8M2RX+H8"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJFQazzOxbwokRQhqW7x9QGYk",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":461,
+            "vicinity":"217 Nostrand Avenue, Brooklyn",
+            "CBG":360470253003,
+            "Radius":148.464427991
+      }
+]

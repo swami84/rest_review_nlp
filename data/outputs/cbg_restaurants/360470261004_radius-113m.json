@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6921661,
+                        "lng":-73.9458622
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6934487303,
+                              "lng":-73.9444845197
+                        },
+                        "southwest":{
+                              "lat":40.6907507697,
+                              "lng":-73.9471824803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rocco Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117441405219186739558\">Jonathan Rivera<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIibxG6IDaIfVoRmekZBVYmOcbpHPLz3xNtpNFWUO09299Mnn5wrkIWZnVSnft61Ff48LjtJ5IxXLzIhK62xi7dOZrptdqx9u1jrCW-TGqIva5V3SZnIcF_5PNYQ9eQpexcVmBtXtkaxHEUQtfVXY48W4rwRmWJKCjCYsjLst-7H7kh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJtaOa7vJbwokRuWJtTRanZXs",
+            "plus_code":{
+                  "compound_code":"M3R3+VM New York, NY, USA",
+                  "global_code":"87G8M3R3+VM"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJtaOa7vJbwokRuWJtTRanZXs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":345,
+            "vicinity":"765 Dekalb Avenue, Brooklyn",
+            "CBG":360470261004,
+            "Radius":112.6671200978
+      }
+]

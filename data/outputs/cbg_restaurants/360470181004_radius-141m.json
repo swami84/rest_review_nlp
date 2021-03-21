@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.687815,
+                        "lng":-73.970614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6890902803,
+                              "lng":-73.9692835197
+                        },
+                        "southwest":{
+                              "lat":40.6863923197,
+                              "lng":-73.9719814803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Olea",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101942286278968573930\">Alex Pinkhasik<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKEJ8nN68ONPevMODAFdMPl6DpR5xlmP-PkV-StEgvrEyOOP0BIB-O1axJ92W_LjJe4P_SXsVNCHDLy7yVR4Bq_TrItVcjpGAJOYtX5FCeskNPbyDuVmGOiDnuF_lqMRKxh46rsd-e74tv1NwAQ91H18pluIhLCvsOJzjjJ90PouCqx",
+                        "width":1109
+                  }
+            ],
+            "place_id":"ChIJC3VecrpbwokRLNJIz-9s4VQ",
+            "plus_code":{
+                  "compound_code":"M2QH+4Q New York, NY, USA",
+                  "global_code":"87G8M2QH+4Q"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJC3VecrpbwokRLNJIz-9s4VQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1018,
+            "vicinity":"171 Lafayette Avenue, Brooklyn",
+            "CBG":360470181004,
+            "Radius":141.4777801035
+      }
+]

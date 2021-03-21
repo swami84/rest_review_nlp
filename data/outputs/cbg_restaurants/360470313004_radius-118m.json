@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.677968,
+                        "lng":-73.946314
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6794308303,
+                              "lng":-73.9449535697
+                        },
+                        "southwest":{
+                              "lat":40.6767328697,
+                              "lng":-73.9476515303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Flavors of Monica",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ-eNPr9tbwokRQWqWyA5k8h8",
+            "plus_code":{
+                  "compound_code":"M3H3+5F Brooklyn, NY, USA",
+                  "global_code":"87G8M3H3+5F"
+            },
+            "reference":"ChIJ-eNPr9tbwokRQWqWyA5k8h8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1384 Atlantic Avenue, Brooklyn",
+            "CBG":360470313004,
+            "Radius":117.7873282625
+      }
+]

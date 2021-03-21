@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5966846,
+                        "lng":-73.9856561
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5981341303,
+                              "lng":-73.9842318697
+                        },
+                        "southwest":{
+                              "lat":40.5954361697,
+                              "lng":-73.9869298303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mtskheta Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111899059256302003952\">Mtskheta Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLgz9mIkEEMCd3Mj-CpNnxBItTfEiw0l0UFLYbzpcEidGGOv1ysBDpEdEvtMaTw4aSHeo-aigKBNsApnnpY0Ne-B_5JHYXP_xa5M-KMCM4fxqw_mLdxZZY4LXA3QgkGoCu0Y9CilaoD7mNPoBtmL6L7gFDzQnKcP8HYlcRGJQSEW_cW",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJT8WKg6pFwokRu5rncwZjk0c",
+            "plus_code":{
+                  "compound_code":"H2W7+MP Brooklyn, NY, USA",
+                  "global_code":"87G8H2W7+MP"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJT8WKg6pFwokRu5rncwZjk0c",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":305,
+            "vicinity":"2568 86th Street, Brooklyn",
+            "CBG":360470300002,
+            "Radius":194.2754697188
+      }
+]

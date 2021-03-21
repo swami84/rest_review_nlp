@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6844074,
+                        "lng":-73.9295963
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6857706303,
+                              "lng":-73.9281228697
+                        },
+                        "southwest":{
+                              "lat":40.6830726697,
+                              "lng":-73.9308208303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taj Masala",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115487161937690240533\">Alan King<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJGUoRqfakyq2Gb5Xuuw8NCfdwFKUuSVjuoPj9lp6Mix4AC6CsSuBlugFvdUPIEg5s2vP7UDvcdzW4IN4B_P4mx485DOCE9HesOXbySgZK7UhUygjKFTBRSMtNbE2EAKqqooJnY6W0cSQf8TeAV_TYbV8cU58nbzJID_64XodcmAOK",
+                        "width":701
+                  }
+            ],
+            "place_id":"ChIJXwJy83NcwokRkKF5vWicT2E",
+            "plus_code":{
+                  "compound_code":"M3MC+Q5 Brooklyn, NY, USA",
+                  "global_code":"87G8M3MC+Q5"
+            },
+            "rating":4.1,
+            "reference":"ChIJXwJy83NcwokRkKF5vWicT2E",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":87,
+            "vicinity":"256 Malcolm X Boulevard, Brooklyn",
+            "price_level":null,
+            "CBG":360470295002,
+            "Radius":114.4220430189
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6838932,
+                        "lng":-73.9294375
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6852522303,
+                              "lng":-73.9279981197
+                        },
+                        "southwest":{
+                              "lat":40.6825542697,
+                              "lng":-73.9306960803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Trad Room",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":856,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101605364479612270794\">Trad Room<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIC6w0v2rxu8VjBszKf5YSkXdqnxBDzXwyY4spSsSq4zPUfTm9FgR8gs0iiue7uHNpbWuhsBWjmj75NcQpMKTNo5hqRQ3Rjj9fwR_6NYvc-2S0IvjjOqtZBgzQgqrG5sLEmuA6iJT8SVUA4RIi3ev7U6VBf-5aIufmkR4a8QBBAyuMa",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJ__978HNcwokRJMR_zap8RcQ",
+            "plus_code":{
+                  "compound_code":"M3MC+H6 New York, NY, USA",
+                  "global_code":"87G8M3MC+H6"
+            },
+            "rating":4.6,
+            "reference":"ChIJ__978HNcwokRJMR_zap8RcQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"266 Malcolm X Boulevard, Brooklyn",
+            "price_level":2.0,
+            "CBG":360470295002,
+            "Radius":114.4220430189
+      }
+]

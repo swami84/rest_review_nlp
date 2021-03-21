@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6858697,
+                        "lng":-73.94859
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6871362803,
+                              "lng":-73.9472247697
+                        },
+                        "southwest":{
+                              "lat":40.6844383197,
+                              "lng":-73.9499227303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Motor City Pies",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJLfamlTxbwokRC9mmvf_LnQk",
+            "plus_code":{
+                  "compound_code":"M3P2+8H New York, NY, USA",
+                  "global_code":"87G8M3P2+8H"
+            },
+            "reference":"ChIJLfamlTxbwokRC9mmvf_LnQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"249 Monroe Street, Brooklyn",
+            "CBG":360470249001,
+            "Radius":121.2548293588
+      }
+]

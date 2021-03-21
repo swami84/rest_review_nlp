@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6168953,
+                        "lng":-73.9858036
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6181875803,
+                              "lng":-73.9843519697
+                        },
+                        "southwest":{
+                              "lat":40.6154896197,
+                              "lng":-73.9870499303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden City \u714c\u5609\u56cd\u5bb4",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100951555561433123900\">Binbin Huo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvo7X7wVXeEn9_T1h1M5AoJULnOxBKVekjaU3nuvA6VjpksalqBSsXMtnVbZXSxUCXn8PvTW1dCoxApt-HNs3qe-rkt1lsKzNr-ubD43XWYo-yVrzqYMgAnrDuedpjoZc4NgqmuqnV6oLRIClmwKb2QCRPtIhCFnm6x747F3XfUwIb",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq6pagB9FwokRC6Gpbh_3kHY",
+            "plus_code":{
+                  "compound_code":"J287+QM New York, NY, USA",
+                  "global_code":"87G8J287+QM"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJq6pagB9FwokRC6Gpbh_3kHY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":347,
+            "vicinity":"6418 20th Avenue, Brooklyn",
+            "CBG":360470254003,
+            "Radius":135.7975145066
+      }
+]

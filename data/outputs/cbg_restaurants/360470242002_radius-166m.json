@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6272884,
+                        "lng":-73.9963057
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6286856803,
+                              "lng":-73.9950407697
+                        },
+                        "southwest":{
+                              "lat":40.6259877197,
+                              "lng":-73.9977387303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Win Xin",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100977787671095852487\">Bee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLW7GUPSiM43hqs1oLeagJeTBjvkrYt7KYCS4f_ipIeH0xYBiHEboTMdUIy8RQ35iyZGMKM3YC1O8PVvQ-tVi5dqr50DXvK3-4Y5rguMFHFZEZ-pLkyJvV-8rihK50Qvvc_Vd3FVPAId4Wdi_SJxEvOWN2wQToR5lr5p5pkttTKHeI8",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJtejB8xpcwokRK7EjGyvcEkQ",
+            "plus_code":{
+                  "compound_code":"J2G3+WF Brooklyn, NY, USA",
+                  "global_code":"87G8J2G3+WF"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJtejB8xpcwokRK7EjGyvcEkQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":99.0,
+            "vicinity":"6001 14th Avenue, Brooklyn",
+            "CBG":360470242002,
+            "Radius":166.4301895265
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6273529,
+                        "lng":-73.9963242
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6287459803,
+                              "lng":-73.9949291197
+                        },
+                        "southwest":{
+                              "lat":40.6260480197,
+                              "lng":-73.9976270803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wing Xin Chinese Restaurant Chinese Food & Texas-Mexican Food",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113975757275970446165\">Ming Lin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAA33zlnd9Zm8F8-5rHAgrrJpiYM0eQAvzSiQJ40tKBKmwLqXCma-SwZqSwPWk0E0XtCnpvvCEMmnqqqxoEmCPJJIInDhf6SeUH4GawnEAIomRcsb3Mi6SUx-bfM8dQQiIIqvyhWl4XCteNhgKM2TBd_U4ZVwnjI4xCaD9ztcs3VU",
+                        "width":2322
+                  }
+            ],
+            "place_id":"ChIJy95n7zpFwokRC1bsob6uChw",
+            "plus_code":{
+                  "compound_code":"J2G3+WF Brooklyn, NY, USA",
+                  "global_code":"87G8J2G3+WF"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJy95n7zpFwokRC1bsob6uChw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"60th Street, Brooklyn",
+            "CBG":360470242002,
+            "Radius":166.4301895265
+      }
+]

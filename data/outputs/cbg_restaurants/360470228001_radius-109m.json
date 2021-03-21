@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6416667,
+                        "lng":-73.9813889
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6430156803,
+                              "lng":-73.9800399197
+                        },
+                        "southwest":{
+                              "lat":40.6403177197,
+                              "lng":-73.9827378803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mi Barrio",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102015484245518571900\">Mi Barrio<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUKPvxD493BwbN6DVOKpidToIMhLAAvILIhuWGxEz7BnojyaTNI0p7Qwa0yd5y8ozne7G98hJrOXVq74AbTkekABcc10-GYiCXfs8y3nvYuEV63wmPB0Q-NPRGhgpCQVtWiPpvo-Y9PxCcDOL4Ve6RUhgXGOK9qcD6KyIyyBGUCkgR",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJR7I_jSlbwokRZU37G6d6oL4",
+            "plus_code":{
+                  "compound_code":"J2R9+MC Brooklyn, NY, USA",
+                  "global_code":"87G8J2R9+MC"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJR7I_jSlbwokRZU37G6d6oL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":183,
+            "vicinity":"3415 14th Avenue, Brooklyn",
+            "CBG":360470228001,
+            "Radius":108.6163860181
+      }
+]

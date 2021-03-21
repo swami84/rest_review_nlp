@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6904686,
+                        "lng":-73.9695758
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6918331803,
+                              "lng":-73.9680910197
+                        },
+                        "southwest":{
+                              "lat":40.6891352197,
+                              "lng":-73.9707889803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Graziella's of Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3744,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111444881155801397082\">Graziella&#39;s of Brooklyn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyQMS2n3Yac4PYHW6IR97Po7Lye03c8jnmSp7BB38RIdlBAaCuxAmiVmt0wyYCDwlAQo7Xnxp-YdmNJIwso-SEQNWostskiXxOSv11Drv94UPpCmvwQgwsNsnJPbTgADkxrJ1UB1o9NyuNGhRVUyCGY29a3tKQa9bJC7vm8BwESi4",
+                        "width":5616
+                  }
+            ],
+            "place_id":"ChIJBYFUublbwokROz7e4jYbvNI",
+            "plus_code":{
+                  "compound_code":"M2RJ+55 New York, NY, USA",
+                  "global_code":"87G8M2RJ+55"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJBYFUublbwokROz7e4jYbvNI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":611,
+            "vicinity":"232 Vanderbilt Avenue, Brooklyn",
+            "CBG":360470183001,
+            "Radius":148.9129216052
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.621079,
+                        "lng":-73.99867
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6224136303,
+                              "lng":-73.9972255697
+                        },
+                        "southwest":{
+                              "lat":40.6197156697,
+                              "lng":-73.9999235303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Divino Rey Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3468,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103752729510970158664\">Hugo Moreno<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLfFOzcB_aLNbN0QLnhFnbRlWuqKTTzSJEwFBzcVdJZDVPAUnjfONt467MwYAkW5twyjPvoWMGFrYcWo6r7LoizAIHUdpNl7cHuTbrcffReusxWIWXFNz-FkRyFM1aTlgbi7KSU9_-dI9xr_MCyL6uxVVVvcfGk3EdDDkfRbxVXGvjf",
+                        "width":4624
+                  }
+            ],
+            "place_id":"ChIJt5VjZ0tFwokRzJ1HJf8gxb4",
+            "plus_code":{
+                  "compound_code":"J2C2+CG New York, NY, USA",
+                  "global_code":"87G8J2C2+CG"
+            },
+            "rating":4.4,
+            "reference":"ChIJt5VjZ0tFwokRzJ1HJf8gxb4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"6808 New Utrecht Avenue, Brooklyn",
+            "CBG":360470190002,
+            "Radius":134.7681111976
+      }
+]

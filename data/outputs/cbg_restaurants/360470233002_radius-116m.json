@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6907519,
+                        "lng":-73.9582747
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6920224303,
+                              "lng":-73.9569087197
+                        },
+                        "southwest":{
+                              "lat":40.6893244697,
+                              "lng":-73.9596066803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rustik Tavern",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111107507993520293074\">Fatma B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL4SH4EexyV-lqoG8baRWmBXIYlcp35Gy0R1ebwj7qVkYev4ZmXENgfyzBrwFcIELazJM9bGZEjuH6gBhpugvjf64CCz5rSY5WGocxrsIq3p-vSFFu8isnyvH7sw4YK-EzdiyH2uGXbpoX-H83fG9Othm6gD2D85qnXJAZXTrDot8_8",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJd9qVa5VbwokRJ7q_7M3XbIQ",
+            "plus_code":{
+                  "compound_code":"M2RR+8M New York, NY, USA",
+                  "global_code":"87G8M2RR+8M"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJd9qVa5VbwokRJ7q_7M3XbIQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":727,
+            "vicinity":"471 Dekalb Avenue, Brooklyn",
+            "CBG":360470233002,
+            "Radius":115.7345238493
+      }
+]

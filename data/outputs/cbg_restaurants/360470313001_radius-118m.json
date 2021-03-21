@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.677392,
+                        "lng":-73.941661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6787353303,
+                              "lng":-73.9402039197
+                        },
+                        "southwest":{
+                              "lat":40.6760373697,
+                              "lng":-73.9429018803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cherry Hill Gourmet",
+            "place_id":"ChIJf4NVxXJbwokRazwTiOvnUtQ",
+            "plus_code":{
+                  "compound_code":"M3G5+X8 Brooklyn, NY, USA",
+                  "global_code":"87G8M3G5+X8"
+            },
+            "rating":5,
+            "reference":"ChIJf4NVxXJbwokRazwTiOvnUtQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"72 Kingston Avenue, Brooklyn",
+            "CBG":360470313001,
+            "Radius":117.7238044516
+      }
+]

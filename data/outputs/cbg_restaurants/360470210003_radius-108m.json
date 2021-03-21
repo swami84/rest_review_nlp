@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6297362,
+                        "lng":-74.0102949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6311392803,
+                              "lng":-74.0090083197
+                        },
+                        "southwest":{
+                              "lat":40.6284413197,
+                              "lng":-74.0117062803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Yee Li",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1125,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110764911200557705931\">New Yee Li<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK-FmSLHihwtDpX-IGWIYp64R7iWrCybAJEgZt-tv24IP3gcicqHAyZ2eX5Ws66j4K5bxEH5PZDr9oRb71o7NRV2_YW-HCeFM4wz4P40f3NAd_IGzy4-jFbf247yIb2mn4Z4T6T2o-32uKYSjgNlJ6hIKdhkyiLb9ZcBzz84P9vmOcE",
+                        "width":1406
+                  }
+            ],
+            "place_id":"ChIJpzvsUkVFwokR3DEt9gutvi8",
+            "plus_code":{
+                  "compound_code":"JXHQ+VV Brooklyn, NY, USA",
+                  "global_code":"87G7JXHQ+VV"
+            },
+            "rating":4.2,
+            "reference":"ChIJpzvsUkVFwokR3DEt9gutvi8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"6619 Fort Hamilton Parkway, Brooklyn",
+            "CBG":360470210003,
+            "Radius":108.3669997323
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6294701,
+                        "lng":-74.0113936
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6307372803,
+                              "lng":-74.0099625197
+                        },
+                        "southwest":{
+                              "lat":40.6280393197,
+                              "lng":-74.0126604803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wei Xian Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105610173382842325500\">Amy Ng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJkjl345_gZk-gUD_2skd5NcxesWNtgX59CIPKIyhMOSme4BiPTpDrnm8kLfa7_Uy7-RIHFrjBftgDCqOUAGX4ILskY3KAmdeXcSLUfwZgbnTZpb5XccO8XyQkdTrF0tF5eO_Rf1honeoMIvxzTOHOBk1tpxgJgWS70hSuBOjNlDyY2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJN5SgJZRFwokRup6SFxCG6u0",
+            "plus_code":{
+                  "compound_code":"JXHQ+QC Brooklyn, NY, USA",
+                  "global_code":"87G7JXHQ+QC"
+            },
+            "rating":4.0,
+            "reference":"ChIJN5SgJZRFwokRup6SFxCG6u0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"6718 Fort Hamilton Parkway, Brooklyn",
+            "CBG":360470210003,
+            "Radius":108.3669997323
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.610222,
+                        "lng":-73.999512
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6115709803,
+                              "lng":-73.9981630197
+                        },
+                        "southwest":{
+                              "lat":40.6088730197,
+                              "lng":-74.0008609803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dragon Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112300622772988306784\">Sam Esh<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJs9fEID3PDV3xwkquQh7PWPcFYHkjJ4Bf-tJOQ0Ke6g7L4UgjHtU6o3gAgHslOZlZZWrqfBG3r-lULCGvXiZdNxsxkUEJYcR3jrC-fl3V0iGCMhgyiyTPLjJAaLMr4vS7utzQgBWorHj8Cr6wk4SSLs_PSjVAsryT-eEpvRXyNVFiW",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJm4t36xFFwokRoxB9rUjretc",
+            "plus_code":{
+                  "compound_code":"J262+35 Brooklyn, NY, USA",
+                  "global_code":"87G8J262+35"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJm4t36xFFwokRoxB9rUjretc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"8024 18th Avenue, Brooklyn",
+            "CBG":360470276003,
+            "Radius":150.3202654349
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6101973,
+                        "lng":-74.0018723
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6115275303,
+                              "lng":-74.0003838697
+                        },
+                        "southwest":{
+                              "lat":40.6088295697,
+                              "lng":-74.0030818303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Legend Cafe House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100945448195773738254\">Wing L<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI8Qjzh6l_nSGZFity1WTwJ6NUiurp6f3tLZ8Fccrw7zQS33aOa77v4jOd2Fh2-LwNKsckDo9aSwUkYd3lxDVMSDAxzG9eBJ29jbdvjMKtiitSIBMgGxudgY-Rxvu7qbLBWkC96IV_gOEZ6_iWhZnMfh4sRjuAeTg-RbGnuHI3wR4rw",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJHbkDPRVFwokRwbx2UjP5_gE",
+            "plus_code":{
+                  "compound_code":"JX6X+37 New York, NY, USA",
+                  "global_code":"87G7JX6X+37"
+            },
+            "price_level":null,
+            "rating":3.9,
+            "reference":"ChIJHbkDPRVFwokRwbx2UjP5_gE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"8140 New Utrecht Avenue, Brooklyn",
+            "CBG":360470276003,
+            "Radius":150.3202654349
+      }
+]

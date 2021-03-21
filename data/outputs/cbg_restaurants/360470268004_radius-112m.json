@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6114385,
+                        "lng":-73.9908718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6127874803,
+                              "lng":-73.9895228197
+                        },
+                        "southwest":{
+                              "lat":40.6100895197,
+                              "lng":-73.9922207803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Panda",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113403485189732695971\">dan sui<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKqC7ymUPuKwVPYR7EAT2UQsP2e07fw5ZhocGdM-HuKmkmJWOFx417DL35ZGPNu9RLBZ2zpZhMlCpjU8q-hGQGnaYNXIuXIYcWGUZKxxnzHalkc8U0vI9MBsPIcYFnSyTX0vdUtmxDEVhk1EFk-LXob-hAnmD4ijkY2yIlkfK_v_3CM",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ5SteuBtFwokRqj_WE3u23BM",
+            "plus_code":{
+                  "compound_code":"J265+HM Brooklyn, NY, USA",
+                  "global_code":"87G8J265+HM"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ5SteuBtFwokRqj_WE3u23BM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":55,
+            "vicinity":"7323 20th Avenue, Brooklyn",
+            "CBG":360470268004,
+            "Radius":111.5826653118
+      }
+]

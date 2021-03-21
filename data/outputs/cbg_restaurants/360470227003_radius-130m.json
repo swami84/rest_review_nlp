@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6810024,
+                        "lng":-73.9600957
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6824254803,
+                              "lng":-73.9587216197
+                        },
+                        "southwest":{
+                              "lat":40.6797275197,
+                              "lng":-73.9614195803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"L&A fudge+cake",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ0b9laMRbwokR57-KpCvHef0",
+            "plus_code":{
+                  "compound_code":"M2JQ+CX Brooklyn, NY, USA",
+                  "global_code":"87G8M2JQ+CX"
+            },
+            "rating":5,
+            "reference":"ChIJ0b9laMRbwokR57-KpCvHef0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"92 Lefferts Place, Brooklyn",
+            "CBG":360470227003,
+            "Radius":129.7746422384
+      }
+]

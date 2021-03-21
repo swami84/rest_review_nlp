@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6822491,
+                        "lng":-73.9290779
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6836069803,
+                              "lng":-73.9276535197
+                        },
+                        "southwest":{
+                              "lat":40.6809090197,
+                              "lng":-73.9303514803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chez Oskar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":595,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117325942971477413569\">Chez Oskar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKKXtp969SjW7daUBEknyKRGMW1xfn1eMeZxeLTHwuvBuxfy9BA43al8cY1SPP01USmdry_jV5A1iC1KPGRrPW8x6xk_DmwF7FdBhIRSolrQDCBf-KfgeGwvmlzwsC4tgSqAOSoxR0VpUSckzSFH8bG3xh4WlxZCHXIKuYk4O9WLSKP",
+                        "width":595
+                  }
+            ],
+            "place_id":"ChIJ86PF_LlbwokRNScSCVf3u84",
+            "plus_code":{
+                  "compound_code":"M3JC+V9 Brooklyn, NY, USA",
+                  "global_code":"87G8M3JC+V9"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ86PF_LlbwokRNScSCVf3u84",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":724,
+            "vicinity":"310 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470297001,
+            "Radius":140.2360142691
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.681561,
+                        "lng":-73.929001
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6829289803,
+                              "lng":-73.9275502697
+                        },
+                        "southwest":{
+                              "lat":40.6802310197,
+                              "lng":-73.9302482303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nana Ramen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":697,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114852692316865131773\">Nana Ramen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIV3iTQRveK_J9qjQ3qvkZEBbYbZ1WnEXVeB7QcBShPBLOW0-VDtAkgxRt01-7QpS34sxMTbdA1IROlxTKNzFbyoLriO053SJn5_fFguAeom0UBA_oCkqFWG7Kh5lhtXrIOqFCQw4Hng2Zl1rZ_heku4_rcR3_F5YBCYAtisRLpkMXn",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJj-MKPHFcwokRTf7Vt18Ybu8",
+            "plus_code":{
+                  "compound_code":"M3JC+J9 Brooklyn, NY, USA",
+                  "global_code":"87G8M3JC+J9"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJj-MKPHFcwokRTf7Vt18Ybu8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":367,
+            "vicinity":"330 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470297001,
+            "Radius":140.2360142691
+      }
+]

@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5991999,
+                        "lng":-73.9872539
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6004693303,
+                              "lng":-73.9859883197
+                        },
+                        "southwest":{
+                              "lat":40.5977713697,
+                              "lng":-73.9886862803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Luisperez",
+            "place_id":"ChIJ5TPv2ZtFwokRkdz9N_eHKLM",
+            "plus_code":{
+                  "compound_code":"H2X7+M3 New York, NY, USA",
+                  "global_code":"87G8H2X7+M3"
+            },
+            "reference":"ChIJ5TPv2ZtFwokRkdz9N_eHKLM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2453 85th Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470298002,
+            "Radius":157.1194552657
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5988249,
+                        "lng":-73.988291
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6000985303,
+                              "lng":-73.9870198197
+                        },
+                        "southwest":{
+                              "lat":40.5974005697,
+                              "lng":-73.9897177803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Benson Eating Station",
+            "place_id":"ChIJQQ0pyABFwokRUFgWNKEpunk",
+            "plus_code":{
+                  "compound_code":"H2X6+GM Brooklyn, NY, USA",
+                  "global_code":"87G8H2X6+GM"
+            },
+            "reference":"ChIJQQ0pyABFwokRUFgWNKEpunk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2435 86th Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117577143878029375653\">Serkan Kutun<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ1J6gMe6xLqoJRzuHEje0jivmbTKwYji6AtNxwU97SDKdPNXMoIDS8OmJVpwc6iA53UAXpx3iaKHkqIXmG89AtiYKb1VCcti5cpyhNNKedogzNewY-bejp7HLemwbcwBXxS00TGqzdtEUUZ0iuOfo0dkTqkJoVhZPHkBxrexHbLFHw",
+                        "width":5184
+                  }
+            ],
+            "price_level":2.0,
+            "rating":3.7,
+            "user_ratings_total":186.0,
+            "CBG":360470298002,
+            "Radius":157.1194552657
+      }
+]

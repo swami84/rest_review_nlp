@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6726276,
+                        "lng":-73.9542056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6739765803,
+                              "lng":-73.9528566197
+                        },
+                        "southwest":{
+                              "lat":40.6712786197,
+                              "lng":-73.9555545803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King's Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109161568743080879851\">King&#39;s Wok<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLEBnLg5PfB5kuZ77IMPAWiB7u-IeI2gmYSu-oG8Xjz-tk6I1NWMF_vV2XMwKYuuzFFpBfijMF7oVLeBtd1XyTPVDqAfLiHfzEtri8jpmCHsUyQbOGt4a2hkF_f1ZK3GLDrXNFhJP9w2qoaJ0u1MVGoUO6i7PkejExi0Iiy-itOx92e",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJSQqXD55bwokRtz92dst8itc",
+            "plus_code":{
+                  "compound_code":"M2FW+38 Brooklyn, NY, USA",
+                  "global_code":"87G8M2FW+38"
+            },
+            "rating":4.1,
+            "reference":"ChIJSQqXD55bwokRtz92dst8itc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"1473 Bedford Avenue, Brooklyn",
+            "CBG":360470219002,
+            "Radius":126.0947942017
+      }
+]

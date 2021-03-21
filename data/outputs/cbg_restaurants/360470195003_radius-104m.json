@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6913413,
+                        "lng":-73.9687205
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6927070303,
+                              "lng":-73.9672433197
+                        },
+                        "southwest":{
+                              "lat":40.6900090697,
+                              "lng":-73.9699412803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Salazar Inc",
+            "place_id":"ChIJYZ8zVLhbwokRTCcoXud6f2M",
+            "plus_code":{
+                  "compound_code":"M2RJ+GG Brooklyn, NY, USA",
+                  "global_code":"87G8M2RJ+GG"
+            },
+            "reference":"ChIJYZ8zVLhbwokRTCcoXud6f2M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"222 Clinton Avenue, Brooklyn",
+            "CBG":360470195003,
+            "Radius":103.846139235
+      }
+]

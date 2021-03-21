@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6253871,
+                        "lng":-74.0021451
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6267115803,
+                              "lng":-74.0008221697
+                        },
+                        "southwest":{
+                              "lat":40.6240136197,
+                              "lng":-74.0035201303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jos\u00e9 Mexican Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJkQtwO3RFwokRnCUvOiYmgr4",
+            "plus_code":{
+                  "compound_code":"JXGX+54 New York, NY, USA",
+                  "global_code":"87G7JXGX+54"
+            },
+            "reference":"ChIJkQtwO3RFwokRnCUvOiYmgr4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"66th Street, Brooklyn",
+            "CBG":360470194003,
+            "Radius":157.868270557
+      }
+]

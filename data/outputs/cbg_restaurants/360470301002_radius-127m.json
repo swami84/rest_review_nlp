@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6770264,
+                        "lng":-73.9160373
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6783282303,
+                              "lng":-73.9147262697
+                        },
+                        "southwest":{
+                              "lat":40.6756302697,
+                              "lng":-73.9174242303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114286425511037565073\">DeBorah Palmer<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKZEx-o58SP7ddzjIMBvFaPprplyLO5_3Mw6JMN_pz4jbobj7ZMYJSiVv4vg2aqh1OlZNR2Lf5kWUagvSjzETLx1Y4R7I_CvopdcDz-C5g3K9MXqoQ9tt7eYhNL1hSRvI6ODhj_ksJ0V8MZKn-60n1o92Mq3gLxK4zZyE2a8K2Y0jK6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYSktm2hcwokRTZpAKd2l-38",
+            "plus_code":{
+                  "compound_code":"M3GM+RH New York, NY, USA",
+                  "global_code":"87G8M3GM+RH"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJYSktm2hcwokRTZpAKd2l-38",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":286,
+            "vicinity":"1993 Atlantic Avenue, Brooklyn",
+            "CBG":360470301002,
+            "Radius":126.5043392053
+      }
+]

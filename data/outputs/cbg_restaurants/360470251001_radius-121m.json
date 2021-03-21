@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6892848,
+                        "lng":-73.9510944
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6906193803,
+                              "lng":-73.9498691197
+                        },
+                        "southwest":{
+                              "lat":40.6879214197,
+                              "lng":-73.9525670803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"The Council Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":656,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115699328829299461748\">The Council Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJIdGXVJKmYPi3sANxAw8PTdC7eHQUGCftcmoZy6JdATBpxHZXid5P421XFGyobdHcqnbQRKhCJl8nQuOS6ip7dwheXdJceAEPMw78x7sP-u2PGnhHThaS-ZcH5WbrQPJJR3g9tzSD4Xxpz1xEtNf8IosDP51Nfusxu2FsVllj6-D0P",
+                        "width":615
+                  }
+            ],
+            "place_id":"ChIJc5zh1idbwokR1UTAyNtgnNE",
+            "plus_code":{
+                  "compound_code":"M2QX+PH New York, NY, USA",
+                  "global_code":"87G8M2QX+PH"
+            },
+            "rating":4.4,
+            "reference":"ChIJc5zh1idbwokR1UTAyNtgnNE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"279 Nostrand Avenue, Brooklyn",
+            "CBG":360470251001,
+            "Radius":121.1865567163
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6870471,
+                        "lng":-73.9747264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6884678303,
+                              "lng":-73.9733992197
+                        },
+                        "southwest":{
+                              "lat":40.6857698697,
+                              "lng":-73.9760971803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Mo's Bar & Lounge",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2291,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112385194850183553112\">Jacob Schlather<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLI88fnPTiG6o8brAay2nPMFD4ipLoxUawEMm3AdK9UscmzA0I0wGqB3TVCjt9qlespZzPzRpi_a0x5rjUIOhfT28DCfmXjoZEzKjbpjonjuC6E2P-xzlppmT_rvizsbnjh7lCdAiv7da9LTBUz9JqO1qV0K9qNQu31WXUaGsbtuuV3",
+                        "width":2290
+                  }
+            ],
+            "place_id":"ChIJQxasqbFbwokRA7aFOnYm3ng",
+            "plus_code":{
+                  "compound_code":"M2PG+R4 New York, NY, USA",
+                  "global_code":"87G8M2PG+R4"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJQxasqbFbwokRA7aFOnYm3ng",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":717,
+            "vicinity":"80 Lafayette Avenue, Brooklyn",
+            "CBG":360470181003,
+            "Radius":110.3535211292
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6873511,
+                        "lng":-73.974866
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6886156803,
+                              "lng":-73.9735140697
+                        },
+                        "southwest":{
+                              "lat":40.6859177197,
+                              "lng":-73.9762120303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Quarter",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1368,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113947577063374241750\">The Quarter<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIRS0uvJxcyy6yUpWJt5xFk8Rs5YM0sBtwI6JA7SWtoJTf5ZHfaRJ_jssNoWc-xQ4r4P7_Uu_pVBeJL60MgywcvU7_1FJgcCMluYOEIzzoVA6Qh_aRdcnLJeHngp13D7ur1BN0xUTLwi29Nc6v6TEuUNmuiuNEz8-ibWRci-y8pVvfg",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJaWouBrFbwokR7V20k02jPoc",
+            "plus_code":{
+                  "compound_code":"M2PG+W3 New York, NY, USA",
+                  "global_code":"87G8M2PG+W3"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJaWouBrFbwokR7V20k02jPoc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":312,
+            "vicinity":"87 Lafayette Avenue, Brooklyn",
+            "CBG":360470181003,
+            "Radius":110.3535211292
+      }
+]

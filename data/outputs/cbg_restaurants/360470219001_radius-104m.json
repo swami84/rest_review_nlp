@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6735039,
+                        "lng":-73.9537626
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6749044803,
+                              "lng":-73.9525528697
+                        },
+                        "southwest":{
+                              "lat":40.6722065197,
+                              "lng":-73.9552508303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cafe Rue Dix",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107441751756013845837\">harold culler<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIqUFhLIx8yOQK9b-juY6JWaMaRb_bAiST4bihMPhwefpR-kbyR1fit3QgwJ4yY7DApQs3S7N5YCkUuB5qFXSZanUivIM4EvzXYDCLKlQKxpjJq-PYGku5Xa8tgfBX1kBedIUonwphr4emGkMt2ZFoCW9-d8ptwqLeeVsuZfMY5E0Ti",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJi1Iydp5bwokRpwUQu1NrOXM",
+            "plus_code":{
+                  "compound_code":"M2FW+CF Brooklyn, NY, USA",
+                  "global_code":"87G8M2FW+CF"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJi1Iydp5bwokRpwUQu1NrOXM",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":500,
+            "vicinity":"1451 Bedford Avenue, Brooklyn",
+            "CBG":360470219001,
+            "Radius":103.7326645876
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6726276,
+                        "lng":-73.9542056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6739765803,
+                              "lng":-73.9528566197
+                        },
+                        "southwest":{
+                              "lat":40.6712786197,
+                              "lng":-73.9555545803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King's Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109161568743080879851\">King&#39;s Wok<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJDnLqC8Rg9ditUyuFz304FCeq2djUGfQZBxqsR6IBjn8MDN_autTS1KOTM7skB5O1XS_-Fx9u63yj-T7VQ9v9Kj8lQnbObAR9GBs1UFM4Djr_y3ltusofebbuKNQb-kc71ndvfRKRma62od-rMtGQLHAH7wFiGjuei_gkmgx9ro4MN",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJSQqXD55bwokRtz92dst8itc",
+            "plus_code":{
+                  "compound_code":"M2FW+38 Brooklyn, NY, USA",
+                  "global_code":"87G8M2FW+38"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJSQqXD55bwokRtz92dst8itc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":84,
+            "vicinity":"1473 Bedford Avenue, Brooklyn",
+            "CBG":360470219001,
+            "Radius":103.7326645876
+      }
+]

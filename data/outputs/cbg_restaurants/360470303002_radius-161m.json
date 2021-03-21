@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.674301,
+                        "lng":-73.921808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6756575803,
+                              "lng":-73.9206003197
+                        },
+                        "southwest":{
+                              "lat":40.6729596197,
+                              "lng":-73.9232982803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dong Fang Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113003918589907979475\">Dong Fang Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLsLdJ5oHbzy1MAGuD8linJFRLM9a_J9K6igj6xBuby6LnKlSiIb3uAL2gVGuKWI2SDM1ZnHBSVrrWH-lW1gTsRkpyXVfd2fih0f_Us7fb5rPFHGMskIBQtSaglcG6__O3zqX5JTdBXODgBog3XTTDytDtTRbzXmyR3O_dz1boeUXcm",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJ4Sw8-2RcwokRnUhCfYhlRdM",
+            "plus_code":{
+                  "compound_code":"M3FH+P7 Brooklyn, NY, USA",
+                  "global_code":"87G8M3FH+P7"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJ4Sw8-2RcwokRnUhCfYhlRdM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"433A Ralph Avenue, Brooklyn",
+            "CBG":360470303002,
+            "Radius":161.2970558855
+      }
+]

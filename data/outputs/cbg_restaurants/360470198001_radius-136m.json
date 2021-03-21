@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6211597,
+                        "lng":-74.0062876
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6225554803,
+                              "lng":-74.0050180697
+                        },
+                        "southwest":{
+                              "lat":40.6198575197,
+                              "lng":-74.0077160303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fujiyama",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107512659487241180736\">VNL 670 \u2022 19 years ago<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJfXvRiEgGf5-br-AXK1SinIwM2TeVqA866-bO6IjoQXeua4j1NVnFFqdeoU00L-2b7dAdMLYV4KnLgR7tpRVRZS4wEhF_Te8sO-TFO2sfvIT4lwvdUvBjckxHwqLTg2n-NXA6OUG6NMcDrjHjfd0NDEvgdFiGblNEm3pUYGBAsCSbp",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJWfHXij9FwokRDlzKNl_0ARE",
+            "plus_code":{
+                  "compound_code":"JXCV+FF New York, NY, USA",
+                  "global_code":"87G7JXCV+FF"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJWfHXij9FwokRDlzKNl_0ARE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":89,
+            "vicinity":"7307 13th Avenue, Brooklyn",
+            "CBG":360470198001,
+            "Radius":135.8291548715
+      }
+]
