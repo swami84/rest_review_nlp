@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6503166,
+                        "lng":-73.9242481
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6517532303,
+                              "lng":-73.9229096697
+                        },
+                        "southwest":{
+                              "lat":40.6490552697,
+                              "lng":-73.9256076303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mali Malo",
+            "place_id":"ChIJY6EVXPFdwokRrPWjbkS-pNs",
+            "plus_code":{
+                  "compound_code":"M32G+48 Brooklyn, NY, USA",
+                  "global_code":"87G8M32G+48"
+            },
+            "reference":"ChIJY6EVXPFdwokRrPWjbkS-pNs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"5602 Snyder Avenue, Brooklyn",
+            "CBG":360470938002,
+            "Radius":148.6604758766
+      }
+]

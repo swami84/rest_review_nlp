@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6389823,
+                        "lng":-73.9480124
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6403466803,
+                              "lng":-73.9468138697
+                        },
+                        "southwest":{
+                              "lat":40.6376487197,
+                              "lng":-73.9495118303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112777948185395375594\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIdR5yDigxFst7S5RU80oqoguYdSCvKpz77rLoSphOLCOUD37G4XuYghr2-SrASPQuaJ6zvaIMmR-qFY9TQy67uKKekywH_ly5Q_7njGQAxmgglZ155vbxcw4VAwtzqXUYrXPv-4pAb3cEij1vwIpm0cS-S-QwnzgsITOeSRMlfJ7mj",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ4e3f0k9bwokRuTjCTcFJZTg",
+            "plus_code":{
+                  "compound_code":"J3Q2+HQ New York, NY, USA",
+                  "global_code":"87G8J3Q2+HQ"
+            },
+            "price_level":1,
+            "rating":3.1,
+            "reference":"ChIJ4e3f0k9bwokRuTjCTcFJZTg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":151,
+            "vicinity":"1915 Nostrand Avenue, Brooklyn",
+            "CBG":360470830004,
+            "Radius":109.5792126113
+      }
+]

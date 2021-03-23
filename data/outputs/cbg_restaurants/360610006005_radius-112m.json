@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7129255,
+                        "lng":-73.988765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7141907803,
+                              "lng":-73.9874043197
+                        },
+                        "southwest":{
+                              "lat":40.7114928197,
+                              "lng":-73.9901022803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Madison Street Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":643,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109214405385763082860\">Madison Street Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRCjIAul-y0CkzYQ-EuHvd8G-w9-x25Ve6AzX0oCxS79bECZV90HAFxBKgjtCwwRYvJHqDqHvJuVOrD4ftQApRbQIxXnEW5bZqNdh_fLvoCDtgmgsO6cTP--ASFFGUqpA9jeIbYZgxJ0qaQ8F6mdUAQexVO4YedxloiJ_12i_HMwd-",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJWRv7OC5bwokRDyIHLlcm-BM",
+            "plus_code":{
+                  "compound_code":"P276+5F New York, NY, USA",
+                  "global_code":"87G8P276+5F"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJWRv7OC5bwokRDyIHLlcm-BM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"223 Madison Street, New York",
+            "CBG":360610006005,
+            "Radius":112.4352130331
+      }
+]

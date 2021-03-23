@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6129458,
+                        "lng":-73.9626873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6142740303,
+                              "lng":-73.9614226197
+                        },
+                        "southwest":{
+                              "lat":40.6115760697,
+                              "lng":-73.9641205803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Moldova Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJTWBiRyRFwokRISxI83s0RL8",
+            "plus_code":{
+                  "compound_code":"J27P+5W New York, NY, USA",
+                  "global_code":"87G8J27P+5W"
+            },
+            "rating":4.3,
+            "reference":"ChIJTWBiRyRFwokRISxI83s0RL8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":427,
+            "vicinity":"1827 Coney Island Avenue, Brooklyn",
+            "CBG":360470442001,
+            "Radius":174.358315832
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6129421,
+                        "lng":-73.9627107
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6142721803,
+                              "lng":-73.9614343197
+                        },
+                        "southwest":{
+                              "lat":40.6115742197,
+                              "lng":-73.9641322803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bessarabia Authentic Moldovian Cuisine",
+            "opening_hours":null,
+            "place_id":"ChIJ5y2FY-pEwokRuPV9lLgkn4Y",
+            "plus_code":{
+                  "compound_code":"J27P+5W Brooklyn, NY, USA",
+                  "global_code":"87G8J27P+5W"
+            },
+            "rating":5.0,
+            "reference":"ChIJ5y2FY-pEwokRuPV9lLgkn4Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"Brooklyn",
+            "CBG":360470442001,
+            "Radius":174.358315832
+      }
+]

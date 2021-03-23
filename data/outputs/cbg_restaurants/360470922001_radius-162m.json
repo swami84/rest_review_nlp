@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6557277,
+                        "lng":-73.9035683
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6569945803,
+                              "lng":-73.9021965697
+                        },
+                        "southwest":{
+                              "lat":40.6542966197,
+                              "lng":-73.9048945303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kinfolk and Cousins",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108281347394498597754\">Kinfolk and Cousins<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLcHehh2SuJXjQQHAr6qfDAHWB5obiY9bJMQT4Ayw1Q96Hok3ZXxsJhjTT5N61UMbsJuQGZCg-CHyl1se6Vy_AOvcbV25vhYfpMqeXOIo0TResCGfIq4sbgW-k0snCZp1g_Ua1rBsUUMBZOkrkaHVuTMkQfQVP29V9iMnrb35XQ-f-Q",
+                        "width":1620
+                  }
+            ],
+            "place_id":"ChIJj1U51eVdwokRCJO4Vr0EbCQ",
+            "plus_code":{
+                  "compound_code":"M34W+7H New York, NY, USA",
+                  "global_code":"87G8M34W+7H"
+            },
+            "reference":"ChIJj1U51eVdwokRCJO4Vr0EbCQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"922 Mother Gaston Boulevard suite 1, Brooklyn",
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470922001,
+            "Radius":162.3690180216
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6571375,
+                        "lng":-73.9033899
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6585310803,
+                              "lng":-73.9020769697
+                        },
+                        "southwest":{
+                              "lat":40.6558331197,
+                              "lng":-73.9047749303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken & Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117101197454534658993\">H S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ1ozvwLbOmuUXB4MXttntCN686vxufF8N-Ye1yLx9orDA2iTXnYiIaSKmdi_ss-SouhS7NyF067D9mUYdXu9eTKnzSnZ_6Gp5JZeFtq85a2ROyPyeokxQd1cV0tuK7jWCLYpumLlDSoIGbkeRu_UGndV-Aw_RK9-mc-B4d6TEntG_g",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJUehoVPBcwokRyflpqT5wpCA",
+            "plus_code":{
+                  "compound_code":"M34W+VJ Brooklyn, NY, USA",
+                  "global_code":"87G8M34W+VJ"
+            },
+            "reference":"ChIJUehoVPBcwokRyflpqT5wpCA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"44 New Lots Avenue, Brooklyn",
+            "price_level":1.0,
+            "rating":3.7,
+            "user_ratings_total":88.0,
+            "CBG":360470922001,
+            "Radius":162.3690180216
+      }
+]

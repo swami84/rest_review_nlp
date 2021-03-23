@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.616598,
+                        "lng":-73.970947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6180512303,
+                              "lng":-73.9696192197
+                        },
+                        "southwest":{
+                              "lat":40.6153532697,
+                              "lng":-73.9723171803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mazza & More",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":486,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118094632015977092380\">Mazza &amp; More<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ8AyOzNjniUS38wpnDQNGSB2wxS_nZCaEuWvrXvj4VKeJLe9vkvjBATYU0YQTNAQcklvsn1R43HZ_YP_BWUVG9TiMPDG1g88n9mFE4VXx-By5rZGDJh8C1523gX4NaSWvpYjDWTUiVZSEZiOffXGTTV3SkIRYjPAEx0UCsgAqWHhGw",
+                        "width":864
+                  }
+            ],
+            "place_id":"ChIJJ3AzzMJEwokRReaRDKL_VYU",
+            "plus_code":{
+                  "compound_code":"J28H+JJ Brooklyn, NY, USA",
+                  "global_code":"87G8J28H+JJ"
+            },
+            "rating":4.3,
+            "reference":"ChIJJ3AzzMJEwokRReaRDKL_VYU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"412 Avenue M, Brooklyn",
+            "CBG":360470444002,
+            "Radius":129.5070122152
+      }
+]

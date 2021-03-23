@@ -1,0 +1,46 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6457533,
+                        "lng":-73.8799843
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6471866803,
+                              "lng":-73.8785056197
+                        },
+                        "southwest":{
+                              "lat":40.6444887197,
+                              "lng":-73.8812035803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Simply Southern NYC",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJm7-Fks5dwokRyX4OXLOI-60",
+            "plus_code":{
+                  "compound_code":"J4WC+82 Brooklyn, NY, USA",
+                  "global_code":"87G8J4WC+82"
+            },
+            "rating":4.9,
+            "reference":"ChIJm7-Fks5dwokRyX4OXLOI-60",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"1460 Granville Payne Avenue, Brooklyn",
+            "CBG":360471058044,
+            "Radius":280.8570654356
+      }
+]

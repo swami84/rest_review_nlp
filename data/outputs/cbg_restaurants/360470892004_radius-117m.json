@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.663487,
+                        "lng":-73.920192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6648359803,
+                              "lng":-73.9188430197
+                        },
+                        "southwest":{
+                              "lat":40.6621380197,
+                              "lng":-73.9215409803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dominique Knight",
+            "place_id":"ChIJh1p4FolcwokRK50gicnhqOg",
+            "plus_code":{
+                  "compound_code":"M37H+9W Brooklyn, NY, USA",
+                  "global_code":"87G8M37H+9W"
+            },
+            "rating":4.7,
+            "reference":"ChIJh1p4FolcwokRK50gicnhqOg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"184 Tapscott Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":360470892004,
+            "Radius":116.6604367113
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.662697,
+                        "lng":-73.9207701
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6641271303,
+                              "lng":-73.9192939197
+                        },
+                        "southwest":{
+                              "lat":40.6614291697,
+                              "lng":-73.9219918803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BK PIZZA",
+            "place_id":"ChIJ5zEtJi1dwokRgwK-G48HmM8",
+            "plus_code":{
+                  "compound_code":"M37H+3M New York, NY, USA",
+                  "global_code":"87G8M37H+3M"
+            },
+            "rating":4.9,
+            "reference":"ChIJ5zEtJi1dwokRgwK-G48HmM8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":480,
+            "vicinity":"190 East 98th Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103128750809786409285\">BK PIZZA<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJXwa-m2A59bGn7jqVlcxJBAloqNQ7abxjv0LVwEmktQ-pMQUHyU1oXU11R4IDHB-H3PC4GPooDOQ0dExMG9E2ROHI18LQzE9D00U0j0HGv9KvKtNIJfBAV98u0VJXuXjPTYqQiVLX8ANSsibuCyXVU7RjphzonuVFLEKgnMsahcGny",
+                        "width":1600
+                  }
+            ],
+            "CBG":360470892004,
+            "Radius":116.6604367113
+      }
+]

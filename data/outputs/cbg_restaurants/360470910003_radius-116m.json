@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6639017,
+                        "lng":-73.9028522
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6650414803,
+                              "lng":-73.9014520197
+                        },
+                        "southwest":{
+                              "lat":40.6623435197,
+                              "lng":-73.9041499803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"LagozianFoodsandMarket1.com",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":877,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115136650215592954076\">LagozianFoodsandMarket1.com<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ6xFdHU2lQQ7OESQ4pOx0gpGJeHumQ59mx0ur0VTnX6eTl6mLCHFun3EQPYhOBySqw-_UDIn4oFelQtROemnnDH20QsD_pYGUs9L1ha0t64YLFge7yZKyCpA_YsxkZlxXNWvcvbvOE9ZNZKMQwq-k76EF5cV-5puu5JMUXxApdYJxJ",
+                        "width":637
+                  }
+            ],
+            "place_id":"ChIJFe0zuQtdwokRUVaSBgRYMmo",
+            "plus_code":{
+                  "compound_code":"M37W+HV Brooklyn, NY, USA",
+                  "global_code":"87G8M37W+HV"
+            },
+            "rating":5,
+            "reference":"ChIJFe0zuQtdwokRUVaSBgRYMmo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"395 Livonia Avenue #11g, Brooklyn",
+            "CBG":360470910003,
+            "Radius":115.8334939576
+      }
+]

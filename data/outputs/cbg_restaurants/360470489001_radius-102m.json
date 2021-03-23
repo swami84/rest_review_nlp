@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7040555,
+                        "lng":-73.9392374
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7054359803,
+                              "lng":-73.9378876697
+                        },
+                        "southwest":{
+                              "lat":40.7027380197,
+                              "lng":-73.9405856303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ecudorian",
+            "place_id":"ChIJpaAghGNbwokRYDprfm6V68M",
+            "plus_code":{
+                  "compound_code":"P336+J8 Brooklyn, NY, USA",
+                  "global_code":"87G8P336+J8"
+            },
+            "reference":"ChIJpaAghGNbwokRYDprfm6V68M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Moore Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470489001,
+            "Radius":102.4279934814
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7035446,
+                        "lng":-73.9409888
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7047217803,
+                              "lng":-73.9396289197
+                        },
+                        "southwest":{
+                              "lat":40.7020238197,
+                              "lng":-73.9423268803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ra Monita",
+            "place_id":"ChIJg6npRPlbwokROomQkmy-eGE",
+            "plus_code":{
+                  "compound_code":"P335+CJ New York, NY, USA",
+                  "global_code":"87G8P335+CJ"
+            },
+            "reference":"ChIJg6npRPlbwokROomQkmy-eGE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"108 Moore Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4608,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103072195239836225408\">Jose<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJvSx3wgf5ySiR8kmBLjWFyP4DcH6EUNJZ3DU8xOQC1JLEE-nk-eBN3N_G7MR4jshFeJ45qAQpkXndbw1ZfqS5rvbx9DbV7SJUju9mnjNiotcilAdQ7oX7tvI8GEbQdlujAAVhWQl5K5y2rK7rTjgC3LDf17tHzTSK3rErDpOHAeZXS",
+                        "width":3456
+                  }
+            ],
+            "rating":4.7,
+            "user_ratings_total":6.0,
+            "CBG":360470489001,
+            "Radius":102.4279934814
+      }
+]

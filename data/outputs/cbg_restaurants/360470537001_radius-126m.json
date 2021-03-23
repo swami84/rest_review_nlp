@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7025828,
+                        "lng":-73.9596496
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7039791803,
+                              "lng":-73.9582239197
+                        },
+                        "southwest":{
+                              "lat":40.7012812197,
+                              "lng":-73.9609218803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bedford Paradise",
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115827214606898580311\">Grabiela Reyes<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKINWfd8OBEqq_U1Ps3l6XpBczOdZT0RKvRbLBavvV0bz_wLnaPyqieciHTUDWW67GQwHNcl7ZvqumVtnq6tuXFatxBQWaIWV3PfIijdhoZWhFpak27a9KnrnLs476Ew8rmh-CJK-7ir587EiymDYr1yDV2013Xal9s6pwZOEjAhYQj",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJOyCuqS1bwokRpGhEaEKOg6g",
+            "plus_code":{
+                  "compound_code":"P23R+24 New York, NY, USA",
+                  "global_code":"87G8P23R+24"
+            },
+            "rating":4.8,
+            "reference":"ChIJOyCuqS1bwokRpGhEaEKOg6g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"620 Bedford Avenue, Brooklyn",
+            "CBG":360470537001,
+            "Radius":126.4917575928
+      }
+]

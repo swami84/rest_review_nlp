@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7171513,
+                        "lng":-73.9406797
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7184498803,
+                              "lng":-73.9392882697
+                        },
+                        "southwest":{
+                              "lat":40.7157519197,
+                              "lng":-73.9419862303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taste Of Heaven",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107066916329638624969\">Maarz Life<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ5CuWkg_gZo9-7IQbw46a1_AVwAO94CP968kBIR-EVlic2Vos0-_DQycG0opSxbJU5Php13XUd0GFQ112OcJqWwj3f4EwqLNV9LSP-hQvzvMCewCtp6KUxZmoORY8qD4r2MiCRoyAI9PwC3bmkGFtr6GDtSHUOyE3kxB2Ume94Kand",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJvUlmNFJZwokRO03STM7jQ8w",
+            "plus_code":{
+                  "compound_code":"P385+VP Brooklyn, NY, USA",
+                  "global_code":"87G8P385+VP"
+            },
+            "price_level":1.0,
+            "rating":4.8,
+            "reference":"ChIJvUlmNFJZwokRO03STM7jQ8w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":278,
+            "vicinity":"251 Jackson Street, Brooklyn",
+            "CBG":360470477002,
+            "Radius":181.4139301768
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7169543,
+                        "lng":-73.9428656
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7183105303,
+                              "lng":-73.9416220697
+                        },
+                        "southwest":{
+                              "lat":40.7156125697,
+                              "lng":-73.9443200303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cozy Royale",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114095660721755749106\">Jessica Lin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIlt-Gftc07hEgsqKnuhscLOaQwbCDgTAYEpUeBZ8G3FMHn5W9orCtcBfAwh-jITPtHZy9YfEkNwht9mNJpcdJ-_5fiycK1zXE8lQ622eh4BFRIaqrtpnPHgPEYmS7FeOMPdfi9pC-10OiM5DUseDPDY5AG_2SUbT8SyL2kGJNkO7XN",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJcUYuBjVZwokR0hbpWj6d6X4",
+            "plus_code":{
+                  "compound_code":"P384+QV New York, NY, USA",
+                  "global_code":"87G8P384+QV"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJcUYuBjVZwokR0hbpWj6d6X4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"434 Humboldt Street, Brooklyn",
+            "CBG":360470477002,
+            "Radius":181.4139301768
+      }
+]

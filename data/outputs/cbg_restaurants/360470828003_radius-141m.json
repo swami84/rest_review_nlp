@@ -1,0 +1,147 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6426514,
+                        "lng":-73.9514012
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6440003803,
+                              "lng":-73.9500522197
+                        },
+                        "southwest":{
+                              "lat":40.6413024197,
+                              "lng":-73.9527501803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chez Macul",
+            "place_id":"ChIJJyM4mkVbwokRvxe4mRVUYL4",
+            "plus_code":{
+                  "compound_code":"J2VX+3C Brooklyn, NY, USA",
+                  "global_code":"87G8J2VX+3C"
+            },
+            "rating":4.5,
+            "reference":"ChIJJyM4mkVbwokRvxe4mRVUYL4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1115 Rogers Avenue, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":360470828003,
+            "Radius":141.4237723598
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6411321,
+                        "lng":-73.951194
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6424725303,
+                              "lng":-73.9499739697
+                        },
+                        "southwest":{
+                              "lat":40.6397745697,
+                              "lng":-73.9526719303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"C & C",
+            "place_id":"ChIJ4ZbcDPxbwokRt3WYtBAl_Vo",
+            "plus_code":{
+                  "compound_code":"J2RX+FG Brooklyn, NY, USA",
+                  "global_code":"87G8J2RX+FG"
+            },
+            "rating":3.3,
+            "reference":"ChIJ4ZbcDPxbwokRt3WYtBAl_Vo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"1183 Rogers Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1586,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112827233923316294243\">C &amp; C<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLxk8wwUQeT7YVKR76qDqufR5DFj2PLn2xPDIrzEjKtudNju3SXcOXtwLn0K7L73I_RFs7dchhLRh24U1sV-Ao3LHJMKL4fgjMjpxoqEGIqAh-98liWMjSsBPhbzQaJOXJ2mLtAT1EdWsYPh1DeVaufjvtzzzPtSBZwSTNi4rHPYmKs",
+                        "width":771
+                  }
+            ],
+            "CBG":360470828003,
+            "Radius":141.4237723598
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.642926,
+                        "lng":-73.949016
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6442749803,
+                              "lng":-73.9476670197
+                        },
+                        "southwest":{
+                              "lat":40.6415770197,
+                              "lng":-73.9503649803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Yo Yo Fritaille",
+            "place_id":"ChIJn7z3PkVbwokRBk0EQqG5i9c",
+            "plus_code":{
+                  "compound_code":"J3V2+59 New York, NY, USA",
+                  "global_code":"87G8J3V2+59"
+            },
+            "rating":3.7,
+            "reference":"ChIJn7z3PkVbwokRBk0EQqG5i9c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"1758 Nostrand Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112287763824036273360\">JF Gerald George<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJwyc6XhtJPjUjPbTNc_MrkUpYbx5XkrT__NRLWQpwFi8TJhoyjA4MiUtvIARaG6tGKeJcR5BzzZ5iyMK2fWGSz__OuwZfn9mmSa7WjZLxUk8dLD44FZEEBgv-y01F7hk8lHiBWMjCy8ad42c68UV5klJeS7-kw_3FRMxb1e3nBSNo7",
+                        "width":2988
+                  }
+            ],
+            "CBG":360470828003,
+            "Radius":141.4237723598
+      }
+]

@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6521994,
+                        "lng":-73.924471
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6535438303,
+                              "lng":-73.9231948697
+                        },
+                        "southwest":{
+                              "lat":40.6508458697,
+                              "lng":-73.9258928303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Shashemane International Restaurant",
+            "place_id":"ChIJD2sx45lcwokR5pK_dvOFonk",
+            "plus_code":{
+                  "compound_code":"M32G+V6 Brooklyn, NY, USA",
+                  "global_code":"87G8M32G+V6"
+            },
+            "rating":4.7,
+            "reference":"ChIJD2sx45lcwokR5pK_dvOFonk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"195 East 56th Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "CBG":360470938001,
+            "Radius":140.1145265141
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.65228,
+                        "lng":-73.9244329
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6537436303,
+                              "lng":-73.9230953197
+                        },
+                        "southwest":{
+                              "lat":40.6510456697,
+                              "lng":-73.9257932803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Funcity",
+            "place_id":"ChIJIx_c_JlcwokRQW3BxyjRl9I",
+            "plus_code":{
+                  "compound_code":"M32G+W6 Brooklyn, NY, USA",
+                  "global_code":"87G8M32G+W6"
+            },
+            "rating":4.4,
+            "reference":"ChIJIx_c_JlcwokRQW3BxyjRl9I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":220,
+            "vicinity":"5602 Church Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115924793540509610412\">Mich S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJWfRBfleECyPEogwpS2GlggPa-UbERy8g5BJQMxWyclxYETM9kcNmDPzBb6s1yyVt9Uau_bbu70RICZtpo-Jr0M73lrwcgd6BLT-F-2P85aD-yFsRHi_F7YshbN9w4UsTl59XulJgWn_CO397iRp6Fuhn5TbErW3CepiSbngU-wGeZ",
+                        "width":4032
+                  }
+            ],
+            "price_level":2.0,
+            "CBG":360470938001,
+            "Radius":140.1145265141
+      }
+]

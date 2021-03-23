@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6378248,
+                        "lng":-73.89689
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6391737803,
+                              "lng":-73.8955410197
+                        },
+                        "southwest":{
+                              "lat":40.6364758197,
+                              "lng":-73.8982389803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bamboo Garden",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114715207593110148002\">StiLL Ro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJHDbi18H7YOlJHh-Z18wzV-SOHaixM__smJisCNsc6ftzL8g_9OWENud5ttzTocv3wieFJizJMzFoWrMWWxUbxboZTup1wAJKdrfDBS6RAvJIEZdZbhX3h6v7CIlamyPhVvsQB5CjoGXEziD8HdPqiI0oyeYU5VCk_m2zXid-IY0Hx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJSTkEl9tcwokRk0xakFhvxtE",
+            "plus_code":{
+                  "compound_code":"J4Q3+46 New York, NY, USA",
+                  "global_code":"87G8J4Q3+46"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJSTkEl9tcwokRk0xakFhvxtE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":369,
+            "vicinity":"9501 Avenue L, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470990001,
+            "Radius":228.2849379085
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.637628,
+                        "lng":-73.897417
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6388881303,
+                              "lng":-73.8959670197
+                        },
+                        "southwest":{
+                              "lat":40.6361901697,
+                              "lng":-73.8986649803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chloe's",
+            "photos":[
+                  {
+                        "height":533,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108723904928319896959\">Chloe&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL0lAHh1zThn_VBXLa0b4lYHgDL_GbCj_C7uNFSPAD66PG82_P1wt56vZ0DALnb36F3LNHk_IKV62v0PBlJ8JTgw2_MXsJ5C8dG2tKTb08i-OfmZZHugbdIiQTG45VdVH780kY3wzEe-Za9lDJ7K8TE7ukgsMADE7PjnMZFmGWW-rUU",
+                        "width":798
+                  }
+            ],
+            "place_id":"ChIJ1yDZo9tcwokRszoQKthSSwg",
+            "plus_code":{
+                  "compound_code":"J4Q3+32 Brooklyn, NY, USA",
+                  "global_code":"87G8J4Q3+32"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJ1yDZo9tcwokRszoQKthSSwg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":594,
+            "vicinity":"9413 Avenue L, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470990001,
+            "Radius":228.2849379085
+      }
+]

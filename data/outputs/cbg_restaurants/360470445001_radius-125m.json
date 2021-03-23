@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7049645,
+                        "lng":-73.9175718
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7063671303,
+                              "lng":-73.9161677697
+                        },
+                        "southwest":{
+                              "lat":40.7036691697,
+                              "lng":-73.9188657303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gordo's Cantina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117187454227026743933\">Gordo&#39;s Cantina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKHZbZl7y7u7f2ZMsRArOjO-QlLydZY67C8XWk26TgRb9q5f0e28mFqbGZ3-SzxDpGZwE7-21g3EURzgtn5q-U7V_xRu2RUU2PEusjXIqTfgE6zM_BhCc77lWS8VmozQL9i6cPV9roGTy8R8Xs0ygc0DiWHGk6UGulkAP7uYir2mQph",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJ4ahOydVYwokR7cBu4R_8BXo",
+            "plus_code":{
+                  "compound_code":"P33J+XX New York, NY, USA",
+                  "global_code":"87G8P33J+XX"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJ4ahOydVYwokR7cBu4R_8BXo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":331,
+            "vicinity":"140 Saint Nicholas Avenue, Brooklyn",
+            "CBG":360470445001,
+            "Radius":124.7458765481
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7051875,
+                        "lng":-73.9173539
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7064994303,
+                              "lng":-73.9159409197
+                        },
+                        "southwest":{
+                              "lat":40.7038014697,
+                              "lng":-73.9186388803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Anna's Best",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ4bi8Ex5cwokRopS8I_WiFiI",
+            "plus_code":{
+                  "compound_code":"P34M+33 Brooklyn, NY, USA",
+                  "global_code":"87G8P34M+33"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJ4bi8Ex5cwokRopS8I_WiFiI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"Brooklyn",
+            "CBG":360470445001,
+            "Radius":124.7458765481
+      }
+]

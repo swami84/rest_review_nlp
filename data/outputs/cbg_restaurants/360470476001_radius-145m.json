@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6297723,
+                        "lng":-73.9791411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6311253803,
+                              "lng":-73.9777952197
+                        },
+                        "southwest":{
+                              "lat":40.6284274197,
+                              "lng":-73.9804931803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Astro pollo",
+            "place_id":"ChIJ175UhflFwokROONMuC6mxeo",
+            "plus_code":{
+                  "compound_code":"J2HC+W8 New York, NY, USA",
+                  "global_code":"87G8J2HC+W8"
+            },
+            "reference":"ChIJ175UhflFwokROONMuC6mxeo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470476001,
+            "Radius":144.9055897887
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.629978,
+                        "lng":-73.9773146
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6313433303,
+                              "lng":-73.9758211697
+                        },
+                        "southwest":{
+                              "lat":40.6286453697,
+                              "lng":-73.9785191303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Chocomiles",
+            "place_id":"ChIJfcbdSBFFwokRtOXmvmwRtug",
+            "plus_code":{
+                  "compound_code":"J2HF+X3 Brooklyn, NY, USA",
+                  "global_code":"87G8J2HF+X3"
+            },
+            "reference":"ChIJfcbdSBFFwokRtOXmvmwRtug",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"976 McDonald Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101916880375579359618\">Los Chocomiles<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIb1GeacAKOf2Xcpba_04ZIog8Wa9Xs4otViaX8F1KZaX8JeVljMQX5Au5x93VxZ1-HR0wH0nokxqGEJWz79CjvZFdoN_taAS5aJYt_Row1lz_zMgu6mRqHCMD7NmP5FQekAHzGNZy2nSL-xFlOBos8TQ4-fkvZntQvT9n8tArPK5lx",
+                        "width":4032
+                  }
+            ],
+            "rating":4.6,
+            "user_ratings_total":19.0,
+            "CBG":360470476001,
+            "Radius":144.9055897887
+      }
+]

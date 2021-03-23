@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6633432,
+                        "lng":-73.925762
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6646185303,
+                              "lng":-73.9243292197
+                        },
+                        "southwest":{
+                              "lat":40.6619205697,
+                              "lng":-73.9270271803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kam Long Chinese food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102623199480452787066\">Claudia P. Landa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLLf00Hgg-sQ2IyU1dCcnQDjUVMS-48u3paw30oBUIc5lwnjDrmJvxioxgtmBPIIf2SekQ5nWTcJ5oeuy0fOERsmcHIj_Ufegr9FGiX73LpOu_6N4a0M8wlG0GR6pM9aEdn0VEFObTR0gvEHfIna2wmqV3dwxEChBNi2ixXGqVM4UVq",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ323Y3sldwokR1SpXcHdGlYA",
+            "plus_code":{
+                  "compound_code":"M37F+8M Brooklyn, NY, USA",
+                  "global_code":"87G8M37F+8M"
+            },
+            "reference":"ChIJ323Y3sldwokR1SpXcHdGlYA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1031 Rutland Road, Brooklyn",
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470884001,
+            "Radius":120.2306402764
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.66334,
+                        "lng":-73.925762
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6646153803,
+                              "lng":-73.9243298697
+                        },
+                        "southwest":{
+                              "lat":40.6619174197,
+                              "lng":-73.9270278303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kam Long Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108436977413684756084\">huamei zhu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZXacVumUk0BFPzY_miOfTP-zT3Mh5TRJg5UFM_JmJRiggzfrS12K1N0phcP584pwMyqxBvo4U0fvoY1YOAhyauSNBNxFTXiiLMt5n7K2SNlS8L947zM5sojPxRPyXCF57uOiIWBcqamvZTVYxcW_uzvsUWrfmnPEPsoxH79ZSMWMq",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJrxZPc4ZcwokRfnAyt3lvkw8",
+            "plus_code":{
+                  "compound_code":"M37F+8M Brooklyn, NY, USA",
+                  "global_code":"87G8M37F+8M"
+            },
+            "reference":"ChIJrxZPc4ZcwokRfnAyt3lvkw8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1031 Rutland Road, Brooklyn",
+            "price_level":1.0,
+            "rating":3.4,
+            "user_ratings_total":69.0,
+            "CBG":360470884001,
+            "Radius":120.2306402764
+      }
+]

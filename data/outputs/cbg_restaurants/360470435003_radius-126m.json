@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.696466,
+                        "lng":-73.913883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6977541803,
+                              "lng":-73.9125954197
+                        },
+                        "southwest":{
+                              "lat":40.6950562197,
+                              "lng":-73.9152933803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nacho Macho Taco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2976,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115783535679233149369\">Eva Cai<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL1FhzaB1s-z7Mq2vsVNisS0IGYsFO4JeMal0f5-EWKPyDUYkdW_sIHKYkUQZcj-wT05mAckq-5UG8NkIsYVGBwDN8syw5TndYQOVS9iRiNROy9a7jrWfLnBTRXFu6FeBkK7kpicBATTWUSNF44DviHOSCjdIVmiskLj4yyKb-W7jDc",
+                        "width":3968
+                  }
+            ],
+            "place_id":"ChIJw_a_Q15dwokRG2DA9ptybUc",
+            "plus_code":{
+                  "compound_code":"M3WP+HC Brooklyn, NY, USA",
+                  "global_code":"87G8M3WP+HC"
+            },
+            "rating":4.4,
+            "reference":"ChIJw_a_Q15dwokRG2DA9ptybUc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"591 Knickerbocker Avenue, Brooklyn",
+            "CBG":360470435003,
+            "Radius":125.9988316351
+      }
+]

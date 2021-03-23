@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LWZtWmZnEAE",
+        "caption": "One of my new favorite places \ud83d\ude0b",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Monica Crist",
+        "n_review_user": 20,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117300709159619750156/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4dTVxcWFREAE",
+        "caption": "I got the Peanut Butter Cup Shake and it was really good! Cant wait to try more flavors!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Paulina White",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106425158284488465525/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNXVDM25nRRAB",
+        "caption": "Love this place! I recommend the cucumber watermelon loaded tea and the cake batter shake! They have so many tasty options and combo deals. The staff is always so nice and helpful!",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Abby Williamson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113480358639235117809/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    }
+]

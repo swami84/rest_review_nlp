@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6667772,
+                        "lng":-73.8813239
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6682163803,
+                              "lng":-73.8799614197
+                        },
+                        "southwest":{
+                              "lat":40.6655184197,
+                              "lng":-73.8826593803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken & Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":805,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108417647437589480628\">Crown Fried Chicken &amp; Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJWneYFPyKKoSMDoAxhItBYd8sQC5GqQGCSWK44DBsqSvvJ9y5wOzwgXo09aZkYkGRLvgb7zojG_xbX7Yzo7Pt6SOyIm6PK5fieDeNIBeQJw6lWa_t2rW0fVEab3AYVQP09Vdalh-YcDsCSqvmHkHxki2hP91KGk_QbcZmaj4JcYTAk",
+                        "width":1376
+                  }
+            ],
+            "place_id":"ChIJr7zbyK5dwokRJ4fo4QBpU3I",
+            "plus_code":{
+                  "compound_code":"M489+PF New York, NY, USA",
+                  "global_code":"87G8M489+PF"
+            },
+            "rating":3.0,
+            "reference":"ChIJr7zbyK5dwokRJ4fo4QBpU3I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":73,
+            "vicinity":"790 New Lots Avenue, Brooklyn",
+            "CBG":360471120001,
+            "Radius":130.4327738219
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6668116,
+                        "lng":-73.8812822
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6682335803,
+                              "lng":-73.8799614197
+                        },
+                        "southwest":{
+                              "lat":40.6655356197,
+                              "lng":-73.8826593803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Horse",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109846195087749098068\">Jay Aone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKp4zJmOWSI8RXWREeeNprhyMQ4ROZdoxCyfpLLaiq18torIjemepHr862XtFoREpfWiQRoVEooig-mqfLThbvjchezS_K24WlgB6mwnDdZtdlZ5QQmTamwXIxSbMkz3-H94WdbGsQcxPQyDVedZ7OcJhy2voG-FuZ0mRjcBsHNWmJm",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJw5AEya5dwokRKjfiZJbiHKo",
+            "plus_code":{
+                  "compound_code":"M489+PF Brooklyn, NY, USA",
+                  "global_code":"87G8M489+PF"
+            },
+            "rating":3.9,
+            "reference":"ChIJw5AEya5dwokRKjfiZJbiHKo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"792 New Lots Avenue, Brooklyn",
+            "CBG":360471120001,
+            "Radius":130.4327738219
+      }
+]

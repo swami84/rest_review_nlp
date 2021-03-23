@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6581762,
+                        "lng":-73.9242826
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6596170303,
+                              "lng":-73.9229921197
+                        },
+                        "southwest":{
+                              "lat":40.6569190697,
+                              "lng":-73.9256900803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Mum's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105103902099318771076\">Carolyn Williams<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOuWrqhiT32wSSLKbQu32x29WBOSWZpd0PHZ7WKEOEYi08R1aSpwIWJSfFEaYRvoJ7xZWbubKnmC50j1yoyZGP7wBHuGuEEu6c3a-y1h2XVAjDzxnzqNFIXHDvVZnVRuVhYn3U71-AvUV4THS8wO9PobS5Nk_M32SjZKK3bdOgkWZk",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJ79_HV4VcwokRFPrwv8GM4c0",
+            "plus_code":{
+                  "compound_code":"M35G+77 Brooklyn, NY, USA",
+                  "global_code":"87G8M35G+77"
+            },
+            "rating":3.6,
+            "reference":"ChIJ79_HV4VcwokRFPrwv8GM4c0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"1010 Clarkson Avenue #1010, Brooklyn",
+            "CBG":360470882004,
+            "Radius":135.722485659
+      }
+]

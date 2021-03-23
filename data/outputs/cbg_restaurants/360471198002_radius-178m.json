@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6763061,
+                        "lng":-73.8936354
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6775734303,
+                              "lng":-73.8922674697
+                        },
+                        "southwest":{
+                              "lat":40.6748754697,
+                              "lng":-73.8949654303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Happy Coffee Shop Inc.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113907942023146421564\">Angela S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJYht_mw0RfpVwNGlois8BNyMqfiW3MeevHYocuTIWlKSUAoJt9cP2Pa3nS4Y8mBzKBIrI8iBkI-Rtd7TXBSGb-5FYOnBy3s9p_B1hytxAXtp6xoCnK0tyYQxfBP_Li-IYDGqlKyQiGkIsN0alrMkVxKkEL17ihFryh8oFcrLqm30VO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhcXsOUxcwokRASIQF6LTUuc",
+            "plus_code":{
+                  "compound_code":"M4G4+GG New York, NY, USA",
+                  "global_code":"87G8M4G4+GG"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJhcXsOUxcwokRASIQF6LTUuc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"2729 Atlantic Avenue, Brooklyn",
+            "CBG":360471198002,
+            "Radius":178.0811490602
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.676116,
+                        "lng":-73.8952431
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6774649803,
+                              "lng":-73.8938941197
+                        },
+                        "southwest":{
+                              "lat":40.6747670197,
+                              "lng":-73.8965920803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Spring Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110807808942323865497\">Jonathan Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJo47228M85frptVAiwqmUV4b6S-Pcw9WRlfAhcxBQDdT9wISbjw0jXLB5ZqX-x3jIWP81pTMlY8WXrx2Zhs-Kcc58QLIF07f51XW5ChU1aviUFPVIOAlzlanU4ACq_pibArONdBZoFkP0zxQaIzPUK5s50zYLbkAjJK8cjQXMFz3sL",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJIWywhk5cwokR96I8OxjKtD4",
+            "plus_code":{
+                  "compound_code":"M4G3+CW Brooklyn, NY, USA",
+                  "global_code":"87G8M4G3+CW"
+            },
+            "price_level":null,
+            "rating":3.8,
+            "reference":"ChIJIWywhk5cwokR96I8OxjKtD4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"2689 Atlantic Avenue, Brooklyn",
+            "CBG":360471198002,
+            "Radius":178.0811490602
+      }
+]

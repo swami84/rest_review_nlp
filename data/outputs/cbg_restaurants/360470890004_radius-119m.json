@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.65573,
+                        "lng":-73.915665
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6570321803,
+                              "lng":-73.9142629197
+                        },
+                        "southwest":{
+                              "lat":40.6543342197,
+                              "lng":-73.9169608803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Krust Caribbean Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1316,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118282300315952943930\">Golden Krust Caribbean Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL80AGVK5eFNngmIEKzpsIKqpJf7US-0cAvTFHzLdmt1_FsQFWqLPdFOAvz258XW5SSEgHDlLBmnwlW__j4puub6KjtOWyitpKJyaWrXYQiZbqfXJ3vTOuRIPzHqzxu_U--k5puJxlfRd8wXuYWG0fPt3gaIIGv-ZGqc9ALzH_U08lO",
+                        "width":1757
+                  }
+            ],
+            "place_id":"ChIJhRV8Y5JcwokRBwUw50lC-vg",
+            "plus_code":{
+                  "compound_code":"M34M+7P New York, NY, USA",
+                  "global_code":"87G8M34M+7P"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJhRV8Y5JcwokRBwUw50lC-vg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"9529 Church Avenue, Brooklyn",
+            "CBG":360470890004,
+            "Radius":118.5429312332
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6559306,
+                        "lng":-73.9153883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6572795803,
+                              "lng":-73.9140393197
+                        },
+                        "southwest":{
+                              "lat":40.6545816197,
+                              "lng":-73.9167372803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Arashi Sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106990821322174459326\">Arashi Sushi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI1EwT5pIcLszl3MyQxKcw7Fl6z0TVWzq54YSArh3qEIjzEHgbsS3LWxSU4fqDYThlfFX281JGtBJyn6ACU2KjDtjVW9kM7vViyGWb3PYsF07Jue2kRw9iKDQnmAV4-ePt1msaX_NilzmBKPRuUNS7jPasG1z2eG5nCsyKfdv6KFu2l",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJpxd7fZJcwokRuZcS0ruaXz0",
+            "plus_code":{
+                  "compound_code":"M34M+9R Brooklyn, NY, USA",
+                  "global_code":"87G8M34M+9R"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJpxd7fZJcwokRuZcS0ruaXz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":209,
+            "vicinity":"9605 Church Avenue, Brooklyn",
+            "CBG":360470890004,
+            "Radius":118.5429312332
+      }
+]

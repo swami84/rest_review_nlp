@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6955482,
+                        "lng":-73.9169672
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6969524303,
+                              "lng":-73.9155640197
+                        },
+                        "southwest":{
+                              "lat":40.6942544697,
+                              "lng":-73.9182619803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"REGALO DE JUQUILA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100965194630072311088\">Alma Orea<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ0z0mOoMYY6oDhNphMdxBR3T5Z9ReVyScL7vT3jURGV0zyCwFcyB6YkrazdKVDybDGq5M_iXKyas1XqkRWpyBU-mxnxuvUUsNZdLj4jO4qwVigYZ7Klvj3SdwoDPoA1bRrIkHVFhEtEpttdCw16VCgJQDlfr4Yj4hFG705WNhECjIL",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJ1xJnmVNdwokR2Y0Dc8kZQwA",
+            "plus_code":{
+                  "compound_code":"M3WM+66 New York, NY, USA",
+                  "global_code":"87G8M3WM+66"
+            },
+            "rating":5,
+            "reference":"ChIJ1xJnmVNdwokR2Y0Dc8kZQwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"340 Wilson Avenue, Brooklyn",
+            "CBG":360470433001,
+            "Radius":160.6970010188
+      }
+]

@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6498952,
+                        "lng":-73.8860641
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6513022803,
+                              "lng":-73.8848867697
+                        },
+                        "southwest":{
+                              "lat":40.6486043197,
+                              "lng":-73.8875847303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taste on the fly",
+            "place_id":"ChIJyagxChJdwokR5p4WolKdMSQ",
+            "plus_code":{
+                  "compound_code":"J4X7+XH Brooklyn, NY, USA",
+                  "global_code":"87G8J4X7+XH"
+            },
+            "reference":"ChIJyagxChJdwokR5p4WolKdMSQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"50 Vandalia Avenue, Brooklyn",
+            "CBG":360471058043,
+            "Radius":176.7444876656
+      }
+]

@@ -1,0 +1,45 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6449866,
+                        "lng":-73.9236584
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6462633803,
+                              "lng":-73.9223030697
+                        },
+                        "southwest":{
+                              "lat":40.6435654197,
+                              "lng":-73.9250010303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Family Altagracia",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJd_HU0LxcwokR7pOwK-hOi7c",
+            "plus_code":{
+                  "compound_code":"J3VG+XG Brooklyn, NY, USA",
+                  "global_code":"87G8J3VG+XG"
+            },
+            "rating":4.4,
+            "reference":"ChIJd_HU0LxcwokR7pOwK-hOi7c",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"5601 Clarendon Road, Brooklyn",
+            "CBG":360470946002,
+            "Radius":124.6080103687
+      }
+]

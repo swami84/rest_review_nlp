@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6620591,
+                        "lng":-73.9397139
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6635058303,
+                              "lng":-73.9383637697
+                        },
+                        "southwest":{
+                              "lat":40.6608078697,
+                              "lng":-73.9410617303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Soul of the Sea",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102629937787251580734\">Seon Broome<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRQT8qF7CUsGVOqbU_r6muCDSGCCJzptDEwW0gqZ2eD8WjtcNVmoK7Edc7lA3CjqKOQmrSVLKIcCizrEuxDNxkjLFyL7dOPy8b1F7-YzdT1EYw9Ut7SgPa7ra6G4SDXotDyY66A5lGWnTOTgSVke6uUqV0sY12XFdwjWdImi6R5C7E",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPURy8XxbwokRtqe8g3xSnDY",
+            "plus_code":{
+                  "compound_code":"M366+R4 Brooklyn, NY, USA",
+                  "global_code":"87G8M366+R4"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJPURy8XxbwokRtqe8g3xSnDY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":225,
+            "vicinity":"527 Albany Avenue, Brooklyn",
+            "CBG":360470874011,
+            "Radius":152.6536879922
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6625949,
+                        "lng":-73.9398313
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6639404803,
+                              "lng":-73.9385660197
+                        },
+                        "southwest":{
+                              "lat":40.6612425197,
+                              "lng":-73.9412639803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sauce N Cheese",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":886,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114163062013753824352\">Y B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvcbgtE4qkrSpJloekSbLC6xa1pu0smlZx1Ix5HlxP2rHgWDsy6U4Xbu4Ty6Yi_N_l8gpkvdOgTsdfALk_UNPEMBkn8edoQxAH_HwYqZCxbkjrenus3MD5c7s3NQbO0bId2GZwW7gSTlrzwB5Twp0_BFmCYlnvAgSqtu8guFrfMBo0",
+                        "width":1051
+                  }
+            ],
+            "place_id":"ChIJpfW7WHxbwokRMXHBxOvKih8",
+            "plus_code":{
+                  "compound_code":"M376+23 Brooklyn, NY, USA",
+                  "global_code":"87G8M376+23"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJpfW7WHxbwokRMXHBxOvKih8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":178,
+            "vicinity":"509 Albany Avenue, Brooklyn",
+            "CBG":360470874011,
+            "Radius":152.6536879922
+      }
+]

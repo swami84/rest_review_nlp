@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4d2VISER3EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Karil Brodersen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117250925650401097491/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZamJ5R1JREAE",
+        "caption": "We had the food for a work event and it was very tasty. Good selection of food items. The death by chocolate was amazing! Highly recommend getting it for any event.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Liv Laugh BTS",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101038897647374413117/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cXV6OThRRRAB",
+        "caption": "Food is great ad well as service.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "Carol Lisenby",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117181231250392864253/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbmF5NzFBRRAB",
+        "caption": "Incredible food!!! Very delicious and fresh. The Blonde Gumbo is fantastic! Hambone soup is delicious also, with the cheese sandwiches you can't go wrong. Makes a good sour dough bread too.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Joseph Barnett",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109968072918048098115/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    }
+]

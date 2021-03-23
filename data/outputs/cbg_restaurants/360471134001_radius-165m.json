@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6689593,
+                        "lng":-73.8993186
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6703082803,
+                              "lng":-73.8979696197
+                        },
+                        "southwest":{
+                              "lat":40.6676103197,
+                              "lng":-73.9006675803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brooklyn Born Food",
+            "place_id":"ChIJmb6VSldcwokRsa9QMUOXvd0",
+            "plus_code":{
+                  "compound_code":"M492+H7 Brooklyn, NY, USA",
+                  "global_code":"87G8M492+H7"
+            },
+            "reference":"ChIJmb6VSldcwokRsa9QMUOXvd0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"533 Sutter Avenue, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360471134001,
+            "Radius":165.3643422938
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6673665,
+                        "lng":-73.8991767
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6686309803,
+                              "lng":-73.8978068697
+                        },
+                        "southwest":{
+                              "lat":40.6659330197,
+                              "lng":-73.9005048303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Hop Shing Kitchen",
+            "place_id":"ChIJQ3AeE1dcwokRNksDqJhGzhQ",
+            "plus_code":{
+                  "compound_code":"M482+W8 Brooklyn, NY, USA",
+                  "global_code":"87G8M482+W8"
+            },
+            "reference":"ChIJQ3AeE1dcwokRNksDqJhGzhQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"533 Blake Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115924793540509610412\">Mich S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLiR4ERepEugrqZB4mko30DpV0A848z9YRXct1GY4zZl7hjQ_sUzcdBRTLfhBHSZrHpXMFWkHUS7TpBzneZSoAdaIozs4oc0F2vWxyTI1Qn9A0xXJMoHA2bX-Iu8tuTIpqqqgf2KaHxIXtW1lFJzahc17JG4nl_PlbE5hm4mvOP_J_G",
+                        "width":4032
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.4,
+            "user_ratings_total":72.0,
+            "CBG":360471134001,
+            "Radius":165.3643422938
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6259546,
+                        "lng":-73.9651979
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6273608303,
+                              "lng":-73.9638620697
+                        },
+                        "southwest":{
+                              "lat":40.6246628697,
+                              "lng":-73.9665600303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Schnitzi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1196,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102004722139940664087\">Schnitzi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL383SuK0HJsfosK_ZUV3p26aJnBWCsAN6iPgOC1IDyy6hhCqkfocYij06ufxk7djvjZsafHeQ9WJueV-Alx6FL1-Gg1OeyCdodlNbKeN5k6JAUx_YA1qICjNOGUu_DMfa2-Q3E4qVROLZmpur9Nq7kmiQ4cCqf1dsstWrGHPzd4gIp",
+                        "width":1804
+                  }
+            ],
+            "place_id":"ChIJ55bw0shEwokRPIo6dUtyKfk",
+            "plus_code":{
+                  "compound_code":"J2GM+9W Brooklyn, NY, USA",
+                  "global_code":"87G8J2GM+9W"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ55bw0shEwokRPIo6dUtyKfk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":408,
+            "vicinity":"1299 Coney Island Avenue, Brooklyn",
+            "CBG":360470530003,
+            "Radius":167.6022945721
+      }
+]

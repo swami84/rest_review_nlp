@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.708129,
+                        "lng":-73.9508808
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7095269803,
+                              "lng":-73.9494663697
+                        },
+                        "southwest":{
+                              "lat":40.7068290197,
+                              "lng":-73.9521643303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Williamsburg Pizza Union Avenue",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118035752432278521359\">Williamsburg Pizza Union Avenue<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJsothWmJtP0Vi_OhT2SHBkckcy-iOntJHEMhJ2RAdm7VlsxkMgPudgDMH40F1QX2Kr6_1IM0LHs6Te5v1TSPC8UNH0DGNeGJ_ZQJ2iDAGyulIoPVQ4y0cat5E2MdME6If3Thp_6yIfM-DtN4qaNLpilfSMYNZCEiBKeXB2ilsu7hC6",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJRYbaqeNbwokRGOxeKiWF1aM",
+            "plus_code":{
+                  "compound_code":"P25X+7J Brooklyn, NY, USA",
+                  "global_code":"87G8P25X+7J"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJRYbaqeNbwokRGOxeKiWF1aM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":535.0,
+            "vicinity":"265 Union Avenue, Brooklyn",
+            "CBG":360470527001,
+            "Radius":84.3741702448
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7080823,
+                        "lng":-73.9509034
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7095036303,
+                              "lng":-73.9494776697
+                        },
+                        "southwest":{
+                              "lat":40.7068056697,
+                              "lng":-73.9521756303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Trabajo Union",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJoUgRWo1bwokR-POYoSe3aHk",
+            "plus_code":{
+                  "compound_code":"P25X+6J New York, NY, USA",
+                  "global_code":"87G8P25X+6J"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJoUgRWo1bwokR-POYoSe3aHk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"265 Union Avenue, Brooklyn",
+            "CBG":360470527001,
+            "Radius":84.3741702448
+      }
+]

@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6072482,
+                        "lng":-73.952614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6085848303,
+                              "lng":-73.9513779197
+                        },
+                        "southwest":{
+                              "lat":40.6058868697,
+                              "lng":-73.9540758803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Krafers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJy6EguzdFwokR82K5XQgIvaU",
+            "plus_code":{
+                  "compound_code":"J24W+VX Brooklyn, NY, USA",
+                  "global_code":"87G8J24W+VX"
+            },
+            "rating":5,
+            "reference":"ChIJy6EguzdFwokR82K5XQgIvaU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2233 Ocean Avenue, Brooklyn",
+            "CBG":360470550002,
+            "Radius":147.2967078796
+      }
+]

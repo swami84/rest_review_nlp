@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6941108,
+                        "lng":-73.9185046
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6955202803,
+                              "lng":-73.9170958197
+                        },
+                        "southwest":{
+                              "lat":40.6928223197,
+                              "lng":-73.9197937803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rosario Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":373,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103814745568389519736\">Rosario Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIa-NwXqjnDK0PFQAncdNYBGC7wvOL2cI5WSNnmOOfU7KoQ8aCCZiZs67gWJulWcARP4axLOOnJDnbWNgmnCEQPG9xyMwBv2xgmwnQNPCGV_3Z7hGPyDW86hUx2fPV9jOLQ-edWa4DcK6q5n4OwLWTA1h16Oto0ZGkN3BEMnsp0XaNS",
+                        "width":664
+                  }
+            ],
+            "place_id":"ChIJXzYD1RBcwokRjDbKGRLKDSM",
+            "plus_code":{
+                  "compound_code":"M3VJ+JH New York, NY, USA",
+                  "global_code":"87G8M3VJ+JH"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJXzYD1RBcwokRjDbKGRLKDSM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":204,
+            "vicinity":"374 Central Avenue, Brooklyn",
+            "CBG":360470417003,
+            "Radius":106.7064334456
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6940337,
+                        "lng":-73.9177962
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6953389303,
+                              "lng":-73.9164904697
+                        },
+                        "southwest":{
+                              "lat":40.6926409697,
+                              "lng":-73.9191884303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Deli & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109755919089530703441\">The Tesla Ty 500 Show<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzR8gQGB8hWs9I0CH8ZVWtdrnl51HHaywErpd6BvtnSteVq41iOYGB134d10R7rMlneqNGJ9ThnlVsv4MAWhYBXsIlLkJB_aGuOZzROgnTkcELpNnbquhpJpiubtA2MOdxRHnQFAtbd1j12YI3nMUAibjORAWb6lSoNNr3Rr3HbdUU",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJkTOzKRdcwokR1PYsD3KqYmQ",
+            "plus_code":{
+                  "compound_code":"M3VJ+JV New York, NY, USA",
+                  "global_code":"87G8M3VJ+JV"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJkTOzKRdcwokR1PYsD3KqYmQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"365 Central Avenue, Brooklyn",
+            "CBG":360470417003,
+            "Radius":106.7064334456
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7065642,
+                        "lng":-73.9394974
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7079057303,
+                              "lng":-73.9382267697
+                        },
+                        "southwest":{
+                              "lat":40.7052077697,
+                              "lng":-73.9409247303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eim Dee Thai",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103419090392285477867\">Eim Dee Thai<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKsg7slIqid4y3Bvm9D-j9SAsXM3wnNAVympgEIJPaXAa89UV8uJe1kAPBDs2VXO0ZeFEsKl3gC9QD1EXbPOf7fxxO2FssNfuy8qPzGeZbkcDfnc50st8MT6fl53bPKlj_0OXJCTQJon4INgaIF0LJSiuVa2jB2SbGnAHuQCXEzVrI",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJe7kh-v5bwokR5SB09AtuQnE",
+            "plus_code":{
+                  "compound_code":"P346+J6 Brooklyn, NY, USA",
+                  "global_code":"87G8P346+J6"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJe7kh-v5bwokR5SB09AtuQnE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"279 Bushwick Avenue, Brooklyn",
+            "CBG":360470493004,
+            "Radius":111.8547647011
+      }
+]

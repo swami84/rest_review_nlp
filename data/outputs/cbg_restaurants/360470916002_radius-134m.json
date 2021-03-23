@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6598583,
+                        "lng":-73.9093628
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6612096803,
+                              "lng":-73.9079387697
+                        },
+                        "southwest":{
+                              "lat":40.6585117197,
+                              "lng":-73.9106367303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jerk Chicken Specialists ( Soul Jam Grill )",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2208,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112520211768351101417\">Jerk Chicken Specialists ( Soul Jam Grill )<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLUDFrqX3SHDR6HYoX2nnJiHIfp9jPxe6petFth2TkPgQQ9xQDF18VG8haGdDbj0CJ_Wg_3VWLDGyHKgKhzp1PwPeB7qHIIqS1ICyt-15jZLe0bS3FamV4jmUem-exTBacVXcIKrKG62ZhgJmovw9GPwesJeLw_7ZO2sOLAfwblMaX",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJdYbyoPNcwokRT35CqFIhH18",
+            "plus_code":{
+                  "compound_code":"M35R+W7 Brooklyn, NY, USA",
+                  "global_code":"87G8M35R+W7"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJdYbyoPNcwokRT35CqFIhH18",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":192,
+            "vicinity":"480 Chester Street, Brooklyn",
+            "CBG":360470916002,
+            "Radius":133.7307842097
+      }
+]

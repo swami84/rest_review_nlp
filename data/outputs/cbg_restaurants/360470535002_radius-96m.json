@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7049719,
+                        "lng":-73.959603
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7064125303,
+                              "lng":-73.9581103697
+                        },
+                        "southwest":{
+                              "lat":40.7037145697,
+                              "lng":-73.9608083303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Satmar Meats",
+            "place_id":"ChIJ14HqketbwokRHLstg1WQntg",
+            "plus_code":{
+                  "compound_code":"P23R+X5 New York, NY, USA",
+                  "global_code":"87G8P23R+X5"
+            },
+            "reference":"ChIJ14HqketbwokRHLstg1WQntg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"82 Lee Avenue, Brooklyn",
+            "CBG":360470535002,
+            "Radius":95.7128963326
+      }
+]

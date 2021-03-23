@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6801929,
+                        "lng":-73.8897842
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6814893303,
+                              "lng":-73.8884213197
+                        },
+                        "southwest":{
+                              "lat":40.6787913697,
+                              "lng":-73.8911192803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Richford's Kitchen",
+            "photos":[
+                  {
+                        "height":3370,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112717433579687487884\">Richford&#39;s Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ8UN0trGVyn7jagas0_plzEH2KZeyDiz-qgje8jj0yUreAMREmfFoLVz-TbLtmfE5QZL_a-P7pbcjJv05k3II3c_dEVWLKijDatzlWMMfBPHVA2J5tem-1HTj5326mHOp5FCsWleFOPICRgRs3M6-7py97aYSjUxduQ97mo_BSae71",
+                        "width":2554
+                  }
+            ],
+            "place_id":"ChIJsUGyzPxdwokRAxlwG95r4q8",
+            "plus_code":{
+                  "compound_code":"M4J6+33 Brooklyn, NY, USA",
+                  "global_code":"87G8M4J6+33"
+            },
+            "reference":"ChIJsUGyzPxdwokRAxlwG95r4q8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"135 Arlington Avenue, Brooklyn",
+            "CBG":360471146001,
+            "Radius":156.9410739195
+      }
+]

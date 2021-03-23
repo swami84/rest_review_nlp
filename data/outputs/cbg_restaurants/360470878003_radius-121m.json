@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.658234,
+                        "lng":-73.9306056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6596358303,
+                              "lng":-73.9292626197
+                        },
+                        "southwest":{
+                              "lat":40.6569378697,
+                              "lng":-73.9319605803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sliver Krust",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110563848863839331039\">Michael Caggiano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJPiZPksd320drw26RdOOU39R8RfkIpA8R_maAdFgWBLl223wK8aP1iC_qJ-McrpS241GwG50GYJ2lrj5zJJtqglXL-qtEqG0uOQpqeKOFJ6PJ6YXCQ_NEFwTtQtaw6vnSd0OKOVZ3f01rHbGsCy3YfaXcnVxw4nYM0WUMiMOCSdBAp",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJzcwbsZxcwokRt1OGpUJX6Qw",
+            "plus_code":{
+                  "compound_code":"M359+7Q Brooklyn, NY, USA",
+                  "global_code":"87G8M359+7Q"
+            },
+            "rating":3.7,
+            "reference":"ChIJzcwbsZxcwokRt1OGpUJX6Qw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"868 Winthrop Street, Brooklyn",
+            "CBG":360470878003,
+            "Radius":121.2088808496
+      }
+]

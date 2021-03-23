@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6773283,
+                        "lng":-73.8862458
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6787355303,
+                              "lng":-73.8849220697
+                        },
+                        "southwest":{
+                              "lat":40.6760375697,
+                              "lng":-73.8876200303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rico Chimi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107292775314100434636\">Gregory Espinosa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJX-8heUBt7GDoc49qxjv8XRtIwiv6MZfNDRtD28we0XGMBZTUO83rOalUzGZRuH_hu-099x3kxQRzzCaZShA4ROFKmAYOF6F3rBHHLFdw63T0ieK2-ZRRK4kaD_VbiHefTGiV0so6cpFmWXdf1yNp1UV8rvH6N-FfSTOe9E0fpUJ9v",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJtSk4gbRdwokR42Ig_M-vH38",
+            "plus_code":{
+                  "compound_code":"M4G7+WG Brooklyn, NY, USA",
+                  "global_code":"87G8M4G7+WG"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJtSk4gbRdwokR42Ig_M-vH38",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":785,
+            "vicinity":"2928 Atlantic Avenue, Brooklyn",
+            "CBG":360471170002,
+            "Radius":183.3477263835
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6778809,
+                        "lng":-73.8858492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6791430803,
+                              "lng":-73.8844579197
+                        },
+                        "southwest":{
+                              "lat":40.6764451197,
+                              "lng":-73.8871558803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Oracle Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115827471443937386249\">Oracle Lounge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIrp04LJd72Jj5aCoHE0RWqk7GVnhp7mmgb2Q8TrnVctUxfrR-oDGYL3BE4nGnaNWBShTSyM5JH66cpskow96VEJdm7X1B8bNmm3tKyNbA-WTbSK9rfNXsI9pYP8yuIf89nz6jjYLq0TSUEBZXz7bHnE8LWDtdSPODd5dYbJJtjEvA0",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJma-fdbRdwokRpPNSBhxRLpM",
+            "plus_code":{
+                  "compound_code":"M4H7+5M Brooklyn, NY, USA",
+                  "global_code":"87G8M4H7+5M"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJma-fdbRdwokRpPNSBhxRLpM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":251,
+            "vicinity":"2937 Atlantic Avenue, Brooklyn",
+            "CBG":360471170002,
+            "Radius":183.3477263835
+      }
+]

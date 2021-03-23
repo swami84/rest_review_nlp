@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6402656,
+                        "lng":-73.9511262
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6416056303,
+                              "lng":-73.9498918697
+                        },
+                        "southwest":{
+                              "lat":40.6389076697,
+                              "lng":-73.9525898303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lee's Resturant & Bakery",
+            "place_id":"ChIJ9ZIODk9bwokR1dp5d-eTtnA",
+            "plus_code":{
+                  "compound_code":"J2RX+4G Brooklyn, NY, USA",
+                  "global_code":"87G8J2RX+4G"
+            },
+            "rating":4.3,
+            "reference":"ChIJ9ZIODk9bwokR1dp5d-eTtnA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"1211 Rogers Avenue, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "CBG":360470828002,
+            "Radius":132.5065029419
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6407015,
+                        "lng":-73.9500461
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6421298303,
+                              "lng":-73.9487055697
+                        },
+                        "southwest":{
+                              "lat":40.6394318697,
+                              "lng":-73.9514035303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Step On Top Take Out Restaurant",
+            "place_id":"ChIJjU5_mU9bwokROUtwAkBNq6U",
+            "plus_code":{
+                  "compound_code":"J2RX+7X Brooklyn, NY, USA",
+                  "global_code":"87G8J2RX+7X"
+            },
+            "rating":4.3,
+            "reference":"ChIJjU5_mU9bwokROUtwAkBNq6U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"2810 Avenue D, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111847447877630170841\">Sean Greenwood<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJVdsvhrGIRo0m0oRFG_MBGKNxXmSUXZiQI9r4cu9Pzw88jMgbQ0b3W03aIahkMC84xZVjN4hIBzVNaDMdLzinYIuLVkKnzWhp60ZzESfoAqxC1WERolPTzjSD0ReYKClEuY-uSbW-y-hK2Gn118uhXjY9QBCLfFSPCjy6ilf7SZ1Tj",
+                        "width":4032
+                  }
+            ],
+            "CBG":360470828002,
+            "Radius":132.5065029419
+      }
+]

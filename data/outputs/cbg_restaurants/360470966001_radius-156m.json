@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6399849,
+                        "lng":-73.9060716
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6413718303,
+                              "lng":-73.9047648197
+                        },
+                        "southwest":{
+                              "lat":40.6386738697,
+                              "lng":-73.9074627803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sallys Fish and Things",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115190581174443432053\">Versatile Image<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLDAhdjmhajzGmsY4HnUmEpokVjoNnMLmUJo6RtFtmxx-cu_YjH_aKfEwd-jUlZ3gk7QhbtbNiQm7T6h86rpO0ahaqfMsH4gGwtz2R42h4OS5Z4_D8qG0pLUGDBtIdWhAnizc2o600CcIH86_sQPF3CfYnLiADDLRl1CR4OGQ8kvkxU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJZ2m5BcRcwokRmuXiV9WCen8",
+            "plus_code":{
+                  "compound_code":"J3QV+XH Brooklyn, NY, USA",
+                  "global_code":"87G8J3QV+XH"
+            },
+            "rating":3.9,
+            "reference":"ChIJZ2m5BcRcwokRmuXiV9WCen8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":212,
+            "vicinity":"8922 Flatlands Avenue, Brooklyn",
+            "CBG":360470966001,
+            "Radius":155.5046100394
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6399667,
+                        "lng":-73.9059949
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6413642803,
+                              "lng":-73.9045789197
+                        },
+                        "southwest":{
+                              "lat":40.6386663197,
+                              "lng":-73.9072768803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Canarsie Chicken & Gyro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101671571929848133815\">Mahtab Chowdhury<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMOFWQVRaqiGzgH1nVJl2bjDRBsGh9zddHSg0inw0ihwPg5dlBUvoMbRxDBTbwhIcf5my5kQb1L8LhICw6XWypGpftLqqJpfQ3MklWd8YyLW9KGc7OFiERzv6rZJRlALyJsn16Ff8mASXU-ApIvlZx8ntxRoAYYdBWZ0wacPMQNNtT",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJJz8YBsRcwokRcaC-qG6Olvw",
+            "plus_code":{
+                  "compound_code":"J3QV+XJ New York, NY, USA",
+                  "global_code":"87G8J3QV+XJ"
+            },
+            "rating":3.8,
+            "reference":"ChIJJz8YBsRcwokRcaC-qG6Olvw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":141,
+            "vicinity":"1206 Remsen Avenue, Brooklyn",
+            "CBG":360470966001,
+            "Radius":155.5046100394
+      }
+]

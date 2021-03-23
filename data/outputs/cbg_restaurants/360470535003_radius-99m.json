@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7063132,
+                        "lng":-73.9607862
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7076621803,
+                              "lng":-73.9594372197
+                        },
+                        "southwest":{
+                              "lat":40.7049642197,
+                              "lng":-73.9621351803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Flaum's Appetizing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2992,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106661854991987917184\">Brad Kimbrough<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ8N815NRdlL8yvgu_bDb7Q_zrJw6SA8lQ3FnJh72ZxlSt6yMYv4q9uuOrWx8C_ywd4TIoey8Qe7N_eCoKRP5czyVoEna_e_3jF4RT-co_8sUFIdKwkwALCPh6IFNxCm3mdTct4XSY3sKFI0wXzpNWV8w8dU0Ej1yEUi8Jj-eNfxep7",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJCRxFld1bwokRZZVYBGtzdPc",
+            "plus_code":{
+                  "compound_code":"P24Q+GM Brooklyn, NY, USA",
+                  "global_code":"87G8P24Q+GM"
+            },
+            "rating":4.7,
+            "reference":"ChIJCRxFld1bwokRZZVYBGtzdPc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"40 Lee Avenue, Brooklyn",
+            "CBG":360470535003,
+            "Radius":98.8813671725
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7050509,
+                        "lng":-73.9618014
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7063361303,
+                              "lng":-73.9605516697
+                        },
+                        "southwest":{
+                              "lat":40.7036381697,
+                              "lng":-73.9632496303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Haichal yasheiya",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3888,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110667622012427969352\">you rabbi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJSLtOBMwSREzxBHCeyzoeMNVNNdC6GJHbTbM5Enz3bwbrfjKQIo_sdlkH6KjdqyTfi5fopXb6NiOE1-Z5UlK9NSEpH_By2I-8sZeICnNRFvGpB5uCwHqrESOKNwuEShPANJqzCwub42R8csEOBdl_-Fs6MqVNXeKm13P1BhZH8HJkC",
+                        "width":3296
+                  }
+            ],
+            "place_id":"ChIJSzb-O5hbwokROlLwqBEYYm8",
+            "plus_code":{
+                  "compound_code":"P24Q+27 Brooklyn, NY, USA",
+                  "global_code":"87G8P24Q+27"
+            },
+            "rating":4.6,
+            "reference":"ChIJSzb-O5hbwokROlLwqBEYYm8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"541 Bedford Avenue, Brooklyn",
+            "CBG":360470535003,
+            "Radius":98.8813671725
+      }
+]

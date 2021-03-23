@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6505006,
+                        "lng":-73.9344321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6518579303,
+                              "lng":-73.9329467197
+                        },
+                        "southwest":{
+                              "lat":40.6491599697,
+                              "lng":-73.9356446803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sukchai Catering",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJKdDxw-9dwokRlGgbehcLei8",
+            "plus_code":{
+                  "compound_code":"M328+66 Brooklyn, NY, USA",
+                  "global_code":"87G8M328+66"
+            },
+            "reference":"ChIJKdDxw-9dwokRlGgbehcLei8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"460 East 46th Street, Brooklyn",
+            "CBG":360470860003,
+            "Radius":126.1944674135
+      }
+]

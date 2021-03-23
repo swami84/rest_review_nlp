@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7090398,
+                        "lng":-73.9639483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7103866303,
+                              "lng":-73.9626895697
+                        },
+                        "southwest":{
+                              "lat":40.7076886697,
+                              "lng":-73.9653875303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Coffee Break",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111775376274554065011\">Abraham j.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLNLw9wzQ2MdPKHhswt8C_YRB1JsbZrjhPrQ-3HUaICx0LspI76bl5hJMqbEX7sIWg4pKK4U1VXy-cYL5nZFMqXt2-Tk88ZKaXdcq7pv1Sb9caM8gyCyCwtSKjuGUzhbDnAe4QZZzDMHTTFRJs68y6yAyqwmn5VWdtfQQKyOEWF-OkM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJR6Cc2ttbwokRKCSwX6Dz-08",
+            "plus_code":{
+                  "compound_code":"P25P+JC Brooklyn, NY, USA",
+                  "global_code":"87G8P25P+JC"
+            },
+            "rating":4.8,
+            "reference":"ChIJR6Cc2ttbwokRKCSwX6Dz-08",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"419 Bedford Avenue, Brooklyn",
+            "CBG":360470547002,
+            "Radius":90.8853208525
+      }
+]

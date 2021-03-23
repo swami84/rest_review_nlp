@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6612611,
+                        "lng":-73.9156605
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6626279803,
+                              "lng":-73.9141879197
+                        },
+                        "southwest":{
+                              "lat":40.6599300197,
+                              "lng":-73.9168858803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China City",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115924793540509610412\">Mich S<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL9VzGcD2tYOmInwH37iZYrSQ0WJytq_H26LhEaW-Tczutqt-FchU-j_gUMY-Xxjj28lJWlE11e6UzEXfBNqq_2yJKxaI-Xb5baw0A4PVqtZ_99szUQMIHRImveq7W0mVX4kmit6ZVZuwvZmWo4t_q-KpJ3dZbeZBnjGTIsUJPgvU8X",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNZv_foxcwokRfYWaYgEB6Ak",
+            "plus_code":{
+                  "compound_code":"M36M+GP New York, NY, USA",
+                  "global_code":"87G8M36M+GP"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJNZv_foxcwokRfYWaYgEB6Ak",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":108,
+            "vicinity":"790 Saratoga Avenue, Brooklyn",
+            "CBG":360470894003,
+            "Radius":95.3447011612
+      }
+]

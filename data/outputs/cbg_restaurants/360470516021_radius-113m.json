@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6414876,
+                        "lng":-73.9593998
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6428390803,
+                              "lng":-73.9580289697
+                        },
+                        "southwest":{
+                              "lat":40.6401411197,
+                              "lng":-73.9607269303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BBQ",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103488258710186550596\">sheikh saad<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLpomatupz_WtEoLD9ACTrQLjS_cgYv87NQSX9CuW4tA0ra1A7eWhKkmRmEISaOqzzhqPHGt71nTJFuI5r-Tgfi48Yx8PDnvJpnTk23-2renOrzfkAZQbIaxG4uIAXTotRTAyrg1gE9gD90h_noQCc17TMSW-n4BNavy0H-rLDd2M06",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJOeO6xuNbwokREmYuj3fLxBc",
+            "plus_code":{
+                  "compound_code":"J2RR+H6 New York, NY, USA",
+                  "global_code":"87G8J2RR+H6"
+            },
+            "rating":4.8,
+            "reference":"ChIJOeO6xuNbwokREmYuj3fLxBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"Brooklyn",
+            "CBG":360470516021,
+            "Radius":112.5342562148
+      }
+]

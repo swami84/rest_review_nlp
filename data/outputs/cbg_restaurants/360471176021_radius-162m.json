@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6879459,
+                        "lng":-73.8763623
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6893658303,
+                              "lng":-73.8748862697
+                        },
+                        "southwest":{
+                              "lat":40.6866678697,
+                              "lng":-73.8775842303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sajoma Chimi Y Algo Mas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113370303610311216859\">Sajoma Chimi Y Algo Mas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKeleh9z2jnSvrdGTsRA8bhh_Gdb71KZcsHvuCr9yNGPhKpOKPQZykpnEbhzoKP0Cknk6GS9dqDTLC7M4PozKcaJETTB8ToQFRYshEhU6JIDemU9ShprHdJmUw3Swx2hYugfmdSCGmiMatScc7xi8PrIiGPp1tyMUEPYY8CNqpWMcKC",
+                        "width":864
+                  }
+            ],
+            "place_id":"ChIJ5Q2WfaVdwokRVH6JuHbtUdY",
+            "plus_code":{
+                  "compound_code":"M4QF+5F Brooklyn, NY, USA",
+                  "global_code":"87G8M4QF+5F"
+            },
+            "rating":4.2,
+            "reference":"ChIJ5Q2WfaVdwokRVH6JuHbtUdY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"754 Jamaica Avenue, Brooklyn",
+            "CBG":360471176021,
+            "Radius":161.6430233799
+      }
+]

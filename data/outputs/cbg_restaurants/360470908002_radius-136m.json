@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6708596,
+                        "lng":-73.9039913
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6721289803,
+                              "lng":-73.9026476697
+                        },
+                        "southwest":{
+                              "lat":40.6694310197,
+                              "lng":-73.9053456303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Flavors Paradise",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113892808277781680252\">Red Fox<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLOzazCdPsfcek_IQJ51rAqgUNCD3z5y_uW8c8PX6w2l3Kyfo061tP--tC6YlfjTHgbk7JGF7ux_wjdbMu4uAOQ06ll5ryMNIGUiVSkkFEh2LDkTQJ7MrkcTv7ZG4V_BdPthDmNYbUFvE0HhLrgGtciwYKPf09r9ESE0dfpdsUILyKd",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJxywiyltcwokRUD4Q660Z8aA",
+            "plus_code":{
+                  "compound_code":"M3CW+8C Brooklyn, NY, USA",
+                  "global_code":"87G8M3CW+8C"
+            },
+            "price_level":1.0,
+            "rating":4.0,
+            "reference":"ChIJxywiyltcwokRUD4Q660Z8aA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":61,
+            "vicinity":"1863 Pitkin Avenue, Brooklyn",
+            "CBG":360470908002,
+            "Radius":135.7213130041
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6704571,
+                        "lng":-73.9038525
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6716600803,
+                              "lng":-73.9021341697
+                        },
+                        "southwest":{
+                              "lat":40.6689621197,
+                              "lng":-73.9048321303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Irie Spice",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113892808277781680252\">Red Fox<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLyIWuhK91iBUSgkvY5N8pqRnr9ecYipc4XXqYQuztzbWdr5UdVlLv3HT0K3dM_iAkJ6GUAhaHDF4xT68mQdikFJEtiAd-g9XxuXcl_p6EyLBOG2yuKpaoLzzVRWeuCMRTwSNqo1He5ZC39vslN4-BxzFkvSkE0zvCQQ4h4gZnUBu8A",
+                        "width":1960
+                  }
+            ],
+            "place_id":"ChIJv8jIjT9dwokRD2aPDbEUQB4",
+            "plus_code":{
+                  "compound_code":"M3CW+5F Brooklyn, NY, USA",
+                  "global_code":"87G8M3CW+5F"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJv8jIjT9dwokRD2aPDbEUQB4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"1864 Pitkin Avenue, Brooklyn",
+            "CBG":360470908002,
+            "Radius":135.7213130041
+      }
+]

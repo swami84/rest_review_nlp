@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6441227,
+                        "lng":-73.9584845
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6453823803,
+                              "lng":-73.9572886197
+                        },
+                        "southwest":{
+                              "lat":40.6426844197,
+                              "lng":-73.9599865803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China Tang Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117357934109968920270\">William B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFsXlhJ4kI6JdBVMf68k_Zqz5pHDU2bG_TK4_cxkXRzNJP93AWMChR2u-OyrDxHbT45n4KkqoFwjnfb7BUo3WzqK592lZp3u0QHcLCtxpqRiANnATmZUimgqQBnnZnV9ddd25gUbjFSoGdBv-OgbVoF7mWR6-cfIhD_9EosZDOpaXF",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJQ1ld60dbwokRpPviD6NgSLY",
+            "plus_code":{
+                  "compound_code":"J2VR+JJ New York, NY, USA",
+                  "global_code":"87G8J2VR+JJ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJQ1ld60dbwokRpPviD6NgSLY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":83,
+            "vicinity":"2107 Cortelyou Road, Brooklyn",
+            "CBG":360470514004,
+            "Radius":116.146342932
+      }
+]

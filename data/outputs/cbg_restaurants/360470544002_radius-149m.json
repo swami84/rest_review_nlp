@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6119644,
+                        "lng":-73.9580833
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6133204303,
+                              "lng":-73.9566651697
+                        },
+                        "southwest":{
+                              "lat":40.6106224697,
+                              "lng":-73.9593631303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"\u0415\u0434\u0430",
+            "place_id":"ChIJyyIXq8xFwokRSqxzeLgedRg",
+            "plus_code":{
+                  "compound_code":"J26R+QQ Brooklyn, NY, USA",
+                  "global_code":"87G8J26R+QQ"
+            },
+            "reference":"ChIJyyIXq8xFwokRSqxzeLgedRg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1544 East 16th Street, Brooklyn",
+            "CBG":360470544002,
+            "Radius":149.175609444
+      }
+]

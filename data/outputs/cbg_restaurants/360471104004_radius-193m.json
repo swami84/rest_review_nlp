@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6606992,
+                        "lng":-73.8848584
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6620816303,
+                              "lng":-73.8836326697
+                        },
+                        "southwest":{
+                              "lat":40.6593836697,
+                              "lng":-73.8863306303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116526524180914684826\">Sha Glizzo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFqvS6p9HDAC74NZss60v4WQnv62VtAN6E6nSgKgWepNeYmPLjc7vD5rHcNNY50SvqZ1G57JfXic2Z_hcN4W3dxOTxK4KwvYrKjF9bQu4iJYvkTPu-ScXGem0vSti_TZYHzI8_B44e0TYYurA3MNl5-1yIVqkAV1KIXODYNXLbPpEm",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJc5-_lABdwokRJx503psFUP4",
+            "plus_code":{
+                  "compound_code":"M468+73 Brooklyn, NY, USA",
+                  "global_code":"87G8M468+73"
+            },
+            "price_level":1.0,
+            "rating":3.4,
+            "reference":"ChIJc5-_lABdwokRJx503psFUP4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"2106 Linden Boulevard, Brooklyn",
+            "CBG":360471104004,
+            "Radius":192.8596082918
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6607418,
+                        "lng":-73.8849917
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6620877803,
+                              "lng":-73.8836993197
+                        },
+                        "southwest":{
+                              "lat":40.6593898197,
+                              "lng":-73.8863972803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lee",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJJcS_7ABdwokRhwOxrBot9iA",
+            "plus_code":{
+                  "compound_code":"M468+72 Brooklyn, NY, USA",
+                  "global_code":"87G8M468+72"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJJcS_7ABdwokRhwOxrBot9iA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"2096 Linden Boulevard, Brooklyn",
+            "CBG":360471104004,
+            "Radius":192.8596082918
+      }
+]

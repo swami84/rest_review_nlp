@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6649745,
+                        "lng":-73.8938243
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6663088303,
+                              "lng":-73.8926133197
+                        },
+                        "southwest":{
+                              "lat":40.6636108697,
+                              "lng":-73.8953112803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112455192415084781425\">Geoxyx<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9RbSHoUz9pCp8Q46zMjwbSQ81tEYEasbJ4RJvHXUCaVxCil7-iWrxuNgGL2DbNKjhA0Fn6pYKWwosr8xCz13xMU09TmFIu00g-C9aIvhgjrsTP8tBZk_H2nHKlkEbb_GZtLnG3_J8_pqpJZ4GwpFHUBOjvJGbY4BO8rAfwIiEkxIx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJO72dZFJcwokRyVXgWNxaEGk",
+            "plus_code":{
+                  "compound_code":"M474+XF Brooklyn, NY, USA",
+                  "global_code":"87G8M474+XF"
+            },
+            "price_level":1.0,
+            "rating":3.5,
+            "reference":"ChIJO72dZFJcwokRyVXgWNxaEGk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"507 Granville Payne Avenue, Brooklyn",
+            "opening_hours":null,
+            "CBG":360471126002,
+            "Radius":135.0371002718
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6648897,
+                        "lng":-73.8943275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6661640303,
+                              "lng":-73.8928934697
+                        },
+                        "southwest":{
+                              "lat":40.6634660697,
+                              "lng":-73.8955914303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sun Hing Restaurant",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112455192415084781425\">Geoxyx<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIizRMqg3i7zF3uDNAtBeSz_MV8gmn5AO_xO10VlwBH7_KH7r-8SbB7xXt6GzVljF9Nb5n5sxlTDK9EbL6riaYksx3Nd8Ca64Mt7ExN4JRxGipc9IiA1Hk0bTuBSnIgqc5PJF8B4gf4KYJor7Dt3DfcC3PMVbUzXJpW_ngwqeXLOQ-z",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ2UHr3FVcwokRQTP0ueJBXEw",
+            "plus_code":{
+                  "compound_code":"M474+X7 New York, NY, USA",
+                  "global_code":"87G8M474+X7"
+            },
+            "price_level":null,
+            "rating":3.3,
+            "reference":"ChIJ2UHr3FVcwokRQTP0ueJBXEw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"623 Livonia Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":360471126002,
+            "Radius":135.0371002718
+      }
+]

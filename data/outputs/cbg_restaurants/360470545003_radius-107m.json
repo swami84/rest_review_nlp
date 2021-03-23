@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7068109,
+                        "lng":-73.9656929
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7083556803,
+                              "lng":-73.9645959197
+                        },
+                        "southwest":{
+                              "lat":40.7056577197,
+                              "lng":-73.9672938803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Julia",
+            "photos":[
+                  {
+                        "height":4096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108284832531734536311\">noemi Morales<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIx6A_N88gsrdxM2DjcCXWJLQLIJL9GL1LZYAcQyBAlPVjp3svJyQB-9uXqQlCIPHKY4Juz42wabrZ9za7YxoU-Oiv_gqQmwzB1tZbMZKTAJk6CEjPsZ-gMFJtG_xngLYUVn6OXW-4wh-VIhQoWFZDQprjFPcejqF5bLI3wVP0HgQzH",
+                        "width":3072
+                  }
+            ],
+            "place_id":"ChIJ3TCDmXFbwokR1ZDr3lc8fNU",
+            "plus_code":{
+                  "compound_code":"P24M+PP Brooklyn, NY, USA",
+                  "global_code":"87G8P24M+PP"
+            },
+            "reference":"ChIJ3TCDmXFbwokR1ZDr3lc8fNU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"64 Division Avenue, Brooklyn",
+            "CBG":360470545003,
+            "Radius":107.1499849966
+      }
+]

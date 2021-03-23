@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6881425,
+                        "lng":-73.7193878
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6896664303,
+                              "lng":-73.7179451197
+                        },
+                        "southwest":{
+                              "lat":40.6869684697,
+                              "lng":-73.7206430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizza Hut Express",
+            "permanently_closed":true,
+            "place_id":"ChIJI1TM22xjwokROJ7Bzm6IMiQ",
+            "plus_code":{
+                  "compound_code":"M7QJ+76 Elmont, NY, USA",
+                  "global_code":"87G8M7QJ+76"
+            },
+            "price_level":1,
+            "reference":"ChIJI1TM22xjwokROJ7Bzm6IMiQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2115 Linden Blvd Kings Linden, C-Store, Elmont",
+            "CBG":360594099006,
+            "Radius":275.5729717995
+      }
+]

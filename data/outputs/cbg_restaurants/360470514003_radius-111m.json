@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6413081,
+                        "lng":-73.9603786
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6425489803,
+                              "lng":-73.9589405197
+                        },
+                        "southwest":{
+                              "lat":40.6398510197,
+                              "lng":-73.9616384803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"JesseMicheal'sBistro",
+            "place_id":"ChIJ856606lbwokRJPXEqBJzvyQ",
+            "plus_code":{
+                  "compound_code":"J2RQ+GR New York, NY, USA",
+                  "global_code":"87G8J2RQ+GR"
+            },
+            "reference":"ChIJ856606lbwokRJPXEqBJzvyQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1901 Dorchester Road, Brooklyn",
+            "CBG":360470514003,
+            "Radius":110.9748146944
+      }
+]

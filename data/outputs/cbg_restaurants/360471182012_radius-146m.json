@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6873324,
+                        "lng":-73.8723604
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6886013303,
+                              "lng":-73.8709774197
+                        },
+                        "southwest":{
+                              "lat":40.6859033697,
+                              "lng":-73.8736753803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pollo Rey",
+            "place_id":"ChIJ7Zc6YsRdwokR7afWPGj7-jM",
+            "plus_code":{
+                  "compound_code":"M4PH+W3 Brooklyn, NY, USA",
+                  "global_code":"87G8M4PH+W3"
+            },
+            "rating":4,
+            "reference":"ChIJ7Zc6YsRdwokR7afWPGj7-jM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"315 Etna Street, Brooklyn",
+            "CBG":360471182012,
+            "Radius":146.4504016077
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7142731,
+                        "lng":-73.9854371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7157165303,
+                              "lng":-73.9841016697
+                        },
+                        "southwest":{
+                              "lat":40.7130185697,
+                              "lng":-73.9867996303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ernesto's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2347,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113698799821203853599\">Ian<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL4ddIOrA9FwmKpxgYLLtslFjZlfNx3G4BkC9c2qrlKxuZPINp2sQ6w6P-bFRRegC0jGFOMiCWNYCdbT0nMNsBRVzryaOflQuvv36Q42-Q1npNgS7VLIOVGmyJs50d5wikh_HGgrW5gNAw9s_XhoQGFZQm6DPwAh0Nj93s8Y7LrxLMG",
+                        "width":3129
+                  }
+            ],
+            "place_id":"ChIJvXwEbiFbwokR32figSpL0jg",
+            "plus_code":{
+                  "compound_code":"P277+PR New York, NY, USA",
+                  "global_code":"87G8P277+PR"
+            },
+            "rating":4.5,
+            "reference":"ChIJvXwEbiFbwokR32figSpL0jg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":120,
+            "vicinity":"259 East Broadway, New York",
+            "CBG":360610014012,
+            "Radius":108.3288076826
+      }
+]

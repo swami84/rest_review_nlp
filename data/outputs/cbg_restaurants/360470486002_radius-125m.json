@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6358309,
+                        "lng":-73.9775575
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6370690303,
+                              "lng":-73.9761873197
+                        },
+                        "southwest":{
+                              "lat":40.6343710697,
+                              "lng":-73.9788852803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Family Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3fpQ9x6D_zX59mK8YAvlcl45_YuNIqZUbPokA8ftsPFC6nBv9p4sdhshAzX7NaSbYAHBE0h0Cr7uIk6FkncYl8rpDwlxB2Dc7FDzYtS5KNjYnzBGY9_iugS-DSEzMW90yUgpMvKvattfrqwowzXgN1Z3uEZioYuU6xQM2cHAlgk5D",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJtaVuUytbwokR-05O335QUnU",
+            "plus_code":{
+                  "compound_code":"J2PC+8X Brooklyn, NY, USA",
+                  "global_code":"87G8J2PC+8X"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJtaVuUytbwokR-05O335QUnU",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"111 Ditmas Avenue # A, Brooklyn",
+            "CBG":360470486002,
+            "Radius":124.8925111953
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.635873,
+                        "lng":-73.9775125
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6370930303,
+                              "lng":-73.9761385697
+                        },
+                        "southwest":{
+                              "lat":40.6343950697,
+                              "lng":-73.9788365303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Old Baku",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108159235325356243780\">Old Baku<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL37-bOQCBOzoG59zvaCdL7xUTqFSo53dyOVYlS1PVVmZJmZembXiuSWVuyuhHKpGhnDdWbI3aqYibGYunTymdA-rsP8yPZ9ol3a-GdCHD21PtQAKeIY5E85uGHw4wcCp4vezI9Qh0LUmwHkJ2yqVjIlv6xjeRAfXMFVfShJqaJ5eYR",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJW5TrUytbwokRIgwrOqcF9MY",
+            "plus_code":{
+                  "compound_code":"J2PC+8X New York, NY, USA",
+                  "global_code":"87G8J2PC+8X"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJW5TrUytbwokRIgwrOqcF9MY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":219,
+            "vicinity":"115 Ditmas Avenue, Brooklyn",
+            "CBG":360470486002,
+            "Radius":124.8925111953
+      }
+]

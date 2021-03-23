@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6589678,
+                        "lng":-73.9083337
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6603531303,
+                              "lng":-73.9068309197
+                        },
+                        "southwest":{
+                              "lat":40.6576551697,
+                              "lng":-73.9095288803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":672,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103724621598091013556\">Crown Fried Chicken<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL38mu5bxEeqed7ME_cGJNYtMItwyEEz2azbhV7E60CQzigtVRFOWWftDqjhz7B4cvT2Pl0AM6zvKPeeW09gIZjbS5hhuiYL-mdimhAvqLwK4VmXnHTcEGjEwz4-V8PPsamrAZvbLr8E7AESTGf-ygAx7YjpLIuAHL-0iCnkWKq9nX6",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJxVzHvvNcwokRwW2iIDgl6Pw",
+            "plus_code":{
+                  "compound_code":"M35R+HM New York, NY, USA",
+                  "global_code":"87G8M35R+HM"
+            },
+            "rating":3.7,
+            "reference":"ChIJxVzHvvNcwokRwW2iIDgl6Pw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"842 Rockaway Avenue, Brooklyn",
+            "CBG":360470916003,
+            "Radius":136.6678667843
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6577459,
+                        "lng":-73.9083401
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6590724303,
+                              "lng":-73.9071468697
+                        },
+                        "southwest":{
+                              "lat":40.6563744697,
+                              "lng":-73.9098448303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Magic Taste Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106356102585965075738\">Rayon Smith<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJE6Lc2xdoGUt8Bv0NrvBXFYrKxlQ18Av1rgBhJRUV78mT0csIrpKhKgRkaoyrtZxT-5l_Y5iFwFme3MlWFXGWXdC5yFg5TxAEPmx0nVKLjpweGhx3YG0WTCYP-iZmgrjDvD4xed7oN7AjIbD9G1qETpeuMgUA7XxT0rPceFuS2wfiR",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJOTLqS_JcwokRUxg62LoJGT0",
+            "plus_code":{
+                  "compound_code":"M35R+3M New York, NY, USA",
+                  "global_code":"87G8M35R+3M"
+            },
+            "rating":4.1,
+            "reference":"ChIJOTLqS_JcwokRUxg62LoJGT0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":19,
+            "vicinity":"557 Chester Street, Brooklyn",
+            "CBG":360470916003,
+            "Radius":136.6678667843
+      }
+]

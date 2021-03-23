@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.662846,
+                        "lng":-73.891424
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6641136303,
+                              "lng":-73.8901171197
+                        },
+                        "southwest":{
+                              "lat":40.6614156697,
+                              "lng":-73.8928150803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Vermont Dell & Grill INC V",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111835670701082419203\">\u0633\u0627\u0645\u064a Sami<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtOz70vL9a5VtnW9wj56c0Fv3Lp_cIoE8byWde4ekYbtQcwVRDGvGZLL82fazhI91WW6OKMtV-VBHkI3ygpZlyfnc_aecRPdrLAS5tm25ZQVXBeGvNBvtLMnbwxLL6yPQr2pk_wFUP5xCHCSX6rR-s5KoObEQcZX8ffZVSA-WKDOdC",
+                        "width":600
+                  }
+            ],
+            "place_id":"ChIJ9TY5h_9cwokRZPRrwzffttY",
+            "plus_code":{
+                  "compound_code":"M475+4C Brooklyn, NY, USA",
+                  "global_code":"87G8M475+4C"
+            },
+            "rating":3.9,
+            "reference":"ChIJ9TY5h_9cwokRZPRrwzffttY",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"669 Vermont Street, Brooklyn",
+            "CBG":360471128001,
+            "Radius":128.9528082832
+      }
+]

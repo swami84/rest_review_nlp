@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6561166,
+                        "lng":-73.9232571
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6573804303,
+                              "lng":-73.9220280197
+                        },
+                        "southwest":{
+                              "lat":40.6546824697,
+                              "lng":-73.9247259803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lucky chance",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3492,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111476990393951936025\">yan ying li<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJkGE0vb6WVCHSUXJPI20N_2aMY3Z2yzij0ZoS1g0D4UpZs6t4L6EBXZBRUQIL2qtrAQNzZrtd09K2grIbAZ8lF12GiWlRoT2i1vDFRJun9ms6QQFhcWTfS4w4lGL5ik3FG7cBHmjqlEPwqMFZKFFo8249nwHEE45vNmVBSZNj414v",
+                        "width":2712
+                  }
+            ],
+            "place_id":"ChIJ-c14bpBcwokRE_9XwufIUdg",
+            "plus_code":{
+                  "compound_code":"M34G+CM New York, NY, USA",
+                  "global_code":"87G8M34G+CM"
+            },
+            "rating":4.7,
+            "reference":"ChIJ-c14bpBcwokRE_9XwufIUdg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"395 Remsen Avenue, Brooklyn",
+            "CBG":360470864001,
+            "Radius":137.6356649145
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6560986,
+                        "lng":-73.9232217
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6573031303,
+                              "lng":-73.9219127697
+                        },
+                        "southwest":{
+                              "lat":40.6546051697,
+                              "lng":-73.9246107303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lucky Chance",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2880,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111476990393951936025\">yan ying li<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJhL4V2-Co5OGMBFb7l8QddBrEjlrrnCzb6PL9DcouHGZi3AS9jzguLpkGe0oFwRC-i8txWW-UeKmvt0to-sJUt4ZnjUt22qrTSyt-_PM60b8FUhJRlxtrLEP7nfzdJtPmIppIeo3dv_hQecVzwCN-EWEFb7MGTGA3MioHn3OCb6Ttw",
+                        "width":2160
+                  }
+            ],
+            "place_id":"ChIJFQ7zKmldwokRppSRlSDmoTk",
+            "plus_code":{
+                  "compound_code":"M34G+CP Brooklyn, NY, USA",
+                  "global_code":"87G8M34G+CP"
+            },
+            "rating":4.0,
+            "reference":"ChIJFQ7zKmldwokRppSRlSDmoTk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"395 Remsen Avenue, Brooklyn",
+            "CBG":360470864001,
+            "Radius":137.6356649145
+      }
+]

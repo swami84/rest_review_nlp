@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6574543,
+                        "lng":-73.9006452
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6588102303,
+                              "lng":-73.8992088697
+                        },
+                        "southwest":{
+                              "lat":40.6561122697,
+                              "lng":-73.9019068303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113153153220893536934\">Mahfuzur Rahman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLJxYyfPdWONh3FfAD_h1hg3_Cedt4SC984W5HGq5F0wGyWDu4J4zgl-pH1cghbtXovpA9TcIXP7_kdgTo-P77gwwQU6swglYhSuSZ9K_n608qUXcsVd3xk9sw5wRsBewXrAYXdsIxQCONDo4Fd91pum3udFktteG_3LKBvo_r42KJW",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkXVYd_pcwokRcOuZZkIJ4g0",
+            "plus_code":{
+                  "compound_code":"M34X+XP New York, NY, USA",
+                  "global_code":"87G8M34X+XP"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJkXVYd_pcwokRcOuZZkIJ4g0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":673,
+            "vicinity":"1663 Linden Boulevard, Brooklyn",
+            "CBG":360470920003,
+            "Radius":218.1451993157
+      }
+]

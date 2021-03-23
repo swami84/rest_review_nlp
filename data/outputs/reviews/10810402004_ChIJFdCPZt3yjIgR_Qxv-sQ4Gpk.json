@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cE9qRFNBEAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Megan Adamson",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110376160326616854940/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdHB6bkdBEAE",
+        "caption": "Delicious food all the way around! Cup and Saucer delivered lunches to a local business for us and We heard nothing but rave reviews. I had their lunch myself and it was phenomenal. Homemade everything! Their Lemon blueberry bread is one of my faves. Love that they have entrees to go, which is perfect (and so easy)to drop off a meal to someone. This is a local gem!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Melissa Atkinson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112761920969877762668/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzMnVPMnJnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Christopher Jenkins",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104838842688650981031/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBMmR2YVpREAE",
+        "caption": "Great frozen homemade casseroles, refrigerated casseroles ready to cook, pimento cheese, chicken salad, decadent desserts and gift certificates.  The cinnamon rolls are wonderful.  They cater and do excellent work.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Tana Branch",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108470442780171881074/reviews?hl=en-US",
+        "census_block_group": 10810402004
+    }
+]

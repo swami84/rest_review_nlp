@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.717186,
+                        "lng":-73.9479595
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7185237803,
+                              "lng":-73.9467640697
+                        },
+                        "southwest":{
+                              "lat":40.7158258197,
+                              "lng":-73.9494620303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"S & K Deli and Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112406734362337629476\">Zack eitan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKrig9JQYLe4fjqEMHhcjcWme74KRp0SCxV15uLtFCs8lnVZeuYb97IaTD7AshIcA4EtUHk3LNVpM4tw4LZ-6HVLh_oWxXT_wP3Su83TFv1W0igWV6eXp1IhMtTbeda6-scIbMWWcN530Eo9EYVlsPKWMGI8WXdBIo1rhkh5gngjIF9",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJyZj3dlpZwokRd3N19hHr2AY",
+            "plus_code":{
+                  "compound_code":"P382+VR Brooklyn, NY, USA",
+                  "global_code":"87G8P382+VR"
+            },
+            "rating":4,
+            "reference":"ChIJyZj3dlpZwokRd3N19hHr2AY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"364 Leonard Street, Brooklyn",
+            "CBG":360470501001,
+            "Radius":120.802462897
+      }
+]

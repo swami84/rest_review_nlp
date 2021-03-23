@@ -1,0 +1,92 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6660618,
+                        "lng":-73.9202453
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6674107803,
+                              "lng":-73.9188963197
+                        },
+                        "southwest":{
+                              "lat":40.6647128197,
+                              "lng":-73.9215942803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lee's",
+            "place_id":"ChIJ7THBxolcwokR81RgOnXpnqg",
+            "plus_code":{
+                  "compound_code":"M38H+CW New York, NY, USA",
+                  "global_code":"87G8M38H+CW"
+            },
+            "rating":5,
+            "reference":"ChIJ7THBxolcwokR81RgOnXpnqg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"77 Tapscott Street, Brooklyn",
+            "photos":null,
+            "CBG":360470900004,
+            "Radius":110.6703564672
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6658514,
+                        "lng":-73.9201605
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6671181803,
+                              "lng":-73.9187898197
+                        },
+                        "southwest":{
+                              "lat":40.6644202197,
+                              "lng":-73.9214877803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Villains Hideout Inc.",
+            "place_id":"ChIJtYeQOs1dwokRdwGlWo3THe4",
+            "plus_code":{
+                  "compound_code":"M38H+8W Brooklyn, NY, USA",
+                  "global_code":"87G8M38H+8W"
+            },
+            "rating":5,
+            "reference":"ChIJtYeQOs1dwokRdwGlWo3THe4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"63 Sutter Avenue, Brooklyn",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111056740176429224905\">Villains Hideout Inc.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIsM7SDaRRC_HQiD7EvqS4IEouodI6yr3jSSK3_koYvse4_BTkT0LSFhQ0gBUoKnCXqkjp9lhUhr17SjGJuIrD51hoFPTo1_P9Xsbb-zx4GBkNEwtdyds68QbE7T10LhX6x1j0dTTLcoqfH8ykNRbEXa4gmK5QhJ2oaefeUvcfCorII",
+                        "width":4032
+                  }
+            ],
+            "CBG":360470900004,
+            "Radius":110.6703564672
+      }
+]

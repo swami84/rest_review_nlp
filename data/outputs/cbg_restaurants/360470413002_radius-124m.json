@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6901764,
+                        "lng":-73.9110195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6914943803,
+                              "lng":-73.9096154197
+                        },
+                        "southwest":{
+                              "lat":40.6887964197,
+                              "lng":-73.9123133803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Azan Deli & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115590447114365541302\">Armani De Jes\u00fas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL2aaIPb_u26ycw0DL_8UFAHQ0MC9cURHinCUaySybhJK31wz1neXDD0Xnmw5ODqX5N74Z0FDXFFGekhE5qjBQlCc30CBZbZ9AYIigYTpgVEBtWN-ZJgeFeAn_lKnCdgRt1ilsQdP6OAl8CXCF6PNIPJP3x16-81nDfFjk58_8HYJNQ",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJ90JUCz5cwokRZFseja0gYMs",
+            "plus_code":{
+                  "compound_code":"M3RQ+3H Brooklyn, NY, USA",
+                  "global_code":"87G8M3RQ+3H"
+            },
+            "rating":3.5,
+            "reference":"ChIJ90JUCz5cwokRZFseja0gYMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"1149 Halsey Street, Brooklyn",
+            "CBG":360470413002,
+            "Radius":124.4022039852
+      }
+]

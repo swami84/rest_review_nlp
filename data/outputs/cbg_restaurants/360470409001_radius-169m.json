@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6910612,
+                        "lng":-73.9049852
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6924662303,
+                              "lng":-73.9037352697
+                        },
+                        "southwest":{
+                              "lat":40.6897682697,
+                              "lng":-73.9064332303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"tikal cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111762601754602678233\">tikal cafe corp<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgOspzc0oKknI-Xqjy-f6fNjHe1Sqj1i7P3t4iT6Wb5yur8ODCXWSX78fEMGzmGIseCM72zodATeoWd22kjKkczsZ4bu6VapSPahyANF40KFWjPbYVDwbHtzQSmODNMebBan5MED33Z4cfXGMZJalMAS_0q34hIXHG_lJzIqLoonyj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJhcE1XZ5dwokRodKPkE-3CNk",
+            "plus_code":{
+                  "compound_code":"M3RW+C2 New York, NY, USA",
+                  "global_code":"87G8M3RW+C2"
+            },
+            "rating":5,
+            "reference":"ChIJhcE1XZ5dwokRodKPkE-3CNk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"1312 Decatur Street, Brooklyn",
+            "CBG":360470409001,
+            "Radius":169.3527601338
+      }
+]

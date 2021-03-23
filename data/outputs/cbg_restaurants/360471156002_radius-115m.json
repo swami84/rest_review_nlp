@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6675992,
+                        "lng":-73.8953185
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6689481803,
+                              "lng":-73.8939695197
+                        },
+                        "southwest":{
+                              "lat":40.6662502197,
+                              "lng":-73.8966674803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Star Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117325395619861274180\">Golden Star Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwILPS072Af069OSXRBTuKB64XPNjuVK07DyXd9lA6UiFLE3DI3mUxZDN99bdQ_BgbPDrT_wBM1klyZF0-HVMs4TpOjEJ2cHuv1Cs3IXyzxwFWQEx1_x1KgI1WYazGbYF_ojSURigJ9NgQnopN5_MwA35TnxUEf7g9lcHQUBEGZpUTBs",
+                        "width":1152
+                  }
+            ],
+            "place_id":"ChIJR_VOpFZcwokRRJUQhrDCP9Q",
+            "plus_code":{
+                  "compound_code":"M493+2V Brooklyn, NY, USA",
+                  "global_code":"87G8M493+2V"
+            },
+            "rating":3.8,
+            "reference":"ChIJR_VOpFZcwokRRJUQhrDCP9Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":86,
+            "vicinity":"638 Blake Avenue, Brooklyn",
+            "CBG":360471156002,
+            "Radius":115.4839712312
+      }
+]

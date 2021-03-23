@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6585592,
+                        "lng":-73.9151056
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6599081803,
+                              "lng":-73.9137566197
+                        },
+                        "southwest":{
+                              "lat":40.6572102197,
+                              "lng":-73.9164545803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Comfort Zone",
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115142437816853192584\">Glenroy Robinson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJyR1MQNExJciXyeswPjQvgbnyIUap--Z_IFHQJdnfPoUn1VFnZbVprieWKZ1s0k--3uxOiyNk5CyUEwysoIZVr79wor_wFRy2w_4J3a6SZAZ4xV1tP65IvUtxE8SSo0XgGjJ6aTpbeMN4bZIHM5NK26zZGblaBTKICLVkATSV5xSxA",
+                        "width":2322
+                  }
+            ],
+            "place_id":"ChIJ_boaBI1cwokRoYcLRYSSP9E",
+            "plus_code":{
+                  "compound_code":"M35M+CX New York, NY, USA",
+                  "global_code":"87G8M35M+CX"
+            },
+            "rating":4.2,
+            "reference":"ChIJ_boaBI1cwokRoYcLRYSSP9E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"900 Saratoga Avenue, Brooklyn",
+            "CBG":360470894004,
+            "Radius":106.2595326675
+      }
+]

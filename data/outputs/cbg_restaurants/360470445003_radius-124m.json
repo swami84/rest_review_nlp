@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7066805,
+                        "lng":-73.9205728
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7080966303,
+                              "lng":-73.9191547697
+                        },
+                        "southwest":{
+                              "lat":40.7053986697,
+                              "lng":-73.9218527303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"La Cantine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116955859479451339151\">Hubert Mandeville<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtOoSmLyilsY1Vh2WYoYEMbIs9yFWnrOYUc74XJZm1f7zzgI4HYXr4OgDUk28WCtC0FZoWChvl3Ep7Q3YpEFjrGccSb5YU7MXexWxednTT72YNqWBdjr6aqUUBvrTovYe8rJPq-VYuzfHJ8E39xQNmtxOMpXh7WQt-ICkQ3Ij3yqJm",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJY3SV72ddwokRP1FK0G3VnG4",
+            "plus_code":{
+                  "compound_code":"P34H+MQ New York, NY, USA",
+                  "global_code":"87G8P34H+MQ"
+            },
+            "rating":4.8,
+            "reference":"ChIJY3SV72ddwokRP1FK0G3VnG4",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":75.0,
+            "vicinity":"60 Saint Nicholas Avenue, Brooklyn",
+            "permanently_closed":null,
+            "CBG":360470445003,
+            "Radius":123.9163786975
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.7064711,
+                        "lng":-73.9209643
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7077520303,
+                              "lng":-73.9194991697
+                        },
+                        "southwest":{
+                              "lat":40.7050540697,
+                              "lng":-73.9221971303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Monkey King",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ48P-IMFdwokRY9binopVz6M",
+            "plus_code":{
+                  "compound_code":"P34H+HJ New York, NY, USA",
+                  "global_code":"87G8P34H+HJ"
+            },
+            "rating":null,
+            "reference":"ChIJ48P-IMFdwokRY9binopVz6M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1329 Willoughby Avenue, Brooklyn",
+            "permanently_closed":true,
+            "CBG":360470445003,
+            "Radius":123.9163786975
+      }
+]

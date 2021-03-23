@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.634971,
+                        "lng":-73.965019
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6362545803,
+                              "lng":-73.9637103697
+                        },
+                        "southwest":{
+                              "lat":40.6335566197,
+                              "lng":-73.9664083303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"The Ox Tavern",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101633372575639490201\">Ariel Mojica<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIirpGDO3bJTF68kE04dMGdCDzZVVnfWQYPq5bYQQraUCuTbHyeYAypoaID8gRqtavRNn6vmUy9klCquxIgt8pHqkPGBxxJCJmUGQ4-PhyVtGvxbfauVcCXfSr1uNVV1CTGDgdko2xP2K8VzSRws_VaXue-XS3WOmmGOReClfPobMzt",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJW5CTpjRbwokRoyMu9xFuCKE",
+            "plus_code":{
+                  "compound_code":"J2MM+XX Brooklyn, NY, USA",
+                  "global_code":"87G8J2MM+XX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJW5CTpjRbwokRoyMu9xFuCKE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":552,
+            "vicinity":"1301 Newkirk Avenue, Brooklyn",
+            "CBG":360470520003,
+            "Radius":92.4634264615
+      }
+]

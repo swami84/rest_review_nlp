@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6701465,
+                        "lng":-73.8603263
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6714235803,
+                              "lng":-73.8589874697
+                        },
+                        "southwest":{
+                              "lat":40.6687256197,
+                              "lng":-73.8616854303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonald's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103457313985328682642\">Felipe Caldo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI2sOAr7J_6Ko2xWsKi94VexZHtr1cvcsi9KWBW5DOvaiNulkxW1d1zv0sQ_ckDVN0rCCdB-TbjuDvffcZeY7qXWVmzgWEPu1kEQuz-jsAQ4dmuWJwr-vEq-Cct-ApnYJAQkOPBWdNeMtPSIoQg0lcILEdRsB_Hfgevz79-3rdkhA3K",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJ-Vj-J5ddwokR1NW-K1Cgcdc",
+            "plus_code":{
+                  "compound_code":"M4CQ+3V New York, NY, USA",
+                  "global_code":"87G8M4CQ+3V"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ-Vj-J5ddwokR1NW-K1Cgcdc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1835,
+            "vicinity":"2797 Linden Boulevard, Brooklyn",
+            "CBG":360471208005,
+            "Radius":224.7968066744
+      }
+]

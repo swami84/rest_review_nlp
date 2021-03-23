@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6742818,
+                        "lng":-73.8962783
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6756152803,
+                              "lng":-73.8950293197
+                        },
+                        "southwest":{
+                              "lat":40.6729173197,
+                              "lng":-73.8977272803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"ENY halal Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":538,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105291305699781790317\">ENY halal Fried Chicken<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIDRRNlIlRhofUg0m1HcUaJa-dnRkjL512Ucks3g48oN0XeuE__f7EoTQmUNJBpyweE7PGDPz3xONQCMa0VLC1HPDRsXLtKFTnRrrmxG5hWURlFDGV1rq5oUllKUR0If379KY1_KJhPYIXEW-crU9G389Vngn0i8DKljKYfl30GhLZo",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJEU8qFk5cwokRjDSVemZ2hLk",
+            "plus_code":{
+                  "compound_code":"M4F3+PF New York, NY, USA",
+                  "global_code":"87G8M4F3+PF"
+            },
+            "rating":4,
+            "reference":"ChIJEU8qFk5cwokRjDSVemZ2hLk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"143 Pennsylvania Avenue, Brooklyn",
+            "CBG":360471144002,
+            "Radius":147.4694874676
+      }
+]

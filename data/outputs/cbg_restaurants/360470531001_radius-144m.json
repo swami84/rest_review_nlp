@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6997944,
+                        "lng":-73.9538806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7011717303,
+                              "lng":-73.9524119697
+                        },
+                        "southwest":{
+                              "lat":40.6984737697,
+                              "lng":-73.9551099303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mozzarella Kosher",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2304,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107142521709977952894\">Raulyn Garc\u00eda502<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLCQ8ImdDRaftH5OVY4MABVJdtU4Pmwqkz5eFKn7wIFla4b68f-wlL-N2sO54Ol8x7kF0Anccphrkse7JwanA1LTtI67kOVTyfOsAEcDiUcEA1zgbUc6QcBVKaif0EG2-Y7Zk7LizHVAkK5YlW4X6W4tRsZeiDbXYR4H4xr8RMPiJ3",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJgUzPzehbwokRAkIhEIPwWDk",
+            "plus_code":{
+                  "compound_code":"M2XW+WC Brooklyn, NY, USA",
+                  "global_code":"87G8M2XW+WC"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJgUzPzehbwokRAkIhEIPwWDk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":498,
+            "vicinity":"264 Lee Avenue, Brooklyn",
+            "CBG":360470531001,
+            "Radius":144.2649423742
+      }
+]

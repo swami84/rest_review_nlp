@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.684876,
+                        "lng":-73.6215589
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6862142303,
+                              "lng":-73.6201061697
+                        },
+                        "southwest":{
+                              "lat":40.6835162697,
+                              "lng":-73.6228041303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Radigan's Pub And Casual Dining",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1837,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106270543820930378329\">Radigan&#39;s Pub And Casual Dining<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKSJHaBxHzsDA2uHRN-Vl5XNv8zq38XcSdIr9QO_Dx91nz87wjGVofagC6wbt9vGYCyJ7X-OplxCqnDG9OJtvGPUbfiQk4Wq-Od_N3bmr8q6L3ULFM_ysWHjXtUPND6CsGua72XqKn5gvBKvlTkRYafoCbzuuLKUAf6XnV2IaUKy9tb",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJt9ds4ex8wokRVf_rRW5A5NM",
+            "plus_code":{
+                  "compound_code":"M9MH+X9 South Hempstead, NY, USA",
+                  "global_code":"87G8M9MH+X9"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJt9ds4ex8wokRVf_rRW5A5NM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"1094 Long Beach Road, South Hempstead",
+            "CBG":360594128001,
+            "Radius":423.5793967794
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6837027,
+                        "lng":-73.621651
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6850687303,
+                              "lng":-73.6203855697
+                        },
+                        "southwest":{
+                              "lat":40.6823707697,
+                              "lng":-73.6230835303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Curbside Mexican Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1512,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100625748633685209397\">Curbside Mexican Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOe_LeXK56lYynajtaVPxY5hvtb4ch3PMaGWnzZbhGY-mjeZevSta613fO2ihdZzcZ6pEj2mrntd6YnDL8cUxJNECOA45c4jUwVNWKXHnn2aLWmfFAkc4gcDAfy-vCFyefKepdS2LffhyjxOG_wcPEpemRV5AtPlhKxHOn6xtbTwS7",
+                        "width":2016
+                  }
+            ],
+            "place_id":"ChIJ7_XJxKx9wokRHzNDOLCBAcI",
+            "plus_code":{
+                  "compound_code":"M9MH+F8 South Hempstead, NY, USA",
+                  "global_code":"87G8M9MH+F8"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJ7_XJxKx9wokRHzNDOLCBAcI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":89,
+            "vicinity":"1131 Long Beach Road, South Hempstead",
+            "CBG":360594128001,
+            "Radius":423.5793967794
+      }
+]

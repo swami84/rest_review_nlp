@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6964611,
+                        "lng":-73.9582376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6978214803,
+                              "lng":-73.9569789697
+                        },
+                        "southwest":{
+                              "lat":40.6951235197,
+                              "lng":-73.9596769303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Panino Toasty Delicious",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114447370737127670663\">Jack Samet<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtv_JgERmSRQlvoWH7o16ye2vvQX30-Bz6-VyWbv5j21cgLuZtXaWSfT1_VQr1pJ5WTbv-BJmXaSLAQhnYFVAohUSP-rN-Lf66Bz2T3X3OxbdQnVVyOn8XzvkTKBCdjpGWAB0KJcsFFyxRRrHIUixnZ5BxrbKM4iPX_BHaJNfwHVYv",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJDSYhD9lbwokRx5Xplv4tM3w",
+            "plus_code":{
+                  "compound_code":"M2WR+HP New York, NY, USA",
+                  "global_code":"87G8M2WR+HP"
+            },
+            "rating":4.9,
+            "reference":"ChIJDSYhD9lbwokRx5Xplv4tM3w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":47,
+            "vicinity":"83 Franklin Avenue, Brooklyn",
+            "CBG":360471237002,
+            "Radius":157.030289922
+      }
+]

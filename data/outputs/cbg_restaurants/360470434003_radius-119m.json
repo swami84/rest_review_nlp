@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.610956,
+                        "lng":-73.978853
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6122214303,
+                              "lng":-73.9774825697
+                        },
+                        "southwest":{
+                              "lat":40.6095234697,
+                              "lng":-73.9801805303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Palina",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":332,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107628714029235716778\">La Palina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOM4h63QV0y_8UMmyohZ2-eonm3hD5UCYKy99HsIGdB7mSVwAhN4WSrVcfLDfg0OxP5WoAkh9OhmwAR1Ak0MCRk7-qzPw5uf-oexctYB31PQOBHkUZOGM9JAj9_M18c5FsJWSQCdEYYYzYnF0OmdzXrzZgGypjhal-JbHear6VBHgq",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJW0BC3-NEwokRCcguDYS9UbI",
+            "plus_code":{
+                  "compound_code":"J26C+9F Brooklyn, NY, USA",
+                  "global_code":"87G8J26C+9F"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJW0BC3-NEwokRCcguDYS9UbI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":426,
+            "vicinity":"159 Avenue O, Brooklyn",
+            "CBG":360470434003,
+            "Radius":118.8151650769
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.610586,
+                        "lng":-73.97834
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6119349803,
+                              "lng":-73.9769910197
+                        },
+                        "southwest":{
+                              "lat":40.6092370197,
+                              "lng":-73.9796889803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizzeria Di Mola",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3006,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115354096318086584445\">Igor Katrach - Director of Photography<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKeZHmSVyeAJoyc8bXcKz35OQoGY-KL3xT-DEe6YGAyP8eCal5QapM_jtL1wgcZ7zC6EOYZt-EcBVaSOxQ7Db8ld99KWjhX7RB3PPxH0ekM3bzwhk0Yw0KWccLvfz2x9AgE3dxKP6Wl0PaiNjmXDJLCtdIDPfZe7uJkrC_6qcrlgtEp",
+                        "width":5344
+                  }
+            ],
+            "place_id":"ChIJmZyj4eNEwokRsQmJirLC_4I",
+            "plus_code":{
+                  "compound_code":"J26C+6M Brooklyn, NY, USA",
+                  "global_code":"87G8J26C+6M"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJmZyj4eNEwokRsQmJirLC_4I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":88,
+            "vicinity":"176 Avenue O, Brooklyn",
+            "CBG":360470434003,
+            "Radius":118.8151650769
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6742637,
+                        "lng":-73.8785797
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6756897303,
+                              "lng":-73.8772493197
+                        },
+                        "southwest":{
+                              "lat":40.6729917697,
+                              "lng":-73.8799472803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Foo Shun",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110963844659720525804\">pablo franco<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIyMMZ4ZxI95f-EpacLjKFFBysNfP5EQ40w7vfpdzBbak8LSfNrlRj08vxCiI_UmJsEwInMwz_mHQkmlBjLiIs7-6mH7BmnnpF8BC6dV_7bpHCEacqP66v2ojun7PWn2mFiov_XU9vjoC-LxqyBS9KlcrYYfzS04-P0rhPrJKmln8qj",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJY4pHk7BdwokRkRaG4PL3rQY",
+            "plus_code":{
+                  "compound_code":"M4FC+PH New York, NY, USA",
+                  "global_code":"87G8M4FC+PH"
+            },
+            "rating":3.8,
+            "reference":"ChIJY4pHk7BdwokRkRaG4PL3rQY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":111,
+            "vicinity":"2538 Pitkin Avenue, Brooklyn",
+            "CBG":360471194001,
+            "Radius":134.4749156683
+      }
+]

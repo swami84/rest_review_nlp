@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6081483,
+                        "lng":-73.9534487
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6095145803,
+                              "lng":-73.9519433697
+                        },
+                        "southwest":{
+                              "lat":40.6068166197,
+                              "lng":-73.9546413303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Deli & Dogz",
+            "place_id":"ChIJSxiv4BtFwokR5J5pzgyfZsA",
+            "plus_code":{
+                  "compound_code":"J25W+7J New York, NY, USA",
+                  "global_code":"87G8J25W+7J"
+            },
+            "reference":"ChIJSxiv4BtFwokR5J5pzgyfZsA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2200 Ocean Avenue, Brooklyn",
+            "CBG":360470550003,
+            "Radius":131.5166943979
+      }
+]

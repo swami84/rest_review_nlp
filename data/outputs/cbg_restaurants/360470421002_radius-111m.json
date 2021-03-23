@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6972668,
+                        "lng":-73.9240875
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6986797303,
+                              "lng":-73.9226738197
+                        },
+                        "southwest":{
+                              "lat":40.6959817697,
+                              "lng":-73.9253717803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Don Andres Modern Taqueria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":945,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116965126685462461122\">Don Andres Modern Taqueria<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKjcUnMopEz09alY4b3xbjyXHJj__cd3vAnKw3gTT_KkFgTQfF4KzbviExKGRss1ny3Ooj6yGfl8xKPBRKnofO27NbK0RUyUgVGStmHnwgbrHumveq1ZPhSz23gKmWJg93dotl5OfXSEaXg0ZRjqTUhzUIYjb3fD-fbMuA6N3DdP8q-",
+                        "width":1239
+                  }
+            ],
+            "place_id":"ChIJx-Lneg9dwokR0L9tQFqd2IY",
+            "plus_code":{
+                  "compound_code":"M3WG+W9 New York, NY, USA",
+                  "global_code":"87G8M3WG+W9"
+            },
+            "rating":4.4,
+            "reference":"ChIJx-Lneg9dwokR0L9tQFqd2IY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"238 Central Avenue, Brooklyn",
+            "CBG":360470421002,
+            "Radius":110.5969890928
+      }
+]

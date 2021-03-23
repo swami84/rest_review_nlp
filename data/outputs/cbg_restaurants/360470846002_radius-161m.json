@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6420592,
+                        "lng":-73.9287021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6434679303,
+                              "lng":-73.9273591197
+                        },
+                        "southwest":{
+                              "lat":40.6407699697,
+                              "lng":-73.9300570803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"C and T Cuisine Sea Food Restaurant",
+            "place_id":"ChIJX34-P6RcwokRor5G14znTJI",
+            "plus_code":{
+                  "compound_code":"J3RC+RG Brooklyn, NY, USA",
+                  "global_code":"87G8J3RC+RG"
+            },
+            "rating":5,
+            "reference":"ChIJX34-P6RcwokRor5G14znTJI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"5014 Avenue D, Brooklyn",
+            "CBG":360470846002,
+            "Radius":160.7970007026
+      }
+]

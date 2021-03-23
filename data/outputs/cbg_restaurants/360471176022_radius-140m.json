@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6850335,
+                        "lng":-73.8721712
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6863102803,
+                              "lng":-73.8708049697
+                        },
+                        "southwest":{
+                              "lat":40.6836123197,
+                              "lng":-73.8735029303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"@Quitebangingfoods",
+            "place_id":"ChIJ8ebz4f5dwokRZ7aLTCpxz4Y",
+            "plus_code":{
+                  "compound_code":"M4PH+24 New York, NY, USA",
+                  "global_code":"87G8M4PH+24"
+            },
+            "reference":"ChIJ8ebz4f5dwokRZ7aLTCpxz4Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9 Adler Place, Brooklyn",
+            "CBG":360471176022,
+            "Radius":140.1576837564
+      }
+]

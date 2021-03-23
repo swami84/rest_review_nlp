@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7075437,
+                        "lng":-73.9501033
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7088372803,
+                              "lng":-73.9487536697
+                        },
+                        "southwest":{
+                              "lat":40.7061393197,
+                              "lng":-73.9514516303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Mountain Province",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3744,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105430456129786055178\">Mountain Province<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLEc_reVmnCOPXVOSpVMxdgPTd3CZ_dQJXl115i8S-T95OcgTlxpyIJCVktWy1FvjLuVHtSZcLKmuy-XVu7r5jrNFfP4mMG7ZrbQHeK5N2xEsB0J8cUWfT-44-Bm1EXpkWLNG5Be1MgwRkXqBIpJE3AmVJqGHEnjP4N0VAhJnEe1lZU",
+                        "width":5616
+                  }
+            ],
+            "place_id":"ChIJq-ibDuNbwokR_sSFdR-PXDI",
+            "plus_code":{
+                  "compound_code":"P25X+2X New York, NY, USA",
+                  "global_code":"87G8P25X+2X"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJq-ibDuNbwokR_sSFdR-PXDI",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"9 Meserole Street, Brooklyn",
+            "CBG":360470511002,
+            "Radius":130.6887660167
+      }
+]

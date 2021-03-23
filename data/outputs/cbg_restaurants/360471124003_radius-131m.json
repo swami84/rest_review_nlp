@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6654973,
+                        "lng":-73.8882784
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6668304303,
+                              "lng":-73.8870235697
+                        },
+                        "southwest":{
+                              "lat":40.6641324697,
+                              "lng":-73.8897215303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Manley's Eat To The Bone",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1774,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114008313827420054706\">Manley&#39;s Eat To The Bone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtXcCK8Gb_1wQkoj4-3_uqP120T_85H3I79GTR9R0Rge2v15pkAQNP_kZvP6_CosrR3DDDJqf81ECloHYKdp4EnXGNDnRtAYi0X1O6F_oXSfdcW9Kc6sivtHQZhknkZBvN8Xp1p9lnVcGkf4YoOpntxu-vHPu_Yec1f8puzl0zCPay",
+                        "width":1774
+                  }
+            ],
+            "place_id":"ChIJOaCQL6tdwokRRWzYRgqb9Lg",
+            "plus_code":{
+                  "compound_code":"M486+5M Brooklyn, NY, USA",
+                  "global_code":"87G8M486+5M"
+            },
+            "rating":3.3,
+            "reference":"ChIJOaCQL6tdwokRRWzYRgqb9Lg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"571 Van Siclen Avenue, Brooklyn",
+            "CBG":360471124003,
+            "Radius":131.126447073
+      }
+]

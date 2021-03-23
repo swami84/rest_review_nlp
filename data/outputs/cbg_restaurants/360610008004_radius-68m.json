@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7108574,
+                        "lng":-73.9963989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7124685303,
+                              "lng":-73.9951633697
+                        },
+                        "southwest":{
+                              "lat":40.7097705697,
+                              "lng":-73.9978613303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118273345517771779112\">Jose Espinal<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJB__xI75eAwUSHRJEJKJRjffaWafWRn4mxxA5n3GAviHkybwHKURrdYs93q5_Vf8X9GM8VF_4Sns1d9La5UOvtGzzepNdr44S43CY6btVzAHTfLkeS3GEQUaNv8tIEB3OmOmpW7WsdbeBzL5zOBHk3Bqrd5QoxLsls5TLz-KchXtOF",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJaw2ivCVawokRgj_kCKvKSXY",
+            "plus_code":{
+                  "compound_code":"P263+8C New York, NY, USA",
+                  "global_code":"87G8P263+8C"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJaw2ivCVawokRgj_kCKvKSXY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"81 Catherine Street, New York",
+            "CBG":360610008004,
+            "Radius":67.6345427599
+      }
+]

@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.703207,
+                        "lng":-73.9422103
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7044976803,
+                              "lng":-73.9408310197
+                        },
+                        "southwest":{
+                              "lat":40.7017997197,
+                              "lng":-73.9435289803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Graham pizza & Chicken",
+            "place_id":"ChIJw8IKQkFbwokRi4Fxyvi0HyM",
+            "plus_code":{
+                  "compound_code":"P335+74 New York, NY, USA",
+                  "global_code":"87G8P335+74"
+            },
+            "reference":"ChIJw8IKQkFbwokRi4Fxyvi0HyM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"77 Varet Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470491003,
+            "Radius":137.9048311697
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.703217,
+                        "lng":-73.9422
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7045026803,
+                              "lng":-73.9408258697
+                        },
+                        "southwest":{
+                              "lat":40.7018047197,
+                              "lng":-73.9435238303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Milan Pizza and Chicken",
+            "place_id":"ChIJSyc7UyxbwokRuWU2BVvxBbE",
+            "plus_code":{
+                  "compound_code":"P335+74 New York, NY, USA",
+                  "global_code":"87G8P335+74"
+            },
+            "reference":"ChIJSyc7UyxbwokRuWU2BVvxBbE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"66 Graham Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109845864785728585102\">Jalil Khan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJkZsNhzuCd41jAXsephi8WRrjDGGV8L-aFM9ZbcmW1L1RfmgN0EBg_5xXi4R_qocG3ecgAf8OQSxNOC9Lvitl5bhTNCH_tb3GJEHGPYawnyfGZyriZetSPaDcpGb--SHJRZbYlMZe7CBQlwbVVcVmhfu04h_vBGhy1F_xNQyjSZZjL",
+                        "width":4032
+                  }
+            ],
+            "rating":4.0,
+            "user_ratings_total":37.0,
+            "CBG":360470491003,
+            "Radius":137.9048311697
+      }
+]

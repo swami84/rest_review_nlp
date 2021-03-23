@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6653926,
+                        "lng":-73.9228297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6666900803,
+                              "lng":-73.9214671197
+                        },
+                        "southwest":{
+                              "lat":40.6639921197,
+                              "lng":-73.9241650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Blendzville Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106435590958815221039\">Blendzville Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIosmz-uEzar89Qe-aFuGs8k58fUYcljKLRkVJ6ShXFyG5O6RObeTV0vmcFDqstPsBS3emnWhV_1qn_05_EWCiN7HcY8zJPmlNJiXHxYKzXkEEXwrQ94OrlV7jgAPMUBhoKxNqjeBvaGUyFq9GB8tFGE5urK8uuONY8pJ60y_RHnegp",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmTFTZohcwokRSfQYd9eY6tA",
+            "plus_code":{
+                  "compound_code":"M38G+5V Brooklyn, NY, USA",
+                  "global_code":"87G8M38G+5V"
+            },
+            "rating":4.5,
+            "reference":"ChIJmTFTZohcwokRSfQYd9eY6tA",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"5 Sutter Avenue, Brooklyn",
+            "price_level":null,
+            "CBG":360470900007,
+            "Radius":89.3790983035
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.665362,
+                        "lng":-73.923108
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6667109803,
+                              "lng":-73.9217590197
+                        },
+                        "southwest":{
+                              "lat":40.6640130197,
+                              "lng":-73.9244569803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJpRMgZIhcwokReDfs2p_-Z0s",
+            "plus_code":{
+                  "compound_code":"M38G+4Q New York, NY, USA",
+                  "global_code":"87G8M38G+4Q"
+            },
+            "rating":3.5,
+            "reference":"ChIJpRMgZIhcwokReDfs2p_-Z0s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":61,
+            "vicinity":"1 Sutter Avenue, Brooklyn",
+            "price_level":1.0,
+            "CBG":360470900007,
+            "Radius":89.3790983035
+      }
+]

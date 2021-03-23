@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7135604,
+                        "lng":-73.9412535
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7148794303,
+                              "lng":-73.9400086697
+                        },
+                        "southwest":{
+                              "lat":40.7121814697,
+                              "lng":-73.9427066303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Claudia's by Clo Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3648,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100995413371106129498\">Claudia&#39;s by Clo Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL2xZd4x4Gw6cB_odKYP13MOoqe4CmcfxauqjmwE--L3YnKQA2W5OMQDEgjGN3U2Eew24OS4aLeUNrvxT0zBRC818lrENzswWCQhmnV3R4ex-gVio_aTJWKkrm0Yay6E4hOElYZ_o3CkMncUoF182zOH2J9cKpSaH891ZG_cPj4Fqso",
+                        "width":5472
+                  }
+            ],
+            "place_id":"ChIJB6Vtq-pZwokRMAc1AODPsYg",
+            "plus_code":{
+                  "compound_code":"P375+CF New York, NY, USA",
+                  "global_code":"87G8P375+CF"
+            },
+            "rating":4.6,
+            "reference":"ChIJB6Vtq-pZwokRMAc1AODPsYg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":222,
+            "vicinity":"39 Bushwick Avenue, Brooklyn",
+            "CBG":360470481003,
+            "Radius":143.8097003861
+      }
+]

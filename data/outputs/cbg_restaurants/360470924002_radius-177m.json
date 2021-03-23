@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6641907,
+                        "lng":-73.9094798
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6654859303,
+                              "lng":-73.9081503197
+                        },
+                        "southwest":{
+                              "lat":40.6627879697,
+                              "lng":-73.9108482803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wah Yung",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100234145218782244824\">Michael Reyes<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtxUsSe_NCQ1HVKKzOvA--4NGBf0GHW7CxF3q9q5wkCsTPUSBO1ecIwIQ1INQsze3KJ4_O7APGgsRBldVwl_8RT7GF6uCWFpYA8tOFKxZiYyYxsbVyAZNPztAF0edaK_sKzm6q-wJkkRGvYqPvuBmsp8aMPp0S-4C3j_nx-L05K64E",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJGf16oPVcwokR67ulxIeShS8",
+            "plus_code":{
+                  "compound_code":"M37R+M6 New York, NY, USA",
+                  "global_code":"87G8M37R+M6"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJGf16oPVcwokR67ulxIeShS8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"648 Rockaway Avenue, Brooklyn",
+            "CBG":360470924002,
+            "Radius":177.0099300509
+      }
+]

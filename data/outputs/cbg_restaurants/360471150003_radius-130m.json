@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.673382,
+                        "lng":-73.8870989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6746580803,
+                              "lng":-73.8857390197
+                        },
+                        "southwest":{
+                              "lat":40.6719601197,
+                              "lng":-73.8884369803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cachapas Brooklyn",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106306645913518921830\">Cachapas Brooklyn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJgNjdMIsIlQEMFku2ojymFv83Pjyb1udPs1nLqnVV-cLzjqqH6qBI3o__UixGVqZ2v3SPyDD6ydEYKUChUgnwTXlpbrdgILwj7ZEIram8KfcVGEUzxuGm5QY8jlakPSQeNhFUppoLlZWeB3s4c5rhAgJu7EIm0xcIJUduyYgBEnnLY",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJM85jk7JdwokRH85hy-IPpgA",
+            "plus_code":{
+                  "compound_code":"M4F7+95 Brooklyn, NY, USA",
+                  "global_code":"87G8M4F7+95"
+            },
+            "price_level":1.0,
+            "rating":4.7,
+            "reference":"ChIJM85jk7JdwokRH85hy-IPpgA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":592.0,
+            "vicinity":"2311 Pitkin Avenue, Brooklyn",
+            "CBG":360471150003,
+            "Radius":130.0564071544
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6732057,
+                        "lng":-73.8867345
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6745476803,
+                              "lng":-73.8853837197
+                        },
+                        "southwest":{
+                              "lat":40.6718497197,
+                              "lng":-73.8880816803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Soul food",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJYcEM6khdwokRjYLGBWfdFnQ",
+            "plus_code":{
+                  "compound_code":"M4F7+78 New York, NY, USA",
+                  "global_code":"87G8M4F7+78"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJYcEM6khdwokRjYLGBWfdFnQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"Pitkin Avenue, Brooklyn",
+            "CBG":360471150003,
+            "Radius":130.0564071544
+      }
+]

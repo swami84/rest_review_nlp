@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7149302,
+                        "lng":-73.9827077
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7162223803,
+                              "lng":-73.9813861697
+                        },
+                        "southwest":{
+                              "lat":40.7135244197,
+                              "lng":-73.9840841303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"East Side Glatt",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111437078877290340140\">East Side Glatt<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLGOaxwDQvhGcUQkxGXky66ffAhmmnAFCLF1ln7FbktsLQFy2ysaCMn4-tWaEXTzE1JE63-VYTjQxI7Di1cpeye2xS0KmAJIhvQzcXe1KABmmmAglKoajwKF5Y3zAvpHNK8bkju0jRfnFFeGpcp-t4ZN2ZACW47KRTti-AHqpYNIln6",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJzYPwsSpawokRN7h87TLVwZ0",
+            "plus_code":{
+                  "compound_code":"P278+XW New York, NY, USA",
+                  "global_code":"87G8P278+XW"
+            },
+            "rating":4.8,
+            "reference":"ChIJzYPwsSpawokRN7h87TLVwZ0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"500 Grand Street, New York",
+            "price_level":null,
+            "CBG":360610012002,
+            "Radius":108.3111760406
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7149237,
+                        "lng":-73.9827075
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7162186803,
+                              "lng":-73.9813845697
+                        },
+                        "southwest":{
+                              "lat":40.7135207197,
+                              "lng":-73.9840825303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zafis Luncheonette",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100020284399173516417\">Zafis Luncheonette<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1H6S1thUgFfjuZXX8X97HjYKiKDtPnNRZAJQI8JFYre7aDrJjGNhZNmUSOLub1los1L-6S56TSg6enLajBh2czM4EeVz_fxERh64HyeC2cNhE_hQZqjMnosB1ccDEMvDqUjRNrVBKK8YssmTyb3A4rqnG64mcS_6vxQu_4i8ZAco2",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJzYPwsSpawokRJAJtH0MuXfM",
+            "plus_code":{
+                  "compound_code":"P278+XW New York, NY, USA",
+                  "global_code":"87G8P278+XW"
+            },
+            "rating":4.3,
+            "reference":"ChIJzYPwsSpawokRJAJtH0MuXfM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":190,
+            "vicinity":"500 Grand Street, New York",
+            "price_level":1.0,
+            "CBG":360610012002,
+            "Radius":108.3111760406
+      }
+]

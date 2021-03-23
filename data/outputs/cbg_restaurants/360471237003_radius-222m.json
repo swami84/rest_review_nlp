@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6970881,
+                        "lng":-73.9548757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6983838803,
+                              "lng":-73.9535161697
+                        },
+                        "southwest":{
+                              "lat":40.6956859197,
+                              "lng":-73.9562141303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Charlie's Corner",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104146081369622496644\">Timofey Shpirnyy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJKIV_DyObAmTH40ZGPlxJcifM88j-xOVLczrBWYG3TvZdqsM6XKp1SFWlP3_xs5Y7FQgfm12iu1YfwVTDM7z7Gd0fMQ2JElgggulZv6DzcOY0YFACSzdDNYUPoZCFjY3f-hE2TdldDxhUOmdPz-XsAeIa91mGliuI3JY_H021o9K23",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJuX8yXOlbwokRN2sd9ujrrS4",
+            "plus_code":{
+                  "compound_code":"M2WW+R2 New York, NY, USA",
+                  "global_code":"87G8M2WW+R2"
+            },
+            "rating":4.5,
+            "reference":"ChIJuX8yXOlbwokRN2sd9ujrrS4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"537 Park Avenue, Brooklyn",
+            "CBG":360471237003,
+            "Radius":221.7121499004
+      }
+]

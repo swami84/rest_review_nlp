@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6757225,
+                        "lng":-73.8668192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6771510303,
+                              "lng":-73.8654664697
+                        },
+                        "southwest":{
+                              "lat":40.6744530697,
+                              "lng":-73.8681644303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106083086531628055325\">King David<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwItjAN5aW1l_s5_aea-Iz9BFD91l6iyt5ugGpsLNJrwC7NfVMR-Sdgqd_djvQntJvHaKvChnmwOgRgSNY7L7mA5AmJdI8y07gMgUgGjdoc0aQto7aGNGdB7im16-o9Y-r5aEMiBGOA7dMA8UmCTV2yBfn02kKOlKouRn2tP68oKJJ14",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJzb4jOb5dwokRLIxmBuOArC8",
+            "plus_code":{
+                  "compound_code":"M4GM+77 New York, NY, USA",
+                  "global_code":"87G8M4GM+77"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJzb4jOb5dwokRLIxmBuOArC8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":719,
+            "vicinity":"624 South Conduit Boulevard, Brooklyn",
+            "CBG":360471200001,
+            "Radius":151.9472637943
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6941108,
+                        "lng":-73.9185046
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6955202803,
+                              "lng":-73.9170958197
+                        },
+                        "southwest":{
+                              "lat":40.6928223197,
+                              "lng":-73.9197937803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rosario Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":373,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103814745568389519736\">Rosario Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIMbNkMIFlHj9GX3EKcJ_VXJy4QCoOBMkwk3PQBcbVMXBIwopE48ZR8llA8i1szkl2GLN_bu-oQ3r3lpRInKpZSFH380zuJXu5_LiI6in-0MHc0ScbVW5czYk9E6VZ1XetT-1Pgl6pq4JOmoK8yTPKS9NSxHyhnpHEO9t8-GiMC0uB",
+                        "width":664
+                  }
+            ],
+            "place_id":"ChIJXzYD1RBcwokRjDbKGRLKDSM",
+            "plus_code":{
+                  "compound_code":"M3VJ+JH New York, NY, USA",
+                  "global_code":"87G8M3VJ+JH"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJXzYD1RBcwokRjDbKGRLKDSM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":204,
+            "vicinity":"374 Central Avenue, Brooklyn",
+            "CBG":360470417004,
+            "Radius":108.2259159439
+      }
+]

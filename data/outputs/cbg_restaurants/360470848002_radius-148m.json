@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6449336,
+                        "lng":-73.9293327
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6462742803,
+                              "lng":-73.9281158197
+                        },
+                        "southwest":{
+                              "lat":40.6435763197,
+                              "lng":-73.9308137803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":526,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101101278497789865917\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLpjwOqQeYD5IRdL4zeoOR2bVCJ9XW012pPsDKCz2qHsLgY-CJ6SmxTBxMcY_SFq9t04pwm5pnXOKR-1kuVfY3r_t8Z05CsGxJodJqChzg6v9dvyiJ3KFkmkBXSzy23jov2GZCWA-rgmIv4b1hkFrxJc5mqiDy9LHGi49-JJrJi0AVm",
+                        "width":936
+                  }
+            ],
+            "place_id":"ChIJPYFesmpdwokRdZM6l1x-g2g",
+            "plus_code":{
+                  "compound_code":"J3VC+X7 New York, NY, USA",
+                  "global_code":"87G8J3VC+X7"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJPYFesmpdwokRdZM6l1x-g2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"1149 Utica Avenue, Brooklyn",
+            "CBG":360470848002,
+            "Radius":148.4483470113
+      }
+]

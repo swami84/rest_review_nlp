@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7037141,
+                        "lng":-73.9475777
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7051331303,
+                              "lng":-73.9461574697
+                        },
+                        "southwest":{
+                              "lat":40.7024351697,
+                              "lng":-73.9488554303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cozzi Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101933033061352924813\">John Constantine<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKEb8fmJpk3fpVVRK2jKEKUYFyvoFeLwAM30FXdYyHXrP-DCX_th7yr26nM6JNQczdGKSXa3Uf9DGjfYWr8PaGwxKyOeRXsyK-norc95d-HwxzH1RG3WXmjvwiD8JwMublddcqKiMNdcD3f53M_yqOye2pWtj7bCdio6ZqF1lplvDi0",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJ7dh5LftbwokRe0liWS5qB4M",
+            "plus_code":{
+                  "compound_code":"P332+FX New York, NY, USA",
+                  "global_code":"87G8P332+FX"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJ7dh5LftbwokRe0liWS5qB4M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":94,
+            "vicinity":"584 Broadway, Brooklyn",
+            "CBG":360470491001,
+            "Radius":119.8434828203
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7038059,
+                        "lng":-73.9475977
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7051998303,
+                              "lng":-73.9462030197
+                        },
+                        "southwest":{
+                              "lat":40.7025018697,
+                              "lng":-73.9489009803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chicken Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100977787671095852487\">Bee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7-QOWZAvA2v-jwcP7CQBolrTTOiaY7YowMx4DyPsl9UwCTICxWvRkL26zXEjIXdJr1qn4cIYzZVs3PAqU2pxSThROg4l-DADvaTOvNKxD_xVUfAE33q2RPw-co8zXtvaWMoBHkDntZ3wTlKXsspDMjjXidvmmKuSPKgo2O1vNJakw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVaFTMvtbwokRkRqLcfgUlL8",
+            "plus_code":{
+                  "compound_code":"P332+GX New York, NY, USA",
+                  "global_code":"87G8P332+GX"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJVaFTMvtbwokRkRqLcfgUlL8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"582 Broadway, Brooklyn",
+            "CBG":360470491001,
+            "Radius":119.8434828203
+      }
+]

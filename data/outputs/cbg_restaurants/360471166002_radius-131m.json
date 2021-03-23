@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.673642,
+                        "lng":-73.882775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6750792303,
+                              "lng":-73.8814574197
+                        },
+                        "southwest":{
+                              "lat":40.6723812697,
+                              "lng":-73.8841553803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"LA BONA PIZZA & PASTA",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107931989504208124972\">LA BONA PIZZA &amp; PASTA<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcsHmC1svXcM6U2XsoHGUwFda6MUh6U_2bCBCQIGb3saJSUf5O4kH-GfEtpicDOLzK33jE7bIIZNlm5dXyBRGFQtRfsJmTQkei6NvTykUXgI9nNPv9exh7wXbnt2u9eitkE6dtM0O9h95k5L3tY4EazaKjJLNuncLb5lZoKvGJCUiK",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJPwJohrFdwokRd4H9BKhhPLw",
+            "plus_code":{
+                  "compound_code":"M4F8+FV Brooklyn, NY, USA",
+                  "global_code":"87G8M4F8+FV"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJPwJohrFdwokRd4H9BKhhPLw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106.0,
+            "vicinity":"2426 Pitkin Avenue, Brooklyn",
+            "CBG":360471166002,
+            "Radius":130.5535183961
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.673642,
+                        "lng":-73.882775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6750733803,
+                              "lng":-73.8814473697
+                        },
+                        "southwest":{
+                              "lat":40.6723754197,
+                              "lng":-73.8841453303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mango PIZZA & PASTA",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ2emfwZVdwokRTCvoxXc62PQ",
+            "plus_code":{
+                  "compound_code":"M4F8+FV New York, NY, USA",
+                  "global_code":"87G8M4F8+FV"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJ2emfwZVdwokRTCvoxXc62PQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2426 Pitkin Avenue, Brooklyn",
+            "CBG":360471166002,
+            "Radius":130.5535183961
+      }
+]

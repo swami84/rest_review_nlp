@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6020831,
+                        "lng":-73.9626073
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6034184303,
+                              "lng":-73.9613807697
+                        },
+                        "southwest":{
+                              "lat":40.6007204697,
+                              "lng":-73.9640787303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"From The Roots",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102295313339284657315\">Maximilian Zunik<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIActXoKBxb_uqh_pAzIfL1Kne8NyrZWhdISJa9yWqTxf3LtRKEibeEUhlAeDUUP-B0HsM1pnXPpBrgwBr1lt12D8yn-9hawlVBxQ4g_OwFDKOMnNgyjjDaFwiXeiLVt7nnW1wTeeIBrdyM19JgNm697EKCufPJ5gkwlIUsTjhRzrNZ",
+                        "width":845
+                  }
+            ],
+            "place_id":"ChIJm_XlD49FwokRYuISVrLMrLo",
+            "plus_code":{
+                  "compound_code":"J22P+RX New York, NY, USA",
+                  "global_code":"87G8J22P+RX"
+            },
+            "rating":5,
+            "reference":"ChIJm_XlD49FwokRYuISVrLMrLo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1929 East 9th Street, Brooklyn",
+            "CBG":360470416001,
+            "Radius":184.0987871804
+      }
+]

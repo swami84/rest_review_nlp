@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.674799,
+                        "lng":-73.8644188
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6761672303,
+                              "lng":-73.8629262697
+                        },
+                        "southwest":{
+                              "lat":40.6734692697,
+                              "lng":-73.8656242303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mel's Southern Soul-Food & Party Planner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106638439167591516595\">Daron Linson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJrcXWGUf9PZXPdiuQTbHkQTu3H-iJmRZNhYFia6uYQe9RThVYOZdG5j3sk0_dwRl2fNdUEyamTNWFXG-hBXDJX0vyge09F5Ru0wH7JWojKaXHuIJL-t_ZVX30KYRUF5Yxjph99HYrC2k84SKml2ECslm_w9BaWwcWsLW1eglhQ4V3z",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJw9i9eM1dwokRKY5pApAnkDQ",
+            "plus_code":{
+                  "compound_code":"M4FP+W6 New York, NY, USA",
+                  "global_code":"87G8M4FP+W6"
+            },
+            "rating":4.6,
+            "reference":"ChIJw9i9eM1dwokRKY5pApAnkDQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"FOOD TRUCK, 642 Eldert Lane, Brooklyn",
+            "CBG":360471202001,
+            "Radius":174.0696308255
+      }
+]

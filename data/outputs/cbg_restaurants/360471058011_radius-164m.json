@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6531579,
+                        "lng":-73.8855492
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6545068803,
+                              "lng":-73.8842002197
+                        },
+                        "southwest":{
+                              "lat":40.6518089197,
+                              "lng":-73.8868981803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cee Love Sea Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJY-WFwbZdwokRRj9hN4qJ4Mg",
+            "plus_code":{
+                  "compound_code":"M437+7Q New York, NY, USA",
+                  "global_code":"87G8M437+7Q"
+            },
+            "reference":"ChIJY-WFwbZdwokRRj9hN4qJ4Mg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1100 New Jersey Avenue, Brooklyn",
+            "CBG":360471058011,
+            "Radius":164.3506626752
+      }
+]

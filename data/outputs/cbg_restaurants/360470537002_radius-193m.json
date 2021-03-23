@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6995722,
+                        "lng":-73.9596518
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7008691303,
+                              "lng":-73.9582451197
+                        },
+                        "southwest":{
+                              "lat":40.6981711697,
+                              "lng":-73.9609430803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brooklyn Bagel",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115634561133160627814\">sruli g<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK6ijKsd5IU_UTM12dv7N2f2v4LGf87bhOw-SpfKjDuyI0lPCgyHfmbVQYO7jyRyHfpAL7F9lodUPfGxn5ghjEXe3mJEwhJYDStORLd4CYCpQgo3hImoHliTVCAnB9iB9nAHHKkC5zSnSvF5b52RZYi0alXixCfyDCENlpXRdwkTD-e",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJp8PEe8JbwokRoj3MDjtq1-U",
+            "plus_code":{
+                  "compound_code":"M2XR+R4 Brooklyn, NY, USA",
+                  "global_code":"87G8M2XR+R4"
+            },
+            "rating":4.6,
+            "reference":"ChIJp8PEe8JbwokRoj3MDjtq1-U",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":250,
+            "vicinity":"7 Heyward Street, Brooklyn",
+            "CBG":360470537002,
+            "Radius":193.1465773729
+      }
+]

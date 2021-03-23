@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6549456,
+                        "lng":-73.916885
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6562945803,
+                              "lng":-73.9155360197
+                        },
+                        "southwest":{
+                              "lat":40.6535966197,
+                              "lng":-73.9182339803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"WB Caribbean Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118160045541460252130\">E J<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxOqSlXIC51DxEhoJymHSD80YQB5D-tHH9niSFsWQ5HSsjiSQKCrc1WVNrc7EvtlbJwOfOjsEpQ150jnmhbGEC4UkxtDlxdXmq4EYbP2oIIyfGSyWDx6qMu5eue0vCqukgh4YPJwr5xX20DIr8X1uaarm79JDkdOQgbNrtwxP6AOyf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJMwawR5JcwokRpOFnYpjEsVQ",
+            "plus_code":{
+                  "compound_code":"M33M+X6 New York, NY, USA",
+                  "global_code":"87G8M33M+X6"
+            },
+            "rating":4.3,
+            "reference":"ChIJMwawR5JcwokRpOFnYpjEsVQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"9407 Church Avenue, Brooklyn",
+            "permanently_closed":null,
+            "CBG":360470888001,
+            "Radius":121.9250109885
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6552786,
+                        "lng":-73.9175027
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6565862803,
+                              "lng":-73.9162176697
+                        },
+                        "southwest":{
+                              "lat":40.6538883197,
+                              "lng":-73.9189156303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"James Hollomon iii",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJIRzXaZJcwokR-skBCcS_LkI",
+            "plus_code":{
+                  "compound_code":"M34J+4X Brooklyn, NY, USA",
+                  "global_code":"87G8M34J+4X"
+            },
+            "rating":2.5,
+            "reference":"ChIJIRzXaZJcwokR-skBCcS_LkI",
+            "scope":"GOOGLE",
+            "types":[
+                  "shopping_mall",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"491 East 94th Street #4, Brooklyn",
+            "permanently_closed":true,
+            "CBG":360470888001,
+            "Radius":121.9250109885
+      }
+]

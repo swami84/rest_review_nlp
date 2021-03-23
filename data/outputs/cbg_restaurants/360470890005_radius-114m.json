@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.655164,
+                        "lng":-73.9157649
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6566112803,
+                              "lng":-73.9145262697
+                        },
+                        "southwest":{
+                              "lat":40.6539133197,
+                              "lng":-73.9172242303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Macedonia Tavern",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1016,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104334598691558050883\">Macedonia Tavern<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJo5PRSubv5saCY4Xj6sO_lLbnO9RAgCR9PR6Rgp_pLS-rAeYXOmtr1UGaeMbyoZczcRqxIO8dfoWqB_uGmxibgCcm7mg_h_DFQxLish8xzTNOoXiT5PntzAr41dfIn7-NhIvHYcGD6qhRjF6bMFjTe46Xm325rvhY0FDPU76amNwOW",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJu0TOABZdwokRjxC1Ox30Um0",
+            "plus_code":{
+                  "compound_code":"M34M+3M Brooklyn, NY, USA",
+                  "global_code":"87G8M34M+3M"
+            },
+            "reference":"ChIJu0TOABZdwokRjxC1Ox30Um0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "night_club",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"9508 Church Avenue, Brooklyn",
+            "CBG":360470890005,
+            "Radius":113.5760015919
+      }
+]

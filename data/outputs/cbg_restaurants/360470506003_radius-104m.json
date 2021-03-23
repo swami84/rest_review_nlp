@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6477419,
+                        "lng":-73.9678302
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6490271303,
+                              "lng":-73.9664379197
+                        },
+                        "southwest":{
+                              "lat":40.6463291697,
+                              "lng":-73.9691358803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jiku Wicked Wings & Korean Grub",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117366183908250825415\">Jiku Wicked Wings &amp; Korean Grub<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLPOZOXDnD6xAy3PFpGBXv8hRD5llYpBjYIk4NdE9Wm5LivIxiA2Y_SBk8uxB9IejIQyWbdb0ymyu5Wceb31XqgFKHjWCLg41EzoG0lXpPnU8zHN-huEVUc7QNzbj6rOCHef-IN1DCv8JF6v_9Obu0_NTIS4_FjyPJMMngwFw3KUq6C",
+                        "width":2730
+                  }
+            ],
+            "place_id":"ChIJl8AeLzFbwokRI6uJvFzfnGI",
+            "plus_code":{
+                  "compound_code":"J2XJ+3V Brooklyn, NY, USA",
+                  "global_code":"87G8J2XJ+3V"
+            },
+            "rating":4.7,
+            "reference":"ChIJl8AeLzFbwokRI6uJvFzfnGI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"1219 Church Avenue, Brooklyn",
+            "CBG":360470506003,
+            "Radius":104.2301128055
+      }
+]

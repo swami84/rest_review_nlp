@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7038273,
+                        "lng":-73.9581212
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7052327803,
+                              "lng":-73.9566843197
+                        },
+                        "southwest":{
+                              "lat":40.7025348197,
+                              "lng":-73.9593822803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Greenfelds",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107332784924310929430\">yossi K<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUbtu8sU91BLoRvNsr833mTqxgolP-YSLnjMm8bOzvtp2qaYbz9pDkU4khH6l-pMFfmbMVAouVRGra11OsZlG3dmIUluWIh1F7vLo_gFER4uq7CqDK8ukkhDgqowQBs9I40mYGuHQHSBcD1VAxaMW5nspFbLBQCHm2d04kfdHFmZGF",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJVd57vedbwokR0AaF66iipBQ",
+            "plus_code":{
+                  "compound_code":"P23R+GQ New York, NY, USA",
+                  "global_code":"87G8P23R+GQ"
+            },
+            "rating":4.7,
+            "reference":"ChIJVd57vedbwokR0AaF66iipBQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":98,
+            "vicinity":"128 Lee Avenue, Brooklyn",
+            "CBG":360470533003,
+            "Radius":100.5951767813
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6585698,
+                        "lng":-73.9315952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6599275303,
+                              "lng":-73.9301553697
+                        },
+                        "southwest":{
+                              "lat":40.6572295697,
+                              "lng":-73.9328533303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109049416818025195952\">Vladimir Odessitt<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIrOruPVaCO9E454rJO5Qfy64D15f4HvZBkDm08IFe79_MFkIKOs6a7VTo6geruYLpWG6cVeb3SyjkEpYmKIMfhuk7Z6jrhSbX4ly5rgI688eaEivjVuD-kkk0xCRFMSp2FjcMBEvng9lxYWRV6wpG9MywNnZfx_UqQ71MpQvYelFBo",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJNdJz8AxdwokRMZ9dSaHHP6E",
+            "plus_code":{
+                  "compound_code":"M359+C9 New York, NY, USA",
+                  "global_code":"87G8M359+C9"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJNdJz8AxdwokRMZ9dSaHHP6E",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"610 Utica Avenue, Brooklyn",
+            "CBG":360470878002,
+            "Radius":141.7901703623
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6230376,
+                        "lng":-73.9645564
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6243731803,
+                              "lng":-73.9633181697
+                        },
+                        "southwest":{
+                              "lat":40.6216752197,
+                              "lng":-73.9660161303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Olympia Pita",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":457,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104538574972159999165\">Olympia Pita<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI4JFiEfkARBKJmPyvlZ0Z0-gLnvgKplXB3Z2XDh45d5UTXGnPuZiW_4zEPPP-gb4Y68g9Re2LX4QnJUztcg1dkgM7-Fzp0vBvg4fIiPOXwLxZOAJbuY7NlZDQ8dmo7_anYa8ZWq2tEGS2BcEMjfI3zR9nHFLnu2ZQ0a_fEoKvWwFsj",
+                        "width":790
+                  }
+            ],
+            "place_id":"ChIJiyUFDsZEwokRjQh8jDdjx48",
+            "plus_code":{
+                  "compound_code":"J2FP+65 New York, NY, USA",
+                  "global_code":"87G8J2FP+65"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJiyUFDsZEwokRjQh8jDdjx48",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":978,
+            "vicinity":"1419 Coney Island Avenue, Brooklyn",
+            "CBG":360470534004,
+            "Radius":120.8353954317
+      }
+]

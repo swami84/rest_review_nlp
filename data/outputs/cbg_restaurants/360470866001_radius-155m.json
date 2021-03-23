@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6589737,
+                        "lng":-73.9271261
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6603719803,
+                              "lng":-73.9257009197
+                        },
+                        "southwest":{
+                              "lat":40.6576740197,
+                              "lng":-73.9283988803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Carribean sun restaurant and jerk center",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105107932251540529386\">Nekecia Davis<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKTgPPRu1tF2fUywBrNcuCO-tYOAz7KBC2mHRhhL1MMHkAjmHUmC9wecyeT4NmWQZtQl-S0HglwTGo28HsT01tAZ77Voe2v8QkQjDSlAUxv1rvr_xbrgOzL510NQD2MTOeiPqPWO9Z7gcTI88dxxIpKlKghA-7xSDAOQ74VmyqOqOgB",
+                        "width":990
+                  }
+            ],
+            "place_id":"ChIJbWfpdbRdwokR9lyoo4MnMyM",
+            "plus_code":{
+                  "compound_code":"M35F+H4 Brooklyn, NY, USA",
+                  "global_code":"87G8M35F+H4"
+            },
+            "reference":"ChIJbWfpdbRdwokR9lyoo4MnMyM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"218 Remsen Avenue, Brooklyn",
+            "CBG":360470866001,
+            "Radius":155.4974455555
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6540004,
+                        "lng":-73.9178021
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6553446303,
+                              "lng":-73.9162698697
+                        },
+                        "southwest":{
+                              "lat":40.6526466697,
+                              "lng":-73.9189678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106085065828074324134\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLV-QlNz2wx7eRdnqTgaFmg5U2Gzh57jw7h3cv_pglIC5DbbAGrA6d76BGLlsPfwqpGP2GmO-FF08aB_tkYEYdtkZMb8twbsEBhic23o3jUjnC3ssxzHzwKSoxVaRJWkVuF3LJU0RDsT9_pq_t2meCQIL-QAzjBeu_mUqajpVPKz8KA",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJl7KJ0ZNcwokRTTRK0weU0FI",
+            "plus_code":{
+                  "compound_code":"M33J+JV New York, NY, USA",
+                  "global_code":"87G8M33J+JV"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJl7KJ0ZNcwokRTTRK0weU0FI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":765,
+            "vicinity":"9216 Church Avenue, Brooklyn",
+            "CBG":360470888002,
+            "Radius":151.1564872252
+      }
+]

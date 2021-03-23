@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6144434,
+                        "lng":-73.9743804
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6157339803,
+                              "lng":-73.9730913697
+                        },
+                        "southwest":{
+                              "lat":40.6130360197,
+                              "lng":-73.9757893303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Europe Bakery",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106699305004922670900\">marius naci<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ6f4OPaUytiSuz1uJIxzvtS0Vkf7WKULI2LUkPSNCqTl46EKr9heVss_7XKppv_m9IXQ1eYITE7D8SuNegjaeZw8un4HzEO2GHjhgWfDtUv6ZnRPQClrjUvTOHZmt1tTPX9hhA_5UinhYEVHTjw6SVoc6B2jPHNS-If5zHnxQv5HAR",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJPXstdOdEwokRpNTaOOD9g8g",
+            "plus_code":{
+                  "compound_code":"J27G+Q6 Brooklyn, NY, USA",
+                  "global_code":"87G8J27G+Q6"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJPXstdOdEwokRpNTaOOD9g8g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"2367 60th Street, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470446001,
+            "Radius":149.6485617788
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6144067,
+                        "lng":-73.9743705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6157068803,
+                              "lng":-73.9730716197
+                        },
+                        "southwest":{
+                              "lat":40.6130089197,
+                              "lng":-73.9757695803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Master Wonton",
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118127810776027209366\">OH yeah<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKDOk_VguI7VyVdVh9BSY6u_7psLTj_z5GNOY18sUqmZDktpc010nxCu7RROTB_7nnxPM-hlDBrNXf07wG2S791-pTNGFfUnfesp2tcLxWRtC-wwVJK7PdrpR3aoIVaTZnZrAtjBe8B8YHwVRNGPIFZBWXIEbDaHP42ickLI5YqMa9q",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJl0L8dOdEwokRGm7X3HMtdIs",
+            "plus_code":{
+                  "compound_code":"J27G+Q7 Brooklyn, NY, USA",
+                  "global_code":"87G8J27G+Q7"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJl0L8dOdEwokRGm7X3HMtdIs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":104,
+            "vicinity":"2369 60th Street, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470446001,
+            "Radius":149.6485617788
+      }
+]

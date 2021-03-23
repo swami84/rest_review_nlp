@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6949669,
+                        "lng":-73.9160049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6963812803,
+                              "lng":-73.9145901697
+                        },
+                        "southwest":{
+                              "lat":40.6936833197,
+                              "lng":-73.9172881303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Peking Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106679421977617652753\">Arjun Biju<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI_7R8nHu2WrZjZTd2cF1LUJ7fVhwa7WrpCXrsDaA63xAQ1UYEBbbuH3pg6WcbAZQMtbvY-mZL7c_6EfbeGPvxpuMd7oYjHrGBizsshkCOXN-JTRX7ohVgsgRMYnlGt3UhHMQTzQ31v4WRAgIUu4pEQ4QnX902v0baJtOU8jcfdyKId",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJDzpfchdcwokRlMkAtjznU-M",
+            "plus_code":{
+                  "compound_code":"M3VM+XH New York, NY, USA",
+                  "global_code":"87G8M3VM+XH"
+            },
+            "rating":4.2,
+            "reference":"ChIJDzpfchdcwokRlMkAtjznU-M",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":61,
+            "vicinity":"362 Wilson Avenue, Brooklyn",
+            "CBG":360470417001,
+            "Radius":101.5901640895
+      }
+]

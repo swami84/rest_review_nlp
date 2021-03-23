@@ -1,0 +1,47 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6997944,
+                        "lng":-73.9538806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7011717303,
+                              "lng":-73.9524119697
+                        },
+                        "southwest":{
+                              "lat":40.6984737697,
+                              "lng":-73.9551099303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mozzarella Kosher",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJgUzPzehbwokRAkIhEIPwWDk",
+            "plus_code":{
+                  "compound_code":"M2XW+WC Brooklyn, NY, USA",
+                  "global_code":"87G8M2XW+WC"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJgUzPzehbwokRAkIhEIPwWDk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":498,
+            "vicinity":"264 Lee Avenue, Brooklyn",
+            "CBG":360470531002,
+            "Radius":139.7038677752
+      }
+]

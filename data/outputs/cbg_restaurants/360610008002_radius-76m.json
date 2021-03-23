@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7120123,
+                        "lng":-73.9961592
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7134312303,
+                              "lng":-73.9948212697
+                        },
+                        "southwest":{
+                              "lat":40.7107332697,
+                              "lng":-73.9975192303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Go Sushi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3023,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108832832530824433507\">Jason Zhang<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJm6bzlg8I8Jp4ni7I0VDeRhoc8ZGuCV0aCNsrk4xFYdDwBcbwu7qvs34PBQ4KvqMl-WS7KqPJrPKnjFaxxNwO-ropcW8-l5rfPcawoKMKk17lAmoiOvM8vqKdgg9UFWUZ3-_H_THRFQMvQeqxySsHn3v4TuWMt1reuY0BSvHG_4XK5",
+                        "width":4031
+                  }
+            ],
+            "place_id":"ChIJvVMNM39bwokRkdb3nKyKXQM",
+            "plus_code":{
+                  "compound_code":"P263+RG New York, NY, USA",
+                  "global_code":"87G8P263+RG"
+            },
+            "rating":4.6,
+            "reference":"ChIJvVMNM39bwokRkdb3nKyKXQM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"86 Madison Street, New York",
+            "CBG":360610008002,
+            "Radius":75.7002832291
+      }
+]

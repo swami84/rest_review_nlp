@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6665136,
+                        "lng":-73.8834528
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6677760803,
+                              "lng":-73.8820771697
+                        },
+                        "southwest":{
+                              "lat":40.6650781197,
+                              "lng":-73.8847751303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Caterinas Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117231579170655096827\">Colorfinger<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKpZe74kkC09ZtHALwbCkm5PoAS9dspfJuEFn_sxNOFmrk9lzzcu2J_YX1DpCQVTW3TLc_xMgvnUYOOtEWLQigl8FxqDnzs3_j39zPvz4oPlZkZnj1gePu4CuRaGrrjSx_81qgTi-C0uiCR89na1OwYbuz4qRA1z09Pc28C2z_ot_qf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJuRuz_qtdwokRn1o7jOE4pfk",
+            "plus_code":{
+                  "compound_code":"M488+JJ New York, NY, USA",
+                  "global_code":"87G8M488+JJ"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJuRuz_qtdwokRn1o7jOE4pfk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":207,
+            "vicinity":"907 Livonia Avenue, Brooklyn",
+            "CBG":360471124001,
+            "Radius":128.5040087913
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6661864,
+                        "lng":-73.8835549
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6675353803,
+                              "lng":-73.8822059197
+                        },
+                        "southwest":{
+                              "lat":40.6648374197,
+                              "lng":-73.8849038803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Lechonera",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103291683760418107161\">Angie Tate<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJj0u9yibt9OY3H_M9I4jf8VolXBQoJmlfmz-5QFDyaw9fyRqFPeXhklGuSUv8eRutSoaJ6pfChM8RAbIU4NNUY9b8hl-4YAmwQWg0kg-UrRvmT3x0SLr2zqhc8ALaviQdIceGF52bWMw2Bocng_ev7_uuQmxwBwAAbjGBN-Go2N0Sy",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJoRi45KtdwokRs7L_VfyzyEs",
+            "plus_code":{
+                  "compound_code":"M488+FH Brooklyn, NY, USA",
+                  "global_code":"87G8M488+FH"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJoRi45KtdwokRs7L_VfyzyEs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":107,
+            "vicinity":"747 New Lots Avenue, Brooklyn",
+            "CBG":360471124001,
+            "Radius":128.5040087913
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6730541,
+                        "lng":-73.8711433
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6743708803,
+                              "lng":-73.8698880697
+                        },
+                        "southwest":{
+                              "lat":40.6716729197,
+                              "lng":-73.8725860303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lily",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103268835394214838665\">Classi Fied<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKihocrHmBaBSrSgIlC55d8FzVW7jp_zYcCWbyXOaxM_t9GDS32RZ4FKQTT6vyu4TzpMXghYvrZZe3D-5EW9YytVUd41z-KUvFPh-uSf7M8p-r7qicLNA6NuQQNR-SEtUBovMRLtnQj2A7jL8xMSv4ImyoCqLYvUVxHORwoSKDUtV-6",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJszIreLxdwokR2jRkttHhtH0",
+            "plus_code":{
+                  "compound_code":"M4FH+6G New York, NY, USA",
+                  "global_code":"87G8M4FH+6G"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJszIreLxdwokR2jRkttHhtH0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"1269 Sutter Avenue, Brooklyn",
+            "CBG":360471196004,
+            "Radius":142.7667221099
+      }
+]

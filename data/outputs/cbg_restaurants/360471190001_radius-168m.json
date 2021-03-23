@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.679024,
+                        "lng":-73.8707289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6803688803,
+                              "lng":-73.8694668697
+                        },
+                        "southwest":{
+                              "lat":40.6776709197,
+                              "lng":-73.8721648303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gyro King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":466,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112696424365096732932\">Gyro King<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRgx8KVazhmVNIUmwJoMmqUVnUJtemQluigNQ0Nqk1fA_ElSgdmhDizFxRx5PxkIIYUSlpaKSVQK7SAOJIFl63QtFAsjPK9txwnCoUz2qB2zaSQKmdSnFB3rPCos-qpd4XRbAi77XSLOx5aMygEtJhgJd-g29WMQ3iesoPkqCaKnbg",
+                        "width":826
+                  }
+            ],
+            "place_id":"ChIJwZorW7FdwokRrNkjpwjx9kA",
+            "plus_code":{
+                  "compound_code":"M4HH+JP Brooklyn, NY, USA",
+                  "global_code":"87G8M4HH+JP"
+            },
+            "rating":4.2,
+            "reference":"ChIJwZorW7FdwokRrNkjpwjx9kA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":59,
+            "vicinity":"403 Crescent Street, Brooklyn",
+            "CBG":360471190001,
+            "Radius":168.0518016324
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7172559,
+                        "lng":-73.9832073
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7186048803,
+                              "lng":-73.9818583197
+                        },
+                        "southwest":{
+                              "lat":40.7159069197,
+                              "lng":-73.9845562803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sandy coffee shop",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117808460219123378764\">Ruwan J.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJToOyW9F8jpn4c9rs3OWynHdu76S8MKrZrUzX6vStJpzq-005ZNlqqwA6QVIguV_pFCsm5lFX8_mrk9BbmInJ8EnJKnOJnYQBTBUrF0nmm5OAziLog299CWQXFSPCEqM_LS7OL4kcKwcKp8OEzqjZH1wEDPOFCTNA6nQkSjZPGyk53",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJMW5LJoBZwokRrRcyMT6swsQ",
+            "plus_code":{
+                  "compound_code":"P288+WP New York, NY, USA",
+                  "global_code":"87G8P288+WP"
+            },
+            "rating":4.1,
+            "reference":"ChIJMW5LJoBZwokRrRcyMT6swsQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":46,
+            "vicinity":"212 Delancey Street #3503, New York",
+            "CBG":360610012001,
+            "Radius":123.1769419771
+      }
+]

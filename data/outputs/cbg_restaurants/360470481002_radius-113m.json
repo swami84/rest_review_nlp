@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7127233,
+                        "lng":-73.9383587
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7139775303,
+                              "lng":-73.9369700197
+                        },
+                        "southwest":{
+                              "lat":40.7112795697,
+                              "lng":-73.9396679803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"SHM Bagel & Coffee Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112971336433317715354\">Kyle Gentle<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLhi8T5LF3ig_e5g00zU4uWTUyVOIT5TQ7A4HBju8e3sMAsGE1PBRTWlP_QNyrwN_ckNPpakOq03_olP-kEb8ZNDRqyyt7I_hJu0kRfbgieZfN6hIriA-SdbcyDowJ0WJpyPhw0nfqxHPHhKI9XCm2MArtKXhX3Byx8dNOYUabngOWd",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJjZqRim9ZwokRPzpWXhhBtow",
+            "plus_code":{
+                  "compound_code":"P376+3M New York, NY, USA",
+                  "global_code":"87G8P376+3M"
+            },
+            "rating":4.1,
+            "reference":"ChIJjZqRim9ZwokRPzpWXhhBtow",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"895 Grand Street, Brooklyn",
+            "CBG":360470481002,
+            "Radius":112.7193746297
+      }
+]

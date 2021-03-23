@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7040021,
+                        "lng":-73.9484817
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7053899303,
+                              "lng":-73.9470638697
+                        },
+                        "southwest":{
+                              "lat":40.7026919697,
+                              "lng":-73.9497618303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Caf\u00e9 28",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1668,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111989726109162933477\">Caf\u00e9 28<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLfcBdMWcdDJuRKsZf4kYsyGTIVi6U4WB-yiQIR-zzQM9CAbmT-Rdk5oOPkDhi1u4v1cmcLKxdg6gz9Cop3XQQvsJjAvGaf5u019ynQOXAk5LF1VnZlbNgXeT_bVzc8tI8E6u-ecd8qXug0GOfNMfff4mQn5ArQnn3gqOklwrt5VQiU",
+                        "width":2500
+                  }
+            ],
+            "place_id":"ChIJAUlBxeRbwokRDF0myTjYtOA",
+            "plus_code":{
+                  "compound_code":"P332+JJ Brooklyn, NY, USA",
+                  "global_code":"87G8P332+JJ"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJAUlBxeRbwokRDF0myTjYtOA",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":417,
+            "vicinity":"28 Throop Avenue, Brooklyn",
+            "CBG":360470509001,
+            "Radius":151.3869000123
+      }
+]

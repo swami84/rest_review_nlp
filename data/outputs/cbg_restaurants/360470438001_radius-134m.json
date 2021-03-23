@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6095633,
+                        "lng":-73.9687204
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6107806303,
+                              "lng":-73.9673456697
+                        },
+                        "southwest":{
+                              "lat":40.6080826697,
+                              "lng":-73.9700436303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mondo Kosher Wood Fired Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118435100741677571161\">Shmuli Simpson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ3p2Y9DhDR6RFfAokzG-F7jygYvQcesc5IvhYdLst6Uez231d1rP5uVX0KRALH9FbcJ3rZ5ppvymrZDc1x8XesESGcExOG0JhafTW_VsdANkGqeevJGNjQSe7429PREE_EdmlwWbwyrYOKFwTkuGJTbvV2FyuZmdPyXp7bRwXZZ7TH",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJiZUuFxJFwokRjheFe2aeyNA",
+            "plus_code":{
+                  "compound_code":"J25J+RG New York, NY, USA",
+                  "global_code":"87G8J25J+RG"
+            },
+            "rating":4.7,
+            "reference":"ChIJiZUuFxJFwokRjheFe2aeyNA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"509 Avenue P, Brooklyn",
+            "CBG":360470438001,
+            "Radius":133.978099336
+      }
+]

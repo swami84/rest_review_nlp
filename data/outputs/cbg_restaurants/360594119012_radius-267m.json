@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6549839,
+                        "lng":-73.6748804
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6563003303,
+                              "lng":-73.6734937197
+                        },
+                        "southwest":{
+                              "lat":40.6536023697,
+                              "lng":-73.6761916803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Not Just Bagels",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111933243101935422469\">Tom K<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ-9Cy6iGESnNnfrEasybV1STG-37X3YMEdCHydTDFdXwt4LcA4QIM8yid8_abYojG7m0i2EDK9XwkYyR8w0mEib1gLyOGimdrf7kCuEXPmx7kfAGANCaTJteiuXqq-adFkPS2et_yDawcCsTfu4sK_I8I5axNSerl9JKrr0fXcxr7b",
+                        "width":2400
+                  }
+            ],
+            "place_id":"ChIJzbRnRb5kwokRE6yBbaK0K4U",
+            "plus_code":{
+                  "compound_code":"M83G+X2 Lynbrook, NY, USA",
+                  "global_code":"87G8M83G+X2"
+            },
+            "rating":3.6,
+            "reference":"ChIJzbRnRb5kwokRE6yBbaK0K4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"101 Broadway, Lynbrook",
+            "price_level":null,
+            "CBG":360594119012,
+            "Radius":266.9314421021
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6549767,
+                        "lng":-73.6744546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6564567303,
+                              "lng":-73.6728790197
+                        },
+                        "southwest":{
+                              "lat":40.6537587697,
+                              "lng":-73.6755769803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger Shack",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108803049235812307700\">Doug McMasters<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKhrbOsp7-0lYGhhhbGT1VLaKs3fPh2QQFDtDKykPt6X3gpw-Fj4YEY90MRASXCKxqUW82EAsBfHwNSx8ccwzCHY9TgAe62JjC9bFhux5_oWV3iXJOp5Y8pGDHZNvSTL1ULVi3ChJCxdIxrKXaGQLBg6UvZeDcFwqEcuBgitNxN-N9V",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgzENW75kwokRkXWsRhDFras",
+            "plus_code":{
+                  "compound_code":"M83G+X6 Lynbrook, NY, USA",
+                  "global_code":"87G8M83G+X6"
+            },
+            "rating":4.5,
+            "reference":"ChIJgzENW75kwokRkXWsRhDFras",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":293,
+            "vicinity":"82 Broadway, Lynbrook",
+            "price_level":1.0,
+            "CBG":360594119012,
+            "Radius":266.9314421021
+      }
+]

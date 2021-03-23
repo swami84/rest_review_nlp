@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6239272,
+                        "lng":-73.9755155
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6252761803,
+                              "lng":-73.9741665197
+                        },
+                        "southwest":{
+                              "lat":40.6225782197,
+                              "lng":-73.9768644803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Double Dragon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115539112788754618909\">Jeffrey<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLXth6AZopbeDCTgMRewowKg_fhFTxCkSQnblPwjC9JwAlCzSEHSNQwAdahlR4Gc5pmxZWNzrRhn7RRKkkwlcvcZwdP85lV3LPRgoNY_KdFvYwArWPqPiL3kmtBF73LD4uYKTtZ1WX8WK3crVtv_HgkXEEGgr4hZRYFV7DF9ou-609M",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJIzZYP9pEwokRB-aACpMC6gM",
+            "plus_code":{
+                  "compound_code":"J2FF+HQ Brooklyn, NY, USA",
+                  "global_code":"87G8J2FF+HQ"
+            },
+            "rating":4.1,
+            "reference":"ChIJIzZYP9pEwokRB-aACpMC6gM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"1207 McDonald Avenue, Brooklyn",
+            "CBG":360470462022,
+            "Radius":181.2392628402
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.623785,
+                        "lng":-73.975523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6251175803,
+                              "lng":-73.9743302697
+                        },
+                        "southwest":{
+                              "lat":40.6224196197,
+                              "lng":-73.9770282303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Yi's Sandwich Shop",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112523666303858487299\">Alberto Torres<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIHoMvvzZyxYiQEAsrPTXP9rAwaNCL1O4ZSGnQHdo-IGzcVjg53rdJhyv4PTXFX_rgAL1RTjfYs5WrmK7u1mkcRyp9zD-sJVCnoFPu7v8R1_NAKoIYhfFaLL4BgpJ6_rvy8W3rdOyT5K-xuCnWIUe3syw9125c2X01xezp6MTb58aJ1",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJQQYdR9pEwokRYCohrDylvak",
+            "plus_code":{
+                  "compound_code":"J2FF+GQ New York, NY, USA",
+                  "global_code":"87G8J2FF+GQ"
+            },
+            "rating":4.6,
+            "reference":"ChIJQQYdR9pEwokRYCohrDylvak",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1211 McDonald Avenue, Brooklyn",
+            "CBG":360470462022,
+            "Radius":181.2392628402
+      }
+]

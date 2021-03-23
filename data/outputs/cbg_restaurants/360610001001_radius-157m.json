@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6899189,
+                        "lng":-74.0462094
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6912678803,
+                              "lng":-74.0448604197
+                        },
+                        "southwest":{
+                              "lat":40.6885699197,
+                              "lng":-74.0475583803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Statue of Liberty Crown Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":363,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105760401414659550192\">Ravindra Salunkhe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJn_68g81Gz1fXfIfg_1RDMofEK8oZQrLgDJzHXygWJuRQ97Al91bANcatqzVAVOw1aHvVyKOP1W4QdAWBWKMiIEhSROxh6Tt_24Dw8xYVSXV4LPMjlU2TqOorc2l6Si4Zi9AhrI3hbcJsttmdrRr9JmnNNdttypaCx3F5jDt39zS8u",
+                        "width":550
+                  }
+            ],
+            "place_id":"ChIJOw_d1I5QwokRlC7hA3MBvFs",
+            "plus_code":{
+                  "compound_code":"MXQ3+XG New York, NY, USA",
+                  "global_code":"87G7MXQ3+XG"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJOw_d1I5QwokRlC7hA3MBvFs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1683,
+            "vicinity":"New York",
+            "CBG":360610001001,
+            "Radius":157.2197058314
+      }
+]

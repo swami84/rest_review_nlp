@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6620192,
+                        "lng":-73.9270151
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6634392803,
+                              "lng":-73.9257480197
+                        },
+                        "southwest":{
+                              "lat":40.6607413197,
+                              "lng":-73.9284459803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Golden Billion",
+            "place_id":"ChIJ8RMxy4VcwokR6CQvFVzJMsA",
+            "plus_code":{
+                  "compound_code":"M36F+R5 New York, NY, USA",
+                  "global_code":"87G8M36F+R5"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJ8RMxy4VcwokR6CQvFVzJMsA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"976 Rutland Road, Brooklyn",
+            "CBG":360470882002,
+            "Radius":109.502207341
+      }
+]

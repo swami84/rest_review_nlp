@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6512672,
+                        "lng":-73.9377848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6526074803,
+                              "lng":-73.9365802197
+                        },
+                        "southwest":{
+                              "lat":40.6499095197,
+                              "lng":-73.9392781803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"G T Paradise",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108908426438890026724\">Ian Williams<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKfPzw8lxVCuJgr5QX6sP8IkIDm3kdUJwi6mu8ZLEyr0wvM9jngqNj87SX5edhPfDAvkILRqCf4ZRJ6Wc-9HW9a9maSqncRPBS7h6B6mqjZdSTNBMrhRpYUVNMZmDZwRxL4sX0NmHeCsyDCqdyCCpuY-0sr3BGxQLGyO4WPDHI2FJnT",
+                        "width":2340
+                  }
+            ],
+            "place_id":"ChIJ0-4taGBbwokR5fDAntB8AD4",
+            "plus_code":{
+                  "compound_code":"M326+GV New York, NY, USA",
+                  "global_code":"87G8M326+GV"
+            },
+            "rating":4.6,
+            "reference":"ChIJ0-4taGBbwokR5fDAntB8AD4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":56,
+            "vicinity":"191 East 42nd Street, Brooklyn",
+            "CBG":360470858001,
+            "Radius":149.692159941
+      }
+]

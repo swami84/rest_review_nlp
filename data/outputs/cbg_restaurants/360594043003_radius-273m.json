@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7239952,
+                        "lng":-73.7263641
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7252777803,
+                              "lng":-73.7249760697
+                        },
+                        "southwest":{
+                              "lat":40.7225798197,
+                              "lng":-73.7276740303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Maleen Banquet Hall and Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2136,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102192269965198172030\">Maleen Banquet Hall and Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLRK5cqlcddeDTS6j6pUO_iUGb64GUl0Fvmj0JIk6SjkQx8gpi_RGEHajF3TWlmILyNHwjvKYjG3x1GBsCGSie1_unl3tbu3pAYrfLk0iQjLohDhXDYsBwimDxIXR5eBe3puPR67IUxyNTmY4iPjLNA7VJ_3DhNOGc7wIcZLjxKAfMn",
+                        "width":3782
+                  }
+            ],
+            "place_id":"ChIJ0wlW5kljwokRF5rTnkwObaA",
+            "plus_code":{
+                  "compound_code":"P7FF+HF Bellerose, NY, USA",
+                  "global_code":"87G8P7FF+HF"
+            },
+            "rating":4.8,
+            "reference":"ChIJ0wlW5kljwokRF5rTnkwObaA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"241-03 Jamaica Avenue, Bellerose",
+            "CBG":360594043003,
+            "Radius":273.2163423349
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6585082,
+                        "lng":-73.9246122
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6598571803,
+                              "lng":-73.9232632197
+                        },
+                        "southwest":{
+                              "lat":40.6571592197,
+                              "lng":-73.9259611803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"No. 1",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117672758909332864606\">just muibat<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJyyhKDbn1cc9AmwL55XLahPV5zt0T4YKw8qJiablQCkI5_FkIHf2OFm5NUvYxPRrnc52H4g3Blpy6kyeBa4UYXxDNQfvSHvE126E6Q0xNKcrlePpa4WZ5rFPY3kg_51A5eKVdzTd3YP7jHXPow3b3ROOCKIqWREHAEqPrRL-qcb6l9",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJU2FfV4VcwokR7kmAtHTO130",
+            "plus_code":{
+                  "compound_code":"M35G+C5 Brooklyn, NY, USA",
+                  "global_code":"87G8M35G+C5"
+            },
+            "rating":4.1,
+            "reference":"ChIJU2FfV4VcwokR7kmAtHTO130",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"1007 Clarkson Avenue, Brooklyn",
+            "CBG":360470882003,
+            "Radius":109.481857283
+      }
+]

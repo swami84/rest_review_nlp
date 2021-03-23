@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6639181,
+                        "lng":-73.9154069
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6652892303,
+                              "lng":-73.9139032697
+                        },
+                        "southwest":{
+                              "lat":40.6625912697,
+                              "lng":-73.9166012303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blake Food Market Corp.",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJVezxYfVcwokRoWlswCwrt08",
+            "plus_code":{
+                  "compound_code":"M37M+HR New York, NY, USA",
+                  "global_code":"87G8M37M+HR"
+            },
+            "rating":4,
+            "reference":"ChIJVezxYfVcwokRoWlswCwrt08",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"Brooklyn",
+            "CBG":360470898001,
+            "Radius":133.767672671
+      }
+]
