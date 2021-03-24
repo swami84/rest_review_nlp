@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTN2NLcUpnEAE",
+        "caption": "I am a big fan of Tico and the other SRG restaurants so I was suprised and excited to find a new Suishi place on 14th. The Candy Cane roll was my favorite. I will be back for the Ramen.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Bethany Wagener",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108871639470365243294/reviews?hl=en-US",
+        "census_block_group": 110010043002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTamZxSTZ3RRAB",
+        "caption": "The food was super tasty and they had great service! Definitely coming back with friends and family.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "elisha oh",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114893724936503867806/reviews?hl=en-US",
+        "census_block_group": 110010043002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTamRyS2VnEAE",
+        "caption": "The service is great, and the food is also great.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "John Oh",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104647301863407362217/reviews?hl=en-US",
+        "census_block_group": 110010043002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTaHNQM0pBEAE",
+        "caption": "I had the ramen on Sunday night - so flavorful and a huge portion for the price (I finished it for lunch on Monday). I'm looking forward to trying their sushi options very soon. A great addition to the neighborhood.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Lauren Kosiba",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109405355599537625044/reviews?hl=en-US",
+        "census_block_group": 110010043002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpcWViMDJ3RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Mike DeRita",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108140960633002350904/reviews?hl=en-US",
+        "census_block_group": 110010043002
+    }
+]

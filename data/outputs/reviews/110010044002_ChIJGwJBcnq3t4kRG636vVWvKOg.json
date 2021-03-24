@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpOWRqS1NREAE",
+        "caption": "Always a great time. Wish they had a cheaper bottomless experience, but I leave satisfied each time.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "Vocalbeast AJ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114907486107785868667/reviews?hl=en-US",
+        "census_block_group": 110010044002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeTVuR3dnRRAB",
+        "caption": "I really enjoyed the music and drinks here. I will definitely visit again soon!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Michel'le Garland",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113462993576203189978/reviews?hl=en-US",
+        "census_block_group": 110010044002
+    }
+]

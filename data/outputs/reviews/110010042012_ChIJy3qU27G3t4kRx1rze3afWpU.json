@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ01YTjNRRRAB",
+        "caption": "Dropped by late one night just on a whim, ended up with great ambience and excellent food combined with superb service. Ordered Pav Bhaji and asked for it to be spicy. The chef sent one of the best dishes I've tasted in DC. Definitely worth coming back again. P.S: Mango Lassi is THE BEST!",
+        "relative_date": "an hour ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Syed Muhammad Shahzeb",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104172598329881033021/reviews?hl=en-US",
+        "census_block_group": 110010042012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cTdfVktnEAE",
+        "caption": "Great food and very friendly staff. Excited to have this restaurant in our neighborhood.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Richard Bobo",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116215005087315894303/reviews?hl=en-US",
+        "census_block_group": 110010042012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2JiRkt3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "john john",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111956775045228397023/reviews?hl=en-US",
+        "census_block_group": 110010042012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2JhOFdBEAE",
+        "caption": "The best restaurant in the town. Great to have this restaurant. Food, service, ambience, everything is superb.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Dipesh Butler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114699986449158217293/reviews?hl=en-US",
+        "census_block_group": 110010042012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2RhRlhREAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Pradip Shrestha",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103931725509410273004/reviews?hl=en-US",
+        "census_block_group": 110010042012
+    }
+]
