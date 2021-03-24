@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ0lqemlnRRAB",
+        "caption": "",
+        "relative_date": "20 hours ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Lamani Lassiter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115997020706490530262/reviews?hl=en-US",
+        "census_block_group": 110010083011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OWR2YzB3RRAB",
+        "caption": "Good Food Good Service Wonderful staff",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "NgocDung Nguyen",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113044233284154526301/reviews?hl=en-US",
+        "census_block_group": 110010083011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a1BhMGp3RRAB",
+        "caption": "They need to open it already I've been wanting 5 months to eat there!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "David Zelada",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115233734582383975837/reviews?hl=en-US",
+        "census_block_group": 110010083011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NE5lMWtnRRAB",
+        "caption": "I can't believe it is here, my SOCAL staple. I've been craving you for 10 years.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Robert Robertson",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109278776818878212572/reviews?hl=en-US",
+        "census_block_group": 110010083011
+    }
+]

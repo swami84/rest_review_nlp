@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeGRqZ0Z3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "Brian Scott",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116640709188472661814/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvaTZTaE1BEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "LaTasha Kelley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103652892580924822604/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvZ19TVlB3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "wendell miller",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116353053496839287953/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJNGRyaEhBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "mati oren",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102920813456012818248/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRM3JtY1RBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "Pamela",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113998111620073828928/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRM2VLbFNBEAE",
+        "caption": "I did not patronize the Bistro, but, I most certainly enjoyed their outside street front seating, sunshine and fresh air. Although the hotel is smoke free, there are asg receptacles for those, who do. It is soacious and extends on either side of the hotel entrance. It is handicap easy and most pleasant. If you need a quick sports or Washington tourism souvenir, it's on the right side of the concierge and check in desk. You can also purchase food and soda) juices to nosh outside. Walking distance to the Navy Yard metro. Take the exit opposite of the ball park exit and you are less than a half a block away. Chill and enjoy!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Angie Whitehurst",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107798961594630846501/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbEkzZFdBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Noel Clark",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101370828069577383643/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBOTZmLXh3RRAB",
+        "caption": "Food is sub-par at best. Expensive for options available and generally not worth spending money on.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 2.0,
+        "username": "Sam Altier",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101507155341784466447/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbUpDV2lBRRAB",
+        "caption": "Outrageous prices for crappy choices and a long wait.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 2.0,
+        "username": "Melanie Anania",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101451640889111553933/reviews?hl=en-US",
+        "census_block_group": 110010072001
+    }
+]

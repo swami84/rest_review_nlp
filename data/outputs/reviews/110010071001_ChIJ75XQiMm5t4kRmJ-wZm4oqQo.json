@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbnVMN013EAE",
+        "caption": "The place is fantastic and spacious, the menu was delicious and the prices were very inexpensive. rapidly, efficient service and very welcoming staff members. Recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Patrick Apel",
+        "n_review_user": 75,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101098955319502624916/reviews?hl=en-US",
+        "census_block_group": 110010071001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZc3QyOWx3RRAB",
+        "caption": "Convenient location, fast, average pricing, good selection /variety, good service and great tasting food. I decided to take advantage of the available hot food buffet selection, and it was a definite win. Overall, I am satisfied and wouldn't hesitate to eat here again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Kitty Marvelous",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116712197831943685207/reviews?hl=en-US",
+        "census_block_group": 110010071001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJalpyVXZRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Nico Juarez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105743633246401992540/reviews?hl=en-US",
+        "census_block_group": 110010071001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnbnRLd3Z3RRAB",
+        "caption": "Extortionate prices for a simple sandwich, which was decent and quick however (turkey club). A few colleagues had the hot food that was available and mentioned that it wasn't very good. Unfortunately it was our only option during our visit to a neighboring building. If we had a better option we would have certainly gone somewhere else.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 2.0,
+        "username": "Matt Robinson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105487828145982862233/reviews?hl=en-US",
+        "census_block_group": 110010071001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcWFiZVRBEAE",
+        "caption": "Sub par eating area for neighboring buildings. Overpriced food. I only write this review because after eating my joke of a Philly cheese steak... I realized it was actually the only item on the list of specialties worth the 6.99 I paid. The place likes cash over credit...and if you give them CC, they have to conveniently walk to the back into the mangers office to run the card. Unfortunately , this area of DC lacks any real good places to eat. Bon appetit!!!",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "B King",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109974980901354909082/reviews?hl=en-US",
+        "census_block_group": 110010071001
+    }
+]
