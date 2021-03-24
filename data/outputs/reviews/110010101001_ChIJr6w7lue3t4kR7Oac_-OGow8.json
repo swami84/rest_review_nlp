@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dmIzS3J3RRAB",
+        "caption": "I wonder how they came up with the name.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Christophe Jergales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101620629774647109180/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjemFtUG9nRRAB",
+        "caption": "Great place with big portions",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Feargal Gilmore",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113569989824492468364/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzNXFYNjVBRRAB",
+        "caption": "Great food but a bit pricey",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Ashraf Hanna",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102746123967097657349/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNzV5UUNnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Hector Hernandez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109194570566274473755/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNZzl1YTJnRRAB",
+        "caption": "Really liked it. Wish I could visit them oneday in Moscow.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "\u0418\u0432\u0430\u043d \u0421\u0438\u043d",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107002535368751820934/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwcGRTdzlBRRAB",
+        "caption": "The BEST Poke bowl I've ever had! I tried out spicy sunflower poke bowl and everything was so fresh!  I loved all the toppings and the portion was perfect.  I am glad I found this place and I would definitely come back again.  The staffs were very friendly and generous.  I also loved the interior too! Will be back soon!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Francheka Korkmaz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115077188592999485472/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    }
+]

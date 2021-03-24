@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVMVpfc3h3RRAB",
+        "caption": "Best hummus you\u2019ll ever have \ud83d\udc4c\ud83c\udffb Made with quality ingredients",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Emily Barrero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105043600484401286502/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvNGVmRVZ3EAE",
+        "caption": "Best food in Washington D.C..",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Alex Ramsundar",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100757010579647403546/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMDltTlpnEAE",
+        "caption": "Truly delicious food. Authentic middle eastern style hummus, meat and bread. The guy had a great personality. You can't beat fresh falafel. If you see this truck, stop and get some food,  you wont be sorry.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Mahdey Shaheen",
+        "n_review_user": 40,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100176109303143800402/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcWZUY09nEAE",
+        "caption": "Top-notch food truck. They nail the Syrian-style wrap (light and flaky) and the spicing and sauces are on point.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Sam Sherwood",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110957954103069419256/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBaEtUaEdnEAE",
+        "caption": "The best food truck. Period . Great middle eastern.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Nick A",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102055815700783617231/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcnVPWjRBRRAB",
+        "caption": "Great food from these food truck brothers",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Jeffrey Tamburello",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100957802831357718126/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbjkzU053EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Mouhanad Al Rifay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101424869122314324372/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRaDVTdi1RRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Sina Mirmozaffari",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110039262316188417651/reviews?hl=en-US",
+        "census_block_group": 110010101001
+    }
+]

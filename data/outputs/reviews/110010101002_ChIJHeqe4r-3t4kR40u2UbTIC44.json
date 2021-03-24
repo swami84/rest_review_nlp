@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbW9IZExREAE",
+        "caption": "One in a million! Thanks a lot, amazing experience!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Omer T Dazar",
+        "n_review_user": 19,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113062151586442303548/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjM09uNUhnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Carrie Samuels",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101420127782519358391/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURja0tqMWxRRRAB",
+        "caption": "They offer the single best breakfast buffet in DC!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "A S",
+        "n_review_user": 36,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117108809901642581105/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNDhDSExREAE",
+        "caption": "Breakfast buffet the best!",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "J Brown",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107420020321934524648/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzcXJmN0xREAE",
+        "caption": "Great breakfast buffet!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Tim Scott",
+        "n_review_user": 156,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115333227771387682942/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVajZQc0pnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "Miles Jackson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105646040603920549948/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRMFAtcDJBRRAB",
+        "caption": "The hotel is spectacular and the people are nice",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Dashiell Pinon",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114281701284585478324/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    }
+]
