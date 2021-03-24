@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVXzcyYm9BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Louise Dawes",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117309550895838786142/reviews?hl=en-US",
+        "census_block_group": 110010096021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3Mzh6d3NBRRAB",
+        "caption": "They are always  out of food, never properly stocked, there is hardly anything on the shelves, credit card machine is always broke and the management always makes excuses for such a poorly run business.  New management is needed!!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Carlos Richardson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112245592419067344116/reviews?hl=en-US",
+        "census_block_group": 110010096021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NzlQRW9RRRAB",
+        "caption": "The WORST customer service I have experienced in quite sometime. A young woman walking around food with hair to her shoulders and no hair net. Two employees 1. fixing personal food at the same counter that orders are being taken & another walking around eating. Music so loud that you cannot hear. Extremely poor environment that Govt workers patronize because of lack of choices.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Michelle Cousins",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104626976033057247437/reviews?hl=en-US",
+        "census_block_group": 110010096021
+    }
+]

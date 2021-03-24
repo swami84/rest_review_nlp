@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNcjl2Q1VREAE",
+        "caption": "This place is worth visiting. They serve big portions for convenient rates. Regularly well organized and with great character. Would recommend to others.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Bentlee Valdez",
+        "n_review_user": 69,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106678093367363931376/reviews?hl=en-US",
+        "census_block_group": 110010087011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cjRHNTRnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Jamal Le Blanc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110705054170345287632/reviews?hl=en-US",
+        "census_block_group": 110010087011
+    }
+]
