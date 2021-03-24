@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVLTlxS3pBRRAB",
+        "caption": "Prices are super reasonable, food is EXCELLENT (those jalapeno biscuits they use to make the sandwiches really hit the spot when I need a pick me up), and the coffee is actually really good PLUS you're supporting a great cause. Definitely worth a stop, I've never been disappointed!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Suzanne Joy",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105330820025600286079/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrbC02Q2dRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Alicia Tillman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111460645396349159940/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrMG9lTE53EAE",
+        "caption": "Counter service for just a few hours each weekday morning, sales support the work of Washington's Central Union Mission. The muffins (aka biscuits) and hand pies are delicious and inexpensive. My bill came to $8.50 for a hand pie, a biscuit (with sausage, egg, and cheese) hash browns, and juice. The food was tasty and filling with the turkey sausage muffin being my favorite.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "John Barnett",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100110101262400480043/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3MHRDZk9REAE",
+        "caption": "The staff are some of the friendliest people I've met during my visit to DC!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Richard Albee Jr",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118086055472503753677/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3aG9UbVp3EAE",
+        "caption": "The BEST breakfast, very affordable ($5 for juice, coffee, hash brown, and breakfast sandwich). I get their turkey sausage hand pie, can\u2019t be beat! Definitely stop by this amazing stand.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Grace Benton",
+        "n_review_user": 25,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117031456245796253413/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURndHE3V0V3EAE",
+        "caption": "Delicious food at a great price! Friendly staff!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Avi Ginsberg",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114994701878240635787/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5Z2FYMnR3RRAB",
+        "caption": "First decent sandwich place in this area",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Sergei Koulayev",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110179469701915055286/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5ODVUT2JREAE",
+        "caption": "Tons of sandwiches or salad options. Fast service great staff.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "Anthony Schweiss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105837275392543661032/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5Mk43MmpRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Alex Kuester",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112727430865640486422/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTXzRueVNnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Heydi Menjivar",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110304159321496524398/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdjhhT2x3RRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Ruby Orellana",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112381686686103599704/reviews?hl=en-US",
+        "census_block_group": 110010059001
+    }
+]
