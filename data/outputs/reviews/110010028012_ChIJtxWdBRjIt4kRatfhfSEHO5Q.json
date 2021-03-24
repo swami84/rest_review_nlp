@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnN2Q3UExREAE",
+        "caption": "(Translated by Google) The meat is excellent  (Original) La carne es excelente",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "Jose Solloso",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106856492212583767857/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNcTllc2dBRRAB",
+        "caption": "Yummy yummy",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "lesly orozco",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109218419493549483434/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0eUtMVE1REAE",
+        "caption": "Excellent!!!!  Very knowledgeable staff with a very nice dining environment make for a memorable experience.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "David Askew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101238270519969595679/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZa3MtZnBnRRAB",
+        "caption": "Amazing customer service & food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Black Cobra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104920633505357380722/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMUtyTUp3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "Gregory Goodwin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103697215690915982724/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnamFfMmN3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Martin Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102508669940918959757/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndWFlSE53EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 1.0,
+        "username": "Elmer Garsia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110674796581083503840/reviews?hl=en-US",
+        "census_block_group": 110010028012
+    }
+]

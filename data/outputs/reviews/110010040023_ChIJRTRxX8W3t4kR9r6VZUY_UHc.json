@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzX2I3MEtnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Ashok Pradhan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108392068403853180449/reviews?hl=en-US",
+        "census_block_group": 110010040023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVb0xqZmFREAE",
+        "caption": "Very friendly staff and excellent vibe",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Rouzbeh Motiei",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115083569948581951409/reviews?hl=en-US",
+        "census_block_group": 110010040023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURFM09mVzZBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 3.0,
+        "username": "Ceray Burns",
+        "n_review_user": 110,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115274685125917050873/reviews?hl=en-US",
+        "census_block_group": 110010040023
+    }
+]

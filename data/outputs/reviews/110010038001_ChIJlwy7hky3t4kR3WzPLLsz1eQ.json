@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTN3B5N0ZnEAE",
+        "caption": "Delicious breakfast spot! Wonderful coffee, loved the Japanese breakfast fish bowl, and partner raved about the ham and cheese scone. Devoured too quickly for photos :)",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Amanda Medlock van Duym",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104135807758130756698/reviews?hl=en-US",
+        "census_block_group": 110010038001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNm9yU3h3RRAB",
+        "caption": "The coffees are so delicious, the people are so nice, the sandwiches and shape bing and and omurice and rice balls are so tasty, it's cute inside, it's cute outside, and the bathroom is even all-gender. I love this place!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Brendan Wynn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110926877515184372347/reviews?hl=en-US",
+        "census_block_group": 110010038001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4eTd6T2ZBEAE",
+        "caption": "Delicious coffee.  Loved the rice bowl and breakfast sandwich (probably a smidge salty for some people) for breakfast. Great service!  Wish they had online ordering. Picked up food and had a picnic in Meridian Hill Park.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Jane Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117950517636077327157/reviews?hl=en-US",
+        "census_block_group": 110010038001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNdmJPWlpnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Kemisha Sales",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109090151117566896422/reviews?hl=en-US",
+        "census_block_group": 110010038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncGJhejJRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "urusha koirala",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101115715714996335783/reviews?hl=en-US",
+        "census_block_group": 110010038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBb3Jla1hREAE",
+        "caption": "Loved the vibes of this place, amazing concept",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "GAURAV KUMAR",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111224052297116536148/reviews?hl=en-US",
+        "census_block_group": 110010038002
+    }
+]

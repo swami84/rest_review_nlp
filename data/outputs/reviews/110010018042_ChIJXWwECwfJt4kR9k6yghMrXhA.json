@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NXVMN2V3EAE",
+        "caption": "Good food: The Brown Stewed Chicken was delicious.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "CHRISTOPHER CHEN",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113199791303262413472/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cEpEVlpBEAE",
+        "caption": "Ok, I just bought the curried chicken and oxtail meal and guess what? I\u2019m going back for Fish for my dinner\ud83c\uddef\ud83c\uddf2\u270a\ud83c\udffe\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83e\udd70",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Colleen Wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103175998172082005351/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbjVDS3R3RRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Dyan Williams",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118165715975295411909/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMWJXYjNBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Tonie Gillis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108810721658107270485/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNHBfRWJ3EAE",
+        "caption": "Love this new spot!  They are outshining establishments that have been around for years.  Everything is delicious and well priced. Give them some biz!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Doreen Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101573773579252189984/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeE02LS1nRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "Sean T.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106874997042067617955/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDd09MaVBnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Bailey Young",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107118026705237013918/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4cWRtclRnEAE",
+        "caption": "Great food and service but not too many options for sides.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "B G",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111604980156543092194/reviews?hl=en-US",
+        "census_block_group": 110010018042
+    }
+]

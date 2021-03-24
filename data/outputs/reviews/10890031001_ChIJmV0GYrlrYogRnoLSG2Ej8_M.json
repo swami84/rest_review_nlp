@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MWFESElREAE",
+        "caption": "Amazing team with amazing coffee. Coffee tastes delicious and the hospitality of the team is our favorite.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Goody Vault",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112934653837857038969/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dTlmU0VBEAE",
+        "caption": "Definitely the best coffee I have had in town! I loved it so much I got a pound of fresh roasted beans to go to enjoy throughout the week!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "James Bruens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113846238598974637066/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eGJfdkxBEAE",
+        "caption": "Very cool place, old fashion place, different environment to have a coffee, tv, social distance tables, good service, clean, friendly, at lunch the sell beers and other drinks and lunch, park in the street.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Brenda Ortiz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114108955403953575094/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Z2J2UUh3EAE",
+        "caption": "One of the best latte I have ever had! Definitely will be back!!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Nicole Cecil",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102514169689003086510/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbThxUmFREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Norrell Robertson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117076589155031855515/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMWYtbnJnRRAB",
+        "caption": "Best coffee in Huntsville! Fresh roasted to perfection for the perfect cup of joe in the morning!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "John David Smith",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116859424288820928631/reviews?hl=en-US",
+        "census_block_group": 10890031001
+    }
+]

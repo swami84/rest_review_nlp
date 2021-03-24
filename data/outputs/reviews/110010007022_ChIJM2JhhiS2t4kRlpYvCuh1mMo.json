@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aXVxaEdBEAE",
+        "caption": "I ordered the Hamilton Pizza and the Korean BBQ wings. Both were really great. The chicken wings was perfectly cooked. The flavor was all around phenomenal. Don't sleep on this place!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Ethan Harris",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108650135628241210488/reviews?hl=en-US",
+        "census_block_group": 110010007022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LXEteE9BEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Devin Hoffman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108505799403696543724/reviews?hl=en-US",
+        "census_block_group": 110010007022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eE42Z1NnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Alex Levin",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114034697785267846554/reviews?hl=en-US",
+        "census_block_group": 110010007022
+    }
+]
