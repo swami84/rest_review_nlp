@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.834068,
+                        "lng":-73.945523
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8354281303,
+                              "lng":-73.9440828697
+                        },
+                        "southwest":{
+                              "lat":40.8327301697,
+                              "lng":-73.9467808303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tropical",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107877051766907127092\">Juan Brito<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIqrFAkxLYSx8kOaUyL1Xxf8srtrieXemGAAnHTMEiSbThtJXOugcZvzqRnzWTC3KRMicPLZFK-nx5K3RCnJ2nzRRjrFJz1q9LXBQkIF84ig-fdJuOwCfFZmGgehzIHzBOS_MKUsvZ2_7eveEhYDiDDp5rV2Nen6K4-rOHNI1kHE8U",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJs2Md1IX2wokRmGjrL0xSNro",
+            "plus_code":{
+                  "compound_code":"R3M3+JQ New York, NY, USA",
+                  "global_code":"87G8R3M3+JQ"
+            },
+            "rating":4,
+            "reference":"ChIJs2Md1IX2wokRmGjrL0xSNro",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":252,
+            "vicinity":"3771 Broadway, New York",
+            "CBG":360610241002,
+            "Radius":109.034654762
+      }
+]

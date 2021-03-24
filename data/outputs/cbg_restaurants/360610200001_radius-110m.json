@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.80433,
+                        "lng":-73.94754
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8057485803,
+                              "lng":-73.9463429197
+                        },
+                        "southwest":{
+                              "lat":40.8030506197,
+                              "lng":-73.9490408803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"SETTEPANI",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4480,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101358987708399866823\">SETTEPANI<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLoKoJBP14sRgnUglqcYD8pzEchdl1jG2Iz__40vmY2dpCt3Z4sOpoLsNk-HJMVRLa7sF0w-RqVt0OBNHE1zAmeCx7wA0IKpCVwyMy08NdwrM4KcCubsjX8q0N4oZZvmc465sqeuybJf26UPDdQNIm-_K2wCH-EwMmCK5fb1RMH6y5",
+                        "width":6720
+                  }
+            ],
+            "place_id":"ChIJsWCOAA72wokRfHCK0ztm1Vs",
+            "plus_code":{
+                  "compound_code":"R332+PX New York, NY, USA",
+                  "global_code":"87G8R332+PX"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJsWCOAA72wokRfHCK0ztm1Vs",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":320,
+            "vicinity":"196 Malcolm X Boulevard, New York",
+            "CBG":360610200001,
+            "Radius":109.5240067786
+      }
+]

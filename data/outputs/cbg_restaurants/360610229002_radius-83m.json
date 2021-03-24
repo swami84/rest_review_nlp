@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8240308,
+                        "lng":-73.9492484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8252949803,
+                              "lng":-73.9479532197
+                        },
+                        "southwest":{
+                              "lat":40.8225970197,
+                              "lng":-73.9506511803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Maria Piadina",
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105133840919810228334\">Evencio Alvarez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL5iNxYXctBWfCddGaXM2mLlV_zngwn2AebPqVQx9MsdLMShIwKYSbniDaoJed2TvLNXN6RTSKhzHYA892jwtJFnJf1GQJ_ygiF25wrtOZD0xbf8Py2h2a-5uwrIWqamsBdK4nsn_0p6dlklyQ5k6OgCZwWysVv40BAf3RxQGOnzbkP",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJ1ZM1TRj3wokRvqu9BDXJ18Y",
+            "plus_code":{
+                  "compound_code":"R3F2+J8 New York, NY, USA",
+                  "global_code":"87G8R3F2+J8"
+            },
+            "rating":4.7,
+            "reference":"ChIJ1ZM1TRj3wokRvqu9BDXJ18Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"128 Hamilton Place, New York",
+            "CBG":360610229002,
+            "Radius":83.2346963279
+      }
+]

@@ -1,0 +1,116 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8064744,
+                        "lng":-73.9610952
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8078398303,
+                              "lng":-73.9598358197
+                        },
+                        "southwest":{
+                              "lat":40.8051418697,
+                              "lng":-73.9625337803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hamilton Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2358,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105601223861302663909\">Jin Yoshikawa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKneme0yGtl1OcmlXLJqDVD2E1cCivEAymEPvfmxjta_C1BDftP8Yk19_M0JjaQ-Q6aLSd05x4QB-pkO02Ihvs6wIwcPmRPLJPKbF9c7h6nG4jhTF8P96ZQtAmI-uAzXGBtC5eQMBVnEJKLB9Ny4NGq61FEgxCFfQnB0ty1FEXIYsQg",
+                        "width":3143
+                  }
+            ],
+            "place_id":"ChIJ09ymdT72wokRDJy7o7SU494",
+            "plus_code":{
+                  "compound_code":"R24Q+HH New York, NY, USA",
+                  "global_code":"87G8R24Q+HH"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJ09ymdT72wokRDJy7o7SU494",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":152,
+            "vicinity":"1129 Amsterdam Avenue, New York",
+            "CBG":360610201011,
+            "Radius":132.4668603676
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8065685,
+                        "lng":-73.9610072
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8078636803,
+                              "lng":-73.9597918197
+                        },
+                        "southwest":{
+                              "lat":40.8051657197,
+                              "lng":-73.9624897803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Arts and Crafts Beer Parlor",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105474198698980624380\">Arts and Crafts Beer Parlor<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgUMe4J6zxOORggK-rAxc1UwIazOxBA8TFLQKsY-PCVJTKYtwV0K55nl_w2NRATPcEnyie2vpsPW1_tnUFSHfTluR2eHhpkpz1l8mtR9Yuca-uPtCRqVbkkG2gmvnF8k6HvxbfiH4LZ_tXG6D9hzbErj9Ly56eQMGLwCseB6JVvgyq",
+                        "width":5184
+                  }
+            ],
+            "place_id":"ChIJ_WSvdD72wokROnegxbxj37I",
+            "plus_code":{
+                  "compound_code":"R24Q+JH New York, NY, USA",
+                  "global_code":"87G8R24Q+JH"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ_WSvdD72wokROnegxbxj37I",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "art_gallery",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":305,
+            "vicinity":"1135 Amsterdam Avenue, New York",
+            "CBG":360610201011,
+            "Radius":132.4668603676
+      }
+]

@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8537526,
+                        "lng":-73.9302693
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8551396303,
+                              "lng":-73.9290110697
+                        },
+                        "southwest":{
+                              "lat":40.8524416697,
+                              "lng":-73.9317090303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Caribe",
+            "permanently_closed":true,
+            "place_id":"ChIJMQRs7RP2wokRC8m-cfaHZ8c",
+            "plus_code":{
+                  "compound_code":"V339+GV New York, NY, USA",
+                  "global_code":"87G8V339+GV"
+            },
+            "rating":3.7,
+            "reference":"ChIJMQRs7RP2wokRC8m-cfaHZ8c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1256 Saint Nicholas Avenue, New York",
+            "CBG":360610277002,
+            "Radius":81.3998684938
+      }
+]

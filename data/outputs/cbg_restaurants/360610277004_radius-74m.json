@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8565049,
+                        "lng":-73.9282022
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8578538803,
+                              "lng":-73.9268532197
+                        },
+                        "southwest":{
+                              "lat":40.8551559197,
+                              "lng":-73.9295511803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rinconcito Vegano",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":457,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103543047390681286968\">Rinconcito Vegano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLorxSVBpR_HbaDZsCyreI_4M9uKefbb9JC7yrBlv3a5tkn2JDA9VMLx3XA0gq3NBBMHu75WlALBwk4O1Wnnb_wAaicH26VJUp760LjWP8_abBXZ2XCQw0m4tZmpGyjbM69Rsqd1ZGhnUSHCLOytdaTUC4ieLM_uI9Wk7vR2tdwNaLT",
+                        "width":809
+                  }
+            ],
+            "place_id":"ChIJQZN_xQT0wokR2cCNsmGuOK8",
+            "plus_code":{
+                  "compound_code":"V34C+JP New York, NY, USA",
+                  "global_code":"87G8V34C+JP"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJQZN_xQT0wokR2cCNsmGuOK8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"1650 Saint Nicholas Avenue, New York",
+            "CBG":360610277004,
+            "Radius":74.2740105114
+      }
+]

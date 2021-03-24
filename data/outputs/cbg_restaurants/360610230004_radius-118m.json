@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8200032,
+                        "lng":-73.9411996
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8213395303,
+                              "lng":-73.9398598197
+                        },
+                        "southwest":{
+                              "lat":40.8186415697,
+                              "lng":-73.9425577803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Elnagger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJCdEPsRL3wokRu9MEEsEk7as",
+            "plus_code":{
+                  "compound_code":"R3C5+2G New York, NY, USA",
+                  "global_code":"87G8R3C5+2G"
+            },
+            "reference":"ChIJCdEPsRL3wokRu9MEEsEk7as",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"201-299 West 142nd Street, New York",
+            "CBG":360610230004,
+            "Radius":117.6318369418
+      }
+]

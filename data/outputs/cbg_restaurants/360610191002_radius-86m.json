@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8004104,
+                        "lng":-73.9702616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8018511303,
+                              "lng":-73.9688446697
+                        },
+                        "southwest":{
+                              "lat":40.7991531697,
+                              "lng":-73.9715426303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brrrito Dave's",
+            "place_id":"ChIJ___rdiX2wokRxosZAOLJuzY",
+            "plus_code":{
+                  "compound_code":"R22H+5V New York, NY, USA",
+                  "global_code":"87G8R22H+5V"
+            },
+            "reference":"ChIJ___rdiX2wokRxosZAOLJuzY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"308 West 104th Street, New York",
+            "CBG":360610191002,
+            "Radius":85.8662442038
+      }
+]

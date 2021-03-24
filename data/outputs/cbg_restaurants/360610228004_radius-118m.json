@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8170255,
+                        "lng":-73.9430084
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8183025303,
+                              "lng":-73.9414912697
+                        },
+                        "southwest":{
+                              "lat":40.8156045697,
+                              "lng":-73.9441892303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"sexy taco",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115045568847956423054\">Oliver Anene<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJguex7Cb3xBHn7mTrMWTa9nPpQja70645XLsQq2zxCtIleB5V3eYp1iwufZnnLPjfi_a9t1McJHmyodAySu85DdmWbc3TILVWI_G2H8JyE0z2fcIrdZbrTEI2nD37fTu3rvv_AIDh2e7hK1MEJEO3s8v9R7shMGvXvnaZ3qZtjjQA_",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJswRJcmj3wokRHeMHKTv6JVU",
+            "plus_code":{
+                  "compound_code":"R384+RQ New York, NY, USA",
+                  "global_code":"87G8R384+RQ"
+            },
+            "rating":5.0,
+            "reference":"ChIJswRJcmj3wokRHeMHKTv6JVU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2340 Adam Clayton Powell Junior Boulevard, New York",
+            "CBG":360610228004,
+            "Radius":117.7021715024
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8169867,
+                        "lng":-73.9429614
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8182758803,
+                              "lng":-73.9414734197
+                        },
+                        "southwest":{
+                              "lat":40.8155779197,
+                              "lng":-73.9441713803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ruby's Vintage Harlem",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113303480991862085462\">Ruby&#39;s Vintage Harlem<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKo_n85QpkNkwwM_fxu45DW5xa_Fk4NUhu9dsg89ubT5x7CJrVVyi9RXNlU_zXtPFdz99P4Ld4MH5pBGQqTz47E5PjZQoaqM81SHN4rtQ97yXjA7Apj4fRxci-A1FDXSXnx0jZPgvnGpgjMmQFhCbiZDfRql6eLFfRrql92xbRBPde_",
+                        "width":5168
+                  }
+            ],
+            "place_id":"ChIJ7ZwUvPr3wokR4Wzx3YxXRyw",
+            "plus_code":{
+                  "compound_code":"R384+QR New York, NY, USA",
+                  "global_code":"87G8R384+QR"
+            },
+            "rating":4.4,
+            "reference":"ChIJ7ZwUvPr3wokR4Wzx3YxXRyw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":190,
+            "vicinity":"2340 Adam Clayton Powell Junior Boulevard, New York",
+            "CBG":360610228004,
+            "Radius":117.7021715024
+      }
+]

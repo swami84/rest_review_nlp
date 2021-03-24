@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8291253,
+                        "lng":-73.9375732
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8304353803,
+                              "lng":-73.9361316197
+                        },
+                        "southwest":{
+                              "lat":40.8277374197,
+                              "lng":-73.9388295803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mama's Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100476274257171086451\">Tommy Dude<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKI3EXzW-HhGhSqC0XpUYT7TUJTt2rAYg9yRaR2XGBzDvXcTTq9g6KMo3n4p1N15geAzJSDnOz1RinFdLrpDli2YPG8-WWpx9l0AnTsDGBsbJX1t8Q5co7RpPbdX2YBPmnIOt-qH8_y5bvCCdi2iZpBkWeMAT8zQIYUBwAD2HvcLEpH",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJpWHPQID2wokRneXgmeORzP4",
+            "plus_code":{
+                  "compound_code":"R3H6+MX New York, NY, USA",
+                  "global_code":"87G8R3H6+MX"
+            },
+            "rating":3.7,
+            "reference":"ChIJpWHPQID2wokRneXgmeORzP4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"2925 Frederick Douglass Boulevard, New York",
+            "CBG":360610243021,
+            "Radius":181.9596689415
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8287995,
+                        "lng":-73.9371935
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8301829303,
+                              "lng":-73.9358355197
+                        },
+                        "southwest":{
+                              "lat":40.8274849697,
+                              "lng":-73.9385334803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Organic Deli & Inc",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116061399384544667001\">Organic Deli &amp; Inc<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIbzYtEjYUsEU1KNL-QaGTEu1ShiQHPjHxVzL8UU9DXRwDRYNc23yqXqJvU2OolQBFW7zzaId_6v9g2jq3JCZ4tnQKAUmYHeotBAaDo_FfmUf2HY7zaaE7tpX0exWmnyIpapVyiL0FHDz45sTO8CZh4y2OZcjvfV6zUDdCpFzJyEcdV",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJIxjzFYD2wokRs7GnHKRvrLw",
+            "plus_code":{
+                  "compound_code":"R3H7+G4 New York, NY, USA",
+                  "global_code":"87G8R3H7+G4"
+            },
+            "rating":2.9,
+            "reference":"ChIJIxjzFYD2wokRs7GnHKRvrLw",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2922 Frederick Douglass Boulevard, New York",
+            "CBG":360610243021,
+            "Radius":181.9596689415
+      }
+]

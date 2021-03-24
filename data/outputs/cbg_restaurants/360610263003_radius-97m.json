@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8459127,
+                        "lng":-73.9365402
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8472379303,
+                              "lng":-73.9350925697
+                        },
+                        "southwest":{
+                              "lat":40.8445399697,
+                              "lng":-73.9377905303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy World Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107361718042015798584\">Jorel Cordero<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCuLWDke8vCID0TMFWxuoZJRdDT4zhDLL8b2DOzbVSDAIpmMkUJeMv8bZMyxSBNZenUkjD3jLyDPoyFoN6CY-VnaPnecC_7icWoypKID41WN68IXrVJe5INPU6UgC3j3b2xFlWsTDA_6MnoioKiytKdT2gnpmN-Iz7h4332Knxab2T",
+                        "width":1908
+                  }
+            ],
+            "place_id":"ChIJD-wT3p_2wokRNwO2a5MBKvI",
+            "plus_code":{
+                  "compound_code":"R3W7+99 New York, NY, USA",
+                  "global_code":"87G8R3W7+99"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJD-wT3p_2wokRNwO2a5MBKvI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"1309 Saint Nicholas Avenue, New York",
+            "CBG":360610263003,
+            "Radius":97.0340478045
+      }
+]

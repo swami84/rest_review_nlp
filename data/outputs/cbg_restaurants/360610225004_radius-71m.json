@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8225205,
+                        "lng":-73.9493694
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8239010303,
+                              "lng":-73.9481307697
+                        },
+                        "southwest":{
+                              "lat":40.8212030697,
+                              "lng":-73.9508287303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Grange",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":812,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114319334819343581515\">The Grange<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4R80GCSY7YmljeYxC18Tn3vDQxC5FAMZAsYHPWnivnMP5ao7I5sMQcRGQUPiUvYz6gnHGO06eScVKddrc5_yH7lVcm4ERbH7ykmDYeITXUXxp5aWG7jKk0-hgSy1c_Q5CfPoeg7wqR3jZtW0gKcSvhl5SyrzaOAEgtLMwuA865RTn",
+                        "width":1218
+                  }
+            ],
+            "place_id":"ChIJEdlDwmT2wokRvcUBnxQfoBo",
+            "plus_code":{
+                  "compound_code":"R3F2+27 New York, NY, USA",
+                  "global_code":"87G8R3F2+27"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJEdlDwmT2wokRvcUBnxQfoBo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1180,
+            "vicinity":"1635 Amsterdam Avenue, New York",
+            "CBG":360610225004,
+            "Radius":70.6814944922
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8223147,
+                        "lng":-73.9501469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8235929803,
+                              "lng":-73.9486499197
+                        },
+                        "southwest":{
+                              "lat":40.8208950197,
+                              "lng":-73.9513478803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Grill on the Hill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103826674719253727307\">Grill on the Hill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLZcNbHxh4EeuwycxZ3ovVGUxDxJ4ba-r2C-fZhDPaGjy2pqZmMd4lJR-m9x5MT1BQERy2lxJ7DhU21n8x-zntHhGDe6UVEuqHFP-g_zxLf9lAud7GBOdTrr-5W4b4JNJ7DrfDUvAognNQii97FpX9wRgi26I-olmsFR-W57ITlIFnv",
+                        "width":971
+                  }
+            ],
+            "place_id":"ChIJheSk_GT2wokR-MLgSDMoiAk",
+            "plus_code":{
+                  "compound_code":"R2CX+WW New York, NY, USA",
+                  "global_code":"87G8R2CX+WW"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJheSk_GT2wokR-MLgSDMoiAk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":404,
+            "vicinity":"1624 Amsterdam Avenue, New York",
+            "CBG":360610225004,
+            "Radius":70.6814944922
+      }
+]

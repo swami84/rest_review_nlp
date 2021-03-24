@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8119427,
+                        "lng":-73.9428591
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8132448303,
+                              "lng":-73.9413778697
+                        },
+                        "southwest":{
+                              "lat":40.8105468697,
+                              "lng":-73.9440758303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"House of Seafood Express",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":900,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108605778596958236375\">Igor Ostrovsky<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJYCBP3cYDibm48HLx9TVHEKnBPICpKCrhF53JX--vWdQGG2wIkEnqJGalgn4V4yaCoRGOXPqPs7aPqOASEFMA3Oi-FgbS74IyWk2GButGZXUZoZ0safZEpQpm6xEt07ceNUBwvrn1lRdqVAcTrz-cd6AazZ8d9corzQch9wuIoDH_3",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJn95AkXP2wokRX-A2qzX6fx0",
+            "plus_code":{
+                  "compound_code":"R364+QV New York, NY, USA",
+                  "global_code":"87G8R364+QV"
+            },
+            "price_level":2,
+            "rating":4.0,
+            "reference":"ChIJn95AkXP2wokRX-A2qzX6fx0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":500,
+            "vicinity":"429 Malcolm X Boulevard, New York",
+            "CBG":360610226002,
+            "Radius":118.3884323253
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8117884,
+                        "lng":-73.9429087
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8130939303,
+                              "lng":-73.9414572697
+                        },
+                        "southwest":{
+                              "lat":40.8103959697,
+                              "lng":-73.9441552303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tios Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103237729589375373179\">Sebastian Sinisterra<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLCcCHvQoPG1j30DBM8dCtmrXEKxugAJ8VcczKhxLMKA8HXYXNAQHgwMybPJ8rDg25VNjhduQjoZdLoPWyDSF9sleAufN5H5ckXXDOzSYROCEP3xfwfRsCbzZWj344g8olq2ugJGdlC9V9H7-kOQK3SY-tJQrDkltenPYN2sGLag_iI",
+                        "width":4096
+                  }
+            ],
+            "place_id":"ChIJg7G9kHP2wokRZXK56gdJjAQ",
+            "plus_code":{
+                  "compound_code":"R364+PR New York, NY, USA",
+                  "global_code":"87G8R364+PR"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJg7G9kHP2wokRZXK56gdJjAQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":261,
+            "vicinity":"421 Malcolm X Boulevard, New York",
+            "CBG":360610226002,
+            "Radius":118.3884323253
+      }
+]

@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.793967,
+                        "lng":-73.967116
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7953551803,
+                              "lng":-73.9655714697
+                        },
+                        "southwest":{
+                              "lat":40.7926572197,
+                              "lng":-73.9682694303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Westside Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113852201063487077018\">Edwin Perez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKiDQhc0BI6vlrmApjZgBD9EcgEocDaiNASxP8vIdVWX2RUkkXBsEC64-25ztss6nOxBFEz-TuLXqrLt4xxeKkOnQyHHxzKO26XKhuodO59n63NiYXzHLiJvy8SgrwWE5NoXqbjNsj3ikBBk0KPFJc07OtV-LtSr8AezPICwG5M6nbj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJNyIdFSf2wokRfRwZJlYvHyg",
+            "plus_code":{
+                  "compound_code":"Q2VM+H5 New York, NY, USA",
+                  "global_code":"87G8Q2VM+H5"
+            },
+            "rating":4.3,
+            "reference":"ChIJNyIdFSf2wokRfRwZJlYvHyg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"808 Columbus Avenue, New York",
+            "price_level":null,
+            "CBG":360610185002,
+            "Radius":145.2182780147
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7939667,
+                        "lng":-73.9671163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7953550303,
+                              "lng":-73.9655716197
+                        },
+                        "southwest":{
+                              "lat":40.7926570697,
+                              "lng":-73.9682695803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dish & Saucery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJgXy70Sb2wokRYTWw4aQPE9c",
+            "plus_code":{
+                  "compound_code":"Q2VM+H5 New York, NY, USA",
+                  "global_code":"87G8Q2VM+H5"
+            },
+            "rating":4.8,
+            "reference":"ChIJgXy70Sb2wokRYTWw4aQPE9c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"808 Columbus Avenue, New York",
+            "price_level":3.0,
+            "CBG":360610185002,
+            "Radius":145.2182780147
+      }
+]

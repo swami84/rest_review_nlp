@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8022824,
+                        "lng":-73.9565781
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8036884303,
+                              "lng":-73.9553642697
+                        },
+                        "southwest":{
+                              "lat":40.8009904697,
+                              "lng":-73.9580622303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lalibela Ethiopian Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104563201692466061227\">Cosmo Jetz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJpnskeUmSKH8xMOdldgL_rxnog4gUzh7AR7qhBqw64sRuaZ7zkFYFiYvsot1YaBWJUiB1u0QM8wdLNljWLxzhSlt_bheFWP5jmJZ6uooQPzQz6G_49wiBZNDocofrJUGBdVQ5AuUd-HWlJAiZZ_OhkjaAHYMIsVQSpMi7GEitQ-eNL",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJJ33UNlP3wokR1Z7i_m8zB-o",
+            "plus_code":{
+                  "compound_code":"R22V+W9 New York, NY, USA",
+                  "global_code":"87G8R22V+W9"
+            },
+            "rating":4.8,
+            "reference":"ChIJJ33UNlP3wokR1Z7i_m8zB-o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":36,
+            "vicinity":"2084 Frederick Douglass Boulevard, New York",
+            "CBG":360610216004,
+            "Radius":118.0950013898
+      }
+]

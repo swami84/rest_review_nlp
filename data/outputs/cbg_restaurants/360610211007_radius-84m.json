@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8114866,
+                        "lng":-73.9585934
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8128747303,
+                              "lng":-73.9572157197
+                        },
+                        "southwest":{
+                              "lat":40.8101767697,
+                              "lng":-73.9599136803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Susan Sez \"Say It With Cake\"",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":700,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107236032914204045962\">Susan Sez &quot;Say It With Cake&quot;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLpUp_QRNbOkd5n11p7bYAR0XbU1Yp5T50_Bj0hO_nBv_Kp0vvtp1YFzVQ-6TH6D9q878O76Kg9EK4Z4sF0vNW8g9tDQC2TGvEE6BDi2HtOVjWjn-5tjjreV0KRDyA6VzU88v82mLZxPiERWmlM_ni29kwsrn2TfA4OvDBVi4fb8Osn",
+                        "width":1240
+                  }
+            ],
+            "place_id":"ChIJgXsCumr2wokROt8gouJaxhc",
+            "plus_code":{
+                  "compound_code":"R26R+HH New York, NY, USA",
+                  "global_code":"87G8R26R+HH"
+            },
+            "rating":4.6,
+            "reference":"ChIJgXsCumr2wokROt8gouJaxhc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"510 West 123rd Street, New York",
+            "CBG":360610211007,
+            "Radius":83.6809368145
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7988929,
+                        "lng":-73.9634633
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8001877303,
+                              "lng":-73.9619834697
+                        },
+                        "southwest":{
+                              "lat":40.7974897697,
+                              "lng":-73.9646814303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Pie Pie Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107068838566965446335\">Moe Friedman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIkTRKH7QwrAdxrLbUDrewXfXEEBXdpFVufXTqcbA_UjeJiJ99t5Sm2GQMohtjSR0LbvGUDPMf0FpxND8a_1bQ1FBrEO23SNuFkOJUETD1l3WMhV4OXucUfG1Bw1nGQ4ZaSMWrqst21Qw1eo6G_pxXBiOeBUkDq2kVensgUJGm3Rdi",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJtUUZpCP2wokRt62F-2zlhk0",
+            "plus_code":{
+                  "compound_code":"Q2XP+HJ New York, NY, USA",
+                  "global_code":"87G8Q2XP+HJ"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJtUUZpCP2wokRt62F-2zlhk0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":106,
+            "vicinity":"924 Columbus Avenue, New York",
+            "CBG":360610189005,
+            "Radius":120.7154778373
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.800037,
+                        "lng":-73.965585
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8014572803,
+                              "lng":-73.9643970197
+                        },
+                        "southwest":{
+                              "lat":40.7987593197,
+                              "lng":-73.9670949803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Living Thai Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104430826720008456089\">Living Thai Cuisine<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJui2bMb-kdSKnTdyNe90vppFykTNpGYG19aq14_cOUBb9v98s_Ixk_WU9vwzNuv96znhrFwN6xNVUO6LkJ9zz0WgYUhERxczHDHSmaxWwGvbJMRUNDdhkQTE1Cgo7u-usTHEoRI1BZt_CVjj62d7_qhOI_YJtGr9W7pEGbYqRoT3jD",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJe3VZCMz3wokRjmRQPlJTG6Y",
+            "plus_code":{
+                  "compound_code":"R22M+2Q New York, NY, USA",
+                  "global_code":"87G8R22M+2Q"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJe3VZCMz3wokRjmRQPlJTG6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"931 Amsterdam Avenue, New York",
+            "CBG":360610189005,
+            "Radius":120.7154778373
+      }
+]

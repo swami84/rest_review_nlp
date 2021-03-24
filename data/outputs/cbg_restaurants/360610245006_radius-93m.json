@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8343046,
+                        "lng":-73.9412575
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8356099803,
+                              "lng":-73.9398027697
+                        },
+                        "southwest":{
+                              "lat":40.8329120197,
+                              "lng":-73.9425007303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"SabroSaz\u00f3n",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112695331160513558838\">Laflacabella Medina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKq1zTB6zc_rQUsi54QGLckLdufdYgyJUFr6DPjA_sIp6DLaR6C3gwf-MzAWSa3QTkdw9jS6ZofS8f6biyROtRyCue8-FGI4UpGHn2c6iDln1qwn6OVdeyEE0GraDHUmcPLeWyLioh5d7E8Nqr5Ny3cBDx9lf77cAT-seWqRNmBJ0uk",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJp_negtr3wokRck4GXTdTaDM",
+            "plus_code":{
+                  "compound_code":"R3M5+PF New York, NY, USA",
+                  "global_code":"87G8R3M5+PF"
+            },
+            "rating":4.5,
+            "reference":"ChIJp_negtr3wokRck4GXTdTaDM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"2002 Amsterdam Avenue, New York",
+            "CBG":360610245006,
+            "Radius":92.5941509187
+      }
+]

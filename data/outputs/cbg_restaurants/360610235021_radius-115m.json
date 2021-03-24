@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.826913,
+                        "lng":-73.9391645
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8282247303,
+                              "lng":-73.9377332197
+                        },
+                        "southwest":{
+                              "lat":40.8255267697,
+                              "lng":-73.9404311803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hot Pot Under the Tree",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106114592874873397214\">Elaine Garcia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIiIZzooP0187gbVEiARf06mtzQ8gq-Rlm54ivZmo49aOufaqiD3fk0Ndd67GJWoRdnXU2d_J-88n5s8SXQUqc4RyB7qGY5x-UAmaPKCuFYESSEL1kJI6lKPlncXQdf7YViLLeUKIxEIZrNmsaC_U70C2Fo4SQqXLE28OFOUjW6SCsv",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJx2iEM372wokRw-uVa4fB_S8",
+            "plus_code":{
+                  "compound_code":"R3G6+Q8 New York, NY, USA",
+                  "global_code":"87G8R3G6+Q8"
+            },
+            "rating":4,
+            "reference":"ChIJx2iEM372wokRw-uVa4fB_S8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":100,
+            "vicinity":"2839 Frederick Douglass Boulevard, New York",
+            "CBG":360610235021,
+            "Radius":114.709607597
+      }
+]

@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8139344,
+                        "lng":-73.9565123
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8152477303,
+                              "lng":-73.9552522697
+                        },
+                        "southwest":{
+                              "lat":40.8125497697,
+                              "lng":-73.9579502303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Nuevo Tina",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1725,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107472165141995777351\">El Nuevo Tina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJCXi1YMIr5tM-XvNtWDoUX23STXvoMJLzi8bsMEKJ9NheTmnqi-t3lCpYt3Uj_YnXMB869Y7Sv2sJ7TiBAeIBLWfrn2ux7w7DbNhAsMNCdLvxv6CqIdUNwYdedfy1oqywnAXUlInUX92ms_VR8FTsMktE3jJtHT1MeA79LbPYzJWgb",
+                        "width":3064
+                  }
+            ],
+            "place_id":"ChIJMRtWS2r2wokRu_wtCMfge6Y",
+            "plus_code":{
+                  "compound_code":"R27V+H9 New York, NY, USA",
+                  "global_code":"87G8R27V+H9"
+            },
+            "price_level":1.0,
+            "rating":4.0,
+            "reference":"ChIJMRtWS2r2wokRu_wtCMfge6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":266.0,
+            "vicinity":"511 West 125th Street, New York",
+            "CBG":360610211005,
+            "Radius":97.736787774
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8138174,
+                        "lng":-73.9568541
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8151579803,
+                              "lng":-73.9554829697
+                        },
+                        "southwest":{
+                              "lat":40.8124600197,
+                              "lng":-73.9581809303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ciudad",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118353492039353837284\">ELVIS TAPIA<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJH9do-5OJ9BzpViXVnaDiV1hspsvlWoKCW2ksUEkjVGC2wQCPP5Z3trzjRgffAbSkej9OeAdCsLrLrK0hV8rSNL7NX0d532RkWe_XzVaGlcXXiyrmq_1XnDCU157yh6iM9iw2Q-Vq3dxFPyYcNe0FSZxIyn_yMDkxLcsFa2DRR0AYz",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJg3cSXmP3wokRkf-J6vPAN5g",
+            "plus_code":{
+                  "compound_code":"R27V+G7 New York, NY, USA",
+                  "global_code":"87G8R27V+G7"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJg3cSXmP3wokRkf-J6vPAN5g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"518 Martin Luther King Boulevard, New York",
+            "CBG":360610211005,
+            "Radius":97.736787774
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.807449,
+                        "lng":-73.965296
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8087979803,
+                              "lng":-73.9639470197
+                        },
+                        "southwest":{
+                              "lat":40.8061000197,
+                              "lng":-73.9666449803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kosher Cafe Nana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1416,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107031439145893292427\">Kosher Cafe Nana<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKN5lR7_mInTxkt27dyigDnn4YvDY6URIROiRLr8BVwNMs9oslo3RKjVqXdrFyAeKIAVdyjDKFG0xbl_whmowHe7hoNaK_mLa6Y1lLAD8RjhOfZKs-DGcK31P0mZcNTJ7czBk2LLbmxqJn7IU7t8nX2x6tyUzoxrKRiVDxFfFh5jwfH",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ-fxdsj72wokRhKdZf-z4RHI",
+            "plus_code":{
+                  "compound_code":"R24M+XV New York, NY, USA",
+                  "global_code":"87G8R24M+XV"
+            },
+            "rating":4.4,
+            "reference":"ChIJ-fxdsj72wokRhKdZf-z4RHI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":31,
+            "vicinity":"606 W.115th Street, Second Floor, New York",
+            "CBG":360610205003,
+            "Radius":72.2713423315
+      }
+]

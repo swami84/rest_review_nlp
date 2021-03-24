@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7985565,
+                        "lng":-73.9476006
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7999737303,
+                              "lng":-73.9464121197
+                        },
+                        "southwest":{
+                              "lat":40.7972757697,
+                              "lng":-73.9491100803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"CorbTheChef Inc.",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112475985222880459653\">Help Me Out Kitchen Corb<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLkX_wczwuQYCCrBmnVVpSZpcJS032pTHgHwbdG1_8VgfWxFcLf-dh936KoBiHgHE2aJOOWr2WwG_b-Q23yxxSnnixcGzNM517br7bQl26QfM9cq_-LUluNykey0b4TD49yIJYpIF2F5ZUiQWziq0MzRIzuhb2WRpbjFCx-S_jfI8fn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ__-PTAX2wokRvZLD27-C9c8",
+            "reference":"ChIJ__-PTAX2wokRvZLD27-C9c8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1345 5th Avenue, New York",
+            "opening_hours":null,
+            "plus_code":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360610184004,
+            "Radius":107.3592146894
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7986197,
+                        "lng":-73.9460257
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7999414803,
+                              "lng":-73.9446115697
+                        },
+                        "southwest":{
+                              "lat":40.7972435197,
+                              "lng":-73.9473095303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Oriental Palace",
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLBcB4BoGvsguniZNGSh1Gs7IAE72-EV6pdqgS201fCPrWfZpJulePkg0ejZ3qkK9ldBWSY9tnBpFrI53ef7ysZTwOcvtnMOvaWsLUj_BvNQAYUx921JIWLENpXxcedtAD-jc2N8K69_egNgxpqcbcHuGLLMj9Q55shXWgn9UL4Vlqi",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJ8Ts4ZgX2wokRSFCQwvwUQi0",
+            "reference":"ChIJ8Ts4ZgX2wokRSFCQwvwUQi0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1728 Madison Avenue, New York",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "plus_code":{
+                  "compound_code":"Q3X3+CH New York, NY, USA",
+                  "global_code":"87G8Q3X3+CH"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "user_ratings_total":45.0,
+            "CBG":360610184004,
+            "Radius":107.3592146894
+      }
+]

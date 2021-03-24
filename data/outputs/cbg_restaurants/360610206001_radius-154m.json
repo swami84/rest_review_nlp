@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8089088,
+                        "lng":-73.9406825
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8103165303,
+                              "lng":-73.9392733197
+                        },
+                        "southwest":{
+                              "lat":40.8076185697,
+                              "lng":-73.9419712803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Grab & Go Food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105928811308006518314\">Minh T. Nguyen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIOTMEzyd5kB7QPPEbdn7ew-402tnYv0HfFu63jzMGSqimRyVrdkrPF5RJoE0SKBNj4zEUWOBdryv0xaIZ3X2_FY4_aFX0zm1cXssWpA6ey03qI5c4x8CvX6ig9eTg5lKAfFv1Elc0ivZk4wDXD8p8tlhSJ-NJBdF20ZelJuRVQX1Sg",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJF8lct3T2wokRx-hd_V0qA6I",
+            "plus_code":{
+                  "compound_code":"R355+HP New York, NY, USA",
+                  "global_code":"87G8R355+HP"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJF8lct3T2wokRx-hd_V0qA6I",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":76,
+            "vicinity":"2 West 129th Street #1, New York",
+            "CBG":360610206001,
+            "Radius":153.9431366975
+      }
+]

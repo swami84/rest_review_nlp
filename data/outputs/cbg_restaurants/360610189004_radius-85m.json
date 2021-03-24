@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7983818,
+                        "lng":-73.9632288
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7997748803,
+                              "lng":-73.9619814697
+                        },
+                        "southwest":{
+                              "lat":40.7970769197,
+                              "lng":-73.9646794303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mekong",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114662761391374394581\">Mekong<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK30x0GkGEGlzQbVLKGsCU7AcKB9ZtkFzUUR_bNSErMNCkDL6X0WnddymDBe0mFj65O_V4V2bu3BRL9Cg1uyCofBCvpSQdDw8nJ9vJkhTnvlxqAUSsEEDYnSzsnAq8ZMnjoU9DcveTivzmG5O1bsxTo0JGICl41Z_ZnMNdaZBMQZMwB",
+                        "width":561
+                  }
+            ],
+            "place_id":"ChIJlf0WXdP3wokRv0frSVWUmjc",
+            "plus_code":{
+                  "compound_code":"Q2XP+9P New York, NY, USA",
+                  "global_code":"87G8Q2XP+9P"
+            },
+            "rating":4.4,
+            "reference":"ChIJlf0WXdP3wokRv0frSVWUmjc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":70,
+            "vicinity":"917 Columbus Avenue, New York",
+            "CBG":360610189004,
+            "Radius":84.5098746674
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7982413,
+                        "lng":-73.963328
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7995902803,
+                              "lng":-73.9619790197
+                        },
+                        "southwest":{
+                              "lat":40.7968923197,
+                              "lng":-73.9646769803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Empire Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109205147026542920001\">Dom Jr<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGb61P24e0876WokbGggQZPeQWGJnuLi8bi9DW7Sqk5yqTwG7srEUAJ7rACK_ROqF6vEkwKcQUZM8VGEQOLME-6mJqI_nIKRj-DuVxehU_krvy9Zf44_uy_7eIS52FUFUufoeR7xbZkFNEzxeIHxklghO9yg9o6Loo-eTIZDZiywOs",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUX2buSP2wokR5zTKdE3t8ZE",
+            "plus_code":{
+                  "compound_code":"Q2XP+7M New York, NY, USA",
+                  "global_code":"87G8Q2XP+7M"
+            },
+            "rating":3.1,
+            "reference":"ChIJUX2buSP2wokR5zTKdE3t8ZE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":65,
+            "vicinity":"911 Columbus Avenue, New York",
+            "CBG":360610189004,
+            "Radius":84.5098746674
+      }
+]

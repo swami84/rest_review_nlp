@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8490978,
+                        "lng":-73.9366081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8504992303,
+                              "lng":-73.9353421197
+                        },
+                        "southwest":{
+                              "lat":40.8478012697,
+                              "lng":-73.9380400803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Healthy bites deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1921,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109167193353708885899\">Alina Hidalgo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKBQ0BMA2lN_3PS6U15wyzshwR-eVndoSRnlUEb5HBQn7NQ-XOrm1ORwh1ozUfiRbgiOafVoZgayHCyRsEBCeby-I0T-HY_acE3iT0m_Po3KBvULDJRnV7kn6ZLkvOWcICV-jFjzsV0hLvxPY5MC0SuLDSBWPXMOau80FjIJ6y-4KtU",
+                        "width":1637
+                  }
+            ],
+            "place_id":"ChIJuWvoF8D3wokRYt9L2xhNzH4",
+            "plus_code":{
+                  "compound_code":"R3X7+J9 New York, NY, USA",
+                  "global_code":"87G8R3X7+J9"
+            },
+            "rating":5.0,
+            "reference":"ChIJuWvoF8D3wokRYt9L2xhNzH4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9.0,
+            "vicinity":"4226 Broadway, New York",
+            "CBG":360610263001,
+            "Radius":107.6804263737
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8486208,
+                        "lng":-73.9346205
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8500425803,
+                              "lng":-73.9332515697
+                        },
+                        "southwest":{
+                              "lat":40.8473446197,
+                              "lng":-73.9359495303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Amanecer, Comidas y Bebidas Saludables",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":362,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114116080724028301106\">Amanecer, Comidas y Bebidas Saludables<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIrxOfneDtbStctsG_Ei4GA_OdTR1xN5oP24Bu6CqjNQoNoBIl4i2f-tN6Xj-yN0cBkIbVC9Emzs3IkviNRf3Xzk01-qPUCt9bvUs6Q7rbr-U_WZTZGnwEjMLRLi1wqSRlSwsMCbIYp7CdYY1BzTMn5lev5M2qVQ1JOzCF8IWXVNppm",
+                        "width":567
+                  }
+            ],
+            "place_id":"ChIJaeoQvaz1wokRMSeNAtt5fP8",
+            "plus_code":{
+                  "compound_code":"R3X8+C5 New York, NY, USA",
+                  "global_code":"87G8R3X8+C5"
+            },
+            "rating":null,
+            "reference":"ChIJaeoQvaz1wokRMSeNAtt5fP8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"602W 180th St, Saint Nicholas Avenue, New York",
+            "CBG":360610263001,
+            "Radius":107.6804263737
+      }
+]

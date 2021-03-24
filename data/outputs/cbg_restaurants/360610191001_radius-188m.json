@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8025996,
+                        "lng":-73.971922
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8039485803,
+                              "lng":-73.9705730197
+                        },
+                        "southwest":{
+                              "lat":40.8012506197,
+                              "lng":-73.9732709803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ellington in the Park",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2795,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104725304562821350668\">Ellington in the Park<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIeMHz6IAqKMEylytEvr9RqxuqQjOu9niG_2aECru-JHhUnP7vMtAJkGVHze21NZA6E7vp19fh4hR7WpreP__G7tjrxvps1RT6dQaLSRTyzXNB3w8M6a-5suhtZMD3u_TxecbfUym4F_FXj6IZlReec7xpoobOXl7XdelR-kXiB_HoB",
+                        "width":4200
+                  }
+            ],
+            "place_id":"ChIJ4UJk-y_2wokRXQ-FyvMssyw",
+            "plus_code":{
+                  "compound_code":"R23H+26 New York, NY, USA",
+                  "global_code":"87G8R23H+26"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJ4UJk-y_2wokRXQ-FyvMssyw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":384.0,
+            "vicinity":"Riverside Dr &, West 105th Street, New York",
+            "CBG":360610191001,
+            "Radius":187.9301868025
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8004104,
+                        "lng":-73.9702616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8018511303,
+                              "lng":-73.9688446697
+                        },
+                        "southwest":{
+                              "lat":40.7991531697,
+                              "lng":-73.9715426303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brrrito Dave's",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJ___rdiX2wokRxosZAOLJuzY",
+            "plus_code":{
+                  "compound_code":"R22H+5V New York, NY, USA",
+                  "global_code":"87G8R22H+5V"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJ___rdiX2wokRxosZAOLJuzY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"308 West 104th Street, New York",
+            "CBG":360610191001,
+            "Radius":187.9301868025
+      }
+]

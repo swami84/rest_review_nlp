@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.807806,
+                        "lng":-73.950965
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8090691303,
+                              "lng":-73.9496790697
+                        },
+                        "southwest":{
+                              "lat":40.8063711697,
+                              "lng":-73.9523770303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chez Diarra",
+            "place_id":"ChIJydXwjQ32wokRPQtW0pFv4CA",
+            "plus_code":{
+                  "compound_code":"R25X+4J New York, NY, USA",
+                  "global_code":"87G8R25X+4J"
+            },
+            "reference":"ChIJydXwjQ32wokRPQtW0pFv4CA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"239 West 122nd Street, New York",
+            "CBG":360610220005,
+            "Radius":113.7048488286
+      }
+]

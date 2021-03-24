@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8133583,
+                        "lng":-73.9409229
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8146465803,
+                              "lng":-73.9397872697
+                        },
+                        "southwest":{
+                              "lat":40.8119486197,
+                              "lng":-73.9424852303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Strictlyroots vegan roti and juices",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":502,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101944305082217642482\">Strictlyroots vegan roti and juices<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKjV64-dqVdbfQQztA8fET61Av1P0zja6ftRM6yGfHwsea39ERSsbQ2IlVFM0kpP-SfYcAMSkppYn1vbb0H4jW114DiN0B_hPmdFWqqXdAD9gq005TyJQMYxunKm5XSsd0iU94i6yixpg9H8tOeaeKv8rfwZCCgzzFBegD9E3oAOpi9",
+                        "width":753
+                  }
+            ],
+            "place_id":"ChIJSe-Qp3b2wokRtccYzvSWEeY",
+            "plus_code":{
+                  "compound_code":"R375+8J New York, NY, USA",
+                  "global_code":"87G8R375+8J"
+            },
+            "rating":4.6,
+            "reference":"ChIJSe-Qp3b2wokRtccYzvSWEeY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"486 Malcolm X Boulevard, New York",
+            "CBG":360610212004,
+            "Radius":127.9205793801
+      }
+]

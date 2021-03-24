@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8168755,
+                        "lng":-73.9384677
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8182679303,
+                              "lng":-73.9372354697
+                        },
+                        "southwest":{
+                              "lat":40.8155699697,
+                              "lng":-73.9399334303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Valle",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116006235540304348587\">Patron \u00c1lvarez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzcS3ZdtuvvaqGJorxnzza1h78poM6sBOUFU7qcdiGt-WYY51YGgjJFSKi75RDGWnP0LxK5nGv2YkpSddyzaKLGFlS39o_S88TYm8TQSM3x-ec-uWRdVMBx4-L_IY4wuE1iyeYaDkFo0tCF5kTA8zJh66eK3WgGta1Qp4KP1YAqKBX",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJy-o_mXf2wokRP0k0eKgTi_Q",
+            "plus_code":{
+                  "compound_code":"R386+QJ New York, NY, USA",
+                  "global_code":"87G8R386+QJ"
+            },
+            "rating":3.8,
+            "reference":"ChIJy-o_mXf2wokRP0k0eKgTi_Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":121,
+            "vicinity":"588 Lenox Avenue, New York",
+            "price_level":null,
+            "CBG":360610214002,
+            "Radius":110.9102590006
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8175298,
+                        "lng":-73.9386982
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8188387803,
+                              "lng":-73.9372565697
+                        },
+                        "southwest":{
+                              "lat":40.8161408197,
+                              "lng":-73.9399545303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King's Chef",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111387263402639630950\">David Altman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKn8z4kbkAflJvHq9SrF90mJj2f0cyCbE7qd7GfRpVylcKkjCtRslov9BzUCgrm-9TOPtW6UPciI-S-kzX1SM6nrkWX3i_K18JuAlMRF0vD5UZEkoVcJy-yb5wMVBuFu7YFuYJyh-cJDYtt8AJhmLPaCKqJNTEcevdbX6_nhZB1h_gx",
+                        "width":3872
+                  }
+            ],
+            "place_id":"ChIJDbXgg3f2wokR0onsd3EDP3A",
+            "plus_code":{
+                  "compound_code":"R396+2G New York, NY, USA",
+                  "global_code":"87G8R396+2G"
+            },
+            "rating":2.7,
+            "reference":"ChIJDbXgg3f2wokR0onsd3EDP3A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"587 Malcolm X Boulevard, New York",
+            "price_level":2.0,
+            "CBG":360610214002,
+            "Radius":110.9102590006
+      }
+]

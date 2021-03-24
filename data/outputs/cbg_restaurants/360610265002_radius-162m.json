@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8478526,
+                        "lng":-73.9395199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8491935303,
+                              "lng":-73.9381355197
+                        },
+                        "southwest":{
+                              "lat":40.8464955697,
+                              "lng":-73.9408334803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Farmer's Fridge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109037866893554102337\">Farmer&#39;s Fridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5Pfh1bphSSJxkKTHBBFMVVwTicX_700Ajo8Hakn_uu_Y8Ubr8oC4ICY77pmMiM2eAUWTKG9dHqc5CO1CwyN5S5qcK-icIBGAls8B0G42jXzLSQn-xKl_PFoT0TiVZv3-YWNeEzyAw0jkjKbmEZ7zQFd_H9Zt3Mqw8o-5Bjn_RkLJO",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJqZKqAvv3wokReobYJSed53s",
+            "plus_code":{
+                  "compound_code":"R3X6+45 New York, NY, USA",
+                  "global_code":"87G8R3X6+45"
+            },
+            "reference":"ChIJqZKqAvv3wokReobYJSed53s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"177 Fort Washington Avenue, New York",
+            "CBG":360610265002,
+            "Radius":161.9214275665
+      }
+]

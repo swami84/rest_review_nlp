@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8142287,
+                        "lng":-73.9396101
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8156787803,
+                              "lng":-73.9387232697
+                        },
+                        "southwest":{
+                              "lat":40.8129808197,
+                              "lng":-73.9414212303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Farmer's Fridge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3450,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113983899740854036405\">Farmer&#39;s Fridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJrYUT1Jd_hcAcdETUY7oKq7lmCt4lzQnwiwUhOdlcqQn-5Wv89bfvM9ALbOCU0CKMTZ8M324t_NwVdhkfFDegF51-s64XXL2WPNjMqvVZblbmWjCxXoygIF0we_b922aEza6LkOqI9vnyr568kI4KjS8KdvjFEyv2oS9pKYKb2mxeM",
+                        "width":2700
+                  }
+            ],
+            "place_id":"ChIJd_YAt9_3wokRN_j3WVcSq_0",
+            "plus_code":{
+                  "compound_code":"R376+M5 Harlem, New York, NY, USA",
+                  "global_code":"87G8R376+M5"
+            },
+            "reference":"ChIJd_YAt9_3wokRN_j3WVcSq_0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Health + Hospitals, 506 Malcolm X Boulevard, Harlem",
+            "CBG":360610212002,
+            "Radius":127.6989250902
+      }
+]

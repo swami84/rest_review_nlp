@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8508703,
+                        "lng":-73.9419981
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8521813303,
+                              "lng":-73.9404772197
+                        },
+                        "southwest":{
+                              "lat":40.8494833697,
+                              "lng":-73.9431751803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"\u041a\u043e\u043b\u0438\u0431\u0430 \u043d\u0430 \u0413\u0443\u0434\u0437\u043e\u043d\u0456",
+            "place_id":"ChIJi0d4yaL3wokRdvnMogWSSCI",
+            "plus_code":{
+                  "compound_code":"V325+86 New York, NY, USA",
+                  "global_code":"87G8V325+86"
+            },
+            "reference":"ChIJi0d4yaL3wokRdvnMogWSSCI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"340 Haven Avenue, New York",
+            "CBG":360610265003,
+            "Radius":120.1670836241
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.805465,
+                        "lng":-73.9642992
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8068884803,
+                              "lng":-73.9628953697
+                        },
+                        "southwest":{
+                              "lat":40.8041905197,
+                              "lng":-73.9655933303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Symposium",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107068838566965446335\">Moe Friedman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK2kb6cKQyESu44Ju1e3FAF9l8dUKcimxjyLeJFRoFZkabc1JN48XY-FikMTpN1QL7qdjl7YzBOVtS9pp-_ooBPBXFbtm2kdFY0lvg5M8rUAXbAe27P09C6TqNygjSYe-WFSSrHucyKnbsZAxxyt3CwDfoEfThKnum2xXT9cLxR6-BJ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAfmpFDz2wokRGWWAhkafMwA",
+            "plus_code":{
+                  "compound_code":"R24P+57 New York, NY, USA",
+                  "global_code":"87G8R24P+57"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJAfmpFDz2wokRGWWAhkafMwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":208,
+            "vicinity":"544 West 113th Street, New York",
+            "CBG":360610199004,
+            "Radius":83.2920402522
+      }
+]

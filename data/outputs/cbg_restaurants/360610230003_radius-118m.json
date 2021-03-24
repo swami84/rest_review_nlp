@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8178091,
+                        "lng":-73.9423004
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8191089803,
+                              "lng":-73.9408368697
+                        },
+                        "southwest":{
+                              "lat":40.8164110197,
+                              "lng":-73.9435348303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Row Harlem",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105965178322628756535\">The Row Harlem<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIRDnQ_XggMGPtFJpSJHnbBaf5OfyKHp6vBgtvgBBUqmIyhGnRKkPPUn2E6C7NER_IKTq6ycRzgnCKM4-LsXBgPvEoljfofbqIr9fOAndtnwXV6ByqawO94aavK5UMh6k1hzfi_sWuWrVc2Jvf3orryjFXlQNq4yYzy6oPHqgUry182",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJUxX5Dy33wokRQAbASxmcU8s",
+            "plus_code":{
+                  "compound_code":"R395+43 New York, NY, USA",
+                  "global_code":"87G8R395+43"
+            },
+            "rating":4.4,
+            "reference":"ChIJUxX5Dy33wokRQAbASxmcU8s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":91,
+            "vicinity":"2374 Adam Clayton Powell Junior Boulevard, New York",
+            "CBG":360610230003,
+            "Radius":117.5749975423
+      }
+]

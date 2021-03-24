@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.806793,
+                        "lng":-73.948543
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8081419803,
+                              "lng":-73.9471940197
+                        },
+                        "southwest":{
+                              "lat":40.8054440197,
+                              "lng":-73.9498919803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Soul Food",
+            "place_id":"ChIJ5WAjYxL2wokRe9zaQlvJNR8",
+            "plus_code":{
+                  "compound_code":"R342+PH New York, NY, USA",
+                  "global_code":"87G8R342+PH"
+            },
+            "reference":"ChIJ5WAjYxL2wokRe9zaQlvJNR8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"145 West 122nd Street, New York",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360610220001,
+            "Radius":117.8886251539
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8055464,
+                        "lng":-73.9474615
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8068547803,
+                              "lng":-73.9460179197
+                        },
+                        "southwest":{
+                              "lat":40.8041568197,
+                              "lng":-73.9487158803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sottocasa Pizzeria Harlem",
+            "place_id":"ChIJM1oV8w32wokR9gt0ynHqypM",
+            "plus_code":{
+                  "compound_code":"R343+62 New York, NY, USA",
+                  "global_code":"87G8R343+62"
+            },
+            "reference":"ChIJM1oV8w32wokR9gt0ynHqypM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"227 Malcolm X Boulevard, New York",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110525198906443107278\">Sottocasa Pizzeria Harlem<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCgJV_Ef0CS-z1Tdu4sEut9bjwQ3RGX7q3luU_oMeZ1Kuk1pI1JzQ202rvRPnm91vY1IlGZ6mLTZ0j_HdYDvIyIFyAY4fr8I0oNTib6DA4JRTmZ0BBh0GK6yCMxZu-GezE2YVmx6kAscrY21J1iY16X6VNn9rIa9BlbMOb_CpmuRs3",
+                        "width":3024
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.7,
+            "user_ratings_total":878.0,
+            "CBG":360610220001,
+            "Radius":117.8886251539
+      }
+]

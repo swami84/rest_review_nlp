@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.81551,
+                        "lng":-73.960078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8169275803,
+                              "lng":-73.9586780697
+                        },
+                        "southwest":{
+                              "lat":40.8142296197,
+                              "lng":-73.9613760303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"The Expat",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3713,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112365058949109742993\">The Expat<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyZgKCIV1elNb_io5h9v1zBqG9TaBqqVTWTOishZMynSBuXWBE2w6obvvaYFCpcSE3-Fe4K9hQNYrM4TE1gv5eYkiyguwUO-MPBBqt4S89WIa0pZYnibtBAhlWj96Vbu6Vxmwq1oT2EoWrGAhI5AM7yR-eLi_xclnCUhby217SalmC",
+                        "width":5826
+                  }
+            ],
+            "place_id":"ChIJ-VhG3uH3wokRfYkcXWjtglw",
+            "plus_code":{
+                  "compound_code":"R28Q+6X New York, NY, USA",
+                  "global_code":"87G8R28Q+6X"
+            },
+            "rating":4.7,
+            "reference":"ChIJ-VhG3uH3wokRfYkcXWjtglw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":141,
+            "vicinity":"64 Tiemann Place, New York",
+            "CBG":360610211002,
+            "Radius":94.7872082479
+      }
+]

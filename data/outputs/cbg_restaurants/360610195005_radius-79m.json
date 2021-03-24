@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8009401,
+                        "lng":-73.9673652
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8022890803,
+                              "lng":-73.9660162197
+                        },
+                        "southwest":{
+                              "lat":40.7995911197,
+                              "lng":-73.9687141803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Koko Wings",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3959,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111466703433190347954\">Koko Wings<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIFj27y2mNWvzPtbhsiiXyfNYQq8oRKRLwQ5ozHkThbnsSffZaixWpdqGNxTxt_2hq-nqDl_TQOH3TIHMggJ3Ofnrm_dvyCzRoLpxW1onnhEgriJ3EoY_nj-zIylw4CNIkghr4CU5balsBsgBILV8t3ivRRtVKSxm4388ejfeYLcbNt",
+                        "width":5279
+                  }
+            ],
+            "place_id":"ChIJPWD76CT2wokRzmK4N6qfz88",
+            "plus_code":{
+                  "compound_code":"R22M+93 New York, NY, USA",
+                  "global_code":"87G8R22M+93"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJPWD76CT2wokRzmK4N6qfz88",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":384,
+            "vicinity":"248 West 106th Street, New York",
+            "CBG":360610195005,
+            "Radius":79.0509942098
+      }
+]

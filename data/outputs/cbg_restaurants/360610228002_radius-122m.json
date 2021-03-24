@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8142984,
+                        "lng":-73.942654
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8155585303,
+                              "lng":-73.9414634197
+                        },
+                        "southwest":{
+                              "lat":40.8128605697,
+                              "lng":-73.9441613803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"KoffieKantooe",
+            "photos":[
+                  {
+                        "height":675,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105536258889040212091\">Ferenz Greenfield<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIBA7gQ8i_hPB-W34mThcYA0qTwj-xoctmNYcvsfnm2z4AsU_pf6qyZyeCDGsM6Y4xG4_izJtufKedLwVgIDcMoPiUqPawISUA5LBpjwT-3drgWnrqUSoxA425c656EDGfi5vnZLT3GGzTbFroR2bCqYktxY5_ilMcm2Q6KZYVIPQi9",
+                        "width":900
+                  }
+            ],
+            "place_id":"ChIJDWH5wHH3wokRnqteBrjPeFU",
+            "plus_code":{
+                  "compound_code":"R374+PW New York, NY, USA",
+                  "global_code":"87G8R374+PW"
+            },
+            "reference":"ChIJDWH5wHH3wokRnqteBrjPeFU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"175 West 134th Street, New York",
+            "CBG":360610228002,
+            "Radius":121.9315375692
+      }
+]

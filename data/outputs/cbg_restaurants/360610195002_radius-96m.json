@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8028379,
+                        "lng":-73.9681172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8041435803,
+                              "lng":-73.9665995197
+                        },
+                        "southwest":{
+                              "lat":40.8014456197,
+                              "lng":-73.9692974803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fumo Upper West Side",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":397,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100529687776867642852\">Fumo Upper West Side<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMZukX_UBPEFJ80VvoQoVF6Dm2CGA57WZDGY6FcgCohsz1A6Hlw3DCkW8uQXAqx6mv730x1zNcIHy_kO_AYcKHYQEn-FaA4ADxB37kPsmqeA0adPH-bmmYcegbRK6taGBM5rZUuOLar-GCA1gaQfKqcQOS4Swmj63yBA2arZtlLInB",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJTV8xFRr3wokRvtKlPE3mdPw",
+            "plus_code":{
+                  "compound_code":"R23J+4Q New York, NY, USA",
+                  "global_code":"87G8R23J+4Q"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJTV8xFRr3wokRvtKlPE3mdPw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":162.0,
+            "vicinity":"2791 Broadway, New York",
+            "CBG":360610195002,
+            "Radius":96.02831563
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8029728,
+                        "lng":-73.9679002
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8042964803,
+                              "lng":-73.9664527197
+                        },
+                        "southwest":{
+                              "lat":40.8015985197,
+                              "lng":-73.9691506803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lolo's Taco Shack",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJpbsidwn3wokRKTbuNFLjdy0",
+            "plus_code":{
+                  "compound_code":"R23J+5R New York, NY, USA",
+                  "global_code":"87G8R23J+5R"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJpbsidwn3wokRKTbuNFLjdy0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2799 Broadway, New York",
+            "CBG":360610195002,
+            "Radius":96.02831563
+      }
+]

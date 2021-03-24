@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7978482,
+                        "lng":-73.9718514
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7991256803,
+                              "lng":-73.9703273197
+                        },
+                        "southwest":{
+                              "lat":40.7964277197,
+                              "lng":-73.9730252803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"starbucks",
+            "place_id":"ChIJxwLX0I33wokRkt6_VvQcP64",
+            "plus_code":{
+                  "compound_code":"Q2XH+47 New York, NY, USA",
+                  "global_code":"87G8Q2XH+47"
+            },
+            "reference":"ChIJxwLX0I33wokRkt6_VvQcP64",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"817 West End Avenue, New York",
+            "CBG":360610187002,
+            "Radius":89.7540338901
+      }
+]

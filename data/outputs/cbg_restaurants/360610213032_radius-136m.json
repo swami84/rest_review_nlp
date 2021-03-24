@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8133351,
+                        "lng":-73.9551794
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8147118803,
+                              "lng":-73.9537743697
+                        },
+                        "southwest":{
+                              "lat":40.8120139197,
+                              "lng":-73.9564723303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Good718 INC",
+            "place_id":"ChIJ5WgK6wH3wokRpjiiFWfEJ18",
+            "plus_code":{
+                  "compound_code":"R27V+8W New York, NY, USA",
+                  "global_code":"87G8R27V+8W"
+            },
+            "reference":"ChIJ5WgK6wH3wokRpjiiFWfEJ18",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"456 West 126th Street, New York",
+            "CBG":360610213032,
+            "Radius":136.0036304153
+      }
+]

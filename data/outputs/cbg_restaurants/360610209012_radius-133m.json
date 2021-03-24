@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8117444,
+                        "lng":-73.9544178
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8130232803,
+                              "lng":-73.9531390697
+                        },
+                        "southwest":{
+                              "lat":40.8103253197,
+                              "lng":-73.9558370303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111816982771926922122\">Andras Szeplaki<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxDSaky1svjFvUUIz1DZTJyB9ECSf-TNIXcBp2ztX4zUPcyH-zDEmQd_FOL-ZF1i8aedyFFVQ7mvmVwaiKhFAFxf7nXyZ1Y2j4kbWpuhFvLyl91UoQUkbJHc-vx5Z0ENVmrY-N1bULY-iIh8U0YvyOzFtAdm6x8vwAoUcRhXhyiGy7",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ06XraGv2wokRx0VQxJ76yYM",
+            "plus_code":{
+                  "compound_code":"R26W+M6 New York, NY, USA",
+                  "global_code":"87G8R26W+M6"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJ06XraGv2wokRx0VQxJ76yYM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":431,
+            "vicinity":"409 West 125th Street, New York",
+            "CBG":360610209012,
+            "Radius":132.9860792578
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.812309,
+                        "lng":-73.9549817
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8136020303,
+                              "lng":-73.9537762197
+                        },
+                        "southwest":{
+                              "lat":40.8109040697,
+                              "lng":-73.9564741803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Presto Fresh Mexican Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104591495240293525904\">Presto Fresh Mexican Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJP2LHu50N_pv8uIlgtNsWcqMgriFvTskNO_48CgvX_GVbrl7m5ZijVLIAr06jWtWuiifV2KbI7aC0bQsvJ6DDBPmeIRIHFOlGG10JeIg523rVerat7VY4bg3usCEky8t_MmajaXme1bfhtc7mauvX-VAuh8uM2Yb4GgtXEUf3fKESV",
+                        "width":2539
+                  }
+            ],
+            "place_id":"ChIJMzM27133wokRBY4-UaegR9k",
+            "plus_code":{
+                  "compound_code":"R26W+W2 New York, NY, USA",
+                  "global_code":"87G8R26W+W2"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJMzM27133wokRBY4-UaegR9k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"429 West 125th Street, New York",
+            "CBG":360610209012,
+            "Radius":132.9860792578
+      }
+]

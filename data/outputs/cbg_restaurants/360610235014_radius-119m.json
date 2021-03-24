@@ -1,0 +1,87 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8304219,
+                        "lng":-73.9433974
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8318409803,
+                              "lng":-73.9422159697
+                        },
+                        "southwest":{
+                              "lat":40.8291430197,
+                              "lng":-73.9449139303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jose groociri",
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108738785069429766414\">Angel Salvador<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtbTNP6mMzrFT93MT-IZt30k_guu6bVOypMZ5B5qxOwYfOd2S9apjXCo9K55G6bZqY4Cgx3yXCxZ8SCe4LP_0rG-8ISyA4susjEFIw_cg2tV9gtoDLLJGuzdjCxg7Q28gcfY5HYdtXGglHy9pH0L-wTujjgqGavBkOsC0YHHtenSxm",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJzxHMkYv3wokRAOax9JE2OEU",
+            "plus_code":{
+                  "compound_code":"R3J4+5J New York, NY, USA",
+                  "global_code":"87G8R3J4+5J"
+            },
+            "reference":"ChIJzxHMkYv3wokRAOax9JE2OEU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1887 Amsterdam Avenue, New York",
+            "CBG":360610235014,
+            "Radius":118.8031088115
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8300414,
+                        "lng":-73.9439041
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8314222303,
+                              "lng":-73.9426318697
+                        },
+                        "southwest":{
+                              "lat":40.8287242697,
+                              "lng":-73.9453298303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Silima",
+            "photos":null,
+            "place_id":"ChIJfQ8tTm_3wokR9zMKSmkZ5Og",
+            "plus_code":{
+                  "compound_code":"R3J4+2C New York, NY, USA",
+                  "global_code":"87G8R3J4+2C"
+            },
+            "reference":"ChIJfQ8tTm_3wokR9zMKSmkZ5Og",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1875 Amsterdam Avenue, New York",
+            "CBG":360610235014,
+            "Radius":118.8031088115
+      }
+]

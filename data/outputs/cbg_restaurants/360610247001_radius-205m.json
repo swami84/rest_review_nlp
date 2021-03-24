@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8380873,
+                        "lng":-73.946446
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8394664803,
+                              "lng":-73.9451427197
+                        },
+                        "southwest":{
+                              "lat":40.8367685197,
+                              "lng":-73.9478406803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Dylan's Delicious Deli Grocery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110113173228753831200\">Andrew Martinez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJc9tSuvYLiUyFmhzzYYAFAXienU02dv5sZX0odNMEVgaZ1oUUTORBZM1o7gVW9pXk7UnpMMaexnP4CUqk0E006ea0nRtxoGh9POiLIJGEKdYBGnTV8rzsB1LSkMt9_B5eBI-GUJsFKk0OerYhRkIybl8QtiuPJoJDHsWMEQ2l78O3N",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJt3HXOYX2wokR1bpzXJlfYY0",
+            "plus_code":{
+                  "compound_code":"R3Q3+6C New York, NY, USA",
+                  "global_code":"87G8R3Q3+6C"
+            },
+            "rating":4.2,
+            "reference":"ChIJt3HXOYX2wokR1bpzXJlfYY0",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"900 Riverside Drive # 1, New York",
+            "CBG":360610247001,
+            "Radius":204.776726671
+      }
+]

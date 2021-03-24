@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8114833,
+                        "lng":-73.9420793
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8127594803,
+                              "lng":-73.9407837697
+                        },
+                        "southwest":{
+                              "lat":40.8100615197,
+                              "lng":-73.9434817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Angelina",
+            "place_id":"ChIJtz6ZLo_3wokRddEzdWUmrrc",
+            "plus_code":{
+                  "compound_code":"R365+H5 New York, NY, USA",
+                  "global_code":"87G8R365+H5"
+            },
+            "reference":"ChIJtz6ZLo_3wokRddEzdWUmrrc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"77 West 131st Street, New York",
+            "CBG":360610208001,
+            "Radius":126.2461655303
+      }
+]

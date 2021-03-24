@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8556464,
+                        "lng":-73.9334654
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8569725303,
+                              "lng":-73.9319954197
+                        },
+                        "southwest":{
+                              "lat":40.8542745697,
+                              "lng":-73.9346933803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jordan Snack Bar & Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1915,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116328682135597130625\">Foodlover Girl<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ7zoDiPsMw9uTI_6xRV0WOk4qHlkf91cfPgUhS3RtdE73Ke91Pumw9EoxlMCmOkiJiKYcyZJ-jOcDLryto3yhS7GqokibGQVXWA7SrEHVi3o8XU3VEakBOo8NLiMNoVaGgqdn9UrcyOSlbwb6CF9L0i_icA6BW-cwJKAnHmtcq1iMH",
+                        "width":2553
+                  }
+            ],
+            "place_id":"ChIJcS7vIx30wokRaLLv5IPlPW8",
+            "plus_code":{
+                  "compound_code":"V348+7J New York, NY, USA",
+                  "global_code":"87G8V348+7J"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJcS7vIx30wokRaLLv5IPlPW8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"4419A Broadway, New York",
+            "CBG":360610279001,
+            "Radius":84.9793880176
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.855694,
+                        "lng":-73.933485
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8570082303,
+                              "lng":-73.9319999697
+                        },
+                        "southwest":{
+                              "lat":40.8543102697,
+                              "lng":-73.9346979303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Riossi Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJU474E_OqeM60aGh58oufmn24KV7TtKQpTs2i_SP59URchHfcIh9SGqJp4ldM4nQeg8gDMRqgqc56t1d03V03ACGsn7mGTKPgbOsLrvb2DvZ_GKAUEv1tP6uSnM0pRPAReTGo_mVfgndHOY75h-9DE5Ay2_EJts2FV4U1vb-_mZV_R",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJWyfqIx30wokRQ7ZMdZJ3keQ",
+            "plus_code":{
+                  "compound_code":"V348+7J New York, NY, USA",
+                  "global_code":"87G8V348+7J"
+            },
+            "price_level":null,
+            "rating":3.5,
+            "reference":"ChIJWyfqIx30wokRQ7ZMdZJ3keQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"4417 Broadway, New York",
+            "CBG":360610279001,
+            "Radius":84.9793880176
+      }
+]

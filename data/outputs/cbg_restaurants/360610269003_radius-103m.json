@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8485669,
+                        "lng":-73.9315677
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8498498803,
+                              "lng":-73.9301815197
+                        },
+                        "southwest":{
+                              "lat":40.8471519197,
+                              "lng":-73.9328794803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Antojitos Mexicanos",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101510038750002099368\">Dhariana Aylin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtUn1_IziUaeFBtfIwuTSaPuTHT97JcARLlAmKe_G0QalB0EPMQOzawaLFwVEPSNYPQJ2l0zTJSRw3bBYcu2u6xz7CeqKOj8gqJMDVX2aJmNBWZr--L16KdCR-9pnNJfgIRXBTqxMEU-dT8HNNQBhwTQtDz693lzlqtY0Af2BYHyGV",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJseedGB_0wokRbKWif6lbNPo",
+            "plus_code":{
+                  "compound_code":"R3X9+C9 New York, NY, USA",
+                  "global_code":"87G8R3X9+C9"
+            },
+            "rating":4.2,
+            "reference":"ChIJseedGB_0wokRbKWif6lbNPo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":85,
+            "vicinity":"511w West 181st Street, New York",
+            "price_level":null,
+            "CBG":360610269003,
+            "Radius":103.3745592443
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8484482,
+                        "lng":-73.932371
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8497971803,
+                              "lng":-73.9310220197
+                        },
+                        "southwest":{
+                              "lat":40.8470992197,
+                              "lng":-73.9337199803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chicken Ranch",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110290003487919643343\">Albert jimenez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMvNswP1RjMVm4WRpWBsfd7WrR9kaFMaOwstfme_IBluZwYEm7s14CDgAONrzp_3-Wshz2ByyXlq2fbosgO8433vQ4Tb4KAHO5KDIulvWAX0mz8i_dcKCYBWfBWwtNUebJHzt0M8-w45WgWWhEhYc0is7usONWQei_Arn6CxZr7Kod",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJwfT2Dx_0wokRe1JusAEd0g4",
+            "plus_code":{
+                  "compound_code":"R3X9+93 New York, NY, USA",
+                  "global_code":"87G8R3X9+93"
+            },
+            "rating":4.4,
+            "reference":"ChIJwfT2Dx_0wokRe1JusAEd0g4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":122,
+            "vicinity":"315 Audubon Avenue, New York",
+            "price_level":1.0,
+            "CBG":360610269003,
+            "Radius":103.3745592443
+      }
+]

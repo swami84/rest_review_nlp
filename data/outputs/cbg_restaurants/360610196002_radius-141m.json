@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8002363,
+                        "lng":-73.9402814
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8017023303,
+                              "lng":-73.9387865697
+                        },
+                        "southwest":{
+                              "lat":40.7990043697,
+                              "lng":-73.9414845303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"New Hong Kong Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115562853455970494772\">Jehuda Ish-Shalom<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwInCMXwo_fhmrKwzxCgTjefqDJ2IKkjmEwhDq0XlSpYKn_6Bzo31ST4jM8Mr9E2V8TeKLwuCaYzgthB5_sHKUApu1oLltM2SG2L8GkMl8L9RwAQlkr9Z_Ftwssyyg0qnFISETyXqqQzqcM5jgGb3YTekcFPpbkKu82Az4m2E8Qfxz05",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJh6IO6Aj2wokRuOIEUTc0nJc",
+            "plus_code":{
+                  "compound_code":"R325+3V New York, NY, USA",
+                  "global_code":"87G8R325+3V"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJh6IO6Aj2wokRuOIEUTc0nJc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"1907 Lexington Avenue, New York",
+            "CBG":360610196002,
+            "Radius":140.5069954162
+      }
+]
