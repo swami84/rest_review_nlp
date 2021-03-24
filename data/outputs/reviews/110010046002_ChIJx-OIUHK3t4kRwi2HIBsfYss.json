@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5X3Vtd1NREAE",
+        "caption": "Good breakfast",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Nick Roth",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113225368985135334286/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MXRlY0JBEAE",
+        "caption": "Delicious food, tons of options and friendly service.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Graham Bishai",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107091261283957916309/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cGRlV3B3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "M Ant",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113053260717121463003/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NmFpNXZBRRAB",
+        "caption": "Just had an awesome shrimp po boy from here. Definitely coming back.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Chris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105337928675214405256/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NGI2NWZBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "kinte robinson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117277519973809028568/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdy1YZl9nRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 4.0,
+        "username": "E Ham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104662106976461796873/reviews?hl=en-US",
+        "census_block_group": 110010046002
+    }
+]

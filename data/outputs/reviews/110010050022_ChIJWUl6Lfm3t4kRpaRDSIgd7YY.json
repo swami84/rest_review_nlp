@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpX08yNkhBEAE",
+        "caption": "This is ridiculous when I read the comments. I've been here and food is great.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Yaowaluck Phettakua",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117867599007344937347/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDZzRMLXhBRRAB",
+        "caption": "Hold on! I'm not sure why this place has bad reviews. I've been going to this restaurant since 2014. It has been my favorite Thai place in DC by far. Delicious and right price. I've lived in dupont/logan area for five years and now live in NY. I eat at this place every time I visit DC. The spicy Tom Yum Shrimp soup is such a yummy comfort food in the fall and winter. Their \"bird's nest on fire\" is absolutely delicious. I also recommend their papaya salad as well.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Rob Moorman",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113120420773196158881/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDLXZUTy1RRRAB",
+        "caption": "Love this place. Best Thai in town.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Jean Redmond",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114533134754871847163/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4bU1ya1JnEAE",
+        "caption": "The 1st time is was wonderful. The last visit wasn't that great. Chicken appeared different and almost rubbery. Made me believe it wasn't really chicken! Yikes!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Nneka P",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112165551162546513119/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjX2E2bWl3RRAB",
+        "caption": "fish had bones in. yuck",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Isaiah Lamers",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102046102802646205236/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOWRtSGpnRRAB",
+        "caption": "Worst Thai food I\u2019ve ever had. The \u201cangel wings\u201d had connective tissue and shards of bone in them. Nasty!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Alain Sherman",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107651004259928236529/reviews?hl=en-US",
+        "census_block_group": 110010050022
+    }
+]

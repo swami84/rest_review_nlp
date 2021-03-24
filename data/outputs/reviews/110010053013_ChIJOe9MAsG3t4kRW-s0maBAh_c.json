@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrd2ZDX3FnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Tamara Lane-Wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116873584566717254911/reviews?hl=en-US",
+        "census_block_group": 110010053013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNna1plb0p3EAE",
+        "caption": "This is one of those little cafes that is really just designed for the people who work in the building (it's in the basement). With that in mind, the food is very tasty - they have standard lunch fare staples like sandwiches and bagged chips and a soup of the day each day. They also have dumplings served with rice. There are a small, but decent number of vegetarian choices (including some very tasty vegetarian dumplings) and a veggie wrap that is vegan.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Lena Dewald",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118019722163201950283/reviews?hl=en-US",
+        "census_block_group": 110010053013
+    }
+]

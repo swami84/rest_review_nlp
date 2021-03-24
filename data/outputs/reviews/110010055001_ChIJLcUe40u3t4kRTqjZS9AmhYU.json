@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LVBYbGtBRRAB",
+        "caption": "Love the food, books, and vibes. Great location to the Dupont circle",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Sarah Ouellette",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117645483053175769809/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpc2FIZTVnRRAB",
+        "caption": "BEST CHICKEN & WAFFLES I\u2019VE EVER HAD. Bloody Mary is also very good.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Brianna Intili",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105083648079917476033/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDX3JDOFB3EAE",
+        "caption": "Great spot for food and drinks in the evening. Cocktails are delicious and reasonably priced.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Clay J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113556087745258665883/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaU9qcEtBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Kirk Madsen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100745486191849505344/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    }
+]

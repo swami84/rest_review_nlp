@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LTd1Y0RREAE",
+        "caption": "Bad. Like really bad. More sauce than food and the sauce wasn\u2019t even that good. Felt like I might have an immediate heart attack from fat/sodium consumption.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 1.0,
+        "username": "Ashley Arnold",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107337578845361675713/reviews?hl=en-US",
+        "census_block_group": 110010044002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MDliZXB3RRAB",
+        "caption": "Woo hood nashville hot is fire!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Chad Spangler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105465262569714249250/reviews?hl=en-US",
+        "census_block_group": 110010044002
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5enRhMFRnEAE",
+        "caption": "Golden China has the best shrimp egg foo young in town!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Shard\u00e1 Short",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104015733193812850080/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Z19pR1hnEAE",
+        "caption": "these are the workers",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Lillian Eberhard",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116038417489059222195/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5emVianp3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Omar Alberto Rodas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116179415457674757561/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NWJUWEx3EAE",
+        "caption": "The food is really good and the price are great. Delivery was fast and the food was nice and hot.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Joshua Walcott",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105104692696414933776/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5anI2Z3p3RRAB",
+        "caption": "Eat at you own risk.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 1.0,
+        "username": "william h",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111642672944890817698/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGRlcGtBRRAB",
+        "caption": "I love this restaurant's food! There food is delicious. My favorite food there was dumpling lomien and  general tso chicken",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-23",
+        "rating": 5.0,
+        "username": "Christina Lu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110044207409779195961/reviews?hl=en-US",
+        "census_block_group": 110010048011
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dGF5OExnEAE",
+        "caption": "Too slow",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Ros Ilmt",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106765388838045365114/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aGFMRkN3EAE",
+        "caption": "The wings were so good! We loved their seasoning. They have a good packaging system so the wings arrived fresh, hot, and crispy.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Allison Johnson",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111300243105215805244/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aGRqVHFnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Mihyar",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117354533993200012187/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LVpuRlRBEAE",
+        "caption": "Fedwings is delicious... The ordering and pickup process was super easy.  Very plain and simple to understand. Once I arrived at Kramer Bookstore they have a temperature tablet that checks your temperature and let's you know when to continue on. It's very neat and clean in the book store.. it's surprising to see a kitchen in a bookstore but it works at Kramers... I love federalist pig and I love fedwings.. I can't wait to try out the sandwiches...",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Anita D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106122612482194423913/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5b09pb2pBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Zach Adams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105943461257153236397/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTaHRTVWZ3EAE",
+        "caption": "Spectacular wings. The rub is well seasoned and slightly sweet, and the wings taste great without the sauces. But the sauces are excellent too. I recommend the honey mustard and the smoky Buffalo.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Dan Halpert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113792284816730919819/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpOGJTSjFnRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Jack Fischer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101641206183876752490/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpa0tPOENBEAE",
+        "caption": "Take Federalist Pig wings, which are the best smoked wings anywhere, but taken to a new level with amazing sauces. The Buffalo sauce is maybe the best Buffalo sauce I have ever had, and I am from Buffalo.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Andrew Cavuoto",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105102826355220776549/reviews?hl=en-US",
+        "census_block_group": 110010055001
+    }
+]

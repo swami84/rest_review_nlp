@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDa3JfZUlREAE",
+        "caption": "Grabbed a cappuccino here. For $7 it was meh. The atmosphere was very upscale.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Christine K",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101664796900323170719/reviews?hl=en-US",
+        "census_block_group": 110010055002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJNDVDSC1RRRAB",
+        "caption": "Open and airey. Attentive service and great happy hour with reduced food and drink specials. Attracts a chic crowd.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "The Connector",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111676851150187908955/reviews?hl=en-US",
+        "census_block_group": 110010055002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJOEtPZkFREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "Michele Klub",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111871039640190197668/reviews?hl=en-US",
+        "census_block_group": 110010055002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneEppSlBREAE",
+        "caption": "Very friendly staff. Had both lunch and dinner here and the atmosphere was relaxed, welcoming and sophisticated. The food is very good! Had pancakes for breakfast and they were melt in your mouth. For lunch I had crab cakes and it was savory. Right sized portions.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Brennan Poon-Kwong",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116034616783940262702/reviews?hl=en-US",
+        "census_block_group": 110010055002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dXIzdUVnEAE",
+        "caption": "Delicious food, great desserts. Overall we have been consistently please each time we come here. Food typically not too heavy - even the beef ragu. Not cheap, but good food - expect hotel restaurant pricing.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Neal Silbert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114314484028091909380/reviews?hl=en-US",
+        "census_block_group": 110010055002
+    }
+]
