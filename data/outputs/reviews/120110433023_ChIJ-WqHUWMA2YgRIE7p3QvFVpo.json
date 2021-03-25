@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NXVHSFZREAE",
+        "caption": "Ordered hamburger plain how simple is not to place anything on and top it off waiter never asked if we need water paper towels terrible service",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Mr Gym Critic of Illinois",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108491953789641831063/reviews?hl=en-US",
+        "census_block_group": 120110433023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMGNIMVFREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Mr. Fahrenheit",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113263341683411610893/reviews?hl=en-US",
+        "census_block_group": 120110433023
+    }
+]

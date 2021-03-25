@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVLUpDalpBEAE",
+        "caption": "(Translated by Google) Soso  (Original) Soso",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Jeanluc Jeanlis",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110404207715458250569/reviews?hl=en-US",
+        "census_block_group": 120110509005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwXy1YckdREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Kathiusca Baptiste",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105823487204490547647/reviews?hl=en-US",
+        "census_block_group": 120110509005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrbUlmN253RRAB",
+        "caption": "Great food and special's. Come check it out, nice Caribbean food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Ronald Apollon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105194140146360383658/reviews?hl=en-US",
+        "census_block_group": 120110509005
+    }
+]
