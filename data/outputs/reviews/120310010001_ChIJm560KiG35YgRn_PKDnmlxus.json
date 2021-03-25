@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5em83a01REAE",
+        "caption": "Nice guy",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Gary King KING",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117796252262818951575/reviews?hl=en-US",
+        "census_block_group": 120310010001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzck5fVlB3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Ex Szn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100832657453790326683/reviews?hl=en-US",
+        "census_block_group": 120310010001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJLWNMQzBBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Mei W",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101738915502498256470/reviews?hl=en-US",
+        "census_block_group": 120310010001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRMDZfRzF3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Robin Mathers",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106317585463631089903/reviews?hl=en-US",
+        "census_block_group": 120310010001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeWJlV0J3EAE",
+        "caption": "I ordered a steak sub and the lady gave it to me cold and didnt want to make another one the service suck first and last time eatting here but the manager stepped right in and made it again",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Tristen Bowes",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116044110524513270140/reviews?hl=en-US",
+        "census_block_group": 120310008002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpN0xmNTZBRRAB",
+        "caption": "The sub we had was made with care and really good. I wish I had another",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Lisa Murff",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110656539269496444787/reviews?hl=en-US",
+        "census_block_group": 120310008002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMkl5cjN3RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Kenny Trull",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115466449871604090283/reviews?hl=en-US",
+        "census_block_group": 120310008002
+    }
+]
