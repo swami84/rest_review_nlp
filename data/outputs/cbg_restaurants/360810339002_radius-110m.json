@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7564629,
+                        "lng":-73.8786361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7577384303,
+                              "lng":-73.8772728197
+                        },
+                        "southwest":{
+                              "lat":40.7550404697,
+                              "lng":-73.8799707803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Riazor Blues",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3968,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112681496369431015090\">letty torres<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ7AZJ9KGhON0pvxlAwVUVi_HhJo6_EIGxT7S4amaeT1UGsgeq_DCmoBSNRVhtJDuatoblkup4g9yedD4V9awUFnWJmMHAeZi3TgBBtgGRFxG2yFv7Y7EFbDUrFOLlreqbYaW9rvgBrswsnpAy1qU4PZOysDePqhg6tHYC4eNgCY3NO",
+                        "width":2976
+                  }
+            ],
+            "place_id":"ChIJtc34sqZfwokRxmTCS0CGK5o",
+            "plus_code":{
+                  "compound_code":"Q44C+HG New York, NY, USA",
+                  "global_code":"87G8Q44C+HG"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJtc34sqZfwokRxmTCS0CGK5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"89-05 Northern Boulevard, Queens",
+            "CBG":360810339002,
+            "Radius":109.6271319645
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7447397,
+                        "lng":-73.8844144
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7461087303,
+                              "lng":-73.8831245697
+                        },
+                        "southwest":{
+                              "lat":40.7434107697,
+                              "lng":-73.8858225303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Fusta",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115669779561965803211\">Kin Tsui<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIqGWt1uXNzRhpPC61V6AFFpm6e_dEcTPMJiUfv4yWb1U__-EgfnnaUPfZPhqreH1Tqy_l9UZh43dAOk3uBQvv0g73vhjsnkRhsbfSDXZEWhdS_QHDmolzgIcJCDjkFb_hLJ1zJLUxaDkgBJ1USDe2Crq02jUjEBO1uPq9cjAzTmFlG",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJFx8HV6lfwokRZBepb4QEmX8",
+            "plus_code":{
+                  "compound_code":"P4V8+V6 Queens, NY, USA",
+                  "global_code":"87G8P4V8+V6"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJFx8HV6lfwokRZBepb4QEmX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":583,
+            "vicinity":"80-32 Baxter Avenue, Queens",
+            "CBG":360810269021,
+            "Radius":108.7394010562
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7446358,
+                        "lng":-73.8845102
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7460567803,
+                              "lng":-73.8831357197
+                        },
+                        "southwest":{
+                              "lat":40.7433588197,
+                              "lng":-73.8858336803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taste of China",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112711147858004027792\">Victor Herrera<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI4W4t_e1MDAth6B6TN3946ei8_ntHuacaR2n_ZT46u3ab1yUgcQYIG-uJKxYrBbc17FEIV0Ao2T7BCkpBw1mw8I-N2U_mfUEQqR7bngvsB7RAPhCvp79I81AkeeoIvxr8sOuGhAmSU0s7gwW7tW4xkYDeyfT3sCPVzZtTo0SBPsfC4",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJt-4rvqtfwokRqHzQ5K5-qmM",
+            "plus_code":{
+                  "compound_code":"P4V8+V5 Elmhurst, Queens, NY, USA",
+                  "global_code":"87G8P4V8+V5"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJt-4rvqtfwokRqHzQ5K5-qmM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"8026 Baxter Avenue, Elmhurst",
+            "CBG":360810269021,
+            "Radius":108.7394010562
+      }
+]

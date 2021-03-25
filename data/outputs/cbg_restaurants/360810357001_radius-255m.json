@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7682869,
+                        "lng":-73.8732292
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7696950303,
+                              "lng":-73.8718866697
+                        },
+                        "southwest":{
+                              "lat":40.7669970697,
+                              "lng":-73.8745846303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"LaGuardia Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115400011462423231658\">\u5e73\u7530\u5065\u4e8c<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL8X47Rl9eXOMIKMAoeOoyGxVRtYQAE2WUUxGhyRQZi0HGg18K7kcZ_3A-zh-sGTKUY8rhzn48RkmhEFYelOZW2fbHIEMC7gJM2AZuJejSzo-GmCwUH-9t9OoRfbPXW7hMYksOQRGgrZiOTUyHl-C08g67hZp3iw4_smVIdpoV-5wB-",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJpYkHxJFfwokRoi4v1kiHPEs",
+            "plus_code":{
+                  "compound_code":"Q49G+8P New York, NY, USA",
+                  "global_code":"87G8Q49G+8P"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJpYkHxJFfwokRoi4v1kiHPEs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":673,
+            "vicinity":"97-02 23rd Avenue, New York",
+            "CBG":360810357001,
+            "Radius":255.2208100236
+      }
+]

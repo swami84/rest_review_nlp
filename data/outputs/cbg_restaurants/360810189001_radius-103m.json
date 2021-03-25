@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7417698,
+                        "lng":-73.925752
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7431973803,
+                              "lng":-73.9243872697
+                        },
+                        "southwest":{
+                              "lat":40.7404994197,
+                              "lng":-73.9270852303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China Garden",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK3iTJAngJzwZWXdhhrUMqOM-4dYYEvDF-Ix-3TtsGUZLcIH3yiIZllzKmxu1lGxaXxyockJmDLgTNIxV68yGBhpmGIj0X4QYbKpOWQAKtQ92pKMEe773XBCsKb_GC_M6LebXwxqhQivZQkdY-InUeEkQQe1aI9bVbQGYVwxwFHPCGC",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJJQ7tydBewokRYAjmOVrKs0Q",
+            "plus_code":{
+                  "compound_code":"P3RF+PM Sunnyside, Queens, NY, USA",
+                  "global_code":"87G8P3RF+PM"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJJQ7tydBewokRYAjmOVrKs0Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":120,
+            "vicinity":"3920 47th Avenue, Sunnyside",
+            "CBG":360810189001,
+            "Radius":103.120213187
+      }
+]

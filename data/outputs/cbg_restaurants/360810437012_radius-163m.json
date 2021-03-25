@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7383338,
+                        "lng":-73.8529354
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7397477303,
+                              "lng":-73.8516455697
+                        },
+                        "southwest":{
+                              "lat":40.7370497697,
+                              "lng":-73.8543435303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tech Chef",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ0w2gmtJfwokRCdFd-dVVOC8",
+            "plus_code":{
+                  "compound_code":"P4QW+8R New York, NY, USA",
+                  "global_code":"87G8P4QW+8R"
+            },
+            "rating":4.5,
+            "reference":"ChIJ0w2gmtJfwokRCdFd-dVVOC8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"59-30 108th Street, Queens",
+            "CBG":360810437012,
+            "Radius":163.0459090395
+      }
+]

@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7451154,
+                        "lng":-73.9215504
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7465470303,
+                              "lng":-73.9201843197
+                        },
+                        "southwest":{
+                              "lat":40.7438490697,
+                              "lng":-73.9228822803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Wok's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ7yOQYNhewokRujsBKee5PGE",
+            "plus_code":{
+                  "compound_code":"P3WH+29 New York, NY, USA",
+                  "global_code":"87G8P3WH+29"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJ7yOQYNhewokRujsBKee5PGE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":45,
+            "vicinity":"42-18 43rd Avenue, Queens",
+            "permanently_closed":null,
+            "photos":null,
+            "CBG":360810181021,
+            "Radius":96.1541936376
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.7458682,
+                        "lng":-73.9216896
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7472322303,
+                              "lng":-73.9204711197
+                        },
+                        "southwest":{
+                              "lat":40.7445342697,
+                              "lng":-73.9231690803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Japan Pizza Den Den Gyoza",
+            "opening_hours":null,
+            "place_id":"ChIJXZPMTvNfwokRMCs-_GKscbQ",
+            "plus_code":{
+                  "compound_code":"P3WH+88 Sunnyside, Queens, NY, USA",
+                  "global_code":"87G8P3WH+88"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJXZPMTvNfwokRMCs-_GKscbQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"41-43 42nd Street, Sunnyside",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117288626194360663271\">Julie Chan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIE0rUklRGUIe3SXx6mTaxCbzGJqMP-AUqKakQAnPn41dGSs7TihdmAwM4ZB9G-ioS1jOfKy4BxUG_LkEcbPYX62dTyQeTdit7A7aMN2VYq1yxRBNPEq6a9xawWN6T5d48FFTQQUbI2J_v2YxAEO7SyctrV2viDpOqNBhOLglI4X0AZ",
+                        "width":4032
+                  }
+            ],
+            "CBG":360810181021,
+            "Radius":96.1541936376
+      }
+]

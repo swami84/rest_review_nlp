@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6946588,
+                        "lng":-73.7900605
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6960414303,
+                              "lng":-73.7886315197
+                        },
+                        "southwest":{
+                              "lat":40.6933434697,
+                              "lng":-73.7913294803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blaze 718",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113380155729323170012\">Wesley M<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIOGCapS4A7aeTywtn1TY-7a-VNc5eH5vxZdUOpNxrrJ8V-GAXuBwillir01ADsb_3CWJhs3sby_oRZSX9tDvdfDPvCth11L6QH7-er3Na5w7Tkt5EbnFV52y5UthVh-gh1GW83YWoWAdy3-LRKZAkUoLbbBCjfq7WdriGjoo_xlXUg",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJOepi_IZhwokRucGyGSYRleY",
+            "plus_code":{
+                  "compound_code":"M6V5+VX Jamaica, Queens, NY, USA",
+                  "global_code":"87G8M6V5+VX"
+            },
+            "rating":3.8,
+            "reference":"ChIJOepi_IZhwokRucGyGSYRleY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"109-10 Guy R Brewer Boulevard, Jamaica",
+            "CBG":360810260001,
+            "Radius":166.0117663467
+      }
+]

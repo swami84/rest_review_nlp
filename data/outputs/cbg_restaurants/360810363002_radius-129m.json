@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7573759,
+                        "lng":-73.8694376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7587357803,
+                              "lng":-73.8681383697
+                        },
+                        "southwest":{
+                              "lat":40.7560378197,
+                              "lng":-73.8708363303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Esquina del Sabor",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1153,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108543042184005509862\">La Esquina del Sabor<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJawOcvFhdFI6AsDHdGsRqhqU9VjLDKIzwDms3aY_1LuNvaT00_lYL5RCzOGOsI0BAakWWsmEGtpw5TqtIbRloL5xtQE8ZyGyAlmz9hmzdju6BNzCWnimQiq6LbYjY4vLjhV7fG-n7GgNlnYRM4oKNfbtQ93R62NRaWlYUoZhkr08BL",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJP1qkOL5fwokRU7LiH3xl2O0",
+            "plus_code":{
+                  "compound_code":"Q44J+X6 New York, NY, USA",
+                  "global_code":"87G8Q44J+X6"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJP1qkOL5fwokRU7LiH3xl2O0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174.0,
+            "vicinity":"99-01 Northern Boulevard, Queens",
+            "CBG":360810363002,
+            "Radius":128.7811387197
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7575868,
+                        "lng":-73.8701536
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7589185303,
+                              "lng":-73.8689752197
+                        },
+                        "southwest":{
+                              "lat":40.7562205697,
+                              "lng":-73.8716731803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El rinconcito",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJc8Xv_WFfwokRWjhTpFN4Rzs",
+            "plus_code":{
+                  "compound_code":"Q45H+2W New York, NY, USA",
+                  "global_code":"87G8Q45H+2W"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJc8Xv_WFfwokRWjhTpFN4Rzs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"32-49 98th Street, Queens",
+            "CBG":360810363002,
+            "Radius":128.7811387197
+      }
+]

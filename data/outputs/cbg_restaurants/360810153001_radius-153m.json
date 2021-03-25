@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.756706,
+                        "lng":-73.913591
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7579568803,
+                              "lng":-73.9123224197
+                        },
+                        "southwest":{
+                              "lat":40.7552589197,
+                              "lng":-73.9150203803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mansion Supper Club",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110866271555388957560\">Mansion Supper Club<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLL9ZUb5l8lVgC4qBFykpvtTsDMVvNk8C1xWyRmQw58KuJ0x-U91HG-r0D4E3Ju_vqh04PMqKtAzIRw2kF3j9XDG6wIAqPm3BKx4otrhoDUmhCyK51yuSidT7nK3W9hmdRjF5phlpBP62hpmgqf_5re4fy_tJ6a90JDIhTAgScEfQ",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJEbYebD1fwokRULiLuHlOuEw",
+            "plus_code":{
+                  "compound_code":"Q34P+MH Astoria, Queens, NY, USA",
+                  "global_code":"87G8Q34P+MH"
+            },
+            "rating":4.3,
+            "reference":"ChIJEbYebD1fwokRULiLuHlOuEw",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "park",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"4611 Broadway, Astoria",
+            "CBG":360810153001,
+            "Radius":152.5556532165
+      }
+]

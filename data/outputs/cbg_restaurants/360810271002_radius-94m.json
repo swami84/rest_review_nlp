@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.746241,
+                        "lng":-73.8780874
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7476769303,
+                              "lng":-73.8766707197
+                        },
+                        "southwest":{
+                              "lat":40.7449789697,
+                              "lng":-73.8793686803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Franklin",
+            "place_id":"ChIJfVNO-oRfwokRgr2rOQgkpfY",
+            "plus_code":{
+                  "compound_code":"P4WC+FQ New York, NY, USA",
+                  "global_code":"87G8P4WC+FQ"
+            },
+            "reference":"ChIJfVNO-oRfwokRgr2rOQgkpfY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"41-42 Forley Street, Queens",
+            "CBG":360810271002,
+            "Radius":93.5908726747
+      }
+]

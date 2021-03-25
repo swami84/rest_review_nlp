@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7436005,
+                        "lng":-73.8989226
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7449594803,
+                              "lng":-73.8976334197
+                        },
+                        "southwest":{
+                              "lat":40.7422615197,
+                              "lng":-73.9003313803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sagar Chinese",
+            "place_id":"ChIJqYGaVqhfwokRBFRskZoPG5s",
+            "plus_code":{
+                  "compound_code":"P4V2+CC Woodside, Queens, NY, USA",
+                  "global_code":"87G8P4V2+CC"
+            },
+            "reference":"ChIJqYGaVqhfwokRBFRskZoPG5s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"39-85 65th Place, Woodside",
+            "CBG":360810263003,
+            "Radius":118.2000741302
+      }
+]

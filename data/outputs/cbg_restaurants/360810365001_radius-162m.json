@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7611008,
+                        "lng":-73.8661345
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7624917803,
+                              "lng":-73.8648825697
+                        },
+                        "southwest":{
+                              "lat":40.7597938197,
+                              "lng":-73.8675805303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jamaica Breeze",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2976,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107091965318077938398\">Amy In NYC<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZCbHpqo_PlYs5LZOfodP2iOcDQvWsUy-EwAYLnK8bNXrQzqaaxDpCF78sHNTBQwZ4hpSv0EERmTGNKXASrgypTnNOnuozWFP56JJPHxgpcm4eEX2J5_6Tt0WMbKupoHEjIBp1g_K9GwxX0XuRS6SpRg2McDXRmQkKrOCz16rhHCk4",
+                        "width":2976
+                  }
+            ],
+            "place_id":"ChIJARkywpRfwokRqdOAXUukomI",
+            "plus_code":{
+                  "compound_code":"Q46M+CG New York, NY, USA",
+                  "global_code":"87G8Q46M+CG"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJARkywpRfwokRqdOAXUukomI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":395,
+            "vicinity":"103-02 Astoria Boulevard, East Elmhurst",
+            "CBG":360810365001,
+            "Radius":161.9548432166
+      }
+]

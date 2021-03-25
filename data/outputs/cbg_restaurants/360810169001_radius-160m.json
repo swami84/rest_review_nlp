@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7486142,
+                        "lng":-73.913013
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7500750303,
+                              "lng":-73.9115674197
+                        },
+                        "southwest":{
+                              "lat":40.7473770697,
+                              "lng":-73.9142653803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Donatos Pizzeria Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":375,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114224376514038210302\">Donatos Pizzeria Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUPH3CpFSvdMo1a6j6pXWJC_hBEMnY6Pcv5aClqIV5D_8eY_lJGerFvIocZbcApmFY1HtbkQbTjTuQ5B7ZJsDLuIrmTlmAaVivLAocvnDzNjKcr6M2p8qgHAIXk5ayAe3t8XnjkddM3ISzWXoJNqLLcPSh3r_lzRvuLQGDZS4Ok3Q9",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJ0U663SFfwokRT7HY9m8Ies0",
+            "plus_code":{
+                  "compound_code":"P3XP+CQ New York, NY, USA",
+                  "global_code":"87G8P3XP+CQ"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ0U663SFfwokRT7HY9m8Ies0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":355,
+            "vicinity":"50-22 39th Avenue, Queens",
+            "CBG":360810169001,
+            "Radius":159.5300295557
+      }
+]

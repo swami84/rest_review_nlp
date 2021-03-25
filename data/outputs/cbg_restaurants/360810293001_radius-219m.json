@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.752827,
+                        "lng":-73.8996049
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7540969803,
+                              "lng":-73.8984771197
+                        },
+                        "southwest":{
+                              "lat":40.7513990197,
+                              "lng":-73.9011750803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"EXT.RA",
+            "place_id":"ChIJay6tXgVfwokRGa5ohONJyxs",
+            "plus_code":{
+                  "compound_code":"Q432+45 New York, NY, USA",
+                  "global_code":"87G8Q432+45"
+            },
+            "reference":"ChIJay6tXgVfwokRGa5ohONJyxs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"33-51 62nd Street, Queens",
+            "CBG":360810293001,
+            "Radius":219.47917513
+      }
+]

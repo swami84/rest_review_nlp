@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7654047,
+                        "lng":-73.86196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7666825303,
+                              "lng":-73.8605811197
+                        },
+                        "southwest":{
+                              "lat":40.7639845697,
+                              "lng":-73.8632790803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":526,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109385013157264573906\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJWof_H-R0K2NVdUFGZjWKVqW6yXxKeUDTmnR1b2J1yB4ZBWNTZ3e58QMoY00obT2mE9-ejQ3inUYpPgJ441t5O9vDo6SMacYLGuvyd9pkSX0B6rTkOc9vI97EE5nAvdQMDPHgf72raACNkY0XJDHxojQ7a9jzJyRDHdSt0CpNTtBkx",
+                        "width":936
+                  }
+            ],
+            "place_id":"ChIJV4aQ3JlfwokRP8l21pdIKiM",
+            "plus_code":{
+                  "compound_code":"Q48Q+56 New York, NY, USA",
+                  "global_code":"87G8Q48Q+56"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJV4aQ3JlfwokRP8l21pdIKiM",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":36,
+            "vicinity":"Gulf Gas Station, 10801 Grand Central Parkway, Queens",
+            "CBG":360810371001,
+            "Radius":244.2843171438
+      }
+]

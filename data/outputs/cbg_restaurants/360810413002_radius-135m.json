@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7435417,
+                        "lng":-73.8625259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7448620303,
+                              "lng":-73.8612678197
+                        },
+                        "southwest":{
+                              "lat":40.7421640697,
+                              "lng":-73.8639657803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Cuencanito",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113944350363061726973\">cecilia marin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwII7c0V4Bfd4CvU1VRJTp65TlvaMoOcjZjRiJqwiwSfUi7aCC63L5Y6Pzp-wFXt2dV_QmkicfvD7KhNFo9RW84vBnOyWTrxFA_jlc7lZ2RwQtTl1HuH-OMQ0A_FiV6K_Q5bRan6SNnjCzwTnVSW74rperQcl1yeqHGcNqzxT3qf9MTJ",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJQ6jgd8lfwokRgdJEgeshmj8",
+            "plus_code":{
+                  "compound_code":"P4VP+CX New York, NY, USA",
+                  "global_code":"87G8P4VP+CX"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJQ6jgd8lfwokRgdJEgeshmj8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":340,
+            "vicinity":"99-12 Alstyne Avenue, Queens",
+            "CBG":360810413002,
+            "Radius":134.5340790963
+      }
+]

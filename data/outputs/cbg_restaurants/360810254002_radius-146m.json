@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6980727,
+                        "lng":-73.792034
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6993718303,
+                              "lng":-73.7908046697
+                        },
+                        "southwest":{
+                              "lat":40.6966738697,
+                              "lng":-73.7935026303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Nourish Spot",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116799142126149889636\">The Nourish Spot<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGpqwqq1LuZusHaxKq3mvjFV0x7BlONW0tP-a5294ITrhH5mY0K_IEtmxtVCREcsyV6tY164dHL4UA3ygsl22OfCBNKkdLNnRijDWsDqVf1DGuBcjrJAhMrpjVHqucvHVCtcpbwcJETyawguIs2t8ZZt6pIiS1XiWa5znz0img0mAf",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ1QvGfyhhwokR7d2AIY9f9wk",
+            "plus_code":{
+                  "compound_code":"M6X5+65 Jamaica, Queens, NY, USA",
+                  "global_code":"87G8M6X5+65"
+            },
+            "rating":4.7,
+            "reference":"ChIJ1QvGfyhhwokR7d2AIY9f9wk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":131,
+            "vicinity":"107-05 Guy R Brewer Boulevard, Jamaica",
+            "CBG":360810254002,
+            "Radius":146.2633612038
+      }
+]

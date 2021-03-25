@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.747651,
+                        "lng":-73.860238
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7489598303,
+                              "lng":-73.8590258197
+                        },
+                        "southwest":{
+                              "lat":40.7462618697,
+                              "lng":-73.8617237803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Nueva Delicias Peruanas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2647,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112856367380273936821\">Lori Maloney<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIqId5t5rtjne4b3UEkVzYrvhKftnwvDoYHmqIYU9MnLu6SXh5S09ODFMSTvEABAUSKbLJ7Y585BlBJDs6ulcStMhb_5Is_djIkGY8_yqz12S4mbqwHJlZQ_tr44lyfWyh6TBTjpckXFEdioYzaxV9rwLTG99zDWDXOBNxm28wuxF_B",
+                        "width":4026
+                  }
+            ],
+            "place_id":"ChIJ5wEmA8ZfwokRL9K0D80R8jE",
+            "plus_code":{
+                  "compound_code":"P4XQ+3W New York, NY, USA",
+                  "global_code":"87G8P4XQ+3W"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ5wEmA8ZfwokRL9K0D80R8jE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":245,
+            "vicinity":"43-07 104th Street, Queens",
+            "CBG":360810403003,
+            "Radius":144.9868438293
+      }
+]

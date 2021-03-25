@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7362731,
+                        "lng":-73.8602182
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7376596303,
+                              "lng":-73.8587799697
+                        },
+                        "southwest":{
+                              "lat":40.7349616697,
+                              "lng":-73.8614779303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Syed Mamun",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJQS5VQLtfwokRsZBt2bRkmIU",
+            "plus_code":{
+                  "compound_code":"P4PQ+GW Corona, Queens, NY, USA",
+                  "global_code":"87G8P4PQ+GW"
+            },
+            "reference":"ChIJQS5VQLtfwokRsZBt2bRkmIU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"98-23 Horace Harding Expressway, Corona",
+            "CBG":360810455004,
+            "Radius":90.5853771639
+      }
+]

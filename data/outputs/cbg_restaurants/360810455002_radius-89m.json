@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7369538,
+                        "lng":-73.8634945
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7383954303,
+                              "lng":-73.8621009197
+                        },
+                        "southwest":{
+                              "lat":40.7356974697,
+                              "lng":-73.8647988803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Que Riko NYC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116341502317380806793\">Que Riko NYC<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJalPSYs1m_iqhry1BrQsPQoOhtoB5euqEhznDqjptx9bsNo_xmKYK2Iri1smSYfGTbNe8F_KQARp_ev5xXrXRrF5YTnCaOJdVWFwWcKpT6Ek2gQnl7qotVfkD7qotupxOUy5HaMyaADBV3liBYS3nJPjwVLpWQ2ZyHlDPn_5mOcDxu",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJ3z5xikFfwokRSm27Y3Rxm0s",
+            "plus_code":{
+                  "compound_code":"P4PP+QJ New York, NY, USA",
+                  "global_code":"87G8P4PP+QJ"
+            },
+            "rating":4.8,
+            "reference":"ChIJ3z5xikFfwokRSm27Y3Rxm0s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"97-22 57th Avenue, Queens",
+            "CBG":360810455002,
+            "Radius":89.3220985938
+      }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRemNDNVRnEAE",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 4.0,
+        "username": "crystal love",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110720192995507025319/reviews?hl=en-US",
+        "census_block_group": 110010102002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcEk2ZWtRRRAB",
+        "caption": "The bar area looks like it is stuck in the 60's but the drinks and food are good. I will say that a lot of people over 38 go here.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Joshua Jones",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103745947676969268059/reviews?hl=en-US",
+        "census_block_group": 110010102002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRN3V2V1RnEAE",
+        "caption": "If you like mediocre food, 1970s decor, and the geriatric crowd... go ahead... very disappointed for a seafood place on the water.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 3.0,
+        "username": "Min Smith",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105380397019960865353/reviews?hl=en-US",
+        "census_block_group": 110010102002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3d3VxVUFnEAE",
+        "caption": "I cannot say much except that you really need to stay away from this restaurant and the hotel that it is in! YOU WILL BE DISAPPOINTED IF YOU SPEND YOUR MONEY HERE!!!!!!!!!!",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 1.0,
+        "username": "Kevin Lein",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116306770889454664852/reviews?hl=en-US",
+        "census_block_group": 110010102002
+    }
+]

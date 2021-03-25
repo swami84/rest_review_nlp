@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6960178,
+                        "lng":-73.8135209
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6974000303,
+                              "lng":-73.8120786697
+                        },
+                        "southwest":{
+                              "lat":40.6947020697,
+                              "lng":-73.8147766303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taste Of Punjab",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101472690624025292428\">Vijay Sukhraj<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKlANUPl1P9rxrxaJmpaifoy9YHpAOYxeNy0AMzDyI4h_dEEWHvFZS_ELo3asH-9YL2GAc_HDLPMDr_DKV4Kx5TSJdTBkSxZvveEKczbVazlIofLEBBcL8U0-umgEB422gxK36x_bF1mJ87KI_2NOid1VUtP884Re1CZKLR6eKFIDbh",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ_6f148tgwokRpFWeeSkaW_k",
+            "plus_code":{
+                  "compound_code":"M5WP+CH South Richmond Hill, Queens, NY, USA",
+                  "global_code":"87G8M5WP+CH"
+            },
+            "rating":4.1,
+            "reference":"ChIJ_6f148tgwokRpFWeeSkaW_k",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":211,
+            "vicinity":"95-04 Van Wyck Expressway, South Richmond Hill",
+            "CBG":360810152001,
+            "Radius":174.4404488343
+      }
+]

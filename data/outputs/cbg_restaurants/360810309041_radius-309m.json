@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7651054,
+                        "lng":-73.8915758
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7665303303,
+                              "lng":-73.8902715697
+                        },
+                        "southwest":{
+                              "lat":40.7638323697,
+                              "lng":-73.8929695303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Riola Restaurant",
+            "place_id":"ChIJ7QgTVIFfwokRwdy5FkGt0z4",
+            "plus_code":{
+                  "compound_code":"Q485+29 East Elmhurst, Queens, NY, USA",
+                  "global_code":"87G8Q485+29"
+            },
+            "reference":"ChIJ7QgTVIFfwokRwdy5FkGt0z4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Astoria Boulevard, East Elmhurst",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360810309041,
+            "Radius":309.281401942
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7651051,
+                        "lng":-73.8888121
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7664376303,
+                              "lng":-73.8875523197
+                        },
+                        "southwest":{
+                              "lat":40.7637396697,
+                              "lng":-73.8902502803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Star Light Grill",
+            "place_id":"ChIJr_fmIJ5fwokRI8Cyg_Ygl18",
+            "plus_code":{
+                  "compound_code":"Q486+2F New York, NY, USA",
+                  "global_code":"87G8Q486+2F"
+            },
+            "reference":"ChIJr_fmIJ5fwokRI8Cyg_Ygl18",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"80-02 Astoria Boulevard, Queens",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112479764408385457140\">Mudassir Ilyas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ8_tReEe4Ma1YUPQNBG2HvALkmK2usSo7KzkezXClV9WuXEWMCKYOQGTPFayFe81sFI7VFiVj6thE_eQbA2I_fLLzA1vH5KGX7cSM8fh9byS3o-3a1rWK_bssDekiRgbX5YSkMmKLGaOEhh96r8bapzSoaXfjK5QqHsRy_C7PYuOix",
+                        "width":3024
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.0,
+            "user_ratings_total":214.0,
+            "CBG":360810309041,
+            "Radius":309.281401942
+      }
+]

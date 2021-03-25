@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7543562,
+                        "lng":-73.895081
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7557177303,
+                              "lng":-73.8937396197
+                        },
+                        "southwest":{
+                              "lat":40.7530197697,
+                              "lng":-73.8964375803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106530162574097996346\">Zee Stanley<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIkNC2y_LnXeObCsIQ2z4AgAKQDi-cGUL66nXeLr-Kc9y4M1GmqjUjFu5T_ufC8iF8ntL8HdmdxleLRXlJYR73hNGs4e9eAozSpfW1qF1Q6mfsi6LI2WrVfkX0a7nBc9gE-Hu8SbSdx1Wp9rdgxEQEL-_TEumd0urR0rU46mxIA3kRj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ83_KNg9fwokR08Vm9aymoWc",
+            "plus_code":{
+                  "compound_code":"Q433+PX New York, NY, USA",
+                  "global_code":"87G8Q433+PX"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJ83_KNg9fwokR08Vm9aymoWc",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"71-08 Northern Boulevard, Queens",
+            "CBG":360810309024,
+            "Radius":154.930404399
+      }
+]

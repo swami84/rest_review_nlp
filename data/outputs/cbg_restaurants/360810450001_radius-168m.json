@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7148289,
+                        "lng":-73.8071449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7162385803,
+                              "lng":-73.8058047197
+                        },
+                        "southwest":{
+                              "lat":40.7135406197,
+                              "lng":-73.8085026803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Asian Food -PinoyNY.com",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106623882990849129290\">Amelia L<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcl2fYdhV57-d_BHuQL3Htp720kZQbmxJNG4wO4owc3cQtJFQ9pbElD_PVcBW1mi9LAvy3BBjmbU8JKT38InghOtrmKzUn6C9sgsO70YJxdBfJZobQ92IE51sTvsVeBNmrrmQOU3TmLoeC-f8oChe3F9Uk3yW_qwSWnW5VQoseqWyZ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkzD8ruhgwokRidlGVYeswvs",
+            "plus_code":{
+                  "compound_code":"P57V+W4 New York, NY, USA",
+                  "global_code":"87G8P57V+W4"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJkzD8ruhgwokRidlGVYeswvs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":112,
+            "vicinity":"83-35 Parsons Boulevard, Queens",
+            "CBG":360810450001,
+            "Radius":167.517758957
+      }
+]

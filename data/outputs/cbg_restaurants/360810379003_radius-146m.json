@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.757397,
+                        "lng":-73.864443
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7588741803,
+                              "lng":-73.8630767197
+                        },
+                        "southwest":{
+                              "lat":40.7561762197,
+                              "lng":-73.8657746803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Holy Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":808,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115438926550573631611\">The Holy Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIk_V4thxYeDWr5kCGNhBd7980UUCox9xZX_nHWroiw0p83tz1FoUgEr_uc15vlV0j1hVT4SnC65q2YpYQvMlQuLrtmMVH4rhGQIMV-BEEUHaZQfjuK2YSwkGBcN0In6Jddhv8Yl7sphaus__7rC0wivXVunbr4LsnmcArVx5FTus6Y",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJSU8cAwtfwokR_3zN8CDyPwo",
+            "plus_code":{
+                  "compound_code":"Q44P+X6 New York, NY, USA",
+                  "global_code":"87G8Q44P+X6"
+            },
+            "rating":4.6,
+            "reference":"ChIJSU8cAwtfwokR_3zN8CDyPwo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"104-02 Northern Boulevard, Queens",
+            "CBG":360810379003,
+            "Radius":145.7084455293
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7555872,
+                        "lng":-73.8660843
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7569840303,
+                              "lng":-73.8647469197
+                        },
+                        "southwest":{
+                              "lat":40.7542860697,
+                              "lng":-73.8674448803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ur Deli & Grill",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114056027807204673871\">Gplayerz83<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKmy76JQYDOFo-YB18iLVXHQsSczlQw7nHYMzxP73xSqJKUbTB2OJyu06VD2KyMVJBfhPfN-z1pUAXqr7tVWPDU8H8fCpYkoQLIJJW1cdbPQgWM60nWbSBUH0NNbWufRwv0PydNmvEJ6DI2p4mxVn796h1db1bTucIfWpJRune3IdPZ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJryo0eL9fwokR6dEcA-N1zmI",
+            "plus_code":{
+                  "compound_code":"Q44M+6H Corona, Queens, NY, USA",
+                  "global_code":"87G8Q44M+6H"
+            },
+            "rating":1.0,
+            "reference":"ChIJryo0eL9fwokR6dEcA-N1zmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"Corona",
+            "CBG":360810379003,
+            "Radius":145.7084455293
+      }
+]

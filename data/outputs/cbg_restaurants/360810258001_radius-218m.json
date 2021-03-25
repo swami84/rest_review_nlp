@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6965668,
+                        "lng":-73.7838934
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6979743803,
+                              "lng":-73.7824730197
+                        },
+                        "southwest":{
+                              "lat":40.6952764197,
+                              "lng":-73.7851709803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118033054274032917614\">Srikanth Rayala<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7pn1SSoCqzBwp8uYZEY4I6j8djeaoQVpJweZP8BKfIJOPdGG_Re7HmugI1GBoglrtXFpGCVkxOX4CDQ9kVmm82TDW04_JNSWGZlPIbjji759qQa0fmPgT7IfXfevrglHaK3FYSXzfzOjebaXtVxSXgEDflz0dHfQaDZOSLGhUgS3j",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJxWs0syZhwokRTStIpOE-x3I",
+            "plus_code":{
+                  "compound_code":"M6W8+JC New York, NY, USA",
+                  "global_code":"87G8M6W8+JC"
+            },
+            "price_level":1,
+            "rating":3.3,
+            "reference":"ChIJxWs0syZhwokRTStIpOE-x3I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":163,
+            "vicinity":"109-28 Merrick Boulevard, Queens",
+            "CBG":360810258001,
+            "Radius":217.8531708055
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.696816,
+                        "lng":-73.7841471
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6981887803,
+                              "lng":-73.7827314697
+                        },
+                        "southwest":{
+                              "lat":40.6954908197,
+                              "lng":-73.7854294303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hong Kong Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJeXmU9i9hwokROxAy1ZVfsP8",
+            "plus_code":{
+                  "compound_code":"M6W8+P8 Jamaica, Queens, NY, USA",
+                  "global_code":"87G8M6W8+P8"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJeXmU9i9hwokROxAy1ZVfsP8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":53,
+            "vicinity":"10916 Merrick Boulevard, Jamaica",
+            "CBG":360810258001,
+            "Radius":217.8531708055
+      }
+]

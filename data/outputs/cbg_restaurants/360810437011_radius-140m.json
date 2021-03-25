@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7399654,
+                        "lng":-73.8503197
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7412853803,
+                              "lng":-73.8489870197
+                        },
+                        "southwest":{
+                              "lat":40.7385874197,
+                              "lng":-73.8516849803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Donde Nery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJKQ9SPidfwokRrxqUwYr5EXQ",
+            "plus_code":{
+                  "compound_code":"P4QX+XV New York, NY, USA",
+                  "global_code":"87G8P4QX+XV"
+            },
+            "reference":"ChIJKQ9SPidfwokRrxqUwYr5EXQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Van Cleef Street, Queens",
+            "CBG":360810437011,
+            "Radius":140.1361067966
+      }
+]

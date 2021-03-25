@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7396574,
+                        "lng":-73.9195474
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7409982303,
+                              "lng":-73.9181250197
+                        },
+                        "southwest":{
+                              "lat":40.7383002697,
+                              "lng":-73.9208229803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Reyes Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113809759212890564199\">Jorge Andr\u00e9s Veronesi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIQ7dOQsHDS7ejsEHiyL9LhCu0GPB_CUB5xIkdVvGHzrZ5hKWeExgnCWYDTkPScgCXA8yhhXA5RWlfeYtG_zwapRCy6kr5lKV_EHu4mFrPeILJ4rniewfcFcEO6drJq-C5DGiAX20qiUePhc48AzyyntJEnXzk-teJZB1gYRMlWELQ",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ0_CdKcVhwokRpTenES4nF6Y",
+            "plus_code":{
+                  "compound_code":"P3QJ+V5 New York, NY, USA",
+                  "global_code":"87G8P3QJ+V5"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJ0_CdKcVhwokRpTenES4nF6Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":110,
+            "vicinity":"4754 46th Street, Queens",
+            "CBG":360810185022,
+            "Radius":102.1744064684
+      }
+]

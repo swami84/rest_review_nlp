@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.758171,
+                        "lng":-73.8590791
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7595199803,
+                              "lng":-73.8577301197
+                        },
+                        "southwest":{
+                              "lat":40.7568220197,
+                              "lng":-73.8604280803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"111 Deli Stop Corp",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114056027807204673871\">Gplayerz83<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIhD_r0OPqSXuT-ngFptYUhdyJqSrkiXMxr0-AW6sVf5_30kRXUQubk5h5UavOl6rhpI5vHyLVTEf3TygAD_pQJZ0HBRZyEr5j6OtCwPK2cX9Tql7wFsvweOLgVi7uld7cGsmeoQY9s_J9ECInLtD530E7yvNm3m9KBDW9NOZ8emf5z",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJTyzC8-lfwokRkveBjFcVaeQ",
+            "plus_code":{
+                  "compound_code":"Q45R+79 New York, NY, USA",
+                  "global_code":"87G8Q45R+79"
+            },
+            "rating":4.8,
+            "reference":"ChIJTyzC8-lfwokRkveBjFcVaeQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"110-21 Northern Boulevard, Queens",
+            "CBG":360810373002,
+            "Radius":219.2970873822
+      }
+]

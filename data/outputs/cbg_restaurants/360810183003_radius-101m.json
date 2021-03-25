@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7447563,
+                        "lng":-73.9187923
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7462044303,
+                              "lng":-73.9174004197
+                        },
+                        "southwest":{
+                              "lat":40.7435064697,
+                              "lng":-73.9200983803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Firefly New York",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106553213549619862040\">Firefly New York<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUjLrn0kP_sEop3ARGmmF4G2Zf3eE5tUEYYX3FIHeuZDYa9ZbTLxRaC2RyOHg2a4jFHH1FzulpnWQSy6Y64VR7wj4qaFHk51UUHNgAnC-TZIN1f_Y3kV0M7u-_tjmbk5B3RUhn4Ei5LofsPVnCYpppgOpjwHUwtNYi_ycyUT-J-GkM",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJ6wYZtthewokRARyB-U9IbJ8",
+            "plus_code":{
+                  "compound_code":"P3VJ+WF Sunnyside, Queens, NY, USA",
+                  "global_code":"87G8P3VJ+WF"
+            },
+            "rating":4.4,
+            "reference":"ChIJ6wYZtthewokRARyB-U9IbJ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":196,
+            "vicinity":"45-12 43rd Avenue, Sunnyside",
+            "CBG":360810183003,
+            "Radius":100.603087135
+      }
+]

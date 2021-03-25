@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7365414,
+                        "lng":-73.8576653
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7379162803,
+                              "lng":-73.8562311197
+                        },
+                        "southwest":{
+                              "lat":40.7352183197,
+                              "lng":-73.8589290803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116052024422481077259\">Tahir Hussain<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJMes2879oUtnIqKSiZ0rrsTFZDDqrT-IIPpGW0RsF-WY7nTuWjtO7FasHhN5bJfM5A4iXVmF2oYMNtDoPIZUuMh6G77hxsTzhgJ0i5va8vKlgB3WbJxCiOhf4OWUE1iAFSEhxDRw3T4yF2zf5I5BZoWejzr2Tzg8Vq8eJcbT5KLMGj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJads0VyxewokREzwiJdfjrNs",
+            "plus_code":{
+                  "compound_code":"P4PR+JW New York, NY, USA",
+                  "global_code":"87G8P4PR+JW"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJads0VyxewokREzwiJdfjrNs",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":249,
+            "vicinity":"9925 Horace Harding Expressway, Queens",
+            "CBG":360810437021,
+            "Radius":145.0515948443
+      }
+]

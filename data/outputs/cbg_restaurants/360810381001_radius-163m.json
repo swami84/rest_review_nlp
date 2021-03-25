@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7576377,
+                        "lng":-73.8598253
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7590796303,
+                              "lng":-73.8585134197
+                        },
+                        "southwest":{
+                              "lat":40.7563816697,
+                              "lng":-73.8612113803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Fogon Costeno",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2848,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117763847675905971120\">El Fogon Costeno<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK93SrZBEatRqkY1YVUwVNz4TsmR7jDEWeIKCMev3UK-yDZPtFBmQN2sKPoCvSDQpp4EUKLnSY1iDBFHOMnneqbwJ0HfOHyetp1nF4HeXocVtnYcx7TlrIRKyhOtQd1ENF6C3IZDD_yu-KulHLe8WB-BDbG3NS8lz2cbmCSwwDqO2LB",
+                        "width":4288
+                  }
+            ],
+            "place_id":"ChIJPW1mAepfwokR35sAyNNj6e0",
+            "plus_code":{
+                  "compound_code":"Q45R+33 Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q45R+33"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJPW1mAepfwokR35sAyNNj6e0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":380,
+            "vicinity":"10912 Northern Boulevard, Flushing",
+            "CBG":360810381001,
+            "Radius":162.6021394884
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.758171,
+                        "lng":-73.8590791
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7595199803,
+                              "lng":-73.8577301197
+                        },
+                        "southwest":{
+                              "lat":40.7568220197,
+                              "lng":-73.8604280803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"111 Deli Stop Corp",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114056027807204673871\">Gplayerz83<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIEldH3xRpoxLRnQOkRxkllCeNOFOYvFFmffKBvH-YW2JafPqZbeFcsO5tk4C9ktuRqMG1Kp4ejvB2kUJlH7_hd-i3i_s4UCRGInK_3Y-Xczo5aLUQMnP0S2jO7_lH4sNS-kVQvBXbxbz0Dg5r2LCE0sSNJaSFRvWJ1RFicWx4DlNrE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJTyzC8-lfwokRkveBjFcVaeQ",
+            "plus_code":{
+                  "compound_code":"Q45R+79 New York, NY, USA",
+                  "global_code":"87G8Q45R+79"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJTyzC8-lfwokRkveBjFcVaeQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"110-21 Northern Boulevard, Queens",
+            "CBG":360810381001,
+            "Radius":162.6021394884
+      }
+]

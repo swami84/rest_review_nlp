@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.758034,
+                        "lng":-73.915665
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7593280303,
+                              "lng":-73.9141998197
+                        },
+                        "southwest":{
+                              "lat":40.7566300697,
+                              "lng":-73.9168977803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Alan's Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJuXNJp45fwokRylNUvBdk0lk",
+            "plus_code":{
+                  "compound_code":"Q35M+6P Astoria, Queens, NY, USA",
+                  "global_code":"87G8Q35M+6P"
+            },
+            "reference":"ChIJuXNJp45fwokRylNUvBdk0lk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"3176 44th Street, Astoria",
+            "CBG":360810153002,
+            "Radius":124.2677987989
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7525665,
+                        "lng":-73.8594169
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7538826803,
+                              "lng":-73.8581983697
+                        },
+                        "southwest":{
+                              "lat":40.7511847197,
+                              "lng":-73.8608963303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The King Of Empanadas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101719438499738341898\">The King Of Empanadas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwITN8SD4UujsVsMmuDS9JHqa0EwA8tK7TDHpQU7C4TAzmxFvsDuWOKCKH7aMFopHzye57ySnv0BCtjTUBXsvKVP0G2wJLvggk_5qt4drMqPur4F5qRUQky1S5w4DS4ROBBSu-zQXAikH2OqUe6CvtmeKDYVfHOHlq_HmBsUnH2gqYaA",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJleoV_sNfwokRBF9A0KIMQzM",
+            "plus_code":{
+                  "compound_code":"Q43R+26 Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q43R+26"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJleoV_sNfwokRBF9A0KIMQzM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":230,
+            "vicinity":"37-55 108th Street, Flushing",
+            "CBG":360810403001,
+            "Radius":165.6585902616
+      }
+]

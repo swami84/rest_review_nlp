@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMjZDanJ3RRAB",
+        "caption": "Very tasty sandwich :)",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Riyo Tanaka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107477262489458650620/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdzVxY2RREAE",
+        "caption": "This week is Mama Mei's soft opening at the  The Block DC. The staff were helpful in answering my questions about the menu and informed me that they are offering a BOGO offer on a limited menu this week (week of Aug 31). I opted for the Taiwanese hot chicken sandwich and classic banh mi. Both were generously portioned, super yummy, and came with fries that were fried to perfection and seasoned beautifully. It held up its crispiness despite takeout.  I loved the Taiwanese hot chicken sandwich in particular - the crisp was everything and there was a spice kick, but not overwhelming. The BOGO makes it an absolute steal but even at regular menu price it is a great value. Hand sanitizer bottles were throughout the food hall and at the register, and plexiglass panels were also at the register.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-24",
+        "rating": 5.0,
+        "username": "Michelle Chan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108179144347675981399/reviews?hl=en-US",
+        "census_block_group": 110010101002
+    }
+]

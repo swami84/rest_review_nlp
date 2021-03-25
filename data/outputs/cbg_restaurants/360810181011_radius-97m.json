@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7457048,
+                        "lng":-73.9240237
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7469697803,
+                              "lng":-73.9226901697
+                        },
+                        "southwest":{
+                              "lat":40.7442718197,
+                              "lng":-73.9253881303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"The Brother's Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117317887223797214303\">Nora Frydman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwImrtI-oIs6rKjbwJY52XNnQGjoYuuErz7WI3KXMoiSWdOV_nhZgOLgGN5NlzpoywEuvLrN0Tmc7_jErQ-MJMWASsIbs5XIcMVvoRe7jr94kFzyl-Oli5drbff_meW1qPG2mwLlKY5en_3eBLNGXp6kwrSPkXprvWGmHn5ljS9UtTrr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJe_MUDSdfwokRuA_xoTfWpVE",
+            "plus_code":{
+                  "compound_code":"P3WG+79 Sunnyside, Queens, NY, USA",
+                  "global_code":"87G8P3WG+79"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJe_MUDSdfwokRuA_xoTfWpVE",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":243,
+            "vicinity":"3949 43rd Avenue, Sunnyside",
+            "CBG":360810181011,
+            "Radius":97.2797662222
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7456933,
+                        "lng":-73.9241813
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7469859303,
+                              "lng":-73.9228371197
+                        },
+                        "southwest":{
+                              "lat":40.7442879697,
+                              "lng":-73.9255350803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Always Sunny Deli & Grocery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3999,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107283522749885133160\">Always Sunny Deli &amp; Grocery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3QMRf6ysUCZYvDkXZrWcj4IU424pK1xYwZrvPYd1sfVmPdoss-aUZFMvHOFFgncFRwQLHM5sQwJigKcoG7qGQGWSoUIzBlileAdBr3oiC196eScyPmGsgcEx2J0qRiclxNVWv9B416tK_Mv1qSWyizI6GOIb_Wa1Ao4RA9QanFf36",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJP9Vl9ddewokRiuTXdAKQNts",
+            "plus_code":{
+                  "compound_code":"P3WG+78 Sunnyside, Queens, NY, USA",
+                  "global_code":"87G8P3WG+78"
+            },
+            "price_level":null,
+            "rating":3.7,
+            "reference":"ChIJP9Vl9ddewokRiuTXdAKQNts",
+            "scope":"GOOGLE",
+            "types":[
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":58,
+            "vicinity":"3945 43rd Avenue, Sunnyside",
+            "CBG":360810181011,
+            "Radius":97.2797662222
+      }
+]

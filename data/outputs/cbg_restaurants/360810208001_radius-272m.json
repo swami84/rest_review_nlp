@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6974421,
+                        "lng":-73.8108869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6987376303,
+                              "lng":-73.8098173197
+                        },
+                        "southwest":{
+                              "lat":40.6960396697,
+                              "lng":-73.8125152803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gul M Corp",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110859198551319660437\">Vlad Bolocan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJCqmwgCI35SlxeQNln4GKSkvNIk7655dVz0-Mo4FTxNehQhKbmzhmfOOv2sxIRquWg7oRUKhxDLbAo0KGZgY6pqDPlPgfxyYJDO8nYVGTZdzFEIfi7zStSov5aU69uxWBXGshJHp-JXQydJxSf11fg2-NUVb9_-xgQe_RXbDABH5yh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJk2_j5M5gwokRAnB6rVhbMAs",
+            "plus_code":{
+                  "compound_code":"M5WQ+XJ New York, NY, USA",
+                  "global_code":"87G8M5WQ+XJ"
+            },
+            "rating":1,
+            "reference":"ChIJk2_j5M5gwokRAnB6rVhbMAs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"138-62 94th Avenue, Queens",
+            "CBG":360810208001,
+            "Radius":271.6542086609
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6975323,
+                        "lng":-73.8094706
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6988562303,
+                              "lng":-73.8081579197
+                        },
+                        "southwest":{
+                              "lat":40.6961582697,
+                              "lng":-73.8108558803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"E & J Deli & Grill Corp.",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115070028389632132130\">kb1mzb<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwISxFxRv3ympTy48DNU1Sd0K4k9lnS5PAUmg2ON75SMr5RaBLhq0VX5rhoXHu5gkwLPF_wR4ZxE87hPdj0umJujkpzisloAjAh9kxfu5owk0yTDM2L9neXTjXvrXEqbMVRg95ilQlYMbNDWHzvPQwY_d2A6qoH10LjwvUsCt4Eb2zJ2",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJM_GETc5gwokR0ds4e0zx3l4",
+            "plus_code":{
+                  "compound_code":"M5XR+26 Jamaica, Queens, NY, USA",
+                  "global_code":"87G8M5XR+26"
+            },
+            "rating":5,
+            "reference":"ChIJM_GETc5gwokR0ds4e0zx3l4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"143rd Street, Jamaica",
+            "CBG":360810208001,
+            "Radius":271.6542086609
+      }
+]

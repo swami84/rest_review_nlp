@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7607515,
+                        "lng":-73.8730704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7620856303,
+                              "lng":-73.8716419197
+                        },
+                        "southwest":{
+                              "lat":40.7593876697,
+                              "lng":-73.8743398803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Kuchara",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":769,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104491569039625653759\">La Kuchara<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIdn2EDPEHhAlKJI0Mxlz5rnYT44Sl5G-Qn0wMxHFhQdvrREafTpdtBXlsVgzi5XkC8PgPk23F1scWvDqpVI0XEcCJYgKN0xqqYgmh6YsciXR2Mr50TWRexJyydEFyIHokGplsaiJjSMGyKnqBpU4BAjLsUYnjJ3p4SpYd8YvbtnLCE",
+                        "width":1366
+                  }
+            ],
+            "place_id":"ChIJVYXnQ5ZfwokRbeGEs0Su9oM",
+            "plus_code":{
+                  "compound_code":"Q46G+8Q New York, NY, USA",
+                  "global_code":"87G8Q46G+8Q"
+            },
+            "price_level":2.0,
+            "rating":4,
+            "reference":"ChIJVYXnQ5ZfwokRbeGEs0Su9oM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":326,
+            "vicinity":"95 07 31st Avenue, Queens",
+            "CBG":360810353001,
+            "Radius":166.1162314259
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7604945,
+                        "lng":-73.8724979
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7619286303,
+                              "lng":-73.8711655697
+                        },
+                        "southwest":{
+                              "lat":40.7592306697,
+                              "lng":-73.8738635303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hamburguesas El GORDO",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2320,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108644702089575467522\">NYC PAINTBALL GROUP<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKTMwGW7ogQcMNIs-8vnWNAlZgIt6cNy0D-kSK08LYWC0MjiTSbOly6RCVYS_mh6dRdxlgJw_k3XR5BMseW5UFVI-TM0lj1ukNR4-4LQ1FSLX5B_wpnvuvnt2YbR9copGV9DRrBEFQZ9GXwUjrRV2aJuki6rTgkg0Ao_FuIObieoAfP",
+                        "width":3088
+                  }
+            ],
+            "place_id":"ChIJtY87_T5fwokRrSzBzzROjek",
+            "plus_code":{
+                  "compound_code":"Q46H+52 Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q46H+52"
+            },
+            "price_level":null,
+            "rating":5,
+            "reference":"ChIJtY87_T5fwokRrSzBzzROjek",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"96-08 31st Avenue, Flushing",
+            "CBG":360810353001,
+            "Radius":166.1162314259
+      }
+]
