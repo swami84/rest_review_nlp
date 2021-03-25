@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHR2cjFRRRAB",
+        "caption": "Hidden gem for good, healthy (and cheap) eats.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Lynn Hidalgo",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105789449715663173629/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNb2REcmJREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Jason Young",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108403157785753028846/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMC16YWNBEAE",
+        "caption": "Good selection of lunch foods they also serve breakfast sandwiches, coffee etc. Decent prices and Mimi has great customer service! I will definitely be back",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Amber",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102462604741097135441/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    }
+]

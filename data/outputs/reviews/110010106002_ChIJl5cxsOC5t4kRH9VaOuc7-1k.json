@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cC1MYTh3RRAB",
+        "caption": "Phenomenal margarita pizza. Cozy place for a nice little date night. Ravioli is good too. Good pricing is very reasonable.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Marcus M",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104930597036680668352/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LUpid0NBEAE",
+        "caption": "Beautiful place with heart and soul from Italy. Restaurant and market where you can buy homemade pasta and other authentic food. We had different pizzas and my favorite was pesto and walnuts pizza. We also had baba for dessert and it was out of this world! Definitely a great asset to the DC dining, highly recommended !",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Bogdana Shkil",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102439254011226370943/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d0lqUlNREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Jose Soler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103493325647122216373/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ei1ETzZ3RRAB",
+        "caption": "This place is legit \ud83d\udc4c Love their pizza. They deliver quality product",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Shahnaz Nia",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101739173306624820050/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MWQ2dHlnRRAB",
+        "caption": "directly from the pizzeria MENOMALE  the real Neapolitan pizza! in the brand new MENOMALE NOMA pizzeria, pasta and pizza from Italia and many typical Italian products are also available handmade pasta is delicious! Ciao!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "GIULIX 1990",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112649231547188607170/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LVl2dERBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Kate Janssens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105248577231982785813/reviews?hl=en-US",
+        "census_block_group": 110010106002
+    }
+]
