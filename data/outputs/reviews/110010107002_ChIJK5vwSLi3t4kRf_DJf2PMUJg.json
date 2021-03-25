@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzX1o2QkhnEAE",
+        "caption": "Nice",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Dele Omoshule",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115117667997569333790/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzeWVDcS1RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Harold Taft",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106164168379819905098/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzMHRhMndRRRAB",
+        "caption": "We enjoy this deli! The owner is meticulous, methodical, and efficient. If you are looking for \"gourmet,\" this isn't the place for you. However, if you are looking for freshly prepared salads and \"diner-style\" food at a very reasonable price, you should give it a try. It isn't shiny in any way, and they only accept cash. It is very clean, and the menu is extensive. I enjoy the freshly prepared tuna salad, and I order my fries extra-crispy. I have noticed many people enjoying their breakfast sandwiches. You can sit-in or carry out. It has been with the same owner for the last three years, and it was under different management for 20 years before that. There seems to be a steady stream of business: customers working inside of the building, local construction teams, clients of the building, and others wandering in. Support a local business, and give it a go!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Front Desk",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100404821683648446332/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3NHFmdm1RRRAB",
+        "caption": "My home fries were VERY hard Like they were cooked on Monday & reheated several times... When I let the owner know he was very very rude. Never going back.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Ebonee Pittman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111012824772098935903/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnLWFDN253RRAB",
+        "caption": "Great food and efficient work pace, one of the best fish I've ever tasted, plus reasonable prices and recommended.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Nate Johnson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117272959756663407860/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRei1uNWZBEAE",
+        "caption": "James and Monica are amazing! Terrific food and quick!",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Jared Progebin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110141212364715550138/reviews?hl=en-US",
+        "census_block_group": 110010107002
+    }
+]

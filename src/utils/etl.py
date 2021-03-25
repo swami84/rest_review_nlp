@@ -95,9 +95,11 @@ class ReviewScraper():
 
     def get_reviews(self, N, url,cbg,place_id):
         self.url_setup(url)
+        
         n = 0
         all_revs = []
-        while n < N:
+
+        while (n < N):
 
             reviews = self.get_reviews_block( n,cbg)
 
@@ -159,6 +161,7 @@ class ReviewScraper():
         item['n_photo_user'] = n_photos
         item['url_user'] = user_url
         item['census_block_group'] = cbg
+
 
         return item
 
