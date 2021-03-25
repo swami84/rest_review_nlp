@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMVBmbGl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Honey Bunny",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108563176850164449026/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdWJyMXZnRRAB",
+        "caption": "Amazing",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Ethan Cohen",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102122111296431310600/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrMWVqelJ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Sharika Hagan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106978650726194613852/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROVotUWVREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Francis Lenard Samonte",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104624230732849440443/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneDlXcWRnEAE",
+        "caption": "They close before closing but the best drunk food in dc",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 3.0,
+        "username": "Jordan Griffin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117162662455742778649/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbWRxbXZ3RRAB",
+        "caption": "Love this place! They start early also. I ate there at 10am and everything was all fresh and ready. It's a little pricey like everything else in Wash DC.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Keith Brown",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103565331341327827155/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cFpYbXJ3RRAB",
+        "caption": "overpriced, and the sushi is not very fresh",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 2.0,
+        "username": "Frank D",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104559609526863960964/reviews?hl=en-US",
+        "census_block_group": 110010108003
+    }
+]
