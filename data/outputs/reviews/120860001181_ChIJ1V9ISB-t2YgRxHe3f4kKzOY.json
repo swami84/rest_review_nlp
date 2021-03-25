@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eV9PMzh3RRAB",
+        "caption": "This place is Trush , the workers here soo rude ,  I dont recommend anybody",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Roblox World",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113803103211597379585/reviews?hl=en-US",
+        "census_block_group": 120860001181
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNValpmdFBnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Sergio Urbina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117102399168692831553/reviews?hl=en-US",
+        "census_block_group": 120860001181
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrajVMYXdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 3.0,
+        "username": "jose fernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100630790649405768189/reviews?hl=en-US",
+        "census_block_group": 120860001181
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaGRuMEN3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Adolfo Mendez Collado",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100273552366942249500/reviews?hl=en-US",
+        "census_block_group": 120860001181
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3amZYLVNnEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Eliana Figueiredo",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113127937653422275526/reviews?hl=en-US",
+        "census_block_group": 120860001181
+    }
+]

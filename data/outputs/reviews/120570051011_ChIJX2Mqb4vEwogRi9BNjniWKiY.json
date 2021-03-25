@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZ2JQYkFREAE",
+        "caption": "i wanted to post a food pic but it looked so good i couldn't stop. looking forward to coming back with my coworkers. it has a good atmosphere. feels like a place in los angeles i loved.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "silas rocha",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107671875654596188748/reviews?hl=en-US",
+        "census_block_group": 120570051011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZNnNXMjFBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Frank Ospina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103610506873193134277/reviews?hl=en-US",
+        "census_block_group": 120570051011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnaEpHUnZBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Harrison Cavanaugh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109513495517722161598/reviews?hl=en-US",
+        "census_block_group": 120570051011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnbnB1bXRRRRAB",
+        "caption": "Great company with great restaurants.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Aldo Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117784047304755742309/reviews?hl=en-US",
+        "census_block_group": 120570051011
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVbjlQd0hREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Bogdan Naste",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105450614262149743299/reviews?hl=en-US",
+        "census_block_group": 120570123013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvaUlTR0hBEAE",
+        "caption": "Great authentic tacos",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "M T",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110353855957088608553/reviews?hl=en-US",
+        "census_block_group": 120570123013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbnNYNVp3EAE",
+        "caption": "Not to good  !",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 2.0,
+        "username": "Victor J Perez Contreras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108872145185673035439/reviews?hl=en-US",
+        "census_block_group": 120570123013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnb2FLTzVBRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Erendira Bello",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114490474771706266442/reviews?hl=en-US",
+        "census_block_group": 120570123013
+    }
+]
