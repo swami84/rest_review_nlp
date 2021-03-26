@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c1pURFZREAE",
+        "caption": "Food is awesome and the people are even better.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Maurice Turner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111341641097164054731/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OWR1eEVnEAE",
+        "caption": "Fantastic food, great Customer service and phenomenal energy.  All around a wonderful experience!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Let me tell you a Story",
+        "n_review_user": 54,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106765033416976910760/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dGJUazNnRRAB",
+        "caption": "Delicious food!! Pizza was Amazing!!! I will definitely keep coming back!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Mae Mae J",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102159217748673320549/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dGVDam9BRRAB",
+        "caption": "I went there to get the cheezy kale tacos. If I hadn\u2019t seen the ingredients myself, I would have never known it was raw vegan! All of their food is AMAZING, especially the desserts. If you are looking for good food that\u2019s good for you, look no further!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Tenisha Godley",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101982574965140841905/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MVotOUpnEAE",
+        "caption": "Amazing experience, the food is amazing! Everyone is so friendly and kind! Definitely my favorite vegan place to visit!!! Check them out, you won\u2019t be disappointed!!!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Astrid Jackson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109398214979291739879/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MVlfNGx3RRAB",
+        "caption": "Great customer service and the food is amazing!!!! Makes you not even miss the other food",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Aniyah Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104463884955867008850/reviews?hl=en-US",
+        "census_block_group": 131210114231
+    }
+]

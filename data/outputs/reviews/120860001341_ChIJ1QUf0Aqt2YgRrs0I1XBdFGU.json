@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cU9fR0JREAE",
+        "caption": "were you in Aventura mall in the food court before??",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "James Balla",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104284597227323546247/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eE1mdjBRRRAB",
+        "caption": "Ok if ur hungry",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Mr Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103756681859592750610/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTaS1ldmJREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Jarrel O'donoghue",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112374696666655082757/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTN3BxSXZ3RRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Jorge S\u00e1nchez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102390547771706937459/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpbFA2N25nRRAB",
+        "caption": "The food is cold.I asked to warm it up and they said that don't have a microwave...",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Diana B",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116930670301094257495/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcmRDNEhREAE",
+        "caption": "I've been here just a few times and only had empanadas and some other pastelitos so far. I want to try more Cuban food at El Tropico because everything I tried was great. The empanadas were the best I've ever had. I gave 5 stars based on that and the fantastic service. The girls working there were wonderful. I hope they reopen soon. I'm hoping the owner or management responds here and says if and when they plan to open back up.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Miguel Stahl",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109382320378729614739/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4MXZtVk1nEAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Genesis Reyes",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102771123131542961727/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4MEplSWFnEAE",
+        "caption": "The girl at the counter was incredibly rude. June 21st (12:23pm). I was with my 7 year old daughter. I will never eat tgere again.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Andy Cejas",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105466978924390134223/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOXZ1Wnl3RRAB",
+        "caption": "For it being my first time to Miami, the food here was on point, I will definitely recommend it to everyone",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "mrphondeth83",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117741556042044254565/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    }
+]

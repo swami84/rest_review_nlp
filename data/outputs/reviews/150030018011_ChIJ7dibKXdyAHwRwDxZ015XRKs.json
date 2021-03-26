@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M19IYWhRRRAB",
+        "caption": "Good stuff!",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Bruce Lazenby",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114951950726699247730/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ek4zekxnEAE",
+        "caption": "Stupid expensive. $5.95 for a single scoop in a cup. Won't go back.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Wayne Burton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108188376447543906590/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNmRfbjNnRRAB",
+        "caption": "Has good ice cream flavors. A bit on expensive side, which is to be expected with Haagen Dazs",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Serge I. S.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106184455859260372368/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBOGJPdkFnEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Galen Ai",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107467122667578548471/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROFlLMURBEAE",
+        "caption": "good place to get ice cream while walking around waikiki and going to the beach.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Philip Suh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112502238614808979046/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnejlfclh3EAE",
+        "caption": "The prices are ridiculous here, a pint here costs around $4 more than one at the ABC store in the same building. It's the same ice cream. Service was passable.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Sean Kennedy",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107269197295970060439/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRZzR5dmpnRRAB",
+        "caption": "Absolutely the worst customer servive...STEVE S. IS SO BAD I'm never going there again, McDonalds  across the street  is better  ..",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Allen Kayler",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117481271457406680844/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdE02VEp3EAE",
+        "caption": "The best ice cream shop!",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Jair Arancel",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114335726377865520095/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcUlfb3FBRRAB",
+        "caption": "The great ice cream you expect and friendly service.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Krista Madden",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115411535388928846382/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbklmVUxnEAE",
+        "caption": "Well-staffed for rapid service despite many customers.  Great location.  Typically good ice cream.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Steven Prior",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118382356179610570307/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    }
+]

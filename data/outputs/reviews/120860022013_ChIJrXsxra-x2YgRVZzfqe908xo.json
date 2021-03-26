@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVXzd6cHNRRRAB",
+        "caption": "Very cuuuuute bar located inside the St. Roche Market at the prestigious Miami Design District.  They have a nice menu with many different cocktails, drinks, wines, and more!  I ordered a glass of Malbec and it was ok.  The service was fine and I liked how clean everything was and how much effort the guys were putting to maintaining the place neat.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Your Helpful Wendy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102057886217965372538/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVamZXdENREAE",
+        "caption": "This bar serves a huge selection of signature cocktails,wine and more...nice staff very attentive,good price ,great location,nice atmosphere...clean and confort",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "jusy Duran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105945808518107487838/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3OHYtUkFnEAE",
+        "caption": "The fish on my ceviche was way old mixed with fresher fish. Also, expensive for the portion. Only two people on the bar for a full house. Poor guys ! After spending over one hundred dollars, I had to go eat somewhere else. Not planing to go back.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Arnaldo Hernandez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100827417701910223915/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    }
+]

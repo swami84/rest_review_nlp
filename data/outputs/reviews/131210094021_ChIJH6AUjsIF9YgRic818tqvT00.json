@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTNE9HMllREAE",
+        "caption": "Hobo city up in here.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 2.0,
+        "username": "Jimmer John",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111955429066226406403/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRc0x1VFF3EAE",
+        "caption": "I enjoy coming to this Circle K. The man who works at night is wonderful. His name is \"Z\". He treats  everyone that comes in with so much respect and kindness! I love this guy! I have been a loyal customer because of him and consider him a good friend. The Circle K is lucky to have him. They should really thank him.  He deserves it.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Drew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112905727979060593198/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cXBfdVJREAE",
+        "caption": "Awesome location. And clean gas station.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Shan Sultan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100814375466370546612/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBalo3enFBRRAB",
+        "caption": "Zere and the younger guy were talking. The younger guy stopped  looked to get what I needed behind the counter. He didn't see it. Then he just told me I'm Out I'm Out and continued his conversation. He waved his hand in that get out motion. TBH I was shocked. As I'm walking out the door Zere picks up what I asked for. I told him good job but no thanks and I'll never come back. But they can come to my job and get great service anytime. Waffle House 1726",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "MiMi Barbie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113109251948977531842/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneDd5SWJREAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Carlos Bailey",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117120131338258327045/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    }
+]

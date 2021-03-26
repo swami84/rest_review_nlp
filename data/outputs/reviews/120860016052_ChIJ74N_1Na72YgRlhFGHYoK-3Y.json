@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzLVlxcnB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Will Greenier",
+        "n_review_user": 20,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118415524735770649899/reviews?hl=en-US",
+        "census_block_group": 120860016052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVcTY2UTZ3RRAB",
+        "caption": "Food was  disgusting, steak tasted like it was spoiled and left in  raw juices. Rice was over cooked and hard. Staff kept pushing for dessert items when all we wanted was to leave...",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Pedro Chavez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111095474611593650017/reviews?hl=en-US",
+        "census_block_group": 120860016052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVODdyYllREAE",
+        "caption": "(Translated by Google) The best restaurant, delicious food and very nice service  (Original) El mejor restaurante comida deliciosa y a atenci\u00f3n muy agradable",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "More Hecheverria",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117979156283283850348/reviews?hl=en-US",
+        "census_block_group": 120860016052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVODdyalZnEAE",
+        "caption": "I love the food here everything is delicious!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Gorgeous Godess",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108937494875372355966/reviews?hl=en-US",
+        "census_block_group": 120860016052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVczRLOUJREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "hector ayala",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112241747851374240774/reviews?hl=en-US",
+        "census_block_group": 120860016052
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnMWNpQTdRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Dubs Dollah",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104354656389164317357/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBX0ttRHlnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Rob Fearon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114012334805059754608/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncC0tUmtnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "nicholas wiggins",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104804249179524141810/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRckl6Sk5BEAE",
+        "caption": "When we arrived there was only 1 other table in the restaurant yet it took well over an hour to get our food. They didn\u2019t have 2 of the bottles of white wine we ordered.  Took 30 minutes to get bread for our kids who sat waiting for their food. Food was only okay. Service was not good. Very disappointing and overpriced for what we experienced. Avoid, we won\u2019t be back.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "agyork25",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102450802075574437945/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cC1TSHhBRRAB",
+        "caption": "Awesome food and excellent personal service.  This place is great.  It's hard to find good Italian in the Atlanta area.  Try the mussels and the squid ink spaghetti..",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Don Robinson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111944747197335680340/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRdzdyN2VnEAE",
+        "caption": "Food was amazing.Caprese is a must and the mussels was delicious. I had the Black ink spaghetti which was really good and had nice spicy kick to it which I was not expecting. My wife had the lamb ragu which she loved.the Tiramisu was fluffy and melts in your mouth.finally enjoy the limoncello!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Johann Stander",
+        "n_review_user": 43,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117181135789889796733/reviews?hl=en-US",
+        "census_block_group": 131210094021
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrcTR5eTVnRRAB",
+        "caption": "Amazing drinks and fantastic staff!! Food is alwys fresh and Served hot!! I would love to recommend this place  to my friends and family.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Frances Greenwalt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107717697268940500594/reviews?hl=en-US",
+        "census_block_group": 131210119002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBdUtPYVhnEAE",
+        "caption": "Very nice place to watch a game and have a drink downtown",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "james Hardwick",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101657116105642770710/reviews?hl=en-US",
+        "census_block_group": 131210119002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMGJUNkh3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Jane Doe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112770754385015278932/reviews?hl=en-US",
+        "census_block_group": 131210119002
+    }
+]

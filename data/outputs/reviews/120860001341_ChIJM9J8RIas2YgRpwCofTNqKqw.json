@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZbjVqaUR3EAE",
+        "caption": "(Translated by Google) I really liked your seafood meals ...!  (Original) Me gust\u00f3 mucho sus comidas del mar...!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Miami Latin America Capital",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116230114843376357720/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJbDYydXd3RRAB",
+        "caption": "(Translated by Google) Riqu\u00edsimo all  (Original) Riqu\u00edsimo todo",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Ana Zamarron",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111729149737604844498/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURncmZtWldnEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Maria Teresa Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112919097520769099256/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnamNYVzNnRRAB",
+        "caption": "Snackcorner in a casino, food is ok, drinks are cheap.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 3.0,
+        "username": "Marco Koevoets",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117619590445748029024/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    }
+]

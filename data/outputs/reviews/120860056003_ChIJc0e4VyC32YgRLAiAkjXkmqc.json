@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aHNQTXl3RRAB",
+        "caption": "Pretty good buffet in the Los Angeles area! There were enough items (and not too much) and for 12.95$ it's worth it. The quality of food was decent too!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Phyllis Perry",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107425676536793371088/reviews?hl=en-US",
+        "census_block_group": 120860056003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpaWVlZURREAE",
+        "caption": "Incredible place! Might be the best steakhouse I've ever been to. Atmosphere made it seem like came out of a movie. The fries that came out right away were killer. Waiter we had was top notch. Tried the steak, lamp chop and salmon; all were some of the best I've ever had. Probably the best part was the piano player that night! He played renditions of popular songs that you would hear on the radio such as Justin Timberlake and Ariana Grande",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Sara Barnes",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114398349366040311313/reviews?hl=en-US",
+        "census_block_group": 120860056003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpMnBPX2p3RRAB",
+        "caption": "This is one of my favorite steak houses. We got a porter house steak and it was cooked perfectly. I love how they cook it first, bring it out, then take it to the back to cut it for us. It was perfectly cut. They also gave us the duck fat fries on the house. It is seasoned with three different seasonings and comes with three different sauces. It went very well with the meal. After the meal we had a banana tart that was delicious. I do not like overly sweet desserts so this was perfect!! Our server was also very wonderful and helpful. I dont remember his name but next time I go I will definitely request him...think it was JP or JB....",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Drake Maverick",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114538591324738868410/reviews?hl=en-US",
+        "census_block_group": 120860056003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURja0xEUkZBEAE",
+        "caption": "(Translated by Google) KAE is a sushi restaurant with its own personality and the achievement of a very special and attractive fusion that characterizes the various creations of its dedicated and friendly chef, Chef Landa. I highly recommend it !!  (Original) KAE es un restaurante de sushi con una personalidad propia y el logro de una fusi\u00f3n muy especial y atractiva que caracteriza las diversas creaciones de su dedicado y simp\u00e1tico chef, Chef Landa. Lo recomiendo ampliamente!!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Adriana Benitez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113940587633266215466/reviews?hl=en-US",
+        "census_block_group": 120860056003
+    }
+]

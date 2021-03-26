@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NHU2V0VREAE",
+        "caption": "It was good",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Infinite Plane of Existence",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105866450087006972296/reviews?hl=en-US",
+        "census_block_group": 120860026004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNjhiOUZBEAE",
+        "caption": "From the first moment  you step in this place  the waiters give you a great feeling. Very hospitable team, it is a happy restaurant to to go out with buddies or with your date. heavenly  cooking, professional  chef, honest  pay and generous  service. Highly recommended.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "James Tomlin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100613262757610138604/reviews?hl=en-US",
+        "census_block_group": 120860026004
+    }
+]

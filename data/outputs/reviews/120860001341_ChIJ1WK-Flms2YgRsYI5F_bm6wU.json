@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzN09QZEZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Gaurav Bhatnagar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102041113490654657181/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVejViLUpBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Fer Cam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113303053820419717334/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrN1pPOTRRRRAB",
+        "caption": "(Translated by Google) I loved  (Original) Me encant\u00f3",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "norma de la caridad denis martin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109607455459415851681/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrM3ZIOThRRRAB",
+        "caption": "Good food and price",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Kane Yee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107398790761685844697/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJNWVuX2FnEAE",
+        "caption": "Good food and customer service.  But expensive.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 3.0,
+        "username": "JJ C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113910075104870645267/reviews?hl=en-US",
+        "census_block_group": 120860001341
+    }
+]

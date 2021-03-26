@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNC1Ld1dREAE",
+        "caption": "(Translated by Google) I think it's delicious and I've eaten a bite of cold ramen and it's so yummy  (Original) \ub77c\uba58 \ub9db\uc788\ub2e4\uace0 \uc0dd\uac01\ud558\uace0 \uba39\uace0 \uc788\ub2e4\uac00 \ub0c9\ub77c\uba58 \ud55c\uc785\uba39\uace0 \ub108\ubb34 \ub9db\uc788\uc5b4\uc11c \ubbf8\uc18c\ub77c\uba58 \uc815\ub5a8\uc5b4\uc9d0 \ub0c9\ub77c\uba58 \uc9c4\uc9dc \ub9db\uc788\uc2b4\ub2c8\ub2e4 \uac15\ucd94\uac15\ucd94",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "\uae40\ucca0\ud658",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114638653987364473767/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzMFlEcllREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "\ucd5c\ud604\uc815",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110613432787599948367/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzanZQSkpnEAE",
+        "caption": "How on Earth do you mess up a Ceasar salad? 60 percent of it was yellow bitter lettuce, stale croutons, and barely any cheese or croutons. Chicken was warm, maybe this is normal but I don't understand warm chicken on a cold salad. And the lettuce wasn't even cut up, why should I do your job and chop my own salad? The service was very lackluster, like they didn't want me to be there. So disappointed when there are so many better places I could have spent 18 dollars!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Rachel Andrews",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115119591311739427658/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNb1ByZWhRRRAB",
+        "caption": "(Translated by Google) Most of them seemed to have only breakfast buffet. Overall, it's cheaper than Hawaiian prices, and the rococo moko was ok, and the cold ramen is said to be a popular crew menu.  (Original) \ub300\ubd80\ubd84 \uc870\uc2dd\ubd80\ud398\ub9cc \uba39\ub294 \uac70 \uac19\ub358\ub370 \uc758\uc678\ub85c \ub2e8\ud488 \uc810\uc2ec \uba54\ub274 \uad1c\ucc2e\uc544\uc694. \uc804\uccb4\uc801\uc73c\ub85c \ud558\uc640\uc774 \ubb3c\uac00\ub300\ube44 \uc2fc\ud3b8\uc774\uace0 \ub85c\ucf54\ubaa8\ucf54\ub3c4 \uad1c\ucc2e\uc558\uace0 \ub0c9\ub77c\uba74\uc774 \uc2b9\ubb34\uc6d0 \uc778\uae30 \uba54\ub274\ub77c\uace0 \ud558\ub358\ub370 \ub9db\uc788\uc2b5\ub2c8\ub2e4.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "HJ KIM",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107214791144304917400/reviews?hl=en-US",
+        "census_block_group": 150030018011
+    }
+]

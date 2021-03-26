@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNemNEV1d3EAE",
+        "caption": "Great food, super friendly staff members, always good atmosphere. They charge affordable prices and the food quality is great. Keep it up.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Clay Walton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115569418230297022360/reviews?hl=en-US",
+        "census_block_group": 120860036011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNnJXb1hBEAE",
+        "caption": "Amazing environment and very personal service. The meals were fresh and yummy. Will definitely recommend this restaurant to anyone. Reasonable rates and large portions. Keep it up.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Keanu B",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108129752466882534278/reviews?hl=en-US",
+        "census_block_group": 120860036011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwcHE3TUhREAE",
+        "caption": "The service is consistently prompt, fantastic vibes, very nice staff members. I will visit again when I get in the area.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Quinton Carey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118074247112874728513/reviews?hl=en-US",
+        "census_block_group": 120860036011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcUl6TzVBRRAB",
+        "caption": "Finest spot to get something when in a rush. Their customer service is rapid, pricing is fair, fantastic atmosphere. Will come visit again",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Abdullah Friedman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114335272029228823619/reviews?hl=en-US",
+        "census_block_group": 120860036011
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcC1DNUx3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "James Cheung",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100567114639372254589/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURramF5Q3lnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Emily Bay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110628758244158199504/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcnRIZ3lnRRAB",
+        "caption": "The food here is horrible, unfortunately our hotels breakfast was from here. go across the street or around the corner to the coffee shop for better options. The service is also nonexistent. Worst thing if they water the milk down, probably to save a couple bucks.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Jeevan Rajaratnam",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100596327977445902611/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3MzVfZnJnRRAB",
+        "caption": "A very normal Chinese Restaurant.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Shih-Shiang Liao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109211317722073136366/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBMmMyZ0pBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Preeti",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101812088409764595576/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRNGM3RVZBEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Lin Shelly",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116227057176920770916/reviews?hl=en-US",
+        "census_block_group": 150030020041
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzbWFQWEp3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Jaime Musignac",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100180904171227199620/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzb3Bpbzd3RRAB",
+        "caption": "Delicious tacos! So good that I forgot to take a picture of them, specially the Al Pastor.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Yolanda Hernandez Santa Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103258741251856942736/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNcFlEcHlRRRAB",
+        "caption": "Good food at reasonable prices! This bodega is located within an airstream trailer. I had chicken quesadillas there. The guy, Lautaro, said it would take a bit over 10 minutes to freshly make it, and he was right. Taste and size were great for the $ 9.63 it cost. They do not accept cash; credit cards only. Ironically - please look up my pictures - the airstream bodega sell food for take away just 20 feet distant from an art installation by Paula Crown, named Jokester 2: her 10-foot crushed red solo cup is a call for environmental activism and the end of single-use plastic.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "RW J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112538437462617760243/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNXZlREdnEAE",
+        "caption": "Ordered pick up on Postmates where the restaurant confirmed my order and said it was ready for pick up. Arrived to a very rude woman watching youtube and said they didnt have my food and she didnt know what to tell me so I lost my money on Postmates. When I tried to order food outside of Postmates in person she told me they weren\u2019t serving food.. at 4pm",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Jake Bracha",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113391565335203303710/reviews?hl=en-US",
+        "census_block_group": 120860022013
+    }
+]

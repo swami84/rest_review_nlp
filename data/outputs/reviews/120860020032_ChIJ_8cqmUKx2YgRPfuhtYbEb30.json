@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3aU9fYXFnRRAB",
+        "caption": "Great take out",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Travis Bickle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107843892386423643502/reviews?hl=en-US",
+        "census_block_group": 120860020032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnN3JqdWJnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 3.0,
+        "username": "John Davis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100556214388058907198/reviews?hl=en-US",
+        "census_block_group": 120860020032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdmE3SkdnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "poupee poupee",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117431513393009468724/reviews?hl=en-US",
+        "census_block_group": 120860020032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBa2YzcWdBRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Young Wic",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116262453075707333164/reviews?hl=en-US",
+        "census_block_group": 120860020032
+    }
+]

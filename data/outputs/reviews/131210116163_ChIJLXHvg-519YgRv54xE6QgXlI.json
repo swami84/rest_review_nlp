@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cDQ3QkxREAE",
+        "caption": "I have been following Chef Blake for years now. When I heard he created a new Chinese inspired menu I had to try it out. Hands down the best Chinese food I have ever had. It felt like I was eating fine dinning out of plastic containers! The BBQ Pork Fried rice, crab noodles, and pork buns are out of this world. I drove 1 hour to pick them up and even after an hour of sitting in takeout containers it was still killer. Wish I had taken photos but I was too distracted by the taste of it all. Go try it out. You will not be disappointed.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Chase Carroll",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114191405255624447288/reviews?hl=en-US",
+        "census_block_group": 131210116163
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5elBXSEh3EAE",
+        "caption": "Whoa!   Mow's has raised the bar for take-out chinese food.  Authentic, chef-driven and unexpectedly gluten friendly!   Thanks for bringing this goodness to town.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Josh Antenucci",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102797532581916499586/reviews?hl=en-US",
+        "census_block_group": 131210116163
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ek1iREFREAE",
+        "caption": "Outstanding food! I ordered online and picked up in store. The order was ready on time, and everything was packaged neatly and labeled. We ordered the triple citrus chicken, basil chicken, and eggplant. Everything was excellent. Will be ordering soon and often. Welcome to the neighborhood!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Shereen Khedr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105349469581738634618/reviews?hl=en-US",
+        "census_block_group": 131210116163
+    }
+]

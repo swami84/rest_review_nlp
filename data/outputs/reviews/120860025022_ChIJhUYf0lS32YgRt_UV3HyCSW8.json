@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NGZlcXdBRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Amparo Ventura",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100626993263518488646/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5M0lfUlJREAE",
+        "caption": "It's old miami it's like being in nyc. Great place",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "rotsen995",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102684011765362962490/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bkpmdTdBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Witmar Palacios",
+        "n_review_user": 61,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101800756597622372296/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    }
+]

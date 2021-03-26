@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNHRxZmlBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "Jean Pierre Louis",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115008228240615702955/reviews?hl=en-US",
+        "census_block_group": 120860010033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNWJpS3VRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Terrence Lewis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112690554618324852334/reviews?hl=en-US",
+        "census_block_group": 120860010033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVM09mdXVnRRAB",
+        "caption": "Horrible customer service from the two young workers. The food prepared with bare hands, I had to refer that they put on gloves when fixing my food. This establishment needs to be shut down the workers are underage and the owner isn\u2019t present to hear any concerns or complaints. Overall one star.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "king von",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102205027009905688192/reviews?hl=en-US",
+        "census_block_group": 120860010033
+    }
+]

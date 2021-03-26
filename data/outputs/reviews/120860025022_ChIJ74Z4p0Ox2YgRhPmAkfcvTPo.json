@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bE5QcTJ3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 1.0,
+        "username": "Noby",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112598274856583265076/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NWVYclFBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Dania Perez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115067142629077467586/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4azUyZWVBEAE",
+        "caption": "I am currently not vegan but I don't shy away from trying vegan foods. I checked out Mora Pizza with my girlfriend and had a slightly above average experience. I am not accustomed to vegan substitutes like cheese and dough but I will say, my girlfriend, who is vegan, was pleasantly surprised. We had several different pizzas from Mora and I had liked most of them. I found that the vegan dough was fairly hard to chew but, besides that, the pizzas were full of flavor. The location was not the most ideal but had very colorful surroundings. The employees were very friendly and very responsive. Overall, I love the new and inventive approach they have at Mora Pizza and hope to see a brighter future for vegan pizza.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 4.0,
+        "username": "David Lannon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115625828525292153645/reviews?hl=en-US",
+        "census_block_group": 120860025022
+    }
+]

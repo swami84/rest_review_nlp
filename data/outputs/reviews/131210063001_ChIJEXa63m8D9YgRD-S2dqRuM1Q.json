@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d1ByMnJBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "O Keene",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103728908750504714951/reviews?hl=en-US",
+        "census_block_group": 131210063001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa09IR3JRRRAB",
+        "caption": "Just tried it the other night. Exceeded my expectations.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "C J",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114792643745508302541/reviews?hl=en-US",
+        "census_block_group": 131210063001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4NHFEMkZnEAE",
+        "caption": "All that can and will be said is YUM-YUM to my TUMMY!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Darryl Johnson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115028027798465063700/reviews?hl=en-US",
+        "census_block_group": 131210063001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4a0tQeEpREAE",
+        "caption": "May be a bit confusing but it is AMAZING",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-25",
+        "rating": 5.0,
+        "username": "Mark MyWord",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100900843158731695854/reviews?hl=en-US",
+        "census_block_group": 131210063001
+    }
+]
