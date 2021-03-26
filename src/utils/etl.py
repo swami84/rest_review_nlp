@@ -95,7 +95,7 @@ class ReviewScraper():
 
     def get_reviews(self, N, url,cbg,place_id):
         self.url_setup(url)
-        
+
         n = 0
         all_revs = []
 

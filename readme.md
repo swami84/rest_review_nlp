@@ -13,6 +13,10 @@ and develop language based models for review generation and recommendation
 
 ### Data
 
-Restaurant data is acquired on census block groups based on high foot traffic data
+* Restaurant data is acquired on census block groups based on high foot traffic data
 
-Reviews are scraped from maps and only 80% of reviews are taken where total reviews > 500
+* Reviews are scraped from maps and only 80% of reviews are taken where total reviews > 500
+
+* The review scraper was based out of [Gaspa93's repo](https://github.com/gaspa93/googlemaps-scraper)
+
+* Restaurants with 'Hotel' , 'Inn', 'Plaza' or 'Intercontinental' in their name were omitted due to scraping errors
