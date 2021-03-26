@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dnU2NHJ3RRAB",
+        "caption": "I ordered the chicken pesto sandwich and it was terrible! $11.50 for the thinnest sandwich with zero pesto on it. It took 15 minutes just to get heated up and put on a panini press. Really sad sandwich and a waste of money.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Marissa Lyons",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101345481408456268606/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aVphMklBEAE",
+        "caption": "Delicious! I had to wait a while. But they were training a new staff so I didn't mind. Wasn't in a rush and was worth the wait.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Chris Higashimoto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100303254888120110448/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5M3JQME13EAE",
+        "caption": "Delicious food.  Highly recommend!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lindsey r",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107994956237277743748/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMEkyR2ZnEAE",
+        "caption": "Good",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Spring Nash",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116731670817228571161/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMUtXS1lnEAE",
+        "caption": "Delicious food and wonderful people! Grilled cheese heaven",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Shaun McCreedy",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101043489646076721176/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOWZQdEtnEAE",
+        "caption": "Wow this place is a hidden gym! It\u2019s a locally owned and operated business located in Ohana Market Place on Ward Ave.. they specialize in all natural and whole made juices (no added sugar). Variety of flavors available.. my favorite is the \u201cfour season.\u201d The owners are absolutely delightful and energetic!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Daniel Ulu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105962109418017042828/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNMm9MUHhRRRAB",
+        "caption": "Great smoothie, juice and coffee place. Friendly service. Unique selection of drinks. Some quick eats available. Great place to stop by for picking up a quick drink or bite while shopping at the ohana hale marketplace. The drinks have a unique Hawaiian twist and taste great.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Amit Kakde",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106050078816397952169/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

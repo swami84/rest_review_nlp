@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNNzU2aG93RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Steve Ling",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109467926853496245646/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNeWIyYnhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "noriko ohge",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110188546654034708538/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3NHVIeXhBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Kevin Arnold",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117630349323778163817/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3eGYyTHlBRRAB",
+        "caption": "It\u2019s only the Best for the Bests",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Randy Cababa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103877358185132522457/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbU15OEd3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Nawar Neth",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101054074032978925852/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ajZ2TWd3RRAB",
+        "caption": "",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Anthony Esfahani",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116023646128498673032/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzLXBLdUxBEAE",
+        "caption": "There crepes are awesome!I highly recommend going there.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Micah Panoncillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114901717525730189161/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbm9Xbm5BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lesha Panoncillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109452940381639091586/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwa1lXdk5REAE",
+        "caption": "One-of-a-kind savory and sweet crepes!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "M. F.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111431110075704763309/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

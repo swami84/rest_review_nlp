@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDM19qWXNnRRAB",
+        "caption": "Awesome food.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Apelila Apo",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108437580753266033711/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbThYSzdRRRAB",
+        "caption": "Everything is ala carte. They do sell a sampler plate, it has everything. OG is the best choice. If you like corn tortilla get the Dorado, if you prefer flour get the quesedilla.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Chamwow Keawe",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102452558512272790376/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbFp5Mkt3EAE",
+        "caption": "Great food. A bit of wait but worth it.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Joseph Paakele",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110184367410139675590/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

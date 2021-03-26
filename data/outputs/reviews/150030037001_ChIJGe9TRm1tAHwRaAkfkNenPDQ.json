@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbjQ3N1JnEAE",
+        "caption": "Pretty cool little place for a quick snack. Reminded me of a similar street food in South Korea. \ud83e\udd19\ud83e\udd19",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Daniel Cody",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118290514795825630795/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNLVpiQnBBRRAB",
+        "caption": "I used to wait in a line of 20-30 people at lunch time to get a waffle dog and chocolate ono shake on Kapahulu Street when I was in school and working full time near Diamond Head. I was so glad to find the same waffle dogs and shakes at Ohana Hale Marketplace. Everyone should try these- they are found no where else in the world.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "David Bathory",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102782942385749037684/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwa2JtdWJBEAE",
+        "caption": "Awesome waffle dogs!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "M. F.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111431110075704763309/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

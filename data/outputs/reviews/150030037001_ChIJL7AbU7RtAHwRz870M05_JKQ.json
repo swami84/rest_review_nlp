@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NjVYXzVBRRAB",
+        "caption": "The restaurant is closed. We took a 25min ride yesterday to get there to finally discover that the restaurant is closed . We didn't think about calling first, but they need to be removed from Google maps.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Audrey Kacouti\u00e9",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107689394071629953230/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJajdIQVVBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "J J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112599163613966902628/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

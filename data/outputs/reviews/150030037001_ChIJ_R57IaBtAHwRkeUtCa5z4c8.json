@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eXZUcEd3EAE",
+        "caption": "Pretty satisfactory quality. Delicious, properly marinated. Would like to visit again.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Jun",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111261289468705402291/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Nzk3dUJREAE",
+        "caption": "I have yet to find a place better than this. The spicy ahi and Hawaiian poke combo bowl is my absolute favorite. I always intend on trying something new but as soon as I get here, I beeline for the same bowl every time. Not a single place has come close to this fresh poke.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Joeyaynn Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106128280205300397979/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTNFAybjNnRRAB",
+        "caption": "Hands down the best poke on island. I go here multiple times a week and have always had quality poke and good service. My favorite is the spicy ahi poke bowl. Give it a try, you won\u2019t be disappointed :)",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Krystal Blythe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110622730065016368825/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpb1l6eDJnRRAB",
+        "caption": "Disappointing. Gave this place a try in the afternoon. Ordered a pound of salmon poke, rice and seaweed salad. For some reason they thought serving poke and seaweed salad that was still FROZEN was appropriate. :(",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Paula LeBlanc",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112776291711237029890/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]

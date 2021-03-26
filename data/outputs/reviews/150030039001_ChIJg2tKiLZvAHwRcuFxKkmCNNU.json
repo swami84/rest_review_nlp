@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdmRYRkFREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Elise Yang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111606793354916678320/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGQ3Ull3EAE",
+        "caption": "Love the design and the coffee and smoothies are good. Go visit and support your local coffee shops.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "levi hudrea",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101753546237722994347/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbkxTOHRRRRAB",
+        "caption": "I love that they have a good social distancing protocol, clean setting, outdoor seating and free parking",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Katherina Bui",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113498801487790495027/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4MXJqMTh3RRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "\u5289\u51a0\u826f",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113098510642759716171/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVbTZqUGhRRRAB",
+        "caption": "Good variety of drinks.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "M. F.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111431110075704763309/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVb2V2bnB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "\u0413\u0435\u043e\u0440\u0433\u0456\u0439 \u041a\u043e\u043b\u043e\u043c\u0456\u0454\u0446\u044c",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103784690017867136630/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    }
+]

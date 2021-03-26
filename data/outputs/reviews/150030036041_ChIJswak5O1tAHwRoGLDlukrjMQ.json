@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMGVYMjB3RRAB",
+        "caption": "Average bento!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Kevin Palisoc",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117368008053494721641/reviews?hl=en-US",
+        "census_block_group": 150030036041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOVpYT2FREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Bryan Pekelo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110503768489534698688/reviews?hl=en-US",
+        "census_block_group": 150030036041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwenN1NHFBRRAB",
+        "caption": "Terrible bento!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Dov Schafer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111085811987515158693/reviews?hl=en-US",
+        "census_block_group": 150030036041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3bmYtZm5nRRAB",
+        "caption": "Great Bento!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Kele kolio",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100436507418214175249/reviews?hl=en-US",
+        "census_block_group": 150030036041
+    }
+]

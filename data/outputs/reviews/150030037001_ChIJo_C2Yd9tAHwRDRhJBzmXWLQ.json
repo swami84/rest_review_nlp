@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aHBIRFNREAE",
+        "caption": "Loved it.  Clearly put care and expertise into making my sushi, it was good sushi.   Will be going back.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Ben Talbot",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113278918571795680242/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cm9fS3BBRRAB",
+        "caption": "High quality sushi with fresh cuts\u2014have ordered a couple times and have always been impressed by the quality. I ordered two sets of the $100 omakase for my husband\u2019s birthday and it was fantastic!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Stephanie Hagio Chin",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111796429257383674511/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpek1mZ0dREAE",
+        "caption": "Overpriced",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Spring Nash",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116731670817228571161/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4bmFYSTd3RRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "John Fujiwara",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112249262384101285674/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwb3NDRWN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "yamada kazuko",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115766627445109400757/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwZ1BTSUxREAE",
+        "caption": "Fresh sushi and great taste.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Bran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101761722249911109468/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVaS1IUjBnRRAB",
+        "caption": "A hidden gem for fresh, reasonably priced sushi.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "M. F.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111431110075704763309/reviews?hl=en-US",
+        "census_block_group": 150030037001
+    }
+]
