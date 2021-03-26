@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMDZ1VGxRRRAB",
+        "caption": "Amazing spot. Food is as authentic as it is delicious and staff is very welcoming.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Phillip Vannucci-Henkel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111357493351903350654/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4aDlQSDN3RRAB",
+        "caption": "Good food, reasonable price",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Sebastian Young",
+        "n_review_user": 25,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106871830578255549339/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjcWFYUUxBEAE",
+        "caption": "Love their chow funn!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "M Lewis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110317181913802587227/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNcE1Mak5nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Ayush Maskey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117884435708572659954/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOTVhYWZBEAE",
+        "caption": "Ripoff portions.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Kevin Kim",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101473301700538473743/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVLV92Nm5BRRAB",
+        "caption": "Cozy Restaurant, delicious food, with super friendly staff. Super clean and great vibes. The duck was delicious! Everything we had was very flavorful. We had a big group and they were very accommodating. Great Customer service!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "T'Shane W",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117092885085914819733/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    }
+]

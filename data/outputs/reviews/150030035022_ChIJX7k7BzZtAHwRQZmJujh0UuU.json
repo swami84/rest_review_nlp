@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MHN2ci1nRRAB",
+        "caption": "tasty",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "DANIEL CHING",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112467441146590630384/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a0t1WW13RRAB",
+        "caption": "Best fresh seafood in town!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Kevin Mendoza",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103764712036603533968/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDhuLThnRRAB",
+        "caption": "I'm finally try them out and I must say it was very delicious and the staff of very polite\u270c",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Mr.Robert B.",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103701093044375271432/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5M3V2dERnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Jesse Yang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103557596664020501938/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MG8tRlVREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Betty Li",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116707157705992262689/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5b3FYNDlRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Chloe",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118142182217199597651/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbXBpRzJRRRAB",
+        "caption": "(Translated by Google) Black Pepper Pork Chop  (Original) \u9ed1\u6912\u732a\u6252",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "KAT CHEN",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114556333190942275663/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaXAtNkxREAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Channel",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103578210956331959099/reviews?hl=en-US",
+        "census_block_group": 150030035022
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eVppWEhREAE",
+        "caption": "The best karaoke house in all of Oahu! Owners are fabulous and very attentive. Amazing selection of songs and great drinks! Can\u2019t wait for our next outing.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Genevieve Brewster",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101911944776559180430/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbHBmcHpnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Tia Lau",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115185751673594111768/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4Nk8tYjBRRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "YAMA Yamamoto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110686957550659310315/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    }
+]

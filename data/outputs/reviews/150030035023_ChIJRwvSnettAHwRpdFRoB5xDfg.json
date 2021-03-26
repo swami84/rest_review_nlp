@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRckk3NldREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Noh Nogh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118013924806050015118/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNThyYTdRRRAB",
+        "caption": "Good food, freshly made to order.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Arthur Vasquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117175412538723586686/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnc2FHVElBEAE",
+        "caption": "Very delicious",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Seonghwi Lee",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108337921102611930001/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbGU3U2dBRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "C L",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100843609351026212174/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    }
+]

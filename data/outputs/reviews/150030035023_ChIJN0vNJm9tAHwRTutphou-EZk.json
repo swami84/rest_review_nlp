@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MThhTlhREAE",
+        "caption": "",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Jushin Bass",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103601494101279216820/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OWMtU2RREAE",
+        "caption": "Everything was fresh taste and we enjoyed the first takeout.  It\u2019s best to call in advance to avoid the wait.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Justine LaLa Story",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113814667837749216693/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cFpxQWVREAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lori Kimura",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103289013959183838501/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aXZTakVnEAE",
+        "caption": "Crunch bowl is super tasty",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Richard Park",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105862024541072729101/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5ci1LSUR3EAE",
+        "caption": "Amazing Honolulu asian fusion spot! Truly great Japanese flavors from the poke bowls. I got the special of the day which was hamachi which was seared right in front of us with a torch.  I'm super happy this opened up in my neighborhood and look forward to going back here again I definitely need to try out their kimchee.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Steve Viscuso",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102534439734479884672/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cnRlb2p3RRAB",
+        "caption": "Great new Poke place. Great poke! Great service!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Errol Wong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111221529711842680660/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5b0pISWl3RRAB",
+        "caption": "Fish was fresh and clean. The tempura was light and crunchy. Very cute atmosphere",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Blaine Shimabukuro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116559211469788643540/reviews?hl=en-US",
+        "census_block_group": 150030035023
+    }
+]

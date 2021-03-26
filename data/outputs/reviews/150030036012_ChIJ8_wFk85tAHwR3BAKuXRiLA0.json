@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NGFDTXFRRRAB",
+        "caption": "New place at 808 Sheridan. Soft opening now. Food is very authentic and delicious. BYOB.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Catherine Wong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113465905840991380350/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eUlyNG13RRAB",
+        "caption": "better take reservation especially weekend. Very good taste and authentic!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Dan Luo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108424899339306999839/reviews?hl=en-US",
+        "census_block_group": 150030036012
+    }
+]
