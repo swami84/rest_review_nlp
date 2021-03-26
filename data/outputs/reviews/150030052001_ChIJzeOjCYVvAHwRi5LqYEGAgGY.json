@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdnA3dWxBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Thy Thien",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106115492616446933069/reviews?hl=en-US",
+        "census_block_group": 150030052001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzanUtUHh3RRAB",
+        "caption": "Bun mam was so good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "PhillycheeseYO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108160837877045146510/reviews?hl=en-US",
+        "census_block_group": 150030052001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVeDdfMHhBRRAB",
+        "caption": "the food was excellent, and the service was superb! they have variety of selections! will definitely be back here again",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "lan nhi thuat",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104739268040221349330/reviews?hl=en-US",
+        "census_block_group": 150030052001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVbklMNXFnRRAB",
+        "caption": "Friendly service, excellent food. I ordered B\u00fan M\u1eafm and it is as good as what I had in Vietnam!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Dustin Tang",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113553860192722819121/reviews?hl=en-US",
+        "census_block_group": 150030052001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVajdQWDN3RRAB",
+        "caption": "The food is great and customer services is superb. Price is decent. We ordered 3 big orders (bun rieu, special rice combo, and banh hoi special, and sugar cane drink) for only $54 total. Overall very happy with food and service.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Joe Tran",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102470189667235994771/reviews?hl=en-US",
+        "census_block_group": 150030052001
+    }
+]
