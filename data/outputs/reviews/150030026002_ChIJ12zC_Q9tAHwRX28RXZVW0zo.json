@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LVo3Y1Z3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Jay Thomas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108092885114311472081/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cWV1OWp3RRAB",
+        "caption": "This is where chefs and cooks come to eat home cooked food after they close down their own restaurants. Excellent vibe, amazing food and super nice wait staff/bartenders. You have to try their chicken wings, curry crab, crab boil, Cajun Mac and cheese, pho,\u2014 could on and on. And it\u2019s sooooo reasonably priced. I loved their food so much that I booked them for a private party and they came and made a full on summer roll and pho bar spread. It was delicious!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "helen chen",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112449149601843226984/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MzlxeDFnRRAB",
+        "caption": "The food is soooo good... lots of different kinds of options but I love when they have specials like crab legs or the casian seafood boil. They put a different spin on some of their plates and everything has a lot of flavor. Steak is good too!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lori Nishimoto",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109784276304285785290/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bjZMV193RRAB",
+        "caption": "Great place to dine, relax and chill.  Wonderful food and very friendly staff.  Nice and open environment.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Richard Ro",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113271041996557050733/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dDZiTjZnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lynn Pang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116781544034713128808/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTLWMyNkdBEAE",
+        "caption": "Love the service Very comfortable atmosphere",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Tracy Tatemichi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115747013813538729319/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpc19TUlFREAE",
+        "caption": "Food is excellent.  Very tasty. Well done. High end with great flavors",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Eloise Ericksen",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105638672573389459727/reviews?hl=en-US",
+        "census_block_group": 150030026002
+    }
+]

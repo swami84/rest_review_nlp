@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJck11NUlREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "\u674e\u5e78\u84c9",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117757075697529375139/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbE1IY1NREAE",
+        "caption": "Good for a quick casual sit down dinner",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "JulieAnne Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104918960109265696181/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    }
+]

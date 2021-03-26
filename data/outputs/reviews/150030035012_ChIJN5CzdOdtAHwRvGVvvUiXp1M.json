@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrcmVmMmVnEAE",
+        "caption": "(Translated by Google) It's good to come to Shangri-la and have lunch  (Original) \uc0f9\uadf8\ub9b4\ub77c\ub97c \uac14\ub2e4\uc640\uc11c \uc810\uc2ec \ud558\uae30 \uc88b\ub2e4",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "KANGHAN LEE",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108392487115689825345/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJbXRLc2F3EAE",
+        "caption": "(Translated by Google) If you get tired from walking around the museum, you are seriously injured.  (Original) \u7f8e\u8853\u9928\u6b69\u304d\u306b\u75b2\u308c\u305f\u3089\u3001\u8179\u3054\u3057\u3089\u3048\u3067\u3059\u306d\u3002",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Hitty Taka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113601239709062844521/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBNTY3X3N3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Federico Cossu",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114173367576962810020/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnb2NYd1pBEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Ben Pearson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109486800997644754764/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3b1pmY3FBRRAB",
+        "caption": "MAPS",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "reyansh rattu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102914357694078746594/reviews?hl=en-US",
+        "census_block_group": 150030035012
+    }
+]
