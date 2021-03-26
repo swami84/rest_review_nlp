@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6672087,
+                        "lng":-73.7897899
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6685290303,
+                              "lng":-73.7883970197
+                        },
+                        "southwest":{
+                              "lat":40.6658310697,
+                              "lng":-73.7910949803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":526,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109408236486244953699\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIEQr_SmPLOfpVah_DEaqNxNa0e2EKANBlGrvu07FCH-098laoP1rJtBtQJvJmM1DTOV7TAdwC0mJUR3YUZLKopItAchAVWBkZMUxO-_ooFNK5SY1X3As4BeKOjDTAWSQrhMif_BbCJ67HbGYIuV_OoCT7guQ1Ndus9lEskADwt7zg",
+                        "width":936
+                  }
+            ],
+            "place_id":"ChIJdaVvt-BmwokRTHbPejvIEac",
+            "plus_code":{
+                  "compound_code":"M686+V3 New York, NY, USA",
+                  "global_code":"87G8M686+V3"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJdaVvt-BmwokRTHbPejvIEac",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"Gulf Gas Station, 13344 150th Street, Queens",
+            "CBG":360810788002,
+            "Radius":160.4948314422
+      }
+]

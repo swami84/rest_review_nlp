@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7094368,
+                        "lng":-73.8299897
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7108213303,
+                              "lng":-73.8285808697
+                        },
+                        "southwest":{
+                              "lat":40.7081233697,
+                              "lng":-73.8312788303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Austin's Ale House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":417,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109318131477125181587\">Austin&#39;s Ale House<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwCLVFw-Wg9PVNCLFakqGTKYcMjOXwiIxjHvcOWRgVpYVOgBBTrQ7erRwpk5uIoieLZ62MSZfPDmllmQREQrLFGVFlgKIBX7e-exunAZGFiDdo-UzA1rOx-tL9Fo7vknuDvqjagwS0XA_tXmgqRYa03grt18GzOLyOurfK5joqVd19",
+                        "width":741
+                  }
+            ],
+            "place_id":"ChIJ9-CAs7xgwokR0dG6ectdSDo",
+            "plus_code":{
+                  "compound_code":"P55C+Q2 New York, NY, USA",
+                  "global_code":"87G8P55C+Q2"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJ9-CAs7xgwokR0dG6ectdSDo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":933,
+            "vicinity":"82-70 Austin Street, Queens",
+            "CBG":360810775003,
+            "Radius":147.0241682883
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7093611,
+                        "lng":-73.8299196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7106485303,
+                              "lng":-73.8285566697
+                        },
+                        "southwest":{
+                              "lat":40.7079505697,
+                              "lng":-73.8312546303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Homemade Taqueria Kew Gardens",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110344283172678365745\">Jim Ryan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzp2zegKGuvEHKctXJ_jAYRLKc1JrwBN16kkQVuTcZYSja51Wl2Etylnml4oGsrrMspb-eHyP4IViDX0Ye7gSL6roRe37cb9JCxXyiDnm4H1R8KfYsebriKhpYUseBZ0UVi8uwRa_TQI8ntVyz2e2VSsdF52yxLMbMkoYdQPl6SYOw",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ12nu9M9hwokRsESTBWioPQ4",
+            "plus_code":{
+                  "compound_code":"P55C+P2 New York, NY, USA",
+                  "global_code":"87G8P55C+P2"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJ12nu9M9hwokRsESTBWioPQ4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":50,
+            "vicinity":"80-60 Lefferts Boulevard, Queens",
+            "CBG":360810775003,
+            "Radius":147.0241682883
+      }
+]

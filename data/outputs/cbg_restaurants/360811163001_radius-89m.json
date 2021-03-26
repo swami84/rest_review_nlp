@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7651034,
+                        "lng":-73.8185009
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7664963803,
+                              "lng":-73.8172440197
+                        },
+                        "southwest":{
+                              "lat":40.7637984197,
+                              "lng":-73.8199419803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dynasty Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112985486195472328204\">John Lee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLnfKN05ejy2DvX09wTSvWIhajgAT4T0CWFxPNu3ZGMV_P7NwT0EDfIpxOB6a4bV0sekkAArkz9NEwLyFXsaRRLzdyhtn5gXZavhhsxOfzpM7AJfIJcfN69C4jUWTzKjbgfVV_Lony_OquHehNl4OPeN-ZO38ZU85q_KQQAw_XknIJD",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ1RYvECJgwokRYI3212ZOqiQ",
+            "plus_code":{
+                  "compound_code":"Q58J+2H Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q58J+2H"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ1RYvECJgwokRYI3212ZOqiQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":70,
+            "vicinity":"147-18 Northern Boulevard, Flushing",
+            "CBG":360811163001,
+            "Radius":88.8558293918
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.765094,
+                        "lng":-73.818476
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7664916803,
+                              "lng":-73.8172315697
+                        },
+                        "southwest":{
+                              "lat":40.7637937197,
+                              "lng":-73.8199295303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"X-tra Cheese Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112985486195472328204\">John Lee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJoXHB5Bq280YYNAWa7MXiSZzaNhdg8cSf0TfYz2LZgk0NFtFXOS0Z5-fMPBblQ4FYRivrqRcSS9v-bmBWqnhnm-cI5kmfzqvWiWliFyURjeV-H6N_hF6RCXue_kfIkgn5H1lld6xytmiY1wWKnvu2IRfLnEIZwq8Wj3tfCEyEXewn4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ07UBCiJgwokReeuALFCHd-g",
+            "plus_code":{
+                  "compound_code":"Q58J+2J Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q58J+2J"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJ07UBCiJgwokReeuALFCHd-g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":178,
+            "vicinity":"14720 Northern Boulevard, Flushing",
+            "CBG":360811163001,
+            "Radius":88.8558293918
+      }
+]

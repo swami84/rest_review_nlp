@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpM3NiejBBRRAB",
+        "caption": "The sushi rice is not soft enough and the fish is not fresh.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Wen L",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109128360507050623678/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzMnFfV1lnEAE",
+        "caption": "Love the owner, she's always super nice & friendly. Fresh sushi at an affordable price, always a pleasant experience when I come here",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Brittany C",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115834925023794757940/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJdHYzS2pnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Legendary Master",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107829654926171596587/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJdHYyNnFBRRAB",
+        "caption": "TERRIBLE SERVICE!!!!  i ordered spicy poke salad, went all the way home and there was no dressing.  Drove all the way back, lady gave me a small thing of dressing, but replaced my salad with a small container of lettuce.   Called back and she said we could go all the way back AGAIN to give us a little more.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "laura h",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108930619558416541127/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    }
+]

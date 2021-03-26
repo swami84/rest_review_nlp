@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7174128,
+                        "lng":-73.8216664
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7187302803,
+                              "lng":-73.8203181197
+                        },
+                        "southwest":{
+                              "lat":40.7160323197,
+                              "lng":-73.8230160803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Freshmix",
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102067407285624159013\">Nikki Kyumi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIvBOlDOu3z_LY4_FKFqIvKbTiTBmUOdjvQrrB7T81O8vrFTPL0zwJD-mOvF8SalT21Gaq3AH_u5Q7iJ7tGCeM4RBrtCTpDM5e63dSskHvzLydrKp7MfFWy8uFPdGxtEFniSRx1d5gwhTqYqzazvDyl7kjZjIyF1t8Jm29UcACIub9E",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJPwFU_yFhwokRFU3NhN9eBqI",
+            "plus_code":{
+                  "compound_code":"P58H+X8 New York, NY, USA",
+                  "global_code":"87G8P58H+X8"
+            },
+            "rating":5,
+            "reference":"ChIJPwFU_yFhwokRFU3NhN9eBqI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"138-153 Union Turnpike, Queens",
+            "CBG":360810779032,
+            "Radius":167.9248477955
+      }
+]

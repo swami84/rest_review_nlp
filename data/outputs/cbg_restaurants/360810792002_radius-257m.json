@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6670821,
+                        "lng":-73.7994519
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6685031803,
+                              "lng":-73.7980364697
+                        },
+                        "southwest":{
+                              "lat":40.6658052197,
+                              "lng":-73.8007344303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Idlewild",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106676923938152198205\">Bill Gregg<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIvyTzr-nCXeSte5qq2YrndfWn_j-xUW3o0_nj3CDyQVkf5VVhLvRW_diDmOZ3yaMF_EDcjX2VByaGNXl8qYbXZcL1e-h1iL0utvATLC0pKS2KQgGVVJke5W5wQfdhmQ4-XXQFDx16Svn2JPFr42w8Q5w4mnaeSXcMNeA7Fvi6rbYle",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJT3LfIh9nwokRLxzJjAvWehQ",
+            "plus_code":{
+                  "compound_code":"M682+R6 South Ozone Park, Queens, NY, USA",
+                  "global_code":"87G8M682+R6"
+            },
+            "rating":4.4,
+            "reference":"ChIJT3LfIh9nwokRLxzJjAvWehQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"138-10 135th Avenue, South Ozone Park",
+            "CBG":360810792002,
+            "Radius":257.3984744321
+      }
+]

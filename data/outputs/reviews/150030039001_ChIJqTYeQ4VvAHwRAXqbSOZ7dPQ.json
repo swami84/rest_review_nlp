@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVd2Z1MHR3RRAB",
+        "caption": "Found the food on a whim while on vacation and it was amazing! We have the marlin and I don\u2019t think I\u2019ve had better fish anywhere!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Grace Schultz",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101421241647581609028/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJbm9YZnFRRRAB",
+        "caption": "Delicious food and great service.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Ed Oshiro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100949032513757539989/reviews?hl=en-US",
+        "census_block_group": 150030039001
+    }
+]

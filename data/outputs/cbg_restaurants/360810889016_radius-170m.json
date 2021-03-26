@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7659339,
+                        "lng":-73.8281478
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7673386303,
+                              "lng":-73.8265871197
+                        },
+                        "southwest":{
+                              "lat":40.7646406697,
+                              "lng":-73.8292850803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"DA HUA CHUAN DIAN \u5927\u534e\u4e32\u5e97 (\ub300\ud654\uc591\uaf2c\uce58)",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112823673141692934007\">DA HUA CHUAN DIAN \u5927\u534e\u4e32\u5e97 (\ub300\ud654\uc591\uaf2c\uce58)<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIhyBggPCi7d2mBL2hgHpsW8_O07zeRFjQaXRUEVSGyX76c47IAc_-Rq0Irr8_-lXToGLtxZxGMIrZ0VimJsnnmA2OURDDfiGoZSAAnxjyWBsCMZhjkii_6NB4azHYDGEXH2kpI5L4P22XuRJGCw2COe816mihR9GVHy29T2Xua9U50",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJew3kRtBhwokRdtiTeGAOOc8",
+            "plus_code":{
+                  "compound_code":"Q58C+9P New York, NY, USA",
+                  "global_code":"87G8Q58C+9P"
+            },
+            "rating":4.4,
+            "reference":"ChIJew3kRtBhwokRdtiTeGAOOc8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"34-40 Union Street, Queens",
+            "CBG":360810889016,
+            "Radius":170.0102720283
+      }
+]

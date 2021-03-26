@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.719799,
+                        "lng":-73.810173
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7211013803,
+                              "lng":-73.8087330697
+                        },
+                        "southwest":{
+                              "lat":40.7184034197,
+                              "lng":-73.8114310303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mira Sushi Restaurant Queens",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103867990948475548228\">Mira Sushi Restaurant Queens<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLw4mgnhpDjroS9t6AWaNm6RQShK77JBsL3sUomwg6TalhJKE_FBbkv-yt1R5BUSxubo6X7rUrq3t2zHBpBBQVdD7oJC5XGGa7H5iY4gY3ygoUn_oPFu3z1yfQ84vP0wnQ5zAgoC6SHmAb3wg2LmsD-p_NSOgkv1YN_CGP1ETWwb4Tp",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJOSaCMe5gwokRbswvuDtFLcs",
+            "plus_code":{
+                  "compound_code":"P59Q+WW Flushing, Queens, NY, USA",
+                  "global_code":"87G8P59Q+WW"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJOSaCMe5gwokRbswvuDtFLcs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":699.0,
+            "vicinity":"153-11 Union Turnpike, Flushing",
+            "CBG":360810779052,
+            "Radius":121.4436917523
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7185477,
+                        "lng":-73.8092679
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7198888303,
+                              "lng":-73.8079622697
+                        },
+                        "southwest":{
+                              "lat":40.7171908697,
+                              "lng":-73.8106602303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"\u6559\u6703",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJj9ylfDdhwokRsSoE6ur5zng",
+            "plus_code":{
+                  "compound_code":"P59R+C7 New York, NY, USA",
+                  "global_code":"87G8P59R+C7"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJj9ylfDdhwokRsSoE6ur5zng",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"150-85 Goethals Avenue, Queens",
+            "CBG":360810779052,
+            "Radius":121.4436917523
+      }
+]

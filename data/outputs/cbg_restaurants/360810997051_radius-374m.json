@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7884114,
+                        "lng":-73.7852779
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7898615303,
+                              "lng":-73.7839942197
+                        },
+                        "southwest":{
+                              "lat":40.7871635697,
+                              "lng":-73.7866921803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ponticello",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110034206329512369259\">Y8PPK7<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJZZqGdfdl6ZpG1WTnQUzsokE6OFr0Gk1VKoaN0X6lG-7_9N_V5ipPFQq1tUkT64Fh-v0YBk0V66PVRIijawG8dTyRPPIaCf5wFoLxUFjY6ZOSSQCaCHfaMOj_LIgEX-HigpOHmkwOBh-_S4kFWoho_M6_L3MhadiD3awJbfXzecquu",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJJV4aU1yKwokRU8XBj4XuknA",
+            "plus_code":{
+                  "compound_code":"Q6Q7+9V New York, NY, USA",
+                  "global_code":"87G8Q6Q7+9V"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJJV4aU1yKwokRU8XBj4XuknA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":114,
+            "vicinity":"20818 Cross Island Parkway, Queens",
+            "CBG":360810997051,
+            "Radius":374.2754774516
+      }
+]

@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7667988,
+                        "lng":-73.8276199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7681215303,
+                              "lng":-73.8261677697
+                        },
+                        "southwest":{
+                              "lat":40.7654235697,
+                              "lng":-73.8288657303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":526,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107053248134143349696\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJNeUwNSEnYJ32IsmIEIMie6xlYyq9qho0OZg3cr1usZIDcd1LvLUkxBB6tbiXwgHgxX8Yyw81I0AF00K1p5N06YM8GNDmTUxZiWzr0jBsnC7Yff3QgDsbIvOmdNIK7iYdJnCL3fFfZhSNt8Wp1lns47sInPuuN_M7l33X0lyEA3iKO",
+                        "width":936
+                  }
+            ],
+            "place_id":"ChIJ8dz3cBtgwokRPzBSP-Pvzc8",
+            "plus_code":{
+                  "compound_code":"Q58C+PX New York, NY, USA",
+                  "global_code":"87G8Q58C+PX"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJ8dz3cBtgwokRPzBSP-Pvzc8",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"3402 Union Street, Queens",
+            "CBG":360810889017,
+            "Radius":107.5635985964
+      }
+]

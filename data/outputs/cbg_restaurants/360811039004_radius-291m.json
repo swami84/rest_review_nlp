@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.786775,
+                        "lng":-73.8219694
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7881982803,
+                              "lng":-73.8206251197
+                        },
+                        "southwest":{
+                              "lat":40.7855003197,
+                              "lng":-73.8233230803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pearl Garden",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2112,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102109745767383920582\">Norbert Tai<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKijy4O_H2vZaMWWXTh7Y6ANN93SOCKzqiiRvCJW2XNSd2c9cA_qesSTNo8wtVrpawedRXMqEJu_dgAoUz9qe0kL0gBnm10tsNYc7N_uluq7NBeknqOuixqSbI3zzWjJxmvG_1OkHRc6T5LOhNDdfVK_TMiTYPTC-jfcQ4wC2JyXlNm",
+                        "width":2816
+                  }
+            ],
+            "place_id":"ChIJDQXGhL6KwokRXE-X1Y9DYwo",
+            "plus_code":{
+                  "compound_code":"Q5PH+P6 New York, NY, USA",
+                  "global_code":"87G8Q5PH+P6"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJDQXGhL6KwokRXE-X1Y9DYwo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":169,
+            "vicinity":"14508 14th Avenue, Queens",
+            "CBG":360811039004,
+            "Radius":290.750382017
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.786668,
+                        "lng":-73.822078
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7881251803,
+                              "lng":-73.8207718697
+                        },
+                        "southwest":{
+                              "lat":40.7854272197,
+                              "lng":-73.8234698303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Malba Deli & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":795,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117154517053110160008\">Malba Deli &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKfpfgmp-JMnTDZEbFvcyrS64TmWKAkzSwmzjm0hNkHqXSuqk8Juwc_kYMNFUhizhJdWtTK5qcRUKQ_95qFt6IP-1g_1Hz9m5QzEdgyScXliJ9yy453kyot05REDh8v37JFPoGCdNxyXToz95R1dQLy9abdmcRkFGZeBZh6iFVUgZYJ",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJu48Gh76KwokR98T1SJDi9fU",
+            "plus_code":{
+                  "compound_code":"Q5PH+M5 New York, NY, USA",
+                  "global_code":"87G8Q5PH+M5"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJu48Gh76KwokR98T1SJDi9fU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"145-02 14th Avenue, Queens",
+            "CBG":360811039004,
+            "Radius":290.750382017
+      }
+]

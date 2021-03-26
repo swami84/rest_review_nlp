@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.755809,
+                        "lng":-73.8208488
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7572026303,
+                              "lng":-73.8194303697
+                        },
+                        "southwest":{
+                              "lat":40.7545046697,
+                              "lng":-73.8221283303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nazareth",
+            "place_id":"ChIJ7WgRz1VhwokRpwqtRarUi18",
+            "plus_code":{
+                  "compound_code":"Q54H+8M Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q54H+8M"
+            },
+            "reference":"ChIJ7WgRz1VhwokRpwqtRarUi18",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"42-60 Bowne Street, Flushing",
+            "CBG":360810859002,
+            "Radius":137.2071484966
+      }
+]

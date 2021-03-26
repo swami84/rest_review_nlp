@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.66146,
+                        "lng":-73.840144
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6627207803,
+                              "lng":-73.8388837697
+                        },
+                        "southwest":{
+                              "lat":40.6600228197,
+                              "lng":-73.8415817303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2299,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112705093549715328770\">Peter<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLnvdng_Tr_jGB1AohGH7ccNKOwKiE80nkIpW5dd3Y9Ysy_0lkMnRejOH8mjWadz3cU_avL38LkfhKphKdJX4ejdbVfBq97iorgrLoQXmLplNHSixoFvysIW1qQq509OVh-K7juC9IzKB94FP4hRaaCeH_QinaCwvVufv5nVdSTUSnn",
+                        "width":3333
+                  }
+            ],
+            "place_id":"ChIJdzOVw31nwokRPV0r1muSS58",
+            "plus_code":{
+                  "compound_code":"M565+HW New York, NY, USA",
+                  "global_code":"87G8M565+HW"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJdzOVw31nwokRPV0r1muSS58",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1266,
+            "vicinity":"157-41 Cross Bay Boulevard, Queens",
+            "CBG":360810884002,
+            "Radius":196.7970583161
+      }
+]

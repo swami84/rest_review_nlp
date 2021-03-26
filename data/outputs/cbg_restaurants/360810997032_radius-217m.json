@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7842351,
+                        "lng":-73.7761439
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7855033803,
+                              "lng":-73.7749877197
+                        },
+                        "southwest":{
+                              "lat":40.7828054197,
+                              "lng":-73.7776856803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tri Tower Eatery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJbRVepUOKwokRrSspTLZgLPI",
+            "plus_code":{
+                  "compound_code":"Q6MF+MG Bayside, Queens, NY, USA",
+                  "global_code":"87G8Q6MF+MG"
+            },
+            "rating":5,
+            "reference":"ChIJbRVepUOKwokRrSspTLZgLPI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1805 215th Street, Bayside",
+            "CBG":360810997032,
+            "Radius":216.8081544186
+      }
+]

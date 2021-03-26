@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.7588333,
+                        "lng":-73.8255947
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7601658303,
+                              "lng":-73.8243041697
+                        },
+                        "southwest":{
+                              "lat":40.7574678697,
+                              "lng":-73.8270021303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zhou's Yummy",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100635732441235299580\">Bohan Huang<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLy5H8Ws6SLM-pMshtk75GXS8tcmhRY9iorXH6OTK7H5sR7eIxFJu8LN3g0h4vuNW4EwnlhHMheiDnHCxoXKMw1xO5RJotrGsuFqznzmstxQC8Vb2WV9MKccrMLKrsqhVoZipAJUHRVXg6u-INEQPY8-5v0e3cGLH0s9lN0ZNw4Fdqq",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJhUj3PRFgwokRk0nU3CzvjX4",
+            "plus_code":{
+                  "compound_code":"Q55F+GQ Flushing, Queens, NY, USA",
+                  "global_code":"87G8Q55F+GQ"
+            },
+            "price_level":2,
+            "rating":3.8,
+            "reference":"ChIJhUj3PRFgwokRk0nU3CzvjX4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":223,
+            "vicinity":"41-17 Union Street, Flushing",
+            "CBG":360810855004,
+            "Radius":120.3232668826
+      }
+]

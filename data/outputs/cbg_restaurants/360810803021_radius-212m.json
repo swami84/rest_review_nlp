@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.74309,
+                        "lng":-73.827153
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7444389803,
+                              "lng":-73.8258040197
+                        },
+                        "southwest":{
+                              "lat":40.7417410197,
+                              "lng":-73.8285019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bien Private Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115956320891630101256\">Chia-Yi Cheng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJasQOEH1eYSG-TjONrikz9ahs4GOg_6UfWWOrlKTDX9PceFRikeZG1q_W52thG8_KTAepMVp-VEMidPHFM44TwC1fbpQQPrrLFtFHYt_3RCCDAvKryW4GEVFM7D9QXle54IqhD_6EZ8K5Dm_txp8nIo1jCq80XLRA4vthCWqWd76fI",
+                        "width":3036
+                  }
+            ],
+            "place_id":"ChIJVZcG7MlhwokRBW-hPrz3fTc",
+            "plus_code":{
+                  "compound_code":"P5VF+64 New York, NY, USA",
+                  "global_code":"87G8P5VF+64"
+            },
+            "rating":5,
+            "reference":"ChIJVZcG7MlhwokRBW-hPrz3fTc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"138-12 60th Avenue, Queens",
+            "CBG":360810803021,
+            "Radius":211.87929299
+      }
+]
