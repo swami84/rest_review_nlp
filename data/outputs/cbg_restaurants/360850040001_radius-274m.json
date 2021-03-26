@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.608943,
+                        "lng":-74.087844
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6103535303,
+                              "lng":-74.0865990197
+                        },
+                        "southwest":{
+                              "lat":40.6076555697,
+                              "lng":-74.0892969803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"My Pizza and Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1936,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113675948719492224445\">My Pizza and Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIPb0l_LckdKjuygTzVpwzqTffgIhgfx-h1qTqvFITGicuBHXjyvj3FxvmfrVAotPdHkXyhpDdIIx0T1lePORQPlJRMELRD-XNAWfKGvJHN9eH7WsI_SUxAqyoLrxH5xoaDHj2usP5VCoUv-kIA4udjOsQMGQfCo_mUGTJcLTkRBbdM",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJ7ZWPzflOwokRqwoWrGmT3dg",
+            "plus_code":{
+                  "compound_code":"JW56+HV New York, NY, USA",
+                  "global_code":"87G7JW56+HV"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJ7ZWPzflOwokRqwoWrGmT3dg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":371,
+            "vicinity":"755 Targee Street, Staten Island",
+            "CBG":360850040001,
+            "Radius":274.0927994627
+      }
+]

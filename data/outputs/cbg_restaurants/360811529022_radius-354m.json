@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.761416,
+                        "lng":-73.722511
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7627266803,
+                              "lng":-73.7214326197
+                        },
+                        "southwest":{
+                              "lat":40.7600287197,
+                              "lng":-73.7241305803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Commonpoint Queens at Tanenbaum Family Pool",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112079007706749787822\">Commonpoint Queens at Tanenbaum Family Pool<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKc5Uf4HxZ8iZeKo87HlsAftRIM9UbXND83dxpRlyuKrl739DbV2u8hXwfEt3lle68B78KA3MdAMtaVSRs230hAOh2an-S7WrQyPCp3ErKUPz8PXvylrLc1LA3W7UKdb8dqW-LiW2OgmBv9ejfeCIxSHx05gW2vx4-reiYGejQpLds4",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJsxtHbN6JwokRoilE6WAo5cY",
+            "plus_code":{
+                  "compound_code":"Q76G+HX Little Neck, Queens, NY, USA",
+                  "global_code":"87G8Q76G+HX"
+            },
+            "rating":3.9,
+            "reference":"ChIJsxtHbN6JwokRoilE6WAo5cY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":61,
+            "vicinity":"58-25 Little Neck Parkway, Little Neck",
+            "CBG":360811529022,
+            "Radius":353.721672918
+      }
+]

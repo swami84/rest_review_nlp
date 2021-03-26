@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7379123,
+                        "lng":-73.8015882
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7392661803,
+                              "lng":-73.8003688197
+                        },
+                        "southwest":{
+                              "lat":40.7365682197,
+                              "lng":-73.8030667803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mecha",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":354,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106914280300078136126\">Mecha<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxxYYDkHP-QAaPfavOGyBewZqSEmIUqCxcFoU4ZaXhZ2hKQiAE2Z_mDiaLaFq-xRX8NZveVgHuydH17BecQmlp1sixrkB4KqNOSAbCVCnAqeO6svu3u6hyR4oNbfK_XRh8HaIjnRq0U0bj9PpK-UJEvZ4iOHLTOvw5WECEVZ955rg",
+                        "width":408
+                  }
+            ],
+            "place_id":"ChIJE6wpShxhwokRLVsFd5hTxks",
+            "plus_code":{
+                  "compound_code":"P5QX+59 New York, NY, USA",
+                  "global_code":"87G8P5QX+59"
+            },
+            "reference":"ChIJE6wpShxhwokRLVsFd5hTxks",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"61-11 167th Street, Queens",
+            "CBG":360811215001,
+            "Radius":342.0091940367
+      }
+]

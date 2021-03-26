@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNeGYtRDhBRRAB",
+        "caption": "Best pickled mango",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lil whipper",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106659456709557244197/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVNFBDMGp3RRAB",
+        "caption": "One of the best places to get see mui seeds. She also makes her own pickled mango. Call ahead as she runs out.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Sandy Rezentes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112559728629671293754/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbjRlZGh3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Joaquin Vierra",
+        "n_review_user": 82,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112842772775129687450/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvN3ZIRTJ3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Laird Ogata",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114696375470542966622/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvZ2ZHaGV3EAE",
+        "caption": "Great owner. Help me with trying to find some hard to get snack at the time.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Alan Vallesteros",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115356122030692621143/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnXzh5YV9nRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "\u5289\u51a0\u826f",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113098510642759716171/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    }
+]

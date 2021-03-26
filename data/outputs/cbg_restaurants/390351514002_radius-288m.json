@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.535261,
+                        "lng":-81.576234
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.5366099803,
+                              "lng":-81.5748850197
+                        },
+                        "southwest":{
+                              "lat":41.5339120197,
+                              "lng":-81.5775829803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gare St Lazare",
+            "place_id":"ChIJFXiHn57-MIgRb0dVCNaUMCE",
+            "plus_code":{
+                  "compound_code":"GCPF+4G East Cleveland, OH, USA",
+                  "global_code":"86HWGCPF+4G"
+            },
+            "rating":4.4,
+            "reference":"ChIJFXiHn57-MIgRb0dVCNaUMCE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"15000 Euclid Avenue, East Cleveland",
+            "CBG":390351514002,
+            "Radius":288.0998628803
+      }
+]

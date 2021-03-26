@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6069898,
+                        "lng":-74.0667761
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6082566803,
+                              "lng":-74.0653231697
+                        },
+                        "southwest":{
+                              "lat":40.6055587197,
+                              "lng":-74.0680211303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Da Noi",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":998,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110069978281630748885\">Da Noi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtpgOa-eTLJ72J0RvRDawjFLuHkr9gjM7NVdJp11LuXfE-Sto3IsiDx-KrZYxnH0W38O9OcMBoxmjDFgkCsdTaGCKMO3JbLK3DmweuUSo5CnM89uKboZsaTRI7GkewCLriCExN-lfw2dgKT9QBdus9sJ9l7x68SJmXs0hPq8kL0Cxn",
+                        "width":1500
+                  }
+            ],
+            "place_id":"ChIJzTYouQdPwokR2ajDA2dDUKw",
+            "plus_code":{
+                  "compound_code":"JW4M+Q7 New York, NY, USA",
+                  "global_code":"87G7JW4M+Q7"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJzTYouQdPwokR2ajDA2dDUKw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":239,
+            "vicinity":"138 Fingerboard Road, Staten Island",
+            "CBG":360850020012,
+            "Radius":325.6200031756
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6071266,
+                        "lng":-74.0670883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6084359803,
+                              "lng":-74.0657069697
+                        },
+                        "southwest":{
+                              "lat":40.6057380197,
+                              "lng":-74.0684049303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"J&A In & Out Deli & Grill",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJjWNWuQdPwokRFMNob_MHu6Q",
+            "plus_code":{
+                  "compound_code":"JW4M+V5 New York, NY, USA",
+                  "global_code":"87G7JW4M+V5"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJjWNWuQdPwokRFMNob_MHu6Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"147 Fingerboard Road, Staten Island",
+            "CBG":360850020012,
+            "Radius":325.6200031756
+      }
+]

@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9328249,
+                        "lng":-73.9023166
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9340422803,
+                              "lng":-73.9010131697
+                        },
+                        "southwest":{
+                              "lat":40.9313443197,
+                              "lng":-73.9037111303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Saturday Night Chef",
+            "place_id":"ChIJ___PQnDywokRP7jcdsB3G6g",
+            "plus_code":{
+                  "compound_code":"W3MX+43 Yonkers, NY, USA",
+                  "global_code":"87G8W3MX+43"
+            },
+            "reference":"ChIJ___PQnDywokRP7jcdsB3G6g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"45 Prospect Street, Yonkers",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":361190001031,
+            "Radius":137.3926169063
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9346106,
+                        "lng":-73.9017159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9360187803,
+                              "lng":-73.9003422697
+                        },
+                        "southwest":{
+                              "lat":40.9333208197,
+                              "lng":-73.9030402303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Francey Brady's",
+            "place_id":"ChIJu4xqlnDywokRfZ7_a-Mdxvk",
+            "plus_code":{
+                  "compound_code":"W3MX+R8 Yonkers, NY, USA",
+                  "global_code":"87G8W3MX+R8"
+            },
+            "reference":"ChIJu4xqlnDywokRfZ7_a-Mdxvk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"72 Main Street, Yonkers",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113980447167573340644\">Francey Brady&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwILPOfCiqrzORIcC8n4oixzUNxke1qbAcC_ZozwTOsD10lDL83-vbTpcZcTSTA4C3cgahUunsbJ4HNFQzA7fF-VKBaENhWA_JR1MLC9BAKFl8t6CBgX1PJsKSvYwEVOysLAW65jJMWN5iytmpT9deaeMye1-ZMh9Fh35952iHHv4bO6",
+                        "width":1500
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.4,
+            "user_ratings_total":267.0,
+            "CBG":361190001031,
+            "Radius":137.3926169063
+      }
+]

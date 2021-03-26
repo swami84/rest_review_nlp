@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6060014,
+                        "lng":-74.0868073
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6073959303,
+                              "lng":-74.0854116697
+                        },
+                        "southwest":{
+                              "lat":40.6046979697,
+                              "lng":-74.0881096303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"TRI Lounge & Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109191903679086995997\">Delilah Peach-Williams<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyRSuVLLPAI83DxIzjmUqXCuWdO3tqPo72we2Ol5OC__UwObee49eB4vpe4lP0Dlb95WTYBzJjwsplxpnhelff4iD7vNdwMcsZJBt3rDgRYHHmwfnt-eRy0r64Z2ubQSq8dwBqHzZxYVi40zpvbwJC3m7Ua_fJ8gviG0hs7VDZdqvS",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtQjg7cRPwokR5Mf6hMCO5z8",
+            "plus_code":{
+                  "compound_code":"JW47+C7 Staten Island, NY, USA",
+                  "global_code":"87G7JW47+C7"
+            },
+            "rating":4.6,
+            "reference":"ChIJtQjg7cRPwokR5Mf6hMCO5z8",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":111,
+            "vicinity":"1938 Clove Road, Staten Island",
+            "CBG":360850050002,
+            "Radius":263.2396385284
+      }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4cXNlcWxBRRAB",
+        "caption": "The Food is Fresh, tasty. Good portion, I highly recommend JoJo\u2019s. Excellent menu. I\u2019m going back again to try her other dishes. Thanks  JoJo",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lila P",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114218879179274564002/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzZ0x5bkxBEAE",
+        "caption": "Jojo catered our wedding and our guests still rave about it a year later! So excited she opened a spot downtown. Just checked it out today for the first time and it\u2019s super cozy. Def worth a trip and great option for catering a company etc event.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Natalie Hanson",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111594700528660785103/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNX09EVTRBRRAB",
+        "caption": "Awesome Thai curry, will be back for lunch!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Kim Morrissey",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103713188879637681050/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwamFqcGp3RRAB",
+        "caption": "Today was my first time visiting JoJo's Kitchen. I ordered the Thai shrimp curry. It was amazing! It came with a salad, brownie and bottle of water. I cant wait to go back to try another one of her culinary delights!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Kina Fleming",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116846053432665288155/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMweEo2SmdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Samuel Brecher",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103632453768946713521/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    }
+]

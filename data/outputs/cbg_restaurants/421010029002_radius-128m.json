@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":39.930279,
+                        "lng":-75.16609
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9315847303,
+                              "lng":-75.1647684697
+                        },
+                        "southwest":{
+                              "lat":39.9288867697,
+                              "lng":-75.1674664303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Francoluigi\u2019s Pizzeria & Italian Kitchen",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113773482556163450287\">Francoluigi\u2019s Pizzeria &amp; Italian Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKQKpMZV8Dy_JRyjQKci9uOdIRcszF00cL6I70ep4DohYmzwpbzCdk-KRrjhdngTn0XxFssh6VbXkDX7ORWivFVhlqkaxA3MzZJ5NyObzfWaSTZyFmmGaDFTfBdn_42-95m2BOLuRTEbmtKW8tOafNwDZ6DGsUJNe9fSRinDVYEvqkU",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJIcwVpxrGxokRBsR-5NvTa08",
+            "plus_code":{
+                  "compound_code":"WRJM+4H Philadelphia, PA, USA",
+                  "global_code":"87F6WRJM+4H"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJIcwVpxrGxokRBsR-5NvTa08",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":264,
+            "vicinity":"1549 South 13th Street, Philadelphia",
+            "CBG":421010029002,
+            "Radius":128.36273972
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7390413,
+                        "lng":-73.8097699
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7404357803,
+                              "lng":-73.8083982697
+                        },
+                        "southwest":{
+                              "lat":40.7377378197,
+                              "lng":-73.8110962303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Gauchito 2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107236626170834846260\">El Gauchito 2<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKO2_2cSgsM4zhb1-YTm1t8QAKhsig9EuTihRsmr54dNUeLFtEtvm_ih2HKillycxqE5EFYPYpXaWreg01PZfQyE1pkgmbce6klAr7FQJwSXoB4-RwaaCKOzpdsn8XdqIj_ubb65t2_hDup4evk6hw_BUhGSr2rZ8VLIQSrvlbVtoI9",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ0-_YHltgwokRltfZfNbBjc8",
+            "plus_code":{
+                  "compound_code":"P5QR+J3 New York, NY, USA",
+                  "global_code":"87G8P5QR+J3"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ0-_YHltgwokRltfZfNbBjc8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":503,
+            "vicinity":"158 15 Horace Harding Expressway, Queens",
+            "CBG":360811215003,
+            "Radius":210.9872924676
+      }
+]

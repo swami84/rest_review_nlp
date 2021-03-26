@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.0876187,
+                        "lng":-73.9220945
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.0889314803,
+                              "lng":-73.9206420697
+                        },
+                        "southwest":{
+                              "lat":41.0862335197,
+                              "lng":-73.9233400303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Rey Del Pollo",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115741883551060988123\">Chivo Sampayo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIkQ96B2g5TThUklQiYqEwpfA0O2jLvJ2QnmpYFL_Tcm9_OSbWasdIPhxKoC6peNSUesOH7BjcnIVETK4zUHFcpbErArudGpXOXolCvZu87OPeXlTbzOA6U_LrGD2JbfOlSro0GvUk16EJye9Iobihui56ZQ__ahMe4uwr1yvSgGXUY",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJX6LB5RDqwokRR47L_M1ejK0",
+            "plus_code":{
+                  "compound_code":"33QH+25 Nyack, NY, USA",
+                  "global_code":"87H833QH+25"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJX6LB5RDqwokRR47L_M1ejK0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":159,
+            "vicinity":"90 South Franklin Street, Nyack",
+            "CBG":360870132003,
+            "Radius":344.8273933775
+      }
+]

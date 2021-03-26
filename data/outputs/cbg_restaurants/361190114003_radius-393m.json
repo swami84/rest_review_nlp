@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.0623123,
+                        "lng":-73.8517274
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.0637356303,
+                              "lng":-73.8503172197
+                        },
+                        "southwest":{
+                              "lat":41.0610376697,
+                              "lng":-73.8530151803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nikko Hibachi Sushi & Lounge",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111935674087935889239\">Caleb<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK_S3Vzy74T4gDHHPobOKITCibRR0Na7__1_iPh8GkAu6DYd7v_DWSAp4oHVM2cbe8xiv9m_V2CW1p2micmTjsY1sHz-XhI7q9NpWWG0GbS66h6ncEkpEzr9m61KIwy_6cYgqk9OnzY9F7rnD3VWixQubm-n64LEwelOCIjKwMb2T0l",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJmeNqxM_qwokR1PnjdS5Bx8E",
+            "plus_code":{
+                  "compound_code":"346X+W8 Tarrytown, NY, USA",
+                  "global_code":"87H8346X+W8"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJmeNqxM_qwokR1PnjdS5Bx8E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":590,
+            "vicinity":"240 White Plains Road #5804, Tarrytown",
+            "CBG":361190114003,
+            "Radius":392.8745011703
+      }
+]

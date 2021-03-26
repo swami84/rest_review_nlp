@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7480333,
+                        "lng":-73.7612806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7493182803,
+                              "lng":-73.7598936697
+                        },
+                        "southwest":{
+                              "lat":40.7466203197,
+                              "lng":-73.7625916303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sevan Restaurant & Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105909290432998648103\">Sevan Restaurant &amp; Catering<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKXV5lunVsa6h9KRR0vcvvoAwANAKy_NDqe4l8jQGv3IQ5fAwXQSPdIU7wbl6nrfMqME4TFnUxCRuPK1-2y8DT-ct_Nldx5Ty8iSrglgVegj3dsjWd9EjxruMGJWlXS6wQyZkcmx6J7GWqFebxeAguohkQI82xWKEia3CvJ352PkEH5",
+                        "width":2307
+                  }
+            ],
+            "place_id":"ChIJPTMN3-1hwokRR2rMLbEzscE",
+            "plus_code":{
+                  "compound_code":"P6XQ+6F Oakland Gardens, Queens, NY, USA",
+                  "global_code":"87G8P6XQ+6F"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJPTMN3-1hwokRR2rMLbEzscE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":129,
+            "vicinity":"216-07 Horace Harding Expressway, Oakland Gardens",
+            "CBG":360811399001,
+            "Radius":224.3872125964
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7480129,
+                        "lng":-73.7614504
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7492946303,
+                              "lng":-73.7600181197
+                        },
+                        "southwest":{
+                              "lat":40.7465966697,
+                              "lng":-73.7627160803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"L'Italiano Trattoria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3996,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107410986433548093584\">Richard Krauland<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIghmLCElPENvqMN8TKX5zFYGtYeHSEwI50e_T2BKA0YnfcPl9BVdFMi-ShEuOTdtSvMImoXltrcSCbGBw6EQvnFnm34SOK7p9WyjTMEq6pbice5LKywMLL2wUt9zlTgj9kcnkei95hlv5kNnTdvHaYzOw23mG8xoZmmCy1JtxSY5YS",
+                        "width":2664
+                  }
+            ],
+            "place_id":"ChIJ88fU2O1hwokRIyXH7uwC-2g",
+            "plus_code":{
+                  "compound_code":"P6XQ+6C Bayside, Queens, NY, USA",
+                  "global_code":"87G8P6XQ+6C"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJ88fU2O1hwokRIyXH7uwC-2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":104,
+            "vicinity":"216-01 Horace Harding Expressway, Bayside",
+            "CBG":360811399001,
+            "Radius":224.3872125964
+      }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVaEpQWml3RRAB",
+        "caption": "Everyone is always nice here, but they act like their job is a big inconvenience when someone shows up when there's no line. I get breakfast sandwiches here sometimes and half the time nobody is up front at 7:30am (opens at 7) and I end up leaving.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Mallory Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102186068085663318397/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURveEtHQUpnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Mark Kavin Pesca",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111377032897118598972/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRcm9qWklBEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Miriam Zoole",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118018451596470474380/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    }
+]

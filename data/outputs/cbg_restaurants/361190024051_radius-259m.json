@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9292894,
+                        "lng":-73.8577044
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9306362803,
+                              "lng":-73.8562964197
+                        },
+                        "southwest":{
+                              "lat":40.9279383197,
+                              "lng":-73.8589943803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2250,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116155910597941030660\">Camelia Santos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKMnfLVBH_tzvAxRtMcQtSxdXowXH6qYNbx1ItjkuZNyRrZOnUuyc6hwNZnhC5Ot-1VE2GBYMqBvrA9A2IODtPYTlT0xdRNcaJkXfL9aJb1IE1ID5ye4hZ6GTvaJflAUuv34D1WDap57cFgSWPHac5myW2IV1QcWd9BucEMJNTMtfuP",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJiXVZZ6TywokRJbp_FONZORU",
+            "plus_code":{
+                  "compound_code":"W4HR+PW Yonkers, NY, USA",
+                  "global_code":"87G8W4HR+PW"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJiXVZZ6TywokRJbp_FONZORU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1408,
+            "vicinity":"826 Central Park Avenue, Yonkers",
+            "CBG":361190024051,
+            "Radius":259.3419409406
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.92816,
+                        "lng":-73.858219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9295916803,
+                              "lng":-73.8566831697
+                        },
+                        "southwest":{
+                              "lat":40.9268937197,
+                              "lng":-73.8593811303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Al Rayyan",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2322,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109316339979366778482\">Rosendo Pozo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCD7AZ-rFfcSg5AhReGAglDCpMhEeTLDnExuhDymIvA8SN4UnvgaPvOfsspwhcDMc622DYdkpKhBRYq2tnqRhtmXu_8WlQNW7jy1ZKBBno3YCxPPAuB6b3MFoF_RpC5bmSbvk9pMAKj125F4t7w8bY_yupny72klBtKwmm52atTNyR",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJadDARqTywokROdqQKoNQtuQ",
+            "plus_code":{
+                  "compound_code":"W4HR+7P Yonkers, NY, USA",
+                  "global_code":"87G8W4HR+7P"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJadDARqTywokROdqQKoNQtuQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "health",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":254,
+            "vicinity":"785 Central Park Avenue, Yonkers",
+            "CBG":361190024051,
+            "Radius":259.3419409406
+      }
+]

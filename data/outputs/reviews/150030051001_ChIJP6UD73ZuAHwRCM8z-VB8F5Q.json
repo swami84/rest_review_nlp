@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MHFHQm9RRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Felix Xu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118154472424010012733/reviews?hl=en-US",
+        "census_block_group": 150030051001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bTVYc1JnEAE",
+        "caption": "It\u2019s used to be Kong Kee and now called Heaven Chinese Noodle and BBQ Cafe. Right across from Royal Kitchen. This is a small place that serves simple Cantonese comfort food at very very affordable price. They are opened for dine in but could only seat around 12 people. This family run business deserves more 5-star reviews!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Catherine Wong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113465905840991380350/reviews?hl=en-US",
+        "census_block_group": 150030051001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRNk9DRk1nEAE",
+        "caption": "This place is definitely as 'hole-in-the-wall' as it gets, located in the alley way to the right of Royal Kitchen. This is the place for tasty cheap-eats Chinese food. Not a big fan of their fat-noodle dishes, but definitely try their rice plates, such as their black pepper pork chop w/ rice. For the price, you get really decent food! There's free 30-min validated parking in the back (entrance @ Kukui st) where the Chinese School is.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Jack Lui",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116532965791830610019/reviews?hl=en-US",
+        "census_block_group": 150030051001
+    }
+]

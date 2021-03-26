@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9105132,
+                        "lng":-73.8825474
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9118680803,
+                              "lng":-73.8813358197
+                        },
+                        "southwest":{
+                              "lat":40.9091701197,
+                              "lng":-73.8840337803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114890259105014182147\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKqJ0tgSK8VHTov4quPdHPrIq9Vg69BwkUhfkK5cPfUscge4KTZV0FBPmvuUmKb0Fty6o-XBKmtqyIHjpXD482XLX9KM6wcLO4zRuIX133TaYjmiLR5Rat1KSnLE8dobtoSfmCHhqYg6eu-YUPfSffHNr8enWAHHIQcsAfe7yfn2Tv1",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJ73nM1vDywokRo_-uNq5wyn0",
+            "plus_code":{
+                  "compound_code":"W468+6X Yonkers, NY, USA",
+                  "global_code":"87G8W468+6X"
+            },
+            "price_level":1.0,
+            "rating":2.2,
+            "reference":"ChIJ73nM1vDywokRo_-uNq5wyn0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":351,
+            "vicinity":"471 McLean Avenue, Yonkers",
+            "CBG":361190014032,
+            "Radius":199.4862994313
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9105121,
+                        "lng":-73.8834381
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9118528303,
+                              "lng":-73.8819898197
+                        },
+                        "southwest":{
+                              "lat":40.9091548697,
+                              "lng":-73.8846877803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"En lai Chinese restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJM8H4N7bzwokRJz6NggncCyc",
+            "plus_code":{
+                  "compound_code":"W468+6J Yonkers, NY, USA",
+                  "global_code":"87G8W468+6J"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJM8H4N7bzwokRJz6NggncCyc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"85 Tibbetts Road, Yonkers",
+            "CBG":361190014032,
+            "Radius":199.4862994313
+      }
+]

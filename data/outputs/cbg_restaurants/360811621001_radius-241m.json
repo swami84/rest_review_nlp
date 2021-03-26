@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7329404,
+                        "lng":-73.7340149
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7343490803,
+                              "lng":-73.7326781697
+                        },
+                        "southwest":{
+                              "lat":40.7316511197,
+                              "lng":-73.7353761303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113218979648805663966\">Bheejei Jacinto<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwINr8Jlr8vmvZ5nS-GM7itOb25MC4JzyEpnkDfzUqHM6qnaHA0WjfJuvJywAXBKr_R-0GML4dUqmHASbUnrH45ZYBBQP8ntVIVSSZchM4RWmWi0zv5BY3A-FKhQskeDC3ODZIseXqbpC6-vCqigYS1cDriqYopCckbGi2lS_lVTudwq",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJlzHJZzZjwokR5t2prLbrvF0",
+            "plus_code":{
+                  "compound_code":"P7M8+59 New York, NY, USA",
+                  "global_code":"87G8P7M8+59"
+            },
+            "price_level":1,
+            "rating":3.2,
+            "reference":"ChIJlzHJZzZjwokR5t2prLbrvF0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":561,
+            "vicinity":"235-20 Hillside Avenue, Queens",
+            "CBG":360811621001,
+            "Radius":241.2594988546
+      }
+]

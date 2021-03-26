@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7209751,
+                        "lng":-73.8053105
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7223906803,
+                              "lng":-73.8039978697
+                        },
+                        "southwest":{
+                              "lat":40.7196927197,
+                              "lng":-73.8066958303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Papa John's Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":607,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109893475910263233599\">Papa John&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK_9VtqDfNT1FK155bAAB5yeg1xE1ZqFaMO7QGQ8O3Vr-P-kwteqx0HZWpmic5ezj_B3J1thBnk6sAMYi3Jf6EzgFCjs3L5ThoIXDjiu-_27Y4sunTLQoMgOFY6FTGo3kMTkGdalR2HLS3IxM46O69ghYlAIW4985lcnlQdfBUWHh4",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJI9UmuABhwokRezIX-aDj33A",
+            "plus_code":{
+                  "compound_code":"P5CV+9V New York, NY, USA",
+                  "global_code":"87G8P5CV+9V"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJI9UmuABhwokRezIX-aDj33A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":235,
+            "vicinity":"16202 Union Turnpike, Queens",
+            "CBG":360811265002,
+            "Radius":162.6921641497
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.720825,
+                        "lng":-73.8057528
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7222363803,
+                              "lng":-73.8044425697
+                        },
+                        "southwest":{
+                              "lat":40.7195384197,
+                              "lng":-73.8071405303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Manny's Bakery & Restaurant",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1334,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106623882990849129290\">Amelia L<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKG4eX0wUWWXv94zJiofAh7uPE_Y-7S-nWmkeMCJxxoauZM3XBG0h09L16-46KqPx5o2NMv3gBAp1PMrHtZjCEX9zyiPH5HMxvRtM-64iP0DvEtCjw6uMYhNH68WjCdcrbbiTOqaL2aJLVtjMWUToN8Iu7bgi3Qqm-Q3m_s1XmjKvJK",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJ-RvqvPpgwokRD7d_UQer9AU",
+            "plus_code":{
+                  "compound_code":"P5CV+8M New York, NY, USA",
+                  "global_code":"87G8P5CV+8M"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ-RvqvPpgwokRD7d_UQer9AU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":115,
+            "vicinity":"161-18 Union Turnpike, Queens",
+            "CBG":360811265002,
+            "Radius":162.6921641497
+      }
+]

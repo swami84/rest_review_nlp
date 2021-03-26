@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.921889,
+                        "lng":-73.847368
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9232238803,
+                              "lng":-73.8459002197
+                        },
+                        "southwest":{
+                              "lat":40.9205259197,
+                              "lng":-73.8485981803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burkes Restaurant and Bar",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111341442721493014387\">Burkes Restaurant and Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIC5Hc7oI_N2FXFIHCqoG3isNgJ3pbogCNjDeoGnuUX7BJZcT2D1G2Ui0m8Z9FQCOLvDQvk1Vtf0Inx8tWfvI9Pna6--odhrX80dTxqaH2ZZWqyWjUgaY1ZQ11a0r-cdmGPvz0LFg0C2PDf7J22AOSW3-97hx-zIcf_iQDstnYBYPXi",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJSV6TIrLywokRoUzzJdnD3bo",
+            "plus_code":{
+                  "compound_code":"W5C3+Q3 Yonkers, NY, USA",
+                  "global_code":"87G8W5C3+Q3"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJSV6TIrLywokRoUzzJdnD3bo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":558,
+            "vicinity":"645 Bronx River Road, Yonkers",
+            "CBG":361190024031,
+            "Radius":278.1368815508
+      }
+]

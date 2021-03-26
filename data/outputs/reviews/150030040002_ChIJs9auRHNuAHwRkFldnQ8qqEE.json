@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwMk1uRDFnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Wayne Smythe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104197139969934601117/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVaE5iSHFRRRAB",
+        "caption": "Food is always fresh everyday! Love their Salmon Bentos!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "AnnaKopatiola Heimuli",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115339184461956656632/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cUxfbGl3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "J Guerechit",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116824034190033058170/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBX3YzNGp3RRAB",
+        "caption": "",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Steve Van Dinter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113491286242975460181/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    }
+]

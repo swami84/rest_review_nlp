@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7625806,
+                        "lng":-73.7967588
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7640273303,
+                              "lng":-73.7953829197
+                        },
+                        "southwest":{
+                              "lat":40.7613293697,
+                              "lng":-73.7980808803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dannas Deli And Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108194881869677761222\">Maricela Giron<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIbYSdMpS-aKCDzfT2oAo9yauRgUewMdTHLPE9petTgnFMt3fDlq8b1jdyRPP5P2kbMS2EB8m-a4FvhC10DVYp48AUibfBsMLL-31z6GNXnhN69e-7kTTZCKKCYQSMyJolOdT_Q9Naxqoeq7AIcLxRb0iLXQ4sEaeWi-HonsdQc_d1m",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJfb4jmixgwokR05pd1hbH0Xc",
+            "plus_code":{
+                  "compound_code":"Q673+27 New York, NY, USA",
+                  "global_code":"87G8Q673+27"
+            },
+            "rating":4.3,
+            "reference":"ChIJfb4jmixgwokR05pd1hbH0Xc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":87,
+            "vicinity":"169-08 Crocheron Avenue, Queens",
+            "CBG":360811175003,
+            "Radius":211.4469356916
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6846022,
+                        "lng":-73.371192
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6860005803,
+                              "lng":-73.3697669197
+                        },
+                        "southwest":{
+                              "lat":40.6833026197,
+                              "lng":-73.3724648803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Stellas II Pizza",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111059865741833588030\">Stellas II Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyfbWCr06AuBHzewKapnjxAHrbfrbIWiL-J1NgH__oUrPRcp6m8-Ib0oW28kJyPFoADbgq6w6nITnkKz9uyvJRmYJP4loUBR2Hcl77Lo3hAbOcQ_3oO7esHQNzlnb8Pd-4O3ZVR9OyPyc25KyQ1xw-E3IOROhFznqR84cqptudjkTW",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJxcrX2J_U6YkR0KA8DFvxXPk",
+            "plus_code":{
+                  "compound_code":"MJMH+RG Lindenhurst, NY, USA",
+                  "global_code":"87G8MJMH+RG"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJxcrX2J_U6YkR0KA8DFvxXPk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":128,
+            "vicinity":"255 South Wellwood Avenue, Lindenhurst",
+            "CBG":361031242003,
+            "Radius":395.6079497548
+      }
+]

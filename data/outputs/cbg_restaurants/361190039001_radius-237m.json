@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.924571,
+                        "lng":-73.8351922
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9260188303,
+                              "lng":-73.8338001197
+                        },
+                        "southwest":{
+                              "lat":40.9233208697,
+                              "lng":-73.8364980803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Matt's Diner",
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103191095469784985812\">matthew. E<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKZFw9nmxqwQjQs0XI6mVn1ttLBHKOJdxiuzZH2tqc2zPLTlaBh26Cyc-DV2CYNXeG5Als_pTn0eunKyfZ8I7K8nfO5W5TutidCqTWwe3Km2VLzk1zlmpm-Q533CpSKCPPP-t4gTOzhwS2QHRuDmFhuC96ApW6UJcBS76chysXR6vaX",
+                        "width":1620
+                  }
+            ],
+            "place_id":"ChIJt2gtJoiNwokRQZr-l2vsoZU",
+            "plus_code":{
+                  "compound_code":"W5F7+RW Mount Vernon, NY, USA",
+                  "global_code":"87G8W5F7+RW"
+            },
+            "rating":4.6,
+            "reference":"ChIJt2gtJoiNwokRQZr-l2vsoZU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"20 East Grand Street, Mount Vernon",
+            "CBG":361190039001,
+            "Radius":237.0220807061
+      }
+]

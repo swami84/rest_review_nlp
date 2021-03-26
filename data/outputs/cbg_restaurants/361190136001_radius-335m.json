@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1660391,
+                        "lng":-73.8570008
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1673880803,
+                              "lng":-73.8556518197
+                        },
+                        "southwest":{
+                              "lat":41.1646901197,
+                              "lng":-73.8583497803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Las Americas",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":540,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110730129072773358216\">Las Americas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLitFvNoQNsUQaFfEXZVvLkFl7vKdnLPBJYU8uR8EsPQFeZzB675xnVY787hewylggH5U86vkD4pyOwn__PMmS_nySGCjgrUp5OyT8o8jT4tfjcAxMLTTRe1B3K9ndGWSjNyNvvvrsSThnwTR5nrCDMBNFBXE-P7Hud31eBo2mNvn3m",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJaw3NzbPAwokRZ3WL6PBNz8o",
+            "plus_code":{
+                  "compound_code":"548V+C5 Ossining, NY, USA",
+                  "global_code":"87H8548V+C5"
+            },
+            "rating":4.2,
+            "reference":"ChIJaw3NzbPAwokRZ3WL6PBNz8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":268,
+            "vicinity":"87-89 Croton Avenue, Ossining",
+            "CBG":361190136001,
+            "Radius":334.751324048
+      }
+]

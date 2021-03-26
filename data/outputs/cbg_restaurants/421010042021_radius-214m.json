@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.9180793,
+                        "lng":-75.1492252
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9193428303,
+                              "lng":-75.1478951197
+                        },
+                        "southwest":{
+                              "lat":39.9166448697,
+                              "lng":-75.1505930803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Amia's Pizzeria",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2708,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109283625330381457867\">Amia&#39;s Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI97ogfFt5-3x7EZzLxI7tRHTeP5_e0p2y_H766DBoqQ2MaVNdr07HCGmPxviTUR6mFJRNhZn-C-646fLXJUbnfS2CuZ4RK-XmbjURdpxlOMizTcsoXeKiURC3pluIq4U7L5ZeFHk9IYdA1_NdCimuEXKbU5VDI5aN8vV8aGyQc4pc2",
+                        "width":2708
+                  }
+            ],
+            "place_id":"ChIJlfh_NHTJxokRSuQLfHSaFdc",
+            "plus_code":{
+                  "compound_code":"WV92+68 Philadelphia, PA, USA",
+                  "global_code":"87F6WV92+68"
+            },
+            "rating":5,
+            "reference":"ChIJlfh_NHTJxokRSuQLfHSaFdc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"101 West Ritner Street, Philadelphia",
+            "CBG":421010042021,
+            "Radius":213.5097937799
+      }
+]

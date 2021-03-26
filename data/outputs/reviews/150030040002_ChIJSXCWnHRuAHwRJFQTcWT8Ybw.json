@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzNXRtTWZREAE",
+        "caption": "Great staff!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Angelique Fulton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100392136254011249672/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwenQyU1VBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Lil.SisThor 808",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103974350354748206342/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrLWRDVlNREAE",
+        "caption": "The 12\" subs measured shorter than 12\".  We thought Subway corrected this issue nationwide but think the franchisee is still cutting corners with the subs they're selling us patrons.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 3.0,
+        "username": "Dee Dee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108995862492901765131/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9186058,
+                        "lng":-73.7772674
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9199031803,
+                              "lng":-73.7760302197
+                        },
+                        "southwest":{
+                              "lat":40.9172052197,
+                              "lng":-73.7787281803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105677313870692683873\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJQ15UOynBOnibOElDeU5NjnrHHvE0pogKCKCERki8PNL0LFSYNS0nrbHh8kakB-rNtwCHVJHJRqeUpJ4vYcEix-gOO5GwwFqLLvlu2keItUEaufEdyUCt64-U-AJUSBAv1oThRUNk8W2f9s_bLD8gZnZ7egugIEdrN1HnUQlhZb6OZ",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJFbmQWImNwokRyj-3vRMvaVc",
+            "plus_code":{
+                  "compound_code":"W69F+C3 New Rochelle, NY, USA",
+                  "global_code":"87G8W69F+C3"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJFbmQWImNwokRyj-3vRMvaVc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":579,
+            "vicinity":"8 Joyce Road, New Rochelle",
+            "CBG":361190065003,
+            "Radius":445.7047718265
+      }
+]

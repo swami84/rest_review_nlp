@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdEt2SDFBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Youngmi Park",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101741293166847291128/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnbUktTFlREAE",
+        "caption": "Mediocre wraps, hard to tell when they're open as they have no times posted at the location nor on their website. The employees are nice though.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Luis Alicea",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115106465428667226215/reviews?hl=en-US",
+        "census_block_group": 150030040002
+    }
+]

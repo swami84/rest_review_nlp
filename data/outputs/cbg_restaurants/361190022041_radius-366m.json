@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9343708,
+                        "lng":-73.8366759
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9356602803,
+                              "lng":-73.8354872697
+                        },
+                        "southwest":{
+                              "lat":40.9329623197,
+                              "lng":-73.8381852303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Craig\u2019s Hot Dogs",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2283,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105892243175315839968\">Ryan Raaum<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJsePmTPhFtTSR9C4bDPz0r6zVfZFa7HQFnPZwzKvCilVRUMh2U79No2a_BDvwNxmAYqsoXdWFkNOnRvKNSc7PsShXsvDwONtqgUcPhOMYQGtsdEzwHgOJe8htA0tooy-Qb94OgakaM4L22N_r5tc-xOPjlatU1KxDWj0uLkrRr7vrZ",
+                        "width":2526
+                  }
+            ],
+            "place_id":"ChIJJfRvqL2TwokRzSUmp9A8-P0",
+            "plus_code":{
+                  "compound_code":"W5M7+P8 Bronxville, NY, USA",
+                  "global_code":"87G8W5M7+P8"
+            },
+            "rating":5,
+            "reference":"ChIJJfRvqL2TwokRzSUmp9A8-P0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"35 Illinois Avenue, Bronxville",
+            "CBG":361190022041,
+            "Radius":366.2646470421
+      }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpd2FQeUpREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Aldric Ulep",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116727693100790726256/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjaS1DUmxnRRAB",
+        "caption": "If you haven't been to this place yet, try it!  This place is PHENOMENAL!! I love coming here! It is clean, the staff is awesome, and the food is the best part! So, SO good! The soondoobu (spicy tofu soup) is awesome! The bowls are the BEST! The Kimbap is perfect! I work downtown, and have been to most every restaurant around here, and Seoul Kimbap is my #1 favorite place to go! The prices are great too!",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Mike Hardy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114775927152071071119/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNM3RqMTZnRRAB",
+        "caption": "Great service! Food was excellent; The soup was delicious! They even gave my wife a free water, \"for the baby\", because my wife was pregnant. Highly recommend\ud83d\udc4d\ud83d\udc4d",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Zack J",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115159694637603328658/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVdy1TS3FBRRAB",
+        "caption": "The service over here is blessed \ud83d\udc4c\ud83c\udffc Fast service, very professional and nice. Would recommend this place to anyone I know :)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Josh M.",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103851178734920594028/reviews?hl=en-US",
+        "census_block_group": 150030040001
+    }
+]

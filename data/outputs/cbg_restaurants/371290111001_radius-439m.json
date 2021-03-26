@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.2246306,
+                        "lng":-77.9443502
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.2260177803,
+                              "lng":-77.9430074697
+                        },
+                        "southwest":{
+                              "lat":34.2233198197,
+                              "lng":-77.9457054303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104122883052682373700\">juan Torres<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5kUKueE-GuAtSCDnSjrLInpINNa9gDggHg48jWV1MpLCHG5UIVuChQsGwPMfg4yXV4Qg2M9StH5-n7Y-jm16kBnoGvMce8X87NLZRQLKrghRJrujwe_h0pd1EAewKMKoOQZTG0EUYu0y2jIDH_9XSLoc7cwEYuV64LH7v5Oqw3Ac0",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJpYJsY8wfqokRQlFmPpcVq54",
+            "plus_code":{
+                  "compound_code":"63F4+V7 Wilmington, NC, USA",
+                  "global_code":"876463F4+V7"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJpYJsY8wfqokRQlFmPpcVq54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":977,
+            "vicinity":"819 South 3rd Street, Wilmington",
+            "CBG":371290111001,
+            "Radius":438.8756755721
+      }
+]
