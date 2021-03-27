@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.7280537,
+                        "lng":-95.4540495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.7294953803,
+                              "lng":-95.4527040697
+                        },
+                        "southwest":{
+                              "lat":29.7267974197,
+                              "lng":-95.4554020303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Titilayo Hospitality Group",
+            "place_id":"ChIJ__8DnQvBQIYRWEjNbWgeACI",
+            "plus_code":{
+                  "compound_code":"PGHW+69 Greenway\/Upper Kirby, Houston, TX, USA",
+                  "global_code":"76X6PGHW+69"
+            },
+            "reference":"ChIJ__8DnQvBQIYRWEjNbWgeACI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"4655 Wild Indigo Street, Houston",
+            "CBG":482014117001,
+            "Radius":371.2427479428
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.7274346,
+                        "lng":-95.4512846
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.7287843803,
+                              "lng":-95.4499026697
+                        },
+                        "southwest":{
+                              "lat":29.7260864197,
+                              "lng":-95.4526006303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Food , eh \/trailer",
+            "place_id":"ChIJSelIcnvBQIYRIoToTNkGfhY",
+            "plus_code":{
+                  "compound_code":"PGGX+XF Greenway\/Upper Kirby, Houston, TX, USA",
+                  "global_code":"76X6PGGX+XF"
+            },
+            "reference":"ChIJSelIcnvBQIYRIoToTNkGfhY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Houston",
+            "CBG":482014117001,
+            "Radius":371.2427479428
+      }
+]

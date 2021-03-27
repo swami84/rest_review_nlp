@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.542581,
+                        "lng":-122.272709
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.5439062803,
+                              "lng":-122.2714345197
+                        },
+                        "southwest":{
+                              "lat":47.5412083197,
+                              "lng":-122.2741324803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Cafe Avole",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":639,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111903000560661861491\">Cafe Avole<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKekdf7NmToirDebF2Nym7Hi2HEI95fEoXIaBLm-WiH_xD8F1mE-LDXAVYR9AxPiCjWkqAFa55tgwMfXZewAPs-ihJJ-AbgW8vm1mjhxGbFScfwpjb8aw21Q93EIfVTV6yif-QyMoxoaXfz1_zOpfmmS7p4CsiWrsN8YKp5e9y55Ckm",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJm6vsHP9pkFQR24kDefGYvf8",
+            "plus_code":{
+                  "compound_code":"GPVG+2W Seattle, WA, USA",
+                  "global_code":"84VVGPVG+2W"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJm6vsHP9pkFQR24kDefGYvf8",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":194,
+            "vicinity":"6630 Rainier Avenue South #3350, Seattle",
+            "CBG":530330111011,
+            "Radius":228.4285111637
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":47.5410432,
+                        "lng":-122.2722322
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":47.5424760303,
+                              "lng":-122.2707420697
+                        },
+                        "southwest":{
+                              "lat":47.5397780697,
+                              "lng":-122.2734400303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taqueria Los Potrillos 1",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100168833196185124137\">Morgan Black Crow<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKAaxRbW9Vamc3CErr--h4ZJvJO8u5BtZsbMFuG3kk9g95c4PmNtMcgB74EiNp7Bqag-PNgX7L5b7kfm1Us5DioeA_kchkVSOwsTvrLnWJ4IdeWwbn4cIfdKO07mlLFyFzFcC6w0XE2HxDdexq1xyd6Gpb2zgQ1bJZRi4WgUTmp3wJ1",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJp8eJoQFqkFQREBYBizNn8lU",
+            "plus_code":{
+                  "compound_code":"GPRH+C4 Seattle, WA, USA",
+                  "global_code":"84VVGPRH+C4"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJp8eJoQFqkFQREBYBizNn8lU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":132,
+            "vicinity":"6815 Rainier Avenue South, Seattle",
+            "CBG":530330111011,
+            "Radius":228.4285111637
+      }
+]

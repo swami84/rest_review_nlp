@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.8165944,
+                        "lng":-95.3962661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.8179434803,
+                              "lng":-95.3948292197
+                        },
+                        "southwest":{
+                              "lat":29.8152455197,
+                              "lng":-95.3975271803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hot Dog Stand - Los 5 Hermanos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105974476565952820737\">Red Spoon<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK3LGNI6c_zPJGcWibbQTRsopHzdZMMi1F9q33Slq9lPbAUwdMxcRqYZxnlr0gv1xCOrFeORVrOmQXzp6I6t_dmvh3iHoGuXENX0uLyaxMW8GV2JWlMYFXjfz8DmBCr2QOvgkd5CGhc1ZPjZbzMVaCIxVAetRYg-w4EQnxJSmwMeKgB",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJfTWvv9LHQIYRE4yVENryPNQ",
+            "plus_code":{
+                  "compound_code":"RJ83+JF Northside, Houston, TX, USA",
+                  "global_code":"76X6RJ83+JF"
+            },
+            "rating":5.0,
+            "reference":"ChIJfTWvv9LHQIYRE4yVENryPNQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"3303 Cortlandt Street, Houston",
+            "CBG":482015303002,
+            "Radius":340.6598009672
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.8156136,
+                        "lng":-95.3979329
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.8170634303,
+                              "lng":-95.3965858197
+                        },
+                        "southwest":{
+                              "lat":29.8143654697,
+                              "lng":-95.3992837803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Adkins Barbeque Place",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117316445451355569485\">Deorsy Wilson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIpX68_6sG28m3UjqlNeCMO-oboFiMaZEuI47ammUAEB3cD1pzik632V1AS0joagukyF2r3oS2R7jHyMRVH4r7CM4HNwsYhRsh_zMgCQhqqEqZNYHsKcW3LPRHDKqkGhMjxwB4X7WNgis-nD8LHM6Gyy0i0AtdvfSEsAcm5vwtCmCz-",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJt0a6In_HQIYRNSED10LMK4c",
+            "plus_code":{
+                  "compound_code":"RJ82+6R Northside, Houston, TX, USA",
+                  "global_code":"76X6RJ82+6R"
+            },
+            "rating":3.8,
+            "reference":"ChIJt0a6In_HQIYRNSED10LMK4c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"120 East 32nd Street, Houston",
+            "CBG":482015303002,
+            "Radius":340.6598009672
+      }
+]

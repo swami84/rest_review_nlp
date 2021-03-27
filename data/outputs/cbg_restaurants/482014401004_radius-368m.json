@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.6582041,
+                        "lng":-95.5621484
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.6595779803,
+                              "lng":-95.5609375197
+                        },
+                        "southwest":{
+                              "lat":29.6568800197,
+                              "lng":-95.5636354803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"App8ite Bar and Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107439930491138952220\">Chibuzo Elonu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI0evnv30w4z7GD2mk42Wp-hvFor3-PiSQJV4C4x6WVGk6VtON29hiR0Y-XpSg9GFsIDG0GSi7-6MoJ2S0Od-cJs9i4hePOhB27pKATSpFsBNZUBaQR57R0sfiu9eU5s9QRZwxwVqI6tMT1W1YuvYDpVboR9lbXRE9jvs-BN-us_ipq",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ2RGDhuLnQIYRxbi48YsaVMw",
+            "plus_code":{
+                  "compound_code":"MC5Q+74 Alief, Houston, TX, USA",
+                  "global_code":"76X6MC5Q+74"
+            },
+            "rating":3.4,
+            "reference":"ChIJ2RGDhuLnQIYRxbi48YsaVMw",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"11160 Southwest Freeway, Houston",
+            "CBG":482014401004,
+            "Radius":367.557281432
+      }
+]

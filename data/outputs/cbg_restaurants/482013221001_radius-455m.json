@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.6911576,
+                        "lng":-95.2054888
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.6923462303,
+                              "lng":-95.2041409697
+                        },
+                        "southwest":{
+                              "lat":29.6896482697,
+                              "lng":-95.2068389303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Donut Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ86q-YJ-iQIYRyM-0K-oa6RE",
+            "plus_code":{
+                  "compound_code":"MQRV+FR Pasadena, TX, USA",
+                  "global_code":"76X6MQRV+FR"
+            },
+            "rating":5.0,
+            "reference":"ChIJ86q-YJ-iQIYRyM-0K-oa6RE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"631 Southmore Avenue, Pasadena",
+            "photos":null,
+            "price_level":null,
+            "CBG":482013221001,
+            "Radius":455.1118427583
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.6925364,
+                        "lng":-95.2088485
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.6938038303,
+                              "lng":-95.2077365697
+                        },
+                        "southwest":{
+                              "lat":29.6911058697,
+                              "lng":-95.2104345303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ71kbaOujQIYRBa_Ex98kx5g",
+            "plus_code":{
+                  "compound_code":"MQVR+2F Pasadena, TX, USA",
+                  "global_code":"76X6MQVR+2F"
+            },
+            "rating":3.9,
+            "reference":"ChIJ71kbaOujQIYRBa_Ex98kx5g",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":207,
+            "vicinity":"1201 Main Street, Pasadena",
+            "photos":[
+                  {
+                        "height":682,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109555057414526861267\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJnIt3Bfdjb9ubjSUhYkGCOJ_o5n211UXZjMBLvBfGErGiAYQFSjOX5mmKLiLOVjn8lnnx2pBCMZVB9cJdN8hdbnv3pTgvOvH-jrU1A5b_2lOKpX8mG7sjCCHnlIVnF29xNzf_gaJt4va65vZdtoTrkEITsZkNCFEKr3SHOiZzShnwi",
+                        "width":1024
+                  }
+            ],
+            "price_level":1.0,
+            "CBG":482013221001,
+            "Radius":455.1118427583
+      }
+]
