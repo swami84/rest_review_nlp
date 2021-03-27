@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bS1EXzBRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Talip Tarhan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115137794773051447392/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eTRTSFZnEAE",
+        "caption": "I love the food at this place!  They use fresh ingredients and put TLC into their meals.  Fresh vegetables are used.  And everything is delicious.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Anne",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117679978866626968611/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ZzZ6RHZBRRAB",
+        "caption": "The breakfast Brito is really good and so are the pancakes my brother want to take my food because it was really good",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Abigaile Perez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108034031580499536848/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    }
+]

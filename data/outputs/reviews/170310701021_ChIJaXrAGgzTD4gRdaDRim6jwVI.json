@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbmNuc0xnEAE",
+        "caption": "I dine in this place from time to time! This is my favorite restaurant to dine.  I go to this spot routinely. The cooking is excellent, the staff members are friendly and the payment is fair. I like meeting in this spot for a tasty meal.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Douglas Hardy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111230970583108510868/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBM2UtVkdREAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "Gisela Davila",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118287036813047510401/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNG9EOE13EAE",
+        "caption": "Incredible home made food.  Everything made fresh.",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Joe Lucarelli",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108768682969625474986/reviews?hl=en-US",
+        "census_block_group": 170310701021
+    }
+]
