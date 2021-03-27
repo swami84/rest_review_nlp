@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURneDhicjdBRRAB",
+        "caption": "Good food and place great breakfasts!!!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Francisco Aguilar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114726170283331472493/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBcWJES19nRRAB",
+        "caption": "Decent place to go for lunch when the weather is bad, If you are allergic to peppers, they have red peppers in almost everything.  Sometimes they have sushi but its overpriced for what it is.  Great breakfast,  2 egg omelet,  and Waffles or French Toast.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Adam Panek",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114211916142602950060/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRNkwyQVV3EAE",
+        "caption": "The food here is pretty good and the variety is sufficient for a building cafe. You pay a little more than some restaurants or food courts, but it's still reasonable and the convenience of not having to leave a building when grabbing lunch is nice.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Michael Boyadjian",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102238192086924544240/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnck5QamNnEAE",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Jimit Mehta",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115143792855662192255/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    }
+]

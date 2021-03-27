@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNd2VUQ2NREAE",
+        "caption": "Food was good but pricey. We enjoy a little bit of sweet and savory for breakfast but it was hard to do without building your own - and making it even more expensive. Staff friendly and courteous.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Brenda Malone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114851419846539350012/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0MkkzeldREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Matt Coglianese",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113933202922723856853/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBLXJqR0lBEAE",
+        "caption": "Beautiful contemporary space. Tasty breakfast. The fresh fruit plate is awesome with vanilla creme fraiche, so good. Really enjoyed the biscuits and gravy, not too heavy and very flavorful.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Antonia Asimis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109369689559052712999/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdzZISWFnEAE",
+        "caption": "One of the best atmosphere in chicago. The only problem is it's not very lively",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Wale",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111942806183152903825/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    }
+]

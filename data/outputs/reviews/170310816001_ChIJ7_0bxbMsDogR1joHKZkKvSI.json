@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwby16TTlBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Anthony andrews",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104200034657553954655/reviews?hl=en-US",
+        "census_block_group": 170310816001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3NHNieVdnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Aynia Blue",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104130701693561260333/reviews?hl=en-US",
+        "census_block_group": 170310816001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdC1hb3lBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Vivian Rohleder",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110694517730027275404/reviews?hl=en-US",
+        "census_block_group": 170310816001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnNy1qTllREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Adam Knade",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107741979793838601593/reviews?hl=en-US",
+        "census_block_group": 170310816001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBMzdPQ3JnRRAB",
+        "caption": "What an amazing company. Although I haven't had the chance yet to make an appointment for assistance, this company is very well respected & is growing bigger each day. I need help in opening a nightclub and/or restaurant here in Jacksonville, Florida. But I'd really love to work for Mr. Dec himself. Chicago is blessed to have him and this company.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "A. Joneser",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107234340427847568966/reviews?hl=en-US",
+        "census_block_group": 170310816001
+    }
+]

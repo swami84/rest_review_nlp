@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwN2NmMlV3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Beniada Shabani",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110806396108838186934/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrLTVQNHZRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "E Lin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102362826070645797777/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZek5xX2JnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Yuer X",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114403297617091711047/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJcV83VXVRRRAB",
+        "caption": "This is a stand inside Whole Foods, not a standalone restaurant. The ingredients are pretty high quality but there's little variety. The portions are small and there's always a line.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Diana R. Jiang",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117059476911721313629/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJZ2NqRWRBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Nicole Byer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106340125104956643857/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJdnJYX3pnRRAB",
+        "caption": "As a foodie - this is the spot to go to when I want to feel healthy and want it to taste good.  You can eat here every day for lunch for a week straight (I did) and you won't get sick of it.  It's THAT good.  A little tricky to find the cart...Try salmon with coconut sauce!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Joel Fitzgerald",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115837168288131940963/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJam9XcVp3EAE",
+        "caption": "one of our go to foods now - great food and fresh options - fast high end for the location - cool cart",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Studio 6F",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116050268033880479428/reviews?hl=en-US",
+        "census_block_group": 170310814033
+    }
+]

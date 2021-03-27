@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MU4zSGVREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Conley Pollard",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106584662804758791218/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a0tmTDl3RRAB",
+        "caption": "Lyfe Kitchen is great for a healthy, quick lunch. Meals are a little overpriced for the lackluster prep and overall basic nature of the dishes.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Scott Rauch",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116552196724907598892/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOXNQc1lREAE",
+        "caption": "$20 for 3 small pieces of bacon, one burnt, 1 slice of bread with some avo and egg TOSSED into a container and a cup of coffee, along with an irritated counter guy when asked about order...I was dumb enough to add a tip...NEVER AGAIN HERE, DONT EAT HERE",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Deborah Turgeon",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109270211291012016670/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNE5xeGNREAE",
+        "caption": "The service was rushed, people inside the restaurant were not wearing masks (nor did I hear any employee say anything regarding it), it was overpriced for what it was and simply put : the food just wasn't goos.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "Andre Barreto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110561521348665206293/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzeWYyQ253RRAB",
+        "caption": "Service great staff excellent, very clean",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Marv English",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100978801772245889747/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwbnJpQW9RRRAB",
+        "caption": "LYFE kitchen is a fast causal- health conscious spot in River North.  The food is decent and the vibes are those of a Panera but the food is a great option for a quick healthy lunch/dinner.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Alex Blanco",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102127813577840072027/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURFeHNMY1VREAE",
+        "caption": "The best and healthiest foods ever.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Turina Choudhry",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104964110991427654477/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0bE0tLTZ3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Rosemary Mines",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103906536967168431746/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvdnFYY3V3RRAB",
+        "caption": "This place has amazing healthy fast food. They have a plant-based hamburger (no soy) that\u2019s really delicious. I\u2019m not even vegetarian and I go for that most time I go there. Also they use compostable straws, that\u2019s cool. Highly recommend the blueberry oat smoothie as well.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Guillaume Fortina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113324762394460741995/reviews?hl=en-US",
+        "census_block_group": 170310814032
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpakstaWJ3EAE",
+        "caption": "Everything is super classy so dust off your tuxedo tshirt and be ready to mingle with the FiDi crowd.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Lois Barnes",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108244022065873263984/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdEpQOGNnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Angela Smurawa-Chavez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116580877019580355549/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVZ1pfeE1REAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Chris Lu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100040418369934156175/reviews?hl=en-US",
+        "census_block_group": 170310815003
+    }
+]
