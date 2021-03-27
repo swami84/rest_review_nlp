@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8711297,
+                        "lng":-71.3867566
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8725102303,
+                              "lng":-71.3854666197
+                        },
+                        "southwest":{
+                              "lat":41.8698122697,
+                              "lng":-71.3881645803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cantinho Bar & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115628436218109135751\">Cantinho Bar &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJZOAJFrLRNb11tTUUtCEXDa6Uq73TQn5Qd3Ecxcu0RjP0aNPcD_fxbY-5vvCniltxiJ1NnF9Xcr3loCFWopYJawCsqymKFqIi_z1TkKvwCi-ZPF9wcnXjeGgmZ0w77a5_faUcluQlgsrQ773IS9H4Nxub1ImHL6NXiY2OA4hqL_rnS",
+                        "width":852
+                  }
+            ],
+            "place_id":"ChIJCwxrSKpE5IkR4S9sIpbIjFc",
+            "plus_code":{
+                  "compound_code":"VJC7+F7 Pawtucket, RI, USA",
+                  "global_code":"87HCVJC7+F7"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJCwxrSKpE5IkR4S9sIpbIjFc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":120,
+            "vicinity":"82 Pawtucket Avenue, Pawtucket",
+            "CBG":440070161002,
+            "Radius":234.3221368486
+      }
+]

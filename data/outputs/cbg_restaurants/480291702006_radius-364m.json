@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.4241628,
+                        "lng":-98.5271103
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.4255078303,
+                              "lng":-98.5258701197
+                        },
+                        "southwest":{
+                              "lat":29.4228098697,
+                              "lng":-98.5285680803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sonic Drive-In",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1656,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103196261964109017717\">juan sanchez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLT3ZjcwdvXZCZ3bxJyUrYnpWGGvxUVUP7G-qy9FMoGJhOzZWkhnUHz5aweZn_Juttq1fykFVtdLGsWebb2BoC0gzDnrGjw4ocva-G_MynpCPyB5-icG09jkfMFyeGNLaPYhX3EHLPpawrLwtVay-xXU_MwP1MFFQDhG7CMMfEVxcck",
+                        "width":2208
+                  }
+            ],
+            "place_id":"ChIJUdy-lipfXIYRAyi3A4uhvuQ",
+            "plus_code":{
+                  "compound_code":"CFFF+M5 San Antonio, TX, USA",
+                  "global_code":"76X3CFFF+M5"
+            },
+            "price_level":1.0,
+            "rating":3.5,
+            "reference":"ChIJUdy-lipfXIYRAyi3A4uhvuQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1007,
+            "vicinity":"422 South Zarzamora Street, San Antonio",
+            "CBG":480291702006,
+            "Radius":364.4337185569
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.4275533,
+                        "lng":-98.5260706
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.4289058303,
+                              "lng":-98.5249234697
+                        },
+                        "southwest":{
+                              "lat":29.4262078697,
+                              "lng":-98.5276214303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Cachanilla Shaved Ice",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106891730025174774197\">El Cachanilla Shaved Ice<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJUEANLEU0WrzDlJltbAt5r1gE6uoxi-GcfXlxJtrL6QxeDvf6FFJ2Rln1PcKpklDqpOtMMY2_4PvFW4bi-b_jXaIV6fg0sRUimb0mYk2tlxeM50ey-mWDEHihaZ0Mo7T7pE4Nqh_VwjYDhUdfReZFE5_Iw5w2pJ6ye5PzAZqyvKO3r",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJ-wp5NypfXIYRjt1IpfHhO9Q",
+            "plus_code":{
+                  "compound_code":"CFHF+2H San Antonio, TX, USA",
+                  "global_code":"76X3CFHF+2H"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJ-wp5NypfXIYRjt1IpfHhO9Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"100 South Zarzamora Street, San Antonio",
+            "CBG":480291702006,
+            "Radius":364.4337185569
+      }
+]

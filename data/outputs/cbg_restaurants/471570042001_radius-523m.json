@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":35.1461357,
+                        "lng":-90.053441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":35.1475000303,
+                              "lng":-90.0522987197
+                        },
+                        "southwest":{
+                              "lat":35.1448020697,
+                              "lng":-90.0549966803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lennys Grill & Subs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":567,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105902471460834470990\">Lennys Grill &amp; Subs<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5_GavgdUwNJhwoYvmPsZ7m3Bbb-yY2Om6bO1MdJh_k3jSRS7fg-jRDr0IA6TahvUMyRic_hWRVGNfoj4sVsOTDR8JYwgQMEs7bJsoo3WfL1_SiMap1lzTBCUtkak8Cmv4QHx-KujC_a1eQSDR3F5VLoTpRJJZ3QkisYq6e_VPW8j2",
+                        "width":1008
+                  }
+            ],
+            "place_id":"ChIJtVOBqpV-1YcRtbXdANOfOpc",
+            "plus_code":{
+                  "compound_code":"4WWW+FJ Memphis, TN, USA",
+                  "global_code":"867F4WWW+FJ"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJtVOBqpV-1YcRtbXdANOfOpc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":189.0,
+            "vicinity":"22 North Front Street #111 Side of bldg. W, Court Avenue entrance, Memphis",
+            "CBG":471570042001,
+            "Radius":522.8238661745
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":35.14712,
+                        "lng":-90.0530519
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":35.1483180303,
+                              "lng":-90.0517665697
+                        },
+                        "southwest":{
+                              "lat":35.1456200697,
+                              "lng":-90.0544645303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Guy's Cafe",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJswMQue5-1YcRShasy4KqhY4",
+            "plus_code":{
+                  "compound_code":"4WWW+RQ Memphis, TN, USA",
+                  "global_code":"867F4WWW+RQ"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJswMQue5-1YcRShasy4KqhY4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"50 North Front Street, Memphis",
+            "CBG":471570042001,
+            "Radius":522.8238661745
+      }
+]

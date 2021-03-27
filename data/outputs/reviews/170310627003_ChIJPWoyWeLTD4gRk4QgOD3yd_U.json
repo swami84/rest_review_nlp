@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NVl1clBnEAE",
+        "caption": "Excellent, fresh food. Delicious cocktails! Great delivery.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Talya Hellman",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114342558512843218919/reviews?hl=en-US",
+        "census_block_group": 170310627003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bU9fLU9BEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "Juan Luis Reyes Diaz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103410161029766165946/reviews?hl=en-US",
+        "census_block_group": 170310627003
+    }
+]

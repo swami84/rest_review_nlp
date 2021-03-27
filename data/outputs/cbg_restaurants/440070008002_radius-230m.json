@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8212059,
+                        "lng":-71.415253
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8224997803,
+                              "lng":-71.4138648697
+                        },
+                        "southwest":{
+                              "lat":41.8198018197,
+                              "lng":-71.4165628303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Black Sheep",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3829,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107299393724100943988\">Justin Case<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJkcElOn8AwalVu3PT79eklWgwgeN3_Nq2wxyiMkwjWA-OtQe-pz1SSVRxrqCYJ1pobGipjcJ7EBAJaunfNlTXvkY8nQ82asrP9WwpTd5_GRB5tWm4dEf0g6jwU6TEeAeT3gq5Ig3oYJ-9PfkdpqjA4YlE3PwsAkGbkjravx4sv_xev",
+                        "width":5744
+                  }
+            ],
+            "place_id":"ChIJkyxS3hJF5IkR8kJQj2yLs2g",
+            "plus_code":{
+                  "compound_code":"RHCM+FV Providence, RI, USA",
+                  "global_code":"87HCRHCM+FV"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJkyxS3hJF5IkR8kJQj2yLs2g",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":430,
+            "vicinity":"397 Westminster Street, Providence",
+            "CBG":440070008002,
+            "Radius":230.0994493876
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.813757,
+                        "lng":-71.4123337
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8150896803,
+                              "lng":-71.4110513197
+                        },
+                        "southwest":{
+                              "lat":41.8123917197,
+                              "lng":-71.4137492803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"California Taco Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107541110040916039386\">Faustino Rocha III<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJu7zC_VhVTcW-htoN_eFH_z4N5Jb4c6NKM41OzZV_W25azBepctWkgulT0ftOZZh4lZiIoNlV9x-bOQa3_rh--l1J7NKhyu73ds8df6bZH4an3u5o4uDFWiWWr3uhw60u7Xc5CckKYlh_b2Fqk7k20atTwh7FMKKsvN3kohmJngiCE",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJq6qmtW5F5IkRDgsdE0gNcUA",
+            "plus_code":{
+                  "compound_code":"RH7Q+G3 Providence, RI, USA",
+                  "global_code":"87HCRH7Q+G3"
+            },
+            "rating":4.4,
+            "reference":"ChIJq6qmtW5F5IkRDgsdE0gNcUA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":216,
+            "vicinity":"94 Plain Street, Providence",
+            "CBG":440070007001,
+            "Radius":204.3908659469
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7484223,
+                        "lng":-96.8129438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7497013303,
+                              "lng":-96.8116401197
+                        },
+                        "southwest":{
+                              "lat":32.7470033697,
+                              "lng":-96.8143380803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Del Sur Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2072,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106446081916090190188\">Tyler Cherry<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5wM75zUvywhJy55CpD4VH4_Y8ZG9YOQ9vTgT4c8XgXq-9AwrmN79L-YNSLl8s5NdSRcK-itTsQDY4OEB-EQb654xvCiTL8QjkenRIsKX2tnQ9Kmk5GJjgXlcrPD3RgyDd-wMhMJ4_VnDYuEvjoywiLqLzaVnNTfLLBbNPObf7LNuQ",
+                        "width":2768
+                  }
+            ],
+            "place_id":"ChIJBYG_C56ZToYR4kqgHrNjQaE",
+            "plus_code":{
+                  "compound_code":"P5XP+9R Dallas, TX, USA",
+                  "global_code":"8645P5XP+9R"
+            },
+            "price_level":2.0,
+            "rating":4.5,
+            "reference":"ChIJBYG_C56ZToYR4kqgHrNjQaE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":276,
+            "vicinity":"720 East Jefferson Boulevard, Dallas",
+            "CBG":481130048001,
+            "Radius":353.0668482277
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7476831,
+                        "lng":-96.8154848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7490323303,
+                              "lng":-96.8142123697
+                        },
+                        "southwest":{
+                              "lat":32.7463343697,
+                              "lng":-96.8169103303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taqueria Tiquicheo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113573373299262999546\">Angel Alvarez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKncEg2THdxwQ5xR1v8zw7efDO-0r929DKpYsSvAAuc_w12K20EdWx3fqbUvMepj8_SCmEXNKjgTgEYndMcSk5NuAfVUWi_RQHxYnyUibUoRMUDKxZc5LXP6wcMvh5extsz__60HexaDxYEF7hCMmhUkyiqfhKj9WJUc2zGvJwik5jU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5wS8OpiZToYRE6OlJm0ndEk",
+            "plus_code":{
+                  "compound_code":"P5XM+3R Dallas, TX, USA",
+                  "global_code":"8645P5XM+3R"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJ5wS8OpiZToYRE6OlJm0ndEk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":98,
+            "vicinity":"110 South Marsalis Avenue #5136, Dallas",
+            "CBG":481130048001,
+            "Radius":353.0668482277
+      }
+]

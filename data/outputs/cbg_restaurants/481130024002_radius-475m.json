@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.7909436,
+                        "lng":-96.7619959
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.7922254803,
+                              "lng":-96.7605686697
+                        },
+                        "southwest":{
+                              "lat":32.7895275197,
+                              "lng":-96.7632666303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Maravatio Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113849381018338909140\">Maravatio Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKGF8p8fAQkSFMBDTnbw7cHLiMqp6e-tkvxsLo8Y9S2z2yXz6DZWVKN7-mNpCnuXUBmb9-VcnsB6sncKQ9gidTSmD6aWSRsvLFl84kMcVNYF4wDa72efDhrJlmKFuPzOMkKlwR2XETYjiqNIIt6ynVHNTWL3EViE2BfWgKvLe1w_aVs",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJc4QibbuYToYR_GD4jU1PJ50",
+            "plus_code":{
+                  "compound_code":"Q6RQ+96 Dallas, TX, USA",
+                  "global_code":"8645Q6RQ+96"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJc4QibbuYToYR_GD4jU1PJ50",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"4619 East R L Thornton Freeway, Dallas",
+            "CBG":481130024002,
+            "Radius":475.4016235754
+      }
+]

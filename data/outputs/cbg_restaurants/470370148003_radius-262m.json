@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":36.1494488,
+                        "lng":-86.7651278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.1509258303,
+                              "lng":-86.7637114697
+                        },
+                        "southwest":{
+                              "lat":36.1482278697,
+                              "lng":-86.7664094303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mr Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117705569482816569250\">Bryan Rahn<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKmFXE4OhOHu_NDQA_2gfS795MFJpdDAK94eYkA3qvKpOjyocTkFNXQAaf-BD5kajjfzpwkVCh8SVptOZBSj2ZOJm42wv6AfJKLSWJkhfUL1pAQlekDAA40mY8DfeTaQvJzJO9BvMDizqIh7FLqdnjfLg2L_RHVkTSNiDvtTqUrQJWv",
+                        "width":2500
+                  }
+            ],
+            "place_id":"ChIJreZIY2tmZIgRN0uN39h4ohg",
+            "plus_code":{
+                  "compound_code":"46XM+QW Nashville, TN, USA",
+                  "global_code":"868M46XM+QW"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJreZIY2tmZIgRN0uN39h4ohg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"49 Lafayette Street, Nashville",
+            "CBG":470370148003,
+            "Radius":261.5461452408
+      }
+]
