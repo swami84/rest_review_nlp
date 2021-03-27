@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLME8zZEVREAE",
+        "caption": "Awesome \ud83d\udc4c Very tasty and large portions, friendly, professional, fast service. I will be back for more.",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Laura Rosen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102048107075938578330/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5amQ2dWdBRRAB",
+        "caption": "really good! great dishes! the chicken sisig is my fave! must try",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Jasper Abon",
+        "n_review_user": 28,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116911795485787201904/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OGVfc2VnEAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "T Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100864736509981090066/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MHNTdUNBEAE",
+        "caption": "I heard about this place for the first time last week and had to try it since Filipino food is rare out here. I enjoyed the Tocilog and Pork Adobo, and will definitely be coming back! The portion sizes were great too.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Patrick Thornton",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107158805970852012968/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5amN1YkNBEAE",
+        "caption": "Amazing food. Amazing service. Has probably been our favorite place to eat from since we've moved up to Champaign.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Trenton Moody",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115399730971730527520/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NXQ3b3NRRRAB",
+        "caption": "My favorite food is the Ban - sew, known as the Vietnamese pancake It looks like an omelette \ud83d\ude0a",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Lena Rothmund",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109627915530396129500/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5b3NIbzJBRRAB",
+        "caption": "The sisig is quite good. Service was excellent. Staffs are friendly. Price is reasonable.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "edward caballero",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107129456083560566737/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5b3RiUVdBEAE",
+        "caption": "So much potential to improve. Wish they gave me at least a slice of cucumber for this $12 \"combo meal.\"",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 2.0,
+        "username": "Zelda Bergen",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100364510854887926977/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NnBiT2lnRRAB",
+        "caption": "This has been my go-to since moving to the city 5 years ago. Beef Fried Rice for me. But I highly recommend. Great food / Big portions. The phone person is so nice too. :)",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Ryan Hayes",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102791798193343491277/reviews?hl=en-US",
+        "census_block_group": 170310621003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MC0zblZ3EAE",
+        "caption": "Go to place when I'm feeling for neighborhood Asian-Style Cuisine. Also the fried dumplings are delicious with their house made soy-garlic sauce.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Marla Minnella",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110801505671017570208/reviews?hl=en-US",
+        "census_block_group": 170310621003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTN3Y3ZjdBRRAB",
+        "caption": "Best in the city! Great food, great service, great price. Vegetarian options are even better. No dish I have ever ordered here has been a disappointment.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "yukta mehta",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116849336280882411961/reviews?hl=en-US",
+        "census_block_group": 170310621003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjaWFIVFZREAE",
+        "caption": "This place is awesome!! Great hole in the wall Chinese spot with good prices and even better food. Have ordered for both takeout and delivery during COVID and somehow the food is still warm an hour after it's been delivered/picked up. The beef fried rice is some of the best fried rice I've ever had.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Josie L",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104551745509957044090/reviews?hl=en-US",
+        "census_block_group": 170310621003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzb29ET0J3EAE",
+        "caption": "An amazing little hole in the wall chinese restaurant!  The lady who served us was extremely nice, and the food came fast!  The decor is minimal but the place overall has a nice, bright atmosphere.  As for the food, it's classic American-Chinese food done right, and better than a lot of chinese places I've been to in Chicago!  Very flavorful, and less oily than I expected.  I enjoyed the chow fun a lot, and the dumplings were delicious.  The soups were also great!  Overall a great place that I will be coming back to (and ordering takeout from)!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Alyssa H.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113210312934328904939/reviews?hl=en-US",
+        "census_block_group": 170310621003
+    }
+]

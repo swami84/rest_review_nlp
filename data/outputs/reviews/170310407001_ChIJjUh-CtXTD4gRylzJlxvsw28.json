@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aThuTERREAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Joe Palmer",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116468112118548603309/reviews?hl=en-US",
+        "census_block_group": 170310407001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMEx2RFlREAE",
+        "caption": "Said they were closing 30 minutes prior to closing time and couldn't make my drink (refresher), offered iced coffee instead, so I agreed. I requested no sugar, I was given it with sugar. No one was wearing a mask properly...sitting on chin. Overall not a good experience, would not recommend.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 1.0,
+        "username": "Will Manzo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114120531165825590377/reviews?hl=en-US",
+        "census_block_group": 170310407001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjNjRHbFRREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 4.0,
+        "username": "Nena's World",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110681343951727887186/reviews?hl=en-US",
+        "census_block_group": 170310407001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNjdPSEl3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "sydny mersenski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111501422563523036049/reviews?hl=en-US",
+        "census_block_group": 170310407001
+    }
+]

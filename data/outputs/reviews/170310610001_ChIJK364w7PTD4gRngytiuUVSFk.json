@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNa2V5akl3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Alvan Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117946296735529142902/reviews?hl=en-US",
+        "census_block_group": 170310610001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVd2J1WGl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Keith M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103596090242990599922/reviews?hl=en-US",
+        "census_block_group": 170310610001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURFZ1pISjZBRRAB",
+        "caption": "I got to say this place is a dump of a rooftop. If you are looking for a rooftop experience at Wrigley Field, don't go here.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Nicollette Wands",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104527921115494101561/reviews?hl=en-US",
+        "census_block_group": 170310610001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0MXZDc093EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Serena Round",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105388356807949622437/reviews?hl=en-US",
+        "census_block_group": 170310610001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cDdtYTBBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Rob Noha",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114108237795935069245/reviews?hl=en-US",
+        "census_block_group": 170310610001
+    }
+]

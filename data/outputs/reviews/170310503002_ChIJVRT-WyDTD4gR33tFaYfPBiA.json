@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLOEpLRXh3RRAB",
+        "caption": "So so good. Great vibes and great food!",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Alondra Estrada",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105881049957517212935/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cTdmRDlRRRAB",
+        "caption": "Food is phenomenal, took some classic dishes and found a way to take it to the next level. Highly recommend their ramen choices.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Nick Johnson",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102330566318726933751/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ODZ1aVhBEAE",
+        "caption": "Everything I had was exceptional. Excellent food and truly beautiful presentation.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Fruit Bat",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106377388850863096468/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MWRTWXBRRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Michelle E. Thompson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117198218391682542936/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MGQ3OHF3RRAB",
+        "caption": "Not only is this one of the cutest Sushi places I have ever stepped foot in but the food is phenomenal. Great quality and super fresh! Staff was so personable and friendly. We are so excited to have this sushi place in our neighborhood!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Chloe Wagner",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113858486153113789752/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cnZiTjNRRRAB",
+        "caption": "Food is great! Super fresh- cute take out dishes. Amazing sushi. We loved the wings and pad Thai too!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Sammi Cutler",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102991186957878836606/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d3V6WDRRRRAB",
+        "caption": "Food is great",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Max",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103243533738629755926/reviews?hl=en-US",
+        "census_block_group": 170310503002
+    }
+]

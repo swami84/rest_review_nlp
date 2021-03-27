@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4OHN2RWxnRRAB",
+        "caption": "Very good chicken sandwich.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "James Tackett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116684898190674850261/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzOGJtY2FnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "NIPS SQUAD",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117757562227710431633/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOVlLenJ3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "karma jake",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104327078595896553463/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNaDRfclp3EAE",
+        "caption": "(Translated by Google) Cuzzooo  (Original) Cuzzooo",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Bryson Brown",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108138268570156051224/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNazVQT0ZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Will Kyles",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117996409419188359165/reviews?hl=en-US",
+        "census_block_group": 170190111001
+    }
+]

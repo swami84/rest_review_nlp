@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ01HODZRRRAB",
+        "caption": "Perfect spot for drinks after work or before or after dinner. Drinks are well executed and the owners are great.",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Guy Darienzo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105066255175118409659/reviews?hl=en-US",
+        "census_block_group": 170310306041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MXMzcElBEAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Leo Pepito",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117432176415932041661/reviews?hl=en-US",
+        "census_block_group": 170310306041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dW9XMFBBEAE",
+        "caption": "Absolutely love this place. Great drinks, stellar food, and wonderful people. Our new staple spot!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Amila Shumate",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106654695023854573196/reviews?hl=en-US",
+        "census_block_group": 170310306041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aEpIa2xBRRAB",
+        "caption": "Great ambiance, food and drinks! So much flavor and attention to detail. Lovely experience!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Grace Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101001321876680305025/reviews?hl=en-US",
+        "census_block_group": 170310306041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d012UUJnEAE",
+        "caption": "Randomly walked in here and discovered a gem \ud83d\udc8e \ud83d\ude0d. The menu is diverse and unique, pharmacy-themed. All the items we ordered were flavorful and delicious.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-26",
+        "rating": 5.0,
+        "username": "Nari Choi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100691920050448224730/reviews?hl=en-US",
+        "census_block_group": 170310306041
+    }
+]

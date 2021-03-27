@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0X3Vxemp3RRAB",
+        "caption": "Terrible guest service, very deceiving and ignorant company, pizza was also pretty gross",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Joseph Sells",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108033166651506869340/reviews?hl=en-US",
+        "census_block_group": 170310622001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvN3JyRUVnEAE",
+        "caption": "Solid pizza! Owner was super nice. Hidden gem among the Wrigleyville bars,",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Abigail Guetzlaff",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101415325178652128964/reviews?hl=en-US",
+        "census_block_group": 170310622001
+    }
+]
