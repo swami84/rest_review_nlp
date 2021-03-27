@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeWF1LUxBEAE",
+        "caption": "Boba tea was not good. Immediately threw out",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "John Zientko",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101219823665633720951/reviews?hl=en-US",
+        "census_block_group": 170310813006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNnJiaVdnEAE",
+        "caption": "Y'all the green apple tea with mango boba is probably the best drink I've ever had probably ever. There's so many options sugar free, dairy, non-dairy, etc. especially when it comes to the flavors. Can't wait to go back!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Speed Wagon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113496317995605649889/reviews?hl=en-US",
+        "census_block_group": 170310813006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzeHNpQWdBRRAB",
+        "caption": "There are many different ways to customize your bowl and it is extremely reasonable.  It only took a few minutes for my custom bowl to be made,  and the chef was very personable and friendly and answered my questions with a smile. A large bowl could very easily be 2 meals. My only complaint is I was there on vacation and can't order it again!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Michelle Davis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102295835263751077864/reviews?hl=en-US",
+        "census_block_group": 170310813006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwazdEeGFREAE",
+        "caption": "I was surprised with how many options this small place had. It was so delicious and I\u2019m glad I didn\u2019t walk half an hour to another poke place with more reviews.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Devyn Langille",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113786022030385340189/reviews?hl=en-US",
+        "census_block_group": 170310813006
+    }
+]

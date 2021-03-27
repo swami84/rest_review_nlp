@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndF96S1BnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Salvador Sanchez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114598842194964287758/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRdDc3ZUVBEAE",
+        "caption": "Awesome pasta, tapenade, tasty beef carpaccio. Service was really good. Can complain.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Alan cedeno",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102757095190590288520/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NXFENGhnRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "aby camel",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104727308538330741762/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBMjZmbFdBEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Nathan Buckley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104370603930784004305/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNReWRYNXRBRRAB",
+        "caption": "My twin sister and I went for our 50th birthday. Richard and Sandoval laid out the red carpet for us. The food was to die for! I highly recommend this restaurant. I'll definitely go again.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Kristi Siaperas",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113770948859299098553/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRLXRYbXBBRRAB",
+        "caption": "Excellent chefs tasting menu",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Caleb Davis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103699355055984990130/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnMFluS0xnEAE",
+        "caption": "Good food, expensive. Went on valentines day and service was good, but slow",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Connor Hurley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106061185555458850339/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3N0tuSXBBRRAB",
+        "caption": "The only thing as good as the food was the service from our professional, knowledgeable, helpful waiter Paul. Great recommendations for wine pairing, and detailed, accurate descriptions of the varied dishes. I miss the panna cotta from the old Pane Caldo, but the food, wine list, and desserts (save room!) carry on the tradition well. Try this place. Great for a special occasion or just a nice evening out.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Rob Shook",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116973070152267206208/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBa3JMa3ZBRRAB",
+        "caption": "Very good",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Anders Kvale Havig",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100613509387934251768/reviews?hl=en-US",
+        "census_block_group": 170310812012
+    }
+]

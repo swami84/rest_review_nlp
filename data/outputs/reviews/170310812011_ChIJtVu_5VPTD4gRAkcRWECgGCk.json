@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJN0kzRjl3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Keyur shah",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103175745919428329549/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBa3ZyRnN3RRAB",
+        "caption": "Exceptional selection of cards and gifts!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Andrew Arden Hayes",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114669909385691491493/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNna1BMS21BRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Mayank Parab",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101299100418458779757/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRbHRlRFFBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "aeisha crout",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113105510947384692926/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3N0lPNFRREAE",
+        "caption": "Nice selection, good prices. Convenient.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Rob Shook",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116973070152267206208/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnbUwtWFVnEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Kush Patel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116256629429759371359/reviews?hl=en-US",
+        "census_block_group": 170310812011
+    }
+]

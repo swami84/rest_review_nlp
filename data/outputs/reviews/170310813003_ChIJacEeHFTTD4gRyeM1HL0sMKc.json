@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMExyZk9REAE",
+        "caption": "Pretty good breakfast. Small menu, but the options were good. I highly recommend the Chicken and Waffles. The only downside to my visit was that I never received a refill on my coffee.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Cord Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108685612945417860304/reviews?hl=en-US",
+        "census_block_group": 170310813003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZM3R5d3VBRRAB",
+        "caption": "Nice hotel, would probably stay at again.  It was affordable downtown lodging",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "ellis473",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115085264085988951646/reviews?hl=en-US",
+        "census_block_group": 170310813003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZeU5PR1RnEAE",
+        "caption": "Nice and clean little spot. Our burgers were great! I went back in the morning and had a stellar omelette. Overall great food. The staff were very friendly and tentative as well.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Chris Leonard",
+        "n_review_user": 31,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111207261045178515205/reviews?hl=en-US",
+        "census_block_group": 170310813003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZOFBER2FnEAE",
+        "caption": "Unfortunately I had one of the worst services I ever had in the US here at the NIX. First, when I was ordering my food, the waiter interrupted and said in a very rude manner, \"I don't understand,\" even though I was speaking normal English. Secondly, during my dining, the waiter never came by to see if I need water or anything. Last but not least, when I finally caught a chance to speak to one of the waiters and asked for my check (because no one was coming to see if I need any service), I had to wait for half an hour to finally get my check. Their coffee and pastry are even not good. I don't know if this is only to the Asian customers. The people sitting next to me, who are white, seemed to have had a normal dining experience.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Yiwen",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114709609559339066573/reviews?hl=en-US",
+        "census_block_group": 170310813003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBaGRLaEVnEAE",
+        "caption": "We came her for breakfast and absolutely blown away. Great service, great food, clean atmosphere! French toast was awesome! I highly recommend",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Jason Dibler",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116133872522209684616/reviews?hl=en-US",
+        "census_block_group": 170310813003
+    }
+]

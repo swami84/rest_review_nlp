@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZMmZtakVREAE",
+        "caption": "Yeah its terrific...for hospital food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Christian Hill",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109124636080944747400/reviews?hl=en-US",
+        "census_block_group": 170310814011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJajRTcnFnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Darren Boyd",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117296767395043309439/reviews?hl=en-US",
+        "census_block_group": 170310814011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneG92bllBEAE",
+        "caption": "Great service",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Neshawn Smith",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117848831749662816831/reviews?hl=en-US",
+        "census_block_group": 170310814011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRbC12U1RnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "jerome williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102500094687236231939/reviews?hl=en-US",
+        "census_block_group": 170310814011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneWVpOUpREAE",
+        "caption": "Horrible staff and service",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Ed Comedian",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106047139941845207179/reviews?hl=en-US",
+        "census_block_group": 170310814011
+    }
+]
