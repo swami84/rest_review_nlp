@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTZ0lpOTNBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Jarrett Shull",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102294606169874258371/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpdnZlNktREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Steven Le",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100669421233376128865/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMXEtTWF3EAE",
+        "caption": "Solid chinese classics. The kung pao was a favorite!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Kashif Rahim",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106921315865037861415/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDM3NhdEp3EAE",
+        "caption": "Great food and friendly service! The portions are large for a decent price, and the meats are always tender and delicious. I frequently get the stir fried beef with green peppers but have tried many dishes on the menu and all have been excellent! Highly recommended!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Amanda Parker",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108927017874949703337/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4dGVMMkFnEAE",
+        "caption": "Really big portions at a low price! The white rice is so much better than other chinese take out places. (It stays fluffy on the second day for leftovers) Our order came with a complimentary egg roll which was a nice surprise. We ordered the orange chicken and the spicy mongolian chicken (not to spicy but a nice kick). The chicken was tender in both. I definitely recommend to anyone to try.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Maricela Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113030150946260220606/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4a0lUQ0FnEAE",
+        "caption": "I got the beef and mixed vegetables and the egg drop soup! The egg drop soup was massive- I would\u2019ve paid double, it was SOOOO good. The beef was tender and Delicious. They threw in an egg roll which was excellent because I will be ordering them in the future, crispy and super tasty! So happy to have a go-to Chinese place in the neighborhood",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "LayCey Shackelford",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100411234958827286225/reviews?hl=en-US",
+        "census_block_group": 170310703002
+    }
+]

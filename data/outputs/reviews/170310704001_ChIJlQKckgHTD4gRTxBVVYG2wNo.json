@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNWNQdXNRRRAB",
+        "caption": "Employee was chewing on a pen cap and not very attentive, threw away my receipt before even asking me and when I asked him to reprint. He said it wasn't possible. Wore a DePaul hoodie instead of a uniform.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "josh stark",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104850796818291294434/reviews?hl=en-US",
+        "census_block_group": 170310704001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBMjltQk9REAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Rawal Dhyaps",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111575606146327449182/reviews?hl=en-US",
+        "census_block_group": 170310704001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMWMtcWhRRRAB",
+        "caption": "Standard 7-Eleven. I'm not sure why, but I like this location a *little* bit better  than the one a block south on Lincoln.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Garrick Schmitt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117495796533966739775/reviews?hl=en-US",
+        "census_block_group": 170310704001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRclp6cG1nRRAB",
+        "caption": "Not closed.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Peter Hoffman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101629373187106834235/reviews?hl=en-US",
+        "census_block_group": 170310704001
+    }
+]

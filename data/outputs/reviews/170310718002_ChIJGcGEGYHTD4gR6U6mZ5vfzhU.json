@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5alB1SUJBEAE",
+        "caption": "The absolute best chicken sandwich of all time. Everything on the menu is good\u2014I love the california salad, waffle fries, and the crispy chicken sando of course. One of the best things about this place is that the sandwich stays crispy through the delivery time and beyond. And\u2014the salads are huge and in containers big enough to shake around all the dressing. Total dream",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Brigitte Riordan",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101993207599201243696/reviews?hl=en-US",
+        "census_block_group": 170310718002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGZyRjdRRRAB",
+        "caption": "This chicken sandwich is insanely good. Can't believe the word hasn't gotten out yet.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Tony Cole",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108554152527792418216/reviews?hl=en-US",
+        "census_block_group": 170310718002
+    }
+]
