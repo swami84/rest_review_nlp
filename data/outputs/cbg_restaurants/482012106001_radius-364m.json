@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":29.8126213,
+                        "lng":-95.3694167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":29.8138972303,
+                              "lng":-95.3681239697
+                        },
+                        "southwest":{
+                              "lat":29.8111992697,
+                              "lng":-95.3708219303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Trigo's Mexican Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103305878507073924970\">Boecio Corado<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKNiyczvFQDZTnafPaPCzfkpYoaqbMBjlsEdiVPUDnITgCKSrcpFgJ62oLa18GKicALfOjmoeL9pKublaG2g3zH2u-IUcTxZaklSpFpgISk9tkhFp-265eRlQb_-fUmjmxJZrA6NGQsnso8lVP9SN9kuJhGxfim9_KdIUY50jKAs0z0",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJC4vjjfO4QIYRCBcE4ZOailM",
+            "plus_code":{
+                  "compound_code":"RJ7J+26 Northside, Houston, TX, USA",
+                  "global_code":"76X6RJ7J+26"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJC4vjjfO4QIYRCBcE4ZOailM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":318,
+            "vicinity":"5902 Fulton Street, Houston",
+            "CBG":482012106001,
+            "Radius":364.3013688222
+      }
+]

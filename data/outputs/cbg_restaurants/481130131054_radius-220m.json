@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8952959,
+                        "lng":-96.7702685
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8967345803,
+                              "lng":-96.7689067197
+                        },
+                        "southwest":{
+                              "lat":32.8940366197,
+                              "lng":-96.7716046803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hybrid grills",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJz0_hgYOfToYR9KuOYKmdmO4",
+            "plus_code":{
+                  "compound_code":"V6WH+4V Dallas, TX, USA",
+                  "global_code":"8645V6WH+4V"
+            },
+            "reference":"ChIJz0_hgYOfToYR9KuOYKmdmO4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10845 North Central Expressway, Dallas",
+            "CBG":481130131054,
+            "Radius":220.125057034
+      }
+]

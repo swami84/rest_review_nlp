@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6546136,
+                        "lng":-96.8839847
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6560203803,
+                              "lng":-96.8827262697
+                        },
+                        "southwest":{
+                              "lat":32.6533224197,
+                              "lng":-96.8854242303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"4th Quarter Sports Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102804655511826154692\">4th Quarter Sports Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKtf61RZnVTKdZ1hWvgcYajl-_ERRmFh2Y_CWZIlR8Arsh6qliVq4VnZ6w-SFVeE-m9kdkes6xSzR4Y6_b-2mnLVPXRhNeP7YnMWJ5fpX1KRM6Y9lw0Xe73AFU-_UE113c26Vpm2d4P5KFVFko50rOM-1QmzAeVYiCIBb926nszN2es",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJAfClQ6-RToYRTHI0-Hvup1c",
+            "plus_code":{
+                  "compound_code":"M438+RC Dallas, TX, USA",
+                  "global_code":"8645M438+RC"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJAfClQ6-RToYRTHI0-Hvup1c",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":283.0,
+            "vicinity":"7460 South Westmoreland Road, Dallas",
+            "CBG":481130166071,
+            "Radius":281.8582972056
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.6548952,
+                        "lng":-96.8824552
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.6563015803,
+                              "lng":-96.8810344197
+                        },
+                        "southwest":{
+                              "lat":32.6536036197,
+                              "lng":-96.8837323803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hawkins Tasty Drinks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJt8vwab-RToYRUTMrVVpg1nY",
+            "plus_code":{
+                  "compound_code":"M439+X2 Dallas, TX, USA",
+                  "global_code":"8645M439+X2"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJt8vwab-RToYRUTMrVVpg1nY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"3913 Gannon Lane, Dallas",
+            "CBG":481130166071,
+            "Radius":281.8582972056
+      }
+]

@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":32.8951741,
+                        "lng":-96.7132433
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":32.8964365803,
+                              "lng":-96.7119099697
+                        },
+                        "southwest":{
+                              "lat":32.8937386197,
+                              "lng":-96.7146079303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"QuikTrip",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":420,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115459607810919163195\">TA Hefley<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIMHt4wCnzwFRcA4msMfYPHlbb-QBhaK3JHERX5JREfLS_l-IqQM9ZpW3gqEZOD5jxQHpHrOqYKjbtL0dA1bww28O1o7qEPq7Woj9bXGXfRmz7NjvJrrktefaf2tWHjj20rLwgyy8JuEqFMkLLs65B5OsaAfkF7hIf4gzjkiCqI0L6B",
+                        "width":800
+                  }
+            ],
+            "place_id":"ChIJ9fMkFnmgToYRuvHVgQGNjPA",
+            "plus_code":{
+                  "compound_code":"V7WP+3P Dallas, TX, USA",
+                  "global_code":"8645V7WP+3P"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ9fMkFnmgToYRuvHVgQGNjPA",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "convenience_store",
+                  "meal_takeaway",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":36,
+            "vicinity":"10101 Royal Lane, Dallas",
+            "CBG":481130130091,
+            "Radius":197.8045783335
+      }
+]

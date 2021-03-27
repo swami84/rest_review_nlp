@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":30.0224486,
+                        "lng":-95.4228818
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":30.0238540303,
+                              "lng":-95.4215071197
+                        },
+                        "southwest":{
+                              "lat":30.0211560697,
+                              "lng":-95.4242050803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Waffle House",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100091232222131844127\">karel Makovec<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIBOUNQUktMLcV2jHncIxd_dm7qyF2hMF4LZxAjsv0-ifcG-NRAhAXLbBCWFIEB3V_ciCiOtT1PV7Ch2JxpzvFCpJihcdBpPamX-RaAt-NLcTm-ZkqoQ-HpiHtlhndahm9LNR58zS98euOZq37EmoWKicYgBsKlUaFGWSqYQcHBHVe5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJh_OTtVWyQIYRoB7OKhbCvPY",
+            "plus_code":{
+                  "compound_code":"2HCG+XR North Park Forest, TX, USA",
+                  "global_code":"86262HCG+XR"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJh_OTtVWyQIYRoB7OKhbCvPY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1583,
+            "vicinity":"406 Farm to Market 1960, Houston",
+            "CBG":482012408012,
+            "Radius":411.3321268662
+      }
+]
