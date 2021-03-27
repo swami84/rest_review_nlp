@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dTg3M1RnEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Jesus G",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107069043141680654200/reviews?hl=en-US",
+        "census_block_group": 170310818002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aHVTbFBBEAE",
+        "caption": "Horrible experience. 2 hours in and I still haven\u2019t gotten my food and the store won\u2019t pick up their phone. Avoid this place.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Zeeshan Ahmed",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102722859725620785991/reviews?hl=en-US",
+        "census_block_group": 170310818002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTeF9YQzRRRRAB",
+        "caption": "Not a Panera, pickup hub for delivery apps. This needs to be made clear. Been out here for 25+ mins, order is taking over 1.5 hours. Just trying to get lunch. Was told it was ready 30 mins ago, got here n doesn\u2019t seem like they even started it. Would\u2019ve gladly gone somewhere else had I known.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Salah Guend",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102317303488645920120/reviews?hl=en-US",
+        "census_block_group": 170310818002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpbXQyeVB3EAE",
+        "caption": "Not a real Panera location - Ordered via an app and this location completely botched my order. Called and spoke with the manager who was very rude and could not help. Recommend another Panera location.  Update: Store issued a refund, updated to 2 star.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "Matthew Wilborne",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110662121107731584705/reviews?hl=en-US",
+        "census_block_group": 170310818002
+    }
+]
