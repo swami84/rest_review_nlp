@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjb1otdWJnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Rimma A",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113060955647436282661/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNzliMllREAE",
+        "caption": "Slowest freshii location I\u2019ve ever been to. And I\u2019ve been to many. Please get more workers behind the counter!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Iryna Wysocki",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101165212469090542269/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNnZ2N2ZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Kevin Kachmarik",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101266803575063661321/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvOFAtMEt3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Joshua Danowitz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113141554575931773356/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJa3VMcGxRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Sean Klock",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115093859700428860990/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBOGVXdWtRRRAB",
+        "caption": "Fresh and healthy - eat here every week",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Sasha Gutfraind",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102159772199148650782/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3d1o2dUVnEAE",
+        "caption": "Good quality food, but the service is slow and they are constantly out of whey protein.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Chad Coomes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109442201977200042995/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcE9Ma1ZnEAE",
+        "caption": "The staff at this location is amazing. Really friendly and they go out of their way to give you the best service!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Maria Esteli Michilini",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107919947009575605355/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRcklyWC1BRRAB",
+        "caption": "I tried this place because it looked very interesting in my building. Wow! They have a lot of healthy options. I had the teriyaki twist bowl that was huge and so good. I will be coming  back soon.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Alexandra Hazen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111351055887748028297/reviews?hl=en-US",
+        "census_block_group": 170313201002
+    }
+]

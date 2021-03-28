@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVczZpYU53EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Marco Mendoza",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111679766531465080051/reviews?hl=en-US",
+        "census_block_group": 170313201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJNnNTOHRBRRAB",
+        "caption": "I throughly enjoyed my meals here. I highly recommend the cappuccino ! Declious and well made abs further their salsa, verde, and gucac with chips is well presented and good Proportions. The veggie burger was delicious and came with a good portion of fries.we also got the salad which had a delicious vinegrtte. The service was fantastic, thank you for taking care of us.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Nida K",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112416474096653420487/reviews?hl=en-US",
+        "census_block_group": 170313201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbWE2MHNnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "Peter Vandor",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102845707205609841475/reviews?hl=en-US",
+        "census_block_group": 170313201003
+    }
+]
