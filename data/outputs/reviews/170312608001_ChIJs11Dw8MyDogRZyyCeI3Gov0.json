@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbjYzelpnEAE",
+        "caption": "yum",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Lil Sav",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101914213788845614114/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnejZlYVJ3EAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "DJ Jay D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103532326929159830640/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRM1pMVVpREAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "Avery Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117596295562634185927/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBeHNhYnV3RRAB",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Chepree Massey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116645729126548338905/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    }
+]

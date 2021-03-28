@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLU1HbE5BEAE",
+        "caption": "Waited 2 hours for just the food to be ready. Tried calling the restaurant 4 times and no one answers, wow. I'm sure the food will be worthless as I read the prior review. Smh. Never again.",
+        "relative_date": "4 hours ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Sal R",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108654047304745136380/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bkozeGZnEAE",
+        "caption": "I never ordered food from chicago and experience such tasteless flavor. I always rate restaurants and for the most part gave 5 stars. Maybe since I ordered it late at night but if you can't keep the customer happy please close early. Brisket Mac and cheese. Dry and no flavor",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Rason Truss",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102470438405966505352/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTLWFPVWFnEAE",
+        "caption": "The food is very pricy and it\u2019s alright well for the Mac N cheese it\u2019s really good especially with some Buffalo sauce but yeah might order from here when I cane the best funds lol",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Sam Santana Jr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112449353062062311894/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTem9USFdREAE",
+        "caption": "Awful service. We ordered via UberEats and it arrived incomplete (only 1 of 3 plates arrived), they took 2 hrs, they treat the delivery man horrible and when we called they didn\u2019t even care.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Sebastian Boleaga",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102467911695537925396/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMGFLVUdnEAE",
+        "caption": "The westerner sandwich plate was awesome. Perfect temperature and good packaging. The customer service was welcoming. Definitely going to order again.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Arif Ogunbayo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111776942467186494620/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpb1pIYkdnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Opeyemi Sanusi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110449589510069031145/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa0tpZWxBRRAB",
+        "caption": "Really great food! The customer service is also amazing, the owner made sure we were satisfied with our order. Will definitely come again",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Maya Coe",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116967093108110956338/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    }
+]

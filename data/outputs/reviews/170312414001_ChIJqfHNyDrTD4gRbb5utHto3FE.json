@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLU1MbkR3EAE",
+        "caption": "I\u2019m not a big Detroit pizza fan but this place is absolutely delicious! We did a pepperoni pizza and it was so crispy and delicious. The marinara sauce that they use is so flavorful and the crust is cooked to perfection. I love it! Go Chef Bill!!",
+        "relative_date": "3 hours ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Taylor Berg",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111480291037242029867/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dDVEOVJBEAE",
+        "caption": "Solid rectangular \u201cDetroit style\u201d looking pizza. Bread is tall but fluffy almost like focaccia bread. I ordered with several extras like pepp, sausage, pineapple and extra cheese. Crust is super crunchy. If you like crunchy crusts this is crunchy. Would have liked a bit more tomato sauce.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Brenden O'Brien",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113822804149061383655/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aHNpajNBRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Josie Graham",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108700856360456886012/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bXRiNm1RRRAB",
+        "caption": "I was excited about a new pizza place so close to me.  However this pizza is nothing to get excited about. It\u2019s mostly air and dough with no sauce.  The cheese belongs on a charcuterie plate and not a pie.  It basically tastes like bread and toothpaste.  This place is a hard pass.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "Clint Click",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116303735268256838096/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    }
+]

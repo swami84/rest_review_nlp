@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cUptWVRnEAE",
+        "caption": "looking forward to returning with my friends. it has an awesome feel to it.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Benjamin2 C",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109935484380542921781/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbThHakFnEAE",
+        "caption": "Stopped in on a Monday I think. There was fast, efficient, and courteous service. Prices are appropriate. Menu is similar to a restaurant in El Paso I liked.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Sonya Adams",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117399398456366777977/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaTllcjFnRRAB",
+        "caption": "the service was very welcoming and sociable. the place has an awesome feel to it.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Joel Acosta",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110561100472482281791/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNmFIaEVnEAE",
+        "caption": "Had a friend come into town and asked me to take him here again. The bill was reasonable I would say.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "stacey byrd",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107429469848342104217/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcnVUeHpnRRAB",
+        "caption": "I love going here. I've had nothing but pleasant experiences here and plan to keep coming back. The place has a great atmosphere. Kinda of like a restaurant in Los Angeles I loved to visit.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Peyton Beasley",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112250205811491040546/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcXF2eVlREAE",
+        "caption": "the service here is great. the place has a cool atmosphere.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "C Miller",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115478350362225793342/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbi1tQjVRRRAB",
+        "caption": "The service was sociable and attentive. This place has a nice feel to it. Kinda of like a cafe in Phoenix that I enjoyed.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "X Dawson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116674090333936604185/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDbW9mYk1BEAE",
+        "caption": "the staff was very helpful and observant.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Owen Rivers",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117555802787563520264/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaXZpOGF3EAE",
+        "caption": "Entered near ten, it was not crowded. This place has a cool design. Similar to a place in Denver I loved.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "lauren maddox",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102256666998749241722/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    }
+]

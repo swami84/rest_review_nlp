@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bWVISE93EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "daniel berhanu",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100925160326978305730/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4NjVLbGZBEAE",
+        "caption": "The Man preparing food did not have his mask over his nose, 14 July 2020",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Richard Bell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112238120097065496999/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ0NE1Qanl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "FELIX F.M.S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111984337711599201777/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJMmVybjl3RRAB",
+        "caption": "(Translated by Google) Good place! Very good food !!!  (Original) Good place !! Muy buena comida !!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "LUIS NAVA",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107882122554076986134/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNWFySG93RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 2.0,
+        "username": "matteo luis rizzo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118007926870209703209/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3MGRYX0pBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Ruslan Kostei",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103538105120821016626/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNROTh6UnBRRRAB",
+        "caption": "You know, it's subway. Good deals some days of the week. Meh",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Ethan Cotton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102583736174749627372/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRdDhHMkxBEAE",
+        "caption": "Love how this subway is right off the train line, staff is friendly and the subs are fresh.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Christian Arturo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110774248233062211369/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3emJtM25nRRAB",
+        "caption": "The sandwich artists that work here are very nice. They make my sandwich exactly how I like it every time.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Jesus Nunez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113289068479224895106/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdElfdWp3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Alan Gallagher",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111039133212853502704/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    }
+]

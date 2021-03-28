@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROHNhSVRnEAE",
+        "caption": "Excellent!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Stevphen Geoirge",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112309781278923581061/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURndjRXb2tRRRAB",
+        "caption": "I am extremely pleased with Andrew's level of service and knowledge. He's was very knowledgeable about the downtown market and helped us understand why things priced the way they did. Throughout the negotiation he was always available and went to bat for us.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Anne Robins",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117143963692838847198/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbGRYTnZRRRAB",
+        "caption": "Andrew was extremely knowledgeable about the city and was a pleasure to work with.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Gary Spielman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109975468601844831595/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    }
+]

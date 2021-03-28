@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cTV2WVV3EAE",
+        "caption": "Surprisingly clean - for a 7-11. Definitely a grade above your average corner store. Service is perfunctory.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Sam Roecker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110768539659919551558/reviews?hl=en-US",
+        "census_block_group": 170312415003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBc05ydmFREAE",
+        "caption": "Good service, okay selection",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Neville Vazifdar",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104898118721470692168/reviews?hl=en-US",
+        "census_block_group": 170312415003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnNnRpOFNnEAE",
+        "caption": "Small selection.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 3.0,
+        "username": "Michelle Kemmer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108735194739604092262/reviews?hl=en-US",
+        "census_block_group": 170312415003
+    }
+]

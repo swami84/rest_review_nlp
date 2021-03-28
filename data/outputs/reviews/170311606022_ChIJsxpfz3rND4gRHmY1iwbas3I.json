@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NzZtNUhBEAE",
+        "caption": "",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Briceidy Villatoro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114407693842068018843/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eDZLX1B3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Aidee Villeda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102883024434250707025/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dThtQUpnEAE",
+        "caption": "Wow! This place is great! Had the Tamal de Elote and the Chuchitos, they were delicious! It was served with a tasty but not too spicy red sauce and some pickled veggies. This crew nailed the flavors, so glad to have a stellar option for Guatemalan cuisine. This stretch of Kedzie is my favorite street for great food and these people just made it better! And they gave us a complimentary hot drink, I believe was made with corn, it was like a light tea and it was fabulous. I can\u2019t wait to try more food here, I will be back.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "D S",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116172759029096474859/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NW92ejJBRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Cornelio Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115464199150416195752/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bXE3MDRBRRAB",
+        "caption": "The service is great! the food is very delicious! Totally recommend to come.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Olga Garcia-Velasquez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104474129624471006245/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bXZhVWZ3EAE",
+        "caption": "the service is very good and the food was really delicious",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Alexander Taguite",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114140746084605920398/reviews?hl=en-US",
+        "census_block_group": 170311606022
+    }
+]

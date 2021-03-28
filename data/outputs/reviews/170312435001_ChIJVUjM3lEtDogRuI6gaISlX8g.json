@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLUlMajNRRRAB",
+        "caption": "",
+        "relative_date": "6 hours ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Vince",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104674067425212963916/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdVA3XzdBRRAB",
+        "caption": "Came here for a live jazz dinner event and everything was great. Chris at the restaurant was super friendly and accommodating. Food was excellent, fair priced and delicious. Definitely recommend coming and I\u2019ll have to keep an eye out for their other events!",
+        "relative_date": "11 hours ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Fironica Lao",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103888702914615651109/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LTZHaHJRRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Rebecca Gomez",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101546045702132072697/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aXFqcWR3EAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Mike Fox",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103232197159418747057/reviews?hl=en-US",
+        "census_block_group": 170312435001
+    }
+]

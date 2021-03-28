@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbDdpXzFRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Hunter Zimmerman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104861482332620021797/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNX05tMlZ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Filiberto Ortega",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109580406480028926367/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJOTVIRUdREAE",
+        "caption": "These are some thick tacos, I'm in love.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Kyle Bacon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110587847977915113939/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBcm9tSElBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jen Espino",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103426492363109586945/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBNHZDQlpREAE",
+        "caption": "Amazing tacos and a thoughtful and vibrant seating area!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Akanksha Shrivastava",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112483957934207984514/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNneGZiS2tnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Brenda Gross",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115823162393838533970/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbU5PWnRBRRAB",
+        "caption": "Tasty burritos at a reasonable price!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "David Noga",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110235280174352004522/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRX1kycWd3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Adis M.",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108847807186907586870/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbjZiSHhBRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Lauren Gross",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101100880803249486511/reviews?hl=en-US",
+        "census_block_group": 170312416001
+    }
+]

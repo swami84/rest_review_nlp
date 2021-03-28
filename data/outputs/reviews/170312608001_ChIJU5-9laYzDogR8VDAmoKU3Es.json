@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eWFlR1pREAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jessica Garvin",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107622907993730719002/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eWVTSFdnEAE",
+        "caption": "I was given some of these shrimp last night and omg they were soooo good.  Found out that they were close to me too. No more Lawrence for me. No over breading perfectly breaded shrimp.  I will see yall soon.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jennifer Garvin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104223346436983278372/reviews?hl=en-US",
+        "census_block_group": 170312608001
+    }
+]

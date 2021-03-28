@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aFpmcW93RRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Liam Greenwell",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102697585174012924298/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5b1pDTmF3EAE",
+        "caption": "Best spot in town for a NY slice, hands down!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Rishi Malhotra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104570692280915946815/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5Z3JQQ2Z3EAE",
+        "caption": "Great place for a NY style slice. Paulie Gee's continues to elevate the pizza scene in Chicago.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 4.0,
+        "username": "Mehul Shah",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108104503109693298408/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ZzR2enBRRRAB",
+        "caption": "Would be the best slice if they were in NYC! Chicago has a new slice champion. To go window is awesome.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Kevin Kim",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107384067491236663292/reviews?hl=en-US",
+        "census_block_group": 170312414001
+    }
+]

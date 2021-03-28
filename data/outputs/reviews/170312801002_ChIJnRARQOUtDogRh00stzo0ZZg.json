@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bUxiZzlRRRAB",
+        "caption": "creole here - very tasty. it was so fresh. i had a cousin come into town and she asked me to go back here.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Erin B",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104019984941351486008/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTejUyUHhnRRAB",
+        "caption": "My fav location for delicious creole. certainly worth a return trip. it has a nice atmosphere.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Crystal Kane",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101952794067017658835/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbzRxMXJRRRAB",
+        "caption": "A preferred spot for quality creole. The service here is attentive. Feels similar to a cafe in Chicago I liked.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Alaina8 F",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110739012746152258764/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpazR2dlBBEAE",
+        "caption": "My preferred place for creole. Visited near twelve, it was not full.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "cory evans",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114392765588750468878/reviews?hl=en-US",
+        "census_block_group": 170312801002
+    }
+]

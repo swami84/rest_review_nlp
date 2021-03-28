@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bTgyTWR3EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Lbg Quawn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108459568172483840921/reviews?hl=en-US",
+        "census_block_group": 170312519002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaHRtN1pREAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Toya Harris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102074770039816467360/reviews?hl=en-US",
+        "census_block_group": 170312519002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpZ3NySE9BEAE",
+        "caption": "Very nice clean place friendly staff awesome food . The smell hits your  nose in taste amazing",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Millionaire Mason",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110387811928020995517/reviews?hl=en-US",
+        "census_block_group": 170312519002
+    }
+]

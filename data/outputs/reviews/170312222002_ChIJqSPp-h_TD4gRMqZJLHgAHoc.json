@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ekpYOUdnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Josh Dein",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114022528714183295083/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MWY2dy1RRRAB",
+        "caption": "The restaurant was so cold that we could see our breath when we talked. The employee was wearing a sweatshirt and a winter coat. It was so cold inside that I couldn\u2019t feel my fingers or toes. We originally planned on dining in but after we realized how cold it was, we asked for our food to go. When we got our food my french toast was ice cold as well as the syrup, and the jelly for my boyfriend\u2019s toast was frozen. I know this is a new business so I hate to give a bad review, but our experience was unacceptable. Hopefully things improve for future customers.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 1.0,
+        "username": "Hannah Hood",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103959782192093755553/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cnJTN2dnRRAB",
+        "caption": "Great new neighborhood restaurant by the Western Blue Line station! Friendly service and delicious food, we enjoyed the bacon and avocado burger and an omelette.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Chrissy Bilyk",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104931662844088411752/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LXNhR1hREAE",
+        "caption": "Just tried Salazar Cafe for the first time.  They just opened next to the Western Blue Line (O'Hare) stop. Kudos to them for opening during a pandemic. Hands down, their Green Chilaquiles are delicious! Not too spicy, and not too mild, just right on the spice level. Good portion size too.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Adam Flores",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116252367443808196634/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5a3IyMFRBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Reem Fakhoury",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104683791494646855559/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dkppS01BEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Patrick O'Malley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114530747296360151532/reviews?hl=en-US",
+        "census_block_group": 170312222002
+    }
+]

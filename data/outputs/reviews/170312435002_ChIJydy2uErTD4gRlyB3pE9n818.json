@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MV9lZ3lBRRAB",
+        "caption": "This is an amazing little concept. There are a variety of different dishes you can choose from. I would recommend every one to give it a try. The staff was also very polite and helpful.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Cleanna Smith",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113963435224072793935/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cGRpaXBnRRAB",
+        "caption": "Worst customer service. Took them 50 minutes to prepare my order.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Hasan Bemat",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116359268721813205301/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5c2VMWDl3RRAB",
+        "caption": "No customer service number or email!   No estimate of how much the wait could be after ordering. No order tracking available. Just order and then wait whenever it might be ready.  I ordered two ice creams and it's been 50 mins and no update yet!!!  And it is not even for delivery - just pick up!!  How much longer would it have been it was for delivery?!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Manish Jain",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106068637662645723809/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OGJLckN3EAE",
+        "caption": "great local spot with many options",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Albano Latifi",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106821920149562390431/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTLWNQUGNREAE",
+        "caption": "It\u2019s a good environment it\u2019s different restaurants in there own little kitchens but overall a good place to be",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Sam Santana Jr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112449353062062311894/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    }
+]

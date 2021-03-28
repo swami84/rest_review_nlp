@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdUpQY0xnEAE",
+        "caption": "Too many vegetables and less rice in vegetable biryani",
+        "relative_date": "9 hours ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "RAHUL GAADHE",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102251380641468621999/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ejZEMFlREAE",
+        "caption": "Best Chicken Bryani I had in years , very Authentic and flavorful , I cant wait to try another dish from there.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Reemco Enterprise",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113529925886561355928/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d3ZxNWF3EAE",
+        "caption": "As a self proclaimed foodie and someone who has eaten food all over India this place is amazing. The flavors and seasoning is a 10/10 but be careful if you tend to eat things mild because this place is on the spicier side. This is the 5th place I have recently ordered indian from in Chicago and I cannot articulate how superior this place was in comparison. (Even when compared to old favorites like cumin) I picked a random dish today like the vegetable okra entree and it was such a delightful surprise - loaded with flavor and texture. Really surprised to see this place not have way higher reviews. They brought some grandma's in the kitchen tonight. <3",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jamal Zayyad",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108239438550757277558/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MU1mYjZBRRAB",
+        "caption": "The food here is not that bad but I wouldn't say it is that good either. They have very few options in breads and I didn't like the quality of the breads here, it's the exact same as frozen Naans which I get from  Indian stores. The curries are also of average quality",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "Alex Morgan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118120722657135931163/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dU9MbElnEAE",
+        "caption": "Ordered Naans with curries here and the Naans where not even soft and edible it almost looked like a frozen naam that was heated and given. The curries where also okay and the quality was average. Don't recommend food from here",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "jagdesh mafal",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110828163412732996760/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTb29HSlJBEAE",
+        "caption": "Ordered the butter chicken w/ rice, garlic naan, and the palak paneer- everything was delicious! Recommend checking this place out",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Julia Larson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115729231413455343442/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbUxEcXlnRRAB",
+        "caption": "Excellent and quick Indian food for a very reasonable price. I\u2019m always on the lookout for new Indian restaurants to try so I was excited to Art of Indian Curry as a new option. I went with my staple - Chicken Tikka with garlic naan - and it did not disappoint! The veggies in the curry were an unexpected but welcome surprise and the naan was delicious. Definitely would recommend! I\u2019ll be ordering from here again for sure.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Bobby Baer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102227299505171487880/reviews?hl=en-US",
+        "census_block_group": 170312435002
+    }
+]

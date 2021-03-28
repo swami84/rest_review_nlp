@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjb29HSFZ3EAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Wavina Sanderz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117462074974372308338/reviews?hl=en-US",
+        "census_block_group": 170312414003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNeTVIM2xRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "House Allen",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113189630927960763498/reviews?hl=en-US",
+        "census_block_group": 170312414003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0dWNhMXFBRRAB",
+        "caption": "I just had the ham and bacon sandwich with chip is was so delicious wow.  Thank you so much for donating this delisoude lunch to lurie's hospital is people like you that makes a great different in this world . God bless \ud83d\udc96",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Jesenia Perez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107239118835879638662/reviews?hl=en-US",
+        "census_block_group": 170312414003
+    }
+]

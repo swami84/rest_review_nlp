@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpX3Vqb0tnEAE",
+        "caption": "The best mole I had ever! Good portion of food. Friendly staff",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Cindy Moreno",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104649816438841870833/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMGVUQXF3RRAB",
+        "caption": "Perfect for dine-in or carry out! Incredible dining experience, food, and drinks. A really solid neighborhood joint with some of the best mole I\u2019ve had in the states. The guacamole was great,the homemade sour cream was a nice touch that elevated the flavors. Will come back often",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Joseph Furbeck",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114577836382468756318/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDX2JxaTVRRRAB",
+        "caption": "The food is so delicious! Best mole enchiladas I\u2019ve had. The GM has amazing hospitality, makes you feel like home. I will definitely come back and I highly recommend!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Isabella Salgado",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108392358669191878603/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDc0kzODhBRRAB",
+        "caption": "Wow! Amazing decor a combination of authentic and modern. Great art work and the food was amazing!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Patty Granados",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113216954859540610953/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4NFpPM1FnEAE",
+        "caption": "Awesome new spot in the neighborhood",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Adam Backhaus",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107409718206357372377/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4NG9UQmtnRRAB",
+        "caption": "Excellent food, best margaritas in town, and the staff makes you feel at home. Will continue coming back!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-27",
+        "rating": 5.0,
+        "username": "Andrew Baird",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104348361545242378071/reviews?hl=en-US",
+        "census_block_group": 170311608002
+    }
+]
