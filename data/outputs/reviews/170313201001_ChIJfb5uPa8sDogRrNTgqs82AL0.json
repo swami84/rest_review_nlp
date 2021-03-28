@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzeFBhMGx3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Satish Reddy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101767241224530800062/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbFlTdFV3EAE",
+        "caption": "At 7:30 there is NEVER any bread.. Only flat bread :( YOU GUYS OPEN AT 7 and i prefer subway instead of greasy breakfast foods",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Autumn Banks",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112006006770676360635/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNzYtQ3ZRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Kirti Patel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111078651028685918376/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVM19yS3NBRRAB",
+        "caption": "Located in the basement of 300 E Randolph. Accessible to everybody. Fair prices. Good service. Good food. I love the garlic oil sauce they have, can't find it anywhere else. I recommend it",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Afif Khaja",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107067168285200345639/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZcTVmNi13RRAB",
+        "caption": "Service is always timely even when they have a full house. Fast, efficient, and courteous service. The bill was fair.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Allen Russell",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113527464920230804690/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    }
+]

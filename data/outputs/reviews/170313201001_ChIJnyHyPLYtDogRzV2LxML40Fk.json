@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNy1Qd0xREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "R L",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115856160897546850866/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURDNDgwaRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Kelly",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110571380825519833006/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4Mzluc2lBRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Yutrice McPherson",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103141387628958262618/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzOXBQR1Z3EAE",
+        "caption": "Pay very careful attention to the prices for items, as they can change significantly and without warning. Perhaps not unique to this location, I discovered after the fact that one item I purchased regularly suddenly went from its usual $3.69 to $4.99 (35% increase) from one visit to the next a few days later. The lower price was never listed as \"promotional\" or \"limited time\". It's my fault for not paying closer attention to prices, but with a store modeled for speed and efficiency, I think this sort of variability is egregious. Still a convenient and quick option, but it does leave a bad taste in my mouth. Lesson learned: I will be more wary with all of my purchases here in the future.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Jonathan Douglas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102408085897330384904/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzNEtlbWhBRRAB",
+        "caption": "Great place! Close to work perfect for lunch and breakfast meals! They have hot food too pretty much everything you need I totally recommend",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Junior V",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114620451995278307294/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNS1QZ1FBEAE",
+        "caption": "Convenient, works in a pinch.  Salad was only slightly better than what you would get at a gas station.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Sally Hart",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103061637794526527332/reviews?hl=en-US",
+        "census_block_group": 170313201001
+    }
+]

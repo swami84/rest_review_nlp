@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwamJLUmhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Ofelia Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101407262680792808939/reviews?hl=en-US",
+        "census_block_group": 170313006002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwb2I3am9BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "Gramma Loves",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116470081514468733975/reviews?hl=en-US",
+        "census_block_group": 170313006002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNva0thZWlRRRAB",
+        "caption": "(Translated by Google) Good  (Original) Buena",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Lencho2018",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100595674320554601815/reviews?hl=en-US",
+        "census_block_group": 170313006002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBc1lMUm13RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Aylin Esquivel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114200308584439699435/reviews?hl=en-US",
+        "census_block_group": 170313006002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbThlcmtnRRAB",
+        "caption": "i just love it",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Martin salgado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111493669344382712496/reviews?hl=en-US",
+        "census_block_group": 170313006002
+    }
+]

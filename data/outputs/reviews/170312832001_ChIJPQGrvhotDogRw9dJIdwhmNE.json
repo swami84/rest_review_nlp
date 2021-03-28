@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aUpyODJBRRAB",
+        "caption": "Awesome food, friendly owner and easy to use website for ordering. My go to Chinese & Thai in Little Italy <3",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jennifer Moore",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101698568154258863082/reviews?hl=en-US",
+        "census_block_group": 170312832001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OEtuNkl3EAE",
+        "caption": "My favorite Chinese restaurant, they are always fast and have good food for a great price",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "CrazyRiGuy",
+        "n_review_user": 68,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111618421586776666620/reviews?hl=en-US",
+        "census_block_group": 170312832001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dC1QbXZRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "General Inbox",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114728866599344675116/reviews?hl=en-US",
+        "census_block_group": 170312832001
+    }
+]
