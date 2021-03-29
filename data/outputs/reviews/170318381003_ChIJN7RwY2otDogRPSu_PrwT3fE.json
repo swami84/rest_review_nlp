@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MGVxS01nEAE",
+        "caption": "Good service, good portion size for the $14 combo. The smoked chicken was tender, and the potato salad was just ok imo. My favorite was the pulled pork and gouda mac and cheese! Wish there had been a non-styrofoam packaging option.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Amy Wen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101180767519257513272/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bTRuWTRRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Caressa Franklin",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100760323433332987461/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOTZmb0xREAE",
+        "caption": "Had the rib tips for lunch (enough for supper too), they were very good but be prepared to use your fingers.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "John F. Bruns",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109997669288999363264/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    }
+]

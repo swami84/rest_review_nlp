@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bjhlSFNREAE",
+        "caption": "The sushi are tasty and very fresh. Never have I ever had any sushi that are delicious as Alyniazushi. I would highly recommend this place if you love sushi. They also have my favorite seafood spaghetti and ribeye steak!",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Karen Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113515057195257406979/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NXVPVDNnRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Jacky Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116146002779758375537/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aHZ6UDBRRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Gary Chen",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107720057816352664470/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aGVMRnB3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Charlotte Mack",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112863630173412832467/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5a2FxWHlRRRAB",
+        "caption": "Nice little spot on Archer, we got takeout Bento boxes for lunch on a snowy day.  They were HUGE and tasty, we got two lunches each out of them!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Lucille Nicholls",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117622061419066548327/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5a1lEMXJRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Scott Dawson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101120475052155770819/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcV9iR1d3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Ray C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108429620487371722505/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeXZhdmFBEAE",
+        "caption": "Newest sushi hot spot!!! Try the oysters and seafood spaghetti!!! Rocky, our server is awesome as always! Can't wait until dine in is open! Plenty of street parking available!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Billy Yonata",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102905515555144151405/reviews?hl=en-US",
+        "census_block_group": 170316007002
+    }
+]

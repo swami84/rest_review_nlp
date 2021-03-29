@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzX2JEa2NnEAE",
+        "caption": "Good food but super SSSLLLLOOOOOOWWWW",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Garrett Alton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108951382756631725387/reviews?hl=en-US",
+        "census_block_group": 170318391002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdllLek1REAE",
+        "caption": "This restaurant is my favored. I visit a lot of restaurants but to this place I keep coming back again and again. The team is very affectionate and the food they serve is so good. I am always happy to have a nice dinner in this place. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Mark Vanmeter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109195519331828317099/reviews?hl=en-US",
+        "census_block_group": 170318391002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvMTcyalZ3EAE",
+        "caption": "Great spot if you're looking for a fully loaded sandwich! They have a great variety and the service is quick. It'll make you wanna eat super clean the next day but it's worth it.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Mildred Edwards",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108144441782016789323/reviews?hl=en-US",
+        "census_block_group": 170318391002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3ek1lb3V3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Gregory Levi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117959333369124343995/reviews?hl=en-US",
+        "census_block_group": 170318391002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnLV9lV3B3RRAB",
+        "caption": "The Big Tony sandwich is a great deal for the amount of food you get, especially in this area",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Andrew Foley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100414227162458046709/reviews?hl=en-US",
+        "census_block_group": 170318391002
+    }
+]

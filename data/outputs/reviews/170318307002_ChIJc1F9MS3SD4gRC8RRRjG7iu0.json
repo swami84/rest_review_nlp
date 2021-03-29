@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNc2VLeWlBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Vale Vale",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105582789542846559541/reviews?hl=en-US",
+        "census_block_group": 170318307002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdzlHRExnEAE",
+        "caption": "Good guys",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "themanthemyth 294",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115377199048108338040/reviews?hl=en-US",
+        "census_block_group": 170318307002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZNk1XRHRRRRAB",
+        "caption": "I love this place. They have great bargains and theyll work with you sometimes. The two brothers are some good guys. They sometimes have a great deal on the chocolates, candies, cereals, chips, and juices. They also accept w.i.c. and illionis link cards. They close at 8pm or 9pm, so they dont stay open too late because that area isnt too safe sometimes and the store could get robbed, they also have shootings in that area.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "John Seb",
+        "n_review_user": 182,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111164528490753760951/reviews?hl=en-US",
+        "census_block_group": 170318307002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnMTh1ZDZBRRAB",
+        "caption": "It's convenient store",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Naseem Mustafa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100885461377611506803/reviews?hl=en-US",
+        "census_block_group": 170318307002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMGF6a3F3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Abdallah Al hamidi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116183873666489789946/reviews?hl=en-US",
+        "census_block_group": 170318307002
+    }
+]

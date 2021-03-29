@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzcUx1T2hRRRAB",
+        "caption": "Best spot ever",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "True God",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106306885185321388175/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwc2ZtcFVBEAE",
+        "caption": "Always understaffed for the hockey parents rush on weekends. Need to have min. 2 employees in @ 6:30 am to have everything ready.  As of now I will start bringing coffee instead.  Would be smart if they limited the menu to speed things up.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 2.0,
+        "username": "Erik Tonnesen",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110638333155011931811/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwOHU2X1hBEAE",
+        "caption": "Oknso I order a large French vanilla coffee I stead of the employee telling me he doesn't have hot fresh coffee he gives me cold coffee just all bad because I was in a rush and didn't notice it til I got in the car totally upset if it happens again i will continue writing views\ud83d\ude1e",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "midnight velvet",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110570305339931632563/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMweU9QRHlnRRAB",
+        "caption": "Jesus was really nice and welcoming. Definitely coming back.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Roberto Avalos",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115775682606196146036/reviews?hl=en-US",
+        "census_block_group": 170318381003
+    }
+]

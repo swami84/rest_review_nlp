@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMUpEWkVREAE",
+        "caption": "This place sure knows how to satisfy their customers. Regularly with a welcoming attitude. The food is affordably priced, regularly flavorful and clean.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Sergio H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117189367825301942078/reviews?hl=en-US",
+        "census_block_group": 170318333001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOE51RUlBEAE",
+        "caption": "Amazing place and quality service. Food cooked freshly and it was super tasty. Pretty cool place and nice ambiance.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Florence Adams",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116643369027094780293/reviews?hl=en-US",
+        "census_block_group": 170318333001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcXFYMlJREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "ItzBlossomYT",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108984799397054159509/reviews?hl=en-US",
+        "census_block_group": 170318333001
+    }
+]

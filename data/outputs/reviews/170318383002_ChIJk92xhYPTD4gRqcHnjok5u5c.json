@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNi15cWxnRRAB",
+        "caption": "Food was awesome and not expensive",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Ahsan Naqvi",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109391998971141396828/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbExfQmN3EAE",
+        "caption": "Did Uber eats and I received a melted plastic lid in one of the dishes. This restaurant should be audited for health safety and sued",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Stanley Sequeira",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114745657366494588032/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZam9MVl9nRRAB",
+        "caption": "15 dollers for 2 pc small of fish with no forxs or napkins, or rice or bread, is not even enough for a Lil boy, it's taste good so spicy is the first  and the last time, how much gonna cost you if you put a Lil rice with bread 50 cent?! You know less than 50 cent. I was wanna give 2 star but I'm still hungry and throw 25 dollars in the garbage food and delivery charges.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "Ahmad Jafar",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101900526755608742573/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJeHB2MnN3RRAB",
+        "caption": "The food tasted old with very little flavour. The Matar Paneer and Butter Chicken looked exactly the same. The Naan was hard. Cheap cuts of meat. We ended up throwing out all of the food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 1.0,
+        "username": "El T.O.",
+        "n_review_user": 29,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101961105642826287333/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJbk96V0V3EAE",
+        "caption": "Good quantity. Delicious curry.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 3.0,
+        "username": "Darshil Hirpara",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106817138304664306192/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJODVxQmlRRRAB",
+        "caption": "Best place in town for Pakistani and Indian cuisine",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "mohammed khan",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111062973797565171852/reviews?hl=en-US",
+        "census_block_group": 170318383002
+    }
+]

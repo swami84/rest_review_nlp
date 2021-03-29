@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVbElqZkR3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Christian Clarke",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106551708390923110724/reviews?hl=en-US",
+        "census_block_group": 170313405001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVN0l1MURBEAE",
+        "caption": "The most wonderful young ladies working there thank you ale and Trin",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Katrina Goodman",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101113583966113541949/reviews?hl=en-US",
+        "census_block_group": 170313405001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnbGZuTkVBEAE",
+        "caption": "Hotdogs and ice cream \ud83c\udf66 All the best service!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "G Ferro",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106024486280667274599/reviews?hl=en-US",
+        "census_block_group": 170313405001
+    }
+]

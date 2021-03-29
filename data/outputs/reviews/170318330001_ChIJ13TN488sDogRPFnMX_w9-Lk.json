@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjanByV0N3EAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "diana robles",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110786978476992582649/reviews?hl=en-US",
+        "census_block_group": 170318330001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwd2ZueDh3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 4.0,
+        "username": "Kayla Kintigh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104313165204480619653/reviews?hl=en-US",
+        "census_block_group": 170318330001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVdm96ekdnEAE",
+        "caption": "Nice boutique office building",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Mike D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108408930672771305632/reviews?hl=en-US",
+        "census_block_group": 170318330001
+    }
+]

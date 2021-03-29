@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpLXRuckpREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Polidoro Narv\u00e1ez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114221583816417496797/reviews?hl=en-US",
+        "census_block_group": 170318309002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvMHZEenpRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Nicole Flores",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100121339749573959207/reviews?hl=en-US",
+        "census_block_group": 170318309002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJanRmYnJ3RRAB",
+        "caption": "(Translated by Google) The best ever.  (Original) El mejor de todos.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Pedro Castaneda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116380826415132374541/reviews?hl=en-US",
+        "census_block_group": 170318309002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3dHJ1dmh3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "kkkity2",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115387546019296085762/reviews?hl=en-US",
+        "census_block_group": 170318309002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRa1BDLWp3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-28",
+        "rating": 5.0,
+        "username": "Nancy Cintora",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117859152086500954903/reviews?hl=en-US",
+        "census_block_group": 170318309002
+    }
+]

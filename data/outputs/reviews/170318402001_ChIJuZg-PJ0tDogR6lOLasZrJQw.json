@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcXVfQS1nRRAB",
+        "caption": "Because It Is Good",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "SuperDonTrellO169 DT An Xdp Cool King Folks",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101998328748736225220/reviews?hl=en-US",
+        "census_block_group": 170318402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDczVhRjlnRRAB",
+        "caption": "My preferred spot for tasty ramen.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "K Deleon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109524064957565733489/reviews?hl=en-US",
+        "census_block_group": 170318402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzMnEzN1JnEAE",
+        "caption": "I honestly like the dishes and customer service, great area  to where I live. The workers are always very nice. Will visit here again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Kevin Binns",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111053464903338277023/reviews?hl=en-US",
+        "census_block_group": 170318402001
+    }
+]
