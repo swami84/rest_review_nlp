@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdUxEZGNnEAE",
+        "caption": "Just okay, nothing fantastic",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Spencer Ryan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112233333380368569618/reviews?hl=en-US",
+        "census_block_group": 180973533001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MmFMRi1BRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Vince Gill",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112559673770139087977/reviews?hl=en-US",
+        "census_block_group": 180973533001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5amVuRGtBRRAB",
+        "caption": "I love this place. The service is great. They are safe about covid pick ups. The food is consistently delicious. They have coupons if you call and order a certain amount. (The coupons are on the menu but you can ask them to use them.)",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Courtney",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117419325297043934675/reviews?hl=en-US",
+        "census_block_group": 180973533001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5em9uNkZnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Sherri Martin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113451717986949922303/reviews?hl=en-US",
+        "census_block_group": 180973533001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNW9iTEtREAE",
+        "caption": "Nice Chinese food",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Charles lamd",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107424872291287377715/reviews?hl=en-US",
+        "census_block_group": 180973533001
+    }
+]

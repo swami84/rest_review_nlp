@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVbDZyVlpnEAE",
+        "caption": "Got a couple burritos for me and a friend at work.  The service was awesome cleanliness of the restaurant was spot on.  The food however was very plain lacked flavor.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "aa_ron yo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115643241532821399970/reviews?hl=en-US",
+        "census_block_group": 170898546002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVanF2QV9nRRAB",
+        "caption": "Excellent food. Fantastic salsa bar and home made chips. Very reasonable prices. Great place to chill out, relax, and have some great food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Fred Palffy",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113491106725008706034/reviews?hl=en-US",
+        "census_block_group": 170898546002
+    }
+]

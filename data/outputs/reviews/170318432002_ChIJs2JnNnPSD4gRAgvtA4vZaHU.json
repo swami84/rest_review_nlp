@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LThydXFnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Ryan Burg",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110424798525190702711/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVZ01DU0tREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jason London",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103082628747172349183/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZOXRtblFBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Clark Amacher",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109853729129576474807/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3b1lIUmJBEAE",
+        "caption": "Woah the potstickers",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Nik Chaphalkar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112191997580302956128/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRdXNfTXJRRRAB",
+        "caption": "We went to a pop up at the Crying Onion.  Outside is very unassuming, but when you enter, you are treated with a tastefully renovated space (stil in progress).  Drew, the owner, gave us a tour of the building, and explained its' prominence.  The food served was delicious!  Lamb tacos, shrimp pasta with basil, lemon, white wine and garlic, and donuts for dessert.  This was a last minute get together, and had good expectations.  The bar was set way too low, as Drew hit one out of the park for us!!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Brandon Muetzel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105779217808330585879/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNReXRYcWNREAE",
+        "caption": "Chef Andrew is absolutely incredible. Look no further if you are looking for an in home dinner or catered event. We have hired Andrew twice now. The first time was for a dinner party where he wowed us with a Proven\u00e7al-themed menu for a friends' birthday celebration. He was personable and interacted with us at the perfect level and his good was delicious. I most recently hired him again to cater for our annual holiday party for 60 people. Andrew rose to the challenge of my request for a Swedish smorgasbord in honor of Santa Lucia day. His spread was INCREDIBLE!  I was beyond impressed with his willingness to work with my menu requests and recipe suggestions and he put his own wonderful spin and flare into some tried and true family recipes that were just out of this world. My husband and I are huge \"foodies\" and have eaten at some of the top restaurants in the world. I can say without a doubt that chef Andrew and the crying onion is of high quality and well worth every dime!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Lisa VanWagner",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113623743594447050636/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRd2Z2TnhnRRAB",
+        "caption": "Everything Andrew made was delicious. He is also very personable and friendly.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Christopher Prokup",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103840430623763330852/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpb1pULUR3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Beltran Frederick",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116529912814070285915/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDLWNQLXh3RRAB",
+        "caption": "Las mas buenas quesadillas tienen de todo y to esta muy pero muy delicioso. the best food quesadillas and tacos you'll have and they have more than just that everything is so delicious if you see the truck stop by you won't regret it. But she's usually the after 5 which is kinda perfect for me. Muchas gracias por la gran comida.\ud83d\udc4d",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Rafael Romero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105862772891187770151/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjcVBQcUZnEAE",
+        "caption": "The best quesadillas in Chicago.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Angel zurita",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118144400821049998574/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwNk1fY1lnEAE",
+        "caption": "Their quesadillas are delicious and so worth the wait! (not long) Call ahead and have them ready for you!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Mercy Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108487665609279724521/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVcDVlcUVnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Elizabeth Fraga",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103642321667521176346/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURreGJmWjB3RRAB",
+        "caption": "Highly recommend!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Laura Casimiro",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104018614908533446488/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNreDRfOVJREAE",
+        "caption": "Delicious quesadillas. I recommend the quesadillas con papa y chorizo. The green hot sauce is very spicy.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "D. Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115162106459469719274/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    }
+]

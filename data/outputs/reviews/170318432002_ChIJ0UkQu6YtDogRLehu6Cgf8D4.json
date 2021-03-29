@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURROWRmUkV3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Raymond Hughes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106953904732083997464/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRX08yWEFnEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Hamahu TDG",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114842082316515626459/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3OEthMFZBEAE",
+        "caption": "1832W Cermak",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Vigotez Soriano",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104749138349956935813/reviews?hl=en-US",
+        "census_block_group": 170318432002
+    }
+]

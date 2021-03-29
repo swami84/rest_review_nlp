@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cnJxclFREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Scott",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103405854093997215992/reviews?hl=en-US",
+        "census_block_group": 170898546002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aUl1WWVnEAE",
+        "caption": "Definitely give them a try when you are in Elgin. My family really enjoyed the food. The birria tacos were great and empanadas too. Only thing they wished the rice had more flavor but they said it was good. We will be going back.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jenny Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104921163333126608294/reviews?hl=en-US",
+        "census_block_group": 170898546002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNeUpYN2lRRRAB",
+        "caption": "Beatriz's pasteles are delicious and so fllavorful. You have to try them.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Evelyn Dequina",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102419476252579397204/reviews?hl=en-US",
+        "census_block_group": 170898546002
+    }
+]
