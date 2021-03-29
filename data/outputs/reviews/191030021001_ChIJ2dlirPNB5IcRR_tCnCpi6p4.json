@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvcHJtS0dnEAE",
+        "caption": "They provide \"diner\" style food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Rob",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117161368010732264752/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRd05DdGRBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Omar Aguilar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114761492308185035974/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURReUplODdBRRAB",
+        "caption": "Great pasta bar",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Ben Udell",
+        "n_review_user": 217,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102208408614498452605/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnM3FmaFpBEAE",
+        "caption": "Great food but quite a long wait. If you have a university of Iowa meal plan flex meals are also available here.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Joe Erickson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112360123073798364089/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnOGR6ajRnRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Lindsay Elliott",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103618979266956104688/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBcU9qWGN3EAE",
+        "caption": "Best place to spend your flex meals if you have the time.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Louis Delvecchio",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118403670441822705885/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    }
+]

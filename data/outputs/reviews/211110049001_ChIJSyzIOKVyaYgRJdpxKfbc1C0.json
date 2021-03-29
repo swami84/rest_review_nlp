@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFcnJIdkZBEAE",
+        "caption": "Limited open hours did not get to see",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "bryan erney",
+        "n_review_user": 128,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112683060595015479959/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnemVtcGJREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Dale Goldsboro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107398516604497378049/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3MDhUUmlRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "James Southe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117583722923665362175/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRelB5LWZnEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Thomas Rasinen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109576371054766126560/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBeWNPMEdnEAE",
+        "caption": "As a lover of craft beers, the Goose Island beer bridge is a must stop when on fourth St.  With a nice view for people watching or the big screen,  it's the perfect spot to stop and grab a drink.  Bartenders are always great and will offer up a small sample if you're undecided on which beer to choose from.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Eric Conover",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107058897959048584304/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    }
+]

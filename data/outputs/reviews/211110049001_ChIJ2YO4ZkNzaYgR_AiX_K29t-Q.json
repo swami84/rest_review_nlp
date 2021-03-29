@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eDR6ZmRBEAE",
+        "caption": "I usually get delivery. Their service is prompt. Never disappointed.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Will Roberts",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106137032762185242560/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eWRHRUZ3EAE",
+        "caption": "Nice. And very quick.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "john lodge",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108009518518245388144/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c1pHWkl3EAE",
+        "caption": "Great food! Friendly service! Low prices !",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Rise4 WatWannta",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116700755654577152594/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbWZiMXBBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Aaron Stone",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117372844986699747699/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeGZuLWxBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Auri Joslin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110571423857097245289/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURja2ZHR1N3EAE",
+        "caption": "This used to be my favorite place for many years but after today they will never see me again",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Martin Hrtanek",
+        "n_review_user": 57,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108521540708059508463/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjaEpUZDJBRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Stella Townes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111176788043944531993/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdjZPcExBEAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Ivy Liang",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107943819765590681720/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNzUtYlRBEAE",
+        "caption": "This was my first time ever eating from this restaurant and I must say it was delicious hot and fresh when it arrived on time must I add and there open during this pandemic \ud83e\udd2a\ud83e\udd29\ud83d\ude0b",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Tiffany McDougal",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103724673376389109968/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNdmN5VWV3EAE",
+        "caption": "Breakfast Burrito & Lemon Blueberry Ricotta Pancakes. Amazing",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Dalontay Gainey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116760601529040832658/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3bXItb0F3EAE",
+        "caption": "Stop #295 for @pizzas365: The Bistro has a pretty average flatbread. A little greasy; Everything is just okay (with maybe the dough leading the way in terms of taste), and the price is a bit higher. 3.0 Stars.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Matthew Gantz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114579291324350385781/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    }
+]

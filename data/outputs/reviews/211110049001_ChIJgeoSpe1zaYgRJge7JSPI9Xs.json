@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjOUlmNEdREAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Barbara Jones",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117519267356118277353/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzd2Zlb3FBRRAB",
+        "caption": "Nice hotdog & bratwurst stand downtown. Perfect quick bite to eat after work or as you are walking by. They also do accept credit/debit card payment.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Clancy A. Laile",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112928527997926107860/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    }
+]

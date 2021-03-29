@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5Xzdxc0ZREAE",
+        "caption": "Fantastic food at a great price.  I will be back",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Eric Huelsman",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110882866997151343109/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5alB2cllREAE",
+        "caption": "An absolute amazing experience. The chef, Charles Reed came out and greeted our party of six and even made special accomodations for seating. All the staff were incredible, very polite and good sense of humor. The food was just......wow. We all travel alot and know great food. You will not be disappointed here. Doc is a legitimate chef, not a line cook. All six of us were thoroughly impressed. Even the coffee was incredible. I can't say enough good things about this place. Please go visit them, don't let this lull business close this place down. It is an absolute gem.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jeremy Moonen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111603657447008616029/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LWJUbnNRRRAB",
+        "caption": "I got the tacos I believe it was de pollo,  tortillas are authentic and everything taste fresh. They have very nice portions you could share if you wanted. The pastries are very good I had a bear claw. Also met chef Reed who craved the ice sculpture on display when you walk in. Very easy going place",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "izuku midoriya",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111835983223054270842/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5OXFTeW1RRRAB",
+        "caption": "Never had balanced sweetness and crisp crunch made like this in my entire life. Made professionally. One of the most elegant desserts you can have in the state of Kentucky",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Escalibur Amreen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100039103089485167830/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NnVYYUV3EAE",
+        "caption": "Ordered lunch online for pickup today. I got the ramen which was great and more than I could eat. The staff was friendly and it the food was ready right on time. Excited to try more on their menu.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Chris S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107056779734939731554/reviews?hl=en-US",
+        "census_block_group": 211110049001
+    }
+]

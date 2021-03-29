@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVeU5UQ1pREAE",
+        "caption": "I'd you want old-school pizza this is the place.  I've eaten here for 20 years",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jarrell Reeves",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101586767142065649613/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZODVpRVZ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Aaron Holz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100010486697380519851/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3N3FHb3hnRRAB",
+        "caption": "Its inside the building. Not a full godfathers but still good.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "Benjamin Hewlett",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112940812564828300030/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURndGFuYTZBRRAB",
+        "caption": "THIS IS NOT A GODFATHERS!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Rebecca Eyman",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101143285541942260174/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRdThqRGpnRRAB",
+        "caption": "This is not an actual godfathers pizza...",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Benjamin Headlee",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113101709646053553416/reviews?hl=en-US",
+        "census_block_group": 191030021001
+    }
+]
