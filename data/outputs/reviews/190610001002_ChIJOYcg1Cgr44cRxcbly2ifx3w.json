@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NjlUb0RREAE",
+        "caption": "The brisket was amazing, it was so tender I didn\u2019t even need the knife they supplied. The atmosphere was laid back but beautiful.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Rachael Sloan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104281008833294451950/reviews?hl=en-US",
+        "census_block_group": 190610001002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTN3J2Tk1REAE",
+        "caption": "The food was ok. A little over priced for what you get. We got a quesadilla and Italian sausage sandwich for around 25$ but were still hungry afterwards. The beers to go are outrageously priced we paid 45$ for 3 beers to go. That is obnoxious. The only redeeming quality was the actual taste of the beer. They could probably afford to charge less if they didn't buy all of their decor at crate and barrel. You have a good product you don't need a flashy establishment to turn a profit.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 2.0,
+        "username": "Christopher Gilbert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108751348665912309150/reviews?hl=en-US",
+        "census_block_group": 190610001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbTQzZnpRRRAB",
+        "caption": "The panini sandwiches were not at all tasty, the bread tasted old. For a $11.00 grilled cheese sandwich and 1 small side it\u2019s way over priced for poor quality and small portion. My husband got a Italian sausage panini and again the bread was musty tasting and over priced small portion.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "crystal lavin",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117324599243181215245/reviews?hl=en-US",
+        "census_block_group": 190610001002
+    }
+]
