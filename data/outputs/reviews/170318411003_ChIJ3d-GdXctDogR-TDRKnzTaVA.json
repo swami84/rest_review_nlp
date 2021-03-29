@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OTlmUEhBEAE",
+        "caption": "Delicious, highly recommend and definitely coming back",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Kelvin Yau",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116521083138491442987/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cV9LQXhRRRAB",
+        "caption": "The food is delicious and the service is great too. My friend ordered the Fried Chicken Jianbing and I got the Fried Shrimp Jianbing, both were delicious. It was so good and filling we went back to get another one to share with a friend. I recommend this place if you want to try something new, this something new and delicious. They are located in the second floor, there is also lots of parking in the second floor. \ud83d\ude01 Enjoy!!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Chip",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116523393803613244567/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OVpmZ2ZBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Kara Porubsky",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115207552531981476204/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ekphT29BRRAB",
+        "caption": "(Translated by Google) Their Chicken Steak Jianbing *chef kisses*. It\u2019s very good and crisp, the serving size for one order can feed two. They make everything in front of you so can watch the process, definitely recommend coming here.  The chicken pancakes here are very good, and one pancake can be shared by two people. Loved love. Come again next time.  (Original) Their Chicken Steak Jianbing *chef kisses*. It\u2019s very good and crisp, the serving size for one order can feed two. They make everything in front of you so can watch the process, definitely recommend coming here.  \u8fd9\u91cc\u7684\u9e21\u6392\u714e\u997c\u5f88\u597d\uff0c\u4e00\u4efd\u714e\u997c\u53ef\u4ee5\u7ed9\u4e24\u4e2a\u4eba\u5206\u4eab\u3002\u7231\u4e86\u7231\u4e86\u3002\u4e0b\u4e00\u6b21\u518d\u6765\u3002",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Annie Ma",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106079796496710715587/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LTl5bjhBRRAB",
+        "caption": "I ordered the original Qian Bing and it tasted pretty good. I just wish that they added more sauce to it.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "L T",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102137328196832043951/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5X3RYZkxREAE",
+        "caption": "Delicious!! The jianbing is very filling. We tried the original and the chicken  FYI it is on the 2nd floor of the Canal Street Plaza",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Winnie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109974338186740531956/reviews?hl=en-US",
+        "census_block_group": 170318411003
+    }
+]

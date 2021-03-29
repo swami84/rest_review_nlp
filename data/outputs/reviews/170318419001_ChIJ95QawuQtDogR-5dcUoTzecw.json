@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MDZmZXNnRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Mark White",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105997171771799821516/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cmR5d2FnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jessica Marshall",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113737617999137411280/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpb3RyQXNRRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Isaiah lil",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102080716098828335383/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaVBmUnF3RRAB",
+        "caption": "So happy Moe\u2019s is back in Chicago! Please expand beyond the UIC campus!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "gm383",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118032904689879087789/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    }
+]

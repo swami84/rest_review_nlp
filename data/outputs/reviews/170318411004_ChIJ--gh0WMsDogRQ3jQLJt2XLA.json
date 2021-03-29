@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnOUppcUxREAE",
+        "caption": "Awesome food.. the orange chicken is the best non fat looking in the city in my opinion.. the chicken casserole/shrimp fried rice are also good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Eduardo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100662841265992770840/reviews?hl=en-US",
+        "census_block_group": 170318411004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRanEzUVNREAE",
+        "caption": "Best spicy orange chicken! Me and my boyfriend come every once a week! It's our favorite place to eat chinese food at. I can live in this restaurant if I could! (:",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Dee Layne",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112544693271556265157/reviews?hl=en-US",
+        "census_block_group": 170318411004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcWNXZVpREAE",
+        "caption": "authentic chinese food the beef and chinese broccoli is the best in town",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Daniel Lebron",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101709373137946824266/reviews?hl=en-US",
+        "census_block_group": 170318411004
+    }
+]

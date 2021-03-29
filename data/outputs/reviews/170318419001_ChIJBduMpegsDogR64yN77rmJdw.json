@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNb0lIY3Z3RRAB",
+        "caption": "I really love the dishes and customer service, great area close to my home. The employees are always kind. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "George Woodward",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114437903066923238641/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwOTR1VTJRRRAB",
+        "caption": "Food is good and they are never cheap with the portions, they also have good deals every day so I can count on something cheap and tasty between my classes",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "mariam m",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105455352760867953524/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZaEtmckpnEAE",
+        "caption": "Pizza is always nasty but there\u2019s often no lines compared to subway!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Nolan Harnett",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113590007656438007899/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRb3BhSzNnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Prem Bheda",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109727536266707271382/reviews?hl=en-US",
+        "census_block_group": 170318419001
+    }
+]

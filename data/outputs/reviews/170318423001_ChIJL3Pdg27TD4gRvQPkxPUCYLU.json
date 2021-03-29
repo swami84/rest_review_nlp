@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5b3ZQT09REAE",
+        "caption": "Ravioli of a lifetime. And if you\u2019re a fan of mustaches, my goodness Junt sports a luscious lip caterpillar. 5/5!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Arif Rahim",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104305571230545309353/reviews?hl=en-US",
+        "census_block_group": 170318423001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNmV5Y0VBEAE",
+        "caption": "Junt is one heck of a guy - cooks a mean chicken breast.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Daniel Ovaert",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115202429672041815873/reviews?hl=en-US",
+        "census_block_group": 170318423001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDcWQzamJnEAE",
+        "caption": "Even better than the house of fun! Great pasta",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Kashif Rahim",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106921315865037861415/reviews?hl=en-US",
+        "census_block_group": 170318423001
+    }
+]

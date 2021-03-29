@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cE5LV1NBEAE",
+        "caption": "Great food. Generous portion and reasonably priced",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Cindy Yang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100791926269017563938/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpNDh1Ukh3EAE",
+        "caption": "Vegans and vegetarians, this is THE hidden gem of chinatown! Fried green onion lo mein was one of the best dishes I have ever had in Chinatown and I've eaten all over! Qihan is the sweetest young lady who worked the register and helped me place my order. This place is tucked in the far back corner it's so easy to miss but it's your loss if you do!!!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jon Donym",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103337183185167114876/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDN3RMc1FnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Yudong Ethan Liu",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110234280293551734786/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjaVBDdGtnRRAB",
+        "caption": "Beef noodle soup is quite delicious. I'm from Taiwan. Very well packaged through UberEat.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Chi Fu Eddie Liao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115518416033147817311/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzLXVlbUNnEAE",
+        "caption": "A great little Shanghainese place. I highly recommend the preserved vegetable and shredded pork noodle soup (\u96ea\u83dc\u8089\u4e1d\u9762) and the pork belly noodle soup (\u7ea2\u70e7\u8089\u9762) is delightful.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jason",
+        "n_review_user": 22,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116138291155854337199/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzLXVxa3JBRRAB",
+        "caption": "Shanghai native here. This is such a nice addition to the already authentically good food court. The lady (also Shanghai native) who runs the business is very kind and generous. Small wontons are exactly like what I ate growing up. Our favorite is the picked veggie and pork noodle. Have already come back 3 times since they opened a month ago.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Tianzhou Ye",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102660572706693213400/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzN1BDdWRREAE",
+        "caption": "Ordered Shanghai Pork Wonton Soup today. It was disappointing. The soup was not stock, although the Chinese name of this soup said it has stock.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 2.0,
+        "username": "Missy P",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117729117172477235097/reviews?hl=en-US",
+        "census_block_group": 170318411001
+    }
+]
