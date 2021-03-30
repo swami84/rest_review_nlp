@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M2QyZ1dBEAE",
+        "caption": "The food was disgusting! Salty, fake crab, inedible food. I took a bite and another and had to throw out my pasta never again",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Equiana Brown",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117026648252713211653/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzcXNQV0p3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "bernice midgett",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110332051216810004479/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    }
+]

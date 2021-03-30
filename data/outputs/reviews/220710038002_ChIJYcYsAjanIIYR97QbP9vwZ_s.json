@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOWVqLXZnRRAB",
+        "caption": "Great pizza with a good variety.  I would recommend the Chicken Bacon Krunch pizza.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jon Saylor",
+        "n_review_user": 28,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107085624003349228346/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzaWFQUExBEAE",
+        "caption": "Big slices, small prices. Friendly staff and clean atmosphere.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jonathan Thomson",
+        "n_review_user": 49,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105210765543811742003/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzaWEycFhBEAE",
+        "caption": "Good sized slice, hot",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Chris Fransen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110520061872416777473/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNc2Jhb0ZnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Ally B",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110333245583071391858/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNaDUzWEZ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Paola Barbosa",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115530200322641869147/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    }
+]

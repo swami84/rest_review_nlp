@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLZ01qVmNnEAE",
+        "caption": "Great music, awesome drinks, delicious food and reasonably priced hookah..add that with a friendly and knowledgeable staff. I will definitely be returning during my next visit \u263a",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "loc'd I Am",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114444338145119203699/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5Z3NLbWlBRRAB",
+        "caption": "Yooooo this bartender was shamelessly not wearing a mask while serving.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 2.0,
+        "username": "Brittany Gatewood",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117275241172857272877/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpa0ppM0NBEAE",
+        "caption": "Stopped by this hidden gem while shopping in the French market! I was drawn to the yellow doors and super trendy decor. The drinks are great, reasonable prices and great vibes. I recommend The Good Platter which was shrimp, crabs, sausage, corn and potatoes.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Honey B",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100123818833611238158/reviews?hl=en-US",
+        "census_block_group": 220710038002
+    }
+]

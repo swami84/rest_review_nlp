@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bjlUdy1BRRAB",
+        "caption": "(Translated by Google) Best I've had in New Orleans \u2661  (Original) Lo mejor  que he probado  en New orleans \u2661",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Carlos Alarcon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117594547968169320989/reviews?hl=en-US",
+        "census_block_group": 220710049003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ODdMMTZ3RRAB",
+        "caption": "(Translated by Google) Delicious food, \ud83d\ude07\ud83d\ude0b  (Original) Deliciosa comida,\ud83d\ude07\ud83d\ude0b",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Juliocesar Portillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116291773798814782995/reviews?hl=en-US",
+        "census_block_group": 220710049003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bFlQRFpREAE",
+        "caption": "(Translated by Google) Best food in New Orleans  (Original) La mejor comida de New Orlenas",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Mayra Veliz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108016583875615392651/reviews?hl=en-US",
+        "census_block_group": 220710049003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cFpuaVhnEAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Yuri P Cardona V",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100573910451450682430/reviews?hl=en-US",
+        "census_block_group": 220710049003
+    }
+]

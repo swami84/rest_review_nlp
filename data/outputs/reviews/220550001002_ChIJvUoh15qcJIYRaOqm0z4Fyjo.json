@@ -4798,5 +4798,77 @@
         "n_photo_user": 0,
         "url_user": "https://www.google.com/maps/contrib/110473432480699610185/reviews?hl=en-US",
         "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBN0x5M1ZREAE",
+        "caption": "Slowest service in town and some of the rudest employees I've ever encountered.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Mac",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115625318693529357850/reviews?hl=en-US",
+        "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRX2FiNjdRRRAB",
+        "caption": "$4.35 for 2 plain biscuits that were clearly sitting for a while because they weren't even warm and a watered downed Dr. Pepper and I had to wait at the window for 5 minutes for the crap that I was served",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Lance Richard",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110538115868323528104/reviews?hl=en-US",
+        "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbDRPM25nRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Crystal Scott",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105559041905385770791/reviews?hl=en-US",
+        "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NUtfWjZRRRAB",
+        "caption": "Great cooks and fast service.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Irma Selene Escobar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100522987674094298541/reviews?hl=en-US",
+        "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbzRtaG93RRAB",
+        "caption": "1 croissant is 3.49 and 2 are 4.00.  Won't go back to burger king as long as I remember this aggrivation.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "William Price",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106094539550939070480/reviews?hl=en-US",
+        "census_block_group": 220550001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRb3BmYzlBRRAB",
+        "caption": "",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 2.0,
+        "username": "Michael Matte",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103057986817492347891/reviews?hl=en-US",
+        "census_block_group": 220550001002
     }
 ]

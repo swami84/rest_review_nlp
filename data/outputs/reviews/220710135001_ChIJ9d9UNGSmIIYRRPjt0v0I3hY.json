@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrMDl6b1Z3EAE",
+        "caption": "The server was very nice, she made jokes with us, and let us try a bunch of flavors. She was very friendly and I had nothing to complain about.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Branden Schneider",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115842411213315915659/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvb016enh3RRAB",
+        "caption": "Stopped with the kids for ice cream cones : ) Device and Ice cream was good.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 4.0,
+        "username": "bleg 02",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108246454951414839549/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBLWJ6c0pBEAE",
+        "caption": "Can't get in here without buying a ticket to the aquarium.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Simmo PM Hunter",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111109686782398687832/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBOUlYRkNREAE",
+        "caption": "This is inside a place you have to pay admission to. You can't just go in for ice cream",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 1.0,
+        "username": "Junk Junk",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108559649160934232506/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBM0lEdDNRRRAB",
+        "caption": "Only accessible if you enter the aquarium.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "Harley Atsavinh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103896560825918678681/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaDg3c0hBEAE",
+        "caption": "It's good",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 3.0,
+        "username": "anthony rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109530807674870983968/reviews?hl=en-US",
+        "census_block_group": 220710135001
+    }
+]
