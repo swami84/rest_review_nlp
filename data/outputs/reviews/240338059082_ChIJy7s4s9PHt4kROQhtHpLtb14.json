@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5anZtdWlRRRAB",
+        "caption": "This is pre-packaged take away inside the Safeway.  Descent selection that seemed fresh.  Taste was just ok.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Marty Merrell",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104983473546477370864/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5emViNFh3EAE",
+        "caption": "The meals and service were ahead of my expectations. We surely liked the atmosphere of this restaurant. Excellent spot to take the family out for dinner.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Heather Teresa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103614906370892430272/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTaTlUNUtnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Elsy Reyes",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114408009949006434108/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMGRQRWFBEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Christie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110732594868287724100/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcDd1Z1pBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jose Morales",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111467252317104582171/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNHFLWV9RRRAB",
+        "caption": "Had a fantastic experience in this place with my daughter. The food arrives rapidly and the service is just excellent. Prices are reasonable.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Usha Sperry",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101336350506279834962/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbHR5amtnRRAB",
+        "caption": "Last week was the first time in this good restaurant. But It is absolutely not the last time. We enjoyed the evening a lot with the attentive service, with the excellent  cuisine and wine and with the friendly payment. We will no doubt come back again.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Donald Albury",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108101765968259411951/reviews?hl=en-US",
+        "census_block_group": 240338059082
+    }
+]

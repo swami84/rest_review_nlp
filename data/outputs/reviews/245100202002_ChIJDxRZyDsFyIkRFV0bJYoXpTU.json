@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLd29XZElREAE",
+        "caption": "So stoked to see this truck still here. Used to come here daily before moving to San Francisco and I gotta say ten years later the tacos are still A+.",
+        "relative_date": "2 hours ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "chris rife",
+        "n_review_user": 41,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103979932323595092872/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURNb2NnZRAB",
+        "caption": "Hours are roughly 12-5 mon-sat  Delicious food. Amazing employees. Bilingual. Good prices.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Carlos Salazar",
+        "n_review_user": 22,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117594377340541007915/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVek9mMFhREAE",
+        "caption": "EXCELLENT. AUTHENTIC. STREET FOOD. This truck pushes out some of the best tacos I\u2019ve had here in Baltimore. Parked in front of St. Patrick\u2019s Church. Definitely try the LENGUA (tongue) Tacos with their Salsa Verde \ud83c\udf2e Very responsibly priced and the tastes are amazing.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "LGK Baltimore",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105390772077644454593/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    }
+]

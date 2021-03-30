@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cF9ESWx3RRAB",
+        "caption": "Reservations only  Pretty snobby and not flexible",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Kung Fu Donnie",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108336345719479816534/reviews?hl=en-US",
+        "census_block_group": 245100302002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTMVlHS0hBEAE",
+        "caption": "Delicious Gozilla Roll & Tempura dishes!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Kristy G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101310008963128245351/reviews?hl=en-US",
+        "census_block_group": 245100302002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMFlfS3ZnRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Abel Lorenzo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107407486051919345987/reviews?hl=en-US",
+        "census_block_group": 245100302002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpektlY1dnEAE",
+        "caption": "Love this place. They are always so friendly and nice. The experience here really reminds me of my recent trip to Japan!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "GrannyRed",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105787696769566053026/reviews?hl=en-US",
+        "census_block_group": 245100302002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpb0lUOTVRRRAB",
+        "caption": "Excellent sushi and great service, I absolutely  recommend it.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Cozinheiro Pi Alves do Rio",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105882419556045152405/reviews?hl=en-US",
+        "census_block_group": 245100302002
+    }
+]

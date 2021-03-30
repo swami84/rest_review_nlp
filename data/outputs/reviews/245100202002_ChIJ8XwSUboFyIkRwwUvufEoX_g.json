@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dHJ5ck1REAE",
+        "caption": "The pupusas are off-the-chain amazing. Soup was delicious too \ud83d\ude0b Amazing find.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Brian Lawson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102252700267708049427/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MWZXMVRnEAE",
+        "caption": "Very nice",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Amona Marshall",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107573025545655077834/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpM0xYR2lRRRAB",
+        "caption": "Food was really good and service was excellent.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jonathan Aguilar",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104976430199839717292/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeTUtZEJREAE",
+        "caption": "Excellent food Excellent service \ud83d\udc9c  love it",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Ruth Ayala",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110590397231987499184/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMWJlVTJBRRAB",
+        "caption": "(Translated by Google) This place is very nice family  (Original) Este lugar  es muy lindo  familiar",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Daniel Lemus",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111247072334147861590/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbGFtNjRBRRAB",
+        "caption": "(Translated by Google) That place  (Original) Eselete lugar",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jose Aguilar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114160895622666137084/reviews?hl=en-US",
+        "census_block_group": 245100202002
+    }
+]
