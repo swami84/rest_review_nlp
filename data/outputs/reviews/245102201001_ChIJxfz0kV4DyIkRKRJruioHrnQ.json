@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cGU2aTlBRRAB",
+        "caption": "We arrived at this spot for dinner. my friend recommended this restaurant.  Well, it was very successful. we were warmly welcomed by the crew  and we felt excellent. The meal was great. We had a great time and we will definitely return to this restaurant. we highly recommend this place.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Q Fuentes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106871635444726885540/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHN5V3BnRRAB",
+        "caption": "My top spot for delicious Buffet food. I often meet people here to talk. The place has an awesome feel to it.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Lyla Soto",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102144138966759241930/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4aWZQemJ3EAE",
+        "caption": "I actually like the food and service, fantastic location right next to my house. The cashiers are always very nice. Will come visit again.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "William Gassett",
+        "n_review_user": 64,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115645885951810164640/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzN0xMdkpREAE",
+        "caption": "I love the picnic perch but it needs more food. $55 gets you a seat and unlimited beer, soda, water, lemonade, hot dogs, peanuts, popcorn :)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Erik W",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117751187890888805084/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbzVldzV3RRAB",
+        "caption": "I like this spot! They give high quality dishes, their menu is nice, The chief cook in that spot is very experienced, I enjoy very much tasting all their dishes. The dishes are always fresh and tasty, the attitude towards the clients  is friendly. I visit often this place and I was never discontended. I recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Robert Carter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101495573351616468560/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcHFtTUVnEAE",
+        "caption": "I love the picnic perch but it needs more food. $55 gets you a seat and unlimited beer, soda, water, lemonade, hot dogs, peanuts, popcorn :)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Travel Erik",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102991456688346791276/reviews?hl=en-US",
+        "census_block_group": 245102201001
+    }
+]

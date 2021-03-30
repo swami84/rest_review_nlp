@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNellhcUhBEAE",
+        "caption": "The customer service is consistently quick, fantastic mood, nice staff. I will visit here again when I am in town.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Robert Heath",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117591463180032393926/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNN3YtM0FREAE",
+        "caption": "Food was horrible wouldn\u2019t ever go there again",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Tahira Stackhouse",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101318232555746505109/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwaGViaklnEAE",
+        "caption": "The best Italian cuisine in the city highly recommend",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "John D. Harris Jr.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115752896633251580932/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcE5hVC1RRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "chyna l",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111154953229258032320/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

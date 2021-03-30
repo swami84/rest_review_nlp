@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdU43WHB3RRAB",
+        "caption": "The customer service is constantly quick, excellent vibes, very friendly staff. I will return again when I get here.",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Cayson Schmidt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118142047733223256775/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzd3Zyd2N3EAE",
+        "caption": "We arrived at this spot for dinner. my friend recommended this restaurant.  Well, it was a winning. the staff members were so friendly and we had an excellent feeling. The meal was yummy. We had a great time and we will definitely return to this restaurant. Keep it up.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Burton Barr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104694350808803846669/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNcDQtM2J3EAE",
+        "caption": "This place is awesome! Reasonable pricing, big portions and the employees are always kind.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Aaron Reagan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101279437644034702199/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

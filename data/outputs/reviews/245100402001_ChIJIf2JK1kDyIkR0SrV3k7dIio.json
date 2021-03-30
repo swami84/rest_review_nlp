@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcm9hMlpBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "David Rockstroh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116061588552173031333/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNekxmVlhREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "Chun Mun Loke",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104282086071576049053/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVd2NDaE1nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "Keerthana Kumar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106928691902448447464/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNEptSEdREAE",
+        "caption": "If you are looking for something they sell, they are your best option in the hospital. The prices are a little high, but about average for the area. Obviously the main attraction here is the pizza. And it doesn't disappoint, New York style thin, not crispy bread. Can you get better pizza? Absolutely, just not within a short walk. But it's made fresh, not frozen and is your typical mall food court style pizza. The surprising part is that they also have chicken tenders, shrimp, fries, potato wedges, wings and mozzarella sticks that are all better than you'd expect. Everything bet the mozzarella sticks are much better than at the main cafeteria next door. They always come out hot. The only real complaint I have is they aren't good at keeping their non-pizza items in stock. Regularly you will go and see empty tenders or fries trays. It's partially due to the popularity of the place, but they also run out when it's not the lunch rush, so not sure what going on there. But, they always have plenty of pizza in stock. If you want to double up with a bag of chips or cookies from Subway they can grab that from you so you don't have to get in two lines. If you want a sub, then you'll need to do two lines. Overall, this is your best dining option in UMMC for hot food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Richard Legendre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114862972714286904688/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnMXV6Mnd3RRAB",
+        "caption": "I like that place.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "\u0627\u0631\u06af\u0627\u0646\u06cc\u06a9 \u067e\u0627\u0631\u0633",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118141256454409559292/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

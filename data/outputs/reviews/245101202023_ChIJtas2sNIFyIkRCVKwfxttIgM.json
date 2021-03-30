@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NTlMbUd3EAE",
+        "caption": "(Translated by Google) Very rich flavor  (Original) Muy rico sabor",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "all of us RG",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114246499703185255605/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeF8tbVFnEAE",
+        "caption": "Food was perfect! Lamb and chicken over rice is heaven ! Excellent customer service too",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Ty Holloway",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107994841040861784760/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdllMajJBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Nicole Alomary",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114475043174255270067/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcC02Z3pRRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Adam Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106423254907510172832/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpN2FIaWlRRRAB",
+        "caption": "This place is one of the best in Baltimore, great tasty and fresh food. I would definitely recommend this place",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Arimaspi Films",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116310492136990595569/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bjg2X0xREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Sri Krishnan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118198733631323060027/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bTl5bkpBEAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Rienzi Walker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115750081259981554347/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjem9IU1dnEAE",
+        "caption": "This truck is awesome, the food is fantastic, the price is right, and the people who work there are very friendly \ud83d\ude42",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Scooter",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105934222074919098344/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjb29tQ0hnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Mohammad Alomary",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112115065960016000242/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb3RLWnhnRRAB",
+        "caption": "Great food and a pleasant experience, leaving a smile on your face.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Ross Miller",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115574549811837769277/reviews?hl=en-US",
+        "census_block_group": 245101202023
+    }
+]

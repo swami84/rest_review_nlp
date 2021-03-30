@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bTZlbVp3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tayvom Williams",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108198078744570780017/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Mzk3Y0hBEAE",
+        "caption": "The Fried Chicken....... #seasoning from #childhood The unique taste of this chicken has been consistent for years. Thank you for some good chicken!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Steven Howard",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116393864038288765152/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aGVDcmhnRRAB",
+        "caption": "I haven't had this chicken since a few years ago. I'm only writing this because I need to ask why they don't have Door Dash or other delivery options during COVID? I don't feel like driving to Lexington Market.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Melissa Dash",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111200268131933949344/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeEt5c0Z3EAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "SoniaTafari Schroeder",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116971487063609397039/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4LWJ1aTl3RRAB",
+        "caption": "Delicious ample portions fair prices",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "J e t h e r Jones",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105278488346507695797/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRN29DZHp3RRAB",
+        "caption": "Fantastic fresh fried chicken. Best gizzards in town. Always a pleasant experience. Very Courteous staff. A must stop at Lexington market.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jeff Green",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116341026452132638427/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVd0p5VENBEAE",
+        "caption": "The best fried chicken in Baltimore",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "William Maughlin",
+        "n_review_user": 78,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111236559177764618654/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3OFpYYlJ3EAE",
+        "caption": "Pretty good damn chicken real good special fries",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jerome Westmore",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103903066604721892359/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRaDZyRDVBRRAB",
+        "caption": "park's used to be a spot to get great fried chicken until i worked there for a short period...very nasty behind that stall they dont change the oil then we were told if u drop chicken put it in a pan so she made eggrolls with them\ud83d\udc4e\ud83d\udc4e",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "nikkistayfocused",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107880229408287234052/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjeXFTWWN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Douglas Clark",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116855391581533165709/reviews?hl=en-US",
+        "census_block_group": 245101205001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwX3FlaE1BEAE",
+        "caption": "Located at the bottom of the escalators for Concourse B. Delicious warm cinnamon sugar pretzel - soft and chewy - and some bonus pretzel nuggets! Young kids at the counter were lighthearted and promptly gave me my order.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Kevin Sun",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107010213254295507544/reviews?hl=en-US",
+        "census_block_group": 245101205001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvbDd1V2ZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "David Geiger",
+        "n_review_user": 33,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104173802615378527646/reviews?hl=en-US",
+        "census_block_group": 245101205001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MzU3bzlRRRAB",
+        "caption": "The Fried Chicken....... #crispy & #seasoned #properly #TASTY #TASTY #TASTY Thank you!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Steven Howard",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116393864038288765152/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvdzYtQkpBEAE",
+        "caption": "Chicken a#1 3/19/19",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Kevin Jones",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115813355782189774291/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNmFHY1BBEAE",
+        "caption": "This restaurant displays mastery of chicken and an unparalleled dedication to customer service",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Cameron Gregory",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102965525378238072212/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnaGZlV3lBRRAB",
+        "caption": "The chicken from here is one of the best  in the market 3/2/18",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Kevin Jones",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107522398102612194910/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbmZ5eWRREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Frank La Canfora",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115955982969312071189/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

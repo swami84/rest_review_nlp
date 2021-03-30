@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwLU4ySTZBRRAB",
+        "caption": "Do any one know if their at a different location since leaving Lexington Market?",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tonette Bryant",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104215482187543831493/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZMDRTWTlRRRAB",
+        "caption": "They had some good fresh sushi and reasonably priced.  Customer Service was always great.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tiffany Thompson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102251204232951719714/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnaXZQX3JnRRAB",
+        "caption": "I love this place best sushi around",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "OY Beats",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116419772420065367964/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

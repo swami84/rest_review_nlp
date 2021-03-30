@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNHRXcDBnRRAB",
+        "caption": "Taiwanese fast-food chain. Must try the qua-qua bao.",
+        "relative_date": "an hour ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "\u5289\u73a0\u6698",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102107505592824322842/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLZ0xQRFdnEAE",
+        "caption": "Spicy Chicken Sandwich had a great flavor, meat was a little dry but overall a good sandwich for the price for sure.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Adam Estes",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115717011283595171429/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cnN1cVRnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "James Turner",
+        "n_review_user": 210,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115448530960899076073/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bkx5WjBRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Lawrence CH Hsu",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118015156938325345047/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MU5ITllBEAE",
+        "caption": "Best friend chicken ever. Theur bun is excellent!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Henry Hsueh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104771602267764125091/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdTdHOUpREAE",
+        "caption": "4.5 stars \u2014 Chicken tenders were good, sandwich was properly spicy, but a little dry. The sides we got were excellent, unique and flavorful! Plus, the boba was delicious. The tapioca was soft, and the tea was not too sweet or bitter. I\u2019m excited to come back and try the rest of the menu!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Raphael Tenazas",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104356835057466290814/reviews?hl=en-US",
+        "census_block_group": 245101202025
+    }
+]

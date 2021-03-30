@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHBmUnV3RRAB",
+        "caption": "I like it here, great food & service. Quick and friendly service. Prices that won't break you. Kinda of like a restaurant in Los Angeles I loved to visit.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Sierra Lambert",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108449141979238007073/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDa0xtQzJ3RRAB",
+        "caption": "It was so appetizing. The place has a nice atmosphere.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Alyssa Fischer",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112157677614713849186/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNekktYUVREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Chun Mun Loke",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104282086071576049053/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNGZuWXNBRRAB",
+        "caption": "Food is solidly ok; meat texture feels slightly lesser quality than some places and spicy mayo has a little too much mayo not enough sriracha but otherwise solid. Cost cutting affects everyone",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Esther Roskam",
+        "n_review_user": 81,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117030335135544308509/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwMkw3TU5nEAE",
+        "caption": "They changed the menu, made the poke  pricier if you want more than rice and fish...  gotThey also got rid of the don buri as a special, increasing the price on that as well. Be careful because what used to be free on poke is now essentially a dollar per tablespoon. The food quality seems to have decreased as well. The sushi rice was not good and not very sticky.  I'll just walk down the street next time.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "Nicholas Ciavattone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114564636551762219572/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwOHU3SGFBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "kirsten strohmer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108164356680116555822/reviews?hl=en-US",
+        "census_block_group": 245100402001
+    }
+]

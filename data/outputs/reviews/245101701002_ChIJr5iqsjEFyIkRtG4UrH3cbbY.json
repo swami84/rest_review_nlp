@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbmUtTDRRRRAB",
+        "caption": "Best food in Baltimore.... I am still trying different menu items and I even had a cupcake with my order. BOMB!!!! Can\u2019t wait for lunch tomorrow.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "DEJA Fine Homes and Estates",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105378121485377728826/reviews?hl=en-US",
+        "census_block_group": 245101701002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4Xy1mZzV3RRAB",
+        "caption": "5 Star Chef!  Seasoning to perfection.  Everything is hitting the spot!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "KAREENA HALL",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103275745037143078373/reviews?hl=en-US",
+        "census_block_group": 245101701002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4el9YdTdRRRAB",
+        "caption": "The food is delicious have u coming for more and more the more u eat it the more addicted I get",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "james cederquist",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104879902255614309002/reviews?hl=en-US",
+        "census_block_group": 245101701002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4bE1LZ2pRRRAB",
+        "caption": "I bought the shrimp ribiye Steak sub!!!! Best steak sub in Baltimore city!!!! So tasty and scrumptious!!!! Customers service on point! Friendly! Felt like family!!!!! \ud83d\udcaf",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jovon W.",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110637195273350442540/reviews?hl=en-US",
+        "census_block_group": 245101701002
+    }
+]
