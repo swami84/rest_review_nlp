@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpZ3RhdHV3RRAB",
+        "caption": "Excellent food that you must try!!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Roy Lowe",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107843877584171041927/reviews?hl=en-US",
+        "census_block_group": 240338040013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOThqc0R3EAE",
+        "caption": "Everything was delicious\ud83d\ude0b the crab cakes were well seasoned and full of lump crab meat! The Henny wings are my favorite! Can't wait to go back!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Karms Anderson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102945316250112834368/reviews?hl=en-US",
+        "census_block_group": 240338040013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaDQzTWF3EAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "jack lyle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101339529574293845353/reviews?hl=en-US",
+        "census_block_group": 240338040013
+    }
+]

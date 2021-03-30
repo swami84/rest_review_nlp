@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNFppMXRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Roberto Angeles",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116428287221002720394/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwOHBmRUl3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "limbo Alejandro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108978129252213146467/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwcUtqTVJ3EAE",
+        "caption": "The food is almost alway's tasty but price's keep going up and my visit's are becoming less\ud83e\udd37\u200d\u2642\ufe0f",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Champion Singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108019237185842170853/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVaVptV1JBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "santos Diaz",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101667867822371606717/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJZ1ppMHFnRRAB",
+        "caption": "Very bad customer service.. The food was cold and half of my food was raw... Will never come back.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "V Choc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117630112651109913353/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaU9fWFNnEAE",
+        "caption": "(Translated by Google) I really like the menu and the aggression they have for customers  (Original) Me gusta mucho el men\u00fa y la agresi\u00f3n que tienen para los clientes",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jose Eloin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103677339558352748418/reviews?hl=en-US",
+        "census_block_group": 240338036122
+    }
+]
