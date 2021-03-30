@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBXy1PbUdREAE",
+        "caption": "I hope this 7-11 copes with this violence",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Nicholas Evans",
+        "n_review_user": 42,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117579387719693790343/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBMzhHTW9BRRAB",
+        "caption": "The cashier gave me $20 because I didn't have a debit card and couldn't get cash back to give to the parking lot so my 3 and 4 year old girls and I could see Frozen on Ice at the Mariner Arena.  If not for him we would have been late and my children would have been very disappointed.  What a good guy.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Samantha Rodman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107475632332018314732/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    }
+]

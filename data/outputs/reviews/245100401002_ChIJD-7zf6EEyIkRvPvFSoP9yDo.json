@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3bkpMRWVREAE",
+        "caption": "The shawarma is the best in town. I always go to different places to try their shawarma and so far this place has the best. Try their homemade beverages, awesome.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Oulai Ange Rozay",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113451404450117270762/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRZy1yQWd3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Jays World",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111617450064746737236/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndTZ1QUtnEAE",
+        "caption": "My fav Food",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Stevie Boi",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116851332106455905345/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRX01fOW9nRRAB",
+        "caption": "Great food!",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Alimatou Seck",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118002306254703616580/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnaXV2RTVBRRAB",
+        "caption": "Great place",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Papa Moustapha THIAW",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105241397319809951791/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnb09ISWJ3EAE",
+        "caption": "My friend Ibru told me about the place. I found very tasteful good food. I was pleasantly surprised by the good food, the clean place and the wonderful service received at the Senegalese restaurant. I will definitely recommend the dibi meat. Alex C.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Alex Coulibaly",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107349554554274927196/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    }
+]

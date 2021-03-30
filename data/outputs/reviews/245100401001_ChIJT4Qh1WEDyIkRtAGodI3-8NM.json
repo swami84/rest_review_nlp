@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNLTRMcDNRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Bobbi Mooring",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109853112447869490022/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcVB6YUx3EAE",
+        "caption": "Foods are in good amount and good price! Super busy with korean food to other american dishes  Totally recommend some Korean foods and American casual breakfast and lunch! Their iced coffee is cheap and tastes same as Starbucks!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Luke Shin",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106970886116520666622/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrMjVpZWxBRRAB",
+        "caption": "It's been awhile since I've been here but they had pretty good food I I'd like the club or was it a chicken I'm not sure but it was pretty good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Trinnard Bailey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101374481910153595151/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvenZQRFhnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Robert Triplett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103341169391252644227/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRb3ZlRkJBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Rafael Hernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107378409909995022149/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRdVBXaHBBRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Tom Fryzel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101226470994484801036/reviews?hl=en-US",
+        "census_block_group": 245100401001
+    }
+]

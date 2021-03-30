@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNa2FyaENREAE",
+        "caption": "They are the best....... bar none.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Elisha Isler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116358387739865436779/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQweExEOVdBEAE",
+        "caption": "Thanksgiving sandwich!! Also had the platter today so amazing",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "James Turner",
+        "n_review_user": 210,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115448530960899076073/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNrOHJpU213RRAB",
+        "caption": "Thanksgiving Sandwich is the best ever, anywhere. Love this place!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Charley Varipapa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100260793340423601688/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbWRLZWdBRRAB",
+        "caption": "Love the Turkey Dinner and the Thanksgiving Sandwich is Awesome",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Betty BrownEyes",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110334310175618930764/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRcktqODlRRRAB",
+        "caption": "I only go there for the freshly shaved turkey sandwiches.  They're worth a trip to Lexington Market once every other week.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Jeremy Doggett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109452182067714037915/reviews?hl=en-US",
+        "census_block_group": 245100401002
+    }
+]
