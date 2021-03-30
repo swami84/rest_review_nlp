@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NjZyem9BRRAB",
+        "caption": "Delicious Colombian food! Great atmosphere and friendly staff. Great way to finish our trip. Would love to return when back in town.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Karen Pichardo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101405748952872481452/reviews?hl=en-US",
+        "census_block_group": 220710139001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeWJHR1VREAE",
+        "caption": "Amazing Colombian Creole fusion cuisine & drinks. Most memorable meal in recent history, wonderful service.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Chad Chapel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107739893052918718618/reviews?hl=en-US",
+        "census_block_group": 220710139001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNbnJ5WkJnEAE",
+        "caption": "The soup was amazing! Everyone was very happy with the variety of selections and the staff was kind and efficient.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "LeAnn Retzlaff",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109420911269651653475/reviews?hl=en-US",
+        "census_block_group": 220710139001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRNDZITkZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Mildaglis Talavera",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103314849813028876586/reviews?hl=en-US",
+        "census_block_group": 220710139001
+    }
+]

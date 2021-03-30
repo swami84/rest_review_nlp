@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNU5LTDh3RRAB",
+        "caption": "Quite possibly the juiciest most tender strips of chicken I have consumed in my life. They went above and beyond, honestly",
+        "relative_date": "20 hours ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jessie Deardorff",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106519750401319583068/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MHJ6Zm1RRRAB",
+        "caption": "If you're looking to get a really good buzz, definitely try a jazz funeral. We stopped in here on our last day in NOLA and indulged in one. Let's just say that it made the flight home MUCH more enjoyable. The Krispy Krunchy chicken was also pretty delicious.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Hannah Lockwood",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111257906329398906707/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4MV9mem5nRRAB",
+        "caption": "They have everything and very clean",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Marisa David",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107413029805472862491/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4aDhIOTNnRRAB",
+        "caption": "St Louis Market is BY FAR the cleanest market in the French Quarter. And they have a lot to offer.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Brian K Crain",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114403781109619718165/reviews?hl=en-US",
+        "census_block_group": 220710135003
+    }
+]
