@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5X19ESElREAE",
+        "caption": "very yum i love the one with cherry drooping out of the whole 5 stars",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Marley Howell",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103325030451423370509/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpM0lpblB3EAE",
+        "caption": "The cherry donuts were delicious, especially if you order it with emerald frosting, 5 stars",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Miguel Padilla",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100629511741951384437/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjeE1lTm1nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Grayson is savage Vlogs",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116608969005215447691/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjeE5tLXhBRRAB",
+        "caption": "These donuts were to die for.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "ProtakuEmmie",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115226183097214301920/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMmZiSmd3RRAB",
+        "caption": "r i p",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Tam Phan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114015744960171409728/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    }
+]

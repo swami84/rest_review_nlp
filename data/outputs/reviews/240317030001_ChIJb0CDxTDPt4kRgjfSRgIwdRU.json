@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzc3N6T1Z3EAE",
+        "caption": "A little slice of Heaven.  One of the best greasy spoons in the area.  The food is well worth the wait.  My family has used this food truck for everything from dinner to catering for birthday parties. The truck is run by good people that make even better food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jon Blue",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106293053452609997234/reviews?hl=en-US",
+        "census_block_group": 240317030001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZM18zUHdnRRAB",
+        "caption": "Didn\u2019t mean to click the rating. Don\u2019t know how to undo. Didn\u2019t go to this place",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "AJ",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101134336303068276683/reviews?hl=en-US",
+        "census_block_group": 240317030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3akxLRUxnEAE",
+        "caption": "Authentic Mexican food truck, with menu items prepair Ed right in front of you. You might have to wait a bit for meat to be grilled, so expect to wait 3-5 minutes before your burrito comes out. But when it's ready - it will be delicious!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Alex Fadeev",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109872732044574728356/reviews?hl=en-US",
+        "census_block_group": 240317030001
+    }
+]

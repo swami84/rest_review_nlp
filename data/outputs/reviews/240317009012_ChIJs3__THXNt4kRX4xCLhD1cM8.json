@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMEp5Y3dnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Fontella Lynn Davis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116546310190225723644/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvMDdDa19nRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "mehir uddin",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117819540289849220548/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJMy1TQlF3EAE",
+        "caption": "Decent selection. Bit overpriced cafeteria food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Steve Shofar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113618194999804195240/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndkluU3N3RRAB",
+        "caption": "Well is being",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102795189241191082445/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    }
+]

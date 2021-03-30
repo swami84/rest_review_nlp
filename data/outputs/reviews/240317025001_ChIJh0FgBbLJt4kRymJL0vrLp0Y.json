@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a3MtNVFREAE",
+        "caption": "Good food truck featuring Salvadoran cuisine.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Bill Schauman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117536825409058390866/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cDRQSkZ3EAE",
+        "caption": "Pupusas and tacos are the best!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Alex Gomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113522421861755060203/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bmR1WUF3EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Carlos Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117194195752422391062/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNy1UWkdnEAE",
+        "caption": "We love the pupusas!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Anna Clayton",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116818686665897472260/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeU1EX3NBRRAB",
+        "caption": "Friendly staff. Food is cooked fresh and pretty quickly. Recommend the papusas and quesadillas.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Travis Goodwin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101325452549681652802/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdk9mT3ZnRRAB",
+        "caption": "The lady in the truck is nice and friendly . The food is good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Oumy Z",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114126861933953218765/reviews?hl=en-US",
+        "census_block_group": 240317025001
+    }
+]

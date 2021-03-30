@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMjlQMUNBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "David OG",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106195057829330618443/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNncU0yT0dREAE",
+        "caption": "Best sandwich ever!!!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "ivaylo klisarski",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105410260076674506457/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcC1YNG1BRRAB",
+        "caption": "Amazing sandwiches and desserts!!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Gabe Miccio",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100011574587850164647/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNReTkzd2xnRRAB",
+        "caption": "The newest food truck in Montgomery County Maryland! Great food and service! Must stop by and try one of the grilled cheese sandwiches they got! Highly Recommended!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "boris lambrev",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102193141188594982291/reviews?hl=en-US",
+        "census_block_group": 240317007231
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5X19tYVdnEAE",
+        "caption": "Food is always AMAZING, super flavorful, tasty, and great portion sizes. Enjoyed them when chefs at Serenity Tearoom and still love their dishes now. You will not be disappointed!",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Angel Henry",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107585946783451348016/reviews?hl=en-US",
+        "census_block_group": 240217502002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5alozMWtRRRAB",
+        "caption": "My family and I ordered each of the entrees offered, and they were all delicious!!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Michelle Williams",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111922163533460899027/reviews?hl=en-US",
+        "census_block_group": 240217502002
+    }
+]

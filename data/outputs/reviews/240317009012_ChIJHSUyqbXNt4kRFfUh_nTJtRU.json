@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MGZ6dDR3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Chen Qu",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104656423412378324289/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdHBILWpBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Henggao Cai",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111581864424720808243/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpZ0pMSzlnRRAB",
+        "caption": "(Translated by Google) Lao Tongguan Rou Jia Mo and Liang Pi are really superb. It is recommended that those who have not tried it can try it. The taste is almost the same as the domestic taste. Check in, but the waiting time is a bit long, but it is indeed freshly baked as they say! Praise! (The freshly baked buns are full of fragrance)  (Original) \u8001\u6f7c\u5173\u8089\u5939\u998d\u548c\u51c9\u76ae\u771f\u7684\u7edd\u4e86\uff0c\u5efa\u8bae\u6ca1\u6709\u5c1d\u8bd5\u7684\u5c0f\u4f19\u4f34\u53ef\u4ee5\u5c1d\u8bd5\u4e00\u4e0b\uff0c\u548c\u56fd\u5185\u7684\u5473\u9053\u51e0\u4e4e\u4e00\u6837\uff0c\u6253\u5361\uff0c\u5c31\u662f\u7b49\u5f85\u7684\u65f6\u95f4\u6709\u4e9b\u957f\uff0c\u4f46\u786e\u5b9e\u5982\u4ed6\u4eec\u8bf4\u7684\u73b0\u70e4\uff01\u597d\u8bc4\uff01\uff08\u73b0\u70e4\u7684\u998d\u4e00\u53e3\u4e0b\u53bb\u6ee1\u5634\u7684\u9999\uff09",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tyler brand",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115506846491059658240/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpZ0lMR1hBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Le Yu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115081647152932273525/reviews?hl=en-US",
+        "census_block_group": 240317009012
+    }
+]

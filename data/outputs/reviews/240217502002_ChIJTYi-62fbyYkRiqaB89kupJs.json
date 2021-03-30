@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LW9TNkZnEAE",
+        "caption": "The food is great \ud83d\ude0c",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Jessica Juarez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106651831950556442802/reviews?hl=en-US",
+        "census_block_group": 240217502002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LXNEX1BnEAE",
+        "caption": "Just tried, food was delicious and authentic...curry chicken with cabbage, rice and peas, jerk chicken alfredo, jerk chicken sandwich and beef patties... she even gave us two free sodas for running few minutes behind... Great way to encourage patronage!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-29",
+        "rating": 5.0,
+        "username": "Bridget",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109540970748760418544/reviews?hl=en-US",
+        "census_block_group": 240217502002
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0aWFyVFR3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Miguel Cortez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100133129149927303841/reviews?hl=en-US",
+        "census_block_group": 240317025004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZcHAtTVp3EAE",
+        "caption": "Delicious Steak and Rice - Good Quality and Quantity - Highly Recommend !!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Jon Moser",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110150490223224324574/reviews?hl=en-US",
+        "census_block_group": 240317025004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZMG9TaFdREAE",
+        "caption": "They don\u2019t hurry up",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Ricardo Lopez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113367666274961512592/reviews?hl=en-US",
+        "census_block_group": 240317025004
+    }
+]
