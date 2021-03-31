@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBMWVHUFJ3EAE",
+        "caption": "Nice and big place clean",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Claudia Castillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107373854557330323448/reviews?hl=en-US",
+        "census_block_group": 360050129012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNm82SFBREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Rosa Maria",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115610691956767664828/reviews?hl=en-US",
+        "census_block_group": 360050129012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRNjhPSS1RRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "GISA MORENO",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116848981121615738610/reviews?hl=en-US",
+        "census_block_group": 360050129012
+    }
+]

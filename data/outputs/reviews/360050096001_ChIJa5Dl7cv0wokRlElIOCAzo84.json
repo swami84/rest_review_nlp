@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3OFBycUJnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Atef Benhassen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103756375609817519759/reviews?hl=en-US",
+        "census_block_group": 360050096001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3a0wtZTZ3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "kenny singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101752811197800910098/reviews?hl=en-US",
+        "census_block_group": 360050096001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMVo3NWtBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Maria Mart\u00ednez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107649878059675666039/reviews?hl=en-US",
+        "census_block_group": 360050096001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3dlpQVnh3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Mary Blease",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101271424470682004476/reviews?hl=en-US",
+        "census_block_group": 360050096001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMU9ydlNREAE",
+        "caption": "Food is fresh and the taste is very good price is also decent",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Ronny Oemraw",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117943558765155596898/reviews?hl=en-US",
+        "census_block_group": 360050096001
+    }
+]

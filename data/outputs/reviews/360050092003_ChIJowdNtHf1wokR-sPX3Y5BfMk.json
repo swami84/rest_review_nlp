@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdU9lUjlBRRAB",
+        "caption": "Been waiting on this restaurant to open forever. And lord have mercy they just be taking my money. The food is AMAZING. Cant get any porridge at nights \u201cinside joke\u201d but that\u2019s ok. \ud83d\ude02\ud83d\ude02.",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Michelle Rowe",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106919914539890012096/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLOEkyTDR3RRAB",
+        "caption": "The jerk chicken, goat curry, and chicken curry were all delicious. The rice absorbs all of the sauces wonderfully, and the cabbage goes perfectly with it. Bonus, their carrot cake is so moist and raisins are perfect in every bite.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Artley",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111727095766939212161/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aGI3RHNnRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "C Briggs",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108392004522163575823/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M3JQYlRBEAE",
+        "caption": "Delicious Curry Goat, Cowfeet, and Jerk chicken !! Staff is very friendly and generous in portion sizes.Will definitely come back for more !!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Wilfredo Albay Jr.",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112056733244391075707/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OHIzTWxRRRAB",
+        "caption": "Good Food  fresh was still able to get breakfast for lunch festival on point Mac and Cheese",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Eric Brown",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107661433324096302166/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MHA3enF3RRAB",
+        "caption": "They opened two weeks ago I ordered jerk chicken with rice and peas with oxtail gravy and jerk sauce it had some heat to it if you like heat this is the way to go.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Marvin Benjamin",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106812722854315757728/reviews?hl=en-US",
+        "census_block_group": 360050092003
+    }
+]

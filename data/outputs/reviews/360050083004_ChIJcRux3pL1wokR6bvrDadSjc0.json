@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NWFfVnF3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Pancho Luis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105050693003252635572/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Mk9tcmJnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Nathaniel Glenn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113894595571134519314/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpdWFqd09REAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "MCanimations 431",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109735912532782641789/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDc29qc3R3RRAB",
+        "caption": "(Translated by Google) Excellent place  (Original) Excelente lugar",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Alfredo Rivera",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111361735153462766710/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMk1PclBBEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Edwin Heredia",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115562055127399148367/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDa3Z1ZFR3EAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "MTA railwayFAN",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106819893508983615241/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4M09QeElnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Diana Soto",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110372772311184050265/reviews?hl=en-US",
+        "census_block_group": 360050083004
+    }
+]
