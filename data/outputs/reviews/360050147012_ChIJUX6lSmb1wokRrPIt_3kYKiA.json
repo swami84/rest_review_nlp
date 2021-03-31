@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dHVtYWRREAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "rong dong",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113810787875050519028/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MTluWW1RRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "jauhniera shaw",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108368346159715018815/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5d2EyUEhnEAE",
+        "caption": "Great food, great people! Never had an issue there. Highly recommend",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Justin Valera",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112594425674123425649/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTaTdhVDNRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Rayceli Perez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117676250030898852410/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbXNqR2JBEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "oris sanchez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102658643788243744507/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpdnE2N2FnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Rain Danch",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102632416411375239139/reviews?hl=en-US",
+        "census_block_group": 360050147012
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbzdpem1RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Eugenio Galvez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107889575644157672378/reviews?hl=en-US",
+        "census_block_group": 360050155001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNdGUtNUF3EAE",
+        "caption": "Nice home style NYC pizza that reminds me of my childhood in the Bronx. I would recommend to my friends.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Cali JordanGotay",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116605539914281758679/reviews?hl=en-US",
+        "census_block_group": 360050155001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMzg2eU5nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "STEPHANIE GALVEZ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113782317399369068637/reviews?hl=en-US",
+        "census_block_group": 360050155001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVbjhidzZBRRAB",
+        "caption": "The best pizza in the Bronx",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Eugenio Galvez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114074611831571167757/reviews?hl=en-US",
+        "census_block_group": 360050155001
+    }
+]

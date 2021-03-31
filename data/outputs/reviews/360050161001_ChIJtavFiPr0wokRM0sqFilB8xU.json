@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBNkpfVFdBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Juan Castillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104025230475705668599/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRZ055Z3d3RRAB",
+        "caption": "This place is closed",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jorge Santana",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103220376262049275644/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbnFHa0NBEAE",
+        "caption": "I really loved the way I got my deep dish. It was always so tasting and hot. Only bad thing was I usually had to wait awhile. Unfortunately, it looks like the store is shutdown for good.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Photos by Yahtsy",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109311510239519313081/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3bXBybnV3RRAB",
+        "caption": "The pizza is good but try to keep in mind when is slow hours the pizza hot and ready can be overcooked because they keep in the heating on warm oven won't be fresh and ready.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Joshua Degreiff",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108102585651326714972/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRejhEX1hBEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "SANDRA SANCHEZ",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111422206484567520133/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdFl1X3BRRRAB",
+        "caption": "The pizza was cold not my fav place",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Mariela Acosta",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118172808610250087088/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBLXByZGpBRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Kiana Bing",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104746192625950765366/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnOXB2LW5BRRAB",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "B Miller",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105945500680053847875/reviews?hl=en-US",
+        "census_block_group": 360050161001
+    }
+]

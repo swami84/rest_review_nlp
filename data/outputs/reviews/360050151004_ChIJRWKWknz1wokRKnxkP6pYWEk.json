@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcnVyZDRBRRAB",
+        "caption": "(Translated by Google) The chicken is very good, fresh and the service is fast.  (Original) El pollo es muy bueno, fresco y el servicio es r\u00e1pido.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Miguel Valbuena",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110996796317987237764/reviews?hl=en-US",
+        "census_block_group": 360050151004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDdXY3eTV3RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "THAT MY MAN FOR THAT",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106155643531074707967/reviews?hl=en-US",
+        "census_block_group": 360050151004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrdDlqY2R3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Thawaab Ahmad",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104222541879718088283/reviews?hl=en-US",
+        "census_block_group": 360050151004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwZ0xMdXdRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "King Rico X",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100842759077893610198/reviews?hl=en-US",
+        "census_block_group": 360050151004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrbDlPOW1nRRAB",
+        "caption": "Very good food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "mukhtar ahmad",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116291943769425277508/reviews?hl=en-US",
+        "census_block_group": 360050151004
+    }
+]

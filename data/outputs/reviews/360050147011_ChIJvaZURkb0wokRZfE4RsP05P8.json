@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwOWJ2YzdRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Fatah Kafando",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110721143760027309822/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3a0xpVWJnEAE",
+        "caption": "Best African food I have ever eaten.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Albu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107359253263952199116/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdll6RnBnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jefferlyne F Parsons",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108062560971426638497/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBOUozd2RBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Mariam Dore",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111169066396904638603/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNHE2M1NnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ma\u00efmouna Diallo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106979486647629511000/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBN19ibkxBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "issiaka sanogo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103981648063663389218/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbHA2SUhREAE",
+        "caption": "They have very tasty food. The place is just not attractive",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Myster SEGDA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115852243779007098798/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnaVpqVDNnRRAB",
+        "caption": "Great",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Chatau Soumahoro",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101809968914738673953/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaXZURU9REAE",
+        "caption": "Horrible pricing and delays on food..",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Fakrul islam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113743605723312122069/reviews?hl=en-US",
+        "census_block_group": 360050147011
+    }
+]

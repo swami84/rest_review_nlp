@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwNXBqMFlnEAE",
+        "caption": "(Translated by Google) Very good food, First Attentions  (Original) Muy buena comida,Atenciones de Primera",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Djjr Radio La Industria Musical",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107593879250243625463/reviews?hl=en-US",
+        "census_block_group": 360050145003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMy1mSjZBRRAB",
+        "caption": "If you are looking for something quick to munch on, catering or a healthy dish, this is the place to go. The food here is delicious. Highly recommended it.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jenny",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109145937815812565320/reviews?hl=en-US",
+        "census_block_group": 360050145003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMF9mUTF3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Yaquenia Vargas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108552933960257873230/reviews?hl=en-US",
+        "census_block_group": 360050145003
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURrcTc5MRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Nacho Jim\u00e9nez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101860225698101405699/reviews?hl=en-US",
+        "census_block_group": 360050145003
+    }
+]
