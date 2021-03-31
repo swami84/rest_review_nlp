@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMUlYeWNBEAE",
+        "caption": "didnt acknowledge me. rude taking my order. thats all fine, but the girl asked me for a tip. thats no good.",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Joseph",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102702739831344599273/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTNi1HQ1B3EAE",
+        "caption": "Good bowls but this is the second time now that I find a strand of hair in my a\u00e7a\u00ed bowl and it is gross. It is not my hair.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "JESSICA LOPEZ BARRIOS",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116305124357910617366/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpd2J5VWZREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Miguel Mijares",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103131206933763951095/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    }
+]

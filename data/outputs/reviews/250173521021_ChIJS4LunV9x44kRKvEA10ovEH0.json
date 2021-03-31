@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdlpMUnpnRRAB",
+        "caption": "Chicken now? More like chicken not. Run!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "anzew000",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111400560934459897032/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzcUlmaDBnRRAB",
+        "caption": "Bruh I want chicken now right now",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "VorpalBunnie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110301159800170254485/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNmZfa09nEAE",
+        "caption": "This place is the best, quesadilla is a great deal, WITH NACHOS!!! They got everything",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Zack Jackson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110530781923399695182/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    }
+]

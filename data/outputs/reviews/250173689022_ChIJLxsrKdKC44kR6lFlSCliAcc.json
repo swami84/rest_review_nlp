@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNU1XbV9nRRAB",
+        "caption": "Excellent spot to grab something when in a rush. The service is prompt, prices are affordable, great atmosphere. I highly recommend this place",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Robert Dominguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113248700555080951629/reviews?hl=en-US",
+        "census_block_group": 250173689022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMks3UnNnRRAB",
+        "caption": "Would absolutely recommend trying this spot. Awesome atmosphere, delicious food, great service. 5 stars.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "E Duarte",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104569327907477477763/reviews?hl=en-US",
+        "census_block_group": 250173689022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJcDhqUmF3EAE",
+        "caption": "Great food! The Subs and Pizza are awesome!  I haven't found anything on the Menu I don't like. Try the Penn Station or the BBQ Pork wrap.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "John Walcyzk",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100982907034334759548/reviews?hl=en-US",
+        "census_block_group": 250173689022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRdDhLTXVBRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Celia I",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110646391856360722558/reviews?hl=en-US",
+        "census_block_group": 250173689022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBX29ycVRREAE",
+        "caption": "It may be one half of a Brazilian Grocery Store but Food Express Pizza & Deli is a hidden gem you need to check out!  Starting with their sandwiches, let's just say you can't go wrong.  The ingredients are fresh, the bread fantastic and there are some which stand out from the rest.  If you love chicken salad, this is the place.  Prepared in their kitchen, it's a chicken salad which bursts with flavor.   They also feature the \"North Station: The Muffaletta Sandwich!\"  Let's just say if you like a good muffaletta, this is where you will find the best.  Food Express proclaims their pizzas are \"artisan inspired\".  There's no doubt about that.  The sauce is nice, not overpowered with sugar and rich in plum tomato flavor.  They use a great brand of cheese as their basic topping.  You know those pizzas you have to soak with with a paper towel because it's floating in oil?  You won't find that with these pizzas.  What makes Food Express pizza stand out is the crust.  I don't know what blend of flours they use but it's a cut above the rest.  I wish they would sell their dough so we could experiment with it in our kitchen.  Food Express Pizza and Deli isn't your typical fast food joint.  It's family owned and operated.  Conveniently located on Main Street, stop by and experience it for yourself.  It's worthy of your time!",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Silas Kain",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105465990752304437237/reviews?hl=en-US",
+        "census_block_group": 250173689022
+    }
+]

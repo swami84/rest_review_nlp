@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdUx1V0NBEAE",
+        "caption": "Cambridge location apparently closed last year... website does not state this.   Was on a wild goose chase trying to find the location.   They were very responsive on social media... update your website bros",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Sopheap Bou",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104905578524546987543/reviews?hl=en-US",
+        "census_block_group": 250173527003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNjVlY0xBEAE",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Piyush Bhateja",
+        "n_review_user": 46,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117081725586349516954/reviews?hl=en-US",
+        "census_block_group": 250173527003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVOWFLUHlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "lucssplayzz",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116759427563843507292/reviews?hl=en-US",
+        "census_block_group": 250173527003
+    }
+]

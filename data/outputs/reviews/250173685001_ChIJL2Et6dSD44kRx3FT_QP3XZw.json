@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M01yRkVnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "tyler dunn",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117906016763010153591/reviews?hl=en-US",
+        "census_block_group": 250173685001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LVBqdTZ3RRAB",
+        "caption": "Cute, clean shop with friendly service and delicious tea.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Maria Melchiorre",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116690205690617254146/reviews?hl=en-US",
+        "census_block_group": 250173685001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bWFDbUF3EAE",
+        "caption": "Came here on a Sunday for a spot to have a good drink and do 1-2 hours of work on my laptop. I got a delicious chai tea. It was delicious! Milky and just enough sweetness. So good.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "John Grant",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107854514399311280870/reviews?hl=en-US",
+        "census_block_group": 250173685001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cHVQdEpBEAE",
+        "caption": "No public bathrooms after purchase. They have cheese tea that is not recommended to use straws when drinking cheese tea. They sell Royaltea merchandise.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Joseph Chow",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115769093095902530985/reviews?hl=en-US",
+        "census_block_group": 250173685001
+    }
+]

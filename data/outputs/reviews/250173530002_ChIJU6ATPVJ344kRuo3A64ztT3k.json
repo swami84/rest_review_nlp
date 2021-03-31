@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eGRQOC1RRRAB",
+        "caption": "They offer a nice variety of delicious food. I like eating here. The employees are always very friendly, rates are fair and the place is always kept clean.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "duyalin baoom",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110474857830633246261/reviews?hl=en-US",
+        "census_block_group": 250173530002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbXJ6N1l3EAE",
+        "caption": "We had an amazing  at this spot. We liked the awesome atmosphere and the food. The waiters were super friendly. I am content we eventually decided to visit here.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Santino Choi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101584639031607126367/reviews?hl=en-US",
+        "census_block_group": 250173530002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpM3JuYW5nRRAB",
+        "caption": "I celebrated my PhD yesterday in this great restaurant. Well we passed a fantastic evening and the venue was definitely one of the reasons for the successful meeting. The stuff  collaborated in a very nice manner, the food was very good and my guests were extremely  cheerful. We shall surely visit again for more joyful events. thanks very much.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Armani H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102915344580545689166/reviews?hl=en-US",
+        "census_block_group": 250173530002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaUtqNExnEAE",
+        "caption": "Very well kept and welcoming restaurant. They offer big portions and for economical prices. I liked the food a lot and the waiters were very attentive and chatty. I recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Philip Nowak",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118224611184975665996/reviews?hl=en-US",
+        "census_block_group": 250173530002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdS15TzhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Nathan Cortez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104288651167740832180/reviews?hl=en-US",
+        "census_block_group": 250173530002
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NDlhTVBBEAE",
+        "caption": "Wow! Some amazing chicken and waffles!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Laced Boston",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113327543045849619144/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eGFlYXJBRRAB",
+        "caption": "My God, the wings are amazing...  I don't know where they source the chicken, but it was the juiciest and tastiest I've had in a long time.  Also, the chicken and rice is even better than Chicken and Rice Guys and I don't say that lightly.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Andrew Holder",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109118410797871263191/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5b3R2NldnEAE",
+        "caption": "The chicken had great flavor could\u2019ve been cooked longer !",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "Myesha Blevins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115698362950214139584/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bnM2OEhBEAE",
+        "caption": "Got a 3 piece dry rub \ud83e\udd70\ud83e\udd70 and it was piping hot, crispy on the outside, juicy on the inside. The dry rub is a little sweet a little spicy and honestly a star amongst like 12 other options.  Also got 4 pieces but 3 is easily a full meal.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Cole Townsend",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106621181952747855281/reviews?hl=en-US",
+        "census_block_group": 250173521021
+    }
+]

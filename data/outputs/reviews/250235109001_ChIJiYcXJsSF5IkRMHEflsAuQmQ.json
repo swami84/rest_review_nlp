@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcmQtM3p3RRAB",
+        "caption": "Brockton beer company is a new company located in the heart of Brockton the beer is very good and the service is awesome. Next year I'll be back.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "maria arvi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113738733884073428207/reviews?hl=en-US",
+        "census_block_group": 250235109001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVdzdpeWdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jon Van Kuiken",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108875674670624863574/reviews?hl=en-US",
+        "census_block_group": 250235109001
+    }
+]

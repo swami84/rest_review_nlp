@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcV9TVkZ3EAE",
+        "caption": "Best vegan food I have ever tried",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Felix Ramos",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105717030610072629446/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjeHJqX0xnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Tim Mabbott",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111945897371738574425/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzak9qVXZRRRAB",
+        "caption": "I love this place! It\u2019s build-your-own bowl with Asian and Middle Eastern influences\u2014 my favorites are the Japanese eggplant, bulgogi-style beets, pickled cauliflower, kimchi, and topped with crispy chickpeas.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Lisa Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101698616867042124247/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwd0lYYVdnEAE",
+        "caption": "Quick service, good prices, high quality food. It\u2019s located in the middle of the smith center and has plenty of options for seating. Highly recommended, would even be as bold to say that it makes good competition for sweetgreen.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jacob Hawkins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111801409036547491646/reviews?hl=en-US",
+        "census_block_group": 250173537004
+    }
+]

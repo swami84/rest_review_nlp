@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLd3E3M3dRRRAB",
+        "caption": "",
+        "relative_date": "13 hours ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Michael Wedge",
+        "n_review_user": 76,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111667815037138179131/reviews?hl=en-US",
+        "census_block_group": 250250101033
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNzVIMzVBRRAB",
+        "caption": "This Dunkin are fake! It is nothing on this address!!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Alex Prudnikov",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101984112309749846944/reviews?hl=en-US",
+        "census_block_group": 250250101033
+    }
+]
