@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLOFAzbmxRRRAB",
+        "caption": "It's a nice white place, food is great,",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Sharon Santinello",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113704783497375369976/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4MWN6NnpRRRAB",
+        "caption": "Always good food.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Asrar Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105456426199729955890/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdzdqZTB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Vishnu Patel",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108020319403140192210/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMElxWEtREAE",
+        "caption": "There not very customer friendly and even my boyfriend said he didn't want me working there because that women is so grouchy.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "Elizabeth Santiago Gingras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104242650594443782945/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJd2Vqc1dnEAE",
+        "caption": "Gross fake chicken. Frozen burgers.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Daniel Cocrane",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100846518980350699418/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRM0s3SjF3RRAB",
+        "caption": "Best place to go. They got the best chicken and cheesy fries",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "YAMZANI MARIE",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111447022271842471055/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    }
+]

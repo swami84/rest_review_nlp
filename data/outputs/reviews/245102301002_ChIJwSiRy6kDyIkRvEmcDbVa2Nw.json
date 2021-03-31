@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NWFIVjlnRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Anne Muttathil",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112570586413584190463/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OGVtbXdRRRAB",
+        "caption": "Yum, I love this Starbucks! The coffee is good and if you stand outside you wil meet many sweet dogs and their humans.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Karen Collins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116840554002613554755/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdThTaWNREAE",
+        "caption": "Can't complain. Fast, friendly service. Clean place. Compliant with Covid-19 protocols. Convenient. It's an easy win.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "scott meek",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113780780325629639267/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTbGFmalRREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Nakiya Nichelle",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104339701738719062266/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMDUtMVJBEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Brianna Woods",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109166900684719648120/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdnVMYWVnEAE",
+        "caption": "Great team, good coffee. They make it quick, and make sure the wait is not too long. Highly recommend this location!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "maxalto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112064363149366833771/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURDbHBwdhAB",
+        "caption": "Large branch, friendly staff, delicious drink. Thanks!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "J H",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114279614374435734923/reviews?hl=en-US",
+        "census_block_group": 245102301002
+    }
+]

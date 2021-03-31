@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4NHJXSHp3RRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "1000% BAADDD",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110650058380410181417/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbTU3NDFBRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Giovanna Capuano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102938326918199385575/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVeTlQd3ZRRRAB",
+        "caption": "Greatest lasagne around",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "leonard lewis",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108388079844854989351/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrN1lqM0dnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Orvill Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101332627475998795821/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3ek5XbGdnRRAB",
+        "caption": "Pizza is so good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "klc226 klc226",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115651074566217197222/reviews?hl=en-US",
+        "census_block_group": 250138011011
+    }
+]

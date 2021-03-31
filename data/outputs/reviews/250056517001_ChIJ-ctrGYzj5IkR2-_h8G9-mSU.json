@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzODRhRWt3RRAB",
+        "caption": "They brought food to an event featuring Valerie Tutson. Definitely worth going there.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Catherine Wojtowicz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111060211670969847362/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwOE9hSC13RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Marcus Reid",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115349308966017106219/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVd1AzOHl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Gregory Gregg",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115745771086480319049/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvbnF1YVVBEAE",
+        "caption": "They don't ever disappoint",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Melanie Gainey",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109773170871689532882/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvdU5yX1h3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Betsy Orrico",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116241363110702386583/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURndThtSTV3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Annaiiz Ceballos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112764756615059023947/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbElITVV3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Lynell Bohannon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101310336905832353228/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaDRfQ0NnEAE",
+        "caption": "Very spiritual place to go to when your mind is clouded",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Keith Shaw II",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111674346389975842046/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndG83VnF3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Angel Errafay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110469668920201446103/reviews?hl=en-US",
+        "census_block_group": 250056517001
+    }
+]
