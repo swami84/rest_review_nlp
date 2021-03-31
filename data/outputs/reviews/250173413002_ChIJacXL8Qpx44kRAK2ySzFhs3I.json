@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNWVDNDVBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "oscar maldonado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103141374568290753756/reviews?hl=en-US",
+        "census_block_group": 250173413002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzbU5ENkl3EAE",
+        "caption": "New place in town and honestly some of the best down home food around! Definitely will come back and encourage everyone to give it a try! Extremely high quality and cheap!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Shawn Malloy",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106128138616627249884/reviews?hl=en-US",
+        "census_block_group": 250173413002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNjVUczBnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 3.0,
+        "username": "Kieley Fitzgerald",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116526287218164043834/reviews?hl=en-US",
+        "census_block_group": 250173413002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNGMycDhnRRAB",
+        "caption": "Excellent sandwiches, Italian and chicken milanese, reasonable prices. We will defiantly return to try more.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Familia Montes",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108519838667667390463/reviews?hl=en-US",
+        "census_block_group": 250173413002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzZ2NQUndnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tassia Chaves",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102873555033691165081/reviews?hl=en-US",
+        "census_block_group": 250173413002
+    }
+]

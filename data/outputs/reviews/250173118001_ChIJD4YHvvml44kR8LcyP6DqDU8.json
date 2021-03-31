@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbmF2T2R3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Julianna Muise",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108666526884515936930/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdGFpYzBnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Mike Ferr",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113721110843242240002/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTNkk2aXFBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Caitlin Lane",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109079536646336897195/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNTZxdm9nRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Brian Huff",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102039228928769823055/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbC1YcFRREAE",
+        "caption": "I had been wanting to try this food truck for a while. They didn\u2019t do slices, so I decided to order a small pizza and the woman told me it would be 10-15 minutes. After waiting in the parking lot for 45 minutes I walked up and asked how much longer it would be and the woman told me it was in the oven. Just before closing (an hour at this point) the woman walks up to me and asks if I\u2019m still waiting for something. She had forgotten to put it in. To her credit she was apologetic and made me a new pizza.... but it wasn\u2019t even the right one.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 1.0,
+        "username": "Sean Gleason",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107490524341292796332/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMlAyUGJREAE",
+        "caption": "Mobile truck on Thorndike at.. Lowell..  never a question about the pizza.  Very polite and efficient personnel.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 4.0,
+        "username": "Richard J. Sheehan",
+        "n_review_user": 33,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103004924551238838812/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    }
+]

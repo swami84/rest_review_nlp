@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5N2Q3Um5nRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "Tim Shugrue",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104508632948016297793/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LXJMSHlnRRAB",
+        "caption": "I always buy that boat noodle almost every weeks and today I bought it again and Usually they give me 2 meatball but now they cut into pieces like try to rid me off and Instead of giving chopstick they give me a cheap plastic fork to eat with noodle .. so cheap now",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 2.0,
+        "username": "monita p",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114634404234959499995/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOTV6OEdBEAE",
+        "caption": "Had a excellent experience here with my wife. The food arrived quick and the customer service is just awesome. Prices are convenient.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-30",
+        "rating": 5.0,
+        "username": "David Davis",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103142790790515034053/reviews?hl=en-US",
+        "census_block_group": 250173118001
+    }
+]
