@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5Z3ZYVjdRRRAB",
+        "caption": "Food is always hot, fresh, delivered fast with a good value!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Artavia Graham",
+        "n_review_user": 22,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118077227949164316478/reviews?hl=en-US",
+        "census_block_group": 360050199004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bmVuSUlREAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jennifer Eady",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100983935848541266616/reviews?hl=en-US",
+        "census_block_group": 360050199004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNNHZ1SnRnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jonathan canals",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103861833843774203509/reviews?hl=en-US",
+        "census_block_group": 360050199004
+    }
+]

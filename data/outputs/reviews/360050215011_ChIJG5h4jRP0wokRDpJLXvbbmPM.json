@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVM0kzWllBEAE",
+        "caption": "Great food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Cecilio Mangual",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116835544684902921716/reviews?hl=en-US",
+        "census_block_group": 360050215011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBamF5UldnEAE",
+        "caption": "Love it the customer service is friendly and the food is great",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "M.\u0158.\u0164.\u0160 YORK",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110574349089083743438/reviews?hl=en-US",
+        "census_block_group": 360050215011
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLa3NhOXdnRRAB",
+        "caption": "",
+        "relative_date": "19 hours ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Sparx Goyburu",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114834304781310951135/reviews?hl=en-US",
+        "census_block_group": 360050183012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aUxPMF9nRRAB",
+        "caption": "Great food,prices,and friendly staff.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Eduardo Gutierrez",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111964865421664164704/reviews?hl=en-US",
+        "census_block_group": 360050183012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dHU3YVdREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jesus Lucio",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113815098178431235861/reviews?hl=en-US",
+        "census_block_group": 360050183012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnclpTenVBRRAB",
+        "caption": "(Translated by Google) The most great atmosphere and very good workers  (Original) Lo maximo gran ambiente y muy buenas trabajadoras",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jesus Lucio",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108864382461199058599/reviews?hl=en-US",
+        "census_block_group": 360050183012
+    }
+]

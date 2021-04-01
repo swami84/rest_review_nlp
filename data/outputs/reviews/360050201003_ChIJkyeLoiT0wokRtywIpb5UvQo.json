@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcjVMcDNBRRAB",
+        "caption": "Would certainly recommend trying this spot. Fantastic ambience, delicious dishes, awesome service. Great work.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Sutton Bates",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100531955004216998936/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURja1pLSHZBRRAB",
+        "caption": "Its a very good place, clean and fast",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jose Feliz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115882942908551776143/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNdlBMQmhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Norinkin Hidalgo",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116667933473722366654/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZeTRMLThBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "1991SUPERSAIYAN",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114607388945385283216/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJbnR5b2V3EAE",
+        "caption": "Love their food, reminds me of the food back at home. Very friendly staff",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ronaldy Suriel",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118416827743442429942/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJMm9ua3NRRRAB",
+        "caption": "Rundown \"restaurant\" overpriced and small servings compared to others restaurants in the area, the cook looks filthy and not do welcoming when a costumer comes in",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Joan sosa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117574957454325481286/reviews?hl=en-US",
+        "census_block_group": 360050201003
+    }
+]

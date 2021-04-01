@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ejZYRXd3RRAB",
+        "caption": "best restaurant in the Bronx ,best pizza place, best place to get gyros best prices , great customer service, even let you charge your phone if you truly need it . Overall Grade A for me -Sammy",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Samuel Espinal",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103369225056586372987/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bXE2a2VREAE",
+        "caption": "Excellent garlic knots",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Matthew Engel",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106258172907802168827/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bXM3RndnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Kristen Marventano",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114824578170340337967/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTeVpiYnFBRRAB",
+        "caption": "IF I COULD LEAVE LESS THAN 1STAR I WOULD. THE PIZZA WAS FLAT AND UNCOOKED, TASTED HORRIBLE!!! IT WAS ONE OF THE DOLLAR SLICES WHERE THE HIKED THE PRICE AND DIDNT CARE TO COOK. THE DOUGH WAS AS FLAT AS A PAPER!! THE CITY NEEDS TO SHUT THIS PLACE DOWN. UNCOOKED FOOD IS DANGEROUS TO SERVE PEOPLE. I WILL BE CALLING THE DEPT OF HEALTH AND THE BBB.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Renne Cruz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107055008017753198412/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbHI2VmlRRRAB",
+        "caption": "Pizza was flat as a board... wings wasn't cooked all the way... oh and my soda was expired\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83e\udd2c",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Kita Sanders",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106906848815366182191/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaHRfYVBnEAE",
+        "caption": "Our new pizza in town You can get a slice for a dollar  yes one dollar  it would help the kids in the neighbor to enjoy a good pizza stop by with your friends open late",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Vera P Monroe",
+        "n_review_user": 157,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111554123352271125148/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZ2Z6S1l3EAE",
+        "caption": "Friendly staff, nice and clean restaurant pizza is so delicious. Highly recommend thank you for the great customer service!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Misreen Awawdeh",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115570450061367460431/reviews?hl=en-US",
+        "census_block_group": 360050224042
+    }
+]

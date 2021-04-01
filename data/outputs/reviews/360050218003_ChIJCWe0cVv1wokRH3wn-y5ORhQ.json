@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5N3J2c0dnEAE",
+        "caption": "(Translated by Google) Good first-rate food  (Original) Buenaso comida de primera",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Joel Pereida",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101577028348468212294/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NmN1RDhRRRAB",
+        "caption": "I tried this place in the past with a friend and I am hooked since then. I loved the fantastic character and flavorful dishes and beverages. Keep up the good work.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Rayden Mckee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113889457179071281830/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbWZ2bnJnRRAB",
+        "caption": "Liked chicharon was really amazing",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Angel Gonzalez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106905295651455928223/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDanBqeGNnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Elizabeth white",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107865250834644124678/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdGZiUUt3EAE",
+        "caption": "Food is ok but I just ordered a Cubano and not only did it take them forever to make it but they charged me way more than what their menu states the price was.  I'm not into mediocre expensive food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Lorenzo Van Ness",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116817679505358158623/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbF82dktREAE",
+        "caption": "Great food Great prices and amazing staff!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Edwin Rest",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111116953435139664899/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNE9pc0V3EAE",
+        "caption": "Amaizing food, price and customer service. :)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Manny Ortiz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115848006351268730332/reviews?hl=en-US",
+        "census_block_group": 360050218003
+    }
+]

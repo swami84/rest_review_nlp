@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LW9UMDdBRRAB",
+        "caption": "There pizza hut the meats medium pie is the best. The kids love eating from this pizza hut spot.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ricardo B.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107326655387664776194/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ck9QOFdBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "t D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117934450409636873635/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTXzlmTXZnRRAB",
+        "caption": "I ordered hotdogs and the buns were stale!!!!!!!!!! So nasty. The hotdogs tasted very old, I\u2019m guessing that they don\u2019t check the expiration date.  The woman who was making the hotdogs was on the phone the whole time with her mask below her chin. I would not recommend this location at all. Save your money and make it at home.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Juicy Jazzy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118293856605796981575/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4NzhDMDNBRRAB",
+        "caption": "Nathan's is always one of my favorite hot dog spots and one of my favorites is also the cheese fries they are always so good. I recommend this spot to get some delicious food.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Supreme Cousinz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100197416567422171842/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzZ1pUajhnRRAB",
+        "caption": "Very great service and excellent food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "A Los",
+        "n_review_user": 69,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112849737357349384593/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzOHJpY2FBEAE",
+        "caption": "What a waste of money. See the fish i recieved that is not even cooked as both pieces were stuck together. Dont spend money at this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Saad Younus",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103377374563363065290/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzcThHWm5BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "John Davis",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117975859357558555309/reviews?hl=en-US",
+        "census_block_group": 360050224032
+    }
+]

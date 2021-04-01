@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDeV9UTVhREAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "theking moe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110971520331134440994/reviews?hl=en-US",
+        "census_block_group": 360050232002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb3VuM3dRRRAB",
+        "caption": "The best sandwiches ever \ud83d\ude0b\ud83d\ude0b\ud83d\ude0d",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Malek Qaid",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108519503530608118722/reviews?hl=en-US",
+        "census_block_group": 360050232002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjd3FiMTVRRRAB",
+        "caption": "(Translated by Google) Attention 100, clean, its vegetables look fresh and the food is super good.  (Original) Atenci\u00f3n al 100, limpio, sus vegetales se ven frescos y la comida s\u00faper buena.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Claudia Casartelli",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114180021684750884770/reviews?hl=en-US",
+        "census_block_group": 360050232002
+    }
+]

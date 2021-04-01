@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNE5PeVFREAE",
+        "caption": "Great pizza. Great service. My daughter and I visit there often.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Tyrell Carter",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108994554288910975323/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d3NiWldBEAE",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Santa German",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115292081031699099355/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDbGM2YlpBEAE",
+        "caption": "Just ordered from GrubHub and the restaurant cancels the order and then I go online and call and there number is coming up from Brooklyn and no one is answering. What is going on here?",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Francisco Mercado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115868533845921285944/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjNDVfdmN3EAE",
+        "caption": "Great Pizza",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ruben Ortiz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100766517827739952000/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb05mQm5RRRAB",
+        "caption": "we were in DIRE need of a good pizzeria and this pizzeria has satisfied beyond expectations. Delicious pizza along with great customer service. Quick and easy ordering. Very clean and the new management has been impressive above all.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "karen osorio",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102055300357294713759/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjZ0ptTHRRRRAB",
+        "caption": "I Placed an order on line and after about 20-30 minutes they send me a message saying they are closed and my order was canceled after i received a message saying someone was waiting for my food  very unprofessional You guys lost a customer before even trying the food horrible customer service get it together",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "cassandra gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104939793318438630722/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzc191RHNRRRAB",
+        "caption": "The one thing the neighborhood really was in need of , was a Good Pizza Shop..I've been going there since it opened. It has changed owners a few times in a couple of years.. But at this very moment. The date now is march 9 2020.. The pizza guy that is making all of the food.. Is one of the best around. He has a passion for making Pizza. You can tell that he enjoys his work.. Cause it surly shows in the Taste of everything in the Shop. It is Amazing . And also great service. If your ever in the area , check them out.. Its small but Big Taste.   (SIN)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "sindarkchild1",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102156866583107262617/reviews?hl=en-US",
+        "census_block_group": 360050213011
+    }
+]

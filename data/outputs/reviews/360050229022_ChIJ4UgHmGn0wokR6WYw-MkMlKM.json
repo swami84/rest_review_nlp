@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJOGItSm9BRRAB",
+        "caption": "The best sea food \ud83e\udd58 \ud83e\udd80\ud83e\udd9e\ud83e\udd90\ud83d\udc20\ud83d\udc1f ever",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Lord Beerus",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111983128502027202633/reviews?hl=en-US",
+        "census_block_group": 360050229022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvdi1ES2ZBEAE",
+        "caption": "Food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Miguel Almonte",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111694857986404474437/reviews?hl=en-US",
+        "census_block_group": 360050229022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBdnQzdUxREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Divine Graphix Ink",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102407271863324850622/reviews?hl=en-US",
+        "census_block_group": 360050229022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRb19qTjZBRRAB",
+        "caption": "(Translated by Google) I liked the food  (Original) Me gust\u00f3  la comida",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Cesar Mane",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109974916069175665342/reviews?hl=en-US",
+        "census_block_group": 360050229022
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d05DOWZ3EAE",
+        "caption": "Food is great they hive enough food to feed u and more",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jasaira Santiago_Troche",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109963700370714756917/reviews?hl=en-US",
+        "census_block_group": 360050179023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBeXMtRFZ3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Luis Cabrera",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102583336889078198290/reviews?hl=en-US",
+        "census_block_group": 360050179023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndlAyTTV3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Deyaniris Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104572403919795924266/reviews?hl=en-US",
+        "census_block_group": 360050179023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnNmVpNUx3EAE",
+        "caption": "(Translated by Google) It has rats, cockroaches and every time it closes healing, it is disgusting !!  (Original) Tiene Ratas, cucarachas y cada rato se lo cierra sanidad,  es asqueroso!!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "MI Vida",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116427114023115261171/reviews?hl=en-US",
+        "census_block_group": 360050179023
+    }
+]

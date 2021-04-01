@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNkpLakF3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "jayna menard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109155341658339590772/reviews?hl=en-US",
+        "census_block_group": 360050205023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVdTRtNDRBRRAB",
+        "caption": "The food is delicious and the people who work there are very nice",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Sosua Shipping",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111705391155264480615/reviews?hl=en-US",
+        "census_block_group": 360050205023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvci1HNkR3EAE",
+        "caption": "Is good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jaime Maldonado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113322872839280229975/reviews?hl=en-US",
+        "census_block_group": 360050205023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3ck1PTDZRRRAB",
+        "caption": "(Translated by Google) Very good  (Original) Muy bueno",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Santiago Baez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102500957552252877044/reviews?hl=en-US",
+        "census_block_group": 360050205023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBNWZPNWdnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Dionicia Perez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117548139600958933506/reviews?hl=en-US",
+        "census_block_group": 360050205023
+    }
+]

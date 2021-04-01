@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZd1k2ODdRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Enmanuel Ledesma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102485340493846638433/reviews?hl=en-US",
+        "census_block_group": 360050213012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJdU5tV1B3EAE",
+        "caption": "Good food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Azuacity 45",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101053968270306097342/reviews?hl=en-US",
+        "census_block_group": 360050213012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJaDVUSVRnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Kikito Promocion",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114559084205196041830/reviews?hl=en-US",
+        "census_block_group": 360050213012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnaXVlQmt3RRAB",
+        "caption": "Good food love the chicken and pernil.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Michael Mercedes",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109187265005920244675/reviews?hl=en-US",
+        "census_block_group": 360050213012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnektUMkVREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Arianny Guzman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102624412040474240917/reviews?hl=en-US",
+        "census_block_group": 360050213012
+    }
+]

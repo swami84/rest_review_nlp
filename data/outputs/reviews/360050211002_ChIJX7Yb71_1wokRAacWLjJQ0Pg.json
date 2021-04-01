@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdGJtdlBBEAE",
+        "caption": "Pizza on point period. I'm addicted...",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Genia Cauley",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117531639211520215345/reviews?hl=en-US",
+        "census_block_group": 360050211002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaWU2eXR3RRAB",
+        "caption": "Ordered a pepperoni pizza for the boys and a Cuban for me. Everything was deliscious and fast! Will order again to try more of the menu.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Glenys Rivera",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111863908421313498158/reviews?hl=en-US",
+        "census_block_group": 360050211002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNmY2WHZRRRAB",
+        "caption": "\ud83d\udc4c",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Mari Pleytez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115211625514470662485/reviews?hl=en-US",
+        "census_block_group": 360050211002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa2ZIVnFBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Calixto Valle",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112919478351538068506/reviews?hl=en-US",
+        "census_block_group": 360050211002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa2RuaXdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Enrique duran",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102827099784301837927/reviews?hl=en-US",
+        "census_block_group": 360050211002
+    }
+]

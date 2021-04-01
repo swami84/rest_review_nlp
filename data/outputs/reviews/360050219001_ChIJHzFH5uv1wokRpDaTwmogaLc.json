@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbU1DcTFBRRAB",
+        "caption": "",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Arry Areizaga",
+        "n_review_user": 270,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114789474860731576685/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LV9tc1B3EAE",
+        "caption": "5-Star sangria!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Black History",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102348621540712490036/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTZ09ia213RRAB",
+        "caption": "Very good",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Lucca Fonseca",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111916098216499767018/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeGZiQkFREAE",
+        "caption": "The tiramisu was sour and the molten lava cake had like whipped butter and it wasn\u2019t too appetizing, the tres leches however was tasty as was our dinner",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Rosalvina Marin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112443467358322105166/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    }
+]

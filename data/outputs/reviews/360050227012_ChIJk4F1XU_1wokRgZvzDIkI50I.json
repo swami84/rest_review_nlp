@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdjVUQ1F3EAE",
+        "caption": "The food is soooo good. I love this place!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Gloria Edwards",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101092221269763732697/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNzlyYUhREAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Tracy Jazmin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117659289859739980648/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNzlxUXF3RRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "kevin garcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102392716919420975852/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjazhEMERBEAE",
+        "caption": "The place looks really nice, nicely decorated and clean however I saw rats when I went in, my friend recommended this place to me and I was beyond disappointed when I saw this. I should\u2019ve known hygiene was not their forte as none of them were wearing gloves to prep the food. I will never go back to this place, I wish I could give it 0 stars, that was beyond disgusting. This place needs to be shut down.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Sabrina Garcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100562628782562765439/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzZzU2c3RBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "JP Banks",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105999743149270862343/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzamNXVUN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Gio Ynoa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115690607495341740302/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNc01TTEdnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "julia contreras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105880092000761379342/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNNllfTG1RRRAB",
+        "caption": "The food is absolutely Delish here and what i love about them is they are super efficient and fast very clean and attentive to details. Im happy to see this business in my neighborhood this is literarily what has been missing heathy food options. Thank You",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ray B",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100262390873289435472/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNak0tNURBEAE",
+        "caption": "The place is pretty small but seeing as it just opened, it does not detract from the review. They serve fresh juice where you can actually see both the ingredients and them making it. I ordered a juice from them and the lady at the counter was very courteous and pleasant. They have different juices for body conditions like heart, weight loss and so on. Their prices are very affordable and their menu is informative. My only wish is that they have English descriptions alongside the Spanish description for their food though I knew enough to see what they are selling. All in all, I will be going back again for the juice bar and to try their hot foods next.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Serene Angel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107511901213651395320/reviews?hl=en-US",
+        "census_block_group": 360050227012
+    }
+]

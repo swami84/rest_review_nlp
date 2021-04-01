@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNi1XeWZBEAE",
+        "caption": "Great atmosphere and super amiable service. The food was crisp and delightful. Will easily recommend this restaurant to friends and family. Reasonable rates and big portions. Great job.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Raphael Hood",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110056805284034682915/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZNTh5VGFBEAE",
+        "caption": "Decent chill spot, came high don't remember the food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Eliezer Alcantara",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115933170283729923042/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBelBHc0p3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Zhenia Deno",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105327194834276012900/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdmFqVC1RRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Swag girls",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102008329654238474424/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBd015TldBEAE",
+        "caption": "Really great Spanish food.  It's always fresh.  I never dine in because it's a bit loud, but the food is always great!  Reasonable prices too!",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Glenda Rodriguez",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100286062314531909970/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBazVpdlZnEAE",
+        "caption": "(Translated by Google) Very good food  (Original) Muy buena comida",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Andri Gabriel Ram\u00edrez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118333989723199624736/reviews?hl=en-US",
+        "census_block_group": 360050179022
+    }
+]

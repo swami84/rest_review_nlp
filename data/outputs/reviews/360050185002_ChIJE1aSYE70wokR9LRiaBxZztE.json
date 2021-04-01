@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4dElLc0h3EAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Shadow McCarthy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107353350254604374113/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzb3RLbGpRRRAB",
+        "caption": "Delicious pizza real nice staff with pasi\u00f3n and love for costumers.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Beato Marisol",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103414211648895033698/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzckwtODRRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Jalen Vazquez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109452589079483140847/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMU51d0ZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jenni V",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110301823565962639154/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzdU1LMDJBRRAB",
+        "caption": "Very good pizza",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Claudia Ulerio",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112862046291468831498/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzeWR5Tl9nRRAB",
+        "caption": "A very friendly place with excellent tasting pizza.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "E Pad",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115492698486892088285/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcGZhVXpRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Kelvin Deaza Castillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102572009514044444736/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMU5tY2F3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Cuyler Lane",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110354324682161911602/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZLV9lbmdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jose Baez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110428174365019346206/reviews?hl=en-US",
+        "census_block_group": 360050185002
+    }
+]

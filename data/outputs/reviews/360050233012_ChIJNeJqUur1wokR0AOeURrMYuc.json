@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLMU9YTS1RRRAB",
+        "caption": "Went here for a juice & the guy did not use a juicer. Instead he used a blender & the juice came out all thick. Absolutely not satisfied. Would not come back here.",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Leeah Sierra-Jackson",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107697950425973567176/reviews?hl=en-US",
+        "census_block_group": 360050233012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVcnNLSlR3EAE",
+        "caption": "(Translated by Google) Excellent meal.  (Original) Excelente comida.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "cristian dilone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109559139648255681467/reviews?hl=en-US",
+        "census_block_group": 360050233012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVd2R1dXN3RRAB",
+        "caption": "Roaches in the food smh this place is nasty",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Davenia Caradine",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111335427357320661615/reviews?hl=en-US",
+        "census_block_group": 360050233012
+    }
+]

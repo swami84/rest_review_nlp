@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eF9iNER3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "ismail hossen",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104705396996305998718/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTODRLYXN3RRAB",
+        "caption": "Coffee was good. Person taking order not so much",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Cindy Jones",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105639270158803410893/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpN0tIcFl3EAE",
+        "caption": "The coffee was to dark nd they didn\u2019t have no honey glaze and much of any other kind of donuts I liked",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "sonia Rodriguez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116748667388752604325/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpN2RDQ1pREAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "lourdes velez",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108012434982135059521/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpanVPT1hBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "antonio adorno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100678905342618081372/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcHUtcjB3RRAB",
+        "caption": "Love the pumpkin spice latte",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Ivette Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114450734311496629359/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcDlIU2V3EAE",
+        "caption": "South bound Hutchinson Parkway, shady staff happen to be irritated with this customer because I prefer cheddar cheese over american cheese which is processed food n i like my bread toasted not warmed up partially raw bread. I am paying and eating it, right?",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "rosetta melton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117777788974580212844/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMDQ2ZWZnEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "minymarsha yt",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103596195656952039225/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDanZtcVhnEAE",
+        "caption": "Pretty good.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Adrian Somoza",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103990077475164324333/reviews?hl=en-US",
+        "census_block_group": 360050194001
+    }
+]

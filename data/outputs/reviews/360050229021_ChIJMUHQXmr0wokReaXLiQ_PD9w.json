@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaWI3RjlnRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "David Ciempa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105152025542466378003/reviews?hl=en-US",
+        "census_block_group": 360050229021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4emQyYnh3RRAB",
+        "caption": "Great Service",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Emelie Ventura",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108602948504101095336/reviews?hl=en-US",
+        "census_block_group": 360050229021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnczUzUUxBEAE",
+        "caption": "Quick bite to eat!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Nadine Serrano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101596282603386145014/reviews?hl=en-US",
+        "census_block_group": 360050229021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNneHBtckdBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jose Israel Collado Luna",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106730896913545357886/reviews?hl=en-US",
+        "census_block_group": 360050229021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRN3ZlV1BREAE",
+        "caption": "Friendly service. They accept credit cards",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Greg Ricciardi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107518656506368325553/reviews?hl=en-US",
+        "census_block_group": 360050229021
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpLWJMTXp3RRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Jahaira Camarena",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104541693057989403485/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDNFpDLXF3RRAB",
+        "caption": "We got an iced flat white as well as the Spanish latte. The iced flat white was ok (4 out 5) but the Spanish latte was excellent (5 out of 5).",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Craig M. Johnson",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104669692624147440714/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrajRlM1dnEAE",
+        "caption": "Awesome",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Arman2 Sabores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110317700062396859067/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0MG9TV3B3RRAB",
+        "caption": "Good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jeffrey Cheatham",
+        "n_review_user": 19,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103521442250700616278/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZM2RQM2JnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Patricia Salamanca",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115722904614369293972/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRNS1id0p3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Julio Frias",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116723765996585191182/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3bXNYcE9REAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 3.0,
+        "username": "Jose Camilo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116426300095811310677/reviews?hl=en-US",
+        "census_block_group": 360050219001
+    }
+]
