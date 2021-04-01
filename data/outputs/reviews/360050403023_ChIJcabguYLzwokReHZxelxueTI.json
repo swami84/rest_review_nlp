@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNNFlqckJ3EAE",
+        "caption": "Terrible customer service, and I found a hair on my food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "Jarellys Zurita",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100835341518041869074/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVdHFYcWN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Keymi Solano",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105444832201779780772/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvbDdmVHBBRRAB",
+        "caption": "They are authentic and have vegan options unlike others in the area.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Erika Marte",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104969629714649369610/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJLXZQVTBBRRAB",
+        "caption": "(Translated by Google) The food in this restaurant is terrible, the food season is simple, I ordered a chicken pozole and they sent it to me (without toast) I also ordered 2 quesadillas the tortillas the handmade tortillas were raw and with a lot of fat by the way my children did They wanted to eat them apart from that it is very expensive. I do not recommend that restaurant  (Original) La comida de este restaurant es mal\u00edsimo el sason de la comida es simple ,yo ordene un pozole pollo y me lo mandaron (sin tostadas )ordene tambi\u00e9n 2 quesadillas las tortillas las tortillas echa a mano estaban crudas y con bastante grasa por cierto mis hijos no se los quisieron comer a parte de eso es muy caro. No se los recomiendo ese restaurante",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "Genaro Cuevas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103159019013214145289/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJdW9YTDBnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "Ebass666",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110609443043850065020/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJa3MyZ3JBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "viggie veloz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109834743957363300746/reviews?hl=en-US",
+        "census_block_group": 360050403023
+    }
+]

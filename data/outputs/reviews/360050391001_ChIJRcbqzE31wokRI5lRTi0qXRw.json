@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbmV6cVhREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "leonarda hernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107917661586816963930/reviews?hl=en-US",
+        "census_block_group": 360050391001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcGIzQ0JREAE",
+        "caption": "Went through this new spot before heading to work. I ordered a passion fruit juice in the morning and some empanadas, they\u2019re good and I liked that they were full. Good friendly service for sure.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Angel Reyez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112475903953364128000/reviews?hl=en-US",
+        "census_block_group": 360050391001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTOFp6Zk13EAE",
+        "caption": "happy to have a new option to eat in my neighborhood, delicious chicken empanadas, very tasty tacos, but very bad service, I went early this morning and the woman who attended me does not speak English and I could not buy the smoothies that I wanted and left me waiting about 15 minutes to take my order, I ordered  a chicken empanada with cheese and she gave me two empanadas, one with chicken and one with smh cheese, the food was very good but the service was very bad,  ... Also the mofonguitos very delicious... But please you guys need a better service early in the morning, ( english please )",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 2.0,
+        "username": "Josue Hernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104664618883507008039/reviews?hl=en-US",
+        "census_block_group": 360050391001
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNd1oyeHZ3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 4.0,
+        "username": "Shawn Hall",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112999125352832211077/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZNW9tNW9nRRAB",
+        "caption": "Great safe haven for any youth in the LGBTQ community!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Tatyana Forde",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107124603411935730608/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZNW9taU5BEAE",
+        "caption": "Great organization for the youth",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jay - Fuego",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113937191957747099894/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZMVBmaTNnRRAB",
+        "caption": "nothing.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Llance Emile",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113835954902697478891/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJMThiTDd3RRAB",
+        "caption": "Beat organization in the world the website is outdated",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Fountain of Conscience",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112544722657889664480/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJa1lPS0hBEAE",
+        "caption": "This place exist for real? Nobody answers the phone or emails. I couldn't give 0 star",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "kh\u00e8m\u00e8sse diallo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102886957217541407062/reviews?hl=en-US",
+        "census_block_group": 360050237031
+    }
+]

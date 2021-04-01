@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dk15aVNnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Barbie\u2019s Lifestyle",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118176440828289758546/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNi02b253RRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Willy Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116239041987138505269/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMk9fUmpBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Vianca Estrada Bencosme",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111505165862310578814/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwaExpdVNnEAE",
+        "caption": "(Translated by Google) A very good place  (Original) Un lugar muy bueno",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Fernando Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118423431298972322431/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvelo2d0ZnEAE",
+        "caption": "(Translated by Google) Does anyone know the number to call?  (Original) Alguien sabe el n\u00famero para llamar?",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Alexis Hernandez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102286512073340938193/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJZ3NyV2lnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Daniel Ramirez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105952878264982143519/reviews?hl=en-US",
+        "census_block_group": 360050399011
+    }
+]

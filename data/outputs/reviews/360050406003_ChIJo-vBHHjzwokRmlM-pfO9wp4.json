@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTMnNMUFVnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Cristian Contreras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107737511992287753706/reviews?hl=en-US",
+        "census_block_group": 360050406003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN2VYVnZnRRAB",
+        "caption": "(Translated by Google) A small 3 delicious hits but I miss the avocado \ud83d\ude37  (Original) Un peque\u00f1o 3 golpes deliciosos pero me falto el aguacate \ud83d\ude37",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Richard Coss",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104622854055242563426/reviews?hl=en-US",
+        "census_block_group": 360050406003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeHZfaWRBEAE",
+        "caption": "Good place to enjiya food",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Ernan Cabrera",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110989621195393234176/reviews?hl=en-US",
+        "census_block_group": 360050406003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDX3NqVFVBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Audrey Lion Heart",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106241221126314533034/reviews?hl=en-US",
+        "census_block_group": 360050406003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNVpfLS1BRRAB",
+        "caption": "(Translated by Google) Good ispana food  (Original) Buena comida ispana",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Walter Suazo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110327710328078423216/reviews?hl=en-US",
+        "census_block_group": 360050406003
+    }
+]

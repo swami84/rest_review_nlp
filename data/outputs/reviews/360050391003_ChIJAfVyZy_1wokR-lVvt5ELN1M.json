@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNdDhmeWFREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Anthony Cepeda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110919437806589567830/reviews?hl=en-US",
+        "census_block_group": 360050391003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdW9Yby1RRRAB",
+        "caption": "Cool neighborhood bar",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "MAIKEL COCO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117471127326397659662/reviews?hl=en-US",
+        "census_block_group": 360050391003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwbkwtSUR3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Katty Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100396461796931022362/reviews?hl=en-US",
+        "census_block_group": 360050391003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdk9MdFp3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Jonathan Mendoza",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107455424188872005957/reviews?hl=en-US",
+        "census_block_group": 360050391003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZa19tT1h3EAE",
+        "caption": "(Translated by Google) Okay, my name is Easy the mogul .. delicious food over here, Thanks \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 #TheBronx #Lcaney #Easythemogul  (Original) Muy bien , me llamo Easy the mogul .. delicious food over here , Gracias \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 #TheBronx #Lcaney #Easythemogul",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Easy The Mogul",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116428854282767012607/reviews?hl=en-US",
+        "census_block_group": 360050391003
+    }
+]

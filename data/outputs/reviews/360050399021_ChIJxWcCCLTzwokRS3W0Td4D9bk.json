@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5N2ZhY0V3EAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 1.0,
+        "username": "Dylan Rathbun",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108880058338276024450/reviews?hl=en-US",
+        "census_block_group": 360050399021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDZhX2hnRRAB",
+        "caption": "Their food is always fresh and tasty well cook and seasoned. I mostly buy party trays you get a lot more and at a reasonable price",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-03-31",
+        "rating": 5.0,
+        "username": "Karmen Santiago",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107963245735767892560/reviews?hl=en-US",
+        "census_block_group": 360050399021
+    }
+]
