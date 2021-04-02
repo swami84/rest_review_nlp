@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8227196,
+                        "lng":-73.9164393
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8240875803,
+                              "lng":-73.9151743197
+                        },
+                        "southwest":{
+                              "lat":40.8213896197,
+                              "lng":-73.9178722803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kristy's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIIUvQY5qE8wcVFhpzQblP3n429pb0zLEUMy6iKqbmEMqw1xKydfBXlVcMX4Bpl0_kapXKzzJytW-LLT4Ajlay_OZhdY-Qhl_uKCeeOnW3uF6TOmE15_iqmcTkKmiQq3pzyMGGaXYxGP_79nPzUpEmS5BzTCv2qW_78jBdO2TNsi74V",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJNfYIDsv1wokRJgSqwD9Qe4A",
+            "plus_code":{
+                  "compound_code":"R3FM+3C New York, NY, USA",
+                  "global_code":"87G8R3FM+3C"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJNfYIDsv1wokRJgSqwD9Qe4A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":160,
+            "vicinity":"796 Courtlandt Avenue, The Bronx",
+            "CBG":360050069002,
+            "Radius":150.9942512409
+      }
+]

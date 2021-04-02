@@ -1,0 +1,147 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.794595,
+                        "lng":-81.280036
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.7960487303,
+                              "lng":-81.2786899197
+                        },
+                        "southwest":{
+                              "lat":28.7933507697,
+                              "lng":-81.2813878803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Da'Munchies Express",
+            "photos":[
+                  {
+                        "height":3139,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113575586154179760977\">Da&#39;Munchies Express<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJUgsLDG2XXILd_4bSPEymdF5Nn6OFx4nYOa3yD3sC8I873qv1WtxBNpHHDoL8Rn295--fhzrtdDePEJ6ZZrWknbROOtL6ZbHZUvLCsb7O9F1EQdkXPP3TCn2HZdhCIsvWVZ2zXiUPVq1eZqSmbO0mi5gdI1SAK09ym_Fw71eXUv6rW",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ_-LJ1pQU54gRB033gX8jnac",
+            "plus_code":{
+                  "compound_code":"QPV9+RX Sanford, FL, USA",
+                  "global_code":"76WWQPV9+RX"
+            },
+            "rating":4.9,
+            "reference":"ChIJ_-LJ1pQU54gRB033gX8jnac",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"1205 West 19th Court, Sanford",
+            "opening_hours":null,
+            "CBG":121170204011,
+            "Radius":534.4852930465
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.8006762,
+                        "lng":-81.2810224
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.8020720303,
+                              "lng":-81.2796737197
+                        },
+                        "southwest":{
+                              "lat":28.7993740697,
+                              "lng":-81.2823716803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Roni's Restaurant",
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107709897406138227231\">Roni&#39;s Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJj1Z-W8LF49ZRHJS5a29SGqeLA9pQRBC_uuUJIA9KsEFyrN9NZiqHhi7u-_00xP-kOHNA5LtesSqsGOvJ-pZZj-Xs4mM2RLSOnZn4VSQecNVZTWU3V61oOTj1-e1UGpxYi9lCU_LTp59bGZ33gX6SZV7lwQf_ipZ6TBz34pqAKrrUY",
+                        "width":6000
+                  }
+            ],
+            "place_id":"ChIJdbH436wT54gRdCawWsFhHMs",
+            "plus_code":{
+                  "compound_code":"RP29+7H Sanford, FL, USA",
+                  "global_code":"76WWRP29+7H"
+            },
+            "rating":4.6,
+            "reference":"ChIJdbH436wT54gRdCawWsFhHMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_delivery",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":69,
+            "vicinity":"1221 Historic Goldsboro Boulevard, Sanford",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":121170204011,
+            "Radius":534.4852930465
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.8005762,
+                        "lng":-81.2790437
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.8020207803,
+                              "lng":-81.2776955197
+                        },
+                        "southwest":{
+                              "lat":28.7993228197,
+                              "lng":-81.2803934803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Momma's Place",
+            "photos":null,
+            "place_id":"ChIJ97UZxQ0T54gRa6wKiY_qyOY",
+            "plus_code":{
+                  "compound_code":"RP2C+69 Sanford, FL, USA",
+                  "global_code":"76WWRP2C+69"
+            },
+            "rating":3.0,
+            "reference":"ChIJ97UZxQ0T54gRa6wKiY_qyOY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"1013 Historic Goldsboro Boulevard, Sanford",
+            "opening_hours":null,
+            "CBG":121170204011,
+            "Radius":534.4852930465
+      }
+]

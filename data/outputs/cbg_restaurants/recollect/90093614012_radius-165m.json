@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.3076694,
+                        "lng":-72.9334217
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.3089908803,
+                              "lng":-72.9320933697
+                        },
+                        "southwest":{
+                              "lat":41.3062929197,
+                              "lng":-72.9347913303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Seoul Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112170584503392649426\">U-roy Felix Agboli<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1iRHKq3jkao9uiwsP7EyXx_TUKkBDO3DIhOPqpDHFmj4r-ztYcYOQTmE7KER5IRYCCLSc7gjKqDeE_W85B_9RBVQJDS4pokBntbimziqRUhOPqfrZwSWU1g1nSEBK8gXVQVB_3xEFv3ksnrD57MHLW-Frcew9g3S-yE_b0KJFC9a5",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJwUxls7LZ54kRb4W96Kh7asc",
+            "plus_code":{
+                  "compound_code":"8358+3J New Haven, CT, USA",
+                  "global_code":"87H98358+3J"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJwUxls7LZ54kRb4W96Kh7asc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":206,
+            "vicinity":"343 Crown Street, New Haven",
+            "CBG":90093614012,
+            "Radius":165.3508674421
+      }
+]

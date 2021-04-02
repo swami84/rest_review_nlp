@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7385252,
+                        "lng":-74.0622701
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7398441303,
+                              "lng":-74.0609564197
+                        },
+                        "southwest":{
+                              "lat":40.7371461697,
+                              "lng":-74.0636543803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"Shell",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2416,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105170431124683218627\">Marc Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJp2bCHn4V2Ke4ajWUYs4BEydNfmltOM6m_ZNFZ7pdTVlK5FFWDuVvg-GDtcMcwvWqp8RkgucbtoBg1PDp-AytNvMwwlkW36Ny_M7GKA5SB7zLULrdIeo6BdY88yGTqYh0aQhBiuX-zvLL_vPhl05Lnb8neYmScnMqb_PRC6G3gZw3b",
+                        "width":4294
+                  }
+            ],
+            "place_id":"ChIJif5y-DpXwokRDKtiBm5eCI0",
+            "plus_code":{
+                  "compound_code":"PWQQ+C3 Jersey City, NJ, USA",
+                  "global_code":"87G7PWQQ+C3"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJif5y-DpXwokRDKtiBm5eCI0",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":42,
+            "vicinity":"3080 John F. Kennedy Boulevard, Jersey City",
+            "CBG":340170009023,
+            "Radius":146.4438809638
+      }
+]

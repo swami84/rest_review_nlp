@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7556853,
+                        "lng":-74.1969864
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7569943303,
+                              "lng":-74.1956623197
+                        },
+                        "southwest":{
+                              "lat":40.7542963697,
+                              "lng":-74.1983602803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Jack's Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107476103477051787772\">Lester Patterson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLVzEHjN9akgLSbTcoIQVUpa_NcqhJqI-Gef12lqBXnsOdCIEiBpQ7gZ3iyTFZk_zN0Esr0A9cO_9KAn46wSNDMoLrgKGczjPEngTOPO2gn6R0Q972HTA0VZATIBDl0lGfq1ulNQNrAOAGGrV846EelBv46FWqYCVPZ2mixA0ti04RX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJETVfLL1UwokRajgl9s72GLY",
+            "plus_code":{
+                  "compound_code":"QR43+76 Newark, NJ, USA",
+                  "global_code":"87G7QR43+76"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJETVfLL1UwokRajgl9s72GLY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"615 Orange Street, Newark",
+            "CBG":340130007004,
+            "Radius":245.5158341874
+      }
+]

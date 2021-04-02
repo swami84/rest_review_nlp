@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7553414,
+                        "lng":-117.8598447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7567180803,
+                              "lng":-117.8584233197
+                        },
+                        "southwest":{
+                              "lat":33.7540201197,
+                              "lng":-117.8611212803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos y Birria Miguelito #2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105599695847964393188\">Tacos y Birria Miguelito #2<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJE1R521Iy-31aLkePJ7T1T6rmUFwW2zAinDg4ORWSViS6JHJOsO6m8lnzbGYpXteMnKOYL0i3NmIuJJW1WVil4iEEYNssdyImDhUXChedoVIUk9bjyAmrcb1wnAXHnmstd1JMyrVW1vQkpPZxlihqpp8FBDJid5jhmgZ_2aJAIwALo",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ2bHJozbZ3IARZPst6jRJFaM",
+            "plus_code":{
+                  "compound_code":"Q44R+43 Santa Ana, CA, USA",
+                  "global_code":"8554Q44R+43"
+            },
+            "rating":4.8,
+            "reference":"ChIJ2bHJozbZ3IARZPst6jRJFaM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"628 E West Washington Avenue, Santa Ana",
+            "CBG":60590744053,
+            "Radius":282.7850794447
+      }
+]

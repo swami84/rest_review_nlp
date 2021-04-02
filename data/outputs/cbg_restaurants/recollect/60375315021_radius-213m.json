@@ -1,0 +1,145 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0186436,
+                        "lng":-118.1710079
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0201227303,
+                              "lng":-118.1696432197
+                        },
+                        "southwest":{
+                              "lat":34.0174247697,
+                              "lng":-118.1723411803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los pepe's tacos truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3468,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102077033708601305011\">Jose Juarez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLxFS_wh2s8Lh7nPKFcrq6jDsnP4h6ESxyp94rbvZ-zaFCIEcNr9WWUz6F8XhTnaBTwmwaODYLTHkOYuc8fqWIdLN5Gt0Zkd5osiu2ZmAQzB_R_mdJuaxKJWJDEjFxoD1AFcz6k12OhwyAB43bNa4RRIMK8jj7YkjzdOIhVHObVHVJ2",
+                        "width":4624
+                  }
+            ],
+            "place_id":"ChIJmQBTUBOXwoAR_QfLL_VvZAk",
+            "plus_code":{
+                  "compound_code":"2R9H+FH East Los Angeles, CA, USA",
+                  "global_code":"85632R9H+FH"
+            },
+            "rating":4.5,
+            "reference":"ChIJmQBTUBOXwoAR_QfLL_VvZAk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15.0,
+            "vicinity":"4600 East Olympic Boulevard, East Los Angeles",
+            "CBG":60375315021,
+            "Radius":212.5317962069
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0159849,
+                        "lng":-118.1704453
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0172745303,
+                              "lng":-118.1691319697
+                        },
+                        "southwest":{
+                              "lat":34.0145765697,
+                              "lng":-118.1718299303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Capiro Piloncillo Inc.",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":1574,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112304263628082683205\">Mark Yutan<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUzqoAJ8zuW754McmB6E--TvEdrn4dcJS1hdLNMSrZbniQxNyAv1zSoCFVkduKDoJNjq_IalnjT48TK1fKmLks-CU26_Mr4TH1Zq2hkjztGb3vVaZZSbIZ8osc99vFvs_EkTByXaNQOjobBDP3_dgpOT-HUAqx94R_r4HB_nloJS6L",
+                        "width":3915
+                  }
+            ],
+            "place_id":"ChIJGwd82Q_PwoAR6tCEi1Y8x-U",
+            "plus_code":{
+                  "compound_code":"2R8H+9R Los Angeles, CA, USA",
+                  "global_code":"85632R8H+9R"
+            },
+            "rating":5.0,
+            "reference":"ChIJGwd82Q_PwoAR6tCEi1Y8x-U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2.0,
+            "vicinity":"4645 Telegraph Road, Los Angeles",
+            "CBG":60375315021,
+            "Radius":212.5317962069
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0190628,
+                        "lng":-118.171144
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0203400303,
+                              "lng":-118.1698019197
+                        },
+                        "southwest":{
+                              "lat":34.0176420697,
+                              "lng":-118.1724998803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taqueria Ei Mazapan",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJjS2r_hHPwoARDxuvSoGzHkE",
+            "plus_code":{
+                  "compound_code":"2R9H+JG East Los Angeles, CA, USA",
+                  "global_code":"85632R9H+JG"
+            },
+            "rating":null,
+            "reference":"ChIJjS2r_hHPwoARDxuvSoGzHkE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"4601 East Olympic Boulevard, East Los Angeles",
+            "CBG":60375315021,
+            "Radius":212.5317962069
+      }
+]

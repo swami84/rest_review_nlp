@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.940394,
+                        "lng":-118.0910297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9417425803,
+                              "lng":-118.0895745197
+                        },
+                        "southwest":{
+                              "lat":33.9390446197,
+                              "lng":-118.0922724803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cal\u00f3 Provisions",
+            "place_id":"ChIJ__9b7YrSwoAR373BdTUxB3w",
+            "plus_code":{
+                  "compound_code":"WWR5+5H Santa Fe Springs, CA, USA",
+                  "global_code":"8553WWR5+5H"
+            },
+            "reference":"ChIJ__9b7YrSwoAR373BdTUxB3w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"10413 Orr and Day Road, Santa Fe Springs",
+            "CBG":60375028012,
+            "Radius":397.1718355018
+      }
+]

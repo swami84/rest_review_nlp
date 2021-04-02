@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.873725,
+                        "lng":-73.854105
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8750204803,
+                              "lng":-73.8526933197
+                        },
+                        "southwest":{
+                              "lat":40.8723225197,
+                              "lng":-73.8553912803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"KFC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116031438908589490088\">KFC<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJldAqjg7zDT4_fhSn8r6QB6gZA1p3VfvzPWpBODfUGytTFAX7LGlhUgAald6LYomTvZ14_RjqfykqAYT8JPAKWgMwMnC-W4I8FMKH8iBg7hltpnTumTt4QNPpxXs2CtV5wjx1Z7yVGzVzmwpRIC-8S8SICehZrp40fushKMYF7ZENk",
+                        "width":2120
+                  }
+            ],
+            "place_id":"ChIJb0PU4EfzwokRGEmGErUKM0c",
+            "plus_code":{
+                  "compound_code":"V4FW+F9 New York, NY, USA",
+                  "global_code":"87G8V4FW+F9"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJb0PU4EfzwokRGEmGErUKM0c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":759,
+            "vicinity":"1125 East Gun Hill Road, The Bronx",
+            "CBG":360050368001,
+            "Radius":179.5151605777
+      }
+]

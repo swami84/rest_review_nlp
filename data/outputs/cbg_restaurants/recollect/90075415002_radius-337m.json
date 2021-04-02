@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.5535191,
+                        "lng":-72.6582163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.5548657803,
+                              "lng":-72.6569712197
+                        },
+                        "southwest":{
+                              "lat":41.5521678197,
+                              "lng":-72.6596691803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mamoun's Falafel Cart",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102542769993468724885\">ram adithya<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcmhFV4AH056fSY9eyMM6DoQaKVrGFC-0p_bpjmjjplC3no0_7gTu0iF8iAjBDRwWGENIiN5QZKvpW6mQo3yU1e17AxDZLPzpV_FYbirB1eaiyFTbnUOQdH5q5GRionyTt7FwOvfEJgC-skc7u760fUuzDw1BvDZ-wgLS2slFI3_6c",
+                        "width":3036
+                  }
+            ],
+            "place_id":"ChIJ4we6U3xK5okRxY3vvriYD70",
+            "plus_code":{
+                  "compound_code":"H83R+CP Middletown, CT, USA",
+                  "global_code":"87H9H83R+CP"
+            },
+            "rating":4.9,
+            "reference":"ChIJ4we6U3xK5okRxY3vvriYD70",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"Pine Street, Middletown",
+            "CBG":90075415002,
+            "Radius":337.14092605
+      }
+]

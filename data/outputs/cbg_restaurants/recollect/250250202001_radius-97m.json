@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.361031,
+                        "lng":-71.066483
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3624239803,
+                              "lng":-71.0651497197
+                        },
+                        "southwest":{
+                              "lat":42.3597260197,
+                              "lng":-71.0678476803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100784400158000432037\">Roland Guilmet<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLYqhQydbI8TbLf8Tfu9XnQHxN2WLqZLvUjoe6cjU3PE0-nXhRXVF6tx2f_mMl1LoLwytevTIffUhBU1SIrFcftQWMxpiHbFiwe1-y2oYbIJn_QMDK1iKG6Tqxd5Qr83pcrTlTAzJmXYsOY3OLpyHFIWia3Rw1ct24g5xqCwF-CXdGL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ-2Skf4Zw44kR4kw-UYafqDk",
+            "plus_code":{
+                  "compound_code":"9W6M+CC Boston, MA, USA",
+                  "global_code":"87JC9W6M+CC"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJ-2Skf4Zw44kR4kw-UYafqDk",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":286,
+            "vicinity":"222 Cambridge Street, Boston",
+            "CBG":250250202001,
+            "Radius":97.412196449
+      }
+]

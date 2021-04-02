@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3474079,
+                        "lng":-71.1031816
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3486713303,
+                              "lng":-71.1017842697
+                        },
+                        "southwest":{
+                              "lat":42.3459733697,
+                              "lng":-71.1044822303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Audubon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2250,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113916885627479626804\">Peter<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLr8NpSVpR6TguR3yhklLDCwvcomi_7DYg-4CuaBE3w5kpNMhZUHW8uRoccR9FptOhzyY2kQ2qJeFOcyqTie8IYCqZgdGAVSmQS6h1HQBsOob5aUD6oUMCFsyGT_bNqrYglUoKmpAVpxwH7NswZ3AAxejwWUvUc9GvakjtLAb_Mrc2s",
+                        "width":5409
+                  }
+            ],
+            "place_id":"ChIJDaJJzfZ544kRnon1_FQE2cg",
+            "plus_code":{
+                  "compound_code":"8VWW+XP Boston, MA, USA",
+                  "global_code":"87JC8VWW+XP"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJDaJJzfZ544kRnon1_FQE2cg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":462,
+            "vicinity":"838 Beacon Street, Boston",
+            "CBG":250250102041,
+            "Radius":112.5795040768
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0423756,
+                        "lng":-118.2449734
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0437625303,
+                              "lng":-118.2437011197
+                        },
+                        "southwest":{
+                              "lat":34.0410645697,
+                              "lng":-118.2463990803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Porky's BBQ",
+            "place_id":"ChIJ2SingkHHwoARusZmY8MPHqo",
+            "plus_code":{
+                  "compound_code":"2QR4+X2 Los Angeles, CA, USA",
+                  "global_code":"85632QR4+X2"
+            },
+            "rating":4.5,
+            "reference":"ChIJ2SingkHHwoARusZmY8MPHqo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"544 San Pedro Street, Los Angeles",
+            "CBG":60372063002,
+            "Radius":121.5642002235
+      }
+]

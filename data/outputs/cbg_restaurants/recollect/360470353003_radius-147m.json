@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.666003,
+                        "lng":-73.936704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6673599303,
+                              "lng":-73.9354770697
+                        },
+                        "southwest":{
+                              "lat":40.6646619697,
+                              "lng":-73.9381750303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bunch-O-Bagels",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106275884415499596979\">Bunch-O-Bagels<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwItkFMiDnfHux-9dUNR2ha3D3u11oIkVz4c_4YoweTVME3UdC5qhPM9DhnAXLdWfGRUMwQC3HHzjXqdcIisqVQxVFaUeQcCzaKtaZFsa4qs1fz_2vqyx7B0i84ROwKXcg_S4aTDqjsBbjLpeHvIuBgTZy27QmW6mXSAxxEYQ_9Sqv-w",
+                        "width":1800
+                  }
+            ],
+            "place_id":"ChIJo5NiO35bwokR73lUmJ4Z5TI",
+            "plus_code":{
+                  "compound_code":"M387+C8 Brooklyn, NY, USA",
+                  "global_code":"87G8M387+C8"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJo5NiO35bwokR73lUmJ4Z5TI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":571,
+            "vicinity":"361 Troy Avenue, Brooklyn",
+            "CBG":360470353003,
+            "Radius":146.8508647542
+      }
+]

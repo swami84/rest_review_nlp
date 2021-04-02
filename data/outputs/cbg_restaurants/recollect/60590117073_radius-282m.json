@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8973925,
+                        "lng":-117.8834991
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8988235803,
+                              "lng":-117.8823254197
+                        },
+                        "southwest":{
+                              "lat":33.8961256197,
+                              "lng":-117.8850233803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"GermanYumTruck Catering & Events",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":928,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114994758662062005045\">Marilyn Welch<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKsqXSmrD3URRf3DAT_ogJjtr7NKFmUGpH_5PI2OgjaAQM9DEJ1XhmuQHl3ys_AKPdA5To5Z50Wd-d1p9cl2WLYpeZop8H7rsyDi5DhVW-sEl03RHznnY2O4aZ1BPhCZvXAcK8OlQbxGp6eHcX7-x8A2kSUt0oDvVtG0Lng79HqJLbm",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJw1qLV0fV3IAR6SS2RYm7mmI",
+            "plus_code":{
+                  "compound_code":"V4W8+XJ Fullerton, CA, USA",
+                  "global_code":"8554V4W8+XJ"
+            },
+            "rating":4.8,
+            "reference":"ChIJw1qLV0fV3IAR6SS2RYm7mmI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"2634 Associated Road a110, Fullerton",
+            "CBG":60590117073,
+            "Radius":282.4054891344
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8749892,
+                        "lng":-118.1309208
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8762721803,
+                              "lng":-118.1295759197
+                        },
+                        "southwest":{
+                              "lat":33.8735742197,
+                              "lng":-118.1322738803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Home Run Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112002067368343287070\">Home Run Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKhg6PMFwZ6x9vKlhq8k1R2762coWJrP7TK85uehE4wP1T9nQIQHFfvtDe3vAMNOYlk25bA5WkJ1TBAT597QKUzR5bMWDSXlN7cuUGK8SXMyZWHuOnMolEcUHuPtyPRKYr9KH_x5G5hZ0pjtdyZsmd7aGkfwVjh-kpsG7mZH0Stwjaq",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJW8jltr4y3YARXbA0qVpqLfs",
+            "plus_code":{
+                  "compound_code":"VVF9+XJ Bellflower, CA, USA",
+                  "global_code":"8553VVF9+XJ"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJW8jltr4y3YARXbA0qVpqLfs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":108,
+            "vicinity":"9523 Artesia Boulevard, Bellflower",
+            "CBG":60375544041,
+            "Radius":320.829471192
+      }
+]

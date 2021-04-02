@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0573834,
+                        "lng":-118.2858704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0587985303,
+                              "lng":-118.2844004697
+                        },
+                        "southwest":{
+                              "lat":34.0561005697,
+                              "lng":-118.2870984303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Low Key Burrito",
+            "place_id":"ChIJ9zxjIbLHwoARUzODI1oZgPQ",
+            "plus_code":{
+                  "compound_code":"3P47+XM Los Angeles, CA, USA",
+                  "global_code":"85633P47+XM"
+            },
+            "reference":"ChIJ9zxjIbLHwoARUzODI1oZgPQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2748 West 8th Street, Los Angeles",
+            "CBG":60372122021,
+            "Radius":207.3755543768
+      }
+]

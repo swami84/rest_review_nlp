@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7664827,
+                        "lng":-74.1647551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7678017303,
+                              "lng":-74.1632944197
+                        },
+                        "southwest":{
+                              "lat":40.7651037697,
+                              "lng":-74.1659923803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eddie's Place",
+            "place_id":"ChIJi3QP-1tUwokRZ1DQYg7yFUg",
+            "plus_code":{
+                  "compound_code":"QR8P+H3 Newark, NJ, USA",
+                  "global_code":"87G7QR8P+H3"
+            },
+            "reference":"ChIJi3QP-1tUwokRZ1DQYg7yFUg",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"462 Broadway, Newark",
+            "CBG":340130093002,
+            "Radius":329.8082638845
+      }
+]

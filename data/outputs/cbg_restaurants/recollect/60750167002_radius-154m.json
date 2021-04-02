@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.770629,
+                        "lng":-122.432804
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7720922803,
+                              "lng":-122.4314766697
+                        },
+                        "southwest":{
+                              "lat":37.7693943197,
+                              "lng":-122.4341746303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"559 Waller Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111801202756183696751\">Tony Jin<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzhhbsp_bM4xj9BfmrBZbi-EwVMlYmeP_O4U9k0paK43LJHJGpJjHQSXutv4IJmXBzXqHdun0vHx8g-hyPrOe10XU8xFt8KV7JrfFc_ZMnu1qEqUNSAAa0umEV3lRLWyP6ObqimliXJ72Hvi4I7jYj-KcNKbI9f7hpJQKNnNkQkSUX",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJY1EHggaBhYARrB85AzRH2ug",
+            "plus_code":{
+                  "compound_code":"QHC8+7V Lower Haight, San Francisco, CA, USA",
+                  "global_code":"849VQHC8+7V"
+            },
+            "rating":5,
+            "reference":"ChIJY1EHggaBhYARrB85AzRH2ug",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"559 Waller Street, San Francisco",
+            "CBG":60750167002,
+            "Radius":153.7600354007
+      }
+]

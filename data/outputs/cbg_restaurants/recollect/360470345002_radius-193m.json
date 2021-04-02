@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6744038,
+                        "lng":-73.9331348
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6757527803,
+                              "lng":-73.9317858197
+                        },
+                        "southwest":{
+                              "lat":40.6730548197,
+                              "lng":-73.9344837803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Heights Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113341944173763220184\">Christine Fnu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIwsye3mpbamiTKi4w70YtFosnVSpCNVkVOTSpYfhVi59SKjS7r5k0VWVLxJdXOJ8RFI9E8JgBAbTICHfWYfAv085CzrlHmE9KdYdwTmUdbKw8szl614Y76XdfF1HAS2K-X-mlOrcbTLdoQ_husC1RbzAe2sk5lNtGWzAlYgEev5I0k",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJ5y6e13hcwokRjjfpG5OBiY8",
+            "plus_code":{
+                  "compound_code":"M3F8+QP Brooklyn, NY, USA",
+                  "global_code":"87G8M3F8+QP"
+            },
+            "price_level":1.0,
+            "rating":4.1,
+            "reference":"ChIJ5y6e13hcwokRjjfpG5OBiY8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":504,
+            "vicinity":"137 Schenectady Avenue, Brooklyn",
+            "CBG":360470345002,
+            "Radius":192.5879138417
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6750128,
+                        "lng":-73.9328951
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6764391303,
+                              "lng":-73.9315390697
+                        },
+                        "southwest":{
+                              "lat":40.6737411697,
+                              "lng":-73.9342370303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wi Cafe & Wine Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":745,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114658732559319279621\">Wi Cafe &amp; Wine Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI9Ib3xM2PmwHe3rJzgYSqeIRsTKrHMC6kNtumTajrcQvxU8iHjY2NgcWF4zE6A6KF61uH_NDJlUJx4EPDzgu2tJz6Zze0vbrrBc1IR9F1C5jdoVPUdTp5nsCrv2kXr_VzPz84mVJvP0reNYo4WQyk1luBycShoLPhRnjHtmPHqpdL-",
+                        "width":419
+                  }
+            ],
+            "place_id":"ChIJHZnSK4ZdwokRpcNnoRFwrmQ",
+            "plus_code":{
+                  "compound_code":"M3G8+2R New York, NY, USA",
+                  "global_code":"87G8M3G8+2R"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJHZnSK4ZdwokRpcNnoRFwrmQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":22,
+            "vicinity":"1524 Bergen Street, Brooklyn",
+            "CBG":360470345002,
+            "Radius":192.5879138417
+      }
+]

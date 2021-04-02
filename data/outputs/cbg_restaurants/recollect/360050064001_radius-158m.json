@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8323402,
+                        "lng":-73.8720932
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8336891803,
+                              "lng":-73.8707442197
+                        },
+                        "southwest":{
+                              "lat":40.8309912197,
+                              "lng":-73.8734421803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"NY Famous Deli",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2992,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104542517871553189279\">Paul Santo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtINPFb2zqGaWjmqpPw_FFoTLoWh5ntR0edo2xntGI-7QyA_-t4WE5suYHw1BVX6VCRBii84-0KNpTBBUmnHu63_R4DkEH1JPQCG9h5NVRYLet8rod5TRDjVm0MpZiq2Qfpqb7bZ1kQj_2_VztscNIbsC9Uu-IYjGgZ93WBgj7h7nh",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJeY0luu70wokRe2rYSRIo8g4",
+            "plus_code":{
+                  "compound_code":"R4JH+W5 The Bronx, NY, USA",
+                  "global_code":"87G8R4JH+W5"
+            },
+            "rating":4.4,
+            "reference":"ChIJeY0luu70wokRe2rYSRIo8g4",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":150,
+            "vicinity":"1683 East 172nd Street, The Bronx",
+            "CBG":360050064001,
+            "Radius":157.951924867
+      }
+]

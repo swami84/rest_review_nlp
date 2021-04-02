@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0381775,
+                        "lng":-118.3273728
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0394244803,
+                              "lng":-118.3260254697
+                        },
+                        "southwest":{
+                              "lat":34.0367265197,
+                              "lng":-118.3287234303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fresh Deli Crepes",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJV1cfqpe5woARPGL30ILLz0M",
+            "plus_code":{
+                  "compound_code":"2MQF+73 Los Angeles, CA, USA",
+                  "global_code":"85632MQF+73"
+            },
+            "reference":"ChIJV1cfqpe5woARPGL30ILLz0M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "vicinity":"3835 West 21st Street, Los Angeles",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372188002,
+            "Radius":242.6238250698
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0395081,
+                        "lng":-118.3263964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0408218303,
+                              "lng":-118.3249716697
+                        },
+                        "southwest":{
+                              "lat":34.0381238697,
+                              "lng":-118.3276696303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Restaurante Hermano Centroamericano",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJF8W2-Fy4woARtmnwWAQ6Lns",
+            "plus_code":{
+                  "compound_code":"2MQF+RC Los Angeles, CA, USA",
+                  "global_code":"85632MQF+RC"
+            },
+            "reference":"ChIJF8W2-Fy4woARtmnwWAQ6Lns",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1905 8th Avenue, Los Angeles",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104417974042691432079\">Ivania Sandoval<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJWkoUvkwYIOvhQ7GX0Qrg_Yn4_Zk7c3HLrS14acAvNzOOG6WxwJKFio1bWNrv0e6YC3REI47DLyXXiGW_3aH2LbEVpb75LJ45R8PWOjb6RuN0NBdryXylrbRngKAp_ne4FaQ1LJCk16b8lJ-zfZ-aZQGNP10UX8KOsf-X_cxW4ECI",
+                        "width":4032
+                  }
+            ],
+            "rating":4.4,
+            "user_ratings_total":118.0,
+            "CBG":60372188002,
+            "Radius":242.6238250698
+      }
+]

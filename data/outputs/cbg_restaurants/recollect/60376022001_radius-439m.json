@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9282095,
+                        "lng":-118.3733133
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9293745303,
+                              "lng":-118.3719650697
+                        },
+                        "southwest":{
+                              "lat":33.9266765697,
+                              "lng":-118.3746630303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brandon\u2019s cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107327823434033186721\">Alfredo Hinojosa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJG0ifBXa-FnBrT2AnaUXCBNHRwag49H-NFG1Sy2yphWcT9aKceF1Q2AI3OidO8WNe6t1arhxgidpo5QPUjtQSSnDfx6Vn_cpmmRyUuSLPMeIXoHWMND44BmfI85a6nnDiPAH5ZfD2V1H1Yck566f9oZ_WBowdePIlPF1-Iz8mS5foU",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPaIdAPW3woARqyhgyORkYs4",
+            "plus_code":{
+                  "compound_code":"WJHG+7M Los Angeles, CA, USA",
+                  "global_code":"8553WJHG+7M"
+            },
+            "rating":4.6,
+            "reference":"ChIJPaIdAPW3woARqyhgyORkYs4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"5230 Pacific Concourse Drive # 130, Los Angeles",
+            "CBG":60376022001,
+            "Radius":439.1725792962
+      }
+]

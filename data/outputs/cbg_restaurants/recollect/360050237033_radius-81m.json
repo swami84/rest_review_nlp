@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8587704,
+                        "lng":-73.9001039
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8601535303,
+                              "lng":-73.8988568197
+                        },
+                        "southwest":{
+                              "lat":40.8574555697,
+                              "lng":-73.9015547803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zona AMD",
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112723133271716409468\">Luzy Figon<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKfV3iJN67OzGKTiPw1_h-Z00qo8B_dQt_DRMGyvCNxBZyXsmT6sf56iVYm17RgBtFxEdBsRewpX1Z9JAWA45aNKf46oFBSLyeBzJ2C8s3hzRGkJ2lW3BrHAayCGBkYc2d5IbToa5b9g0nyjaoYvsBVtW8vQMUItDzavcRJTpOgk1bS",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "plus_code":{
+                  "compound_code":"V35X+GX New York, NY, USA",
+                  "global_code":"87G8V35X+GX"
+            },
+            "reference":"ChIJAbt62hH1wokRRd3SIoZbJlk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2330 Creston Avenue, The Bronx",
+            "CBG":360050237033,
+            "Radius":81.0314527341
+      }
+]

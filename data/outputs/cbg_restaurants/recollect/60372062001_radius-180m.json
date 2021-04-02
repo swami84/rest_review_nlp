@@ -1,0 +1,131 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0456754,
+                        "lng":-118.2463666
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0471788803,
+                              "lng":-118.2449671197
+                        },
+                        "southwest":{
+                              "lat":34.0444809197,
+                              "lng":-118.2476650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Aztecano",
+            "place_id":"ChIJSbQ-CzbGwoARRYii3jIOpbo",
+            "plus_code":{
+                  "compound_code":"2QW3+7F Los Angeles, CA, USA",
+                  "global_code":"85632QW3+7F"
+            },
+            "reference":"ChIJSbQ-CzbGwoARRYii3jIOpbo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"231 East 5th Street, Los Angeles",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372062001,
+            "Radius":179.8641347584
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0466946,
+                        "lng":-118.2462058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0482050303,
+                              "lng":-118.2450245697
+                        },
+                        "southwest":{
+                              "lat":34.0455070697,
+                              "lng":-118.2477225303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Quesadillas las correteadas",
+            "place_id":"ChIJ0ZPgrKHHwoARHVa8k2Oj7MA",
+            "plus_code":{
+                  "compound_code":"2QW3+MG Los Angeles, CA, USA",
+                  "global_code":"85632QW3+MG"
+            },
+            "reference":"ChIJ0ZPgrKHHwoARHVa8k2Oj7MA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"410 South Los Angeles Street, Los Angeles",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372062001,
+            "Radius":179.8641347584
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.047213,
+                        "lng":-118.2459087
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0486341303,
+                              "lng":-118.2446316697
+                        },
+                        "southwest":{
+                              "lat":34.0459361697,
+                              "lng":-118.2473296303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sunday Cafe",
+            "place_id":"ChIJn0FY4UnGwoARnDj0_EmHCu4",
+            "plus_code":{
+                  "compound_code":"2QW3+VJ Los Angeles, CA, USA",
+                  "global_code":"85632QW3+VJ"
+            },
+            "reference":"ChIJn0FY4UnGwoARnDj0_EmHCu4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"396 South Los Angeles Street # 26, Los Angeles",
+            "photos":[
+                  {
+                        "height":353,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106169481413437965598\">Ramon Espinoza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZxcUjhv7Cxm65ZldWUpkqLw_1shuxdh43_eBB4toqe_2bZhTNuqOJVpyJmf8-9CL33VL6aUxuxYahqNLfGEtFL7DJpPL9_Y2wyBUYfdBJR2wao0kZbNM7sIzrHRHnNAdHaQ470da5201UX_s8KwiTFKrqX_WZJFTD8V7ij-ZHxIf3",
+                        "width":530
+                  }
+            ],
+            "rating":2.0,
+            "user_ratings_total":2.0,
+            "CBG":60372062001,
+            "Radius":179.8641347584
+      }
+]

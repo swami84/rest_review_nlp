@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7767986,
+                        "lng":-122.476778
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7781475803,
+                              "lng":-122.4754290197
+                        },
+                        "southwest":{
+                              "lat":37.7754496197,
+                              "lng":-122.4781269803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hawker Eats",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105884496679535918718\">Marshawn Egu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKMRUHvgQ7aNtdhICc0JPdY6Dgg7c9VNB2CspTHO2j4rccpOG8-RQv66GfK7KAZSJb4vl38mhDLaP2ArMAzT3jl7hcJID3C8BLPMmdD0IaVXx6DmrI51jnIkeD3kSLeFWYbknuDQM0g-SAGyDUXuHbGJpBP7zxSOFxN7Y1muPMbolwc",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJVSSsvhOHhYARB_ClN5gRMOc",
+            "plus_code":{
+                  "compound_code":"QGGF+P7 Inner Richmond, San Francisco, CA, USA",
+                  "global_code":"849VQGGF+P7"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJVSSsvhOHhYARB_ClN5gRMOc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"1650 Balboa Street, San Francisco",
+            "CBG":60750476002,
+            "Radius":203.6622808692
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7767972,
+                        "lng":-122.4767905
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7781461803,
+                              "lng":-122.4754415197
+                        },
+                        "southwest":{
+                              "lat":37.7754482197,
+                              "lng":-122.4781394803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kaiju Cooks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116231652184425865788\">Thomas Hagen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJS5nY1p-5QRRwX9EzNpFUfDNdC5psqzIJuW6SoM2vlEdY5OQbGz_d3UngHk7njqa8l2h9Ydr4_MHyCheF6Qm6qhGm79GQPMGtgZ5HuPIAvJRa7Dun_GCMB1l1CtzJIwZ_YO3pmhe7-5DRRgi4yxnybDxMV1DdY9I07DIDq24hVWFn1",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVeKsvhOHhYARpz9BfmQA9kM",
+            "plus_code":{
+                  "compound_code":"QGGF+P7 Inner Richmond, San Francisco, CA, USA",
+                  "global_code":"849VQGGF+P7"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJVeKsvhOHhYARpz9BfmQA9kM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":67,
+            "vicinity":"1650 Balboa Street, San Francisco",
+            "CBG":60750476002,
+            "Radius":203.6622808692
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7506065,
+                        "lng":-74.1639023
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7520119803,
+                              "lng":-74.1626644697
+                        },
+                        "southwest":{
+                              "lat":40.7493140197,
+                              "lng":-74.1653624303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tops Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103648663399595088297\">Joshua Sieben<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLaZIewSjqndFvvYsG6ua2VP1mxgO9IPmYBraJn0dFdP9hs6JA6DUMuj0gQGsjsSIHINrf9QjkDhguF7zTcFWFjOKFTcHwpWmjSamNUVqlQnIQ2ayBt3rUYfEzM-gDbuTwEb2PLJrya_Xj0WKL8K1RRys4zUnwv4y400CYppmDu8RSs",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJWyPDTntUwokRkn8ZaR_xQnM",
+            "plus_code":{
+                  "compound_code":"QR2P+6C East Newark, NJ, USA",
+                  "global_code":"87G7QR2P+6C"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJWyPDTntUwokRkn8ZaR_xQnM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8402,
+            "vicinity":"500 Passaic Avenue, East Newark",
+            "CBG":340170134002,
+            "Radius":175.9104760535
+      }
+]

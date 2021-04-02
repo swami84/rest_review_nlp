@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.681821,
+                        "lng":-73.928546
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6831568303,
+                              "lng":-73.9273410697
+                        },
+                        "southwest":{
+                              "lat":40.6804588697,
+                              "lng":-73.9300390303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Krazy Chicken & Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIvTyA2zOSCYwvE0lPNmOG7XD6SG1X8xgRHs90tEfpsPzfGv-0pAUeVbSQsRKLIFKnLUBTQOyaQ--utDJ6qTTXi9oJl7xx9-m-8GFILoDHeSiPFO5YIXuTSET1Pe-9cAMtmKraRzPkHw1Nbsa-Nh9nrBH05f1l4MXSjs2N4Ll54r2TG",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJ69pOXnNcwokR7KB_qEsreRc",
+            "plus_code":{
+                  "compound_code":"M3JC+PH New York, NY, USA",
+                  "global_code":"87G8M3JC+PH"
+            },
+            "rating":3.8,
+            "reference":"ChIJ69pOXnNcwokR7KB_qEsreRc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":131,
+            "vicinity":"299 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470381004,
+            "Radius":114.5040794553
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6817585,
+                        "lng":-73.9285813
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6831052803,
+                              "lng":-73.9273545697
+                        },
+                        "southwest":{
+                              "lat":40.6804073197,
+                              "lng":-73.9300525303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Sin Lee",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102266607447754966312\">Helen Dong<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLBI8dqq_H7CTAk2KHMmc7lMyCcNaXNqnQXnCSdZ9m4tubTTc9ota6YsYHSRqVmlLxDduRhsAIWUXyNVVZwZvDEzcTkUi2YHDU0r4l4HMc_9pKymPY5BG0aNzdGygM48kYz73CIkfNNZV0QtHUtWOTxcId-a27XvYol84m1oHijgAbH",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJicm2P3FcwokROIVO_ak3KwI",
+            "plus_code":{
+                  "compound_code":"M3JC+PH Brooklyn, NY, USA",
+                  "global_code":"87G8M3JC+PH"
+            },
+            "rating":4.3,
+            "reference":"ChIJicm2P3FcwokROIVO_ak3KwI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":29,
+            "vicinity":"301 Malcolm X Boulevard, Brooklyn",
+            "CBG":360470381004,
+            "Radius":114.5040794553
+      }
+]

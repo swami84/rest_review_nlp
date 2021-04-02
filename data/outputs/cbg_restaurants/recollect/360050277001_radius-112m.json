@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.87793,
+                        "lng":-73.902776
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8792317803,
+                              "lng":-73.9013348697
+                        },
+                        "southwest":{
+                              "lat":40.8765338197,
+                              "lng":-73.9040328303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Laura's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113238271206695042544\">Danny Rodr\u00edguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJpxpmeA67muXAP2hY2rdRC3uVDhvMqnH_Vsa91wsVJS1Yv2YSHHPTFsdBGDrnLdrua5_xwPmtamZDHdusjzP4dNSWtqxCXXPvc2aEMr0VneuRY3Drbu5xrCjpoDBaPEGNAA5CVgXm0XqMvokzE1y1VyfQZ6nJuRGag9w13hWuOGdRN",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJVfcNPJfzwokRqZhtc7Z_ihY",
+            "plus_code":{
+                  "compound_code":"V3HW+5V The Bronx, NY, USA",
+                  "global_code":"87G8V3HW+5V"
+            },
+            "rating":3.6,
+            "reference":"ChIJVfcNPJfzwokRqZhtc7Z_ihY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"3073 Bailey Avenue, The Bronx",
+            "CBG":360050277001,
+            "Radius":111.7266328884
+      }
+]

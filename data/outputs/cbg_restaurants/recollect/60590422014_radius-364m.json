@@ -1,0 +1,92 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4602936,
+                        "lng":-117.6645916
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4616076303,
+                              "lng":-117.6631429697
+                        },
+                        "southwest":{
+                              "lat":33.4589096697,
+                              "lng":-117.6658409303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Avi Kebab",
+            "place_id":"ChIJ9cSnzgzx3IARIUWSyDggklM",
+            "plus_code":{
+                  "compound_code":"F86P+45 Capistrano Beach, Dana Point, CA, USA",
+                  "global_code":"8554F86P+45"
+            },
+            "reference":"ChIJ9cSnzgzx3IARIUWSyDggklM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"26701 Calle Juanita, Capistrano Beach",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60590422014,
+            "Radius":364.3952853032
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.4614603,
+                        "lng":-117.6647398
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.4627125803,
+                              "lng":-117.6633220697
+                        },
+                        "southwest":{
+                              "lat":33.4600146197,
+                              "lng":-117.6660200303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"SwankCook Orange County Food Delivery",
+            "place_id":"ChIJIaszBXPx3IARebGFUBxgAnE",
+            "plus_code":{
+                  "compound_code":"F86P+H4 Dana Point, CA, USA",
+                  "global_code":"8554F86P+H4"
+            },
+            "reference":"ChIJIaszBXPx3IARebGFUBxgAnE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"26691 Calle Salida, Dana Point",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115479642823645213973\">SwankCook Orange County Food Delivery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIl9V8Wn-f9vz7xbIupComlOJW2R74qEUTnRwq95G1PzfeGq7Lp6PiTovm-kDiMrXCSrZTpfBNk4y22b57kKV-bXk4SFAODPa6iimYny62pk1xYEIw1PHgY0j77PToQjzGivRxzb5Mywgtui65vYtldXb58HdMMiualivcWGtFo18gB",
+                        "width":4032
+                  }
+            ],
+            "rating":4.3,
+            "user_ratings_total":4.0,
+            "CBG":60590422014,
+            "Radius":364.3952853032
+      }
+]

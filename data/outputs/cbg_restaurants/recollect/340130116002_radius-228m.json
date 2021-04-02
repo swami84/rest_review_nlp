@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7582423,
+                        "lng":-74.2204068
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7597283303,
+                              "lng":-74.2190909697
+                        },
+                        "southwest":{
+                              "lat":40.7570303697,
+                              "lng":-74.2217889303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Boston Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103661112826987259176\">Sam Jacobs<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7P4KtirEqSa9JeQlxYRVNWw6hzhrqVovFClLIVPr78tqjbEJJqBGXNxkX9S43aaWShk3IhQ_17ViiVqWzQIrgRIfyu_0O7rV1B8rryhmT_uL6kx2etugkwGQdKv_hj7bL0QnePlBHOUShGCtcAJtZh5l-pxFCLavVSc93ApieBW7z",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJPUZRjlKrw4kRR-FTruQmY1g",
+            "plus_code":{
+                  "compound_code":"QQ5H+7R East Orange, NJ, USA",
+                  "global_code":"87G7QQ5H+7R"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJPUZRjlKrw4kRR-FTruQmY1g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":726,
+            "vicinity":"471 Central Avenue, East Orange",
+            "CBG":340130116002,
+            "Radius":228.300275281
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7586261,
+                        "lng":-74.2208902
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7600441803,
+                              "lng":-74.2194531697
+                        },
+                        "southwest":{
+                              "lat":40.7573462197,
+                              "lng":-74.2221511303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"A&g cuisine",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJy5DsAbmrw4kRl0dk-8qWbqw",
+            "plus_code":{
+                  "compound_code":"QQ5H+FJ East Orange, NJ, USA",
+                  "global_code":"87G7QQ5H+FJ"
+            },
+            "price_level":null,
+            "rating":1.7,
+            "reference":"ChIJy5DsAbmrw4kRl0dk-8qWbqw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"487 Central Avenue, East Orange",
+            "CBG":340130116002,
+            "Radius":228.300275281
+      }
+]

@@ -1,0 +1,35 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.7971137,
+                        "lng":-84.3804887
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7982761803,
+                              "lng":-84.3791379697
+                        },
+                        "southwest":{
+                              "lat":33.7955782197,
+                              "lng":-84.3818359303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Three Mint",
+            "place_id":"ChIJ_____0sE9YgRBnixzT7N3aY",
+            "reference":"ChIJ_____0sE9YgRBnixzT7N3aY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Atlanta",
+            "CBG":131210005003,
+            "Radius":695.5389046197
+      }
+]

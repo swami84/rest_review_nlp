@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6516739,
+                        "lng":-74.202467
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6529513303,
+                              "lng":-74.2011387197
+                        },
+                        "southwest":{
+                              "lat":40.6502533697,
+                              "lng":-74.2038366803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Shaans Deli and mart",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114311172807319724355\">satvir kaur saini<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIKnBz2AAPu1590HWTXP-5u0CwnzSNISBtecdlwI94jF2bXTu7D0NzOKipuLBp4xEdj8Cm45jL2SRIu0RcK94S9Lyfn0osMYxpFEk2ifk0uN7j8-t9305bbM4FkbXH8EerjGKOapxwiSnTnB6Y-niTjdhuInbJKK28so5vq9FD3wJOO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJr4vhkUZNwokR7nZNUoupTGQ",
+            "plus_code":{
+                  "compound_code":"MQ2X+M2 Elizabeth, NJ, USA",
+                  "global_code":"87G7MQ2X+M2"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJr4vhkUZNwokR7nZNUoupTGQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":28,
+            "vicinity":"461 3rd Avenue, Elizabeth",
+            "CBG":340390309004,
+            "Radius":325.745105564
+      }
+]

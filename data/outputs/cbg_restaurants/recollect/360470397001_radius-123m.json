@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6864553,
+                        "lng":-73.9162292
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6877184803,
+                              "lng":-73.9149671197
+                        },
+                        "southwest":{
+                              "lat":40.6850205197,
+                              "lng":-73.9176650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"HipHop Burger NYC",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115963089331715716501\">HipHop Burger NYC<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLg_dgOFMguEYRHZ_y8Pi2kotdIS2pH5y7BJHzeWEuovWaFMNT1zjpGzBUJwp8V8I60p_xafUREYY-pX1WccIR4-RbBKMVvB-EwKuUPCWOtqfJ05i2XgLvGCuPn8P7d4Vn66gZbPqgKQ9-FZK9DndIyXKQ5UZrB8nc3bCFF0iA5An_o",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJnf2CZiddwokRs5MS5bRnLRg",
+            "plus_code":{
+                  "compound_code":"M3PM+HG Brooklyn, NY, USA",
+                  "global_code":"87G8M3PM+HG"
+            },
+            "rating":4.6,
+            "reference":"ChIJnf2CZiddwokRs5MS5bRnLRg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"1543 Broadway, Brooklyn",
+            "opening_hours":null,
+            "CBG":360470397001,
+            "Radius":122.6356616259
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6873319,
+                        "lng":-73.9178411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6886067803,
+                              "lng":-73.9165651697
+                        },
+                        "southwest":{
+                              "lat":40.6859088197,
+                              "lng":-73.9192631303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BK Pizza",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110060321746015017269\">BK Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKkKEGUAtv_2SIm-kSiGZ_FCxfJx_Y9KmOorxDz6smkbFlNXypeLmk9BXdJSuRJxC61do11PuJFVw9Ycfm26vWgooMfUImW1fdnjIOrkyhrfunY5RCaZ9x5Fxczx3tLC-lo0uosTMCibXYSxMJVqqFP2Gaigq7l8YrMOai-xUT6jh_m",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJjfPgt5ldwokR2cricKCvj7o",
+            "plus_code":{
+                  "compound_code":"M3PJ+WV Brooklyn, NY, USA",
+                  "global_code":"87G8M3PJ+WV"
+            },
+            "rating":4.8,
+            "reference":"ChIJjfPgt5ldwokR2cricKCvj7o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":453,
+            "vicinity":"1491 Broadway, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360470397001,
+            "Radius":122.6356616259
+      }
+]

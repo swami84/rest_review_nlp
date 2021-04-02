@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.764135,
+                        "lng":-122.456377
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7653831303,
+                              "lng":-122.4549950197
+                        },
+                        "southwest":{
+                              "lat":37.7626851697,
+                              "lng":-122.4576929803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114331831145864172176\">Bert Br\u00e4utigam<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLt0E_tGV1G5dpPJMpRt3wpNoKAQ-QaNNjrgFnTK8Hpm_6WnqUYCGfQrhmOPKePCiH4RdKnx2vYmX9Drz3jK1NdTYTulHKCg0V8hMO6O1EbOqcjlgUZphZIEBYRE-fptlSrpdyLJAjzbagdciDvmob76lQWcnssZk7KYnpUBpCkVg4S",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwXV8FleHhYAR5aY_TuRDQgw",
+            "plus_code":{
+                  "compound_code":"QG7V+MC Ashbury Heights, San Francisco, CA, USA",
+                  "global_code":"849VQG7V+MC"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJwXV8FleHhYAR5aY_TuRDQgw",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"350 Parnassus Street, San Francisco",
+            "CBG":60750301011,
+            "Radius":175.0679459555
+      }
+]

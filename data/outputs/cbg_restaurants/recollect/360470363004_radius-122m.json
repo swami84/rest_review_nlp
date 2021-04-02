@@ -1,0 +1,43 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6735642,
+                        "lng":-73.917836
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6748541303,
+                              "lng":-73.9164927697
+                        },
+                        "southwest":{
+                              "lat":40.6721561697,
+                              "lng":-73.9191907303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Bar&food",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJlREM489dwokR-pf-Ibh9FlY",
+            "plus_code":{
+                  "compound_code":"M3FJ+CV Brooklyn, NY, USA",
+                  "global_code":"87G8M3FJ+CV"
+            },
+            "reference":"ChIJlREM489dwokR-pf-Ibh9FlY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1505 Saint Marks Avenue, Brooklyn",
+            "CBG":360470363004,
+            "Radius":121.7813377208
+      }
+]

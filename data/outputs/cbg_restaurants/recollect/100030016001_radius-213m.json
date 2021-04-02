@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.7481948,
+                        "lng":-75.5522632
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.7494222303,
+                              "lng":-75.5506091697
+                        },
+                        "southwest":{
+                              "lat":39.7467242697,
+                              "lng":-75.5533071303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Semo's Gyros & Shish Kababs",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116023016216120558685\">Michael DePouw<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJEtbOX-7EkwBaIK646RhoCpZPttqvRBqZAGRPsJjbzImtSAkqaqCsx3SZOBa-qZOL-l41IibJBKEKH8sCA-c8CV5LOhsUHE6OuqGKxN_Qt_HLEX0HDei-hmxTml5leWA8FtiXGMac8ukKeJt06on3Os1XNLI-JgiB9xYeoQiXq8AUT",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJryN9PxX9xokRJ6-wNLZeInc",
+            "plus_code":{
+                  "compound_code":"PCXX+73 Wilmington, DE, USA",
+                  "global_code":"87F6PCXX+73"
+            },
+            "rating":5,
+            "reference":"ChIJryN9PxX9xokRJ6-wNLZeInc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"1055-1001 North Jefferson Street, Wilmington",
+            "CBG":100030016001,
+            "Radius":213.0456366385
+      }
+]

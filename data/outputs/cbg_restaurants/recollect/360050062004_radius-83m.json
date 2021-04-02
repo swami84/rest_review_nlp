@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8311323,
+                        "lng":-73.8748785
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8324812803,
+                              "lng":-73.8735295197
+                        },
+                        "southwest":{
+                              "lat":40.8297833197,
+                              "lng":-73.8762274803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacopeton",
+            "place_id":"ChIJO8OMUu70wokRrOsoXE2dF6I",
+            "plus_code":{
+                  "compound_code":"R4JG+F2 The Bronx, NY, USA",
+                  "global_code":"87G8R4JG+F2"
+            },
+            "rating":3,
+            "reference":"ChIJO8OMUu70wokRrOsoXE2dF6I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1256 Morrison Avenue, The Bronx",
+            "CBG":360050062004,
+            "Radius":82.9550566838
+      }
+]

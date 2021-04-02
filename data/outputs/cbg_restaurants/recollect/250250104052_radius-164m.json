@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3437623,
+                        "lng":-71.0896231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3451838303,
+                              "lng":-71.0882607197
+                        },
+                        "southwest":{
+                              "lat":42.3424858697,
+                              "lng":-71.0909586803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cappy's Pizza & Subs",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1836,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101748975953848293547\">Jesse Call<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLm3gXSmXO4O6YCe8OMyn_OT5GCVLPkCORL0OOwLcMDU78qLz9EIlWrZBFQcnyRSaJ3cslC4iO0klMrU0XGMSZbnfVqktroHe9MTLvgKBm2aJG_349DIQUvtvHgacuC2BcZyY4NdhJUWwqbu2oWaeH8SMEKbQHH-OJ9-BRgEwttadqK",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJS85s3Bt644kRWoREI1lr6Qs",
+            "plus_code":{
+                  "compound_code":"8WV6+G5 Boston, MA, USA",
+                  "global_code":"87JC8WV6+G5"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJS85s3Bt644kRWoREI1lr6Qs",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":335,
+            "vicinity":"82 Westland Avenue, Boston",
+            "CBG":250250104052,
+            "Radius":164.0239918126
+      }
+]

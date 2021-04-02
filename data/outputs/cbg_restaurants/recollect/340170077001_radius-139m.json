@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7254388,
+                        "lng":-74.0325036
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7268206303,
+                              "lng":-74.0311818697
+                        },
+                        "southwest":{
+                              "lat":40.7241226697,
+                              "lng":-74.0338798303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Battello",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101046287573562203516\">Battello<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJr23n4xQGkAxcXVen46bG-ZEaveaZPAHbnK1LFv9PJQwNkw1aBCVXnLEnAEieI5qGH-cMQudK9JcuYRF0ThRBvvxiG4ERyIeM90sODprgsVi5Fj1OFeq0PP7j1QYfa3PMi2YJkuNne1FPvVv4D16RMfxuogC9zU_9QpF0pz-Meaqsc",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJi7KwrlVXwokRfcjuKQzm0v4",
+            "plus_code":{
+                  "compound_code":"PXG8+5X Jersey City, NJ, USA",
+                  "global_code":"87G7PXG8+5X"
+            },
+            "price_level":3,
+            "rating":4.4,
+            "reference":"ChIJi7KwrlVXwokRfcjuKQzm0v4",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1053,
+            "vicinity":"502 Washington Boulevard, Jersey City",
+            "CBG":340170077001,
+            "Radius":139.4986555199
+      }
+]

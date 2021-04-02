@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.783561,
+                        "lng":-80.34721
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7849016303,
+                              "lng":-80.3459515197
+                        },
+                        "southwest":{
+                              "lat":25.7822036697,
+                              "lng":-80.3486494803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cafe Lago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116191037969310483027\">Cesar Liccardo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxB4H2_oo3v0bwW5cxQJST9JDJ3AKmiRdefwB3jQvFMfzypkVHq42cZ2IRM5-mEF7m78Kdjg3FuF9q8xKKJOAxWeJWJ8BTm6gwgrIqUsPbjdTrpveX4SgJLGlc9N4GLfFGThVsykhnZ7Y0ToWR0aRuP2vtsy_QDi33CA747ej7JxeK",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJQ8XzbDy52YgR9thZ7LpfUz0",
+            "plus_code":{
+                  "compound_code":"QMM3+C4 Miami, FL, USA",
+                  "global_code":"76QXQMM3+C4"
+            },
+            "rating":4,
+            "reference":"ChIJQ8XzbDy52YgR9thZ7LpfUz0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":35,
+            "vicinity":"9333 Northwest 12th Street, Miami",
+            "CBG":120860090243,
+            "Radius":412.6999562627
+      }
+]

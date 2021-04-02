@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9161392,
+                        "lng":-118.371819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9174881803,
+                              "lng":-118.3704700197
+                        },
+                        "southwest":{
+                              "lat":33.9147902197,
+                              "lng":-118.3731679803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Oscar's Restaurant Bar & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":726,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111036502614055254589\">Oscar&#39;s Restaurant Bar &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJNJ2D1XMEtQ4Q12FlM30KtOe2AQLJKsKEfu7lp05Ax65u7vo3mnZQhnKA54Y9PwwD6qAG5khVnqJ8uvGuI5oXVLTYvm_H6fzUXIGAmEYX_4lCadEUQ78OBHpxwM9RENct3EKJKI8SFWZl_DQO6YqrSNdUZLy7ggpn_Uqv4PBUCKKM",
+                        "width":844
+                  }
+            ],
+            "place_id":"ChIJT82YqKG2woARG-1guIK-6HA",
+            "plus_code":{
+                  "compound_code":"WJ8H+F7 Hawthorne, CA, USA",
+                  "global_code":"8553WJ8H+F7"
+            },
+            "rating":4.1,
+            "reference":"ChIJT82YqKG2woARG-1guIK-6HA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":101,
+            "vicinity":"5250 West El Segundo Boulevard, Hawthorne",
+            "CBG":60376023023,
+            "Radius":430.2799173448
+      }
+]

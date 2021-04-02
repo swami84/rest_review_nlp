@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8683077,
+                        "lng":-73.9001592
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8695493803,
+                              "lng":-73.8988560697
+                        },
+                        "southwest":{
+                              "lat":40.8668514197,
+                              "lng":-73.9015540303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117606218579553483268\">Jose Marquez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKruNgjlLh78zfxdKWCGt4yYDlYGAFmdaP5eUjjHkDC4LMauqnnAHOmpOi4F4kksyehA7-8vA4UtRF0e3O3gBHH0_N_q5JfDxGhfjgVl4XGmjvGPybiVW4fV4wvNZD6IOG3piGoIV32MykozBCdiGGX9MroIn_r68R1ir-CmVkPdu_P",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJj_iNlIXzwokRg8_5SEp8WHk",
+            "plus_code":{
+                  "compound_code":"V39X+8W The Bronx, NY, USA",
+                  "global_code":"87G8V39X+8W"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJj_iNlIXzwokRg8_5SEp8WHk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":127,
+            "vicinity":"67 West Kingsbridge Road, The Bronx",
+            "CBG":360050267013,
+            "Radius":78.3533201264
+      }
+]

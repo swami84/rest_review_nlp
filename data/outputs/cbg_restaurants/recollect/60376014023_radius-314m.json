@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9501288,
+                        "lng":-118.3699427
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9514772803,
+                              "lng":-118.3686683197
+                        },
+                        "southwest":{
+                              "lat":33.9487793197,
+                              "lng":-118.3713662803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Danesi Caffe",
+            "place_id":"ChIJubnYGN62woAR7t0C-jXxq4g",
+            "plus_code":{
+                  "compound_code":"XJ2J+32 Inglewood, CA, USA",
+                  "global_code":"8553XJ2J+32"
+            },
+            "rating":5,
+            "reference":"ChIJubnYGN62woAR7t0C-jXxq4g",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"9440 South La Cienega Boulevard, Inglewood",
+            "CBG":60376014023,
+            "Radius":314.2925925628
+      }
+]

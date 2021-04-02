@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0576966,
+                        "lng":-118.2527352
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0589127803,
+                              "lng":-118.2511794197
+                        },
+                        "southwest":{
+                              "lat":34.0562148197,
+                              "lng":-118.2538773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Speedy Dog Mobile Cart",
+            "photos":[
+                  {
+                        "height":2610,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100427115009562063695\">Mikie Sandoval<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI8JQmUlukQFzUbr0RUi_HRdGq2Uh3WPMM7k9hh_omzqSMrDWRr_83y8ZZg3vUq21VbChoHZiI9hJaL0TdquaEiIFi4kAOOL958IMobNUNBPAlEL-ba1GWwLOs4TtQ7WwcgT2nwmskF6ckR7IJoCxvEYn7vK9ffUagq3blcUt4w2gNw",
+                        "width":4640
+                  }
+            ],
+            "place_id":"ChIJySBfK63HwoARrJKhhZS7sR8",
+            "plus_code":{
+                  "compound_code":"3P5W+3W Los Angeles, CA, USA",
+                  "global_code":"85633P5W+3W"
+            },
+            "rating":4.1,
+            "reference":"ChIJySBfK63HwoARrJKhhZS7sR8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"123 South Figueroa Street #1539, Los Angeles",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":60372075011,
+            "Radius":206.7791384096
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0572464,
+                        "lng":-118.2528775
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0584589303,
+                              "lng":-118.2514559697
+                        },
+                        "southwest":{
+                              "lat":34.0557609697,
+                              "lng":-118.2541539303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crepes De Paris",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106490443653011472160\">Bobo Zheng<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL7NZ9VbrvZIaKYr1efbiwEGrdSu32WoT749_eqSoIKJ4NFrqKhuxeOM2A_AkhhilR9zdwYYZdTikpbB38vFmkGR9QihN-D5KkTzTCy16WxEZHJVFqtphLcaj43X6xE_JI4HAgw2dYltDCtGpZKaRTq6mGgMTWRjli596sdxuecDEJC",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq1ZFMq3HwoARjAiaIuq5CAk",
+            "plus_code":{
+                  "compound_code":"3P4W+VR Los Angeles, CA, USA",
+                  "global_code":"85633P4W+VR"
+            },
+            "rating":4.6,
+            "reference":"ChIJq1ZFMq3HwoARjAiaIuq5CAk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":198,
+            "vicinity":"Prominade Towers, 123 South Figueroa Street #122, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":2.0,
+            "CBG":60372075011,
+            "Radius":206.7791384096
+      }
+]

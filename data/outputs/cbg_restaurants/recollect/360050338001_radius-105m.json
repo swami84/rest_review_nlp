@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8712039,
+                        "lng":-73.8665138
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8726665303,
+                              "lng":-73.8651950697
+                        },
+                        "southwest":{
+                              "lat":40.8699685697,
+                              "lng":-73.8678930303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Feroza's Roti",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117332435374187806653\">Rajiv Wallace<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZYRdBzZdV5qmfGjnFv5uRoTZ3nSmU8NAp7oB82POmlUXgsX4KY7tyWg-vQ3P4lkdV7nWSefUG2Hpr38o8_nrRX5lMbvC6kr7gzEmduCQQbk1k9lPeOtm7bU-PwZ0kwWJdXW99e2MLmM5iU06HgvWDQU9xdf4XSMCXiSwwyOMW9SMb",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJUXes9mnzwokRqbmpmk_AypQ",
+            "plus_code":{
+                  "compound_code":"V4CM+F9 New York, NY, USA",
+                  "global_code":"87G8V4CM+F9"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJUXes9mnzwokRqbmpmk_AypQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":581,
+            "vicinity":"716 Burke Avenue, The Bronx",
+            "opening_hours":null,
+            "CBG":360050338001,
+            "Radius":105.444603107
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8712284,
+                        "lng":-73.8668189
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8726802803,
+                              "lng":-73.8655282197
+                        },
+                        "southwest":{
+                              "lat":40.8699823197,
+                              "lng":-73.8682261803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"K Q",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105399430386139946681\">halima low<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKVGNtkp5zq7e_V1IsdDVff_RyGH5mr0IV2zWQsCBBlthDhOt4dy-KNQ_Bu--0B0KlTPivmpWZLTS_HmBhgnPLdRAe-NTahdznNnRuA0BL0eSkefjGtSvc1nAuVwC3rvCSTSDvGK2ENox4yRhcKfxNTYfiTLCSuQEyu_pYCHEU1ZgfU",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ69Um82nzwokRiBmeYKesS4Q",
+            "plus_code":{
+                  "compound_code":"V4CM+F7 New York, NY, USA",
+                  "global_code":"87G8V4CM+F7"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJ69Um82nzwokRiBmeYKesS4Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":92,
+            "vicinity":"706 Burke Avenue, The Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360050338001,
+            "Radius":105.444603107
+      }
+]

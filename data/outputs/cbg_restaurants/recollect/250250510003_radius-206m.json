@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":42.3825354,
+                        "lng":-71.0181793
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3838147303,
+                              "lng":-71.0168617197
+                        },
+                        "southwest":{
+                              "lat":42.3811167697,
+                              "lng":-71.0195596803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Food for Thought",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102885752712162571858\">Eric Burkman<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvOFRPygaVzxJzo8sNc2Dwa0BfgOjHxoM-Uhk-C7QmC4GK4UE9rux9Q_HCdZfZaX0svUQVAHjOgWArsWQi-GQLwa06FLQjBcIlZkWpqjh7rkwRh8R8n5E3lfEYtuUg_uVzDjZRNEwginUWYVuOOtL4g7KQHKS4s4-dDkxfaT74GAtE",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUxSEAqpx44kRNQAu-vSz0LY",
+            "plus_code":{
+                  "compound_code":"9XMJ+2P East Boston, Boston, MA, USA",
+                  "global_code":"87JC9XMJ+2P"
+            },
+            "rating":5,
+            "reference":"ChIJUxSEAqpx44kRNQAu-vSz0LY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"567 Bennington Street, East Boston",
+            "CBG":250250510003,
+            "Radius":205.6786381317
+      }
+]

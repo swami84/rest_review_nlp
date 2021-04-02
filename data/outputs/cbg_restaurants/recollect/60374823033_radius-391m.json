@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0694909,
+                        "lng":-118.0908082
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0708407803,
+                              "lng":-118.0893539697
+                        },
+                        "southwest":{
+                              "lat":34.0681428197,
+                              "lng":-118.0920519303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Karina's Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104431272774682509472\">gloss expert<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIq9wBFe_TCMPga-S6jOO511ZnIXkLO2_vhv9F2kCqV_8nBPju65ZVtQehoGK95PSLu_aInmLcQ1bxxtiktl4Ru81REd2q1OBwjblQqqoJYpdBngG_1Q-AppN8hNVZ67W9P3CXjwrRdNsfx2oXNq8dg5fOJoMjWFb1-pxbCXCULtaJ5",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJv3j0j6HawoARDp2SId1EV4E",
+            "plus_code":{
+                  "compound_code":"3W95+QM Rosemead, CA, USA",
+                  "global_code":"85633W95+QM"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJv3j0j6HawoARDp2SId1EV4E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":196,
+            "vicinity":"3361 San Gabriel Boulevard, Rosemead",
+            "CBG":60374823033,
+            "Radius":390.6054440935
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.3309976,
+                        "lng":-121.8337982
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.3324617803,
+                              "lng":-121.8326760197
+                        },
+                        "southwest":{
+                              "lat":37.3297638197,
+                              "lng":-121.8353739803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tropic-Cal Ice Cream Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113753965187641031857\">Livid Snacks<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKdH8VeXtXbk9jpTtNOZ9Prh9DN7Le0ZGtb3umf07XTdt3wvW82ARjVhQl-K8nVYdUPSfLtLR1-Cg9XfYlqGLmVFxxiLgJLXwLrHnxT8lUxQchGju8wpnjzLuL7gJGc2FcBj0XdT83jZjm3v3mCS-D3u6BOrNu5-1eeCjmINaW4d7ns",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJYQu6-skyjoARDkqQrb1ogvE",
+            "plus_code":{
+                  "compound_code":"85J8+9F San Jose, CA, USA",
+                  "global_code":"849W85J8+9F"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJYQu6-skyjoARDkqQrb1ogvE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":44,
+            "vicinity":"1716 Ocala Avenue, San Jose",
+            "CBG":60855034013,
+            "Radius":313.1175945926
+      }
+]

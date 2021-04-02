@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.739028,
+                        "lng":-74.218437
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7403554803,
+                              "lng":-74.2169997197
+                        },
+                        "southwest":{
+                              "lat":40.7376575197,
+                              "lng":-74.2196976803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"njNJ 07111",
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105659709003242902382\">njNJ 07111<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLHT90ggElyz5ZzdykyXWyHkhUD9sFgh5t-jG_elokU42J5lMfbJGABzY_vGluMrsFWzdFveZJQhhVx6M9ZlrBoB2XHG-PUH_oVWCnm9wwtfO3DHc5sdyjUUwZ5Mb482ExLB3oBmgkZgIONTG0c47ik1Vn6cVnt8zDEizCVBtrN-whx",
+                        "width":3120
+                  }
+            ],
+            "place_id":"ChIJY9-gXUitw4kRe3jgvJDkUhk",
+            "plus_code":{
+                  "compound_code":"PQQJ+JJ East Orange, NJ, USA",
+                  "global_code":"87G7PQQJ+JJ"
+            },
+            "rating":1.0,
+            "reference":"ChIJY9-gXUitw4kRe3jgvJDkUhk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"399 Myrtle Avenue, East Orange",
+            "opening_hours":null,
+            "CBG":340130126001,
+            "Radius":161.3858362035
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7390151,
+                        "lng":-74.2184818
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7403530303,
+                              "lng":-74.2170221197
+                        },
+                        "southwest":{
+                              "lat":40.7376550697,
+                              "lng":-74.2197200803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Royal Taste Caribbean Restaurant",
+            "photos":[
+                  {
+                        "height":810,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118201246502682104273\">Royal Taste Caribbean Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLqDCMEWP-ShK1cA4FsM-pdwE853HCs51e-_PnOyK78Q3hmuALaNX4AmiAfK1cLGrqYZ5Fs3uIACI-PgI0MOb95K-USwlfjP17iMuH4F7uu73f5s8jCVEfNre8Zu5tKBHKhJGh2_j3w8j-cijCRglt9LKKl7VQHODD2ETz1bMgPIyPA",
+                        "width":1440
+                  }
+            ],
+            "place_id":"ChIJPf79Vq2sw4kR34mCypbDlG0",
+            "plus_code":{
+                  "compound_code":"PQQJ+JJ Irvington, NJ, USA",
+                  "global_code":"87G7PQQJ+JJ"
+            },
+            "rating":4.7,
+            "reference":"ChIJPf79Vq2sw4kR34mCypbDlG0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":137,
+            "vicinity":"399 Myrtle Avenue, Irvington",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":340130126001,
+            "Radius":161.3858362035
+      }
+]

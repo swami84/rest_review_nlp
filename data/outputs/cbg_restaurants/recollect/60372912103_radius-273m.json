@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.881479,
+                        "lng":-118.2896955
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8829110803,
+                              "lng":-118.2883497697
+                        },
+                        "southwest":{
+                              "lat":33.8802131197,
+                              "lng":-118.2910477303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The pan",
+            "place_id":"ChIJk6uoarnLwoARg31zIciV1gU",
+            "plus_code":{
+                  "compound_code":"VPJ6+H4 Gardena, CA, USA",
+                  "global_code":"8553VPJ6+H4"
+            },
+            "reference":"ChIJk6uoarnLwoARg31zIciV1gU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"818 West Gardena Boulevard, Gardena",
+            "CBG":60372912103,
+            "Radius":273.1621622762
+      }
+]

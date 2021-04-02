@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":36.114897,
+                        "lng":-115.139774
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.1162578803,
+                              "lng":-115.1384920197
+                        },
+                        "southwest":{
+                              "lat":36.1135599197,
+                              "lng":-115.1411899803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Raising Cane's Chicken Fingers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114468080522105209758\">Mark Pain Wilson<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLB-aXgXHw8m3MDWJ460hMeFJ2h2PRH2rOeYgiJTUJcTaa5nX_5TjRcc4H0K6iZBV2jHEjATazMluumxJnvDYN9A5DGEokmekV45IKuzsMIEeJrMt6AhXX8q_7eSjXm6_vqJHMdNLP759N-SEj6oDlHU5fClulPji02AvNcC611aBCT",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJdSA2NP_EyIAR5_iGa8m_jko",
+            "plus_code":{
+                  "compound_code":"4V76+X3 Las Vegas, NV, USA",
+                  "global_code":"85864V76+X3"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJdSA2NP_EyIAR5_iGa8m_jko",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1839,
+            "vicinity":"1120 East Flamingo Road, Las Vegas",
+            "CBG":320030026033,
+            "Radius":245.3290679669
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":36.115118,
+                        "lng":-115.14178
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.1163575303,
+                              "lng":-115.1404651197
+                        },
+                        "southwest":{
+                              "lat":36.1136595697,
+                              "lng":-115.1431630803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"India Oven Masala Bar & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114349625765015368710\">India Oven Masala Bar &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJg_84_A7k8w2SZOQ5Fecbgql4CE8-DBtU4GXmA95kME7BmhZLZE_ecgLCSwY9FjvZLCFtXj39zN3Gt468SWh6yqy3j4r379JspXspcCbwrsCkz_aFnkFrUjFqO3j41JpX-WlBCJ-JZBl0hyXiBPzro3WaFJQr9VwOJ6eDF0dSd6Gh5",
+                        "width":3888
+                  }
+            ],
+            "place_id":"ChIJwTNXmfjEyIARvVgN4n4f85c",
+            "plus_code":{
+                  "compound_code":"4V85+27 Las Vegas, NV, USA",
+                  "global_code":"85864V85+27"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJwTNXmfjEyIARvVgN4n4f85c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":608,
+            "vicinity":"1040 East Flamingo Road, Las Vegas",
+            "CBG":320030026033,
+            "Radius":245.3290679669
+      }
+]

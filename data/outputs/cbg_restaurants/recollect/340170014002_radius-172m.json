@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7349586,
+                        "lng":-74.0528717
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7363481303,
+                              "lng":-74.0515893197
+                        },
+                        "southwest":{
+                              "lat":40.7336501697,
+                              "lng":-74.0542872803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King's Wok",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101759276854890561725\">C J CHEN<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLQ6QiaOQURRqTqj7YXpIKpZSffmzVDWmtyr6wDNtUHn2PTJfr9wrjL_kPkbWzu0H5LutXbZK0GmAjz1IoaAXIzYLGY6mq0kUvR7dlkek5j-Kkyvuu43KhuhJiP-YVnjJ1Q7BQ9QIU9z7DA0HoJ8c2o9HoaxL-iSoOS5IyylKxnE8GZ",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJE2LUHEhXwokRmarAFDCvQkc",
+            "plus_code":{
+                  "compound_code":"PWMW+XV Jersey City, NJ, USA",
+                  "global_code":"87G7PWMW+XV"
+            },
+            "rating":3.9,
+            "reference":"ChIJE2LUHEhXwokRmarAFDCvQkc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"418 Baldwin Avenue, Jersey City",
+            "CBG":340170014002,
+            "Radius":171.8575555783
+      }
+]

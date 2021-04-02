@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8199129,
+                        "lng":-84.3194635
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8212562803,
+                              "lng":-84.3179836697
+                        },
+                        "southwest":{
+                              "lat":33.8185583197,
+                              "lng":-84.3206816303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"EB Catering Co. | Kosher Catering | Atlanta GA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1079,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104929615834511403933\">EB Catering Co. | Kosher Catering | Atlanta GA<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL6Oeyrq_GGTF07Rtk6TwrwQ37PHWyOrs96LH2cfWivC92hhP-mxXdGtFfDKg_9u73L_tsc7bsI1Bnjq1E8mqlG5ipuFscPCA11-i6cIJlPyRQRyexAUaUZIMU11cX-6OvFCMLOeNtfnPFcT716gu8RpWTcRwi7F1M3l2TmBoD_I-b2",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJB5EgUlcH9YgRKKs-WkaEfSI",
+            "plus_code":{
+                  "compound_code":"RM9J+X6 Atlanta, GA, USA",
+                  "global_code":"865QRM9J+X6"
+            },
+            "rating":5,
+            "reference":"ChIJB5EgUlcH9YgRKKs-WkaEfSI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1280 Holly Lane Northeast, Atlanta",
+            "CBG":130890215032,
+            "Radius":458.9116130444
+      }
+]

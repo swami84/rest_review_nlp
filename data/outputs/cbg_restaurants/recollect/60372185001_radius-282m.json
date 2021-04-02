@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0378379,
+                        "lng":-118.3483156
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0391695303,
+                              "lng":-118.3470439697
+                        },
+                        "southwest":{
+                              "lat":34.0364715697,
+                              "lng":-118.3497419303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Menchita's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2322,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100251578359018436569\">Geo Valdez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJFosaUSCMlEfaNgaRV4m67gB01yVVqzsr8fmKYAwOnVZkoAaJuw2dFrxQu0ULCsgrSoJ_ETMGIYyNNCZplwi1h5Jr145sJ2zzi37Vq_qE0cNIiX3LBE0aJgKA5RP3yYUpRTLO12gNsVL8sYtV8QEt5iEN7oWHUX1ZtVPmwFz-jXnDr",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJN8mjbau5woARoYoD3Mvt49U",
+            "plus_code":{
+                  "compound_code":"2MQ2+4M Los Angeles, CA, USA",
+                  "global_code":"85632MQ2+4M"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJN8mjbau5woARoYoD3Mvt49U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":428,
+            "vicinity":"2116 South La Brea Avenue, Los Angeles",
+            "CBG":60372185001,
+            "Radius":281.6187783368
+      }
+]

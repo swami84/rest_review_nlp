@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8630004,
+                        "lng":-73.866264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8643268303,
+                              "lng":-73.8648641697
+                        },
+                        "southwest":{
+                              "lat":40.8616288697,
+                              "lng":-73.8675621303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tajdar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJjSYTXWfzwokRBgbPDrwmUBc",
+            "plus_code":{
+                  "compound_code":"V47M+6F New York, NY, USA",
+                  "global_code":"87G8V47M+6F"
+            },
+            "rating":4.1,
+            "reference":"ChIJjSYTXWfzwokRBgbPDrwmUBc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"2475 Boston Road, The Bronx",
+            "CBG":360050330004,
+            "Radius":144.4854164803
+      }
+]

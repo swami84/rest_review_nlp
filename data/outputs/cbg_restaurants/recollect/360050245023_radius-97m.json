@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8541222,
+                        "lng":-73.9148464
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8554131303,
+                              "lng":-73.9135272197
+                        },
+                        "southwest":{
+                              "lat":40.8527151697,
+                              "lng":-73.9162251803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Patio's Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":601,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110569429544127371812\">Patio&#39;s Deli<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIC83van7JEj8mfxe-UdzRv4QmZ8PltGOZyFj1IEYc5tNipwgkOElhYEhLVOuSyyPsF-eComUGMUM3b_Xi-eRYEcWfDhbFNvtQe34wsuXlL-92ED4hgmCKBgXpm0GyGez_-PeissBNFP09j0ijsanscCH5LGtiJY8B5E8hvisK9CzvT",
+                        "width":828
+                  }
+            ],
+            "place_id":"ChIJD9oulOH1wokRm-udMHdiWng",
+            "plus_code":{
+                  "compound_code":"V33P+J3 New York, NY, USA",
+                  "global_code":"87G8V33P+J3"
+            },
+            "rating":5,
+            "reference":"ChIJD9oulOH1wokRm-udMHdiWng",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"173 West Burnside Avenue, The Bronx",
+            "CBG":360050245023,
+            "Radius":97.1504319869
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8541399,
+                        "lng":-73.9149085
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8554310803,
+                              "lng":-73.9135892197
+                        },
+                        "southwest":{
+                              "lat":40.8527331197,
+                              "lng":-73.9162871803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizzeria La Grande",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109817385876224925198\">fredy ramirez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJJJIN7ifYWWX--CX-dqwUW452NjAnKxPpWTm6Oolg89EFPbzOR97i-EvZHBSjEZH0KePWUtWDwtHVhTUnw2UevAE8YHiNtCKUWDDHC98_2dts3Sy27Aor5Iv0nM90RdweS8y_NJfq-rA1luWw4MfiH-1b_xPfCFHX8MjJE8n1zbZOI",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ0fLSBDz1wokRyLMGd2D7Ncc",
+            "plus_code":{
+                  "compound_code":"V33P+M2 New York, NY, USA",
+                  "global_code":"87G8V33P+M2"
+            },
+            "rating":5,
+            "reference":"ChIJ0fLSBDz1wokRyLMGd2D7Ncc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"175 West Burnside Avenue, The Bronx",
+            "CBG":360050245023,
+            "Radius":97.1504319869
+      }
+]

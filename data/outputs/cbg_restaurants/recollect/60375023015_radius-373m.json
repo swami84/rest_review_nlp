@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9678212,
+                        "lng":-118.0823359
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9691541803,
+                              "lng":-118.0809123197
+                        },
+                        "southwest":{
+                              "lat":33.9664562197,
+                              "lng":-118.0836102803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Denny's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2952,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110390525187900132414\">Jason Cunningham<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5VYuCDojq0Kqg1xZfjaWWbxxCcyDLH7LE0uzENtVKP1WVcMuRQtQx6mLTV2Jd58TpDHGLyzFhjZ-mKEaDpNHIWwUU2ydQ9KMQomPC4G7gWJfOAyn8CrheXlt8_geotUPl_FFUBW55QnZUKoMmvvpWHea5BWNveYy3MrzkNAwzz-M",
+                        "width":5248
+                  }
+            ],
+            "place_id":"ChIJQd9KPjnSwoARk0BK_r6uWjk",
+            "plus_code":{
+                  "compound_code":"XW99+43 Whittier, CA, USA",
+                  "global_code":"8553XW99+43"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJQd9KPjnSwoARk0BK_r6uWjk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1020,
+            "vicinity":"8425 Pioneer Boulevard, Whittier",
+            "CBG":60375023015,
+            "Radius":373.316620522
+      }
+]

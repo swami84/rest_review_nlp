@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8428485,
+                        "lng":-73.8514369
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8441399803,
+                              "lng":-73.8500757197
+                        },
+                        "southwest":{
+                              "lat":40.8414420197,
+                              "lng":-73.8527736803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"D & W FRESH RESTAURANT CAFE",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116331380251008962401\">D &amp; W FRESH RESTAURANT CAFE<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKaoUUYOxa2TMXwbHQo5hGxdTSwM8Om83v7fvbAftvNTb2K2KKvLnQBatYcGxSv9M3I3lLt2kkxMptW3Wcj94er7DOHrvroJTr9oN5rpsFH4Rg74jrwaP9UqEN9M7zxqJ1Z1uWP70y5AxpC1KvK3Avb3Pwa4qsOCR3ruBnWKWb_YLkB",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJTxUx9on1wokR0hDyg-UJPC0",
+            "plus_code":{
+                  "compound_code":"R4VX+4C New York, NY, USA",
+                  "global_code":"87G8R4VX+4C"
+            },
+            "rating":4.3,
+            "reference":"ChIJTxUx9on1wokR0hDyg-UJPC0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"2459 East Tremont Avenue, The Bronx",
+            "CBG":360050256002,
+            "Radius":177.3216536893
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.842426,
+                        "lng":-73.851291
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8438949803,
+                              "lng":-73.8499664197
+                        },
+                        "southwest":{
+                              "lat":40.8411970197,
+                              "lng":-73.8526643803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hectore & Marco Pizzeria Restaurant Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113870786337818668490\">Blanca<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKTdFGBhZAgUthohIrTWOSJxz4dxuG5GIU9fD_HwFSJml8kHXmXoy6XFY4su5be9uGPEZ7zHny8DLwZ0ejqNr_Pvc5PIoCIAqS5Pn67LVXajzMIw9lWBxrU6lRn6VMpvHPfInArChMbIoTedB8gTiRxZ4INIET6Z9F-z7Fuz1dMRrxc",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJu7c9eJX1wokRYXCmEOQhiIw",
+            "plus_code":{
+                  "compound_code":"R4RX+XF New York, NY, USA",
+                  "global_code":"87G8R4RX+XF"
+            },
+            "rating":4.4,
+            "reference":"ChIJu7c9eJX1wokRYXCmEOQhiIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":17,
+            "vicinity":"2454 East Tremont Avenue, The Bronx",
+            "CBG":360050256002,
+            "Radius":177.3216536893
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6821721,
+                        "lng":-73.9255998
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6835210803,
+                              "lng":-73.9242508197
+                        },
+                        "southwest":{
+                              "lat":40.6808231197,
+                              "lng":-73.9269487803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mitchell's Kitchen",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100590308727019590352\">Rickie Lee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLRmqesNJ6EBQ1v8ZYMaTgWyMRfyXSbJVGAcT6H6bgebabeIujVeTXxKlLTbyvzQ90tH_uWuKn9wiilh70Mc-_zECVFqALO-elldMOKoYCY_7f8hLZVavXVDHR8lkf0kWzSVyzPtLDW5RS8nfejQRADIlYx0KDwdBxFhmaLQ_-ja5pn",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJPSA6jXFcwokRQpNHo2z9Gus",
+            "plus_code":{
+                  "compound_code":"M3JF+VQ Brooklyn, NY, USA",
+                  "global_code":"87G8M3JF+VQ"
+            },
+            "rating":4.1,
+            "reference":"ChIJPSA6jXFcwokRQpNHo2z9Gus",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":93,
+            "vicinity":"261 Patchen Avenue, Brooklyn",
+            "CBG":360470381001,
+            "Radius":121.2771409248
+      }
+]

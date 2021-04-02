@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNmVTWm5BRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Shanny B",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111788571076005194835/reviews?hl=en-US",
+        "census_block_group": 360470051002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRdTY2ZDlBRRAB",
+        "caption": "Great staff and service. Coffee is better than Starbucks!!!!!",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Mister Bynum",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100747261558208512159/reviews?hl=en-US",
+        "census_block_group": 360470051002
+    }
+]

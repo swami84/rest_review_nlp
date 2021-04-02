@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7618033,
+                        "lng":-74.2029172
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7631681303,
+                              "lng":-74.2015585197
+                        },
+                        "southwest":{
+                              "lat":40.7604701697,
+                              "lng":-74.2042564803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"One Stop Island Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":935,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117383237208128739424\">One Stop Island Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIm1jQ65uTJm6_4pBPDw-Bm5e6eGMIkPuAmkv_oo9PpO2fSgmQZslM5IjN7wpDh7Q6w83mmv2i0mI6pJ7hv8brlwMpL0Q0IBP27NnAVQQv0GNDE6y1jzgvY2ymQ59rx9CIpsY2GVe29mkp9aAJnKBCovz0zgjKiwxqcq1ZD3SFA7HQa",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJW5dkeblUwokR6sJLFsQeHEg",
+            "plus_code":{
+                  "compound_code":"QQ6W+PR East Orange, NJ, USA",
+                  "global_code":"87G7QQ6W+PR"
+            },
+            "rating":4.6,
+            "reference":"ChIJW5dkeblUwokR6sJLFsQeHEg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":21,
+            "vicinity":"188A William Street, East Orange",
+            "CBG":340130107003,
+            "Radius":228.8440860379
+      }
+]

@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.039547,
+                        "lng":-118.3309427
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0409704303,
+                              "lng":-118.3294671197
+                        },
+                        "southwest":{
+                              "lat":34.0382724697,
+                              "lng":-118.3321650803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110163259966801218753\">Rosa Guillen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLq852ePro_gO3BhJitY7rU8aVXPHPzv9gfjkplXOnqiMRaGygV2VJxMPkicncFusCURclMVSwGXQhCX7y-wnHWQqlDm3RLbw5oXvFCrnCBbBILkgzGrk94O4gZC56P_chfrmDbtHD5t3zaB-Co3LM-WXp8iZmh4Th0tSI8MVmDivwD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhVLyuVu4woARyfKHtOiLRbw",
+            "plus_code":{
+                  "compound_code":"2MQ9+RJ Los Angeles, CA, USA",
+                  "global_code":"85632MQ9+RJ"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJhVLyuVu4woARyfKHtOiLRbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1150.0,
+            "vicinity":"1906 Crenshaw Boulevard, Los Angeles",
+            "CBG":60372187011,
+            "Radius":269.6690469955
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0381775,
+                        "lng":-118.3273728
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0394244803,
+                              "lng":-118.3260254697
+                        },
+                        "southwest":{
+                              "lat":34.0367265197,
+                              "lng":-118.3287234303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fresh Deli Crepes",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":null,
+            "place_id":"ChIJV1cfqpe5woARPGL30ILLz0M",
+            "plus_code":{
+                  "compound_code":"2MQF+73 Los Angeles, CA, USA",
+                  "global_code":"85632MQF+73"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJV1cfqpe5woARPGL30ILLz0M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"3835 West 21st Street, Los Angeles",
+            "CBG":60372187011,
+            "Radius":269.6690469955
+      }
+]

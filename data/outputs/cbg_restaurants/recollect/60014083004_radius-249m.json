@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7637831,
+                        "lng":-122.1660091
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7651633803,
+                              "lng":-122.1646019197
+                        },
+                        "southwest":{
+                              "lat":37.7624654197,
+                              "lng":-122.1672998803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fatboy Meat Market & Deli",
+            "place_id":"ChIJMcYtGDyPj4AR8wkFe6kfiK4",
+            "plus_code":{
+                  "compound_code":"QR7M+GH Oakland, CA, USA",
+                  "global_code":"849VQR7M+GH"
+            },
+            "reference":"ChIJMcYtGDyPj4AR8wkFe6kfiK4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8017 MacArthur Boulevard, Oakland",
+            "CBG":60014083004,
+            "Radius":248.9476548192
+      }
+]

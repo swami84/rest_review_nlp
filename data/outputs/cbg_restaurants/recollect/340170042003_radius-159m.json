@@ -1,0 +1,101 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7181111,
+                        "lng":-74.0755772
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7195258803,
+                              "lng":-74.0742990197
+                        },
+                        "southwest":{
+                              "lat":40.7168279197,
+                              "lng":-74.0769969803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Larsen's Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105218596816548058352\">Thatone Ultimate<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJPGExkDaW-6-28FZJP5uDKXTGeE59_vAut0K7dU1nIV0cYcS77R3jQ_l6xOPHinh1Udr4fwcuiNmfvzntVy2xBOwsl26RG2N5k1fnJmgzU_VEwylw78oK740f9PfZhB8SIxUfwjJwM4aSyFRmSMY4p_i4NHdG3M-um5rPBd-lLRKwu",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK0NYPdhQwokRu9M8MTbCcXU",
+            "plus_code":{
+                  "compound_code":"PW9F+6Q Jersey City, NJ, USA",
+                  "global_code":"87G7PW9F+6Q"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJK0NYPdhQwokRu9M8MTbCcXU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":330,
+            "vicinity":"508 Bergen Avenue, Jersey City",
+            "permanently_closed":null,
+            "CBG":340170042003,
+            "Radius":158.5422923777
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.7185212,
+                        "lng":-74.0750509
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7197647303,
+                              "lng":-74.0736994697
+                        },
+                        "southwest":{
+                              "lat":40.7170667697,
+                              "lng":-74.0763974303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Superhero Subs",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJM-crIdhQwokRuSQDCQgk9eo",
+            "plus_code":{
+                  "compound_code":"PW9F+CX Jersey City, NJ, USA",
+                  "global_code":"87G7PW9F+CX"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJM-crIdhQwokRuSQDCQgk9eo",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":33,
+            "vicinity":"518 Bergen Avenue, Jersey City",
+            "permanently_closed":true,
+            "CBG":340170042003,
+            "Radius":158.5422923777
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5640856,
+                        "lng":-122.3073412
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5654890303,
+                              "lng":-122.3059180197
+                        },
+                        "southwest":{
+                              "lat":37.5627910697,
+                              "lng":-122.3086159803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Suavecito Birria & Tacos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2333,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101561537188538815721\">Suavecito Birria &amp; Tacos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLsOMCKRFHAk6jqIrYEmao_lpnLsaZqHzIFXB7csxVs7stbLfsrGYvhJAJ6lStKu3vxV641MedkQrh44tQ-jyG_2Dzyd-ZtRRibuPzjR4sPsFQEKgMCVNqNJ086GHLN6gDxHJpADmJRJEnpz2WkQMHSitN8L4XwPPyQvSjD_Vr6QUGI",
+                        "width":3500
+                  }
+            ],
+            "place_id":"ChIJkUR07V2fj4AR7gvfwL9kCVs",
+            "plus_code":{
+                  "compound_code":"HM7V+J3 San Mateo, CA, USA",
+                  "global_code":"849VHM7V+J3"
+            },
+            "rating":4.8,
+            "reference":"ChIJkUR07V2fj4AR7gvfwL9kCVs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"1100 South Amphlett Boulevard, San Mateo",
+            "CBG":60816077021,
+            "Radius":324.9056078836
+      }
+]

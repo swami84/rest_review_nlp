@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7239924,
+                        "lng":-74.0421661
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7253258803,
+                              "lng":-74.0408700197
+                        },
+                        "southwest":{
+                              "lat":40.7226279197,
+                              "lng":-74.0435679803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Villa Deli Mini Market",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":350,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101887344118130131282\">Villa Deli Mini Market<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJKMw4zme-lK6QeR5h56O0xkgIXO9Sb-XHvjml9umTjUtye8w4j4Jg56Y1Pr2228j04hTkGcOD2OP_-N3mRykb5r0jBf1_QPSosNV7Hg3PMoOecuX1rkGBCpatY0__PyPPdJSisPq2hpVkvNgEmUCkcLrBWeXCrEoT4tVV6ygFgwwn",
+                        "width":620
+                  }
+            ],
+            "place_id":"ChIJR8VbrLJQwokRVkX2y41j8T8",
+            "plus_code":{
+                  "compound_code":"PXF5+H4 Jersey City, NJ, USA",
+                  "global_code":"87G7PXF5+H4"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJR8VbrLJQwokRVkX2y41j8T8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":48,
+            "vicinity":"198 4th Street, Jersey City",
+            "CBG":340170070001,
+            "Radius":118.1664071436
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0300912,
+                        "lng":-118.2060701
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0314418303,
+                              "lng":-118.2047200697
+                        },
+                        "southwest":{
+                              "lat":34.0287438697,
+                              "lng":-118.2074180303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos El Morro Food Truck Birria Ramen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102620098145959103349\">Leo Ramos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIAglDTrP-tfMdB8gAkpBpmMyowNWjtsyJ1YtUAdDi5A96tau5gFxti6GMoI2CJQfwmuZ0j_zp3782bX-6rH5C3xiuKe9HpwAFju75bVJU3rSuLIYi1N2saRzlJAuF7TDIItUfztX0_KHSI1Y8MOCCL27ksES16vF-o0IsyUHdQuIKo",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJqUj0rrHJwoARR3rWuAooojQ",
+            "plus_code":{
+                  "compound_code":"2QJV+2H Los Angeles, CA, USA",
+                  "global_code":"85632QJV+2H"
+            },
+            "rating":4.7,
+            "reference":"ChIJqUj0rrHJwoARR3rWuAooojQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"3036 1\/2 Whittier Boulevard, Los Angeles",
+            "CBG":60372048103,
+            "Radius":318.6842229793
+      }
+]

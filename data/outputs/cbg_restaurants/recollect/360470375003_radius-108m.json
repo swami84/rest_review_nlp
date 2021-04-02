@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6867391,
+                        "lng":-73.9209337
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6880964303,
+                              "lng":-73.9195062697
+                        },
+                        "southwest":{
+                              "lat":40.6853984697,
+                              "lng":-73.9222042303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taco Market",
+            "place_id":"ChIJS48NqzBdwokRpg-S7AWJBu8",
+            "plus_code":{
+                  "compound_code":"M3PH+MJ Brooklyn, NY, USA",
+                  "global_code":"87G8M3PH+MJ"
+            },
+            "rating":5,
+            "reference":"ChIJS48NqzBdwokRpg-S7AWJBu8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"54 Howard Avenue, Brooklyn",
+            "CBG":360470375003,
+            "Radius":107.8089383313
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9644262,
+                        "lng":-93.2729289
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9657820803,
+                              "lng":-93.2714963697
+                        },
+                        "southwest":{
+                              "lat":44.9630841197,
+                              "lng":-93.2741943303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Boiler Room Coffee",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103374956268146708168\">Scott Jagodzinski<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK7ZWe0YxfmIqef1-HJ5wOaCamBDJgsf00cdbXGeehlx0DYgLkxdZXlVYHbsLXV7Iyx84IEdlBwYBsSyffcz4LoZzTMvkCdxZYokBPuQy4FQnprfwE6qMvTlDRYFJdpUaseX9oMNBWytu4QJ_w4BkQHjLS0OzppDB7mF2CgMdX4haw-",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJS7C_Uboys1IRaHTNTlSvZ-k",
+            "plus_code":{
+                  "compound_code":"XP7G+QR Minneapolis, MN, USA",
+                  "global_code":"86P8XP7G+QR"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJS7C_Uboys1IRaHTNTlSvZ-k",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":347,
+            "vicinity":"1830 3rd Avenue South, Minneapolis",
+            "CBG":270531057003,
+            "Radius":174.4833251465
+      }
+]

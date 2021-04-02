@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0834745,
+                        "lng":-118.3017304
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0848220803,
+                              "lng":-118.3003727697
+                        },
+                        "southwest":{
+                              "lat":34.0821241197,
+                              "lng":-118.3030707303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Al Gusto",
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114062471222709339214\">Melvin Orozco<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9CzTxvfHaJDV6Nxe-_yMlKHpCLzTruHHKamFFiWFJsB2QNLUqL3bD86_J2b_6kXSg7F6InC-VvDdq6haYyMZ3gA-9nogVs1bhrPBpnSAnzGLMyYgD26b5uFXBKtzXX_15rwCpHCuD08x_6b9ifvkCyGhG5ZvMCdPFwj2OPfiSraHD",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJSyUEqKy5woARFD2Ms181jlQ",
+            "plus_code":{
+                  "compound_code":"3MMX+98 Los Angeles, CA, USA",
+                  "global_code":"85633MMX+98"
+            },
+            "rating":5.0,
+            "reference":"ChIJSyUEqKy5woARFD2Ms181jlQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"686-698 North Ardmore Avenue, Los Angeles",
+            "opening_hours":null,
+            "price_level":null,
+            "CBG":60371925201,
+            "Radius":221.7781818011
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0836927,
+                        "lng":-118.3025862
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0849713303,
+                              "lng":-118.3012346697
+                        },
+                        "southwest":{
+                              "lat":34.0822733697,
+                              "lng":-118.3039326303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Khun Dom",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108428927450794439915\">Gerardo Meza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvEeVDZ8PNv6gkF9MaGQf9NJ2cfFNO70wZcKVjEEpE4GkngHf27lr2npymktJYct8PUKzWITXRH5PvBQAj49LXRsJFylWqfLJlQxpLWm_ZfoYvsJ11WM3qxtNUT8pdlPtzo1KLhiKuXty5detvzedWRlSxXLYHYQWo-ipnJV_b_xxz",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJhWQ7xae4woAR9giSTHAXqo0",
+            "plus_code":{
+                  "compound_code":"3MMW+FX Los Angeles, CA, USA",
+                  "global_code":"85633MMW+FX"
+            },
+            "rating":4.5,
+            "reference":"ChIJhWQ7xae4woAR9giSTHAXqo0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":286,
+            "vicinity":"4681 Melrose Avenue, Los Angeles",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "price_level":1.0,
+            "CBG":60371925201,
+            "Radius":221.7781818011
+      }
+]

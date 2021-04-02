@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.77904,
+                        "lng":-74.015854
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7803541803,
+                              "lng":-74.0144652697
+                        },
+                        "southwest":{
+                              "lat":40.7776562197,
+                              "lng":-74.0171632303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115096413973331195582\">Tony P<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIQLMavyzKchYh1JMVy-PsMAO-x2-dtfVX0sRbHhV75G1l2buGs0s95UEVZF1MOQFU3JQGhNp2eYOBsn8QGSNs02WWyOBIJwY2l-khgm1_cjJqnlzy2bAejlDAmCeGH3C4gcNuVW7nFHyweVQlDHvPkV37dX0XxObEtMsKLwE55R5_e",
+                        "width":3036
+                  }
+            ],
+            "place_id":"ChIJy-xfej1YwokR8KruV_qrb4Q",
+            "plus_code":{
+                  "compound_code":"QXHM+JM Union City, NJ, USA",
+                  "global_code":"87G7QXHM+JM"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJy-xfej1YwokR8KruV_qrb4Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":260,
+            "vicinity":"4809 Park Avenue, Union City",
+            "CBG":340170180001,
+            "Radius":153.2935387994
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.779555,
+                        "lng":-74.0147123
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7809438303,
+                              "lng":-74.0134506697
+                        },
+                        "southwest":{
+                              "lat":40.7782458697,
+                              "lng":-74.0161486303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Park Avenue Pizza Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1265,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107801623423486067635\">Keigo Iwabuchi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzhahN1oZdrOZd4kD5eoLxICKRx3Nrw23_3sCuSqbrlC-OzgCKZvN7u5D2rDivS0OHxgfHP8g_Z7L7O24hgttlqAvGPkHk4SHN9Na4yhmJfgnt26nXML07hvm6LYymSUH6x3KaoEcrGiTWqs-iiQm3T5d7LD20S_hvgRG5WS5Hf3yc",
+                        "width":949
+                  }
+            ],
+            "place_id":"ChIJ66kCq9VZwokRvGF216nD5-s",
+            "plus_code":{
+                  "compound_code":"QXHP+R4 Guttenberg, NJ, USA",
+                  "global_code":"87G7QXHP+R4"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJ66kCq9VZwokRvGF216nD5-s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":112,
+            "vicinity":"4910 Park Avenue, Guttenberg",
+            "CBG":340170180001,
+            "Radius":153.2935387994
+      }
+]

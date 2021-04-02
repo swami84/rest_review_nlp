@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.670922,
+                        "lng":-73.933989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6722603803,
+                              "lng":-73.9325018697
+                        },
+                        "southwest":{
+                              "lat":40.6695624197,
+                              "lng":-73.9351998303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"PJ",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108492738181551111937\">Cherishe Cumma<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwINsHbaQsXITclTltiZgwIgdq9S3biHK2NlvbSNMWwzFBlaFqmK-2PJSRnIMfTT7Q9dHZsxnkSLeYNqdtEd_4qZ-gkN_HwXc_Ty-JOJm1WP93jdhm6soP-PWVt4R7K3m2Cc9yLp2IVhTaTwxmyZgfzmsxiqA1EHN3fCqDnb08puYnal",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJOWvLpH9cwokRolZcUapqFDY",
+            "plus_code":{
+                  "compound_code":"M3C8+9C New York, NY, USA",
+                  "global_code":"87G8M3C8+9C"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJOWvLpH9cwokRolZcUapqFDY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":113,
+            "vicinity":"1339 Saint Johns Place, Brooklyn",
+            "CBG":360470353001,
+            "Radius":120.1193940662
+      }
+]

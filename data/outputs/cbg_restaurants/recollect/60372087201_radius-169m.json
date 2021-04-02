@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0641284,
+                        "lng":-118.2811837
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0654773803,
+                              "lng":-118.2798347197
+                        },
+                        "southwest":{
+                              "lat":34.0627794197,
+                              "lng":-118.2825326803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Desayunos Tamales Guatemaltecos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100219236380015556545\">Manuela Hernandez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ7R4iJdb1tHHQPW-v9mcU39zDCCwIlVPyGqkJPJnmBL0LpgOzMQOwIpuq4S1DlhxHiMe1nanvTI088rMmob-6vA1R7Y8amdKSHjHUS2joBNKKsmT1a0TkZ0vm23n3vC9zRcbHeIeu-2dcQUOEZ_L6EySSbQUbItYsHCDfgt8L1tKiL",
+                        "width":1333
+                  }
+            ],
+            "place_id":"ChIJCyiW8HPHwoARSedNB99Ifog",
+            "plus_code":{
+                  "compound_code":"3P79+MG Los Angeles, CA, USA",
+                  "global_code":"85633P79+MG"
+            },
+            "rating":3.9,
+            "reference":"ChIJCyiW8HPHwoARSedNB99Ifog",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"450 South Benton Way, Los Angeles",
+            "CBG":60372087201,
+            "Radius":168.8350879632
+      }
+]

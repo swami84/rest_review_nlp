@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.096585,
+                        "lng":-118.3105675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0979339803,
+                              "lng":-118.3092185197
+                        },
+                        "southwest":{
+                              "lat":34.0952360197,
+                              "lng":-118.3119164803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"PHENAKITE RESTAURANT",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103534348112240851853\">PHENAKITE RESTAURANT<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ2hSJFGKBTP-zyc1hXTRO0drNP3ggqR70Fp8rrEgHqOYXVkWIJc23_PlInPKBSuHludQSaHQlch2JJ7Z6HbHRLUGqYDk43m6KncAaVLXc9akJa0pD70CEwihvZ-kJ8Imp9NKVjgdCVTTJDWd5PZWNghI8ehYoUq7Tp-zHkJnNKv7q1",
+                        "width":1333
+                  }
+            ],
+            "place_id":"ChIJr2ldTwi_woARW5bHTAb2cxc",
+            "plus_code":{
+                  "compound_code":"3MWQ+JQ Los Angeles, CA, USA",
+                  "global_code":"85633MWQ+JQ"
+            },
+            "reference":"ChIJr2ldTwi_woARW5bHTAb2cxc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1370 North Saint Andrews Place, Los Angeles",
+            "CBG":60371909013,
+            "Radius":284.5641611405
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.096585,
+                        "lng":-118.3105675
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0979310303,
+                              "lng":-118.3094197697
+                        },
+                        "southwest":{
+                              "lat":34.0952330697,
+                              "lng":-118.3121177303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Andrew's Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2849,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112719388902090122534\">Andrew&#39;s Place<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK-AmSkCzPYnlpx3jEv13USwdY9C2VV6Y5uVYflMY-x9fXm-eLImMMmAOFNS9ISJl0SAfSkZXdF8Vdh1YP7uVxFag5t39-3TPPtiAUo-YWi8MBwt3D94gZvJqGTkmJUtRXWfCQKWMLpwECq7jqTbEzPgTHTam66mHLAlbWRV54RChj4",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJgw1AbR2_woARXfEtgdcL0dc",
+            "plus_code":{
+                  "compound_code":"3MWQ+JQ Los Angeles, CA, USA",
+                  "global_code":"85633MWQ+JQ"
+            },
+            "reference":"ChIJgw1AbR2_woARXfEtgdcL0dc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1370 North Saint Andrews Place, Los Angeles",
+            "CBG":60371909013,
+            "Radius":284.5641611405
+      }
+]

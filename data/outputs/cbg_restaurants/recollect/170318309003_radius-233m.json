@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":41.9304471,
+                        "lng":-87.6881584
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9317887803,
+                              "lng":-87.6866901197
+                        },
+                        "southwest":{
+                              "lat":41.9290908197,
+                              "lng":-87.6893880803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Owen & Engine",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104197414107712900249\">Kyle Eldridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLiKPENE-0iPucP2BnEqQTFC2CX79cxO3S1GndAANbNR45hUMtk71ivzIUd5cBO46JgAZqfSAJaYPYsGmIWLAvOtzqRcn9SHEkWnSQKxjJ7kUUHxWe-85QyQMyUp5C6H6pHUKKh2aVWfvoPog--Yteki89PinXdLkaCv6H_Yy3PCKTG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ108V8IXSD4gR8nvbsOYznwY",
+            "plus_code":{
+                  "compound_code":"W8J6+5P Chicago, IL, USA",
+                  "global_code":"86HJW8J6+5P"
+            },
+            "price_level":2,
+            "rating":4.7,
+            "reference":"ChIJ108V8IXSD4gR8nvbsOYznwY",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1121,
+            "vicinity":"2700 North Western Avenue, Chicago",
+            "opening_hours":null,
+            "CBG":170318309003,
+            "Radius":233.2635675459
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.9306525,
+                        "lng":-87.6875521
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.9319698303,
+                              "lng":-87.6863197197
+                        },
+                        "southwest":{
+                              "lat":41.9292718697,
+                              "lng":-87.6890176803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "permanently_closed":null,
+            "photos":[
+                  {
+                        "height":2153,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109669855484647094723\">David Johnsen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLzCYp7N6w6eJxB_zkkSwJm3eWJrSWH-A7lTTlPacs2HqKNcUX_gP6GGN_cLLFjc78VQVfUZcjwa1JVsRuEhhZt8xdTlFBKUB0phvf0QGUZiWLSc0ccQCGZWsTBZhHj_FozNa3PFKI130A9KMPn5r8e5zbwsIniDLRmSW-mKdWucJJK",
+                        "width":3940
+                  }
+            ],
+            "place_id":"ChIJt6cXV4_SD4gRhb6JOhwKcY0",
+            "plus_code":{
+                  "compound_code":"W8J6+7X Chicago, IL, USA",
+                  "global_code":"86HJW8J6+7X"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJt6cXV4_SD4gRhb6JOhwKcY0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":443,
+            "vicinity":"2701 North Western Avenue, Chicago",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":170318309003,
+            "Radius":233.2635675459
+      }
+]

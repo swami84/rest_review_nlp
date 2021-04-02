@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0233103,
+                        "lng":-118.4686708
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0245402803,
+                              "lng":-118.4674696697
+                        },
+                        "southwest":{
+                              "lat":34.0218423197,
+                              "lng":-118.4701676303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zacateca",
+            "place_id":"ChIJ5WkQRFO7woAR-7h_shgkMso",
+            "plus_code":{
+                  "compound_code":"2GFJ+8G Santa Monica, CA, USA",
+                  "global_code":"85632GFJ+8G"
+            },
+            "reference":"ChIJ5WkQRFO7woAR-7h_shgkMso",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1924 Cloverfield Boulevard, Santa Monica",
+            "CBG":60377018015,
+            "Radius":363.2491597367
+      }
+]

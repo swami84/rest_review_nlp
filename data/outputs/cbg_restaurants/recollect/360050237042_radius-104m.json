@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8561025,
+                        "lng":-73.9012653
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8574514803,
+                              "lng":-73.8999163197
+                        },
+                        "southwest":{
+                              "lat":40.8547535197,
+                              "lng":-73.9026142803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Popeyes Louisiana Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100649984297922803884\">Popeyes Louisiana Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKub9Ii4JFIHCaji0J0sadgwGlTTHa0MhQnfXkvnWc8c8fbdImdq_luQB56sxFTJseh2TXgjB6TYlpqi8SyaQIx70omVbYm0ByOkbc39t0C-UtYVGF-uVe2WhqSVc6DAABoi8VBPsQvtCY2liAcTfj0U0tHgsh88fRM8li_-P92En4u",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJy5jVonD0wokRdRCafG5dPi0",
+            "plus_code":{
+                  "compound_code":"V34X+CF New York, NY, USA",
+                  "global_code":"87G8V34X+CF"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJy5jVonD0wokRdRCafG5dPi0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":301,
+            "vicinity":"2195 Grand Concourse, The Bronx",
+            "CBG":360050237042,
+            "Radius":104.1017693654
+      }
+]

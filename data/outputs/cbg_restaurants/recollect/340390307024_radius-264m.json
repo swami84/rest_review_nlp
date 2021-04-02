@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6535222,
+                        "lng":-74.224838
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6547883803,
+                              "lng":-74.2235906697
+                        },
+                        "southwest":{
+                              "lat":40.6520904197,
+                              "lng":-74.2262886303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brisas Bakery & Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":777,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113973172508255283102\">Brisas Bakery &amp; Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRH88MN9F2-RT4QuVVZWGeXIgKeDIBq5b1-aRZ74Adlo-OVR2teQvrM44Cf0B_2csaiPIwrvRemrEQqM6CVLBnUzVMt-rHV23hcpErUBVg3TtgWEIrlCAtOeubMYcA_vn3Zar_MvJdEMOFYTuPPaK0lDw7DQOXtdH3E2pN-yBSANmE",
+                        "width":778
+                  }
+            ],
+            "place_id":"ChIJoZQ07nWzw4kRwFiktVH-I1Y",
+            "plus_code":{
+                  "compound_code":"MQ3G+C3 Elizabeth, NJ, USA",
+                  "global_code":"87G7MQ3G+C3"
+            },
+            "rating":4.5,
+            "reference":"ChIJoZQ07nWzw4kRwFiktVH-I1Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":194,
+            "vicinity":"985 South Elmora Avenue, Elizabeth",
+            "CBG":340390307024,
+            "Radius":263.9641626357
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6533442,
+                        "lng":-74.2247673
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6546799303,
+                              "lng":-74.2233452697
+                        },
+                        "southwest":{
+                              "lat":40.6519819697,
+                              "lng":-74.2260432303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Las Brisas Restaurant",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100444392197031389426\">John Paul Goncalves<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLdR8c3jo6XVFaBXqkPBFNqt9cWXAQL2mYxABLLDQA211QiqYaNVGJV5cDya3Ckvi6HwEiclrOCR7ht4UP1o9N7MiBBoKBxIw42ljRYcVct09cWFhNBjw1WjPYkyRtVMfde6kOFW6iqnxsSv3yQ5T3d0h4aci3we2Et9sZwIRCbRFw",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJt2gVUMmzw4kRGQ6HfYm9bAA",
+            "plus_code":{
+                  "compound_code":"MQ3G+83 Elizabeth, NJ, USA",
+                  "global_code":"87G7MQ3G+83"
+            },
+            "rating":3.6,
+            "reference":"ChIJt2gVUMmzw4kRGQ6HfYm9bAA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"South Elmora Ave at, Erico Avenue, Elizabeth",
+            "CBG":340390307024,
+            "Radius":263.9641626357
+      }
+]

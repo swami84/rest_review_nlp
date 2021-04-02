@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5975788,
+                        "lng":-73.966426
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5990015303,
+                              "lng":-73.9650813697
+                        },
+                        "southwest":{
+                              "lat":40.5963035697,
+                              "lng":-73.9677793303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fuji Hana",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2743,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110539270103073761673\">Philip Siong<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIWzZVmUrIKmwSQf8_8echLIsSGD3GlmvlJRyvq5NOeGc0mhKtmuWNBsKSxgE1P3Qdu0bUIXlUfZV84ICa9ddnHKH66fmWUD26nWIyymrUXkVKe3PlVZWmarYpAddTm9op9MI65voCJk-UyAeWLnvANlRS_CsV55N7wFkATB1gOLu74",
+                        "width":3829
+                  }
+            ],
+            "place_id":"ChIJEZ8gkvZEwokR5BEV2lI54lo",
+            "plus_code":{
+                  "compound_code":"H2XM+2C New York, NY, USA",
+                  "global_code":"87G8H2XM+2C"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJEZ8gkvZEwokR5BEV2lI54lo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":164,
+            "vicinity":"512 Avenue U, Brooklyn",
+            "CBG":360470394003,
+            "Radius":175.2487642423
+      }
+]

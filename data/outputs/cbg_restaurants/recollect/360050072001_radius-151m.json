@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8309708,
+                        "lng":-73.8620415
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8323442803,
+                              "lng":-73.8605969697
+                        },
+                        "southwest":{
+                              "lat":40.8296463197,
+                              "lng":-73.8632949303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"General Tso's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113949008227338815336\">Cell 78<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKl2vIuNerIpshX4EsbfafCFVgPRKic_Tj1p6gULIVVqd3VFR9se_6VFNpqqjZDO6_W1PZKKxKoay4d69eVNGZK9iGCG2RTelIo7yXFnaVwRO1wpopqvrpjbjXJbq9wCsmlEmwBOJR65TmSNdXJy-7n_wjusPkRiV4TkjOUoBg1eMwf",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJpUI8zsP0wokRGlj03me8GWY",
+            "plus_code":{
+                  "compound_code":"R4JQ+95 The Bronx, NY, USA",
+                  "global_code":"87G8R4JQ+95"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJpUI8zsP0wokRGlj03me8GWY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":81,
+            "vicinity":"1215 White Plains Road, The Bronx",
+            "CBG":360050072001,
+            "Radius":151.4531182187
+      }
+]

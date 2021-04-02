@@ -1,0 +1,145 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.852657,
+                        "lng":-73.8924511
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8540059803,
+                              "lng":-73.8911021197
+                        },
+                        "southwest":{
+                              "lat":40.8513080197,
+                              "lng":-73.8938000803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jade Stone Pizzeria and Deli",
+            "place_id":"ChIJSZPE5Hz0wokRumcNR4Aq6Nc",
+            "plus_code":{
+                  "compound_code":"V435+32 The Bronx, NY, USA",
+                  "global_code":"87G8V435+32"
+            },
+            "rating":2.5,
+            "reference":"ChIJSZPE5Hz0wokRumcNR4Aq6Nc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8.0,
+            "vicinity":"4457 3rd Avenue, The Bronx",
+            "photos":null,
+            "opening_hours":null,
+            "CBG":360050375041,
+            "Radius":189.1827872264
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8524574,
+                        "lng":-73.8897825
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8537884803,
+                              "lng":-73.8884895697
+                        },
+                        "southwest":{
+                              "lat":40.8510905197,
+                              "lng":-73.8911875303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"UnChin Chin",
+            "place_id":"ChIJKR_pK6D1wokRu6XFv421arQ",
+            "plus_code":{
+                  "compound_code":"V426+X3 New York, NY, USA",
+                  "global_code":"87G8V426+X3"
+            },
+            "rating":null,
+            "reference":"ChIJKR_pK6D1wokRu6XFv421arQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"2276 Arthur Avenue, The Bronx",
+            "photos":[
+                  {
+                        "height":850,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103024602019345991646\">Rafael Rodriguez II, CEO<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJTJCV5-LTF1o2oo3rLPA3c-gsL6N1u1TMBo5Ni5H58KiRs3yDgPiD-ipc29xJuDsadsvp6_9iDwj2dp-_pOJLSW8KFnxEznPKz5A5e_OaPApLoAqL_vn8Yu1SFABzajlBr6BgxZPkqLg_ltP-27397pE1GSNUvpP6UXK7B_II1WzoI",
+                        "width":525
+                  }
+            ],
+            "opening_hours":null,
+            "CBG":360050375041,
+            "Radius":189.1827872264
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8533764,
+                        "lng":-73.8907007
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8548318803,
+                              "lng":-73.8890303697
+                        },
+                        "southwest":{
+                              "lat":40.8521339197,
+                              "lng":-73.8917283303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Farmer's Fridge",
+            "place_id":"ChIJrzBOUsv1wokRVEZJzkNGaZI",
+            "plus_code":{
+                  "compound_code":"V435+9P The Bronx, NY, USA",
+                  "global_code":"87G8V435+9P"
+            },
+            "rating":5.0,
+            "reference":"ChIJrzBOUsv1wokRVEZJzkNGaZI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1.0,
+            "vicinity":"4422 3rd Avenue, The Bronx",
+            "photos":[
+                  {
+                        "height":3450,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100797030110982934157\">Farmer&#39;s Fridge<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIQOFWZCY6_OJCxOPfdZ2wyXThKhUp3OyXR9Qb5YZMCU8nLt3cn-YrqvRtgwUFerQQ-ahFfkwg9JGWeK-AV5ukLzi-asPsAbdVG3kcbIWUbGfJusr4n9uCI1Q74JihG5HEzCxESrPbuhbQ9rf-e8gDxW_dpTcxpZUoyR4Kizm13cuaJ",
+                        "width":2700
+                  }
+            ],
+            "opening_hours":{
+                  "open_now":true
+            },
+            "CBG":360050375041,
+            "Radius":189.1827872264
+      }
+]

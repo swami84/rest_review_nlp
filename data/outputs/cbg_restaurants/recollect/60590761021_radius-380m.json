@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.789224,
+                        "lng":-117.892805
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.7905920803,
+                              "lng":-117.8913600697
+                        },
+                        "southwest":{
+                              "lat":33.7878941197,
+                              "lng":-117.8940580303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106236598347533523205\">Bryan Black<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKAujhM-kkHkH1zZCP_dWOtp_IzrRM-gCIt9YwdW4ecdPtI-AjCX0-APLwqaKCJgV2QETEUV9IuPn7PUKyj5o2rysnZVwR_1jQOvhTsGYpaeGkfsTQXgp_8C1y1_kqY4WIWzh5lv9RL8iDi53Nj84499Dd4sTOGzbMuZiVBsKtNmLKA",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJYfNIKInX3IARBe6JJ-u2NbQ",
+            "plus_code":{
+                  "compound_code":"Q4Q4+MV Orange, CA, USA",
+                  "global_code":"8554Q4Q4+MV"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJYfNIKInX3IARBe6JJ-u2NbQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":612,
+            "vicinity":"3743 West Chapman Avenue A, Orange",
+            "CBG":60590761021,
+            "Radius":380.4386880806
+      }
+]

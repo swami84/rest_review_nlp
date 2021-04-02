@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":36.169331,
+                        "lng":-115.1113258
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.1706792303,
+                              "lng":-115.1101654197
+                        },
+                        "southwest":{
+                              "lat":36.1679812697,
+                              "lng":-115.1128633803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Smiley's pizza",
+            "place_id":"ChIJ_zvG-2XDyIAR5Qizrq_IwM4",
+            "plus_code":{
+                  "compound_code":"5V9Q+PF Las Vegas, NV, USA",
+                  "global_code":"85865V9Q+PF"
+            },
+            "reference":"ChIJ_zvG-2XDyIAR5Qizrq_IwM4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"401 North 28th Street, Las Vegas",
+            "CBG":320030005222,
+            "Radius":283.9258504176
+      }
+]

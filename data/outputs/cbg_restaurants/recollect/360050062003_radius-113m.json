@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.83559,
+                        "lng":-73.876501
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8371434803,
+                              "lng":-73.8750552197
+                        },
+                        "southwest":{
+                              "lat":40.8344455197,
+                              "lng":-73.8777531803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"joes deli",
+            "place_id":"ChIJqULDblr1wokRsKFPhZJJDhk",
+            "plus_code":{
+                  "compound_code":"R4PF+69 New York, NY, USA",
+                  "global_code":"87G8R4PF+69"
+            },
+            "reference":"ChIJqULDblr1wokRsKFPhZJJDhk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1460 Bronx River Avenue, The Bronx",
+            "CBG":360050062003,
+            "Radius":112.6063613923
+      }
+]

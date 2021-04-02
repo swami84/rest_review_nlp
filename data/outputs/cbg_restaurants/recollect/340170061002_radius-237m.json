@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6897303,
+                        "lng":-74.0974531
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6911520803,
+                              "lng":-74.0962084697
+                        },
+                        "southwest":{
+                              "lat":40.6884541197,
+                              "lng":-74.0989064303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Salads Ready2Go",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1675,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110167652536931458980\">Salads Ready2Go<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLhCoaOUePOeCzjM3gjE8LhD-805WF42gwUYT5U_bYMUkqhEeVHsw11kGXcHy_L4P3k5GbKGwncXG3n3lRWOzWQfRgLpTubQWEvp2Fm5gvQAU5qLfSNlS53tvSSB-1d0ThbTWl6DIHWTt0I-D2TmioAKG7jFaKK4Yc3fzfsDQYns9YU",
+                        "width":2241
+                  }
+            ],
+            "place_id":"ChIJm1XNle9RwokRBxd3o3LzRRc",
+            "plus_code":{
+                  "compound_code":"MWQ3+V2 Jersey City, NJ, USA",
+                  "global_code":"87G7MWQ3+V2"
+            },
+            "rating":5,
+            "reference":"ChIJm1XNle9RwokRBxd3o3LzRRc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"26 Ocean Avenue, Jersey City",
+            "CBG":340170061002,
+            "Radius":236.5905995497
+      }
+]

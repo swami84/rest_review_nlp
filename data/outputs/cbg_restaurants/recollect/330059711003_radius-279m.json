@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.9377579,
+                        "lng":-72.2732495
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.9389845803,
+                              "lng":-72.2718876697
+                        },
+                        "southwest":{
+                              "lat":42.9362866197,
+                              "lng":-72.2745856303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Beaver Street Market Inc",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2356,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111915327821869246938\">Beaver Street Market Inc<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4l4n5NsrBkcPI-AcfOm5pnB2hupuFrVoFC_sGFe5q_69fKwojtqaZAraACRsdVnVzCayuYcp3ekcy7zZV-qaktLbvNLJn8s26qbhVHVS-UF5rFYOO7GDi0XRocShpaQDlHmuRrqrRiThbrDDS5dMIzuVrpFFFN5k-8ukVrCWv5jGZ",
+                        "width":4192
+                  }
+            ],
+            "place_id":"ChIJS7U0FHp04YkRTxs1ZUNo9tw",
+            "plus_code":{
+                  "compound_code":"WPQG+4P Keene, NH, USA",
+                  "global_code":"87J9WPQG+4P"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJS7U0FHp04YkRTxs1ZUNo9tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"98 Beaver Street, Keene",
+            "CBG":330059711003,
+            "Radius":279.0891389127
+      }
+]

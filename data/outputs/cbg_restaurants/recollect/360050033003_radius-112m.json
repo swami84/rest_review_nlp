@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.808808,
+                        "lng":-73.9158627
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8102253803,
+                              "lng":-73.9144781697
+                        },
+                        "southwest":{
+                              "lat":40.8075274197,
+                              "lng":-73.9171761303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tenares Restaurant",
+            "place_id":"ChIJPyLzI8H1wokRGAwJffOw5L0",
+            "plus_code":{
+                  "compound_code":"R35M+GM New York, NY, USA",
+                  "global_code":"87G8R35M+GM"
+            },
+            "rating":3,
+            "reference":"ChIJPyLzI8H1wokRGAwJffOw5L0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"571 East 141st Street, The Bronx",
+            "CBG":360050033003,
+            "Radius":111.8561875634
+      }
+]

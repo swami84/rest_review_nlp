@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.872888,
+                        "lng":-87.77706
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8742369803,
+                              "lng":-87.7757110197
+                        },
+                        "southwest":{
+                              "lat":41.8715390197,
+                              "lng":-87.7784089803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eastgate Cafe\/Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":488,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101850167572933687457\">Eastgate Cafe\/Bistro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4w5fyshTrikfVN5EM7ULL-h9YmPoS2V4b521l1LRuJTz2JMBkKujHhuhjRLNm8uTbVyOys9IE48up0-5u4b9XTMVmzWdzvbRUCwR9F3yeNrSvaTQW1tRgu7YuQyOtuATVG7ay1b-l32aFbqMixzqyYGiXsd9WiPRV8cXfjCbZ8ZG2",
+                        "width":701
+                  }
+            ],
+            "place_id":"ChIJudz47500DogR_cWZA2hyV74",
+            "plus_code":{
+                  "compound_code":"V6FF+55 Oak Park, IL, USA",
+                  "global_code":"86HJV6FF+55"
+            },
+            "rating":4.4,
+            "reference":"ChIJudz47500DogR_cWZA2hyV74",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":205,
+            "vicinity":"102 Harrison Street, Oak Park",
+            "CBG":170318131001,
+            "Radius":229.779671514
+      }
+]

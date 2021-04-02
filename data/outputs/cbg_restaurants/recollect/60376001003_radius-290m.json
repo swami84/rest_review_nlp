@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9536067,
+                        "lng":-118.2921531
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9550443303,
+                              "lng":-118.2907578697
+                        },
+                        "southwest":{
+                              "lat":33.9523463697,
+                              "lng":-118.2934558303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Casa Honduras Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107625283745783165281\">Ephraim Solis<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKnxZTX6ZjDXe_NqFo4C-w66JBPqx1lOd0DIVSsSPWdqqtZD5os62vjSjZoLkmUj_b3E7EoVs1z9DKBomPJQCOjHJIyUWzsfahgKLMF02s8GlOXjhmIDR_2FuynGAhlnkTS5XUBvHb60ML9yN3fMJFhAwAlnkggchLFX0mVsKmdTgBb",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJs4aQ9N3JwoARLqKsrgTrcd4",
+            "plus_code":{
+                  "compound_code":"XP35+C4 Los Angeles, CA, USA",
+                  "global_code":"8553XP35+C4"
+            },
+            "price_level":2.0,
+            "rating":4.0,
+            "reference":"ChIJs4aQ9N3JwoARLqKsrgTrcd4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1042,
+            "vicinity":"9131 Vermont Avenue, Los Angeles",
+            "CBG":60376001003,
+            "Radius":290.1443328913
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.951822,
+                        "lng":-118.292266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9531703303,
+                              "lng":-118.2907309697
+                        },
+                        "southwest":{
+                              "lat":33.9504723697,
+                              "lng":-118.2934289303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Magic Dreams Banquet Hall",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113288413774504937321\">Marie L.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJRyZUljT9J7zSUOwFUJVXwi5ytLJh-aBRfFvC6OLEhVHgFjjn4Zq5hYKFmoa4hRNuQq6lS4CnSWmhjQ6JVcBeao-Wyzcu1khjkXOSTThcuNs58mVKUHNeft0gNoi8qpNrLYvB-458lS-Jrhv_tqAlmnWk2NUIVGDDUY-MgYkAj_hCq",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJ2TNdPufJwoARkWN74377He8",
+            "plus_code":{
+                  "compound_code":"XP25+P3 Los Angeles, CA, USA",
+                  "global_code":"8553XP25+P3"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJ2TNdPufJwoARkWN74377He8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"9309 Vermont Avenue, Los Angeles",
+            "CBG":60376001003,
+            "Radius":290.1443328913
+      }
+]

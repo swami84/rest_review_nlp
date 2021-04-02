@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6726242,
+                        "lng":-73.9115007
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6739731803,
+                              "lng":-73.9101517197
+                        },
+                        "southwest":{
+                              "lat":40.6712752197,
+                              "lng":-73.9128496803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113138562345740354095\">Bryndon Mitchell<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJoAIoOOj4cKe8jVbqbaOKeIM580OpXNlb4hMZSzLJxiLbd5ilzFCfo-9J-3ei7tolXh2p3EXJNJH0IVsqla89ywJubf9KH5b9VKfcgV3YgzD27t9lFKhIXHbebH0nUMXa1E7vRu6dH01M8_Apm6nLA5mhx_Ximv8tV7n_4EIbDNbit",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJgdxxj11cwokRK9TLJlH-gpo",
+            "plus_code":{
+                  "compound_code":"M3FQ+29 New York, NY, USA",
+                  "global_code":"87G8M3FQ+29"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJgdxxj11cwokRK9TLJlH-gpo",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":564,
+            "vicinity":"1710 Eastern Parkway, Brooklyn",
+            "CBG":360470363001,
+            "Radius":132.0709852432
+      }
+]

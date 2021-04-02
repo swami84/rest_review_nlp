@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7283216,
+                        "lng":-74.0672178
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7296705803,
+                              "lng":-74.0658688197
+                        },
+                        "southwest":{
+                              "lat":40.7269726197,
+                              "lng":-74.0685667803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Great Wall III",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110977189450425552944\">Tawfik Alshammaa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJXSdeeHM8X6oJxh8NaopexTAGwPwO0b0mEG8htUs5j21gk00K9J-eUApXVIqFBfAPs3HLanMaRl6T3qMpkTttH7_TN9evw8_HJmmPXYCq16ucYpPbLRUy-vH_xSjgv28YCPlqZJxAKZPYqMJSeeoBRbitX2SPD74rSxHoajZm5mgk5",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJoQLnOy1XwokRD2qwD6OayDI",
+            "plus_code":{
+                  "compound_code":"PWHM+84 Jersey City, NJ, USA",
+                  "global_code":"87G7PWHM+84"
+            },
+            "rating":4.2,
+            "reference":"ChIJoQLnOy1XwokRD2qwD6OayDI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"841 Bergen Avenue, Jersey City",
+            "CBG":340170029002,
+            "Radius":106.78247395
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7283791,
+                        "lng":-74.0672119
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7297280803,
+                              "lng":-74.0658629197
+                        },
+                        "southwest":{
+                              "lat":40.7270301197,
+                              "lng":-74.0685608803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"St George Deli & Grocery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":518,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101170739616607839886\">valin Mikhail<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJVUy3-1ja73s-M1EjxHocBBScqr8b5jXF9H8aB1RhgjD_gzncfxf1vKeUpMWfma2o1L0o1So5NvH1tA6ATn_jiQ45yjUjWxQdvOSkDr2fJDECgcPXxICzxgX_mUfWVMF_3Bn7z-gOV6a0nwRjrWQu9gIZtyIrK9GxNT_xBBDTndBSe",
+                        "width":778
+                  }
+            ],
+            "place_id":"ChIJoxwuOS1XwokRBNKCI7Wmxr4",
+            "plus_code":{
+                  "compound_code":"PWHM+94 Jersey City, NJ, USA",
+                  "global_code":"87G7PWHM+94"
+            },
+            "rating":4.3,
+            "reference":"ChIJoxwuOS1XwokRBNKCI7Wmxr4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"843 Bergen Avenue, Jersey City",
+            "CBG":340170029002,
+            "Radius":106.78247395
+      }
+]

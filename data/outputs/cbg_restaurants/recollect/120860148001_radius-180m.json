@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7603814,
+                        "lng":-80.4050634
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7617837803,
+                              "lng":-80.4037144697
+                        },
+                        "southwest":{
+                              "lat":25.7590858197,
+                              "lng":-80.4064124303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sabor Cubano Cafeteria",
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107670722656634931334\">Esteban g<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLhw-XUm4qLiWG5azYKxsJBpFA4ONyth4_CV37lbGGy1BkX1oCqtYQdOGz-suQWxqRmsbwcwxIxlzSez8TpxY7shDDx1H6hQKHGYBnOyRLbPjZQ848Mw4cHvB4wsfXudvlRNVqhXyGqocw73vt5j0_DY2GnktirwQ97E6RPMU_jVE37",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJg-gC6gW_2YgRkag25g0vl8A",
+            "plus_code":{
+                  "compound_code":"QH6V+5X Miami, FL, USA",
+                  "global_code":"76QXQH6V+5X"
+            },
+            "rating":4.7,
+            "reference":"ChIJg-gC6gW_2YgRkag25g0vl8A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"12848 Southwest 8th Street, Miami",
+            "CBG":120860148001,
+            "Radius":179.7446386899
+      }
+]

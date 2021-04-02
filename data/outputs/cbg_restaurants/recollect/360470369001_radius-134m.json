@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6801023,
+                        "lng":-73.9083163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6813218803,
+                              "lng":-73.9069526697
+                        },
+                        "southwest":{
+                              "lat":40.6786239197,
+                              "lng":-73.9096506303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jim Bu",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111368066639620111789\">BENLY MATTHEW<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLdCnrW_XbOhuPouu16MNCA1wtnFwUnXg0WccK4Pw7IddESt7vIE2plSsNroSRrLWWTEVFzzSTbkwV1KvgMl0VeukIUmDhds2nUFfcpKMHKQLR56ALPGo5kOZ_yIBOz8yUtUY1x8A7V0qJFYZpcneBu0sevsOgGOmLIrj2K1KKAXHZ4",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJzS1V2UNcwokRbaDWXR0hri8",
+            "plus_code":{
+                  "compound_code":"M3JR+2M New York, NY, USA",
+                  "global_code":"87G8M3JR+2M"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJzS1V2UNcwokRbaDWXR0hri8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62,
+            "vicinity":"49 Mother Gaston Boulevard, Brooklyn",
+            "CBG":360470369001,
+            "Radius":133.9270091377
+      }
+]

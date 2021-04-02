@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7389195,
+                        "lng":-87.6567819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7402663303,
+                              "lng":-87.6555764197
+                        },
+                        "southwest":{
+                              "lat":41.7375683697,
+                              "lng":-87.6582743803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nicole's Sandwich Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJIWSxo38vDogRG8OBvkMrTFM",
+            "plus_code":{
+                  "compound_code":"P8QV+H7 Chicago, IL, USA",
+                  "global_code":"86HJP8QV+H7"
+            },
+            "rating":5,
+            "reference":"ChIJIWSxo38vDogRG8OBvkMrTFM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"8519 South Ada Street, Chicago",
+            "CBG":170317111001,
+            "Radius":241.9195988206
+      }
+]

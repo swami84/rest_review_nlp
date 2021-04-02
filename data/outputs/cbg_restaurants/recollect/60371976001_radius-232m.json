@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0647558,
+                        "lng":-118.2491986
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0660556303,
+                              "lng":-118.2479263697
+                        },
+                        "southwest":{
+                              "lat":34.0633576697,
+                              "lng":-118.2506243303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jack in the Box",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100099093206169132135\">Khalid Lawa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIXQiVPUbMsTbyVhQPTUv22RlzE02IoWwjVzILrcrn9jxZi8LMIgG1vVs2EAo0bdXvQBW5bQh6kMvnpoLhoqL6zqvMkbOgkrebJmu1QSkp-Nl9U5jTlCqKQU1u8DeXPbfCcwkCZhxeB4SZF9SOoq2i4xir9r50ylzhADoC43GWsQwxT",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJX56GpVXGwoARBpt3b5BzIVo",
+            "plus_code":{
+                  "compound_code":"3Q72+W8 Los Angeles, CA, USA",
+                  "global_code":"85633Q72+W8"
+            },
+            "price_level":1.0,
+            "rating":3.7,
+            "reference":"ChIJX56GpVXGwoARBpt3b5BzIVo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1116,
+            "vicinity":"516 North Beaudry Avenue, Los Angeles",
+            "CBG":60371976001,
+            "Radius":232.0232663347
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.066468,
+                        "lng":-118.2498312
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0678343803,
+                              "lng":-118.2484012197
+                        },
+                        "southwest":{
+                              "lat":34.0651364197,
+                              "lng":-118.2510991803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Teddys Red Tacos Truck",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106852827170638776528\">gm3906<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJSRl6mpc9hFTnMFI2AccDf1kmNJp-4r4Yt8UfyxWyx5ijutFlf7jyCzdzDX3ovGULRQvLJUAYEKOG5H-gQDJ9DEWjUijrWXGQXjljiMmH5EIunn_kJuMmqAT7Hq8vnZxY0cKsNs8lcawxUklfuK1AY5Waw3Uqou1rRyn-hx3Y6v_9f",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ5yKUuWXHwoARmknxIXIClKI",
+            "plus_code":{
+                  "compound_code":"3Q82+H3 Los Angeles, CA, USA",
+                  "global_code":"85633Q82+H3"
+            },
+            "price_level":null,
+            "rating":4.6,
+            "reference":"ChIJ5yKUuWXHwoARmknxIXIClKI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"1140 Sunset Boulevard, Los Angeles",
+            "CBG":60371976001,
+            "Radius":232.0232663347
+      }
+]

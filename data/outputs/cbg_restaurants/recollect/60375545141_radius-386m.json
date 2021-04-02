@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8807861,
+                        "lng":-118.0716969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8821379803,
+                              "lng":-118.0704347697
+                        },
+                        "southwest":{
+                              "lat":33.8794400197,
+                              "lng":-118.0731327303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fantastic Cafe",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104780655789506266364\">Patrick Goulding<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIc3u99Qn70FVsUkpfNN65o03RUG9WpMFv7Qq5m3EqOfX3m-EltUtorwiljuyXdBv2IjFNuT0DwPcRxzuwORMXUZKH8dHRBpOJEy3_bwTe0C9GNc-fqFSak7nRIyHrUS875oSrkGulnpjxQ9QQIdxYAe-QZtquuH-PnaqqNE91bqw49",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJgwbkPRkt3YARo2FHATKSRxY",
+            "plus_code":{
+                  "compound_code":"VWJH+88 Cerritos, CA, USA",
+                  "global_code":"8553VWJH+88"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJgwbkPRkt3YARo2FHATKSRxY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":553.0,
+            "vicinity":"16480 Norwalk Boulevard, Cerritos",
+            "CBG":60375545141,
+            "Radius":386.3825496172
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8750296,
+                        "lng":-118.0678683
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8763770803,
+                              "lng":-118.0666306697
+                        },
+                        "southwest":{
+                              "lat":33.8736791197,
+                              "lng":-118.0693286303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mc Donalds",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJaUPAHKot3YARc8ZDcOad48s",
+            "plus_code":{
+                  "compound_code":"VWGJ+2V Cerritos, CA, USA",
+                  "global_code":"8553VWGJ+2V"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJaUPAHKot3YARc8ZDcOad48s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"17200 Stark Avenue, Cerritos",
+            "CBG":60375545141,
+            "Radius":386.3825496172
+      }
+]

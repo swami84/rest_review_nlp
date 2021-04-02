@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9551614,
+                        "lng":-93.2756061
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9565009803,
+                              "lng":-93.2743746697
+                        },
+                        "southwest":{
+                              "lat":44.9538030197,
+                              "lng":-93.2770726303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"TILT Pinball Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109441239113226080793\">Chrissy Jonelis<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLanvWnJ-Ua0YsMSjcqgT4AwxWdZcsqMkkPUZk44KC1PT7oC_Yat8Q31Taf5nyruLrsuSaDYBVvGfN0bgZZufQei0Td2gAFf9SC1JUsPHXikMQR6TAPeW2cwb35jcUQIjOTNXeTK1ppfAI6epzC2WbDoHJKKDkUCqhoA2dAAxQi2XUG",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJvd9L-rQys1IRfYDJ_vnilyE",
+            "plus_code":{
+                  "compound_code":"XP4F+3Q Minneapolis, MN, USA",
+                  "global_code":"86P8XP4F+3Q"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJvd9L-rQys1IRfYDJ_vnilyE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "night_club",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1201,
+            "vicinity":"113 East 26th Street #110, Minneapolis",
+            "CBG":270530078011,
+            "Radius":186.2415366871
+      }
+]

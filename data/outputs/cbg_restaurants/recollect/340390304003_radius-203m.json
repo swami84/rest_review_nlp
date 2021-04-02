@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.653401,
+                        "lng":-74.1885086
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6547834803,
+                              "lng":-74.1871907697
+                        },
+                        "southwest":{
+                              "lat":40.6520855197,
+                              "lng":-74.1898887303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Jarritos",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112235512834603073394\">Guerrero j lara<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJJT3hkSM1DAHZlBAqcWmddYkC6n9JyZctex9GsDdPyoDJM-0At5Zp6LLAjK2YntSJmfCeqOP-KkRomQ536afpOOjwYyk0X-Zr8_gXmKaHQftyz5-JvHnOlLuOLCEiR91wH1Btsquk_w8_iQtPrktRXUAt_K5JjrVW8769y44rYSI",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJnT_BLG9NwokRMzc_1OYbudI",
+            "plus_code":{
+                  "compound_code":"MR36+9H Elizabeth, NJ, USA",
+                  "global_code":"87G7MR36+9H"
+            },
+            "rating":4,
+            "reference":"ChIJnT_BLG9NwokRMzc_1OYbudI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":68,
+            "vicinity":"161 3rd Street, Elizabeth",
+            "CBG":340390304003,
+            "Radius":202.8188968055
+      }
+]

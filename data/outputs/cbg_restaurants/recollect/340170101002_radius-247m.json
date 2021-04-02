@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6890964,
+                        "lng":-74.1026266
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6903656303,
+                              "lng":-74.1013455197
+                        },
+                        "southwest":{
+                              "lat":40.6876676697,
+                              "lng":-74.1040434803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gallery Tapas Kitchen",
+            "place_id":"ChIJ7W7ZP4xRwokRzWAIP8XtJKQ",
+            "plus_code":{
+                  "compound_code":"MVQW+JW Bayonne, NJ, USA",
+                  "global_code":"87G7MVQW+JW"
+            },
+            "reference":"ChIJ7W7ZP4xRwokRzWAIP8XtJKQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"95 West 57th Street, Bayonne",
+            "permanently_closed":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":340170101002,
+            "Radius":246.8450322829
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.6885267,
+                        "lng":-74.1038869
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6899051803,
+                              "lng":-74.1025996197
+                        },
+                        "southwest":{
+                              "lat":40.6872072197,
+                              "lng":-74.1052975803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Prima Pizza",
+            "place_id":"ChIJeVWo1p5RwokRHOTEBDX4myw",
+            "plus_code":{
+                  "compound_code":"MVQW+CC Bayonne, NJ, USA",
+                  "global_code":"87G7MVQW+CC"
+            },
+            "reference":"ChIJeVWo1p5RwokRHOTEBDX4myw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"328 Avenue B A, Bayonne",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115583819564035684310\">Chris Carr<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJPDz1OdK4kWoz2BHuA3EuKDgLLzvKgVUek1pvnmglVEUXMxYbOPxOwZP0HaI7FtZ_Me_Ccuid1T7Fhq-ykD7B_ylkz2BISj2njuvtntCUeTpH5x6meqf1BBUF1ll-fTZCs8NjNb5rWdu06yXST8F3KvMVSdpypwgzjRuI6BErSkW4",
+                        "width":1920
+                  }
+            ],
+            "price_level":2.0,
+            "rating":4.1,
+            "user_ratings_total":31.0,
+            "CBG":340170101002,
+            "Radius":246.8450322829
+      }
+]

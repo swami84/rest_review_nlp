@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.5446359,
+                        "lng":-122.2847463
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5460845803,
+                              "lng":-122.2834040197
+                        },
+                        "southwest":{
+                              "lat":37.5433866197,
+                              "lng":-122.2861019803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pho Little Saigon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116130681940453681399\">somkietr rojanasathit<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIuV5k4dM0Eah8tgtfXTlV80ssVadj5bduhznrcgBa5Ek81hHeEdwwNhGLWTjYXkYlzEtFmAomkfVtvrgJJX4oGdJnpG2MuyAaOw-GKfRIj4H8y_06IWwiWTtAuso3yZzUumkc6ZsskP8yUM2fQBFLgnXZH0my-nhmgTVXBTbvzTtzU",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJLZ-FlCCfj4ARa-WeUMsA_kE",
+            "plus_code":{
+                  "compound_code":"GPV8+V4 San Mateo, CA, USA",
+                  "global_code":"849VGPV8+V4"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJLZ-FlCCfj4ARa-WeUMsA_kE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":180,
+            "vicinity":"2978 South Norfolk Street, San Mateo",
+            "CBG":60816084003,
+            "Radius":330.6771894934
+      }
+]

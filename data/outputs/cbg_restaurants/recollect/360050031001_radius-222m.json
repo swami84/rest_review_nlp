@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8099477,
+                        "lng":-73.9033677
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8113097803,
+                              "lng":-73.9018920697
+                        },
+                        "southwest":{
+                              "lat":40.8086118197,
+                              "lng":-73.9045900303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hero Factory Inc",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117299558731347708313\">remotelyviewed<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL5-wAkvawlxfiJorhRgETxKFdcugf1KWRXUWncgX1ZsYZ3C1y_kfR79g42FA2japx38AwtdWLzVhMlMeFpgul4kkpKHvTSWuEOm6SEdzcAPrv6ekKi2w98rxFEKJZM-WDCOWtQIoTAymT5QlW-fulKLRDX8DBHdGlZqa0B0mGoLo8g",
+                        "width":2268
+                  }
+            ],
+            "place_id":"ChIJ6x9gBrv1wokRwKUT_Kij4AM",
+            "plus_code":{
+                  "compound_code":"R35W+XM New York, NY, USA",
+                  "global_code":"87G8R35W+XM"
+            },
+            "rating":4.3,
+            "reference":"ChIJ6x9gBrv1wokRwKUT_Kij4AM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"904 East 149th Street, The Bronx",
+            "CBG":360050031001,
+            "Radius":221.9087522436
+      }
+]

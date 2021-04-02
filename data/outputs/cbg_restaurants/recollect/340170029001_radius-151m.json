@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7316636,
+                        "lng":-74.0697287
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7330692303,
+                              "lng":-74.0683291197
+                        },
+                        "southwest":{
+                              "lat":40.7303712697,
+                              "lng":-74.0710270803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mi Mariachi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105218596816548058352\">Thatone Ultimate<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLa6FyrkGYfcwJ5wTLi-lvdoK9Qh_TNoZNQrgmREXGEfZ6FpPM8eQMpyhqGhSNQIQyFYupywnd1FWT6-MKmMpEDPBF8u13ZmctCvm_h49HXBddhLs_y_7eR7H5Jd9vc8H4k8cdLNnupIkKjLN2BBQXJd1f64lhfeLwM_UuKZSf3u3If",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJFzhnFSxXwokR_8MiF4tl4k0",
+            "plus_code":{
+                  "compound_code":"PWJJ+M4 Jersey City, NJ, USA",
+                  "global_code":"87G7PWJJ+M4"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJFzhnFSxXwokR_8MiF4tl4k0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":610,
+            "vicinity":"213 Sip Avenue, Jersey City",
+            "CBG":340170029001,
+            "Radius":150.9225590677
+      }
+]

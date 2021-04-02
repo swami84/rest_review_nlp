@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9393726,
+                        "lng":-93.2527106
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9408117803,
+                              "lng":-93.2513605697
+                        },
+                        "southwest":{
+                              "lat":44.9381138197,
+                              "lng":-93.2540585303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Reverie Cafe + Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112524612524469989986\">Reverie Cafe + Bar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLFypnRxsb0-AoR_Gao89AoMNOzKTGXVl_kRph3fzm1DO8zzqhAeyBBUChhMl3Fpz4UKhuixGm9PWo8ULSeDcb8I_eNvsm0eEAG1Z3qpdP_xXlu9YOYoPmDlk2XHpWKaNjRCJBwPVQ1kPJbNypRkB6Q98pAWWlVny0deDQ8EJx_EYKc",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJXaSgL7gys1IR2XJTlKVwMjo",
+            "plus_code":{
+                  "compound_code":"WPQW+PW Minneapolis, MN, USA",
+                  "global_code":"86P8WPQW+PW"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJXaSgL7gys1IR2XJTlKVwMjo",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":360,
+            "vicinity":"1517 East 35th Street, Minneapolis",
+            "CBG":270531097003,
+            "Radius":211.3761705682
+      }
+]

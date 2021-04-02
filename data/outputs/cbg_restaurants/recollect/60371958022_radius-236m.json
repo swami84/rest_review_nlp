@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0733595,
+                        "lng":-118.2774094
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0748081303,
+                              "lng":-118.2759777197
+                        },
+                        "southwest":{
+                              "lat":34.0721101697,
+                              "lng":-118.2786756803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Molcajetes (Temple)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102610121082255457598\">Rigoberto Contreras<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLXu3Q4LnLhxEe0So4Cipx9mCyG0_DBZyNDWeB454RXJblvF4nStUlplKN-XI4yMEYtrA0OaSUZSl0s9AAGjgTpHhOlFrxGha2tLgvWZIZLLtoRjVYp07t11XUEfl2nCMADu_JtnTs-vzlbbRFj5mElQYJjdYmKyd8z6MDpB05sQpVH",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJL8oBwWzHwoARbe7TCrb9H6s",
+            "plus_code":{
+                  "compound_code":"3PFF+82 Los Angeles, CA, USA",
+                  "global_code":"85633PFF+82"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJL8oBwWzHwoARbe7TCrb9H6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":622,
+            "vicinity":"2748 West Temple Street, Los Angeles",
+            "permanently_closed":null,
+            "CBG":60371958022,
+            "Radius":236.2230187713
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.0726952,
+                        "lng":-118.2749667
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0741373803,
+                              "lng":-118.2734931697
+                        },
+                        "southwest":{
+                              "lat":34.0714394197,
+                              "lng":-118.2761911303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Panamerican Night Club (Oficial)",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115902761688144063329\">OTS DEEJAYS DJ DUCKY<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI-cy7nVY2mSz1qtAGSF93wYQQbzZKgJ7ILYXTUFHYyzsl0d4gfbG3ZNp9Wszc_fXqU5thwd69QyAbf_zAlstik9NaFLzbFpXkdUO7j7r3KynsQZ4SB1jLv9GdtUKp2me0yqVi3vapEMt2gsgPiCviWlnGXsFQL-L7BBZPiXsY-sXap",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJoTps3BLHwoARKkmzb0r_G9A",
+            "plus_code":{
+                  "compound_code":"3PFG+32 Los Angeles, CA, USA",
+                  "global_code":"85633PFG+32"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJoTps3BLHwoARKkmzb0r_G9A",
+            "scope":"GOOGLE",
+            "types":[
+                  "night_club",
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":96,
+            "vicinity":"2601 West Temple Street, Los Angeles",
+            "permanently_closed":true,
+            "CBG":60371958022,
+            "Radius":236.2230187713
+      }
+]

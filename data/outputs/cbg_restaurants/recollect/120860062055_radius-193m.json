@@ -1,0 +1,136 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7570464,
+                        "lng":-80.2591768
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7583980803,
+                              "lng":-80.2577145697
+                        },
+                        "southwest":{
+                              "lat":25.7557001197,
+                              "lng":-80.2604125303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bistro Buttler",
+            "place_id":"ChIJxV9yvZ632YgRFxvVtlMYm1Q",
+            "plus_code":{
+                  "compound_code":"QP4R+R8 Coral Gables, FL, USA",
+                  "global_code":"76QXQP4R+R8"
+            },
+            "reference":"ChIJxV9yvZ632YgRFxvVtlMYm1Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1600 Ponce de Leon, Coral Gables",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":120860062055,
+            "Radius":193.4948201702
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7561905,
+                        "lng":-80.2573423
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7574321303,
+                              "lng":-80.2559890197
+                        },
+                        "southwest":{
+                              "lat":25.7547341697,
+                              "lng":-80.2586869803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sacha's Cafe",
+            "place_id":"ChIJAQCX15632YgRXplgO5zvPjU",
+            "plus_code":{
+                  "compound_code":"QP4V+F3 Coral Gables, FL, USA",
+                  "global_code":"76QXQP4V+F3"
+            },
+            "reference":"ChIJAQCX15632YgRXplgO5zvPjU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"119 Madeira Avenue, Coral Gables",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":120860062055,
+            "Radius":193.4948201702
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.756118,
+                        "lng":-80.2574348
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7573943303,
+                              "lng":-80.2560828697
+                        },
+                        "southwest":{
+                              "lat":25.7546963697,
+                              "lng":-80.2587808303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mango biche mia, office",
+            "place_id":"ChIJtbnQNqPH2YgRkCNsjoDIf6s",
+            "plus_code":{
+                  "compound_code":"QP4V+C2 Coral Gables, FL, USA",
+                  "global_code":"76QXQP4V+C2"
+            },
+            "reference":"ChIJtbnQNqPH2YgRkCNsjoDIf6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"123 Madeira Avenue, Coral Gables",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115047595518236839206\">Abdulrahman Aldughiather<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5lhMuCUJxr9b4PYJo5Dq7uzBajguGNPWJmpHFo5peuZdZqVf4LI3v4TZ3kDEKZ6MsawtuFXnSkhrgUtxSzoGAVP3zNYnigq9QXG1au-3UDaMlCTbvqIfeU-p6YWsLVz15iXKmfYQtQzB4nVJCYzVEuarKLCo1vvSTt1aYhOV5mhQf",
+                        "width":3024
+                  }
+            ],
+            "rating":3.8,
+            "user_ratings_total":47.0,
+            "CBG":120860062055,
+            "Radius":193.4948201702
+      }
+]

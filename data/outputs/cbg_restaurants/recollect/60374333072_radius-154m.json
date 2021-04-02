@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0647946,
+                        "lng":-118.0091166
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0660391803,
+                              "lng":-118.0077561697
+                        },
+                        "southwest":{
+                              "lat":34.0633412197,
+                              "lng":-118.0104541303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Culichi Camarones",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115175799755698835700\">EL CULICHI CAMARONES<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLGPBhOxUfmI3DXLhSvMoTbg-3vfH-swxVNkUAO9qkUBpRYppF3C2n5JaOUbaZocdSu0uxcqvcrlga-Iwck0Y7FDO56XzadEynxd56qL80Vp3P1jolWYtzd3nbVzVXEXCAal5Hmzdb0K0--RJC98jnhhNwiNb0Evx6PhBlDLpQsarK3",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJCRUduFrXwoARrEo_qXjt0jA",
+            "plus_code":{
+                  "compound_code":"3X7R+W9 El Monte, CA, USA",
+                  "global_code":"85633X7R+W9"
+            },
+            "rating":4.7,
+            "reference":"ChIJCRUduFrXwoARrEo_qXjt0jA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"12349 Exline Street, El Monte",
+            "CBG":60374333072,
+            "Radius":153.6751348649
+      }
+]

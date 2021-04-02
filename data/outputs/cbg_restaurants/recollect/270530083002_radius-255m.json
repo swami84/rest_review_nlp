@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9450913,
+                        "lng":-93.2773005
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9464952803,
+                              "lng":-93.2762704197
+                        },
+                        "southwest":{
+                              "lat":44.9437973197,
+                              "lng":-93.2789683803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Valerie's Taqueria Inc",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3372,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118353603939789992918\">Collin Ehret<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxhVozJiQeGzyeD6LbcIyFBdd70YIs9wu6IxS2OZ3u2ULGKq5c1REY5XZwA-KueGInIiTUC16i8xR1gB0iI1NzaBx9JPe0ZRY0GYgu7TQgLYkNRIH72cq5BPGq-77fHUka2tPHztPNY_duGj10aS-R27mhb9y2c-7iuEqib14NWzJI",
+                        "width":2375
+                  }
+            ],
+            "place_id":"ChIJoT1zwPIn9ocRNLtO70sLbGQ",
+            "plus_code":{
+                  "compound_code":"WPWF+23 Minneapolis, MN, USA",
+                  "global_code":"86P8WPWF+23"
+            },
+            "rating":4.4,
+            "reference":"ChIJoT1zwPIn9ocRNLtO70sLbGQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":72,
+            "vicinity":"30 East 32nd Street, Minneapolis",
+            "CBG":270530083002,
+            "Radius":255.0941884132
+      }
+]

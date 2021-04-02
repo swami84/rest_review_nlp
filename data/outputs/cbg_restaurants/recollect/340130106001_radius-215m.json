@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7635051,
+                        "lng":-74.2074701
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7648054303,
+                              "lng":-74.2061533197
+                        },
+                        "southwest":{
+                              "lat":40.7621074697,
+                              "lng":-74.2088512803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Williams Street Fish Market",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111304586697508756118\">Alex Lawrence<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK8xjYE001aGTWBCFVDWK09m0HV6OKh_t54YEaDuJGW0BZZhv221D1YDewzwP0fNS_anKUS_sNZRtT0goE-eCrlA2Lnw8ayWlRv6dfWC4e2qOASL8-XCgK8WZhpqod1umOMU-nQRSgAwvnHsFXXJZDedERgI2FNJjPIbOE_KGBXalb-",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJFd8LsJNVwokRW77bgZFOBi8",
+            "plus_code":{
+                  "compound_code":"QQ7V+C2 East Orange, NJ, USA",
+                  "global_code":"87G7QQ7V+C2"
+            },
+            "rating":5,
+            "reference":"ChIJFd8LsJNVwokRW77bgZFOBi8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"302 William Street, East Orange",
+            "CBG":340130106001,
+            "Radius":214.8243985877
+      }
+]

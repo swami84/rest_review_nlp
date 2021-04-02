@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.683721,
+                        "lng":-73.9230264
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6850783803,
+                              "lng":-73.9216047197
+                        },
+                        "southwest":{
+                              "lat":40.6823804197,
+                              "lng":-73.9243026803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Greedi Kitchen \/ Greedi Vegan Bed Stuy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109526633917170908031\">Greedi Kitchen \/ Greedi Vegan Bed Stuy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI5nzl1-oRFTgkDraGxiP3nlKTuzl07GwqeFhN2HVpPw9tutrOha6i-2Ta807XXLpEc4zyOpbim7qXx5ypPCDyYK_0hbElPqXbBuPyFh2EIqMYDFV0h38bjbxRBmKurUVFtjgwm1RzSTCMD1yvo5JFJIbDChV9wjhF7lMnMc0ahOvT5",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJ32DGwL5dwokRujT_R6GkYTg",
+            "plus_code":{
+                  "compound_code":"M3MG+FQ Brooklyn, NY, USA",
+                  "global_code":"87G8M3MG+FQ"
+            },
+            "rating":4.6,
+            "reference":"ChIJ32DGwL5dwokRujT_R6GkYTg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":112,
+            "vicinity":"180 Ralph Avenue, Brooklyn",
+            "CBG":360470377004,
+            "Radius":133.6033812728
+      }
+]

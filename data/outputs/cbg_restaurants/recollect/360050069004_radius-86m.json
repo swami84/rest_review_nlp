@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8234149,
+                        "lng":-73.9181251
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8247945803,
+                              "lng":-73.9168103197
+                        },
+                        "southwest":{
+                              "lat":40.8220966197,
+                              "lng":-73.9195082803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sweet Corncourser Deli Market & Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJZbIPYcv1wokRbrcP6mPUS_8",
+            "plus_code":{
+                  "compound_code":"R3FJ+9P The Bronx, NY, USA",
+                  "global_code":"87G8R3FJ+9P"
+            },
+            "rating":4.3,
+            "reference":"ChIJZbIPYcv1wokRbrcP6mPUS_8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"The Bronx",
+            "CBG":360050069004,
+            "Radius":86.0032954325
+      }
+]

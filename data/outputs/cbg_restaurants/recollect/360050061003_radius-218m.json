@@ -1,0 +1,96 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8206059,
+                        "lng":-73.9253269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8221254803,
+                              "lng":-73.9242357697
+                        },
+                        "southwest":{
+                              "lat":40.8194275197,
+                              "lng":-73.9269337303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Subway",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107413123868379739255\">Keittisha Weekes-Toney<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKZtb44YA91dDuYc4M2UBlD4klCuD1iqEmuk8hlPE55iCVtaOnAtULOO0fTLimbbPVXxVJki6LhjsaE2VWXTWUPQEdPXY9mVxHo95t5kAzWvgYXIRkBmiDeBdefEtJlxbpqSQ7PfEbFDg9hL0bFLIQaYmdhsvwVAZ_3FEj8cGTVEEQD",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJEYYX9NH1wokRjxBgb3_r1oc",
+            "plus_code":{
+                  "compound_code":"R3CF+6V New York, NY, USA",
+                  "global_code":"87G8R3CF+6V"
+            },
+            "price_level":1.0,
+            "rating":2.8,
+            "reference":"ChIJEYYX9NH1wokRjxBgb3_r1oc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5.0,
+            "vicinity":"650 Grand Concourse, The Bronx",
+            "CBG":360050061003,
+            "Radius":218.2852342295
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8221149,
+                        "lng":-73.9230654
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8235900303,
+                              "lng":-73.9220911697
+                        },
+                        "southwest":{
+                              "lat":40.8208920697,
+                              "lng":-73.9247891303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mickie's Restaurant",
+            "permanently_closed":null,
+            "photos":null,
+            "place_id":"ChIJi_8QlM31wokRN1HiQPxhX8E",
+            "plus_code":{
+                  "compound_code":"R3CG+RQ New York, NY, USA",
+                  "global_code":"87G8R3CG+RQ"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJi_8QlM31wokRN1HiQPxhX8E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"United States",
+            "CBG":360050061003,
+            "Radius":218.2852342295
+      }
+]

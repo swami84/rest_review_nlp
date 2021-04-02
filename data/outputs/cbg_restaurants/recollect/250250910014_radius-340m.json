@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3155998,
+                        "lng":-71.0486417
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3170129303,
+                              "lng":-71.0470925697
+                        },
+                        "southwest":{
+                              "lat":42.3143149697,
+                              "lng":-71.0497905303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chau Chow Chinese Dim Sum & Seafood Restaurant",
+            "place_id":"ChIJyW8dse5744kRRU0RsGY4uU0",
+            "plus_code":{
+                  "compound_code":"8X82+6G Dorchester, Boston, MA, USA",
+                  "global_code":"87JC8X82+6G"
+            },
+            "reference":"ChIJyW8dse5744kRRU0RsGY4uU0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"699 William T Morrissey Boulevard, Dorchester",
+            "CBG":250250910014,
+            "Radius":340.4733386778
+      }
+]

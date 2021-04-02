@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3382325,
+                        "lng":-71.0989705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3395119803,
+                              "lng":-71.0974413697
+                        },
+                        "southwest":{
+                              "lat":42.3368140197,
+                              "lng":-71.1001393303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Caf\u00e9 G",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3016,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117301593844866427456\">Lourdes Zendejas<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJsomkyKFaXyFJO5cR6k8-3oYejCdxhaAwz6KJOnobahjkEclJaHTOsjEJBzR4VtrGmJV4p5l_-9LmjQL_8oCmgZiKZDjeRrdZhB6cj5ZJciIFmmAfnjyQ4oHEUMVjpsI8dDjDWNhzZAQIt6kTKoHz0mJ6j2rPXwVZMVQo3-tgvs0ak",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJawbNlop544kRDMWKyyqAOYM",
+            "plus_code":{
+                  "compound_code":"8WQ2+7C Boston, MA, USA",
+                  "global_code":"87JC8WQ2+7C"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJawbNlop544kRDMWKyyqAOYM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":127,
+            "vicinity":"The Isabella Stewart Gardner Museum, 25 Evans Way, Boston",
+            "CBG":250250103001,
+            "Radius":216.0794546578
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3394615,
+                        "lng":-71.0948709
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3406818803,
+                              "lng":-71.0938658197
+                        },
+                        "southwest":{
+                              "lat":42.3379839197,
+                              "lng":-71.0965637803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Garden Cafeteria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113845182370932736355\">Skytd Bigwood<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJEgle68NYkNg5L92flaATwkrGjAc0STayzQkl5jf8TNuvIlCxK9BSKA7EBSwREgreKsjDD1Wr2Q7c0V-u3J6lT2n_MdjeH2Gt3FoxkD1Imii1w19xWMES_PWW4j23AZ0l_5jDgoQGU6tP5TNvdyM0WzOsZiLSBErOqgIAPXr2aGIT6",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJqcSxKSB644kRRqnWHBNyVqE",
+            "plus_code":{
+                  "compound_code":"8WQ4+Q3 Boston, MA, USA",
+                  "global_code":"87JC8WQ4+Q3"
+            },
+            "price_level":null,
+            "rating":3.7,
+            "reference":"ChIJqcSxKSB644kRRqnWHBNyVqE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"465 Huntington Avenue, Boston",
+            "CBG":250250103001,
+            "Radius":216.0794546578
+      }
+]

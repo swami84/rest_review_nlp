@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7927263,
+                        "lng":-74.1855096
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7941664303,
+                              "lng":-74.1841455197
+                        },
+                        "southwest":{
+                              "lat":40.7914684697,
+                              "lng":-74.1868434803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizzanada",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107042677212534070843\">Pizzanada<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ0HNEt6Sdr3W2RBy29WkqyOEMv_jwsHk_6vaFCglyG-Y2Bo7dDI7HwSASfCx2dCe7PWi-6YTCUcReX3LJhHmEwUfUn1UuprtM2HyPHUYSEOEfUO-PZIQ82PLyH8cnbBAuMtGkosJNcJGEsTuAlboBCaCRJOXmM6xzU7NPbEUwoLD2B",
+                        "width":5250
+                  }
+            ],
+            "place_id":"ChIJF1BDtDJVwokRRh2Ct4W9oJY",
+            "plus_code":{
+                  "compound_code":"QRV7+3Q Bloomfield, NJ, USA",
+                  "global_code":"87G7QRV7+3Q"
+            },
+            "rating":4.6,
+            "reference":"ChIJF1BDtDJVwokRRh2Ct4W9oJY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":66,
+            "vicinity":"128 Montgomery Street, Bloomfield",
+            "CBG":340130155003,
+            "Radius":289.1872024955
+      }
+]

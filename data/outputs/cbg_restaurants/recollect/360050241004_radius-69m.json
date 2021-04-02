@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8521519,
+                        "lng":-73.9051399
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8535435803,
+                              "lng":-73.9038722197
+                        },
+                        "southwest":{
+                              "lat":40.8508456197,
+                              "lng":-73.9065701803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"@_justtasteit bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2560,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115008394438258699303\">@_justtasteit bakery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL4wke77QaSKt7dpXFk6GZt57B8u_0mGLnxHBgYisJ8-MDL2q5D8Py1emtCJbve8hCeLU7A68k_aqmpofd9LLrd8NPQbx-4TT8oWiol8sCoTk5lM_9_yjjqT_zDmovDg34femcJz1Gd-tQKqwmSaIuaka4xB6InwwRFoXSEDKBUC7Oq",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJ3dDCmNP1wokR6-paVRPx8bM",
+            "plus_code":{
+                  "compound_code":"V32V+VW New York, NY, USA",
+                  "global_code":"87G8V32V+VW"
+            },
+            "rating":5,
+            "reference":"ChIJ3dDCmNP1wokR6-paVRPx8bM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"2028 Creston Avenue, The Bronx",
+            "CBG":360050241004,
+            "Radius":68.6551731089
+      }
+]

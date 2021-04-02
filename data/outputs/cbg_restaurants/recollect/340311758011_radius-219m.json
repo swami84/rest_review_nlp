@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8546848,
+                        "lng":-74.1210249
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8560337803,
+                              "lng":-74.1196759197
+                        },
+                        "southwest":{
+                              "lat":40.8533358197,
+                              "lng":-74.1223738803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger King",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109534875967045522846\">Carlos Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKJMD5AYuMOq4PWuARd6xshjJZrn8dWel-8lRM_qylLSwWT3fKYdWRHqPiJZvW78NBgK2sTWkb_YNbZufiUXX-JquswxsIWHdbBk-m1IrYXHD5W-PWaEk7X91PYFKtEHwQPnbv7lWo2Dk7rZLZ9uhToe-q_lY7gmtQy4BBOQC1dsLAd",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJnU_TiCr5wokROnYqh2Hkx7w",
+            "plus_code":{
+                  "compound_code":"VV3H+VH Passaic, NJ, USA",
+                  "global_code":"87G7VV3H+VH"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJnU_TiCr5wokROnYqh2Hkx7w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":852,
+            "vicinity":"22 Gregory Avenue, Passaic",
+            "CBG":340311758011,
+            "Radius":218.7651930669
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8566582,
+                        "lng":-74.1237866
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8580162803,
+                              "lng":-74.1225018697
+                        },
+                        "southwest":{
+                              "lat":40.8553183197,
+                              "lng":-74.1251998303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sevilla Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2667,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103694690964214632585\">Sevilla Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKf7906g_JI8xwJiyBoSMBfgCoYWADfiUQWCg0EicKezdBa1CPK8axSxT-pJGB05L3a5qSDwixViLFr5HrfKAQH5_XJLGMNsUhqkjvz2GWPtxWlmHGlnoYC7Y6kAbyAN1afs2HW9FZj90_wnSECzh-qR07g9lbrW9_NbwpuO9e6oBpF",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJu0CIKSv5wokRj7qDil9suvU",
+            "plus_code":{
+                  "compound_code":"VV4G+MF Passaic, NJ, USA",
+                  "global_code":"87G7VV4G+MF"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJu0CIKSv5wokRj7qDil9suvU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":237,
+            "vicinity":"505 Main Avenue, Passaic",
+            "CBG":340311758011,
+            "Radius":218.7651930669
+      }
+]

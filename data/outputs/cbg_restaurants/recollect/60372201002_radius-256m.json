@@ -1,0 +1,100 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0253014,
+                        "lng":-118.3573163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0267503803,
+                              "lng":-118.3559686197
+                        },
+                        "southwest":{
+                              "lat":34.0240524197,
+                              "lng":-118.3586665803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Medall\u00f3n",
+            "photos":[
+                  {
+                        "height":2069,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112088561642823034126\">Medall\u00f3n<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJFMz5QDFog9JBDMBeUwc_Qji8MFyY5AFSjnLLLf4O0dHRXZ6MULYjWoQK8ULgXLApPu6s45BL427Bgm9J84lDFQYUhMvK6CfjFluHqZqxx2qJMtS9kdvpAONlg6IZtOIZj9OIZE7hmSvf5rsxGGeEDg4VWj_E66VJ_cHCKHV-fZCSh",
+                        "width":3101
+                  }
+            ],
+            "place_id":"ChIJZ9OKulW5woARVqI0iIsqt78",
+            "plus_code":{
+                  "compound_code":"2JGV+43 Los Angeles, CA, USA",
+                  "global_code":"85632JGV+43"
+            },
+            "rating":5,
+            "reference":"ChIJZ9OKulW5woARVqI0iIsqt78",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"5162 West Jefferson Boulevard suite b, Los Angeles",
+            "CBG":60372201002,
+            "Radius":255.5928263296
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0253302,
+                        "lng":-118.3573269
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0267647303,
+                              "lng":-118.3559790197
+                        },
+                        "southwest":{
+                              "lat":34.0240667697,
+                              "lng":-118.3586769803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"West Jeff To-Go",
+            "photos":[
+                  {
+                        "height":2983,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109627499109394425970\">Carol G.R<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwshMdF8V7XIjGJKrvX7p3eSNeK4nkHhUGXPjiMTUN31yCDscA3y7L-lA_p8DgAsstjDmyIVgiZpTrxoP_F4vPjlaBVRP5d--pyLreMcV6M6sL7CqLFyTqN1NacrXTacOEBEsOqG3M11lbTQDf3NfE_SzMr0OVh7nqPHWGr-7RseS0",
+                        "width":4829
+                  }
+            ],
+            "place_id":"ChIJ2zFOTL25woARoo2-BD5oSbc",
+            "plus_code":{
+                  "compound_code":"2JGV+43 Los Angeles, CA, USA",
+                  "global_code":"85632JGV+43"
+            },
+            "rating":5,
+            "reference":"ChIJ2zFOTL25woARoo2-BD5oSbc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"5162 West Jefferson Boulevard, Los Angeles",
+            "CBG":60372201002,
+            "Radius":255.5928263296
+      }
+]

@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7499244,
+                        "lng":-74.191239
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7512307303,
+                              "lng":-74.1897851197
+                        },
+                        "southwest":{
+                              "lat":40.7485327697,
+                              "lng":-74.1924830803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Vals Furniture",
+            "place_id":"ChIJtaxAK5lUwokRPp-nZOTx-FI",
+            "plus_code":{
+                  "compound_code":"PRX5+XG Newark, NJ, USA",
+                  "global_code":"87G7PRX5+XG"
+            },
+            "rating":4.6,
+            "reference":"ChIJtaxAK5lUwokRPp-nZOTx-FI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"56 North 5th Street, Newark",
+            "CBG":340130016001,
+            "Radius":206.5704482792
+      }
+]

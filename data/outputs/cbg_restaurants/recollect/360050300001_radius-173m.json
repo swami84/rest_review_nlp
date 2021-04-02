@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8518507,
+                        "lng":-73.8298348
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8531659803,
+                              "lng":-73.8284546697
+                        },
+                        "southwest":{
+                              "lat":40.8504680197,
+                              "lng":-73.8311526303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lee Xing",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108623403809900997313\">Liying Chen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLQHK5jcCW-ucqmf2tczqRavHoK4yu1WyVgEs1VjNaxO1yH6n1Vn43qhmWSriIq23kDYRWf9p75nU6cOv2dQiB5FLYKMMrZLevg4IW2qj5FdjtXx9zLTyunA8FCnt99xA-eVOS3fxIhkAxMXqC2Yepi2VkhQm64ojrssyq30V5UsVAF",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJEebd_qeMwokR5A74ggTnI2k",
+            "plus_code":{
+                  "compound_code":"V52C+P3 The Bronx, NY, USA",
+                  "global_code":"87G8V52C+P3"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJEebd_qeMwokR5A74ggTnI2k",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"3207 Westchester Avenue, The Bronx",
+            "CBG":360050300001,
+            "Radius":173.3393878968
+      }
+]

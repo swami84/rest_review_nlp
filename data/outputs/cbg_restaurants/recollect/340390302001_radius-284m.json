@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6564574,
+                        "lng":-74.1935064
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6578063803,
+                              "lng":-74.1921574197
+                        },
+                        "southwest":{
+                              "lat":40.6551084197,
+                              "lng":-74.1948553803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nile",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJx_ai42dNwokR6jULwWeq6-M",
+            "plus_code":{
+                  "compound_code":"MR44+HH Elizabethport, Elizabeth, NJ, USA",
+                  "global_code":"87G7MR44+HH"
+            },
+            "rating":4.5,
+            "reference":"ChIJx_ai42dNwokR6jULwWeq6-M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":15,
+            "vicinity":"135 5th Street, Elizabethport",
+            "CBG":340390302001,
+            "Radius":283.6488030146
+      }
+]

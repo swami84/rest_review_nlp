@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0810297,
+                        "lng":-118.2846258
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0823788803,
+                              "lng":-118.2831956197
+                        },
+                        "southwest":{
+                              "lat":34.0796809197,
+                              "lng":-118.2858935803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"B\u00e9 \u00d9 - Vietnamese Street Food & Comfort Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108221014096383968034\">B\u00e9 \u00d9 - Vietnamese Street Food &amp; Comfort Food<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJr0D-82QkOPqRU62UIsSzikGi96kizsnk0jyWxv8tfqlZc_ZC0Ak7Zo07eq41_xqie8TpVet1oBw7hpWU4k4k216GVDYKexWLtVSBTklfC9vqPvKJo2TIGqfYMU06-4JFZxsKf0MvW5xSWRnLmsV5Vbp-_0GBjhy3-Jfq2GpgS9GO-",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJOURM7kPHwoARxpS9UJn3GIw",
+            "plus_code":{
+                  "compound_code":"3PJ8+C4 Los Angeles, CA, USA",
+                  "global_code":"85633PJ8+C4"
+            },
+            "rating":4.9,
+            "reference":"ChIJOURM7kPHwoARxpS9UJn3GIw",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"557 North Hoover Street, Los Angeles",
+            "CBG":60371959031,
+            "Radius":219.9391622551
+      }
+]

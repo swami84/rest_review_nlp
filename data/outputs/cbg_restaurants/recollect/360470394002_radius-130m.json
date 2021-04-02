@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5982684,
+                        "lng":-73.9634314
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5995149803,
+                              "lng":-73.9620632697
+                        },
+                        "southwest":{
+                              "lat":40.5968170197,
+                              "lng":-73.9647612303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Rosner Kosher Meat",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108364808975838231217\">Rosner Kosher Meat<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJhqkbigK9MKgT4Vp0WIy_Za-STJYBieXoUGGhHx4ggLaT-a1JRL3WtdH-QNdPn00u0eRq49FGbas2fWgFG6vLhsjWv5cQSBBMZnDveEMYiI8ms0LKSBSK0w04LtgLyCBvcjMvr8aF_EhHSRPFYHRLWxQvHU7ofAXnEoJrd0aguTUSh",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJ_UJGbvREwokRqGuJs_XTKQw",
+            "plus_code":{
+                  "compound_code":"H2XP+8J Brooklyn, NY, USA",
+                  "global_code":"87G8H2XP+8J"
+            },
+            "rating":4.1,
+            "reference":"ChIJ_UJGbvREwokRqGuJs_XTKQw",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":14,
+            "vicinity":"719 Avenue U, Brooklyn",
+            "CBG":360470394002,
+            "Radius":129.8567846917
+      }
+]

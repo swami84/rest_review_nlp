@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.8083284,
+                        "lng":-80.1891607
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.8096215303,
+                              "lng":-80.1878397197
+                        },
+                        "southwest":{
+                              "lat":25.8069235697,
+                              "lng":-80.1905376803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wendy's",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3726,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115524933556148013556\">Marta Ventura<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIJOcB_qWs5mF47fMmEecJehsbCrHhI3ffRVmrUUvEWwzTh3W2YtsEYOUu24RoGDR-shmyzA9Nyc5336s1nLJNA7fLh5vjp_fWWI_7eFmy93YVUfJBkNlro29sSLqpCX-7Dxlp9tiVTMfnelyx-PDDgMNWCU-KESmRJir1D0oyx2BY_",
+                        "width":4968
+                  }
+            ],
+            "place_id":"ChIJ48-luVWx2YgRAOjY2SCMd0Y",
+            "plus_code":{
+                  "compound_code":"RR56+88 Miami, FL, USA",
+                  "global_code":"76QXRR56+88"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJ48-luVWx2YgRAOjY2SCMd0Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1299,
+            "vicinity":"3301 Biscayne Boulevard, Miami",
+            "CBG":120860027052,
+            "Radius":186.4763931608
+      }
+]

@@ -1,0 +1,53 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":37.7735451,
+                        "lng":-122.4255561
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7749650803,
+                              "lng":-122.4242405697
+                        },
+                        "southwest":{
+                              "lat":37.7722671197,
+                              "lng":-122.4269385303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Revelry Bistro",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116047615301662727813\">Revelry Bistro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKjwmkaNOuS5M_n0Zge30pEeczmGucJGIjO4q6HhEcRzP1yNi-ibW-BuhicGYcRBCYyahFxCknoBLN8cpghuJMCAsKiNy_pwNY7JSF4QO0YEd77b076-Xm9TaaHOjnKlkVcK-N5nC1E3wPHjpvRyB_T6FyeT2j_cBg7Uz8_3hqBbzCf",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJ7zNHv6GAhYARWzRtSYMSbwE",
+            "plus_code":{
+                  "compound_code":"QHFF+CQ Hayes Valley, San Francisco, CA, USA",
+                  "global_code":"849VQHFF+CQ"
+            },
+            "price_level":3,
+            "rating":4.5,
+            "reference":"ChIJ7zNHv6GAhYARWzRtSYMSbwE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":195,
+            "vicinity":"297 Page Street, San Francisco",
+            "CBG":60750168023,
+            "Radius":125.239921557
+      }
+]

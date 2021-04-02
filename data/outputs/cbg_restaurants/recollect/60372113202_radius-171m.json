@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0700687,
+                        "lng":-118.2944203
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0714179303,
+                              "lng":-118.2929508697
+                        },
+                        "southwest":{
+                              "lat":34.0687199697,
+                              "lng":-118.2956488303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Melodious Vibes",
+            "place_id":"ChIJATpHxxvHwoARoZKsRBpBjQg",
+            "plus_code":{
+                  "compound_code":"3PC4+26 Los Angeles, CA, USA",
+                  "global_code":"85633PC4+26"
+            },
+            "reference":"ChIJATpHxxvHwoARoZKsRBpBjQg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"225 South Berendo Street, Los Angeles",
+            "CBG":60372113202,
+            "Radius":171.414314699
+      }
+]

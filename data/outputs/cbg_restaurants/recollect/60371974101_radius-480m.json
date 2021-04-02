@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.093138,
+                        "lng":-118.2442557
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0944298303,
+                              "lng":-118.2428487197
+                        },
+                        "southwest":{
+                              "lat":34.0917318697,
+                              "lng":-118.2455466803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/museum-71.png",
+            "name":"Boogies Diner & Discolypso",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110333926756880335896\">Boogies Diner &amp; Discolypso<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKT1YPj5HeanBsDxqRw_xoS0TF6um91g2S0YVGcojWhSZcJVday4iuXI9ah4M4wlXXW3rvqHTykDGRdYISrRPuK0IjB9-EO2uuacAg8Y4U8V1EPGjEzogBMv9zrP47_dcTSRHcQbQtSWQ3gQQ8Lu_t6vZaDOT4o_kfiHcmCnT5-DVM",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJ2aJR_ErHwoARR0a_dnluIzc",
+            "plus_code":{
+                  "compound_code":"3QV4+77 Los Angeles, CA, USA",
+                  "global_code":"85633QV4+77"
+            },
+            "rating":3.7,
+            "reference":"ChIJ2aJR_ErHwoARR0a_dnluIzc",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "museum",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"2421 Valley View Drive, Los Angeles",
+            "CBG":60371974101,
+            "Radius":480.3699101528
+      }
+]

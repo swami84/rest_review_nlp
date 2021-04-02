@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":40.8644448,
+                        "lng":-73.9002497
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8657139803,
+                              "lng":-73.8987221697
+                        },
+                        "southwest":{
+                              "lat":40.8630160197,
+                              "lng":-73.9014201303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "permanently_closed":true,
+            "photos":[
+                  {
+                        "height":709,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111932893435757035044\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLOc0zx3yuDuxlGCiklqnCjnh1caYJr9aC_dFAS35PB8hqHaA_rD2AwPGS_2WOfqwwlDn-zPE_AQ3n40L5ORIEBwVE-9BO1uhpeESHRoO9-9c9RLPD16JjaSwT2gW8t95eTNTbmUFS1NVjGkGKRlCWNcgXRhsaMnZSoy73VWqM-g4Bx",
+                        "width":1261
+                  }
+            ],
+            "place_id":"ChIJd2ZRDDnzwokRjZO3ZN5dOeg",
+            "plus_code":{
+                  "compound_code":"V37X+QW The Bronx, NY, USA",
+                  "global_code":"87G8V37X+QW"
+            },
+            "price_level":1,
+            "rating":4,
+            "reference":"ChIJd2ZRDDnzwokRjZO3ZN5dOeg",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"2501 Jerome Avenue, The Bronx",
+            "CBG":360050265004,
+            "Radius":110.5682042843
+      }
+]

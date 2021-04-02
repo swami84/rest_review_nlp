@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.670789,
+                        "lng":-73.945891
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6720241303,
+                              "lng":-73.9445526197
+                        },
+                        "southwest":{
+                              "lat":40.6693261697,
+                              "lng":-73.9472505803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Divine Juice Bar",
+            "place_id":"ChIJLYoUwONbwokRWBylPfYAj14",
+            "plus_code":{
+                  "compound_code":"M3C3+8J Brooklyn, NY, USA",
+                  "global_code":"87G8M3C3+8J"
+            },
+            "reference":"ChIJLYoUwONbwokRWBylPfYAj14",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"923 Lincoln Place, Brooklyn",
+            "CBG":360470337003,
+            "Radius":153.3776128984
+      }
+]

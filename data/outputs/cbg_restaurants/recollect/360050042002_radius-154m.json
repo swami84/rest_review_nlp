@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8229466,
+                        "lng":-73.8642526
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8245542803,
+                              "lng":-73.8629683697
+                        },
+                        "southwest":{
+                              "lat":40.8218563197,
+                              "lng":-73.8656663303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Fogon de Luquillo de Evelym",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJPdj0BCD1wokRkDjBi-YIN50",
+            "plus_code":{
+                  "compound_code":"R4FP+57 The Bronx, NY, USA",
+                  "global_code":"87G8R4FP+57"
+            },
+            "reference":"ChIJPdj0BCD1wokRkDjBi-YIN50",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1790 Story Avenue, The Bronx",
+            "CBG":360050042002,
+            "Radius":153.500008811
+      }
+]

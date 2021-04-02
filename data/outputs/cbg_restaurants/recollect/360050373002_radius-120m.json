@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8481185,
+                        "lng":-73.8885196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8494346803,
+                              "lng":-73.8871997197
+                        },
+                        "southwest":{
+                              "lat":40.8467367197,
+                              "lng":-73.8898976803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dragon Sea Chinese Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111322364192988956665\">Alrick collins Sr.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLwSzeILlGpSwz_sj8d30H2PbrptFuV5i_06KpmWwricKng8XI3AggtrlXmYyNsKSyBJzk7_RmOiRWhGfZNuNzWOKOy52FfEGRSbwbg7TCErmQu3nfRwDgkHnLrPlpqVfjWe3PDCEluA6DkahN9TG1k_JqGsu5Q2_MEN1OJkYI7Gd_B",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJ02j6K4j0wokR9LJ6NCvaWzo",
+            "plus_code":{
+                  "compound_code":"R4X6+6H New York, NY, USA",
+                  "global_code":"87G8R4X6+6H"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ02j6K4j0wokR9LJ6NCvaWzo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":144,
+            "vicinity":"703 East 180th Street, The Bronx",
+            "CBG":360050373002,
+            "Radius":119.5522919455
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8482222,
+                        "lng":-73.8892688
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8496012303,
+                              "lng":-73.8878928197
+                        },
+                        "southwest":{
+                              "lat":40.8469032697,
+                              "lng":-73.8905907803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Los Amigos Restaurant & Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":778,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111322364192988956665\">Alrick collins Sr.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtaahWONca7TSPo8-0b6QYK-ndqsf1ff_cTNY72mJCkUsA0hRFT5zzclGrXVAw8sObSlrQxmCNCbS7ucjrTyTBSYk1zUx0nGM4ES2kG5lIBGTuIiMCvMOHsOFmvggIK2NRUWxZk2d3BO-iRD_dReDSOpzK-SFsZ0wc4Q7KaXPwKGjY",
+                        "width":1600
+                  }
+            ],
+            "place_id":"ChIJM8Rng2L0wokRjDcrFJVKRxo",
+            "plus_code":{
+                  "compound_code":"R4X6+77 New York, NY, USA",
+                  "global_code":"87G8R4X6+77"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJM8Rng2L0wokRjDcrFJVKRxo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "meal_delivery",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":76,
+            "vicinity":"674 East 180th Street, The Bronx",
+            "CBG":360050373002,
+            "Radius":119.5522919455
+      }
+]

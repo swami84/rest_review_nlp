@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7872124,
+                        "lng":-122.3931438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7885030803,
+                              "lng":-122.3915146697
+                        },
+                        "southwest":{
+                              "lat":37.7858051197,
+                              "lng":-122.3942126303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tonys pizza san francisco",
+            "place_id":"ChIJOYReq7CBhYARjHTQOFlVgMs",
+            "plus_code":{
+                  "compound_code":"QJP4+VP South Beach, San Francisco, CA, USA",
+                  "global_code":"849VQJP4+VP"
+            },
+            "reference":"ChIJOYReq7CBhYARjHTQOFlVgMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"340 Fremont Street, San Francisco",
+            "CBG":60750615004,
+            "Radius":216.5238783517
+      }
+]

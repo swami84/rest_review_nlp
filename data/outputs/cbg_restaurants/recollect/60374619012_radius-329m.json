@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.154404,
+                        "lng":-118.150359
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1557787803,
+                              "lng":-118.1491045197
+                        },
+                        "southwest":{
+                              "lat":34.1530808197,
+                              "lng":-118.1518024803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Estrella Tacos #2",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105233834353313696531\">Blossom<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKn8B7w-qvcaHp5wI2LL7ebRXgAb8fy57ZxTH_o5_PKj9tUJUVzg88tOsCzbBMWZKLB-DCK03Xx9zEoA56sQ5DnPw0SgXdxkzv_TYJX0zLKV9vVmtV7OB2kc_uOVJ7bMQj96Cpch4lEIIFEDdJJA6CfuJbde30xYoAouQFg0wt2zya_",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJ7dAk4wzDwoARy8TMfbLvUNI",
+            "plus_code":{
+                  "compound_code":"5R3X+QV Pasadena, CA, USA",
+                  "global_code":"85635R3X+QV"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJ7dAk4wzDwoARy8TMfbLvUNI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":843.0,
+            "vicinity":"502 North Fair Oaks Avenue, Pasadena",
+            "CBG":60374619012,
+            "Radius":328.5831609728
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1553411,
+                        "lng":-118.1504447
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1566899303,
+                              "lng":-118.1491510697
+                        },
+                        "southwest":{
+                              "lat":34.1539919697,
+                              "lng":-118.1518490303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fonda Do\u00f1a Julia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":562,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107028502998825104164\">Fonda Do\u00f1a Julia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIXJjVWuGHLbCIAwwpjvY4mzrsAbkB4xmcAzwyk46lOt0bt8zbb0WWJqQ6g9Nn6qQH4Z_wUctOnZnX2IvS8vXGFTp6V7WSEChRDlU2-awbT0SX8eGQcKhwOCYv6Jssr3Qh7Tknt4CozQxB_-Nkjs4sojoToTu0UZEcLh6h5SYdNF6Lp",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJL5Q_dPDDwoARudzeMpazmng",
+            "plus_code":{
+                  "compound_code":"5R4X+4R Pasadena, CA, USA",
+                  "global_code":"85635R4X+4R"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJL5Q_dPDDwoARudzeMpazmng",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"548 North Fair Oaks Avenue, Pasadena",
+            "CBG":60374619012,
+            "Radius":328.5831609728
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8750936,
+                        "lng":-118.1237163
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8764205303,
+                              "lng":-118.1224268697
+                        },
+                        "southwest":{
+                              "lat":33.8737225697,
+                              "lng":-118.1251248303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chris & Pitts BBQ Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111301059344818317030\">Richard Buttery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL1yVoaXYyC7cBej4IzumNW5gjjDn0DU7VnbVITO95U13lXmso5yF42l0RUqTL8oXsYY1mfI_N9ZbHdYWai6BUXPprAaT0QxYa_TN9qFOaw_m3V-IivkJ-iEafTav_ujNF6OmxYQDUAigksz6wl5mHFNhAJS6tI5O7TXrhhJ_vfcqwf",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJXVikLaMy3YAR339YdFEFztQ",
+            "plus_code":{
+                  "compound_code":"VVGG+2G Bellflower, CA, USA",
+                  "global_code":"8553VVGG+2G"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJXVikLaMy3YAR339YdFEFztQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1228,
+            "vicinity":"9839 Artesia Boulevard, Bellflower",
+            "CBG":60375544051,
+            "Radius":306.3372799632
+      }
+]

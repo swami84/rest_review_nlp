@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9352204,
+                        "lng":-118.3626536
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9365690303,
+                              "lng":-118.3612015197
+                        },
+                        "southwest":{
+                              "lat":33.9338710697,
+                              "lng":-118.3638994803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jumbo's Zingy Chicken",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":407,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101071096540679146953\">Jumbo&#39;s Zingy Chicken<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKaVOq-2zTLKxYZXa7RmW9-xw5U51Tk_CruW8V3DxNzQK_QhZ4NFqZrP9d-78DlWdareuY-VjywV8TyqmIL5zSaJYBj_VC-pp8zzSOYUkzXnXeSnFR0cBb4TWln4NmGHzNx2R_1yU9KWxDWOGF-fFbPgaZRiOBGGbojylfBZ0rFEfB6",
+                        "width":721
+                  }
+            ],
+            "place_id":"ChIJxZQbhHC3woARNe1Yw4TPq5o",
+            "plus_code":{
+                  "compound_code":"WJPP+3W Inglewood, CA, USA",
+                  "global_code":"8553WJPP+3W"
+            },
+            "rating":3.2,
+            "reference":"ChIJxZQbhHC3woARNe1Yw4TPq5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"11027 South Burl Avenue, Inglewood",
+            "CBG":60376016003,
+            "Radius":420.5918878768
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9332521,
+                        "lng":-118.3704071
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9344962803,
+                              "lng":-118.3689861197
+                        },
+                        "southwest":{
+                              "lat":33.9317983197,
+                              "lng":-118.3716840803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Jalisco",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJa890H9u3woARZQbfhO-bkGY",
+            "plus_code":{
+                  "compound_code":"WJMH+8R Los Angeles, CA, USA",
+                  "global_code":"8553WJMH+8R"
+            },
+            "rating":5.0,
+            "reference":"ChIJa890H9u3woARZQbfhO-bkGY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"11209 South La Cienega Boulevard, Los Angeles",
+            "CBG":60376016003,
+            "Radius":420.5918878768
+      }
+]

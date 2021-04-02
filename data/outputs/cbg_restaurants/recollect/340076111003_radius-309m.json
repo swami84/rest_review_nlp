@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.864813,
+                        "lng":-75.099793
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.8660768803,
+                              "lng":-75.0984778197
+                        },
+                        "southwest":{
+                              "lat":39.8633789197,
+                              "lng":-75.1011757803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Wawa",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":400,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114163588754020797580\">Wawa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKbxTvx3alWmrujhKDdHlMNZVzmu99EanGWJUxzmaVIzl26Gb3B4iRGAvgkx_ifrB7duav_gF5l6FHiVZHbQOJd5JFPHMLhYUVNvZOwx6vw2xUYQtNFOVaxdqrTVTHq0aIPZ_CxofwL8V9yWTkIUT29Z0Tdt1QrfQ-DrhWIhqTMp0hE",
+                        "width":500
+                  }
+            ],
+            "place_id":"ChIJ38tqMlHOxokR3p5JiZDQA54",
+            "plus_code":{
+                  "compound_code":"VW72+W3 Bellmawr, NJ, USA",
+                  "global_code":"87F6VW72+W3"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ38tqMlHOxokR3p5JiZDQA54",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"112 Edgewood Avenue, Bellmawr",
+            "CBG":340076111003,
+            "Radius":308.8143107442
+      }
+]

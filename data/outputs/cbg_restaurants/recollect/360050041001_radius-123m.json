@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8099829,
+                        "lng":-73.9176117
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8113616803,
+                              "lng":-73.9163529197
+                        },
+                        "southwest":{
+                              "lat":40.8086637197,
+                              "lng":-73.9190508803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Brook Ave Deli & Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117325062758562452561\">Evelyn Morales<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL2kC45SKcHzj9C6A1H8cZbJlqmYScEuJ2satgKwK8fxDOcZtF5rFRPrODU-NPdceLUMSgIqElbQJomrdF4GYFyecp6JMy58On3KX5hv-KCFIE6IdHHLEjIxnVEiBmfWi4YYvvI-ySaKzdlFDBi_k76TbMLlS7bYWmqCGwvDaBPqY-K",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJC4JPrcb1wokRFWPvEgABtMU",
+            "plus_code":{
+                  "compound_code":"R35J+XX New York, NY, USA",
+                  "global_code":"87G8R35J+XX"
+            },
+            "rating":4.9,
+            "reference":"ChIJC4JPrcb1wokRFWPvEgABtMU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"348 Brook Avenue, The Bronx",
+            "CBG":360050041001,
+            "Radius":122.9402632406
+      }
+]

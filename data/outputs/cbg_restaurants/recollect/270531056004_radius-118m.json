@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9677673,
+                        "lng":-93.2838577
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9692144303,
+                              "lng":-93.2824456697
+                        },
+                        "southwest":{
+                              "lat":44.9665164697,
+                              "lng":-93.2851436303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunn Brothers Coffee",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2392,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100451961417008967325\">John Kelly<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLqXCDWzoMi0zsk0tc1GHsCIE3kAMBjr1TckBWUKy4wEk-WV-hl7vkTRzxWLAyGZJp8ESGWJgTlME91x_O9sYk3USa4ZVXdFLX1tQMFg4diuTFITZ8YPlFNoTceW2aGomYXrFBqwaru-yQz0TDlqrSEvQpI64QWwdXLEfbDyFfOcbtM",
+                        "width":4135
+                  }
+            ],
+            "place_id":"ChIJc7OyPsEys1IROH5FV88B4MA",
+            "plus_code":{
+                  "compound_code":"XP98+4F Minneapolis, MN, USA",
+                  "global_code":"86P8XP98+4F"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJc7OyPsEys1IROH5FV88B4MA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":450,
+            "vicinity":"329 West 15th Street, Minneapolis",
+            "CBG":270531056004,
+            "Radius":117.5885332247
+      }
+]

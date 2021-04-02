@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6719284,
+                        "lng":-73.9167867
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6732809803,
+                              "lng":-73.9155025197
+                        },
+                        "southwest":{
+                              "lat":40.6705830197,
+                              "lng":-73.9182004803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Crown Fried Chicken And Pizza Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1080,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111802234693273890571\">jiten verma<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL8zE7uxQDZconrQsqBFXwIPW0154DdEy3hT8sgq8xzt7XYXBTS4UnrlPLEU2OVNVwJeCbRXykEinPFW5zUB4KX1C-CNq6i873d11EjeIklqbjl4QnlRORnhCLpV8vvW92RC92F-NL4gFoF1Wrhs1j-jKCQZxOXzNzP7EzyroaViK6D",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJTXrAyWZcwokR3Qs4oRLLn6c",
+            "plus_code":{
+                  "compound_code":"M3CM+Q7 Brooklyn, NY, USA",
+                  "global_code":"87G8M3CM+Q7"
+            },
+            "price_level":1.0,
+            "rating":3.9,
+            "reference":"ChIJTXrAyWZcwokR3Qs4oRLLn6c",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":51,
+            "vicinity":"407 Saratoga Avenue, Brooklyn",
+            "CBG":360470363003,
+            "Radius":148.9631457296
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.67172,
+                        "lng":-73.91383
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6731585303,
+                              "lng":-73.9125446697
+                        },
+                        "southwest":{
+                              "lat":40.6704605697,
+                              "lng":-73.9152426303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Real jamaican food",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115111199991604954141\">Jennifer Evans<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKkU7IUVtVfkIwZufYThtPL4QOtMnXi85SsGreeER4ss-z6sQknnGEdgwEvefKuksHGP-5bo7nGwArp5eeNMHJigS1JsCfksAWHJ8scEunzYnFQl_7lVbXenwj_4Te3XZk-rtW1FSn_mBjXzxNS7F-moV7HMpnF9_B-9S1Kz2v4P_g",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkU50SGdcwokR-hHIgowQSWc",
+            "plus_code":{
+                  "compound_code":"M3CP+MF Brooklyn, NY, USA",
+                  "global_code":"87G8M3CP+MF"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJkU50SGdcwokR-hHIgowQSWc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":52,
+            "vicinity":"1638 Eastern Parkway, Brooklyn",
+            "CBG":360470363003,
+            "Radius":148.9631457296
+      }
+]

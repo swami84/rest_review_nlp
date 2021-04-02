@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5809917,
+                        "lng":-73.9662644
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5821774803,
+                              "lng":-73.9647432197
+                        },
+                        "southwest":{
+                              "lat":40.5794795197,
+                              "lng":-73.9674411803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2976,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105318413203542460760\">Shakasim Sharakhmedov<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgS_fNjPpLqZcUAphhnvJ3DOVdKZJnoXMqFRs3xcDAnLTt4bbLXgqS_pQsv3huKvUDDV-eZV53ycQ90l64iEfGJfmPa9jVDoe2l7MPyQ7ToberwrUvIF5c1lv5i6I_13Ahxu5gzVgNhVN7IzuA6fteqxSi1Ebnasf1dRM40t0kbQxc",
+                        "width":3968
+                  }
+            ],
+            "place_id":"ChIJrS5wbUREwokR9t7KcgZAHNU",
+            "plus_code":{
+                  "compound_code":"H2JM+9F New York, NY, USA",
+                  "global_code":"87G8H2JM+9F"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJrS5wbUREwokR9t7KcgZAHNU",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":508,
+            "vicinity":"359 Neptune Avenue Suite 361, Brooklyn",
+            "CBG":360470366002,
+            "Radius":169.294483525
+      }
+]

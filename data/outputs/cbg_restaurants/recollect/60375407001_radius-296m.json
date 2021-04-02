@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9292515,
+                        "lng":-118.2522853
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9307108303,
+                              "lng":-118.2508768197
+                        },
+                        "southwest":{
+                              "lat":33.9280128697,
+                              "lng":-118.2535747803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hawkins House of Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1134,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100628241609761386745\">Jared Cohee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJKplWT9iFfl2p6BiMSyEd59Lt_6mg_xsx880u1fcYJ8w4wggjnhQ8_QEJCIHyZ-UYoVqPqLbdUVmtVTf2gRg2S1Fg0sFax22B-7NXKCI7UE64rYPVGQiuMII6RRMtimfN5OdXw51Y-meAPK3aQRzRJyI0RaDfXbVAD_0BgWPD7052g",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJzwDSzczLwoARijd1lUIzYqc",
+            "plus_code":{
+                  "compound_code":"WPHX+P3 Los Angeles, CA, USA",
+                  "global_code":"8553WPHX+P3"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJzwDSzczLwoARijd1lUIzYqc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2804,
+            "vicinity":"11603 Slater Street, Los Angeles",
+            "CBG":60375407001,
+            "Radius":295.9043937692
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9291112,
+                        "lng":-118.2517357
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9306422803,
+                              "lng":-118.2503058197
+                        },
+                        "southwest":{
+                              "lat":33.9279443197,
+                              "lng":-118.2530037803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mariscos Los Koritas Estilo Nayarit",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101867729546104956382\">Cesar Lopez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4iZ_oreY9B0-UaGCKmusnF8STwwBf3W2bjoZcwme5AMFVKHaN-WTmG2wEczW6feslrGyYE8NsDD6sT1ItSQ-K70tbrVPbIF5WvVNkgw_vcj1y0UXl6f8_FM3xoin9Wpnv3LlcNmh5U4T48c6HeslddLyHXcn_sIwUnPArya9ELIK4",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJX98wxMzLwoAR8wOjC8wSW2Q",
+            "plus_code":{
+                  "compound_code":"WPHX+J8 Los Angeles, CA, USA",
+                  "global_code":"8553WPHX+J8"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJX98wxMzLwoAR8wOjC8wSW2Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":175,
+            "vicinity":"1310 East Imperial Highway, Los Angeles",
+            "CBG":60375407001,
+            "Radius":295.9043937692
+      }
+]

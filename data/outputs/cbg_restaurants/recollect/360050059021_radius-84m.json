@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.82626,
+                        "lng":-73.92159
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8276089803,
+                              "lng":-73.9202410197
+                        },
+                        "southwest":{
+                              "lat":40.8249110197,
+                              "lng":-73.9229389803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Blimpie America's Sub Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":600,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105614674978460210426\">Blimpie America&#39;s Sub Shop<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIkV3Ez0PXRKE4UirmBDaTKFhxGi4kav95s9X7Y_Lk_HgVb5X8SFrjmQx3MlWaZDxeID3VIdm9Na3yVwRJUPSZRVAmPGLngcyjENb9YHnUq48NBRYTMzRUf7fOfs-6Sg1YfKu7gTJij2-yLiR6f9--L7gLJRdqNZ3R0-m1L0d6eyKE-",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJiaKSx8_1wokRT_Bvp2ivhpI",
+            "plus_code":{
+                  "compound_code":"R3GH+G9 New York, NY, USA",
+                  "global_code":"87G8R3GH+G9"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJiaKSx8_1wokRT_Bvp2ivhpI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":240,
+            "vicinity":"196 East 161 Street, The Bronx",
+            "CBG":360050059021,
+            "Radius":83.9050639278
+      }
+]

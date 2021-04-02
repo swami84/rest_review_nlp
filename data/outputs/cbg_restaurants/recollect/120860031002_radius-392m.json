@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7896222,
+                        "lng":-80.2002404
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7909710303,
+                              "lng":-80.1988965697
+                        },
+                        "southwest":{
+                              "lat":25.7882730697,
+                              "lng":-80.2015945303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Two Guys Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2664,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107886191650863183124\">John Tone<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIla7sSCsYXh3rlLVZ9qBwI7FViGFJGJvmXUcpyaCBp13sMmXmK98FzjB8rFTJWunagT89NndIZA-VTPhxe4Z2Or6CYiTm9YTBZzyI0Y1IfkcGxZ-Tc7JFQ5YCIFzHMt149kGOEKf1iUP2OjbXcTq120509H5wmsB8_dHyB06ICR9Nb",
+                        "width":3996
+                  }
+            ],
+            "place_id":"ChIJ08DyvLy22YgRFgYarP3ZFWY",
+            "plus_code":{
+                  "compound_code":"QQQX+RW Miami, FL, USA",
+                  "global_code":"76QXQQQX+RW"
+            },
+            "rating":4.2,
+            "reference":"ChIJ08DyvLy22YgRFgYarP3ZFWY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80.0,
+            "vicinity":"1490 Northwest 3rd Avenue #108, Miami",
+            "CBG":120860031002,
+            "Radius":392.4991958148
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7893822,
+                        "lng":-80.1998199
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7907298803,
+                              "lng":-80.1985485697
+                        },
+                        "southwest":{
+                              "lat":25.7880319197,
+                              "lng":-80.2012465303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"LIT Drinks",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJv3euXoi32YgRdRcluAbGiik",
+            "plus_code":{
+                  "compound_code":"QRQ2+Q3 Miami, FL, USA",
+                  "global_code":"76QXQRQ2+Q3"
+            },
+            "rating":null,
+            "reference":"ChIJv3euXoi32YgRdRcluAbGiik",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1495 Northwest 3rd Avenue, Miami",
+            "CBG":120860031002,
+            "Radius":392.4991958148
+      }
+]

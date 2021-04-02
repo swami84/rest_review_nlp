@@ -1,0 +1,60 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.5149827,
+                        "lng":-81.3915636
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.5161602803,
+                              "lng":-81.3902241197
+                        },
+                        "southwest":{
+                              "lat":28.5134623197,
+                              "lng":-81.3929220803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"West Hill Ranch",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2666,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102648872087179948627\">West Hill Ranch<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIH5UjQsOJ2FZKdgIZFYnObhZMPJsRBUL5i0zH2JJsfQGv-PsN1UGsAASjbj4zdgvDVkbM04nwegGP7azxXMpOgQhkK8SPwYqDBOMZaW54JdzKjkRQSxI9rCGXe_kmTg_nKWd1fwcrd_Zd9m1lknyokC8e4o3fM3x20TSJsPIv3DQnn",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJWYhz7Zh754gRsY1o-bTK4WI",
+            "plus_code":{
+                  "compound_code":"GJ75+X9 Orlando, FL, USA",
+                  "global_code":"76WWGJ75+X9"
+            },
+            "rating":4.3,
+            "reference":"ChIJWYhz7Zh754gRsY1o-bTK4WI",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "atm",
+                  "convenience_store",
+                  "finance",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":161,
+            "vicinity":"901 West Michigan Street, Orlando",
+            "CBG":120950185002,
+            "Radius":478.5841027369
+      }
+]

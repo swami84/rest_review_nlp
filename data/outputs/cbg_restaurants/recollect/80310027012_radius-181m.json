@@ -1,0 +1,110 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.735573,
+                        "lng":-104.982647
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.7369454803,
+                              "lng":-104.9811224697
+                        },
+                        "southwest":{
+                              "lat":39.7342475197,
+                              "lng":-104.9838204303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Capitol Hill Tavern",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104673403181368356956\">Music Art Photo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLgJAKwT1oxRJ-3o7aqs1yrELFs6AmQ34YBBrCaWqNLZAEjGG_Tc7X2uCaNGDqDkZs_gQqeXP8H51zmjfMVmZLyPkOslgvqyMVHJR9eShUF6whQFUq0noXdwqfC8oRr-6g8TwO9l7LtncpMhmC43maeRAo1V9xHmp9Lj9gOhlhInEXI",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJO5NFTdR-bIcRhdobsPhDnXI",
+            "plus_code":{
+                  "compound_code":"P2P8+6W Denver, CO, USA",
+                  "global_code":"85FQP2P8+6W"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJO5NFTdR-bIcRhdobsPhDnXI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":345,
+            "vicinity":"1225 Logan Street, Denver",
+            "CBG":80310027012,
+            "Radius":181.3525085853
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.7355919,
+                        "lng":-104.9825902
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.7369406803,
+                              "lng":-104.9810941197
+                        },
+                        "southwest":{
+                              "lat":39.7342427197,
+                              "lng":-104.9837920803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bar Nun",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114559781645244269693\">Paul Durston<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI-yRM2zlnBDR3ytcyCLZc3ZuNzHehi2c-JgPcbHts_UGSfrvHUQ8bi15UBJzVJ_lhegqDu1g-QqShHANefv9OcuwkKzeq5B_eH0J-c4HYn4F_ddl8zYn26waZWg_s-7Mq43wj5fLXeCaVL7u3t46Q8uT9OT2rsaIeeqNviVkleGTFM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJkUnYpih_bIcRT3-cCyuMzrU",
+            "plus_code":{
+                  "compound_code":"P2P8+6X Denver, CO, USA",
+                  "global_code":"85FQP2P8+6X"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJkUnYpih_bIcRT3-cCyuMzrU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"1225 Logan Street, Denver",
+            "CBG":80310027012,
+            "Radius":181.3525085853
+      }
+]

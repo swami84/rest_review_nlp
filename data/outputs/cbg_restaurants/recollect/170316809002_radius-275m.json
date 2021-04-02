@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.7770236,
+                        "lng":-87.6347892
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.7783725803,
+                              "lng":-87.6334402197
+                        },
+                        "southwest":{
+                              "lat":41.7756746197,
+                              "lng":-87.6361381803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"D.A.W.G.S",
+            "place_id":"ChIJdaijad8uDogRqzAXuctQePE",
+            "plus_code":{
+                  "compound_code":"Q9G8+R3 Chicago, IL, USA",
+                  "global_code":"86HJQ9G8+R3"
+            },
+            "reference":"ChIJdaijad8uDogRqzAXuctQePE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"South Stewart Avenue, Chicago",
+            "CBG":170316809002,
+            "Radius":275.2470454167
+      }
+]

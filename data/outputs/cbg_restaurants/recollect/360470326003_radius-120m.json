@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5757153,
+                        "lng":-73.9913547
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5770062803,
+                              "lng":-73.9899935197
+                        },
+                        "southwest":{
+                              "lat":40.5743083197,
+                              "lng":-73.9926914803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"East Far",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3120,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112231537733291868823\">Denis Kuryshev<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ47p1H_8Bydz3tF8lGLfdWQZnI3NixJjxYvF9ix1exIDqixblyDayRY2RSgpgAvWtMuE1l94TFThrOpzA_bfE9xv6K8YBaoHZuANeqwXBz8_ifaeRx39yp5B33xIha0ONQkbC0C268o39z4JlLLVZNS8bKtR2480IFaHnMcpZbQeE8",
+                        "width":4160
+                  }
+            ],
+            "place_id":"ChIJzx56qclFwokRiiBb5fjALQM",
+            "plus_code":{
+                  "compound_code":"H2G5+7F Brooklyn, NY, USA",
+                  "global_code":"87G8H2G5+7F"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJzx56qclFwokRiiBb5fjALQM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":105,
+            "vicinity":"2406 Mermaid Avenue, Brooklyn",
+            "CBG":360470326003,
+            "Radius":119.7119363128
+      }
+]

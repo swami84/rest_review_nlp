@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.862969,
+                        "lng":-73.904534
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8642153303,
+                              "lng":-73.9029697197
+                        },
+                        "southwest":{
+                              "lat":40.8615173697,
+                              "lng":-73.9056676803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bryan's Bakery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110774630310694356932\">Bryan&#39;s Bakery<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOX8fsMHNkDl9cV_GxhPymVJpb6e-NlV00GE43zPTH5MAshw4UehzqxdfdkJYg64Rvd-57kcDn0TnYJTwKFjmiIPEgybcgXH6gpadxr3LDs6tnxKEMjcxG9oOAneOhR85SsttS4leoe_lYk1rulcH9ioE7S7G5SREu7H8LYYzwTO4x",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJK1UK3InzwokRTcTczxoWGR0",
+            "plus_code":{
+                  "compound_code":"V37W+55 The Bronx, NY, USA",
+                  "global_code":"87G8V37W+55"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJK1UK3InzwokRTcTczxoWGR0",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":124,
+            "vicinity":"97 West Fordham Road, The Bronx",
+            "CBG":360050263001,
+            "Radius":134.0351072526
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8625647,
+                        "lng":-73.9046132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8639995303,
+                              "lng":-73.9034461197
+                        },
+                        "southwest":{
+                              "lat":40.8613015697,
+                              "lng":-73.9061440803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Kennedy's Chicken & Sandwiches",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116169908472051739378\">Domingo Rodr\u00edguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJB3Q_UDKUMNG4GLrMK58LtzZX-0SAkyU32xB3-wcJx7NPILKTgFiQMpkWOxDPOfHcojJQ4NqKSOeO-iv4WdndEQ1jvszeJOUuJsJICXX3rV6mYwa04iNAA2BmSVmn1l-5WG8EtxFM1nWlnUZpWZPuBzsL42JauEu-5_Qjr9E_OtNOi",
+                        "width":2252
+                  }
+            ],
+            "place_id":"ChIJ4QHqHnb0wokRiADiIWAH57w",
+            "plus_code":{
+                  "compound_code":"V37W+25 The Bronx, NY, USA",
+                  "global_code":"87G8V37W+25"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ4QHqHnb0wokRiADiIWAH57w",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":115,
+            "vicinity":"2370 University Avenue, The Bronx",
+            "CBG":360050263001,
+            "Radius":134.0351072526
+      }
+]

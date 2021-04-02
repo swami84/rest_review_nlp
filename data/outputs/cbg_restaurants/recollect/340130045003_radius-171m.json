@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7113686,
+                        "lng":-74.2254868
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7127721803,
+                              "lng":-74.2240874697
+                        },
+                        "southwest":{
+                              "lat":40.7100742197,
+                              "lng":-74.2267854303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Amin's Chinese Halal Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1932,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112983182296746024241\">yousef dash<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKUjRfNCW4V7OqT2N0attI09fydVoffXTYP2eGHEyse2GP6V48ubimRAInEqILkOb3eVmlwryT2yi4QqmOCKwss84_9tDp0-iorcLEKvmk0jmp03-_KwDHeMhwCZObLNODjopKRSCDRA-Ag2yPc_t0bBDtzi_aLD-hb8A5p6O_yLwVR",
+                        "width":2576
+                  }
+            ],
+            "place_id":"ChIJYwKlQNasw4kRYFFFisxH6Ro",
+            "plus_code":{
+                  "compound_code":"PQ6F+GR Newark, NJ, USA",
+                  "global_code":"87G7PQ6F+GR"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJYwKlQNasw4kRYFFFisxH6Ro",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":569,
+            "vicinity":"430 Chancellor Avenue, Newark",
+            "CBG":340130045003,
+            "Radius":171.0322832699
+      }
+]

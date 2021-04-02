@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.670891,
+                        "lng":-73.9225765
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6723052803,
+                              "lng":-73.9212213697
+                        },
+                        "southwest":{
+                              "lat":40.6696073197,
+                              "lng":-73.9239193303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Deli basket",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105516009774543126653\">Abo MAGED<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKEmgJR_zyB17G0hy51qXRUyhLyq1U220s9noiWwmaVbZZvas8ljwc8IPjyfaqy_qMuymw5tqVqRqqx7JcIcCbQrTJ_PUIFoMcN04Vzi2MspEp_ByYplAhUcH978T3yfjEnR60gStDKGc0p6cbIy2edQZLq2GEgkOYsenhwEEbqjyYw",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJRwUYPmNcwokRiKQfM3hsECA",
+            "plus_code":{
+                  "compound_code":"M3CG+9X Brooklyn, NY, USA",
+                  "global_code":"87G8M3CG+9X"
+            },
+            "rating":4.2,
+            "reference":"ChIJRwUYPmNcwokRiKQfM3hsECA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"1700 Sterling Place, Brooklyn",
+            "CBG":360470359002,
+            "Radius":125.5901727054
+      }
+]

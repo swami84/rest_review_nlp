@@ -1,0 +1,96 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1933333,
+                        "lng":-119.1680556
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1947730803,
+                              "lng":-119.1667042697
+                        },
+                        "southwest":{
+                              "lat":34.1920751197,
+                              "lng":-119.1694022303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Roger's Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":512,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101736546888656293877\">Roger&#39;s Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLG76rJGnY4xwjRXricn_W3DaJN8X6fnXjGeFMjosWxRtTo8jSb2MVxRRBZqlBGpOA3uh5RzRsFPTa3FXd-WpSpaYE-pSWSeYUrsuGFUWf9gzVVAUTLTZW6QQDCqhFoLC8hLBw1tEC5NGcwZgh0uP8KkKp85zj-SO7vGiD5D0BX2YGs",
+                        "width":889
+                  }
+            ],
+            "place_id":"ChIJYxKCfplO6IARUKsDVn-5Zis",
+            "plus_code":{
+                  "compound_code":"5RVJ+8Q Oxnard, CA, USA",
+                  "global_code":"85625RVJ+8Q"
+            },
+            "rating":4.1,
+            "reference":"ChIJYxKCfplO6IARUKsDVn-5Zis",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":54,
+            "vicinity":"1026 Mountain View Avenue, Oxnard",
+            "CBG":61110091002,
+            "Radius":642.5861775868
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1967781,
+                        "lng":-119.1676554
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1982695303,
+                              "lng":-119.1663181697
+                        },
+                        "southwest":{
+                              "lat":34.1955715697,
+                              "lng":-119.1690161303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden West Veg",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ-TbimJ5O6IARBh2wJhXZ-q8",
+            "plus_code":{
+                  "compound_code":"5RWJ+PW Oxnard, CA, USA",
+                  "global_code":"85625RWJ+PW"
+            },
+            "rating":4.5,
+            "reference":"ChIJ-TbimJ5O6IARBh2wJhXZ-q8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"Oxnard",
+            "CBG":61110091002,
+            "Radius":642.5861775868
+      }
+]

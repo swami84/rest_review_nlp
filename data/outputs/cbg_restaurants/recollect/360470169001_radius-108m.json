@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.660326,
+                        "lng":-73.979968
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6616749803,
+                              "lng":-73.9786190197
+                        },
+                        "southwest":{
+                              "lat":40.6589770197,
+                              "lng":-73.9813169803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"East Wind Snack Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1078,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104067559725927629739\">East Wind Snack Shop<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKmllPPnMl6N4fLi_0QnPp6Ast40PUJPufDH0UIbqu5RKL45wfLetfuucvNkqboQWAIQG-OoG87MsiI1Xusv94JxWNCVHFwN4eQmcHMs53aDt3Xpb9ifynQEXMU9tW4ZPCxpm47RnuXuThoqmuliorxDvwtakl9YNU1EVRXZTJRGLxk",
+                        "width":994
+                  }
+            ],
+            "place_id":"ChIJtVuOhx5bwokR14FF8JEG6j8",
+            "plus_code":{
+                  "compound_code":"M26C+42 Brooklyn, NY, USA",
+                  "global_code":"87G8M26C+42"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJtVuOhx5bwokR14FF8JEG6j8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":246,
+            "vicinity":"471 16th Street, Brooklyn",
+            "CBG":360470169001,
+            "Radius":108.1788471262
+      }
+]

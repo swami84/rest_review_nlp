@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6678288,
+                        "lng":-73.9421886
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6691824303,
+                              "lng":-73.9409197197
+                        },
+                        "southwest":{
+                              "lat":40.6664844697,
+                              "lng":-73.9436176803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Holesome Bagels",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3409,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115481783761431064850\">Holesome Bagels<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKWDNws_JKbyXtyPGUQHREfcGDp2J869CYz_VWUZQIDz9hS_WqplEDunBv8XLzi1ff1K_J4L5P5t8Y9roqrdYMWFEZrLHj_nRQMU5i2N__t141SXoHJPDqMma-yrsabRClqn7EB4YIn8Kpln4xTg1PZ0gb2xGrmMFCCQ15rpD9XLwsw",
+                        "width":5045
+                  }
+            ],
+            "place_id":"ChIJ2VXY1XhbwokRomMvLmlzrNc",
+            "plus_code":{
+                  "compound_code":"M395+44 Brooklyn, NY, USA",
+                  "global_code":"87G8M395+44"
+            },
+            "price_level":2,
+            "rating":4.4,
+            "reference":"ChIJ2VXY1XhbwokRomMvLmlzrNc",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":565,
+            "vicinity":"333 Kingston Avenue, Brooklyn",
+            "CBG":360470335002,
+            "Radius":119.8169194095
+      }
+]

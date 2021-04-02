@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3569134,
+                        "lng":-71.0709941
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3581976803,
+                              "lng":-71.0696035697
+                        },
+                        "southwest":{
+                              "lat":42.3554997197,
+                              "lng":-71.0723015303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"75 Chestnut",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":720,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100351860500259445125\">Sharon Xu<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL_7MJD3tWFpODa618xi4ZvI1hWKr1AgUCOkP7AAm0o5VNEEJpeL62ImV8Rwl5Pv30UkBpfRya9QNf_dmSp8Vlh6TxodQ069BgLlfHY_toMUuui-RV_hrKYq7mxYaOHjuMzjuzWNCN2v5WCT0_RQDuvsl0tB67espX3jAKzT2RaVPQ",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJefZGB59w44kRMDjVMFNpAIM",
+            "plus_code":{
+                  "compound_code":"9W4H+QJ Boston, MA, USA",
+                  "global_code":"87JC9W4H+QJ"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJefZGB59w44kRMDjVMFNpAIM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":415,
+            "vicinity":"75 Chestnut Street, Boston",
+            "CBG":250250201012,
+            "Radius":139.9315284294
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3579265,
+                        "lng":-71.0706355
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3592063803,
+                              "lng":-71.0691731197
+                        },
+                        "southwest":{
+                              "lat":42.3565084197,
+                              "lng":-71.0718710803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Tatte Bakery & Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105618759046823400815\">Abo Yara<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKGPabDIrXtXyi4I504nsz2X2Rq9IOWfWKM6_Jxr1tNdxUNZQtYyK1W-nIj_RpUhZnH6SZPBFviGQgcuabGekvOjuDrl2X2pAHj7tyPEAqfKZLMWizKp6kQSXDwBFR64yPAie9G1T4irRINB5EQwwzT2JwOTq_7_PPD-IwjM29K0HF0",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJgXXzH59w44kRCLlGbZ4CLac",
+            "plus_code":{
+                  "compound_code":"9W5H+5P Boston, MA, USA",
+                  "global_code":"87JC9W5H+5P"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJgXXzH59w44kRCLlGbZ4CLac",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1252,
+            "vicinity":"70 Charles Street, Boston",
+            "CBG":250250201012,
+            "Radius":139.9315284294
+      }
+]

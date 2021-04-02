@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7149722,
+                        "lng":-122.3988167
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7163081303,
+                              "lng":-122.3973825197
+                        },
+                        "southwest":{
+                              "lat":37.7136101697,
+                              "lng":-122.4000804803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bayside Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105451886180271716454\">Zachary Ross<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLjgKo9h28KDsOhm3UnrBGukOLBJhYFxzK4nH19R5XAuRCC2Nan9FJSkbjlrTNtjKF2WM7bVGa2Jp3YkTj3ERYnqulr_itpjO2MBe4goV1cjWuTywr6o8PWN4YA3ODQgAqchBpV0i-gZoZwvM7-DqjH0d5ehunDTAAThTEV2yIZ9y6h",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJCdThHid_j4ARmKf7ca0sL5o",
+            "plus_code":{
+                  "compound_code":"PJ72+XF Little Hollywood, San Francisco, CA, USA",
+                  "global_code":"849VPJ72+XF"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJCdThHid_j4ARmKf7ca0sL5o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":331,
+            "vicinity":"2011 Bayshore Boulevard, San Francisco",
+            "CBG":60750264022,
+            "Radius":238.7355406318
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.096541,
+                        "lng":-118.309387
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0977766803,
+                              "lng":-118.3080530697
+                        },
+                        "southwest":{
+                              "lat":34.0950787197,
+                              "lng":-118.3107510303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"King Buffet",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100435880280656818067\">Edna B<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGv73rdm1IM8EeRUTUTm6rGvJd0RPx_Me5QxKgkCykkxqEtWgDSpV3JjE7UktlkSCkFeup6FybQChMA4KE1KI0RiULGpUbyuY5Z6jaJ2PIkqp6V9LWOHRrpJtCYNBvDxFYV500iDJQyf2l7f3jLW10QLrZNr7HdFzPsszj0JxMiUs3",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJkwjGOFK_woARqDgRmx9i_X0",
+            "plus_code":{
+                  "compound_code":"3MWR+J6 Los Angeles, CA, USA",
+                  "global_code":"85633MWR+J6"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJkwjGOFK_woARqDgRmx9i_X0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2622,
+            "vicinity":"1375 North Western Avenue, Los Angeles",
+            "CBG":60371911102,
+            "Radius":192.5465893326
+      }
+]

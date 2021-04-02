@@ -1,0 +1,111 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2436115,
+                        "lng":-83.1807259
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2449235303,
+                              "lng":-83.1793760197
+                        },
+                        "southwest":{
+                              "lat":42.2422255697,
+                              "lng":-83.1820739803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Harry's Corned Beef & Ham",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2813,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103016680043885428532\">AL POE<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLj9Hd2P9rNpgw-1e1cqnuI_YPHgNC6afGZrMCFilGqX8ko_eMHpb1P3LoZP1uijbZd6lbLNuse4-wx9hj02RDJ1phAmfY2seVT36SqRsVpFIUjpxWPcKLp04XsbABtIF33SfzoAIPf_9dmpN5HyixNZh9Zztu-4lWIsggVxdllyqG9",
+                        "width":2374
+                  }
+            ],
+            "place_id":"ChIJ5RLNecQ2O4gRRgPazMFzmKI",
+            "plus_code":{
+                  "compound_code":"6RV9+CP Lincoln Park, MI, USA",
+                  "global_code":"86JR6RV9+CP"
+            },
+            "price_level":1,
+            "rating":4.3,
+            "reference":"ChIJ5RLNecQ2O4gRRgPazMFzmKI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":360,
+            "vicinity":"2908 Fort Street, Lincoln Park",
+            "CBG":261635774003,
+            "Radius":261.9675072246
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.241665,
+                        "lng":-83.180745
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2430005803,
+                              "lng":-83.1793954197
+                        },
+                        "southwest":{
+                              "lat":42.2403026197,
+                              "lng":-83.1820933803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jet's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1192,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114390682001644752878\">Jet&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL33sjeLU6sT-jy-EPX3mDlopLHPGnIokmojCRT2uesL7o2sH1a0JJcpzZpkDvASk_ky9N3fmeAcL1Q5KeWt2jtgnX2Mu46pfHJ0hG2HPil9klfsswt-rdRkroe2CftR2H8zgC237apGCGnVHu09ydsVQFoh9QvXYgoDmM5FdHbWBcs",
+                        "width":2119
+                  }
+            ],
+            "place_id":"ChIJNRidmMQ2O4gRz76qV-_Sq2A",
+            "plus_code":{
+                  "compound_code":"6RR9+MP Lincoln Park, MI, USA",
+                  "global_code":"86JR6RR9+MP"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJNRidmMQ2O4gRz76qV-_Sq2A",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":289,
+            "vicinity":"3022 Fort Street, Lincoln Park",
+            "CBG":261635774003,
+            "Radius":261.9675072246
+      }
+]

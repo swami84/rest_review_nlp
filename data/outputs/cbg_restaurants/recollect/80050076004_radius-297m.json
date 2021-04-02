@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.7294319,
+                        "lng":-104.8319195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.7308079303,
+                              "lng":-104.8305349697
+                        },
+                        "southwest":{
+                              "lat":39.7281099697,
+                              "lng":-104.8332329303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lydia Jing's Food house\/LJ bakeshop",
+            "place_id":"ChIJFwvPiFFjbIcR-190NJXgeUU",
+            "plus_code":{
+                  "compound_code":"P5H9+Q6 Aurora, CO, USA",
+                  "global_code":"85FQP5H9+Q6"
+            },
+            "rating":3,
+            "reference":"ChIJFwvPiFFjbIcR-190NJXgeUU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"Aurora Bataan st Digos city philippines, Aurora",
+            "CBG":80050076004,
+            "Radius":297.4333428308
+      }
+]

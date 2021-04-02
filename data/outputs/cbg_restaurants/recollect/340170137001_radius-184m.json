@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7474445,
+                        "lng":-74.1607569
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7487754303,
+                              "lng":-74.1593226197
+                        },
+                        "southwest":{
+                              "lat":40.7460774697,
+                              "lng":-74.1620205803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"B-52's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111911239905747979420\">B-52&#39;s<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI2L3prksq80_oZpwm7pNHx2j03qQctZzM0tIHdS3ARdsWrqcE2b14BTfz2yAwdsYO4pSfo7DLt8P4a0KiVQbz3Vdd1W4xi7GM11vaKC15INsTo27ufysumAeQgXAool1Wwg_3-cWCTc1ebnp8ULnLGjG9Gdv9YiGQ4qchYkaXZxAJx",
+                        "width":960
+                  }
+            ],
+            "place_id":"ChIJczOzQnpUwokR0ZKl5h5D2L4",
+            "plus_code":{
+                  "compound_code":"PRWQ+XM Harrison, NJ, USA",
+                  "global_code":"87G7PRWQ+XM"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJczOzQnpUwokR0ZKl5h5D2L4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":407,
+            "vicinity":"200 North 2nd Street, Harrison",
+            "CBG":340170137001,
+            "Radius":183.9976118992
+      }
+]

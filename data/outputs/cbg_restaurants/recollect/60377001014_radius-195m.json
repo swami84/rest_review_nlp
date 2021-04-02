@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0910281,
+                        "lng":-118.3525989
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0922494303,
+                              "lng":-118.3512754697
+                        },
+                        "southwest":{
+                              "lat":34.0895514697,
+                              "lng":-118.3539734303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Astro Burger",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112754851383929246315\">Sam Allen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJOCGfrtHa2OxodB5s8y72Dz9l5M0vohT5RPw0Qa9g8b1Ro-TJXRm4U-OfhlA8Dror1n-jg9H9pIYOn9B-kwH-yFRWo3ebJjMwa0vyTPXSegOsyuIk9comkM-MPnvfH7u1BkUQK8CD1wl-QJgm0CzHPNtChNb_gM8ubFiqGYgI5AhVB",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJkcjYttC-woAROV-th_YyJ4U",
+            "plus_code":{
+                  "compound_code":"3JRW+CX Los Angeles, CA, USA",
+                  "global_code":"85633JRW+CX"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJkcjYttC-woAROV-th_YyJ4U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1494,
+            "vicinity":"7475 Santa Monica Boulevard, Los Angeles",
+            "CBG":60377001014,
+            "Radius":194.7900794519
+      }
+]

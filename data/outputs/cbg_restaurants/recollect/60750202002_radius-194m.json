@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7681071,
+                        "lng":-122.4245931
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7695105303,
+                              "lng":-122.4232009697
+                        },
+                        "southwest":{
+                              "lat":37.7668125697,
+                              "lng":-122.4258989303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Capitan Taqueria & Grill",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103346651663028684534\">Flora Fiorillo<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJp9m67hshZmVty77VrDS1eZrJNVpzIlP0n-6v4YnhNY6VTMG7p35dh55295x0wVjae3jaVgfnIZKOa7NFq1E4LV0NEjjUT2FVQf7Shr6rRRSYrWgS3UizCrU-AqE5ybTF3nJH10dpt9mUA_2dKzYbIOzHpAVMESUfRuDEUfR5eWAWd",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJib4BVt9_j4ARZ_JphrE6j1M",
+            "plus_code":{
+                  "compound_code":"QH9G+65 Mission District, San Francisco, CA, USA",
+                  "global_code":"849VQH9G+65"
+            },
+            "rating":4.5,
+            "reference":"ChIJib4BVt9_j4ARZ_JphrE6j1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"198 Guerrero Street, San Francisco",
+            "price_level":null,
+            "CBG":60750202002,
+            "Radius":193.7290988733
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7685299,
+                        "lng":-122.4225396
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7698819803,
+                              "lng":-122.4210535197
+                        },
+                        "southwest":{
+                              "lat":37.7671840197,
+                              "lng":-122.4237514803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dancing Yak Restaurant & Bar",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100159526993529271240\">Vincent Leger<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJtz7T4Kf8nzOGI9l0wSt0dmbKGFb525S9WkPKpYkH78AAgpHlQztqPiXr9QiSVTnuyIx423OzPh8khULOhP80WNPR-2ngw9_eVzKwVYXX4FQzkZPVXue78XmFpKbvH5nVlMO8mC1kBSswm9wQjcto7yi1vKt6V1wDahwrvDhTCqePM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJl2XEtSF-j4AR7gkhr14PD94",
+            "plus_code":{
+                  "compound_code":"QH9G+CX Mission District, San Francisco, CA, USA",
+                  "global_code":"849VQH9G+CX"
+            },
+            "rating":4.5,
+            "reference":"ChIJl2XEtSF-j4AR7gkhr14PD94",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":404,
+            "vicinity":"280 Valencia Street, San Francisco",
+            "price_level":2.0,
+            "CBG":60750202002,
+            "Radius":193.7290988733
+      }
+]

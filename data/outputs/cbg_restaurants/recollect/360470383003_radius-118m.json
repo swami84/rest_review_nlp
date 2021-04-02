@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6847299,
+                        "lng":-73.9261591
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6860345803,
+                              "lng":-73.9249365697
+                        },
+                        "southwest":{
+                              "lat":40.6833366197,
+                              "lng":-73.9276345303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Grandchamps",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1280,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113841845191054080395\">Grandchamps<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKQJhxZ2TP6azJXTrOWKCkyEeP6jtzZvOr-MGv60EAswKiu1lir3sj7wIdgoRBhjspJQsuw24OmC5zr8iNBZ2Vh-CjLWCDDvtypWvCtWRjXN8UZMkNg_2O9d28VBSTtWzRE7iHu97YSnLXa3KvZnanaL9_1mN1FPqJw3WAAROPr4qqv",
+                        "width":1920
+                  }
+            ],
+            "place_id":"ChIJGSlrW3JcwokRvuZwSxjittA",
+            "plus_code":{
+                  "compound_code":"M3MF+VG Brooklyn, NY, USA",
+                  "global_code":"87G8M3MF+VG"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJGSlrW3JcwokRvuZwSxjittA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":419,
+            "vicinity":"197 Patchen Avenue, Brooklyn",
+            "CBG":360470383003,
+            "Radius":117.8035416184
+      }
+]

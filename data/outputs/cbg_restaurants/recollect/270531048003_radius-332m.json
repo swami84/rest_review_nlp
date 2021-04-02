@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9680811,
+                        "lng":-93.2427082
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9692186803,
+                              "lng":-93.2416205697
+                        },
+                        "southwest":{
+                              "lat":44.9665207197,
+                              "lng":-93.2443185303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jimmy John's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":921,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104902416265327728309\">Matt Carner<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLYRNAW7lNU78Sy8jyF1OpZ-f-uX2vaTREDr3TuAzL7r1xsd4i5oA2l8y3Dj6k7ZRhd1BSTF-FAmu-laSAUeZaPvJYq4yZvEqBtJoKrizF-dOkEpw28cysZxjqYXx4KI-2_voKXYu0aVU4wd4s4B_Lrg8AIHSNhzumn9loQMhmg6i_G",
+                        "width":1879
+                  }
+            ],
+            "place_id":"ChIJ91eXLEEts1IRrjzmmz2J5Ik",
+            "plus_code":{
+                  "compound_code":"XQ94+6W Minneapolis, MN, USA",
+                  "global_code":"86P8XQ94+6W"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ91eXLEEts1IRrjzmmz2J5Ik",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":187,
+            "vicinity":"2037 Riverside Avenue, Minneapolis",
+            "CBG":270531048003,
+            "Radius":331.9775120595
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9659237,
+                        "lng":-93.2406839
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9671970803,
+                              "lng":-93.2395754197
+                        },
+                        "southwest":{
+                              "lat":44.9644991197,
+                              "lng":-93.2422733803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Einstein Bros. Bagels",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2848,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111946043570396340613\">Duqueiro Cano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIsriOWEUz4nlEjNK4VW7b4SKtAH1r7Xoh6OexYdK8Pi3FJyYO2c4X4uf3DvFaystRC8XUe9yqp54LW5axoabznTDymB1Q12NbwiZZ0lTWPdwpJf31geBcehqeVtl6FpTLZLG_9ZaWURPFOVQqaSIKD4kex_77PYh1LzboVK6Qnclcy",
+                        "width":4272
+                  }
+            ],
+            "place_id":"ChIJIUPw_xUts1IR0PcSll-ZluE",
+            "plus_code":{
+                  "compound_code":"XQ85+9P Minneapolis, MN, USA",
+                  "global_code":"86P8XQ85+9P"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJIUPw_xUts1IR0PcSll-ZluE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":30,
+            "vicinity":"2211 Riverside Avenue, Minneapolis",
+            "CBG":270531048003,
+            "Radius":331.9775120595
+      }
+]

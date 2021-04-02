@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5226197,
+                        "lng":-74.2637225
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5239553803,
+                              "lng":-74.2624481197
+                        },
+                        "southwest":{
+                              "lat":40.5212574197,
+                              "lng":-74.2651460803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"State St. Diner",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112473390268444834469\">12sex2b<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK5Q8Wiahz8KwUsKuoY40xYlZVXLlSFe4IufMv0JXyBMTxn1VdZA6ddG3bd9Qt1KWDXRrBwYFgrP2VCrVVoE8cjjmzHpJgOZaJKz6iLpZXUkpR6oYwfzNN-8psiMHbyIyjAxb5m5pG-_th6RlPIy-joKqaR4BJgwIbK5cYm4n4jQCxb",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJjViIs3i1w4kRf9GYmy8PD54",
+            "plus_code":{
+                  "compound_code":"GPFP+2G Perth Amboy, NJ, USA",
+                  "global_code":"87G7GPFP+2G"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJjViIs3i1w4kRf9GYmy8PD54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":78,
+            "vicinity":"728 State Street, Perth Amboy",
+            "CBG":340230045001,
+            "Radius":187.616578302
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5215751,
+                        "lng":-74.2639551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5229618303,
+                              "lng":-74.2625583197
+                        },
+                        "southwest":{
+                              "lat":40.5202638697,
+                              "lng":-74.2652562803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Constanza Mini Market",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106088288850166227552\">Constanza Mini Market<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJwRUeIW21l1Rlm1BLWSOaMNyXWCeLnca-eswcAwFSzJZi44rO8XisFRpP3FqAW3vhppV-Uuz7-1DDmL3RVB5Sb7o0mpPc_cEUbytxmVJ3Yu57FcNN2ha2MNzn1yRekakgztVvt7E-Al6XRw_H_rvQtpfdmOSzdHukXkW8F8u4vULWD",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJwSGBRn-1w4kR67RdwmltgQk",
+            "plus_code":{
+                  "compound_code":"GPCP+JC Perth Amboy, NJ, USA",
+                  "global_code":"87G7GPCP+JC"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJwSGBRn-1w4kR67RdwmltgQk",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "convenience_store",
+                  "finance",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"703 State Street, Perth Amboy",
+            "CBG":340230045001,
+            "Radius":187.616578302
+      }
+]

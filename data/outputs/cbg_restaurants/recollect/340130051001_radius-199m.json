@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7160799,
+                        "lng":-74.204883
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7173937803,
+                              "lng":-74.2034026697
+                        },
+                        "southwest":{
+                              "lat":40.7146958197,
+                              "lng":-74.2061006303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"ABOKI SUYA SPOT LLC",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107859062372656010164\">Aboki Suya Spot llc<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ5ruPtJLBdcTUJGGS-gEY_x2KS8-vi-VlBuO9-cwZV6X6nzyXXecmhqd5Z8SnlMIPKtYPmfjnnR677pLXsAsR0kqFqQpr476B8G0jpiZblCDl7TM4F5gm5cZ70ZwE-uB6OpjvPD3zOTOOsgp_gsEBh0OjBDg0SHqMcCTEO14mR2IlL",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJD9_xahhTwokRdSxzuq9e0qk",
+            "plus_code":{
+                  "compound_code":"PQ8W+C2 Newark, NJ, USA",
+                  "global_code":"87G7PQ8W+C2"
+            },
+            "rating":5,
+            "reference":"ChIJD9_xahhTwokRdSxzuq9e0qk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"271 Seymour Avenue, Newark",
+            "CBG":340130051001,
+            "Radius":199.2867436366
+      }
+]

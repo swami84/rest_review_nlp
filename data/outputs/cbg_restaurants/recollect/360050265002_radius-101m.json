@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8659589,
+                        "lng":-73.901995
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8673078803,
+                              "lng":-73.9006460197
+                        },
+                        "southwest":{
+                              "lat":40.8646099197,
+                              "lng":-73.9033439803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Amor",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJ_XXYvojzwokRr5IDy_hssVA",
+            "plus_code":{
+                  "compound_code":"V38X+96 The Bronx, NY, USA",
+                  "global_code":"87G8V38X+96"
+            },
+            "rating":3.7,
+            "reference":"ChIJ_XXYvojzwokRr5IDy_hssVA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"2541 Aqueduct Avenue, The Bronx",
+            "CBG":360050265002,
+            "Radius":100.7895912665
+      }
+]

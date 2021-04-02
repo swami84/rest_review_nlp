@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6633319,
+                        "lng":-73.981438
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6646475803,
+                              "lng":-73.9800167697
+                        },
+                        "southwest":{
+                              "lat":40.6619496197,
+                              "lng":-73.9827147303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Provini",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":704,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104111246635874032234\">ZAGAT<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJVrGwREbKDsFYujpvA1dxT6A8LseDy3xlIS4R3rQ8XtgXiCnh9iMM02tnRR7W-WN3JOsVE4WgnfzqkgjPEo8LgCjwYliTSoqGjZRfao8f2zxBsqQloyMWbEHjf_yP_-ISV-koifRi2YDsOeYtJeiBOL0C9MiWb5wjJoQHs1jyznaAc",
+                        "width":1209
+                  }
+            ],
+            "place_id":"ChIJ4VBHoB1bwokRs_4cudpKjpY",
+            "plus_code":{
+                  "compound_code":"M279+8C Brooklyn, NY, USA",
+                  "global_code":"87G8M279+8C"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ4VBHoB1bwokRs_4cudpKjpY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":229,
+            "vicinity":"1302 8th Avenue, Brooklyn",
+            "CBG":360470167004,
+            "Radius":133.0829830487
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.782933,
+                        "lng":-80.194957
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7842819803,
+                              "lng":-80.1936080197
+                        },
+                        "southwest":{
+                              "lat":25.7815840197,
+                              "lng":-80.1963059803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mina Bistro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1153,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108777915828887131476\">Mina Bistro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3MVeJCMQzPpXqECUU-_CIavNdact32wqpTfDlyCfWD1L6ABeN5Qoqu9IrXEDX-zky80RoMtdTW9FXYk7XqyTXuPCFdUcfiYNbQ1dniZSForN2PgJR7NBUVw00IAShsM6P-q9XM3zs1Ihnhk-yvkWlTV4ToKN393hFz5Vse1FCxiop",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJvUUyz5q22YgRp0UyXJEmF6U",
+            "plus_code":{
+                  "compound_code":"QRM4+52 Miami, FL, USA",
+                  "global_code":"76QXQRM4+52"
+            },
+            "price_level":1.0,
+            "rating":4.6,
+            "reference":"ChIJvUUyz5q22YgRp0UyXJEmF6U",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":172,
+            "vicinity":"63 Northwest 9th Street, Miami",
+            "CBG":120860037022,
+            "Radius":151.1322682384
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.782308,
+                        "lng":-80.1949099
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7836747803,
+                              "lng":-80.1930540697
+                        },
+                        "southwest":{
+                              "lat":25.7809768197,
+                              "lng":-80.1957520303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"PEPI AREPA",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":658,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105963593367579757103\">PEPI AREPA<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIA_S0xLnjoQPfBj6i5YtC-IwRqqxmGfwymnQ34xyPtzoaJaPeJR7Jnhq4BA5AQ1jsrbQLjdGZ6401KKSSRzW7-yL_6WY_QwFn9XYsmWNSqMtlvOpH75GfKrnUBGg1NcIfp9BzQhOpquRA8F0SMxEfCd7NYADVAmDRf7X8OgQkHX23A",
+                        "width":447
+                  }
+            ],
+            "place_id":"ChIJd93y0de32YgRFqtpaU76OQc",
+            "plus_code":{
+                  "compound_code":"QRJ4+W2 Miami, FL, USA",
+                  "global_code":"76QXQRJ4+W2"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJd93y0de32YgRFqtpaU76OQc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"850 North Miami Avenue #1004, Miami",
+            "CBG":120860037022,
+            "Radius":151.1322682384
+      }
+]

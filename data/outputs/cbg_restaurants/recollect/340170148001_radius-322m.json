@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.776636,
+                        "lng":-74.039617
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7780325803,
+                              "lng":-74.0383856197
+                        },
+                        "southwest":{
+                              "lat":40.7753346197,
+                              "lng":-74.0410835803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"J's Shakes n Sliders",
+            "photos":[
+                  {
+                        "height":724,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112316723938854224762\">J&#39;s Shakes n Sliders<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLDg7LPL-QoLzJXtmpvLaOKJ5ZLTEtmvIqkIDEvBj-zxMuLo9iY1Z9GA6u73XvVZ7qLGeUcbUsgsNLBWrOFtz4FddaLv-kZB-doiG7LWxjawurQEZ2A3RjQVB6m6AGelqiFTFn8iOcBllxAZcj22ZL7Ek3SQ9EPV3nNY0h5rRa8Ykbj",
+                        "width":1549
+                  }
+            ],
+            "place_id":"ChIJ__-4Qo5XwokRdUgdy0y1ExQ",
+            "plus_code":{
+                  "compound_code":"QXG6+M5 North Bergen, NJ, USA",
+                  "global_code":"87G7QXG6+M5"
+            },
+            "rating":3.7,
+            "reference":"ChIJ__-4Qo5XwokRdUgdy0y1ExQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"3114 Tonnele Avenue, North Bergen",
+            "CBG":340170148001,
+            "Radius":322.1102563734
+      }
+]

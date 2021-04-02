@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.664516,
+                        "lng":-73.979884
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6658266303,
+                              "lng":-73.9785870197
+                        },
+                        "southwest":{
+                              "lat":40.6631286697,
+                              "lng":-73.9812849803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Flora",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":861,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113607463746863128962\">Flora<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJnQBru-gxzcRgk810n2tywdx-3CA175UD6tLoK11U6DK4yMKWK69fdfuxBdp3hb8mIqmPRaCDAc7a7GEvg6lu_NozhNMI8TK_DrPHbrvwm0vlZWR3658CJsHfj83eVBSLz0ax5hTdeJiQ_mEuSM8-zflito3lei3F7sCyW283EsA_A",
+                        "width":1300
+                  }
+            ],
+            "place_id":"ChIJmSW13xxbwokRBtzKoZS_4t8",
+            "plus_code":{
+                  "compound_code":"M27C+R2 New York, NY, USA",
+                  "global_code":"87G8M27C+R2"
+            },
+            "rating":4.7,
+            "reference":"ChIJmSW13xxbwokRBtzKoZS_4t8",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"1021 8th Avenue, Brooklyn",
+            "CBG":360470167003,
+            "Radius":109.7345114097
+      }
+]

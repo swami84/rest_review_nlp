@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5920209,
+                        "lng":-73.9609932
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5933750803,
+                              "lng":-73.9595310197
+                        },
+                        "southwest":{
+                              "lat":40.5906771197,
+                              "lng":-73.9622289803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Foteh's Tandoori",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116037431209319389607\">Shukhrat Maks<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLfNZTjUYlghe7u6ay0lbSkxdkP1wJn7ScKCYBUBc17U-Wp4S-CZQfU5PZ2JCu-Aa_DRGEwM63LgbW8BlKrfy25UXS6b6LxOm0RggYmlJahbnqEbG04RyKWVzAvUwM3TA62hyYka5mFUDboR5mw5y2y_YxWzUMBVQtHe0aPOnjrLOmx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJwRWbuF9EwokR-df_E3vUgOQ",
+            "plus_code":{
+                  "compound_code":"H2RQ+RJ Brooklyn, NY, USA",
+                  "global_code":"87G8H2RQ+RJ"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJwRWbuF9EwokR-df_E3vUgOQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":281,
+            "vicinity":"2650 Coney Island Avenue, Brooklyn",
+            "CBG":360470390001,
+            "Radius":163.2614925185
+      }
+]

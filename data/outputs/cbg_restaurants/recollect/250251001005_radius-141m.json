@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.285507,
+                        "lng":-71.0913105
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2868268303,
+                              "lng":-71.0898729197
+                        },
+                        "southwest":{
+                              "lat":42.2841288697,
+                              "lng":-71.0925708803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nick's Pizza & Seafood",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":360,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105579724035283140020\">Roman Hradysky<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzN0iFXRqWjsx_ICngP_XZC0M7oLig8jFzdxMrurfAFiX0izUThJobhjieBlZMw7YxFwzp-9V_dA2gxFw2nvQzr_M8tycVyaMI5eEOW9hDxQdG1rzzezLV8TH6LGnGRtaVZjrRJbLfFnqeI5g8B4hMyC_H6TK3_wZVbPEx6bEV773g",
+                        "width":730
+                  }
+            ],
+            "place_id":"ChIJ8dl3Nfl744kRhf9lAVBXaxI",
+            "plus_code":{
+                  "compound_code":"7WP5+6F Dorchester Center, Boston, MA, USA",
+                  "global_code":"87JC7WP5+6F"
+            },
+            "price_level":1.0,
+            "rating":3.8,
+            "reference":"ChIJ8dl3Nfl744kRhf9lAVBXaxI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":266,
+            "vicinity":"1143 Blue Hill Avenue, Dorchester Center",
+            "CBG":250251001005,
+            "Radius":140.8927231339
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.2855845,
+                        "lng":-71.0906995
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2869710803,
+                              "lng":-71.0893691197
+                        },
+                        "southwest":{
+                              "lat":42.2842731197,
+                              "lng":-71.0920670803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Greek Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":747,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111630780987035494902\">Greek Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK6cjZ715q3gVZVccneaLeZbPSOVT1FcZgiSEP-2UyItwwcsBMbaIZLBaQfdduqCtwa02pvkJhz--psd1wDJUSrAg3cGz5dsI2GNTyYEy7kK4rITpttUC2WoK2QdybIbNIMmgd-Tbe4ggntEI4xKRKUe7Y6khMqSe9QbsZRCoiPz7k",
+                        "width":815
+                  }
+            ],
+            "place_id":"ChIJf6Th77V744kRN0ROXUMQel0",
+            "plus_code":{
+                  "compound_code":"7WP5+6P Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7WP5+6P"
+            },
+            "price_level":null,
+            "rating":3.5,
+            "reference":"ChIJf6Th77V744kRN0ROXUMQel0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":82,
+            "vicinity":"1132 Blue Hill Avenue, Dorchester",
+            "CBG":250251001005,
+            "Radius":140.8927231339
+      }
+]

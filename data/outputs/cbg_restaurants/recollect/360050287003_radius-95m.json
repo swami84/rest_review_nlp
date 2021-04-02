@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8804271,
+                        "lng":-73.9041769
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8817981303,
+                              "lng":-73.9026710197
+                        },
+                        "southwest":{
+                              "lat":40.8791001697,
+                              "lng":-73.9053689803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"IHOP",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1440,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105764256188301209117\">Naomi G<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLS1RuATociHWfs1N5MfrE-j_CP6VrvmNWVqYq0DmcCKZ4NLtY3ihduf-IzC38bpYV6EOqT-7rifY6wIgjsi8oONDxjiKmnN0DXnIcVPh1HndPvsZvaLogu0NOz8ErROYbZiFSJxmiYQLg61M3CLMWq0qdZ6ipD0RMf-8a9GMLFWM9h",
+                        "width":2560
+                  }
+            ],
+            "place_id":"ChIJyXw9tZfzwokRc6nf8NxstrE",
+            "plus_code":{
+                  "compound_code":"V3JW+58 New York, NY, USA",
+                  "global_code":"87G8V3JW+58"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJyXw9tZfzwokRc6nf8NxstrE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2060,
+            "vicinity":"5645 Broadway, The Bronx",
+            "CBG":360050287003,
+            "Radius":94.7704159987
+      }
+]

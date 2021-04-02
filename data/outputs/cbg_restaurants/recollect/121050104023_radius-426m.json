@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0406791,
+                        "lng":-81.94366
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0419549803,
+                              "lng":-81.9423101197
+                        },
+                        "southwest":{
+                              "lat":28.0392570197,
+                              "lng":-81.9450080803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Domino's",
+            "place_id":"ChIJH5KjFkg_3YgROB439cWL5lU",
+            "plus_code":{
+                  "compound_code":"23R4+7G Lakeland, FL, USA",
+                  "global_code":"76WW23R4+7G"
+            },
+            "reference":"ChIJH5KjFkg_3YgROB439cWL5lU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":121050104023,
+            "Radius":426.4847849372
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.0394654,
+                        "lng":-81.9498042
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.0409145303,
+                              "lng":-81.9484716697
+                        },
+                        "southwest":{
+                              "lat":28.0382165697,
+                              "lng":-81.9511696303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Papasitos and Beer",
+            "place_id":"ChIJ14c49mE_3YgRBzDx3cLXPdo",
+            "plus_code":{
+                  "compound_code":"23Q2+Q3 Lakeland, FL, USA",
+                  "global_code":"76WW23Q2+Q3"
+            },
+            "reference":"ChIJ14c49mE_3YgRBzDx3cLXPdo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Lakeland",
+            "CBG":121050104023,
+            "Radius":426.4847849372
+      }
+]

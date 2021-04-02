@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8491409,
+                        "lng":-73.891609
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8504898803,
+                              "lng":-73.8902600197
+                        },
+                        "southwest":{
+                              "lat":40.8477919197,
+                              "lng":-73.8929579803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Paco's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103335063787853035542\">Paco&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLVwsfv_nY7b6YyS1SlszXJiXHCTakoys9ZSF0hnrwSMpku2JN_Hk5aSSlw4JPiN7scGwfJq5gN_z6zCxS4jxEsAQxuvTJxRR9saUIHArMtaXGh-2PqZ8zC6Wi0HWhAICurlXcawFNflmbyAyNsVdPoqzCPsxMotEY5tF-t5HOyUEkQ",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJx-W25mL0wokRNLoRVxbqdZY",
+            "plus_code":{
+                  "compound_code":"R4X5+M9 The Bronx, NY, USA",
+                  "global_code":"87G8R4X5+M9"
+            },
+            "rating":4,
+            "reference":"ChIJx-W25mL0wokRNLoRVxbqdZY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"2086 Arthur Avenue, The Bronx",
+            "CBG":360050373004,
+            "Radius":100.9757509219
+      }
+]

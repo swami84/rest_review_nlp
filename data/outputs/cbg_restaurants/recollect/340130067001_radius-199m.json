@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7268285,
+                        "lng":-74.1788579
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7282086803,
+                              "lng":-74.1775148197
+                        },
+                        "southwest":{
+                              "lat":40.7255107197,
+                              "lng":-74.1802127803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"T & D Luncheonette",
+            "place_id":"ChIJsev3SMFTwokR8CNTTkSO074",
+            "plus_code":{
+                  "compound_code":"PRGC+PF Newark, NJ, USA",
+                  "global_code":"87G7PRGC+PF"
+            },
+            "reference":"ChIJsev3SMFTwokR8CNTTkSO074",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Lincoln Park, Newark",
+            "CBG":340130067001,
+            "Radius":199.1693114815
+      }
+]

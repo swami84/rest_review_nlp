@@ -1,0 +1,113 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7754513,
+                        "lng":-80.1414845
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7767899803,
+                              "lng":-80.1402505197
+                        },
+                        "southwest":{
+                              "lat":25.7740920197,
+                              "lng":-80.1429484803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"7-Eleven - CLOSED - Closed",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117507736316275314579\">Khi Turner<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLrx6Ui3Of_unzPzCY4CRMDWA6LyIx-YYSxeJb_rljhZqAxwJK-zqktl5MvYoUEfKij7muTRCDQ-CVuYl-3la411kDylDlOLKmZHlRC-kbOMdWb7HtLB5u3QFWi-jv1abOEhSKJVVWUBK-WjXQ9vOyg3M1eS50JZ8vqOaWldG7Ddebr",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJq7KOQfW02YgRutGftCFxDE0",
+            "plus_code":{
+                  "compound_code":"QVG5+5C Miami Beach, FL, USA",
+                  "global_code":"76QXQVG5+5C"
+            },
+            "price_level":1.0,
+            "rating":3.3,
+            "reference":"ChIJq7KOQfW02YgRutGftCFxDE0",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "gas_station",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"1234 6th Street, Miami Beach",
+            "opening_hours":null,
+            "CBG":120860044061,
+            "Radius":144.7660339874
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7755129,
+                        "lng":-80.1418848
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7768949803,
+                              "lng":-80.1404774197
+                        },
+                        "southwest":{
+                              "lat":25.7741970197,
+                              "lng":-80.1431753803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"100 x 35 Cocina con Raices",
+            "photos":[
+                  {
+                        "height":606,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116267487944454423198\">100 x 35 Cocina con Raices<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL8SNBUWmwWJJKfeeHeRsIfeqwnUKaZCw07yTBEHSX-BpdcyvW-UqHmgHN-0uR4onKvj-KAspRI1nvB25XelgDj7fHxoJQ4ZzUlTObKg8c0GeEMqhrFh1I3H34yxlwYksU-4nLPk2SM8DV5xONtPXQ7naXUy1-1hTB9GaxjiAzF8OJ_",
+                        "width":1078
+                  }
+            ],
+            "place_id":"ChIJA4Pws2e12YgRMVqryyxhtwA",
+            "plus_code":{
+                  "compound_code":"QVG5+66 Miami Beach, FL, USA",
+                  "global_code":"76QXQVG5+66"
+            },
+            "price_level":null,
+            "rating":4.4,
+            "reference":"ChIJA4Pws2e12YgRMVqryyxhtwA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":174,
+            "vicinity":"520 West Avenue, Miami Beach",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":120860044061,
+            "Radius":144.7660339874
+      }
+]

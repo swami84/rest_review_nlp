@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9266931,
+                        "lng":-118.0995811
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9280422803,
+                              "lng":-118.0980996697
+                        },
+                        "southwest":{
+                              "lat":33.9253443197,
+                              "lng":-118.1007976303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Food Trucks",
+            "place_id":"ChIJqXIG2_LTwoAROrZ-jQ7prRY",
+            "plus_code":{
+                  "compound_code":"WWG2+M5 Norwalk, CA, USA",
+                  "global_code":"8553WWG2+M5"
+            },
+            "reference":"ChIJqXIG2_LTwoAROrZ-jQ7prRY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"11609 Studebaker Road, Norwalk",
+            "CBG":60375503004,
+            "Radius":451.2331714711
+      }
+]

@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.743318,
+                        "lng":-74.035185
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7446252803,
+                              "lng":-74.0337458697
+                        },
+                        "southwest":{
+                              "lat":40.7419273197,
+                              "lng":-74.0364438303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Grand Vin",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110231621928449962672\">Jeevan Sequeira<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKoEDZocafhtQ84xxP4EFahLqqKF_rs_iR7JXPbg8RofS0G64B6ElQlK7_QwEMyiCrbyZqeHZIgnGOZUpmIfgaCT9CyDzpjuL1MT2oA2NsdT8GMbeNQUu80fT2ur35X3kB-IGoStq3n1hoZsXZlkFm5vEnBsMBLZVvxqtHgjYfcberp",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUa37r2BXwokRZxdNuuYb5Ok",
+            "plus_code":{
+                  "compound_code":"PXV7+8W Hoboken, NJ, USA",
+                  "global_code":"87G7PXV7+8W"
+            },
+            "price_level":2.0,
+            "rating":4.4,
+            "reference":"ChIJUa37r2BXwokRZxdNuuYb5Ok",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":429,
+            "vicinity":"500 Grand Street, Hoboken",
+            "CBG":340170189003,
+            "Radius":113.9844490462
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7433915,
+                        "lng":-74.0335505
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7447317303,
+                              "lng":-74.0321505697
+                        },
+                        "southwest":{
+                              "lat":40.7420337697,
+                              "lng":-74.0348485303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Gregorio's Shanty Pub",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJq92aFmFXwokRd1ZBD_Awzu0",
+            "plus_code":{
+                  "compound_code":"PXV8+9H Hoboken, NJ, USA",
+                  "global_code":"87G7PXV8+9H"
+            },
+            "price_level":null,
+            "rating":5.0,
+            "reference":"ChIJq92aFmFXwokRd1ZBD_Awzu0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"501 Clinton Street, Hoboken",
+            "CBG":340170189003,
+            "Radius":113.9844490462
+      }
+]

@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.855703,
+                        "lng":-73.98281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8571286303,
+                              "lng":-73.9815911697
+                        },
+                        "southwest":{
+                              "lat":40.8544306697,
+                              "lng":-73.9842891303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Starbucks",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":640,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111821836005382259397\">Starbucks<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJDl7wF-0kdcfyEl7aML4X3VgCIpyiL3dVJp7k3JOONgA1MR7GyxbTAGC6m908H9tekj9Fy2N-cu3DQg11AiM3GLSxKpIFx8zwfw0lL_d_cblZNOukTPaKvq70Bh9JhrG0OpDLJE99IorLIzOBlNCMrAV3XSmYELrWH8wn_Td4Wcvdf",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJb1_qgd_2wokRR1yhkKwCwlQ",
+            "plus_code":{
+                  "compound_code":"V248+7V Fort Lee, NJ, USA",
+                  "global_code":"87G8V248+7V"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJb1_qgd_2wokRR1yhkKwCwlQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"1616 Bergen Boulevard, Fort Lee",
+            "CBG":340030192043,
+            "Radius":120.3060701909
+      }
+]

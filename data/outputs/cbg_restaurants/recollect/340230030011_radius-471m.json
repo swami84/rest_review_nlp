@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5475635,
+                        "lng":-74.2907458
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5488870803,
+                              "lng":-74.2893735697
+                        },
+                        "southwest":{
+                              "lat":40.5461891197,
+                              "lng":-74.2920715303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"Speedway",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":576,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114811473853587662010\">Mike R<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLfSvSh0St5s2XweQXWrQbSd_bHvr7ooOVaSrFez5JQdhw06ZJcKbCpO9QEJNg6GKzYzawaT9_FGhmxQrMm2YPRcUDioEEEr_6IMWt0s71e9Fs0r3QCE0nGaWwq9pkQc4maCPNudR1MMT6A5LQ4bMeeluKQIa_ifvu2lTR4oFB-y6Qs",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJkWsEIcG1w4kRtZ3rjuNrx-A",
+            "plus_code":{
+                  "compound_code":"GPX5+2P Woodbridge Township, NJ, USA",
+                  "global_code":"87G7GPX5+2P"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJkWsEIcG1w4kRtZ3rjuNrx-A",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":482,
+            "vicinity":"1020 U.S. 9, Woodbridge Township",
+            "CBG":340230030011,
+            "Radius":470.5912723003
+      }
+]

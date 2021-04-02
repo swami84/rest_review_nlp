@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3665351,
+                        "lng":-71.0578856
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3678478803,
+                              "lng":-71.0565959197
+                        },
+                        "southwest":{
+                              "lat":42.3651499197,
+                              "lng":-71.0592938803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Massimino's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102306502929091096586\">Law Tem<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKGOjSFG7qE0rAxI0h97phU0L_tuYimnlH5_hgrdVwwWB0mJitpYcBfzxX5zO3WuzubvwYu80XWfcP8RjClVSGW__Ar4HAcBXXxYeCc8wLf1xyhQikyjloc8uwjjzeA_SafL-H2JF-Qlqt4icvGM6v-wUQ1_Krjc7rMWNnVp-z9Ck4i",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJdZQcKIxw44kRYfAqgZLzx1c",
+            "plus_code":{
+                  "compound_code":"9W8R+JR Boston, MA, USA",
+                  "global_code":"87JC9W8R+JR"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJdZQcKIxw44kRYfAqgZLzx1c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":439,
+            "vicinity":"207 Endicott Street, Boston",
+            "CBG":250250301002,
+            "Radius":101.954537139
+      }
+]

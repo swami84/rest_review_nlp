@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.1079574,
+                        "lng":-118.2503937
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.1093578803,
+                              "lng":-118.2489824197
+                        },
+                        "southwest":{
+                              "lat":34.1066599197,
+                              "lng":-118.2516803803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Postl Ke Besto",
+            "place_id":"ChIJd2GK2SrBwoARp-KFTt9jI2c",
+            "plus_code":{
+                  "compound_code":"4P5X+5R Los Angeles, CA, USA",
+                  "global_code":"85634P5X+5R"
+            },
+            "reference":"ChIJd2GK2SrBwoARp-KFTt9jI2c",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Los Angeles River Greenway Trail, Los Angeles",
+            "CBG":60371872002,
+            "Radius":416.0721268
+      }
+]

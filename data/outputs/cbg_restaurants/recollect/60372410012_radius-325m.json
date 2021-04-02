@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9313572,
+                        "lng":-118.273666
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9327054803,
+                              "lng":-118.2724329697
+                        },
+                        "southwest":{
+                              "lat":33.9300075197,
+                              "lng":-118.2751309303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Louisiana Fried Chicken",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106237873981493241359\">ataho servi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJD9679Yl_CrtAWSexh4zATSnOpRfFis-5juijKwQEWTHRgJl5f3d1oMnukoQZXBFMrMckHcT2Rmesf1cy2ivPQ1hAlOG1aj_wCWHIf7Y6nfDRP8oYK6T-9WeuE8wCOd0Le9BWQu95zxTzLFjdjPardA21h_h4-kn9a-a2jHU1y_MQa",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUZnTMCLKwoARFF2OaUzYQBg",
+            "plus_code":{
+                  "compound_code":"WPJG+GG Los Angeles, CA, USA",
+                  "global_code":"8553WPJG+GG"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJUZnTMCLKwoARFF2OaUzYQBg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":184,
+            "vicinity":"11318 South Main Street, Los Angeles",
+            "CBG":60372410012,
+            "Radius":324.785082481
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9307533,
+                        "lng":-118.2742574
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9320866803,
+                              "lng":-118.2728603697
+                        },
+                        "southwest":{
+                              "lat":33.9293887197,
+                              "lng":-118.2755583303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Los Carnalillos Taco Truck Imperial",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1170,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110929749087341694339\">Tacos Los Carnalillos Taco Truck Imperial<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKDmIocoJPTMdEw_l-KOuHy2ddWlsuH2hBuGYUztgNCFyc9q79dR1l5qV897zsoJ5geNtTjsK7w44jbV1VIvQeGkA2GkWsvRvDkBacwiiVgofZMSlnmjRmVHrgTWP8tD7M83QSYvsDHlnFkvb4r43boRnLObH3R6eUYOwV9GSxnEAXa",
+                        "width":2504
+                  }
+            ],
+            "place_id":"ChIJNcf1r8DLwoARlSMpxB7qSkQ",
+            "plus_code":{
+                  "compound_code":"WPJG+87 Los Angeles, CA, USA",
+                  "global_code":"8553WPJG+87"
+            },
+            "price_level":null,
+            "rating":4.3,
+            "reference":"ChIJNcf1r8DLwoARlSMpxB7qSkQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":109,
+            "vicinity":"110 West Imperial Highway, Los Angeles",
+            "CBG":60372410012,
+            "Radius":324.785082481
+      }
+]

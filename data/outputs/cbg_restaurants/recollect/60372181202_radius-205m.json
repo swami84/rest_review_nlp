@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0433496,
+                        "lng":-118.3199647
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0448084803,
+                              "lng":-118.3186163197
+                        },
+                        "southwest":{
+                              "lat":34.0421105197,
+                              "lng":-118.3213142803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos No Q",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102319000890841344201\">tword323<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKP4expn2weNkqmr8kMBOYb9L5XyJP7sTvUhZRlrpAsRE7kg2E3dDiYJIk9frL3cAv8qWcfAFHfHpRHM6r-Ho_FgTqEVVbVzvSfop7g4bNHTFdvHaWEbLNt1cwlGw1xhQ4HlYqMSNoSfOmSmXEydHTTmeWLaBx8MkUTygr8TQwJjsJy",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJ-eqh1ma4woARgJKbuPxMD34",
+            "plus_code":{
+                  "compound_code":"2MVJ+82 Los Angeles, CA, USA",
+                  "global_code":"85632MVJ+82"
+            },
+            "rating":4.1,
+            "reference":"ChIJ-eqh1ma4woARgJKbuPxMD34",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":41,
+            "vicinity":"3224 Venice Boulevard, Los Angeles",
+            "CBG":60372181202,
+            "Radius":204.6585563405
+      }
+]

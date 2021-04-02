@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.824021,
+                        "lng":-73.927764
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8253509803,
+                              "lng":-73.9265774197
+                        },
+                        "southwest":{
+                              "lat":40.8226530197,
+                              "lng":-73.9292753803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"San Jose Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105123153766062428893\">Jose Miranda<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLJafBmlaOxVWgty-DDwZYwSDH8TeiIpEP9uNwP1lQG0my8BpwgJNADkUnajNA3NkeghGnO1sEatvkJahltRmBiRbQa5bSbsOCABYPF8LALdORW5d7TWNNOCnXy5cV7baU9-hngPdViEDRfoqBk-Kxh4ttPml-2Hn-7k6rDonpMcIPx",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJFY5vBtP1wokRKiSifF0do3U",
+            "plus_code":{
+                  "compound_code":"R3FC+JV The Bronx, NY, USA",
+                  "global_code":"87G8R3FC+JV"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJFY5vBtP1wokRKiSifF0do3U",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":366,
+            "vicinity":"109 East 153rd Street, The Bronx",
+            "CBG":360050063005,
+            "Radius":103.9809208653
+      }
+]

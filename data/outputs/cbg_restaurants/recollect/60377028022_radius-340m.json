@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0009381,
+                        "lng":-118.4161398
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0024260303,
+                              "lng":-118.4149210197
+                        },
+                        "southwest":{
+                              "lat":33.9997280697,
+                              "lng":-118.4176189803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Samosa House",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106054869305142744230\">Jenae Lien<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIzXJpevLtAzIeZ8ACPoMI0L6Gg5ct6K34SPe_56fDao4NHbInFz-yp3AqbaJuXwOhjkyb-UF3hFgo9wG9RjbUQ6h70dy9WbPpZzw0txWnOOH9cwxef1CsJ2GNxgJqniYdALTj2PraCPVpI6xyhYflhcMmCWpj9WQfD0qB21pXqLj0h",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJRZxpzBS6woAReNp-AMn12Qo",
+            "plus_code":{
+                  "compound_code":"2H2M+9G Los Angeles, CA, USA",
+                  "global_code":"85632H2M+9G"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJRZxpzBS6woAReNp-AMn12Qo",
+            "scope":"GOOGLE",
+            "types":[
+                  "grocery_or_supermarket",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1155,
+            "vicinity":"11510 Washington Boulevard, Los Angeles",
+            "CBG":60377028022,
+            "Radius":339.7690950803
+      }
+]

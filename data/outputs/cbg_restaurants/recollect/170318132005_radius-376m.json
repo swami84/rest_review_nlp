@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8719623,
+                        "lng":-87.8039551
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8733763803,
+                              "lng":-87.8026803197
+                        },
+                        "southwest":{
+                              "lat":41.8706784197,
+                              "lng":-87.8053782803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lola Tining's Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116364073179779635861\">American Marketing &amp; Publishing<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJGOL1A13Q7LFL1G-dKjb9D27Dl-BAZtul_eaIRcyc7v2EMMbp_1j5ZbaERUpRtilSVxz-iYb4OzEm9i2hMsym7xOpoFsyRarGzAC4AkXS_cLVaEaiiRbmbE_tqrGz0K_OQeLs1bcNuFylDV2Qa0cDkAR19ImzyOwW3HPjyVluxoJnl",
+                        "width":4928
+                  }
+            ],
+            "place_id":"ChIJpxbNGu80DogRacNYHMTifj0",
+            "plus_code":{
+                  "compound_code":"V5CW+QC Oak Park, IL, USA",
+                  "global_code":"86HJV5CW+QC"
+            },
+            "price_level":1,
+            "rating":4.5,
+            "reference":"ChIJpxbNGu80DogRacNYHMTifj0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":165,
+            "vicinity":"1141 Garfield Street, Oak Park",
+            "CBG":170318132005,
+            "Radius":376.2243571975
+      }
+]

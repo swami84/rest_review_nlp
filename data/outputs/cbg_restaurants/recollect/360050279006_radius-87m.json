@@ -1,0 +1,107 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.883843,
+                        "lng":-73.897967
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8851919803,
+                              "lng":-73.8966180197
+                        },
+                        "southwest":{
+                              "lat":40.8824940197,
+                              "lng":-73.8993159803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Con Sabor Latino",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111386723882639837528\">Con Sabor Latino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLNd8QXBHgLazTv-0uV16lNGOUHO6EQQSfry-JugSEgc3UWXTeaOUxWuCQzrJ-qStitbFmENKR_DRzhZ8mXnJa1rXIHrqnEUHHGNokPqGYGVvwMulXpHYMuLsqN2YNAPTULJQwrLEsgUrAfcstbXWQE49f6Tn3w8fYHAdS7wjf3ze3B",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJYQYhAaPzwokRpYhCzO3ztLE",
+            "plus_code":{
+                  "compound_code":"V4M2+GR The Bronx, NY, USA",
+                  "global_code":"87G8V4M2+GR"
+            },
+            "rating":3.8,
+            "reference":"ChIJYQYhAaPzwokRpYhCzO3ztLE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"3652 Bailey Avenue, The Bronx",
+            "CBG":360050279006,
+            "Radius":86.760545114
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8836547,
+                        "lng":-73.8977825
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8849941803,
+                              "lng":-73.8963679697
+                        },
+                        "southwest":{
+                              "lat":40.8822962197,
+                              "lng":-73.8990659303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dlicious31",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1288,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104497798648854241140\">disnalda almonte<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKV0wg1eBh_zuYBO0bVhGaKre4kvt0lt0XyeIHjuE9U_itZ7qGaDlOd-SwuPvFlawBSICNlw9uO-IJT-6avBcRTfhJJ1C-7DDNxvMUlZi-6ID9XvaQ7mZnZcNzHXvhBX7BejDh9DnNkKo647mSvvyQxDV1pHkCbK23I0HL1D4svgxAR",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJzYtV-O3zwokRVgsYiCRpPXs",
+            "plus_code":{
+                  "compound_code":"V4M2+FV New York, NY, USA",
+                  "global_code":"87G8V4M2+FV"
+            },
+            "rating":5.0,
+            "reference":"ChIJzYtV-O3zwokRVgsYiCRpPXs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2,
+            "vicinity":"130 West 238th Street, The Bronx",
+            "CBG":360050279006,
+            "Radius":86.760545114
+      }
+]

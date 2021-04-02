@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5774008,
+                        "lng":-73.9647576
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5787925803,
+                              "lng":-73.9632087697
+                        },
+                        "southwest":{
+                              "lat":40.5760946197,
+                              "lng":-73.9659067303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Nemo Fusion",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3626,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105067348350548555560\">Nemo Fusion<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLo_irOoiaqtEOjMxShO6CRr1PsDTuQP8VgoJWcS_jFoNmbGwiu20_1zGd1X11z766vwLohKNqOB4lxnzrU7IePfFUOgGAhl7auJUUfJ5ANIboUeUM0ozu6Gvn_-DON9IZmgAcCgrxsMiJpx-371J7J1AQdsDPFeBqVVjQIaxkN3YoQ",
+                        "width":5450
+                  }
+            ],
+            "place_id":"ChIJ84lfnAZFwokRWqVTZZmDRKg",
+            "plus_code":{
+                  "compound_code":"H2GP+X3 New York, NY, USA",
+                  "global_code":"87G8H2GP+X3"
+            },
+            "rating":4.7,
+            "reference":"ChIJ84lfnAZFwokRWqVTZZmDRKg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":7,
+            "vicinity":"3068 Brighton 3rd Street, Brooklyn",
+            "CBG":360470362002,
+            "Radius":131.5965400678
+      }
+]

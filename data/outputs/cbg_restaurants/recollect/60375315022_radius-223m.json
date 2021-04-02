@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0229709,
+                        "lng":-118.1709776
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0244746303,
+                              "lng":-118.1695794197
+                        },
+                        "southwest":{
+                              "lat":34.0217766697,
+                              "lng":-118.1722773803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ozz's Sopes",
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116246122976671585454\">Aantonio Juarezb<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ2tMHLyCp9hIWFj72c3DIDGxKM6ywySBj8uoIaoaiQ7-pfpgpAX-XXsj9C0H2ppBSXsGcCrPfjiOud3htTXVIA5FdMP9Uj01H6eY_ZMejAXzkWDb6Z_XsTIXKejqI23rCPPcUtNmilKxCefM0h8tXNr1aX4L08f8MlMjAbKfI7DE0L",
+                        "width":2448
+                  }
+            ],
+            "place_id":"ChIJU2l9nhLPwoARzk1b5j-inbs",
+            "plus_code":{
+                  "compound_code":"2RFH+5J Los Angeles, CA, USA",
+                  "global_code":"85632RFH+5J"
+            },
+            "rating":5,
+            "reference":"ChIJU2l9nhLPwoARzk1b5j-inbs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"4500 Whittier Boulevard, Los Angeles",
+            "CBG":60375315022,
+            "Radius":223.0005273729
+      }
+]

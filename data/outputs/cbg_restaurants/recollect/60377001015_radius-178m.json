@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0910068,
+                        "lng":-118.3569687
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0922548303,
+                              "lng":-118.3556208197
+                        },
+                        "southwest":{
+                              "lat":34.0895568697,
+                              "lng":-118.3583187803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kashtan (\u041a\u0430\u0448\u0442\u0430\u043d)",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":853,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112738877381294500534\">Kashtan (\u041a\u0430\u0448\u0442\u0430\u043d)<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLXOSinjXlnpEBa7DyRCYbRatRfIhn5M_QstxDbsI2IwASXI3RGzW6UrmcoJ1Ey0VOQQnk206acxzoWlbiFd3m3n9P5y5jVe0wbhkzCh7uJdejtIx5g9rLjqE7cORwWGGNMdcrQv430arqP4OETbMC9uD9vFAv1WJ8gGbdeyyBLq9vB",
+                        "width":1280
+                  }
+            ],
+            "place_id":"ChIJG14sCNC-woARkxTTZATQi5Q",
+            "plus_code":{
+                  "compound_code":"3JRV+C6 West Hollywood, CA, USA",
+                  "global_code":"85633JRV+C6"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJG14sCNC-woARkxTTZATQi5Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":118,
+            "vicinity":"7707 Santa Monica Boulevard, West Hollywood",
+            "CBG":60377001015,
+            "Radius":178.1490589421
+      }
+]

@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7479763,
+                        "lng":-74.1874195
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7494427803,
+                              "lng":-74.1861932197
+                        },
+                        "southwest":{
+                              "lat":40.7467448197,
+                              "lng":-74.1888911803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Checkers",
+            "place_id":"ChIJpYRDam1VwokRB0lPFefShAE",
+            "plus_code":{
+                  "compound_code":"PRX7+52 Newark, NJ, USA",
+                  "global_code":"87G7PRX7+52"
+            },
+            "reference":"ChIJpYRDam1VwokRB0lPFefShAE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"75 1st Street, Newark",
+            "CBG":340130010002,
+            "Radius":298.593306188
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7481212,
+                        "lng":-74.187593
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7494260803,
+                              "lng":-74.1862637197
+                        },
+                        "southwest":{
+                              "lat":40.7467281197,
+                              "lng":-74.1889616803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Caesars",
+            "place_id":"ChIJUbggFpxUwokR3LdWy21broo",
+            "plus_code":{
+                  "compound_code":"PRX6+6X Newark, NJ, USA",
+                  "global_code":"87G7PRX6+6X"
+            },
+            "reference":"ChIJUbggFpxUwokR3LdWy21broo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":340130010002,
+            "Radius":298.593306188
+      }
+]

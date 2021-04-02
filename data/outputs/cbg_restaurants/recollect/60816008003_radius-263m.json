@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7039301,
+                        "lng":-122.4750409
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7052757303,
+                              "lng":-122.4737983197
+                        },
+                        "southwest":{
+                              "lat":37.7025777697,
+                              "lng":-122.4764962803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Boulevard Cafe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":682,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109335675557666193629\">Boulevard Cafe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJqDwK6OKRQ-iTGzxps3uL_eafYTCCIZj_EEarY9L9sVMfytjFd6iRclle5u7CCYxwMxgyf4a3iijMt1Z9QB1l_HQvbYPrxLXjI6zbNydPM_WjG9-uLyYDLoPAqL3hC1oYqtLiKsuGcn8O5_dBGYtAYItSLAEMv-Zj9FfgTCZbg90lC",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJP7V2IER8j4ARmwqj9PK5tcw",
+            "plus_code":{
+                  "compound_code":"PG3F+HX Daly City, CA, USA",
+                  "global_code":"849VPG3F+HX"
+            },
+            "price_level":2,
+            "rating":4.3,
+            "reference":"ChIJP7V2IER8j4ARmwqj9PK5tcw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1736,
+            "vicinity":"2 Poncetta Drive, Daly City",
+            "CBG":60816008003,
+            "Radius":263.0224972192
+      }
+]

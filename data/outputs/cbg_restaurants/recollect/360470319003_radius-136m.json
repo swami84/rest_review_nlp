@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6642686,
+                        "lng":-73.9489057
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6656175803,
+                              "lng":-73.9475567197
+                        },
+                        "southwest":{
+                              "lat":40.6629196197,
+                              "lng":-73.9502546803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lucky's Jamaican Resturant & Bakery",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJcddHPVFbwokR9_WMRx63Mm4",
+            "plus_code":{
+                  "compound_code":"M372+PC New York, NY, USA",
+                  "global_code":"87G8M372+PC"
+            },
+            "rating":5,
+            "reference":"ChIJcddHPVFbwokR9_WMRx63Mm4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"403 Empire Boulevard, Brooklyn",
+            "CBG":360470319003,
+            "Radius":136.0457520176
+      }
+]

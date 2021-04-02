@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8214157,
+                        "lng":-73.9115293
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8227157803,
+                              "lng":-73.9102022197
+                        },
+                        "southwest":{
+                              "lat":40.8200178197,
+                              "lng":-73.9129001803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Terraza",
+            "place_id":"ChIJg6ucnbX1wokR9kW1g8J39gI",
+            "plus_code":{
+                  "compound_code":"R3CQ+H9 The Bronx, NY, USA",
+                  "global_code":"87G8R3CQ+H9"
+            },
+            "reference":"ChIJg6ucnbX1wokR9kW1g8J39gI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"East 158th Street, The Bronx",
+            "CBG":360050071001,
+            "Radius":130.6680614951
+      }
+]

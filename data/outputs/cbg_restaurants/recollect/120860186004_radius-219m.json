@@ -1,0 +1,49 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.6839458,
+                        "lng":-80.4318238
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.6853987803,
+                              "lng":-80.4304793197
+                        },
+                        "southwest":{
+                              "lat":25.6827008197,
+                              "lng":-80.4331772803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wingstop",
+            "photos":[
+                  {
+                        "height":1267,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116808687283166427770\">Robert Wind<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLSmesjLKrvmBTFwUe9MtGQhcmKBF-DDXcHyBrJFWFLi1XkcUOaxd1NXysimTleHNitbmX-jGfi0WVDLpY9eCgo9WwMDS_L_Z8xdg4iarkmOZsEZ_Nfie_VWQfqoOe3WqLuYH-VBIH4xC2f8wVM_46UO1AGe6vFvl0aIjz8u-5kI063",
+                        "width":1392
+                  }
+            ],
+            "place_id":"ChIJx4-skT7B2YgRu8ek_tygDnU",
+            "plus_code":{
+                  "compound_code":"MHM9+H7 Miami, FL, USA",
+                  "global_code":"76QXMHM9+H7"
+            },
+            "reference":"ChIJx4-skT7B2YgRu8ek_tygDnU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"14802 North Kendall Drive, Miami",
+            "CBG":120860186004,
+            "Radius":219.4944027153
+      }
+]

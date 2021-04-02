@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.074775,
+                        "lng":-118.301376
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0761232803,
+                              "lng":-118.3001935197
+                        },
+                        "southwest":{
+                              "lat":34.0734253197,
+                              "lng":-118.3028914803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dominican barbershop",
+            "place_id":"ChIJ4Zlctry5woARNHu6k2jiVxE",
+            "plus_code":{
+                  "compound_code":"3MFX+WC Los Angeles, CA, USA",
+                  "global_code":"85633MFX+WC"
+            },
+            "reference":"ChIJ4Zlctry5woARNHu6k2jiVxE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"134 North Ardmore Avenue, Los Angeles",
+            "CBG":60372114201,
+            "Radius":245.4937927945
+      }
+]

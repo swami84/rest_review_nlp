@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7762965,
+                        "lng":-74.0226563
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7776731303,
+                              "lng":-74.0213496197
+                        },
+                        "southwest":{
+                              "lat":40.7749751697,
+                              "lng":-74.0240475803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Esquina Del Buen Gusto",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107087243243237782459\">Richard Rodriguez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJEQAjlknMpB6_006J0x0x_IZl5pCHpHSFRXd_A16jNybBHLlQFPtzxv9Yfvvln9EeVjM8jA6c1gWeDdHU04YMTEhF6M8fY2WY84fZCYKxawp-6nVU6skUF7oZEtHxjooGAQxLYB_Gsan6ltMJ-ON6LKi-YvIuqmri1Y6zTNMgD9Iyx",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJGX_xkiNYwokR1D8WIqkcj6A",
+            "plus_code":{
+                  "compound_code":"QXGG+GW Union City, NJ, USA",
+                  "global_code":"87G7QXGG+GW"
+            },
+            "price_level":1.0,
+            "rating":4.4,
+            "reference":"ChIJGX_xkiNYwokR1D8WIqkcj6A",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":226,
+            "vicinity":"4114 Palisade Avenue, Union City",
+            "CBG":340170163003,
+            "Radius":133.1834013967
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7763889,
+                        "lng":-74.0205556
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7776826803,
+                              "lng":-74.0192500197
+                        },
+                        "southwest":{
+                              "lat":40.7749847197,
+                              "lng":-74.0219479803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Crave 43",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106510411381410016608\">Crave 43<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIoAwaIO1aOLkro1Ez8h25v1VawFLinujBM47BlTDv7P0LvYKIbliXk93l23BF5M01CIFeelHR9Lwfjgjyj6nbo_z1kE5xCStVFuLhNVnAo1mDA_MvM0gobLc4-qjfVPl3JdN2w6rrJdAUpYrYPTUzD57gY1TjlKGHKMKBhqJ0F9Ish",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJtfREciNYwokRkLgQ_jzy_nc",
+            "plus_code":{
+                  "compound_code":"QXGH+HQ Union City, NJ, USA",
+                  "global_code":"87G7QXGH+HQ"
+            },
+            "price_level":null,
+            "rating":4.0,
+            "reference":"ChIJtfREciNYwokRkLgQ_jzy_nc",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"120 43rd Street A, Union City",
+            "CBG":340170163003,
+            "Radius":133.1834013967
+      }
+]

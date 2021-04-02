@@ -1,0 +1,103 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7748021,
+                        "lng":-80.1380274
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7761593303,
+                              "lng":-80.1366723197
+                        },
+                        "southwest":{
+                              "lat":25.7734613697,
+                              "lng":-80.1393702803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/gas_station-71.png",
+            "name":"Marathon Gas Station",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113447296451040056640\">Marathon Gas Station<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKXvdcZ2ROHY-mvL_594xF8mNAoBFo6IHeZPpkwvDoE8BM1Aq2wz4QIDQS8LSg3hXfI_F2bV27RSWK0sgeBrBDEUHm9fy67K769qbvnoGwz1_yL7ufDii9ZXZGgTj83MBQ8kQ2Yb4Aejr878bHWxnJj5dQSgQ-HSWUk38CKBuq4v1FC",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJ8-SYkPS02YgRb13xBoks2Tw",
+            "plus_code":{
+                  "compound_code":"QVF6+WQ Miami Beach, FL, USA",
+                  "global_code":"76QXQVF6+WQ"
+            },
+            "rating":3.7,
+            "reference":"ChIJ8-SYkPS02YgRb13xBoks2Tw",
+            "scope":"GOOGLE",
+            "types":[
+                  "gas_station",
+                  "convenience_store",
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":45.0,
+            "vicinity":"945 5th Street, Miami Beach",
+            "permanently_closed":null,
+            "CBG":120860044053,
+            "Radius":173.7438288292
+      },
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":25.7738577,
+                        "lng":-80.1392385
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7752987303,
+                              "lng":-80.1380084197
+                        },
+                        "southwest":{
+                              "lat":25.7726007697,
+                              "lng":-80.1407063803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"ArtEvents Miami",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJf53z9_S02YgRrCtlVauDkYg",
+            "plus_code":{
+                  "compound_code":"QVF6+G8 Miami Beach, FL, USA",
+                  "global_code":"76QXQVF6+G8"
+            },
+            "rating":null,
+            "reference":"ChIJf53z9_S02YgRrCtlVauDkYg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"429 Lenox Avenue suite # 5W18, Miami Beach",
+            "permanently_closed":true,
+            "CBG":120860044053,
+            "Radius":173.7438288292
+      }
+]

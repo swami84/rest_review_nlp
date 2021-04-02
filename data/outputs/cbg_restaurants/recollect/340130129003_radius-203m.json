@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7220578,
+                        "lng":-74.229062
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7233757303,
+                              "lng":-74.2277371697
+                        },
+                        "southwest":{
+                              "lat":40.7206777697,
+                              "lng":-74.2304351303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Urban Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107453884031100139006\">The Urban Garden<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKRYCHt_yBqTwIalarUYjNjwXTklEFfi5L1J0AvloEEBnGziOG6vMRLshEKoVTaUX9snTGStX_A1gZJQkimxaI3NLbUso1Ky82LVBPiDQCNv2usukRvN-8oZBL1XDQPFONfQDqZsmaRWREubiDmVexbc1qrq4m9B0G9LphWd9dQotlI",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJx957EnOtw4kRJWLsl3WepQ8",
+            "plus_code":{
+                  "compound_code":"PQCC+R9 Irvington, NJ, USA",
+                  "global_code":"87G7PQCC+R9"
+            },
+            "rating":4.8,
+            "reference":"ChIJx957EnOtw4kRJWLsl3WepQ8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"85 May Street, Irvington",
+            "CBG":340130129003,
+            "Radius":203.1317566163
+      }
+]

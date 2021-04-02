@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.07872,
+                        "lng":-118.37683
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0799899303,
+                              "lng":-118.3753633697
+                        },
+                        "southwest":{
+                              "lat":34.0772919697,
+                              "lng":-118.3780613303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Nice Guy",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104396116983331318497\">The Nice Guy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZTWMZ6UaDEEIp-qtPs5TEmSbh19AeW99d1JZXCJ3X7yXZD37MXFj3J4b3V8zyWfaLFUxXj3gQIhLhL8eurlBmAQx5sTegEi9CI7RYqvKXEmSrPA6KPPq2kNj12HN_fZ840D_LP5w5M0QGcAACCOT2LUBUSPa9rcXoM2VkP1jNQTuq",
+                        "width":4500
+                  }
+            ],
+            "place_id":"ChIJ5W13mLO-woARQsWr8qRp7Yw",
+            "plus_code":{
+                  "compound_code":"3JHF+F7 Los Angeles, CA, USA",
+                  "global_code":"85633JHF+F7"
+            },
+            "price_level":3,
+            "rating":3.9,
+            "reference":"ChIJ5W13mLO-woARQsWr8qRp7Yw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":343,
+            "vicinity":"401 North La Cienega Boulevard, Los Angeles",
+            "CBG":60377004002,
+            "Radius":274.7933424591
+      }
+]

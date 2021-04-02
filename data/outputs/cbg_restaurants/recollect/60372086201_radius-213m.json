@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0722067,
+                        "lng":-118.2749154
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0735861303,
+                              "lng":-118.2735511197
+                        },
+                        "southwest":{
+                              "lat":34.0708881697,
+                              "lng":-118.2762490803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Pizza Hut",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114797404514884898077\">Angelica Luis Aquino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLM7lP7SYq2yVcsqK2DXsP3C4UCEWhV3JV0VS01yo4PFkbERcgAH8tEj4SvnLRcPjNE-Q9YwjugC63eINkxxjvGch-Wjt_KKSsa4wl4Wqatb69uF6br7CcynGjj1YaFz90vbgZpGmsgwWno39NJQ1KkerFjtQpF2MjF8_oBQIL-rH9G",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJJxcY5hLHwoAR3dZH8KZa0YM",
+            "plus_code":{
+                  "compound_code":"3PCG+V2 Los Angeles, CA, USA",
+                  "global_code":"85633PCG+V2"
+            },
+            "price_level":1,
+            "rating":3.8,
+            "reference":"ChIJJxcY5hLHwoAR3dZH8KZa0YM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":277,
+            "vicinity":"2542 West Temple Street, Los Angeles",
+            "CBG":60372086201,
+            "Radius":213.4143584075
+      }
+]

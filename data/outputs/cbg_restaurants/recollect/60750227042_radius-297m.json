@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7597762,
+                        "lng":-122.398819
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7611772303,
+                              "lng":-122.3974750697
+                        },
+                        "southwest":{
+                              "lat":37.7584792697,
+                              "lng":-122.4001730303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Haute Nendaz",
+            "place_id":"ChIJyVEke6N_j4ARLFqmnrStjX0",
+            "plus_code":{
+                  "compound_code":"QJ52+WF Potrero Hill, San Francisco, CA, USA",
+                  "global_code":"849VQJ52+WF"
+            },
+            "reference":"ChIJyVEke6N_j4ARLFqmnrStjX0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1733 20th Street, San Francisco",
+            "CBG":60750227042,
+            "Radius":296.7937523322
+      }
+]

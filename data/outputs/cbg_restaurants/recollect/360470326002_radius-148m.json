@@ -1,0 +1,106 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.57477,
+                        "lng":-73.988258
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5759770303,
+                              "lng":-73.9868883697
+                        },
+                        "southwest":{
+                              "lat":40.5732790697,
+                              "lng":-73.9895863303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"American Pizza &Wings halal",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116340188520624359933\">American Pizza &amp;Wings<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwILSYuKtDRtZWxeod__JwGJbwV4rXDvwvW836sIGDEkE4Y5vP4t_GTsxNVspjNqNGQ1BuiJv2CB7gaqcTtvk273Aq9BAgS0PgNploHviYd-z6jj5HXzEYE2aGr4j5OmJownICJRDBfwVOq4E967o3WX66W8_ZJuByxi0i-egEbUyMbr",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJd4G4XJFFwokRPC2jDY6Zzbw",
+            "plus_code":{
+                  "compound_code":"H2F6+WM Brooklyn, NY, USA",
+                  "global_code":"87G8H2F6+WM"
+            },
+            "rating":4.3,
+            "reference":"ChIJd4G4XJFFwokRPC2jDY6Zzbw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":13,
+            "vicinity":"2115 Surf Avenue, Brooklyn",
+            "CBG":360470326002,
+            "Radius":147.713194293
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.574655,
+                        "lng":-73.988395
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5758992303,
+                              "lng":-73.9870300197
+                        },
+                        "southwest":{
+                              "lat":40.5732012697,
+                              "lng":-73.9897279803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Not Just Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101512485664432476548\">Hikmat Zubaidi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK1gD058A1UKk3axWlQoMv37u8c09lDlu90cjUZLmQdVBPFAu047LCdAMB0wGtNa5L_C8O1ur3-bvvvICYbtAwpu7iZzRRZPzJIxgzZ-0VFtRHV5jQG97Kew9Z6WAORsiwcDPb6vAJIZUQ7qIguU12vow7B9vpcqq_kBVnmEWb98WCG",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJl0kn0MtFwokRTmk06inxw4I",
+            "plus_code":{
+                  "compound_code":"H2F6+VJ Brooklyn, NY, USA",
+                  "global_code":"87G8H2F6+VJ"
+            },
+            "rating":4.3,
+            "reference":"ChIJl0kn0MtFwokRTmk06inxw4I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":24,
+            "vicinity":"2115 Surf Avenue, Brooklyn",
+            "CBG":360470326002,
+            "Radius":147.713194293
+      }
+]

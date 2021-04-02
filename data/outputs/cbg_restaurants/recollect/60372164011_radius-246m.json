@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0571619,
+                        "lng":-118.3756716
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0585328303,
+                              "lng":-118.3743894197
+                        },
+                        "southwest":{
+                              "lat":34.0558348697,
+                              "lng":-118.3770873803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China Combo",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104084452244430212003\">Chantelle Alcantara<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLQJcbv-aI1oA_2JDDpuW1hcXbYt8_WKllulqsoMkhp16m31ULhWxbyS8agZ8Nw66c0XfyeG-1UkVOKsM78u_W3EAwzdWcFt8xxSC6DyLvz0Q5guGAuNqwLOV5V5cgInwO1DQheUPUlPFeO8zf3eEr2cPaMmE-294QXrZPWzlHz4WJ-",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ-SuPJUK5woARJVKc8KROHvA",
+            "plus_code":{
+                  "compound_code":"3J4F+VP Los Angeles, CA, USA",
+                  "global_code":"85633J4F+VP"
+            },
+            "price_level":1.0,
+            "rating":3.6,
+            "reference":"ChIJ-SuPJUK5woARJVKc8KROHvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":62.0,
+            "vicinity":"1080 South La Cienega Boulevard #110, Los Angeles",
+            "CBG":60372164011,
+            "Radius":246.2285199188
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0552231,
+                        "lng":-118.3798183
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0565659303,
+                              "lng":-118.3782997197
+                        },
+                        "southwest":{
+                              "lat":34.0538679697,
+                              "lng":-118.3809976803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Heredity",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJoWecXuO5woARpQcWDYRJz1M",
+            "plus_code":{
+                  "compound_code":"3J4C+33 Los Angeles, CA, USA",
+                  "global_code":"85633J4C+33"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJoWecXuO5woARpQcWDYRJz1M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1217 South Sherbourne Drive #1, Los Angeles",
+            "CBG":60372164011,
+            "Radius":246.2285199188
+      }
+]

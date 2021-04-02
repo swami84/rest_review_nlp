@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7252505,
+                        "lng":-74.0756103
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7266360303,
+                              "lng":-74.0743502197
+                        },
+                        "southwest":{
+                              "lat":40.7239380697,
+                              "lng":-74.0770481803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sap Sap With Dala",
+            "place_id":"ChIJFb4ivJ1RwokR4qjdxzshITw",
+            "plus_code":{
+                  "compound_code":"PWGF+4Q Jersey City, NJ, USA",
+                  "global_code":"87G7PWGF+4Q"
+            },
+            "reference":"ChIJFb4ivJ1RwokR4qjdxzshITw",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"176 Fairview Avenue, Jersey City",
+            "CBG":340170028005,
+            "Radius":111.4670718073
+      }
+]

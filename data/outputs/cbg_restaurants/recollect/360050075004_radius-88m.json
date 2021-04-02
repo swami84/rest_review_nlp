@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8176966,
+                        "lng":-73.9060743
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8190455803,
+                              "lng":-73.9047253197
+                        },
+                        "southwest":{
+                              "lat":40.8163476197,
+                              "lng":-73.9074232803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kennedy Fried Chicken",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114165873766144882173\">Beatrice Michelle<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwINUHOFFI_O0B-zhSrPa51Caq_8Ts6xdap4RBTCyu9KDKZJNRl5-DdZZFdHH3Ek0kiEjKKHBaVEbfXfr35yLU3vc2fDELwWcqocipGFjzXgcbG17Jo_rLU5WwFLxvJm72QcA03QwhydH0G9AlG8yMNOAYo_VruHosl_-qwZZtmYyoCH",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJt3szTrH1wokRQCEUyjjoHJo",
+            "plus_code":{
+                  "compound_code":"R39V+3H The Bronx, NY, USA",
+                  "global_code":"87G8R39V+3H"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJt3szTrH1wokRQCEUyjjoHJo",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":32,
+            "vicinity":"733 Westchester Avenue, The Bronx",
+            "opening_hours":null,
+            "CBG":360050075004,
+            "Radius":88.1924150304
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8176125,
+                        "lng":-73.9063026
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8188876803,
+                              "lng":-73.9048773697
+                        },
+                        "southwest":{
+                              "lat":40.8161897197,
+                              "lng":-73.9075753303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hing Wong",
+            "photos":[
+                  {
+                        "height":500,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101523293730959956425\">Dave Cook<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJRISwTJH1YcEKx-7CYX-bT20ZBx37HYIVAFmmafxEdLQDwZE1NFi4yWdjrWyxi6IyGw3M_iNvt18PWKQz37l9Y6WQi6LxcK7qfHlD1m4TEpBmijwA5e8z_rRz5IbWVxua5t_iqq3HOL94ULzhIUkV6NpmceoeTZ5jE1xIKcwaeSxT-",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJBTqHTrH1wokRbJUwjAdMHoY",
+            "plus_code":{
+                  "compound_code":"R39V+2F The Bronx, NY, USA",
+                  "global_code":"87G8R39V+2F"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJBTqHTrH1wokRbJUwjAdMHoY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"721 Westchester Avenue, The Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360050075004,
+            "Radius":88.1924150304
+      }
+]

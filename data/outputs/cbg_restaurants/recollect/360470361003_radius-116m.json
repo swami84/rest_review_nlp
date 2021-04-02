@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.670264,
+                        "lng":-73.9218705
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6715259303,
+                              "lng":-73.9205132697
+                        },
+                        "southwest":{
+                              "lat":40.6688279697,
+                              "lng":-73.9232112303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zhangs Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJw-xXBGNcwokRss1C97jI2nU",
+            "plus_code":{
+                  "compound_code":"M3CH+47 Brooklyn, NY, USA",
+                  "global_code":"87G8M3CH+47"
+            },
+            "rating":4.4,
+            "reference":"ChIJw-xXBGNcwokRss1C97jI2nU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":27,
+            "vicinity":"1661 Saint Johns Place, Brooklyn",
+            "CBG":360470361003,
+            "Radius":115.7193959622
+      }
+]

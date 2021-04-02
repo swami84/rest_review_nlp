@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7533835,
+                        "lng":-74.2128993
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7547811303,
+                              "lng":-74.2117257697
+                        },
+                        "southwest":{
+                              "lat":40.7520831697,
+                              "lng":-74.2144237303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mom's Chicken & Rice",
+            "photos":[
+                  {
+                        "height":3264,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114163573626649879981\">Brad Cozine<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwITsD3gm3_jbWBfpM_PFjH-8_tv4bjGDv_aMXEbZAUTmoQAn6Dw9UEQUQiNCdpP-6MvPomjU2ZurHHAeQqNMWRebXuGBJCl5XIHwvxBsq59RbwpzEKjsXvQawcxsgi-x18hSxtLosz8kBRFX12dbO5PJErLtWqCHKghgaN3t5RXtJ4K",
+                        "width":1836
+                  }
+            ],
+            "place_id":"ChIJ7bCiD6xUwokR_VJ2CzyLZto",
+            "plus_code":{
+                  "compound_code":"QQ3P+9R East Orange, NJ, USA",
+                  "global_code":"87G7QQ3P+9R"
+            },
+            "rating":4.8,
+            "reference":"ChIJ7bCiD6xUwokR_VJ2CzyLZto",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"East Orange",
+            "CBG":340130117001,
+            "Radius":223.4689347624
+      }
+]

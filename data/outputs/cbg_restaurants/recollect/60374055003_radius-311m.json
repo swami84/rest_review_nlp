@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0711835,
+                        "lng":-117.9318247
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0726067303,
+                              "lng":-117.9305032
+                        },
+                        "southwest":{
+                              "lat":34.0699087697,
+                              "lng":-117.9337344
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Five Guys",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106074498535064782683\">Vaughn R.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJLgF4ga-OPKIPFqLfwhAk1bmgeXYgfujG7MzqYk-QgcTWDLxT_4a3frOyuC_4xh-I4zD-OQfK25cO2qy0Cl0qPfY6IlpBjtJoAS2F9mViUVH3zAdjSivHimqsj8mzFYX290thQYPSh8DXvayxDnSRMNdORDzcK_c9XBYw4-V0sH-cL",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJyfIscdbXwoARb778lCcCqxM",
+            "plus_code":{
+                  "compound_code":"33C9+F7 West Covina, CA, USA",
+                  "global_code":"856433C9+F7"
+            },
+            "price_level":2.0,
+            "rating":4.1,
+            "reference":"ChIJyfIscdbXwoARb778lCcCqxM",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":271,
+            "vicinity":"1455 Plaza Drive, West Covina",
+            "CBG":60374055003,
+            "Radius":310.9032724619
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0711899,
+                        "lng":-117.9317411
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0726103303,
+                              "lng":-117.9301770697
+                        },
+                        "southwest":{
+                              "lat":34.0699123697,
+                              "lng":-117.9328750303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mikomi Sushi West Covina",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":1200,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100385027085641002303\">Mikomi Sushi West Covina<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKBUQuik_LXTDockbVZDoaEO00HfzK0MZOqta611prXEWudusGowctbdNWIz2wOeLJcGs1HjSmNdziHf61j-psbs4ynfoPM5nquK6i86wNyjTFKVulrXGWVAXAJAL9ccB1caexnnDWI1jpgZWs7jSMqd2r28cUU3TKQ4sUTPeOcrkSF",
+                        "width":1798
+                  }
+            ],
+            "place_id":"ChIJyfIscdbXwoAR1bHz1WCVc4o",
+            "plus_code":{
+                  "compound_code":"33C9+F8 West Covina, CA, USA",
+                  "global_code":"856433C9+F8"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJyfIscdbXwoAR1bHz1WCVc4o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":224,
+            "vicinity":"1465 Plaza Drive, West Covina",
+            "CBG":60374055003,
+            "Radius":310.9032724619
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.736585,
+                        "lng":-84.484111
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.7378564803,
+                              "lng":-84.4825989697
+                        },
+                        "southwest":{
+                              "lat":42.7351585197,
+                              "lng":-84.4852969303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"Dublin Square",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2981,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100415315661703098759\">Dublin Square<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJIqINeQQmeM-6XsWr6MedKmdXxFEcKxP2xYM8RfxqFk5fSbKX7LzQytQ3LZ9n62qSlPRSb_qR8caz2so9o0qEhEjfaPyvZv46fxa-QdIxtf-swT9lHb_q6YJOARXu8UnqRhAO5s9FU1vdE1T6KYBccLOkqQo4xY1dy9Pf3GnjPtwPy",
+                        "width":2970
+                  }
+            ],
+            "place_id":"ChIJFdYajtPpIogRaTH_2MUwRmk",
+            "plus_code":{
+                  "compound_code":"PGP8+J9 East Lansing, MI, USA",
+                  "global_code":"86JQPGP8+J9"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJFdYajtPpIogRaTH_2MUwRmk",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":585,
+            "vicinity":"327 Abbot Road, East Lansing",
+            "CBG":260650041003,
+            "Radius":276.0225102917
+      }
+]

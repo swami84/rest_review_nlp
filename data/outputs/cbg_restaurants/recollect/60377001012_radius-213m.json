@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.091071,
+                        "lng":-118.360527
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0924960803,
+                              "lng":-118.3591779197
+                        },
+                        "southwest":{
+                              "lat":34.0897981197,
+                              "lng":-118.3618758803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kung Pao Bistro",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":462,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102518515216170402749\">Kung Pao Bistro<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwL9ZwpEMJUC5jCjFtDhkCNKawdzulu6v5Imd1xFnd9yPgh9hzPx7dgUztieIKZklZEUes9TSnHLwHFqgXDXq4D7wNGU0dUW90bbRCQ87gtyloewZNlqi5biPU-8-l_56pvzzqnZoxFnWbkOOmze5dOXzrSMt1hQzNPNHE971NUNXykQ",
+                        "width":559
+                  }
+            ],
+            "place_id":"ChIJiVKbdsW-woARAula7QcWXAo",
+            "plus_code":{
+                  "compound_code":"3JRQ+CQ West Hollywood, CA, USA",
+                  "global_code":"85633JRQ+CQ"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJiVKbdsW-woARAula7QcWXAo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":401,
+            "vicinity":"7853 Santa Monica Boulevard, West Hollywood",
+            "CBG":60377001012,
+            "Radius":213.2957503154
+      }
+]

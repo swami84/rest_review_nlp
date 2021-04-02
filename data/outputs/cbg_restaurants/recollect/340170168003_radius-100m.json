@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7690034,
+                        "lng":-74.0317071
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7703232803,
+                              "lng":-74.0303262197
+                        },
+                        "southwest":{
+                              "lat":40.7676253197,
+                              "lng":-74.0330241803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bari Pizzeria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3318,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106704344475530382928\">Bari Pizzeria<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUyjoZ8BOgrgLtfaHvlGDjrPtNagy3giBLKI6EcAG2W7xx9xucGkWqBMMnvSfDDHNcFplHYZJhWOyxHatViam1gQpl4yt80O_d-IFrw2CcMjgmXeLckLUaAy7X1aGxVFEljAj5p_tBQe7lzOCQSEE_15_ALbOTYg0Fx1IKklWYd0zG",
+                        "width":4977
+                  }
+            ],
+            "place_id":"ChIJW4cYDIdXwokR5bS38Bwu7Ls",
+            "plus_code":{
+                  "compound_code":"QX99+J8 Union City, NJ, USA",
+                  "global_code":"87G7QX99+J8"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJW4cYDIdXwokR5bS38Bwu7Ls",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":165,
+            "vicinity":"2601 Bergenline Avenue, Union City",
+            "CBG":340170168003,
+            "Radius":99.9141363897
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7684164,
+                        "lng":-74.0318736
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7697826803,
+                              "lng":-74.0305721197
+                        },
+                        "southwest":{
+                              "lat":40.7670847197,
+                              "lng":-74.0332700803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Plaza Espa\u00f1a",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114380763991653390387\">Oscar Geovanny Toapanta<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ79DOLQLUOgFuKAQs8MfICbYAa_4ux7gtfgRxyNvMfhkyN32HEOOK8j_tgeP0EVgJg7cU6KiajH4MJaWnwH8gjYS00HiHnyWBB4a1MeCWIzbbA_XnhpMVrYnv54Uf23JJ2CpGrk17c3Y8jnZgIs3hcbpYlR1TkftRIF2wwHJBBODkj",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJV5ujFodXwokRc-QMTEQ18fQ",
+            "plus_code":{
+                  "compound_code":"QX99+97 Union City, NJ, USA",
+                  "global_code":"87G7QX99+97"
+            },
+            "price_level":null,
+            "rating":4.5,
+            "reference":"ChIJV5ujFodXwokRc-QMTEQ18fQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"2506 Bergenline Avenue, Union City",
+            "CBG":340170168003,
+            "Radius":99.9141363897
+      }
+]

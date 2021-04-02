@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.868898,
+                        "lng":-73.90187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8702469803,
+                              "lng":-73.9005210197
+                        },
+                        "southwest":{
+                              "lat":40.8675490197,
+                              "lng":-73.9032189803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Caesars Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110001306922091277063\">Little Caesars Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKAf7nXTPaqhFU7GJvftUV_AB4sd7UbFakatTd1jSTXP7qhDofn6FbghTDp3mdWIULtFXA29CvbVXrWbZC-3UDFkkoowdDpar239YfEtnqZ-t-n5IqpGHFOjmlzS2GsAnwd38w-1pMvu8oIlC05zLO0F8tWC0Xq62YN1peFXSBUTU3-",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJCw8XbY_zwokRFJocoRyCKm0",
+            "plus_code":{
+                  "compound_code":"V39X+H7 The Bronx, NY, USA",
+                  "global_code":"87G8V39X+H7"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJCw8XbY_zwokRFJocoRyCKm0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":113,
+            "vicinity":"119 West Kingsbridge Road, The Bronx",
+            "CBG":360050267011,
+            "Radius":98.3779044777
+      }
+]

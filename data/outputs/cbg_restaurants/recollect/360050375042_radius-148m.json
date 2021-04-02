@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8506906,
+                        "lng":-73.8937275
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8519980303,
+                              "lng":-73.8924146697
+                        },
+                        "southwest":{
+                              "lat":40.8493000697,
+                              "lng":-73.8951126303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Johnny's Pizza Diner",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109315395046753191579\">Johnny&#39;s Pizza Diner<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKD1rmE9kznOlGUvevjCO3gCCuE0Amrm2Q5d0nOLHhAf2UHwNenpPHYesvT2oAr3Clg6QYNvb6gDImycwAZc_csbPjXAnHd5F2jsfy-ZSjUjQPvCYz3OwvIzSrdfrH21Q_wumAP1skv7YQ0dOTSo8KVqSQhDoYRsZdATD6QwAfh2h_t",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJ-_rJTmP0wokRdC5hoWe7NyI",
+            "plus_code":{
+                  "compound_code":"V424+7G New York, NY, USA",
+                  "global_code":"87G8V424+7G"
+            },
+            "rating":4.3,
+            "reference":"ChIJ-_rJTmP0wokRdC5hoWe7NyI",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":75,
+            "vicinity":"535 East 180th Street, The Bronx",
+            "CBG":360050375042,
+            "Radius":148.0027470273
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8491409,
+                        "lng":-73.891609
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8504898803,
+                              "lng":-73.8902600197
+                        },
+                        "southwest":{
+                              "lat":40.8477919197,
+                              "lng":-73.8929579803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Paco's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":800,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103335063787853035542\">Paco&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIedm_DiTTIDrcu2QU5_zyLNygqjkFEFt8EVoHrVJXip9Hmetr2-1iOoHCGiiiIVkB_vLYmtSttZakBstOh38VeMwVbv4yXG28o3GgWQBv1X__ohJL98CJePdLy_xOwlw3p2sjJLuxbPpwUHz3IUvAI-X088xclyU0Odm2NcDhlEGSU",
+                        "width":1200
+                  }
+            ],
+            "place_id":"ChIJx-W25mL0wokRNLoRVxbqdZY",
+            "plus_code":{
+                  "compound_code":"R4X5+M9 The Bronx, NY, USA",
+                  "global_code":"87G8R4X5+M9"
+            },
+            "rating":4.0,
+            "reference":"ChIJx-W25mL0wokRNLoRVxbqdZY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":63,
+            "vicinity":"2086 Arthur Avenue, The Bronx",
+            "CBG":360050375042,
+            "Radius":148.0027470273
+      }
+]

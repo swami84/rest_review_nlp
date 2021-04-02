@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":28.5327872,
+                        "lng":-81.3762446
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":28.5341259803,
+                              "lng":-81.3750184197
+                        },
+                        "southwest":{
+                              "lat":28.5314280197,
+                              "lng":-81.3777163803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The spa",
+            "place_id":"ChIJW2Y1iLh754gR8e7A0kOtZ6s",
+            "plus_code":{
+                  "compound_code":"GJMF+4G Orlando, FL, USA",
+                  "global_code":"76WWGJMF+4G"
+            },
+            "reference":"ChIJW2Y1iLh754gR8e7A0kOtZ6s",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"757 South Orange Avenue, Orlando",
+            "CBG":120950103003,
+            "Radius":372.375810397
+      }
+]

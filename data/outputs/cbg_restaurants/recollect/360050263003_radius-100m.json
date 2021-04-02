@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8645787,
+                        "lng":-73.9041539
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8658756803,
+                              "lng":-73.9026612197
+                        },
+                        "southwest":{
+                              "lat":40.8631777197,
+                              "lng":-73.9053591803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lin Home",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105672354268957329340\">Lin Home<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcxBFwZBDgJxPZhOqvxNxx77NQCxAb01TVzclj9_qRUc3L_2T6ejUKA_TgYUkfbtofPkUPeMWFInke7b-g96g1m493a9Ks88dPcSmj6QOy05LEkPUsny3n2DWL1p4FaHe_NlBuH5DrcvK-HRtFXaulix2Ho5bNHhvtCVjgb8KLXNdT",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJ5edNqYnzwokR4cInKwDVH8o",
+            "plus_code":{
+                  "compound_code":"V37W+R8 The Bronx, NY, USA",
+                  "global_code":"87G8V37W+R8"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJ5edNqYnzwokR4cInKwDVH8o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":90,
+            "vicinity":"2461 University Avenue #5602, The Bronx",
+            "CBG":360050263003,
+            "Radius":99.9332495676
+      }
+]

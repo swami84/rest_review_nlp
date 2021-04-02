@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7286702,
+                        "lng":-74.0805201
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7299361303,
+                              "lng":-74.0792346697
+                        },
+                        "southwest":{
+                              "lat":40.7272381697,
+                              "lng":-74.0819326303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Super Hero Sub Shop",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3458,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110267054570248542319\">Shannon Duffy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIxOw7570GWc4Rr3OdywTEur5ywk6vZhHZyFVFSFYOQMoLfIcBiTjj8g3rVljjVf2BJ---LanB1d8tddfSr-ZB6EF1-Hbk4bnq7c54QIWNGGVrvnOzKWS9trw4tp9F3IoGRpILayso7tCRI5anHW1kntVB3JCeFi7PADexsFJowogpu",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJOSycJStRwokRNPzWQ3QF6ig",
+            "plus_code":{
+                  "compound_code":"PWH9+FQ Jersey City, NJ, USA",
+                  "global_code":"87G7PWH9+FQ"
+            },
+            "price_level":1,
+            "rating":4.6,
+            "reference":"ChIJOSycJStRwokRNPzWQ3QF6ig",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":79,
+            "vicinity":"266 Duncan Avenue, Jersey City",
+            "CBG":340170027001,
+            "Radius":205.0175208386
+      }
+]

@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8327976,
+                        "lng":-73.9136149
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8341465803,
+                              "lng":-73.9122659197
+                        },
+                        "southwest":{
+                              "lat":40.8314486197,
+                              "lng":-73.9149638803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Drina's Kitchen and Cafe",
+            "place_id":"ChIJl6EVDIv1wokRiucvurTc9zA",
+            "plus_code":{
+                  "compound_code":"R3MP+4H New York, NY, USA",
+                  "global_code":"87G8R3MP+4H"
+            },
+            "reference":"ChIJl6EVDIv1wokRiucvurTc9zA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1205 College Avenue, The Bronx",
+            "CBG":360050175004,
+            "Radius":113.7202447055
+      }
+]

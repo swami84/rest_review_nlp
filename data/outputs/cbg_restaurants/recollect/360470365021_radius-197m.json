@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6734541,
+                        "lng":-73.9076218
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6748961303,
+                              "lng":-73.9063422197
+                        },
+                        "southwest":{
+                              "lat":40.6721981697,
+                              "lng":-73.9090401803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Eshe Trailer",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107479828403966872510\">Eshe Trailer<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKN0Cm-WKdobMSr3pDHlRy9GxzHhExIgby-_mM3wttMCIQ0pFPHLiYRLRc3b8MVWBZbXdYjShfzuxnOlYa3UomS0wt-tqHxFTs7bgtO7gE_hvSmPIHPIDHVZDfO0SO3lIdMtu9E0jvRlpuJhPz3HDolZzaxspEE5-W_IfTwUs67KQAk",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJT06WNIldwokRC05ebhaIRIk",
+            "plus_code":{
+                  "compound_code":"M3FR+9X Brooklyn, NY, USA",
+                  "global_code":"87G8M3FR+9X"
+            },
+            "rating":5,
+            "reference":"ChIJT06WNIldwokRC05ebhaIRIk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"1634 East New York Avenue, Brooklyn",
+            "CBG":360470365021,
+            "Radius":197.1025197679
+      }
+]

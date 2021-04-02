@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.807323,
+                        "lng":-73.9083365
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8086719803,
+                              "lng":-73.9069875197
+                        },
+                        "southwest":{
+                              "lat":40.8059740197,
+                              "lng":-73.9096854803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Don Pichon",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108984196215773694455\">ARcinder<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJBH9Et9l8MmCyHErfb5f1C3QP3sYecVxiypw2qgbiPOGmFcM3KOD7D6mTrsdwzhZXwQFIMXdPgAfBnPxe8ijpLpAOGd4FCDzjXHaaSqgN_mPuUQ7xTRREvMAuyYbDkobT18kYKSstoe0tgCFr5iK0UGIjifmtp1YIvJV18rBiHilVW",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJ4yKg6r71wokRM8xFl6Fkdmk",
+            "plus_code":{
+                  "compound_code":"R34R+WM The Bronx, NY, USA",
+                  "global_code":"87G8R34R+WM"
+            },
+            "price_level":1,
+            "rating":3.9,
+            "reference":"ChIJ4yKg6r71wokRM8xFl6Fkdmk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":77,
+            "vicinity":"359 Southern Boulevard, The Bronx",
+            "CBG":360050033001,
+            "Radius":157.8894402937
+      }
+]

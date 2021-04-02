@@ -1,0 +1,102 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.760221,
+                        "lng":-74.0278244
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7615699803,
+                              "lng":-74.0264754197
+                        },
+                        "southwest":{
+                              "lat":40.7588720197,
+                              "lng":-74.0291733803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hi-So Thai",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106519222041627636692\">anurag khandelwal<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJc-17sP0SfhlY-A_T3k8FzhA1F7fBFRxiHRFxszsTuphUoD2NzhM6uLsLOpjrszjvFb0jqU9VkAklHiiWTbzZYO0VP3NmzorhMZ8Rw0WBbnoOq5-3wQ8ZcET_7QVgv8FFal-5u2W1fWH8_BVSKZtbUFfmJIdm753y4RCeENwWMOW17",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJxWxjPdVZwokRNbNp5bNVsv8",
+            "plus_code":{
+                  "compound_code":"QX6C+3V Weehawken, NJ, USA",
+                  "global_code":"87G7QX6C+3V"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJxWxjPdVZwokRNbNp5bNVsv8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":237,
+            "vicinity":"1903 Willow Avenue A, Weehawken",
+            "CBG":340170182004,
+            "Radius":208.4816019188
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7595486,
+                        "lng":-74.0281532
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7608726303,
+                              "lng":-74.0266892197
+                        },
+                        "southwest":{
+                              "lat":40.7581746697,
+                              "lng":-74.0293871803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Michael's Pizza & Wings",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":null,
+            "place_id":"ChIJ_8XCDdVZwokR9UzsxGL08e8",
+            "plus_code":{
+                  "compound_code":"QX5C+RP Weehawken, NJ, USA",
+                  "global_code":"87G7QX5C+RP"
+            },
+            "price_level":2,
+            "rating":3.9,
+            "reference":"ChIJ_8XCDdVZwokR9UzsxGL08e8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":39,
+            "vicinity":"1822 Willow Avenue, Weehawken",
+            "CBG":340170182004,
+            "Radius":208.4816019188
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.71268,
+                        "lng":-74.257052
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7139565303,
+                              "lng":-74.2555901197
+                        },
+                        "southwest":{
+                              "lat":40.7112585697,
+                              "lng":-74.2582880803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"NY PIZZERIA & GRILL",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112476516034755381745\">Raj Patel<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLEwI974-0bfesRWZV0mObNP8w-C8IrWkTaHtxOnPxtXDXAsCtnxkf02dgIvfOauhKdMYeuzCeXdo6tbe92oR0UsVTjaAERKiwCpWm5rM0-TwFVZAOg-h-O0zo9VIa07aDG5GmvQWSI10NaRkaxxyfXhtKdECn-aQvUqADfUJtLvjmF",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJyxxjTwKtw4kRV9glwkotGIs",
+            "plus_code":{
+                  "compound_code":"PP7V+35 Union, NJ, USA",
+                  "global_code":"87G7PP7V+35"
+            },
+            "rating":4.1,
+            "reference":"ChIJyxxjTwKtw4kRV9glwkotGIs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":93,
+            "vicinity":"1700 Stuyvesant Avenue, Union",
+            "CBG":340390326002,
+            "Radius":364.9840051121
+      }
+]

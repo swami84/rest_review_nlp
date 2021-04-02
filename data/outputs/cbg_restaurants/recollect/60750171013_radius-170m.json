@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7670627,
+                        "lng":-122.4466616
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7684116803,
+                              "lng":-122.4453126197
+                        },
+                        "southwest":{
+                              "lat":37.7657137197,
+                              "lng":-122.4480105803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fat Buffalo",
+            "place_id":"ChIJcd_Ea4aBhYAREiUwoQq7l70",
+            "plus_code":{
+                  "compound_code":"QH83+R8 Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQH83+R8"
+            },
+            "reference":"ChIJcd_Ea4aBhYAREiUwoQq7l70",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"205a Frederick Street, San Francisco",
+            "CBG":60750171013,
+            "Radius":169.8922763091
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7670798,
+                        "lng":-122.4467777
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7684784803,
+                              "lng":-122.4453887197
+                        },
+                        "southwest":{
+                              "lat":37.7657805197,
+                              "lng":-122.4480866803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ealick Yemenite restaurant",
+            "place_id":"ChIJgYcYvcF5j4ARdFH11VGlHEg",
+            "plus_code":{
+                  "compound_code":"QH83+R7 Ashbury Heights, San Francisco, CA, USA",
+                  "global_code":"849VQH83+R7"
+            },
+            "reference":"ChIJgYcYvcF5j4ARdFH11VGlHEg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"203 Frederick Street, San Francisco",
+            "CBG":60750171013,
+            "Radius":169.8922763091
+      }
+]

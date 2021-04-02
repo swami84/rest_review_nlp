@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7757026,
+                        "lng":-122.4262831
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7770849303,
+                              "lng":-122.4248655197
+                        },
+                        "southwest":{
+                              "lat":37.7743869697,
+                              "lng":-122.4275634803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Il Borgo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102230569240126605311\">David Abramsky<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKaq6WCApQw_4sXwIWqNEphFfWukCHtmacsKUo5SJ3Vy25bmDwvzJpcKnzsoh2Kk3qHKTGUWN77pjXso9oShyKFNgD6KyNotBSoWRqhiUGy_EYc-y0WYME45t5lHH9xWZcyvSx3Gme1xCyENgHnvQnVoSPF2Xj1vJCVz8WhXxXRZio9",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJj61NN6KAhYARMWDXrggZTH8",
+            "plus_code":{
+                  "compound_code":"QHGF+7F Western Addition, San Francisco, CA, USA",
+                  "global_code":"849VQHGF+7F"
+            },
+            "price_level":2.0,
+            "rating":4.2,
+            "reference":"ChIJj61NN6KAhYARMWDXrggZTH8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":225,
+            "vicinity":"500 Fell Street, San Francisco",
+            "CBG":60750163002,
+            "Radius":139.987248823
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7753536,
+                        "lng":-122.4262278
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7766746803,
+                              "lng":-122.4247906197
+                        },
+                        "southwest":{
+                              "lat":37.7739767197,
+                              "lng":-122.4274885803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Falafel Boy",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117708773454184704899\">Falafel Boy<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJKIqL84LVGGVdGUr5U10hsiYIR8KKYz6CB9V-TQKa3BQfC-8lPO404qQqE3RuDXcWXNJCD3UZiBjwxlgG08q4x4uB5RXlrpKL3ObHmdLVdw-fRW9H5hJSiOKQ7BWyQpM9ZOHhQuGOqas_gDgHvARoj7BNcGSm4vz2v7Wc8HW9rZkgn",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJw4mXW0eBhYARcgsW-31FErg",
+            "plus_code":{
+                  "compound_code":"QHGF+4G Hayes Valley, San Francisco, CA, USA",
+                  "global_code":"849VQHGF+4G"
+            },
+            "price_level":null,
+            "rating":4.9,
+            "reference":"ChIJw4mXW0eBhYARcgsW-31FErg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":18,
+            "vicinity":"501 Fell Street, San Francisco",
+            "CBG":60750163002,
+            "Radius":139.987248823
+      }
+]

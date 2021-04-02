@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6748085,
+                        "lng":-73.9140803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6762176803,
+                              "lng":-73.9127253197
+                        },
+                        "southwest":{
+                              "lat":40.6735197197,
+                              "lng":-73.9154232803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"All In The Family C&S",
+            "place_id":"ChIJ337fiIJdwokRopGRVFVUrrU",
+            "plus_code":{
+                  "compound_code":"M3FP+W9 Brooklyn, NY, USA",
+                  "global_code":"87G8M3FP+W9"
+            },
+            "reference":"ChIJ337fiIJdwokRopGRVFVUrrU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2220 Dean Street, Brooklyn",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470365011,
+            "Radius":163.837585407
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.674969,
+                        "lng":-73.910813
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6763249803,
+                              "lng":-73.9095901197
+                        },
+                        "southwest":{
+                              "lat":40.6736270197,
+                              "lng":-73.9122880803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Abuela Antonia Mexican Restaurant",
+            "place_id":"ChIJz646eYNdwokRyytoz6V_Omo",
+            "plus_code":{
+                  "compound_code":"M3FQ+XM Brooklyn, NY, USA",
+                  "global_code":"87G8M3FQ+XM"
+            },
+            "reference":"ChIJz646eYNdwokRyytoz6V_Omo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"225 Rockaway Avenue, Brooklyn",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113317592168338311001\">delight dolcine<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIDqbyFBUBY-76kqfD8EGczYzz-_QeYdoLWaAD8aIyum14j9maJJglfZGpXm4ln0szGcOoOYrrC77Dj-ddsd5dOFOgX3zzmAHoWxHhrZFPbIk-iN6tshnXbQGpctkF6z87HUBWzjqI_wVzNP46V2T9Dg6Vt34kwqy05Znxz-SkYxK5d",
+                        "width":3024
+                  }
+            ],
+            "rating":4.3,
+            "user_ratings_total":69.0,
+            "CBG":360470365011,
+            "Radius":163.837585407
+      }
+]

@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6694631,
+                        "lng":-73.9176635
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6707620803,
+                              "lng":-73.9162768697
+                        },
+                        "southwest":{
+                              "lat":40.6680641197,
+                              "lng":-73.9189748303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"3d's Delight Resturant and Bakery",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJwQcMGJZdwokRcAHJ7YSAC7k",
+            "plus_code":{
+                  "compound_code":"M39J+QW New York, NY, USA",
+                  "global_code":"87G8M39J+QW"
+            },
+            "reference":"ChIJwQcMGJZdwokRcAHJ7YSAC7k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1377 East New York Avenue, Brooklyn",
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":360470361001,
+            "Radius":106.9611795429
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6694577,
+                        "lng":-73.9176345
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6707623803,
+                              "lng":-73.9162526197
+                        },
+                        "southwest":{
+                              "lat":40.6680644197,
+                              "lng":-73.9189505803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Triple D's Place",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJvwRWd2FcwokR3FOmaChSSdA",
+            "plus_code":{
+                  "compound_code":"M39J+QW New York, NY, USA",
+                  "global_code":"87G8M39J+QW"
+            },
+            "reference":"ChIJvwRWd2FcwokR3FOmaChSSdA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1377 East New York Avenue, Brooklyn",
+            "photos":[
+                  {
+                        "height":1960,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118127810776027209366\">OH yeah<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLtiMMzRhRvfANCW8hUn90-sB2pcUYNfOY9oah0pIvnpl8eyCqB-gsywlAYVUNx_wkcSXRqvvHJYozSqVBuNy6qRs1QmUnoCkf3EBPThk1ne0sMXUEM9kCP5yOf5Q5YOQRnyifeyYLyExB7OpT7FluBCxZ7PwYols0ErLf03XF65whJ",
+                        "width":4032
+                  }
+            ],
+            "rating":4.4,
+            "user_ratings_total":70.0,
+            "CBG":360470361001,
+            "Radius":106.9611795429
+      }
+]

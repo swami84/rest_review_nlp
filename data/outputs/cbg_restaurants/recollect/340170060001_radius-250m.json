@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.698923,
+                        "lng":-74.085281
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7003455303,
+                              "lng":-74.0840160697
+                        },
+                        "southwest":{
+                              "lat":40.6976475697,
+                              "lng":-74.0867140303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Gallo De Oro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113522244569310248307\">Jay Strick<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLDBsrst3nAPkbesVpIG9B_0Jwj5MzcSGXJDHTLjUqwxY3XnYwoYpfAS4LK8C4QhGykSOq-O0TiiGmZt71hX6ZdxWvcK35QggY3yBSrwJYgc-bMnuX5aXR3GhlfjElk-M4E0FERpVghYXl5WqQPEktgXDR-klbb_MQyjbrBFRnaBkfb",
+                        "width":5312
+                  }
+            ],
+            "place_id":"ChIJGVX25gRRwokRWcn-ngJ-iF0",
+            "plus_code":{
+                  "compound_code":"MWX7+HV Jersey City, NJ, USA",
+                  "global_code":"87G7MWX7+HV"
+            },
+            "rating":4.5,
+            "reference":"ChIJGVX25gRRwokRWcn-ngJ-iF0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":141,
+            "vicinity":"360 Ocean Avenue, Jersey City",
+            "CBG":340170060001,
+            "Radius":249.918791784
+      }
+]

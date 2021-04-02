@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0656286,
+                        "lng":-117.9424935
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0669775803,
+                              "lng":-117.9411445197
+                        },
+                        "southwest":{
+                              "lat":34.0642796197,
+                              "lng":-117.9438424803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Dulce Temtations",
+            "place_id":"ChIJVVVVVcnXwoARECGFkF3qvKM",
+            "plus_code":{
+                  "compound_code":"3385+72 West Covina, CA, USA",
+                  "global_code":"85643385+72"
+            },
+            "rating":4,
+            "reference":"ChIJVVVVVcnXwoARECGFkF3qvKM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"West Covina",
+            "CBG":60374067021,
+            "Radius":492.4311843241
+      }
+]

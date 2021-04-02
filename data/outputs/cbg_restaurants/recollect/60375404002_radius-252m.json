@@ -1,0 +1,156 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9299351,
+                        "lng":-118.2279257
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9312508303,
+                              "lng":-118.2265714197
+                        },
+                        "southwest":{
+                              "lat":33.9285528697,
+                              "lng":-118.2292693803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos La Potranka",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107652539475116682971\">Jose Gutierrez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ4db1lk2QRkh9kc5FxNy0mTN-sqQq86Bq8jFQlNjF87DTUcRY40ZVFPiTmmPjW_Vlay59MQ_mn1ZmTZKEhB_xGaBVC04Rx80shN9r5dRMz_lGApTmDMQAUitl5Vd2b8sm1j1_pikI8OfMrqrt-6zhsi_rxUe-T8AodqSWnM2kpz9zO",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJic-NlOrLwoARlmq8CUxujJs",
+            "plus_code":{
+                  "compound_code":"WQHC+XR Los Angeles, CA, USA",
+                  "global_code":"8553WQHC+XR"
+            },
+            "rating":4.3,
+            "reference":"ChIJic-NlOrLwoARlmq8CUxujJs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":71,
+            "vicinity":"2500 East 115th Place, Los Angeles",
+            "opening_hours":null,
+            "CBG":60375404002,
+            "Radius":251.9281806511
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9307376,
+                        "lng":-118.2260723
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9321676803,
+                              "lng":-118.2247766197
+                        },
+                        "southwest":{
+                              "lat":33.9294697197,
+                              "lng":-118.2274745803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jala Mariscos El Veneno",
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115788657983573489691\">Francisco Ventura<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKfqpNZp2RQHW2bmhU5qWCP4Nb7dlnM-n54jgKCP2kkYoHuPqjmRLigM18G1hCrje0aSXauF7Zv608yv0T8_FixWopWNQTb_quX9E0V0T4Mh7DgQxxHvUXZjjWO5qA8NJ-C_FYVh4Gy1zPuoTBsD_9PGWAyiF0zhm0VcNXHJKEXAUOf",
+                        "width":3516
+                  }
+            ],
+            "place_id":"ChIJC69BA-vLwoAReoz0rr99OsI",
+            "plus_code":{
+                  "compound_code":"WQJF+7H Los Angeles, CA, USA",
+                  "global_code":"8553WQJF+7H"
+            },
+            "rating":4.6,
+            "reference":"ChIJC69BA-vLwoAReoz0rr99OsI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":284,
+            "vicinity":"11501 Alameda Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60375404002,
+            "Radius":251.9281806511
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9325184,
+                        "lng":-118.226468
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9338790303,
+                              "lng":-118.2249321697
+                        },
+                        "southwest":{
+                              "lat":33.9311810697,
+                              "lng":-118.2276301303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mariscos Tocho",
+            "photos":[
+                  {
+                        "height":486,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108553345403249053270\">Yasser Serrano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgQskn-nnC7-vztouzgS29lIeBECkzwcb0CkzjzJgau-wpsB2LWbt6xzH76BVIt_RnMVWKfxyAtCJzAKxcNiunu0UBsik52pIAHZxRq8AUeIaKaGF2F7UnJGj_jD3QQS4vV_KzWFc1TcxNRvvJPmFgwyyNeHnAis0bPo8YFnJJ-t1Q",
+                        "width":1000
+                  }
+            ],
+            "place_id":"ChIJo2Ntq-vLwoARQFzXiKg7TbY",
+            "plus_code":{
+                  "compound_code":"WQMF+2C Los Angeles, CA, USA",
+                  "global_code":"8553WQMF+2C"
+            },
+            "rating":4.7,
+            "reference":"ChIJo2Ntq-vLwoARQFzXiKg7TbY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":171,
+            "vicinity":"11299 Alameda Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60375404002,
+            "Radius":251.9281806511
+      }
+]

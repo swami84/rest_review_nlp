@@ -1,0 +1,59 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8354835,
+                        "lng":-73.8705729
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8368188803,
+                              "lng":-73.8691465197
+                        },
+                        "southwest":{
+                              "lat":40.8341209197,
+                              "lng":-73.8718444803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Dunkin'",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":709,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117135607010258730096\">Dunkin&#39;<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKXUwtvNoZvOyhD_ctlVcLSpWg3-MpkPtJ4uEdSbIhVJ4wYxr9GnX1LzppdkPKRzGUAt6KXBmAinqtJBJilXfxRoUDlMjuutsC9WLWSHrYKdc8vpC2BA0G7N74rI2CDkQETYaZEScAhOjoKTCy7opKknFvSYWH8kon5onPXTA4Yc_H-",
+                        "width":1261
+                  }
+            ],
+            "place_id":"ChIJWUAGc-v0wokR1KcrM1I63tA",
+            "plus_code":{
+                  "compound_code":"R4PH+5Q New York, NY, USA",
+                  "global_code":"87G8R4PH+5Q"
+            },
+            "price_level":1,
+            "rating":4.1,
+            "reference":"ChIJWUAGc-v0wokR1KcrM1I63tA",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":312,
+            "vicinity":"Bp, 1730 Cross Bronx Expressway, The Bronx",
+            "CBG":360050076001,
+            "Radius":72.7695215496
+      }
+]

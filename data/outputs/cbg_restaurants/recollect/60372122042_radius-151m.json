@@ -1,0 +1,95 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0573834,
+                        "lng":-118.2858704
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0587985303,
+                              "lng":-118.2844004697
+                        },
+                        "southwest":{
+                              "lat":34.0561005697,
+                              "lng":-118.2870984303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Low Key Burrito",
+            "place_id":"ChIJ9zxjIbLHwoARUzODI1oZgPQ",
+            "plus_code":{
+                  "compound_code":"3P47+XM Los Angeles, CA, USA",
+                  "global_code":"85633P47+XM"
+            },
+            "reference":"ChIJ9zxjIbLHwoARUzODI1oZgPQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2748 West 8th Street, Los Angeles",
+            "opening_hours":null,
+            "photos":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":60372122042,
+            "Radius":150.975277214
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.058063,
+                        "lng":-118.2847058
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0593792803,
+                              "lng":-118.2832920697
+                        },
+                        "southwest":{
+                              "lat":34.0566813197,
+                              "lng":-118.2859900303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Alessandro's Place",
+            "place_id":"ChIJpaXI7JTHwoARjxnVh--R92k",
+            "plus_code":{
+                  "compound_code":"3P58+64 Los Angeles, CA, USA",
+                  "global_code":"85633P58+64"
+            },
+            "reference":"ChIJpaXI7JTHwoARjxnVh--R92k",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2705 West 8th Street C, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":750,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107058264529856282515\">Alessandro&#39;s Place<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIyrgTD6VeN43rB01KAOoG4i42ZqvMC9AMFtQLJyaIqo19pvAI9FeZvi2pTayGppcYbDx1Le8IF54FaPjlH0TAILt07OVQc1CAYOvXxmw3FM8tQysTJM2kque7D-UsSF7pgFQLulEy1c_yF2xpZsM2BgihECFndCRq46i_iZZt3d30K",
+                        "width":1000
+                  }
+            ],
+            "rating":3.4,
+            "user_ratings_total":32.0,
+            "CBG":60372122042,
+            "Radius":150.975277214
+      }
+]

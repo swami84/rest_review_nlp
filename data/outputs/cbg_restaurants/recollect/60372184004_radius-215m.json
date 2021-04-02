@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0362606,
+                        "lng":-118.3654604
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0376163803,
+                              "lng":-118.3642176197
+                        },
+                        "southwest":{
+                              "lat":34.0349184197,
+                              "lng":-118.3669155803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos La China",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJGxcS5wu5woARXeeQBDOuWN4",
+            "plus_code":{
+                  "compound_code":"2JPM+GR Los Angeles, CA, USA",
+                  "global_code":"85632JPM+GR"
+            },
+            "reference":"ChIJGxcS5wu5woARXeeQBDOuWN4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Washington Blvd &, Clyde Avenue, Los Angeles",
+            "CBG":60372184004,
+            "Radius":215.2536688713
+      }
+]

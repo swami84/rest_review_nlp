@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7457158,
+                        "lng":-74.0334681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7470395303,
+                              "lng":-74.0319789697
+                        },
+                        "southwest":{
+                              "lat":40.7443415697,
+                              "lng":-74.0346769303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jack & Co.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110399130711772439260\">Ethan Lee<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLWiYJX2ZuYfZcPiE_WXmD3a2hy08h3BLBl7q2tHfCLksX77vVWmUQTXJXy2jD4hHfZLeaB9w1IwRPczRiqXmVbp5vBYO3hMkM2HKnv2b1QIU0dNO37wRp7R7HpXbIzL7US90IJNv4qxNZ5G1GvqDHHEspkzB3c6BnamJov48O3rM5P",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJJcgFD2FXwokRriaXaXv2BcU",
+            "plus_code":{
+                  "compound_code":"PXW8+7J Hoboken, NJ, USA",
+                  "global_code":"87G7PXW8+7J"
+            },
+            "price_level":2.0,
+            "rating":3.9,
+            "reference":"ChIJJcgFD2FXwokRriaXaXv2BcU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":38,
+            "vicinity":"700 Clinton Street, Hoboken",
+            "CBG":340170185003,
+            "Radius":121.9485050442
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7456925,
+                        "lng":-74.0333757
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7470247303,
+                              "lng":-74.0319337697
+                        },
+                        "southwest":{
+                              "lat":40.7443267697,
+                              "lng":-74.0346317303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Il Tavolo di Palmisano",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1536,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115499978317646218035\">Eva Marie Palmisano<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLbh06h02Ti97nedW8ybBX14Ja82RKX9p0Pk7GdAP3FZ7Oe6il60I2euSU4utAgLQdRCTxfdR4H1TBu0-x4NOpAEDlip-XZ6TFSxnP1dDum-OMM0ZTQMYLjhizBnyyH9xGPqg395pYofgudyiX2flCYDSrR085fi9S3BTDJo4k1JCAW",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJD0m_1ZVXwokR_WOra7P97dA",
+            "plus_code":{
+                  "compound_code":"PXW8+7J Hoboken, NJ, USA",
+                  "global_code":"87G7PXW8+7J"
+            },
+            "price_level":null,
+            "rating":4.8,
+            "reference":"ChIJD0m_1ZVXwokR_WOra7P97dA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":80,
+            "vicinity":"700 Clinton Street, Hoboken",
+            "CBG":340170185003,
+            "Radius":121.9485050442
+      }
+]

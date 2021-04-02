@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8765022,
+                        "lng":-74.058171
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8779308303,
+                              "lng":-74.0569417197
+                        },
+                        "southwest":{
+                              "lat":40.8752328697,
+                              "lng":-74.0596396803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Polifly Snack Shop",
+            "place_id":"ChIJAwoMy435wokRHRugLZYew7o",
+            "plus_code":{
+                  "compound_code":"VWGR+JP Hackensack, NJ, USA",
+                  "global_code":"87G7VWGR+JP"
+            },
+            "reference":"ChIJAwoMy435wokRHRugLZYew7o",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"150 Polifly Road, Hackensack",
+            "CBG":340030234024,
+            "Radius":307.4455355377
+      }
+]

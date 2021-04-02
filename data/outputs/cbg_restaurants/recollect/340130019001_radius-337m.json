@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7440664,
+                        "lng":-74.2106801
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7454281303,
+                              "lng":-74.2093662197
+                        },
+                        "southwest":{
+                              "lat":40.7427301697,
+                              "lng":-74.2120641803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Daddee Dogz",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103667882076971616807\">Anthony Corino<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKzB9svX9iciFyW2bBzDBqbu_PI1BK8uxNML-w6NmJ009_bfSAZrQe29_AXZmGrloXPdNJNJmm8GFsdFMkGGb7wMuCGejtq3O6_CPhoX2cYK7viwwq7vsZ1VfRKlpcJZ-TPzn8vPJOSAPBfhFZxc-jASiUJAVrds9dl47mAt3PofN8B",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJt6sjK35TwokRIFTl5iLT70s",
+            "plus_code":{
+                  "compound_code":"PQVQ+JP Newark, NJ, USA",
+                  "global_code":"87G7PQVQ+JP"
+            },
+            "rating":4.8,
+            "reference":"ChIJt6sjK35TwokRIFTl5iLT70s",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"371-381 Grove Street, Newark",
+            "CBG":340130019001,
+            "Radius":337.4339556967
+      }
+]

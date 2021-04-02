@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":44.9669837,
+                        "lng":-93.2623748
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":44.9683331803,
+                              "lng":-93.2611190697
+                        },
+                        "southwest":{
+                              "lat":44.9656352197,
+                              "lng":-93.2638170303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Twin Cities Coffee & Deli",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1940,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107114589192234824913\">Addy Free<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLmiMWKgSHC59VJkq6O1H7KSYIbtuOLkvbQxG__3OCQIoscKOtxpPz-d9QAFIE_s59GfkRqmyLiEm2jLchHPSUtJnby_pi2eUdrb7h3oDl5Sgz9DvbFlb7JBEPDBsLYcXySsO5E0G2ESpA9SGbHLL4scZ-YKrdRaKTcT0XCv3wUKpKb",
+                        "width":2149
+                  }
+            ],
+            "place_id":"ChIJYVvRJ6cys1IRnFyJLl0_9N8",
+            "plus_code":{
+                  "compound_code":"XP8Q+Q3 Minneapolis, MN, USA",
+                  "global_code":"86P8XP8Q+Q3"
+            },
+            "rating":4.5,
+            "reference":"ChIJYVvRJ6cys1IRnFyJLl0_9N8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"1603 Chicago Avenue, Minneapolis",
+            "CBG":270530059011,
+            "Radius":254.6070761998
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8515528,
+                        "lng":-74.1724609
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8529779303,
+                              "lng":-74.1711398197
+                        },
+                        "southwest":{
+                              "lat":40.8502799697,
+                              "lng":-74.1738377803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Allwood Diner",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1365,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107693642254265191871\">The Allwood Diner<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLFeSJrQTl2rAB2hnhcROyCae1aq7PTNRp7BCbcm9ABNRyWhrND5o35X0n03OIPUPg2-T_NNikIhZ2vQj8u2kMIZ1igvcEntDwvGN8EzwP8YCpwFtkVp_MNQ8L4yQZSVcbqdAoFFh5pW4Qlns6eq2PpBXIuhSg7s0gSFAshrni52rFn",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJdX12FKj_wokR-UJBq4guzQs",
+            "plus_code":{
+                  "compound_code":"VR2H+J2 Clifton, NJ, USA",
+                  "global_code":"87G7VR2H+J2"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJdX12FKj_wokR-UJBq4guzQs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1882,
+            "vicinity":"913 Allwood Road, Clifton",
+            "CBG":340311243233,
+            "Radius":253.1904084048
+      }
+]

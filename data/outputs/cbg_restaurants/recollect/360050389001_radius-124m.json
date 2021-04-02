@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8566148,
+                        "lng":-73.8841992
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8579637803,
+                              "lng":-73.8828502197
+                        },
+                        "southwest":{
+                              "lat":40.8552658197,
+                              "lng":-73.8855481803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Zhong Zhong Noodles",
+            "place_id":"ChIJRYg5cen1wokR-UhaNl503Tk",
+            "plus_code":{
+                  "compound_code":"V448+J8 New York, NY, USA",
+                  "global_code":"87G8V448+J8"
+            },
+            "reference":"ChIJRYg5cen1wokR-UhaNl503Tk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"657 East 189th Street, The Bronx",
+            "CBG":360050389001,
+            "Radius":123.9035342944
+      }
+]

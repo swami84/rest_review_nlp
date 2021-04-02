@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8801494,
+                        "lng":-118.1443655
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8815058803,
+                              "lng":-118.1430165697
+                        },
+                        "southwest":{
+                              "lat":33.8788079197,
+                              "lng":-118.1457145303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Wingstreet",
+            "place_id":"ChIJO3ZakeYz3YARTgSa55nKjoo",
+            "plus_code":{
+                  "compound_code":"VVJ4+37 Bellflower, CA, USA",
+                  "global_code":"8553VVJ4+37"
+            },
+            "reference":"ChIJO3ZakeYz3YARTgSa55nKjoo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"8700-8952, Walnut Street, Bellflower",
+            "CBG":60375543012,
+            "Radius":292.6550947031
+      }
+]

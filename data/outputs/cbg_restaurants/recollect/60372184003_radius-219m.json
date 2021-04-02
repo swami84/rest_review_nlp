@@ -1,0 +1,40 @@
+[
+      {
+            "business_status":"CLOSED_TEMPORARILY",
+            "geometry":{
+                  "location":{
+                        "lat":34.0345374,
+                        "lng":-118.3556686
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0358615303,
+                              "lng":-118.3542333197
+                        },
+                        "southwest":{
+                              "lat":34.0331635697,
+                              "lng":-118.3569312803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Washington",
+            "permanently_closed":true,
+            "place_id":"ChIJcYGP8ui5woARJMaBhKMCC_w",
+            "plus_code":{
+                  "compound_code":"2JMV+RP Los Angeles, CA, USA",
+                  "global_code":"85632JMV+RP"
+            },
+            "reference":"ChIJcYGP8ui5woARJMaBhKMCC_w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"2427 South Redondo Boulevard, Los Angeles",
+            "CBG":60372184003,
+            "Radius":219.4291341951
+      }
+]

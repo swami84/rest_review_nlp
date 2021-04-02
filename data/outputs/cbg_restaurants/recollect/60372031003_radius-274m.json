@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0577254,
+                        "lng":-118.1962012
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0590349303,
+                              "lng":-118.1948765197
+                        },
+                        "southwest":{
+                              "lat":34.0563369697,
+                              "lng":-118.1975744803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Guisos",
+            "photos":[
+                  {
+                        "height":4128,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106862479718351936116\">Guisos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKvjOqlfZbpPesOp_JBNBXJiRndsBbUeXathkrYuMd0vTU8rEQa-T7XtiIr_spFbfJLv1E9EVJS0E8dp46rzJpjmNkGevuYxgt1rV6_kjjsaNUJ3lVxjKF7vv-4MD42f9h8WYo3OD477yEcoH6QxZkzaZZKPXRAca21ujDxmgk7ESav",
+                        "width":3096
+                  }
+            ],
+            "place_id":"ChIJb7fbeEDFwoARUbCjT4VPkz4",
+            "plus_code":{
+                  "compound_code":"3R53+3G Los Angeles, CA, USA",
+                  "global_code":"85633R53+3G"
+            },
+            "rating":5.0,
+            "reference":"ChIJb7fbeEDFwoARUbCjT4VPkz4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2723 Lancaster Avenue, Los Angeles",
+            "opening_hours":null,
+            "CBG":60372031003,
+            "Radius":273.9173837705
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0564885,
+                        "lng":-118.1977498
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0578151303,
+                              "lng":-118.1963740697
+                        },
+                        "southwest":{
+                              "lat":34.0551171697,
+                              "lng":-118.1990720303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos Quesadillas Estilo Puebla",
+            "photos":[
+                  {
+                        "height":541,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107403561903199958092\">Pedro Perez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLLVVC1fzgVEk-XcfgZiz5Jn21LCgcvR1PY9dyR_QC__WPinZhpeSSbcpiKJ4PqnKVqdlMGvyMWeWhxViTvENWNuAf5GKCL5dTvFYi5y7UeFOhxdAqgtzr2pBLcEw5FVwoaefxPZL-J1TAjyuzAAmhsHb8PNP3rwKf7XvfSMrsvFLPM",
+                        "width":1204
+                  }
+            ],
+            "place_id":"ChIJqwco0YTFwoARKnNp5TJo-I0",
+            "plus_code":{
+                  "compound_code":"3R42+HW Los Angeles, CA, USA",
+                  "global_code":"85633R42+HW"
+            },
+            "rating":4.3,
+            "reference":"ChIJqwco0YTFwoARKnNp5TJo-I0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"1333 Murchison Street, Los Angeles",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":60372031003,
+            "Radius":273.9173837705
+      }
+]

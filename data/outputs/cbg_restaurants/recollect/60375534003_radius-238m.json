@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9095745,
+                        "lng":-118.1501777
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9108826303,
+                              "lng":-118.1487406697
+                        },
+                        "southwest":{
+                              "lat":33.9081846697,
+                              "lng":-118.1514386303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Claudias Pupusas",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJA4mwqRnNwoARsjZKN-mFG54",
+            "plus_code":{
+                  "compound_code":"WR5X+RW Downey, CA, USA",
+                  "global_code":"8553WR5X+RW"
+            },
+            "rating":4.4,
+            "reference":"ChIJA4mwqRnNwoARsjZKN-mFG54",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"Downey",
+            "CBG":60375534003,
+            "Radius":237.7033226242
+      }
+]

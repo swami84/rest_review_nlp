@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3812542,
+                        "lng":-71.0630123
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3826507303,
+                              "lng":-71.0616275197
+                        },
+                        "southwest":{
+                              "lat":42.3799527697,
+                              "lng":-71.0643254803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Jenny's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103443172964113066701\">Luis Sandoval<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLduQvUgmzUroQLfU8ExUzqtgvrInrUGTo_rL37jFQ9-LArGnEf6Zcvl9YaYhqvOr1JbSd0gxz035rhQDGhjLPZc_E4k2JSj_3MhZxVCDIRaTdOn4nsQlF6fh94N4glCIcjY5Fq_6sR2OzdN1NVVpKicd2E-VgGV-AT7cqkmOJuIRFs",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJmz5y8-9w44kRMjAmiofjIMs",
+            "plus_code":{
+                  "compound_code":"9WJP+GQ Charlestown, Boston, MA, USA",
+                  "global_code":"87JC9WJP+GQ"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJmz5y8-9w44kRMjAmiofjIMs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":145,
+            "vicinity":"320 Medford Street, Charlestown",
+            "CBG":250250403004,
+            "Radius":114.0723811761
+      }
+]

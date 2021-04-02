@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7858541,
+                        "lng":-74.1937577
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7872291303,
+                              "lng":-74.1923126197
+                        },
+                        "southwest":{
+                              "lat":40.7845311697,
+                              "lng":-74.1950105803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tacos la Gringa",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107155878893583318550\">Tacos la Gringa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLq-8MiwHOEkAZPdnQqVRfY1mzq3gnAs5VC9Zu7CwOa5L7LJh_zUtAokS4TXBz__LwhCtpqfkp9k8SZkVdkcMVkT7T1mVeCC-uDaAERtFlm5DNnUVPev0Dtv6oCTkD9SyiRNYEuwSEVG_J9OTpTjhfds1Su3aV4m_YSNK0izUR7asQ",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJB1hw8h9VwokRRhUPsSXXY74",
+            "plus_code":{
+                  "compound_code":"QRP4+8F Bloomfield, NJ, USA",
+                  "global_code":"87G7QRP4+8F"
+            },
+            "price_level":1.0,
+            "rating":4.3,
+            "reference":"ChIJB1hw8h9VwokRRhUPsSXXY74",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":406,
+            "vicinity":"334 Bloomfield Avenue, Bloomfield",
+            "CBG":340130157001,
+            "Radius":304.5030021131
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.787489,
+                        "lng":-74.1946053
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7888693303,
+                              "lng":-74.1931492697
+                        },
+                        "southwest":{
+                              "lat":40.7861713697,
+                              "lng":-74.1958472303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"PUPUSAS TO GO",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2048,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112368303376907470233\">Pupusas to Go<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJpVZGHSZ1DxYhh2YLz3gYx9E5M_4STc18_Ca1oEfewyhUfV4fvdBOAky2cbCWLLU0XsDrnBcWGBLw_H66WyrSNmB7y-2UmgDRpIBIfCQDRNmD8XRqC-9AIXJ6A0oa4t1NvUMouWdINZpjmoQoq-evnWmvW8bQ5sV-P3NYOBznRRd3a",
+                        "width":1536
+                  }
+            ],
+            "place_id":"ChIJ3zuHR2JVwokR0shZoRmg2eg",
+            "plus_code":{
+                  "compound_code":"QRP4+X5 Bloomfield, NJ, USA",
+                  "global_code":"87G7QRP4+X5"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJ3zuHR2JVwokR0shZoRmg2eg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":120,
+            "vicinity":"388 Bloomfield Avenue, Bloomfield",
+            "CBG":340130157001,
+            "Radius":304.5030021131
+      }
+]

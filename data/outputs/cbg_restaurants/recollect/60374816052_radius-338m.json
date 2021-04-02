@@ -1,0 +1,112 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0699619,
+                        "lng":-118.1222943
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0712172303,
+                              "lng":-118.1210393197
+                        },
+                        "southwest":{
+                              "lat":34.0685192697,
+                              "lng":-118.1237372803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Circle K",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":2592,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117221709870341670604\">andrew demetrius<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLbynhtZZcuUzWbueMeO4k3ooiXWqKPlzn_4M_rsI7tv-tcGzVW4TkAWU7yJvLeT3gyu31VejKQCP_nr7-zQsgS5i5aKsooFUlJDyO0M6keYGz-sewRY1hoGNpRcmOGcU_P5OyALsv81Wfu-305elFAxaWDPuhqzLgtpvzVZkJgM_8H",
+                        "width":1944
+                  }
+            ],
+            "place_id":"ChIJwelrCk_FwoARGQa2WzDPw5Y",
+            "plus_code":{
+                  "compound_code":"3V9H+X3 Alhambra, CA, USA",
+                  "global_code":"85633V9H+X3"
+            },
+            "price_level":1,
+            "rating":3.4,
+            "reference":"ChIJwelrCk_FwoARGQa2WzDPw5Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "meal_takeaway",
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":25,
+            "vicinity":"1 East Hellman Avenue, Alhambra",
+            "CBG":60374816052,
+            "Radius":337.8318043066
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0701237,
+                        "lng":-118.1223031
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0712985803,
+                              "lng":-118.1210063697
+                        },
+                        "southwest":{
+                              "lat":34.0686006197,
+                              "lng":-118.1237043303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Hanashima Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3835,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106737791002747281059\">Esther Tam<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLvVhnPHUV0s_cQ5CuQwDNK5ABUc-v_Hf7XJ9BcFIZVM0VQOiige_2IzOlm1OqABPvwsP7C4Vj5BoPP-zihYD_UYB5Hy2kRUliIp-BvZ9E9PloyhSZRCQf69EcOVNbQO3CmWJBQfqlaCNZRYqnjufnSG5RMCbIuDhcPhCrLfX8BTIDT",
+                        "width":2954
+                  }
+            ],
+            "place_id":"ChIJlabrCk_FwoARewuo2gG6AAA",
+            "plus_code":{
+                  "compound_code":"3VCH+23 Alhambra, CA, USA",
+                  "global_code":"85633VCH+23"
+            },
+            "price_level":1,
+            "rating":4.4,
+            "reference":"ChIJlabrCk_FwoARewuo2gG6AAA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":158,
+            "vicinity":"1 East Hellman Avenue, Alhambra",
+            "CBG":60374816052,
+            "Radius":337.8318043066
+      }
+]

@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.075996,
+                        "lng":-118.295231
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0774992803,
+                              "lng":-118.2938347197
+                        },
+                        "southwest":{
+                              "lat":34.0748013197,
+                              "lng":-118.2965326803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Ocha Classic 2",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1908,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100801458895808301972\">Daniel Martinez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLXcSPU6e0OHLWsvVshs9IWTIEkQrnx2_vQPpig4HL3J4PgwqXBT099UBNehRC6Z0s5y4MmuArG66qsSZ1wOF-7K6egELgpj_IZBVxZCE9bYkLfyg0momygKMWF5WBxDFowf2owvWXSZ_3EkGhBCnKuzRrSOEUeYr-qK6f_GPKNvj_X",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ13NGPV7HwoARzgG9L0iBpo0",
+            "plus_code":{
+                  "compound_code":"3PG3+9W Los Angeles, CA, USA",
+                  "global_code":"85633PG3+9W"
+            },
+            "rating":4.4,
+            "reference":"ChIJ13NGPV7HwoARzgG9L0iBpo0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":447,
+            "vicinity":"3960 Beverly Boulevard, Los Angeles",
+            "price_level":null,
+            "CBG":60372112021,
+            "Radius":238.8121939886
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.076185,
+                        "lng":-118.295681
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0775978303,
+                              "lng":-118.2943332697
+                        },
+                        "southwest":{
+                              "lat":34.0748998697,
+                              "lng":-118.2970312303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mariscos Colima",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101988754297927910898\">David Morales<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJElVzWRZRF5BogDDthUHit7kW4dOI3bbCGZTaXb19KYq_Od_bMU-_Vp83gR36mlF4xHzXFN4Hi5NOPIFYluK-sPUvFzDhlefsL5IA5Xzm_nZ16goe6YcTzKXVTfCKuKLRxVF8lnbXMSeqALbQC5mHOZvELyy4rSF6U6lsIl7P4avwE",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJLX9xO17HwoARr22hxKCPZ6o",
+            "plus_code":{
+                  "compound_code":"3PG3+FP Los Angeles, CA, USA",
+                  "global_code":"85633PG3+FP"
+            },
+            "rating":3.9,
+            "reference":"ChIJLX9xO17HwoARr22hxKCPZ6o",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":103,
+            "vicinity":"4002 Beverly Boulevard, Los Angeles",
+            "price_level":2.0,
+            "CBG":60372112021,
+            "Radius":238.8121939886
+      }
+]

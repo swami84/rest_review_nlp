@@ -1,0 +1,104 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9018055,
+                        "lng":-74.1513727
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9032275303,
+                              "lng":-74.1500080197
+                        },
+                        "southwest":{
+                              "lat":40.9005295697,
+                              "lng":-74.1527059803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Casa Del Mofongo - Paterson, NJ",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1512,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100207510542339305945\">La Casa Del Mofongo - Paterson, NJ<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgW2dDjcwD0ZWepqcr0QSbqnbi9ZHMNEAkECiwC5XqWGSDBaegIaROBxokC_AZP1VbK2lvas2Zx018RJuzWZkmIYfQE0ArR-8acXl2RSB5RLMM2eAI9o8qbBXv092CZL_gjST2P4D9n6MbLhc1VkFAckiAvfOy-u3nlXQIU78_hj-v",
+                        "width":1512
+                  }
+            ],
+            "place_id":"ChIJAeJYEub9wokR27cFdXeSx_Q",
+            "plus_code":{
+                  "compound_code":"WR2X+PF Paterson, NJ, USA",
+                  "global_code":"87G7WR2X+PF"
+            },
+            "rating":4.1,
+            "reference":"ChIJAeJYEub9wokR27cFdXeSx_Q",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":102,
+            "vicinity":"152 23rd Avenue, Paterson",
+            "CBG":340311831022,
+            "Radius":268.8610520195
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.9018159,
+                        "lng":-74.1513412
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.9032309803,
+                              "lng":-74.1499780197
+                        },
+                        "southwest":{
+                              "lat":40.9005330197,
+                              "lng":-74.1526759803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Punto Restaurant",
+            "opening_hours":null,
+            "photos":[
+                  {
+                        "height":3096,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100653138475951803912\">Tomas Maloney<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLNcDbRf3mYTqEwxkYfCFXJ3d2TYm7HS6kdJ_e5zYp4i8eqh60mX_Dks3zhl-5wYJ-vwFwk9y720W5I6Prcyt5Khw98SRuGueclIbrXF1Yp--_Kqh2HapVz3u4K-PtXa9XGtjhkyTmruur6SNNUElyqcXWXAXeG4xa2Ch249CQsrssr",
+                        "width":4128
+                  }
+            ],
+            "place_id":"ChIJBRoKZCH8wokR9RTmgX0-uDU",
+            "plus_code":{
+                  "compound_code":"WR2X+PF Paterson, NJ, USA",
+                  "global_code":"87G7WR2X+PF"
+            },
+            "rating":3.7,
+            "reference":"ChIJBRoKZCH8wokR9RTmgX0-uDU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":23,
+            "vicinity":"152 23rd Avenue, Paterson",
+            "CBG":340311831022,
+            "Radius":268.8610520195
+      }
+]

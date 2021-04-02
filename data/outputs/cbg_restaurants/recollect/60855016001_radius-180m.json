@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.3282632,
+                        "lng":-121.8836666
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.3296828803,
+                              "lng":-121.8821680697
+                        },
+                        "southwest":{
+                              "lat":37.3269849197,
+                              "lng":-121.8848660303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Emile's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1944,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100190519854750487303\">Conrad Paz<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLHNHZ_G_FjZ49J0EGI-v0R5Un2Go6CFOPocE63FAnkRNXaG8m58NF36lSGmDuGm9kurGkLa8ynhpDTPV_2or9UC8dHyUUmg6lMJtUwCHr-NjzHIDxiMLQpYNuBMh-zNWPIjKKQ5t4YO0igLP9XETha_Ph8B_3peMZj3d4GmirlBC6q",
+                        "width":2592
+                  }
+            ],
+            "place_id":"ChIJ36MNxLbMj4ARzzIEBvd6RGs",
+            "plus_code":{
+                  "compound_code":"84H8+8G San Jose, CA, USA",
+                  "global_code":"849W84H8+8G"
+            },
+            "price_level":3,
+            "rating":3.9,
+            "reference":"ChIJ36MNxLbMj4ARzzIEBvd6RGs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"545 South 2nd Street, San Jose",
+            "CBG":60855016001,
+            "Radius":179.889793927
+      }
+]

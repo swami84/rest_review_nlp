@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9385057,
+                        "lng":-118.3655297
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9398544803,
+                              "lng":-118.3642617197
+                        },
+                        "southwest":{
+                              "lat":33.9371565197,
+                              "lng":-118.3669596803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chavez Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2670,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100830340922843643553\">Chavez Catering<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJ2R8fADGr3-s2rxyABbReaTQiZCLPJg6QSHiINjwbAZ-TU5505BpL5yGcSjjQU1a6-E7WrSGZAvHGP5MlPzHMX84RqKe-xkEcs5A3J0SPaIuk8Fm4JzNaV8W3peJB8BRjoXUMkBPNsz1IFf6YI5_4RdEVlWeeizjao2qMHEf8CqBM4",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJ4TkVcXe3woAR3Eb3hEbzE2I",
+            "plus_code":{
+                  "compound_code":"WJQM+CQ Lennox, CA, USA",
+                  "global_code":"8553WJQM+CQ"
+            },
+            "rating":4.7,
+            "reference":"ChIJ4TkVcXe3woAR3Eb3hEbzE2I",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"10720 Felton Avenue, Lennox",
+            "CBG":60376015022,
+            "Radius":281.1991294018
+      }
+]

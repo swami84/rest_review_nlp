@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8871948,
+                        "lng":-118.3577913
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8886052303,
+                              "lng":-118.3564427697
+                        },
+                        "southwest":{
+                              "lat":33.8859072697,
+                              "lng":-118.3591407303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Amigo",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2268,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111731966132270014682\">Tony Garcia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIdFZMI-duOgtKMtMQiLxjSOrdxgm3Kc318Zam4UO6qDR_uQJ7lz1P-gAgg5Y0rBqnPDdXSNr5K90koko38DDu4bCEDrFlPet6T4bKb1IMvrm8d87YclnFMthhbUWLHSfwUEsAtfe-_GFNGmlcHXOTTO-fsNY68bxiyiD07dW2UQP3l",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJzSgvik-0woARZB1k18PUXkY",
+            "plus_code":{
+                  "compound_code":"VJPR+VV Lawndale, CA, USA",
+                  "global_code":"8553VJPR+VV"
+            },
+            "price_level":1,
+            "rating":4.8,
+            "reference":"ChIJzSgvik-0woARZB1k18PUXkY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":728,
+            "vicinity":"4600 Manhattan Beach Boulevard, Lawndale",
+            "CBG":60376040011,
+            "Radius":320.679125747
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.845,
+                        "lng":-73.8897222
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8463489803,
+                              "lng":-73.8883732197
+                        },
+                        "southwest":{
+                              "lat":40.8436510197,
+                              "lng":-73.8910711803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El valle",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104239639220408935498\">Will Vazquez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJTYK-Oeh2zoVyh7dd560couWwXiAHmTxzWKbAG9aq5L2aGbBZZ_qPBLjXEdmAfPtWs3rUcN23GrF-5bSfF7_EWXEyqyZjbrcaus_3Yuu4b04QgHfIn1LBUjbHMqFvGp-XDjr2WjrG3KP00EINNKkFrx_GQf5BJ0Pw_c06ExoWRtQyb",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJX8Eg8GH0wokRFOfd5whJMY4",
+            "plus_code":{
+                  "compound_code":"R4V6+X4 The Bronx, NY, USA",
+                  "global_code":"87G8R4V6+X4"
+            },
+            "price_level":2,
+            "rating":3.6,
+            "reference":"ChIJX8Eg8GH0wokRFOfd5whJMY4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":404,
+            "vicinity":"733 East Tremont Avenue, The Bronx",
+            "CBG":360050371002,
+            "Radius":145.9856219279
+      }
+]

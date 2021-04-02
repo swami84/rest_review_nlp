@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.9253628,
+                        "lng":-118.235736
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.9266816803,
+                              "lng":-118.2344698697
+                        },
+                        "southwest":{
+                              "lat":33.9239837197,
+                              "lng":-118.2371678303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Cosina de Yesi",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100012518672899962211\">La Cosina de Yesi<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJu7S0rSCw9WRCvIWNpxHeBpuUCCNYCll8QUUOfU2GlagArA8zS1WMY5gmgtsFVgoOe8Y5yJUMzEwbJoiE_loExsiA6iQlmOsMt2kheDN9xw5KNa2Hazxu0xdBFNL9RMI7-b9ydZc7YVo92VM3WBsDxn1Pt6sGCzrEvwNQ56EsQJwka",
+                        "width":3000
+                  }
+            ],
+            "place_id":"ChIJd1MkOCPLwoAR-oxZSluX0G4",
+            "plus_code":{
+                  "compound_code":"WQG7+4P Los Angeles, CA, USA",
+                  "global_code":"8553WQG7+4P"
+            },
+            "rating":5,
+            "reference":"ChIJd1MkOCPLwoAR-oxZSluX0G4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":5,
+            "vicinity":"11820 Willowbrook Avenue, Los Angeles",
+            "CBG":60375406002,
+            "Radius":371.6973294084
+      }
+]

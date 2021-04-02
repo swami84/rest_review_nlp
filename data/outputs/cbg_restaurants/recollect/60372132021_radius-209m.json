@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0473433,
+                        "lng":-118.3008803
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0486342803,
+                              "lng":-118.2995316697
+                        },
+                        "southwest":{
+                              "lat":34.0459363197,
+                              "lng":-118.3022296303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Texis",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":482,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100801085608788657022\">Texis Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIZgigzUQNBfGBGuG0uA_5XM9BDLDHVB0TjpCpnkhUrKo8Hi1_DKmN371LVgvoaULAZKcFzRAUWVyyCju2GrU2Q0bO551HxPpTXhIUgh7n9RmaGY10czflXYNdhXI_P13Dut8lkV889mURDuGvOD_eHWda8mvmusJuAaUWgoGQD9gC2",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJbfzpv3i4woARBlVR2iKHIFs",
+            "plus_code":{
+                  "compound_code":"2MWX+WJ Los Angeles, CA, USA",
+                  "global_code":"85632MWX+WJ"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJbfzpv3i4woARBlVR2iKHIFs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":191,
+            "vicinity":"2813 West Pico Boulevard, Los Angeles",
+            "CBG":60372132021,
+            "Radius":208.5197684464
+      }
+]

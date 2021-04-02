@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.6307447,
+                        "lng":-122.4065298
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.6321188303,
+                              "lng":-122.4052558697
+                        },
+                        "southwest":{
+                              "lat":37.6294208697,
+                              "lng":-122.4079538303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New York Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3036,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114801170749519908100\">Milo Conway<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKLrGVzQkMQ02CwqYiJOn3LnojZ2J0nQxL3oob6rL1qkPEpEkqIWwHPFIQa7xXQypEiM4AMAUEW9JHKfPPbJ2ftwJ6bFSjLEgt56594z5SJAKrMdbcoOZcxfJilRl-_0v1udELOLp8EixM0lII39umD0lPRn3798DFMxUzEsXtz7Hoq",
+                        "width":4048
+                  }
+            ],
+            "place_id":"ChIJVZkPLdJ5j4ARdhLT1ZfiEsY",
+            "plus_code":{
+                  "compound_code":"JHJV+79 San Bruno, CA, USA",
+                  "global_code":"849VJHJV+79"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJVZkPLdJ5j4ARdhLT1ZfiEsY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":191,
+            "vicinity":"700 San Bruno Avenue East, San Bruno",
+            "CBG":60816042001,
+            "Radius":317.5029201986
+      }
+]

@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":33.8834666,
+                        "lng":-118.3519015
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":33.8847944303,
+                              "lng":-118.3505205697
+                        },
+                        "southwest":{
+                              "lat":33.8820964697,
+                              "lng":-118.3532185303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"OrVeganic.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101775329536949543261\">Hi Focus<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLUH0I-3djlPgn4b6lAFAlCVECzbJsYP-jafQivhEDgldV2KvfedVUoPTh63dSV0LM5eaAfDC95VmC0nuErSgnfAlZ6B-PZrroaJLbnJu1DKoLIgevGNgrffjYj5fjynPt1720yLkq6sJ91LhZ8mPw7AHoQ6TVC6OvWwfm45E9GfPtL",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkVtCYFG0woARHbymXgtopvo",
+            "plus_code":{
+                  "compound_code":"VJMX+96 Lawndale, CA, USA",
+                  "global_code":"8553VJMX+96"
+            },
+            "rating":4.8,
+            "reference":"ChIJkVtCYFG0woARHbymXgtopvo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":130,
+            "vicinity":"16200 Hawthorne Boulevard #E, Lawndale",
+            "CBG":60376041003,
+            "Radius":270.4210759579
+      }
+]

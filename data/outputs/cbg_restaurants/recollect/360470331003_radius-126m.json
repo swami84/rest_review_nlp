@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6643913,
+                        "lng":-73.944469
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6656498303,
+                              "lng":-73.9431866697
+                        },
+                        "southwest":{
+                              "lat":40.6629518697,
+                              "lng":-73.9458846303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Sushi Bleu @ Empire Kosher",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":700,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100674722374170678338\">Sushi Bleu @ Empire Kosher<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIgK-Viy85YS8a7cWZDzAn3sQDOxiFTRxejtWsJNwduq4BUTLA4M_o7BRTUupFf1xIFNE5UFEy3Sr-AuLbaCdZ0UTlvnh7n96isnL9UCkZONbdsBOD9Zh0v_cEMAdTDJNvRpwajGX8dKYvWCXmtHxGbSGU4d5v7k7w2HBgDxUhvACE",
+                        "width":1242
+                  }
+            ],
+            "place_id":"ChIJG8TDroxbwokRCJEf0E_gEwY",
+            "plus_code":{
+                  "compound_code":"M374+Q6 Brooklyn, NY, USA",
+                  "global_code":"87G8M374+Q6"
+            },
+            "rating":5,
+            "reference":"ChIJG8TDroxbwokRCJEf0E_gEwY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"529 Empire Boulevard, Brooklyn",
+            "CBG":360470331003,
+            "Radius":125.9242839572
+      }
+]

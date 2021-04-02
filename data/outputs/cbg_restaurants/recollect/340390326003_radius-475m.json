@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7064024,
+                        "lng":-74.2486629
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7077864803,
+                              "lng":-74.2473670697
+                        },
+                        "southwest":{
+                              "lat":40.7050885197,
+                              "lng":-74.2500650303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"78 Lounge \/ Kr\u0101v Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":473,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103749767447703090313\">78 Lounge \/ Kr\u0101v Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLalLCqS0aW_Wim_i_FFPMo99z_nG9BrzNa1iGRHWE40ezrxZ5BqTcW0Y6H7iL955ajfawAPsJWfUsL0kL0fBc2SpLevtkUisMLmWNVkQ9I8GED2UQmVqjd5MnyvKDpcuxEDcqT2k5oIP292kiEhU4iaif30JI5Vd8zUttDwa58k8W7",
+                        "width":720
+                  }
+            ],
+            "place_id":"ChIJh5yxyRutw4kRyyuuf1tvAFU",
+            "plus_code":{
+                  "compound_code":"PQ42+HG Union, NJ, USA",
+                  "global_code":"87G7PQ42+HG"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJh5yxyRutw4kRyyuuf1tvAFU",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "bar",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":360,
+            "vicinity":"1564 Union Avenue, Union",
+            "CBG":340390326003,
+            "Radius":474.5096024119
+      }
+]

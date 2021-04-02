@@ -1,0 +1,41 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5780122,
+                        "lng":-73.9761283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5792999303,
+                              "lng":-73.9748717697
+                        },
+                        "southwest":{
+                              "lat":40.5766019697,
+                              "lng":-73.9775697303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Happy Wok",
+            "place_id":"ChIJY31eS35FwokRs24Id8P8_vo",
+            "plus_code":{
+                  "compound_code":"H2HF+6G New York, NY, USA",
+                  "global_code":"87G8H2HF+6G"
+            },
+            "rating":5,
+            "reference":"ChIJY31eS35FwokRs24Id8P8_vo",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"2875 West 8th Street, Brooklyn",
+            "CBG":360470350001,
+            "Radius":138.1101068701
+      }
+]

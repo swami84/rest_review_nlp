@@ -1,0 +1,84 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8736269,
+                        "lng":-73.8668806
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8749703303,
+                              "lng":-73.8656407197
+                        },
+                        "southwest":{
+                              "lat":40.8722723697,
+                              "lng":-73.8683386803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lammy\u2019s #2",
+            "place_id":"ChIJDxFxaGrzwokRcJhTAvoHpnM",
+            "plus_code":{
+                  "compound_code":"V4FM+F6 The Bronx, NY, USA",
+                  "global_code":"87G8V4FM+F6"
+            },
+            "rating":5.0,
+            "reference":"ChIJDxFxaGrzwokRcJhTAvoHpnM",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"3310 White Plains Road, The Bronx",
+            "opening_hours":null,
+            "CBG":360050374002,
+            "Radius":178.7332654472
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8729806,
+                        "lng":-73.8673453
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8744522803,
+                              "lng":-73.8660822697
+                        },
+                        "southwest":{
+                              "lat":40.8717543197,
+                              "lng":-73.8687802303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Up Top Grill",
+            "place_id":"ChIJ07QMbbDzwokRWkX3nuALKOg",
+            "plus_code":{
+                  "compound_code":"V4FM+53 New York, NY, USA",
+                  "global_code":"87G8V4FM+53"
+            },
+            "rating":4.4,
+            "reference":"ChIJ07QMbbDzwokRWkX3nuALKOg",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"3257 White Plains Road, The Bronx",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "CBG":360050374002,
+            "Radius":178.7332654472
+      }
+]

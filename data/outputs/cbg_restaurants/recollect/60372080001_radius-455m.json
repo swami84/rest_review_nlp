@@ -1,0 +1,131 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0626268,
+                        "lng":-118.2551972
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0639757803,
+                              "lng":-118.2538482197
+                        },
+                        "southwest":{
+                              "lat":34.0612778197,
+                              "lng":-118.2565461803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Las Brisas",
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109399647874166405276\">Nicholas Gomez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLHr4mHzC_j5FsKbuE7gexGl_6p9z516_jWjeWHAAy8FTITxdkUDpmm5-ouwyIbecH6svqVySAhyOlk1a8g5mORxh06msLmX2f6rHAzFImOkozG8afqdELljFbJSSgiGKntCsAgGUiQZOBcGZZoGGbUJshbxUfFSRz12Wl1dde6W9HS",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJ103t_qrHwoARx07YG-Sp_Z0",
+            "plus_code":{
+                  "compound_code":"3P7V+3W Los Angeles, CA, USA",
+                  "global_code":"85633P7V+3W"
+            },
+            "rating":3.8,
+            "reference":"ChIJ103t_qrHwoARx07YG-Sp_Z0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":11,
+            "vicinity":"200 North Bixel Street, Los Angeles",
+            "CBG":60372080001,
+            "Radius":454.8361916433
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.064104,
+                        "lng":-118.254663
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0655229303,
+                              "lng":-118.2534709697
+                        },
+                        "southwest":{
+                              "lat":34.0628249697,
+                              "lng":-118.2561689303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"JMR Concessions",
+            "photos":null,
+            "place_id":"ChIJTQyrk6rHwoARFSIa5HXVSR8",
+            "plus_code":{
+                  "compound_code":"3P7W+J4 Los Angeles, CA, USA",
+                  "global_code":"85633P7W+J4"
+            },
+            "rating":4.0,
+            "reference":"ChIJTQyrk6rHwoARFSIa5HXVSR8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":4,
+            "vicinity":"330 North Bixel Street # 20, Los Angeles",
+            "CBG":60372080001,
+            "Radius":454.8361916433
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.063132,
+                        "lng":-118.2516009
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0644438303,
+                              "lng":-118.2502002697
+                        },
+                        "southwest":{
+                              "lat":34.0617458697,
+                              "lng":-118.2528982303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"BAHAY NI EDU SA CALIFORNIA",
+            "photos":null,
+            "place_id":"ChIJZ0ys85DHwoARmq5QMg9OCKc",
+            "plus_code":{
+                  "compound_code":"3P7X+79 Los Angeles, CA, USA",
+                  "global_code":"85633P7X+79"
+            },
+            "rating":4.3,
+            "reference":"ChIJZ0ys85DHwoARmq5QMg9OCKc",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":6,
+            "vicinity":"333 North Beaudry Avenue, Los Angeles",
+            "CBG":60372080001,
+            "Radius":454.8361916433
+      }
+]

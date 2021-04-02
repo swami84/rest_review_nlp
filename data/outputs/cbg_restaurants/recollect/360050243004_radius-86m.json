@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8520671,
+                        "lng":-73.9111742
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8533347303,
+                              "lng":-73.9097733697
+                        },
+                        "southwest":{
+                              "lat":40.8506367697,
+                              "lng":-73.9124713303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Shopland Deli & Grill",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":422,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114211023902877466195\">Shopland Deli &amp; Grill<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKPJ13D-CLZwCrEkwUKiJS_H_Wjg-oo5i18otGVx45B3mFD_yQIDtTJGCQaUJgBljYiJXRuv9zea29msnx30FsPsk8aNS6uh9Dp1I9WasXhcmeB3_gaNXXVs-Dec6uedhKLek37h5HvOP8CwDax5BP_r_IOLNSrR9gmMpO6lZjdbP1u",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJiemqP230wokRHLWMIv8kEWE",
+            "plus_code":{
+                  "compound_code":"V32Q+RG The Bronx, NY, USA",
+                  "global_code":"87G8V32Q+RG"
+            },
+            "rating":4.5,
+            "reference":"ChIJiemqP230wokRHLWMIv8kEWE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":20,
+            "vicinity":"25 West Tremont Avenue, The Bronx",
+            "CBG":360050243004,
+            "Radius":86.2693656454
+      }
+]

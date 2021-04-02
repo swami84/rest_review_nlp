@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.589683,
+                        "lng":-73.9737283
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5910195303,
+                              "lng":-73.9725619197
+                        },
+                        "southwest":{
+                              "lat":40.5883215697,
+                              "lng":-73.9752598803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Metropolitan",
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112046528732542764044\">Sher Newyork<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJPSIg9pDSUR1Z30cg2tXFm0GN43w7F1Rn2DdeVYdhANurtrBvmleSujqSgVnYVORs15ymHu4U0ZToirCBjflJBLTHqajtfV0x4cHG_8W0wr7olvAlaViStuKHJBb7A2VPbfDUCFut-tsHManYiA-CaDAX-UvBrYTMk8DpmnCFKwL1T",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJIeLgOk1FwokR7AtrWGkV-W4",
+            "plus_code":{
+                  "compound_code":"H2QG+VG Brooklyn, NY, USA",
+                  "global_code":"87G8H2QG+VG"
+            },
+            "rating":4.6,
+            "reference":"ChIJIeLgOk1FwokR7AtrWGkV-W4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"2555 McDonald Avenue, Brooklyn",
+            "CBG":360470374021,
+            "Radius":199.534163125
+      }
+]

@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0653671,
+                        "lng":-118.2689187
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0667756303,
+                              "lng":-118.2677069197
+                        },
+                        "southwest":{
+                              "lat":34.0640776697,
+                              "lng":-118.2704048803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Riot Grill",
+            "place_id":"ChIJmRhjZ7THwoARPk5QgWpWEK4",
+            "plus_code":{
+                  "compound_code":"3P8J+4C Los Angeles, CA, USA",
+                  "global_code":"85633P8J+4C"
+            },
+            "reference":"ChIJmRhjZ7THwoARPk5QgWpWEK4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"116 South Westlake Avenue, Los Angeles",
+            "CBG":60372084012,
+            "Radius":196.6870407967
+      }
+]

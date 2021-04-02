@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6734124,
+                        "lng":-73.9207348
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6748631803,
+                              "lng":-73.9193760197
+                        },
+                        "southwest":{
+                              "lat":40.6721652197,
+                              "lng":-73.9220739803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Everythig Food, Inc.",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2269,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107162867610707052403\">Everythig Food, Inc.<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJjjEWdd_jMNshinjEr3Zs0aghD8s3kvvFm_rgUWM4M3TK8hysfIvSfelytUMZtPnkTZNRiahMyNKoL-ODhs5vd3urW2s2JI3r70tVZ-elc4HpQtR_ZqVWWqAvuRpG6Kg9AFeUottdeWODDebk7XdlIHxkVF5S48Vs1_98yJ2Xd_A1V",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJy68L_zhdwokRwiU7-5zDRsY",
+            "plus_code":{
+                  "compound_code":"M3FH+9P New York, NY, USA",
+                  "global_code":"87G8M3FH+9P"
+            },
+            "rating":5,
+            "reference":"ChIJy68L_zhdwokRwiU7-5zDRsY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"1426 Saint Marks Avenue, Brooklyn",
+            "CBG":360470363002,
+            "Radius":167.9637020682
+      }
+]

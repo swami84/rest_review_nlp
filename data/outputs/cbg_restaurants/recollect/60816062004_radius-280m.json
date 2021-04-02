@@ -1,0 +1,44 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.568655,
+                        "lng":-122.3189913
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.5700684303,
+                              "lng":-122.3175449197
+                        },
+                        "southwest":{
+                              "lat":37.5673704697,
+                              "lng":-122.3202428803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"La Casita Chilanga Truck",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ5weq0Xuej4ARb66J-7eM-as",
+            "plus_code":{
+                  "compound_code":"HM9J+FC San Mateo, CA, USA",
+                  "global_code":"849VHM9J+FC"
+            },
+            "rating":4.5,
+            "reference":"ChIJ5weq0Xuej4ARb66J-7eM-as",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":8,
+            "vicinity":"210 South Fremont Street, San Mateo",
+            "CBG":60816062004,
+            "Radius":279.8403083884
+      }
+]

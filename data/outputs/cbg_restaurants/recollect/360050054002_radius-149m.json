@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.828662,
+                        "lng":-73.8799894
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8300109803,
+                              "lng":-73.8786404197
+                        },
+                        "southwest":{
+                              "lat":40.8273130197,
+                              "lng":-73.8813383803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Pabellon De Oro",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2448,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102157018861643006014\">Isa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKQVgxK4RUqakkDycfnLLu6yZqwYSJMOoIDCydx15KJ7HzpjICSHxMyHguw3LqtY7fIEr-2y96IDZF5CTatwyFDMsf3i4K2TdEaLqDM42K0OQlMKgcYHOxOozLPYUFDAsUWFrjCq79O92UUBh6FavHzZ3QcWBc4_zYojth2h8DNTOkN",
+                        "width":3264
+                  }
+            ],
+            "place_id":"ChIJp6HMifr0wokRB-50X94O4lI",
+            "plus_code":{
+                  "compound_code":"R4HC+F2 New York, NY, USA",
+                  "global_code":"87G8R4HC+F2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJp6HMifr0wokRB-50X94O4lI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":682,
+            "vicinity":"1501 Westchester Avenue, The Bronx",
+            "CBG":360050054002,
+            "Radius":149.3408868507
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8287667,
+                        "lng":-73.8790503
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8300970303,
+                              "lng":-73.8777773197
+                        },
+                        "southwest":{
+                              "lat":40.8273990697,
+                              "lng":-73.8804752803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burger Hut",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "photos":[
+                  {
+                        "height":5312,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110772680866145009043\">Matilde Tovar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJidUVgF8kVrnD25CDaob5-LhuDCWYXq5SFcBVEcd1CuZqp5gIGAWLNuH-mHfUPpRhYJBRwpuOwtGzfEEC7PNANxW4x4dRpTVFivCeUJlaqpygQbj1gsjNcydjjvFA91nM5M1n0_1XN33VV4eqrVhl-fCPNRB6odEkGJSGWUfMGYlxc",
+                        "width":2988
+                  }
+            ],
+            "place_id":"ChIJP7Qimvr0wokR-x4mlNhHSbY",
+            "plus_code":{
+                  "compound_code":"R4HC+G9 New York, NY, USA",
+                  "global_code":"87G8R4HC+G9"
+            },
+            "price_level":1,
+            "rating":4.2,
+            "reference":"ChIJP7Qimvr0wokR-x4mlNhHSbY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":143,
+            "vicinity":"1521 1\/2 Westchester Avenue # 21, The Bronx",
+            "CBG":360050054002,
+            "Radius":149.3408868507
+      }
+]

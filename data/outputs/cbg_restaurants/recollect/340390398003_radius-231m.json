@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6550887,
+                        "lng":-74.1849441
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6564197303,
+                              "lng":-74.1836292197
+                        },
+                        "southwest":{
+                              "lat":40.6537217697,
+                              "lng":-74.1863271803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Maurice River Diner",
+            "place_id":"ChIJR4xEmR9NwokRN7p03iWBqt0",
+            "plus_code":{
+                  "compound_code":"MR48+22 Elizabeth, NJ, USA",
+                  "global_code":"87G7MR48+22"
+            },
+            "reference":"ChIJR4xEmR9NwokRN7p03iWBqt0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Port Avenue, Elizabeth",
+            "opening_hours":null,
+            "photos":null,
+            "price_level":null,
+            "rating":null,
+            "user_ratings_total":null,
+            "CBG":340390398003,
+            "Radius":230.8507694695
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6546885,
+                        "lng":-74.1861549
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6560707803,
+                              "lng":-74.1848402697
+                        },
+                        "southwest":{
+                              "lat":40.6533728197,
+                              "lng":-74.1875382303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"El Tipico Dominicano",
+            "place_id":"ChIJo08aem9NwokR4hRo879FGf0",
+            "plus_code":{
+                  "compound_code":"MR37+VG Elizabeth, NJ, USA",
+                  "global_code":"87G7MR37+VG"
+            },
+            "reference":"ChIJo08aem9NwokR4hRo879FGf0",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"227 3rd Street, Elizabeth",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108425274393204071104\">Christian Valdez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwI3pjrwX9Y-MczdWfr3aIpNGs7E86tojiLDbHyhE0-pFcVupZaWWd3_HABiUiUAjF_QGod_k8rYwjZQ-cEbh5jE39PCwdx5Edqa7O5XQuKIE21SHc2Xb_og-zQLEq99mkXpLtVOOEM99NXnuSk-lzOhgXi3iPfuBftfZQsonC_YV8sM",
+                        "width":3024
+                  }
+            ],
+            "price_level":1.0,
+            "rating":4.2,
+            "user_ratings_total":257.0,
+            "CBG":340390398003,
+            "Radius":230.8507694695
+      }
+]

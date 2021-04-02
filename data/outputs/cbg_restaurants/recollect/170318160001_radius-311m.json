@@ -1,0 +1,52 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.8757,
+                        "lng":-87.80507
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.8770471803,
+                              "lng":-87.8036682197
+                        },
+                        "southwest":{
+                              "lat":41.8743492197,
+                              "lng":-87.8063661803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/shopping-71.png",
+            "name":"Thorntons",
+            "opening_hours":{
+                  "open_now":true
+            },
+            "place_id":"ChIJUS2SNe80DogR8DzKQLVHG-M",
+            "plus_code":{
+                  "compound_code":"V5GV+7X Forest Park, IL, USA",
+                  "global_code":"86HJV5GV+7X"
+            },
+            "rating":2.8,
+            "reference":"ChIJUS2SNe80DogR8DzKQLVHG-M",
+            "scope":"GOOGLE",
+            "types":[
+                  "convenience_store",
+                  "atm",
+                  "gas_station",
+                  "bakery",
+                  "finance",
+                  "cafe",
+                  "liquor_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":34,
+            "vicinity":"601 South Harlem Avenue, Forest Park",
+            "CBG":170318160001,
+            "Radius":311.2808338519
+      }
+]

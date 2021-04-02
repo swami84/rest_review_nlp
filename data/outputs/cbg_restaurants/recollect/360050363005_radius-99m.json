@@ -1,0 +1,97 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8455878,
+                        "lng":-73.8840311
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8469826803,
+                              "lng":-73.8826420697
+                        },
+                        "southwest":{
+                              "lat":40.8442847197,
+                              "lng":-73.8853400303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Pizza Italia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3456,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109124286183290306306\">Doug Powell<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJcrs9Djp2fPg5NXBLrPi3Em1_IkzcBs7QPjjBumtQwEUUUcj9Xdbc7EpyUZ1582ZdpQ4KWfrCr4sGwN_Jgs-7mDnhzFvgWDWOc5qVRJYS_Obn9BKZbw_A2NrkRgGJoFX72iWTafSMZCi97C8buI50OaB4MP69vCk2OSvgYktPTljqF",
+                        "width":4608
+                  }
+            ],
+            "place_id":"ChIJy-r0Ron0wokRbby6WX1CbcE",
+            "plus_code":{
+                  "compound_code":"R4W8+69 New York, NY, USA",
+                  "global_code":"87G8R4W8+69"
+            },
+            "price_level":1.0,
+            "rating":4.5,
+            "reference":"ChIJy-r0Ron0wokRbby6WX1CbcE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":247,
+            "vicinity":"842 East 180th Street, The Bronx",
+            "CBG":360050363005,
+            "Radius":98.6654511425
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8457259,
+                        "lng":-73.883635
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8470322303,
+                              "lng":-73.8822977197
+                        },
+                        "southwest":{
+                              "lat":40.8443342697,
+                              "lng":-73.8849956803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/school-71.png",
+            "name":"Balle 2",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJKRkiSYn0wokRFNY8QAfsmE4",
+            "plus_code":{
+                  "compound_code":"R4W8+7G The Bronx, NY, USA",
+                  "global_code":"87G8R4W8+7G"
+            },
+            "price_level":null,
+            "rating":3.6,
+            "reference":"ChIJKRkiSYn0wokRFNY8QAfsmE4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"855 East 180th Street, The Bronx",
+            "CBG":360050363005,
+            "Radius":98.6654511425
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":25.7436727,
+                        "lng":-80.2266961
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":25.7451870303,
+                              "lng":-80.2252244697
+                        },
+                        "southwest":{
+                              "lat":25.7424890697,
+                              "lng":-80.2279224303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tropical Perk Cafeteria",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":768,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109737272202350158068\">Tropical Perk Cafeteria<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK9xW02b7ROcp1CiBRgjuia53C_fGQL8UGhVQyhaAtDAZKuqSTBYML2SWDTmjlSiyAoi7-9gvOqPcIqq8QF2d4i7kgQX43EmczPFV8gRi3Cg-MxK8j_QmKpwoe7L44SaXr24w_RyoOEaidvDqF0Qj37klbSb7-BGeNrJGBg-hXLYZbY",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJN8m6JEy22YgR2D4FUcpI7ww",
+            "plus_code":{
+                  "compound_code":"PQVF+F8 Miami, FL, USA",
+                  "global_code":"76QXPQVF+F8"
+            },
+            "rating":4.2,
+            "reference":"ChIJN8m6JEy22YgR2D4FUcpI7ww",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":16,
+            "vicinity":"2000 South Dixie Highway, Miami",
+            "CBG":120860069005,
+            "Radius":303.5465798421
+      }
+]

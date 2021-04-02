@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0826738,
+                        "lng":-118.2985969
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0840227803,
+                              "lng":-118.2972479197
+                        },
+                        "southwest":{
+                              "lat":34.0813248197,
+                              "lng":-118.2999458803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Taylor Made Cuisine",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJ62tpY1jHwoAR73MzoD__Jl0",
+            "plus_code":{
+                  "compound_code":"3PM2+3H Los Angeles, CA, USA",
+                  "global_code":"85633PM2+3H"
+            },
+            "reference":"ChIJ62tpY1jHwoAR73MzoD__Jl0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Los Angeles",
+            "CBG":60371926102,
+            "Radius":205.334781745
+      }
+]

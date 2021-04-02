@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":34.0595168,
+                        "lng":-118.268903
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":34.0608204303,
+                              "lng":-118.2675849697
+                        },
+                        "southwest":{
+                              "lat":34.0581224697,
+                              "lng":-118.2702829303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Caravan Operations",
+            "place_id":"ChIJKf9LIqfHwoARUPtSPWtzCcY",
+            "plus_code":{
+                  "compound_code":"3P5J+RC Los Angeles, CA, USA",
+                  "global_code":"85633P5J+RC"
+            },
+            "reference":"ChIJKf9LIqfHwoARUPtSPWtzCcY",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"415 South Union Avenue, Los Angeles",
+            "CBG":60372089041,
+            "Radius":131.0013709994
+      }
+]

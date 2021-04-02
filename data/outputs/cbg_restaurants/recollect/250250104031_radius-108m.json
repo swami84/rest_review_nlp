@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.3448109,
+                        "lng":-71.089458
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3461959803,
+                              "lng":-71.0882177697
+                        },
+                        "southwest":{
+                              "lat":42.3434980197,
+                              "lng":-71.0909157303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Woody's Grill & Tap",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106656757212598532235\">Andie Smidler<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLu6Tf1bsq5jlw14psZJFg6e6WnpYwJDp0EgadUI3w8vPY3pN4cPoD1PjU_xOD-qJWDFuxfHDljjZ5N8_Y16sLjeDZ25QVJlmuX1Tym9ReI7cXLTij_6jxKgs8YeyYiLNsWEvfHyJykb2Qf6d_doRZhyZ_cCV-4IRBtNYwZEKqYqbId",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJaa-5vht644kRzT6aPy9UYOs",
+            "plus_code":{
+                  "compound_code":"8WV6+W6 Boston, MA, USA",
+                  "global_code":"87JC8WV6+W6"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJaa-5vht644kRzT6aPy9UYOs",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":364,
+            "vicinity":"58 Hemenway Street, Boston",
+            "CBG":250250104031,
+            "Radius":108.425730463
+      }
+]

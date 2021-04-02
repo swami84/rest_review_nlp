@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8428718,
+                        "lng":-73.8932272
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8442207803,
+                              "lng":-73.8918782197
+                        },
+                        "southwest":{
+                              "lat":40.8415228197,
+                              "lng":-73.8945761803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Home Garden",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107838836972924494798\">Fel Fer<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLkUTRcvplm3bsAhsIKEfC-oCbTPRdUwdJPAzMHEIrU8zY1dKrf4BvhfPAnCObi90Opdxi0sMablCQQPPoT9rP8I93xP1aSuVsZ3xdxiaGx3aTpboOcOm_i9Dh-5gdPX9IkjMCXl_Xu6xh061jWofwHva-DPymS_9qGd_5WBxN8AvPa",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJZxK5w2D0wokRuiRHN8oedSk",
+            "plus_code":{
+                  "compound_code":"R4V4+4P The Bronx, NY, USA",
+                  "global_code":"87G8R4V4+4P"
+            },
+            "rating":3.8,
+            "reference":"ChIJZxK5w2D0wokRuiRHN8oedSk",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"1806 Crotona Avenue, The Bronx",
+            "CBG":360050369022,
+            "Radius":117.7400265551
+      }
+]

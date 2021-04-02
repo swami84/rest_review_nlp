@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":39.9512059,
+                        "lng":-75.1154964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":39.9525721303,
+                              "lng":-75.1142411697
+                        },
+                        "southwest":{
+                              "lat":39.9498741697,
+                              "lng":-75.1169391303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Golden Dragon Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113965281908731303550\">My Queen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJME7rTuTd_S-qQqz1b25r06nIqG80GLnSUhZR9j-OcNozxSlWMKWxNgi3klLXNY2UGrVHV8GZz8Eo6cUVSxPLiZhDUSjVr_bGmgvrYFZcCRWc_NJh6ZbIGxmtAYTOf9XdCnE8caa-MgJfuKEJkEkL4q-5oP6nWOUkhSkDXiE3YJdVg",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJRXwf7_jIxokRF7_3dI9P8ms",
+            "plus_code":{
+                  "compound_code":"XV2M+FR Camden, NJ, USA",
+                  "global_code":"87F6XV2M+FR"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJRXwf7_jIxokRF7_3dI9P8ms",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":90,
+            "vicinity":"638 North 7th Street, Camden",
+            "CBG":340076008003,
+            "Radius":240.993499712
+      }
+]

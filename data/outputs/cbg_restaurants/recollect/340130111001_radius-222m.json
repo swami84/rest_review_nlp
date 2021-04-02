@@ -1,0 +1,39 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7560427,
+                        "lng":-74.2112597
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7573429803,
+                              "lng":-74.2099342197
+                        },
+                        "southwest":{
+                              "lat":40.7546450197,
+                              "lng":-74.2126321803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Las Palmas at Elizabeth NJ",
+            "place_id":"ChIJz-ZireVVwokRQGtocQk37-E",
+            "plus_code":{
+                  "compound_code":"QQ4Q+CF East Orange, NJ, USA",
+                  "global_code":"87G7QQ4Q+CF"
+            },
+            "reference":"ChIJz-ZireVVwokRQGtocQk37-E",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"50 South Munn Avenue, East Orange",
+            "CBG":340130111001,
+            "Radius":222.3093105308
+      }
+]

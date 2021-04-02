@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.0027568,
+                        "lng":-73.6535449
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.0041958303,
+                              "lng":-73.6522158197
+                        },
+                        "southwest":{
+                              "lat":41.0014978697,
+                              "lng":-73.6549137803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Burgers, Shakes & Fries",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117850011573360743310\">David Rev Ciancio<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKEuIx_BdqJYGAFr1qqadezLJiMq37J71MaVUXocLL6AO_8eSUj-CZ3nHE7xArSGPomX4VP__dcVHRCAJgptP9gGj0gNq_4Qp3ECGrTdJEgiUFv1idcMYNRcRFDKBoJjACEW56grQUWo2De8ZyThq3_so3b84DdRB-NXxVIJSTfETQW",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJe1uVAuCZwokRA_t43RGivTQ",
+            "plus_code":{
+                  "compound_code":"283W+4H Greenwich, CT, USA",
+                  "global_code":"87H8283W+4H"
+            },
+            "price_level":1,
+            "rating":4.7,
+            "reference":"ChIJe1uVAuCZwokRA_t43RGivTQ",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":389,
+            "vicinity":"302 Delavan Avenue, Greenwich",
+            "CBG":90010113002,
+            "Radius":298.2711909137
+      }
+]

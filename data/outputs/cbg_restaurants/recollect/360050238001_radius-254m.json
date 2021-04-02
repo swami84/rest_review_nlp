@@ -1,0 +1,54 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8443451,
+                        "lng":-73.8575964
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8456905803,
+                              "lng":-73.8562444697
+                        },
+                        "southwest":{
+                              "lat":40.8429926197,
+                              "lng":-73.8589424303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"HealthyHolic Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1702,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102145218750673196274\">HealthyHolic Kitchen<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLZus8LOWi4xmcCFjwcKWieyeC9oiQ9GDJRvdHyCg_B5-64Hg6rs5ZfAamq8aUv0ueqgcWuUtmHuzEqDct4Qo8JjgoZIoo98CEKcA2cAHjqcD8pSnkMenvW9OY0cXGKjMlynzK_4LQyPCtzjXFCtoU9V-ywLEJfy39NgIqZemQWXzKh",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJCVaGFLv0wokRk-_18m0Pse0",
+            "plus_code":{
+                  "compound_code":"R4VR+PX The Bronx, NY, USA",
+                  "global_code":"87G8R4VR+PX"
+            },
+            "rating":4.5,
+            "reference":"ChIJCVaGFLv0wokRk-_18m0Pse0",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":40,
+            "vicinity":"1622 Bronxdale Avenue, The Bronx",
+            "CBG":360050238001,
+            "Radius":254.1785218679
+      }
+]

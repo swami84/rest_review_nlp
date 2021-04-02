@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8183842,
+                        "lng":-73.9184121
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8197694303,
+                              "lng":-73.9172023697
+                        },
+                        "southwest":{
+                              "lat":40.8170714697,
+                              "lng":-73.9199003303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"New Kin Wah",
+            "place_id":"ChIJ-UeIy871wokRq5BumkniKkA",
+            "plus_code":{
+                  "compound_code":"R39J+9J The Bronx, NY, USA",
+                  "global_code":"87G8R39J+9J"
+            },
+            "rating":4,
+            "reference":"ChIJ-UeIy871wokRq5BumkniKkA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":79,
+            "vicinity":"628 Courtlandt Avenue, The Bronx",
+            "CBG":360050067005,
+            "Radius":65.377864386
+      }
+]

@@ -1,0 +1,58 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.351894,
+                        "lng":-71.074962
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3531142303,
+                              "lng":-71.0735566697
+                        },
+                        "southwest":{
+                              "lat":42.3504162697,
+                              "lng":-71.0762546303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/cafe-71.png",
+            "name":"Thinking Cup",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1118,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115028564443588403586\">Thinking Cup<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKxSn7uC7AQGBcUYGZGpWHWOYUZpVaFnbgWm23YHGtzVNl4-A6-RfpTe2UfgY1qYsoySfl4CY7WjlC1-5diERDJHvvfTJEOddUd_GAw3z-bUP_SkOxjCZWld7zwn2PZEa_3gByraqEjeML0jcvDTt3wKq9gLhiwwb2xpy1-tVyaHltv",
+                        "width":1117
+                  }
+            ],
+            "place_id":"ChIJ_fsLPgt644kRWSHKDOHiDtg",
+            "plus_code":{
+                  "compound_code":"9W2G+Q2 Boston, MA, USA",
+                  "global_code":"87JC9W2G+Q2"
+            },
+            "price_level":2,
+            "rating":4.5,
+            "reference":"ChIJ_fsLPgt644kRWSHKDOHiDtg",
+            "scope":"GOOGLE",
+            "types":[
+                  "cafe",
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":1288,
+            "vicinity":"85 Newbury Street, Boston",
+            "CBG":250250107023,
+            "Radius":171.5117775017
+      }
+]

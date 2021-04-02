@@ -1,0 +1,42 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8574634,
+                        "lng":-73.9161303
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8588064303,
+                              "lng":-73.9147387197
+                        },
+                        "southwest":{
+                              "lat":40.8561084697,
+                              "lng":-73.9174366803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cocina Catracha Catering",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJxXKRsIj1wokRD7Gpn0J_Elk",
+            "plus_code":{
+                  "compound_code":"V34M+XG The Bronx, NY, USA",
+                  "global_code":"87G8V34M+XG"
+            },
+            "reference":"ChIJxXKRsIj1wokRD7Gpn0J_Elk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"1995 Sedgwick Avenue, The Bronx",
+            "CBG":360050247001,
+            "Radius":91.518785149
+      }
+]

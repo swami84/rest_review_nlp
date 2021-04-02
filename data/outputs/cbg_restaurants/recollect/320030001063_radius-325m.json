@@ -1,0 +1,57 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":36.1716648,
+                        "lng":-115.2090346
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":36.1729359803,
+                              "lng":-115.2076828697
+                        },
+                        "southwest":{
+                              "lat":36.1702380197,
+                              "lng":-115.2103808303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Pizza Hut",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":2160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112462917604537307730\">Jonathan Gonzalez<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJg1F0uOuum0PMzxQnhFQPulsgp1bGcXl5OtBRYDpdgjDi1s_rY3LasS379Sm_YZrzYFrUfK8HQb_iBW3UeSHtMX4fslgmKVeortQqO0MgyGXIQD037fR3wz1V_XbXB0Q4nr5SGKw6Iuc0F2Eoadib5cFP57MtyVpDTh5cRu-_iQswd",
+                        "width":3840
+                  }
+            ],
+            "place_id":"ChIJOTwEUHHByIARV_lqrF5ThX8",
+            "plus_code":{
+                  "compound_code":"5QCR+M9 Las Vegas, NV, USA",
+                  "global_code":"85865QCR+M9"
+            },
+            "price_level":1,
+            "rating":3.5,
+            "reference":"ChIJOTwEUHHByIARV_lqrF5ThX8",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":215,
+            "vicinity":"274 South Decatur Boulevard, Las Vegas",
+            "CBG":320030001063,
+            "Radius":325.0216815495
+      }
+]

@@ -1,0 +1,109 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.662743,
+                        "lng":-73.951092
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6640919803,
+                              "lng":-73.9497430197
+                        },
+                        "southwest":{
+                              "lat":40.6613940197,
+                              "lng":-73.9524409803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Lenny's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3000,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103843449593255093593\">Fabian Gonzalez Checa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKDII335LiERAxLZFseDx35Mo5yE33u8mD6aUHmkR-KS3oG8cHH37nX3Oi5ojopCkg7MGTta2VBBRBWJjmSXC5e3jLnXWhIKrHi4oUivJlczPzQwnozjHHUfWJQYCaii0RafmmX8fkPENlDmMDx0SohoZCQk_tY1MYT6NDqQxw_kDnA",
+                        "width":4000
+                  }
+            ],
+            "place_id":"ChIJU2HtyXFbwokRXNY9wJo224k",
+            "plus_code":{
+                  "compound_code":"M27X+3H Brooklyn, NY, USA",
+                  "global_code":"87G8M27X+3H"
+            },
+            "price_level":1.0,
+            "rating":4.2,
+            "reference":"ChIJU2HtyXFbwokRXNY9wJo224k",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":142,
+            "vicinity":"1046 Nostrand Avenue #4119, Brooklyn",
+            "CBG":360470329004,
+            "Radius":116.1216749729
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6633634,
+                        "lng":-73.9511132
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6646821803,
+                              "lng":-73.9496648697
+                        },
+                        "southwest":{
+                              "lat":40.6619842197,
+                              "lng":-73.9523628303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kansas Chicken and Burger",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4032,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103501739072602641656\">Rafiullah Nazar<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIDJY90m6SKOR-HVj770lq1UxBdxBvi3yeGJH1RgVAbA_nwTA41ZK2OFwpGP12zLtmYdnA10-yj0XAuutIfT7V2r2ik1mg3HHq44zHNdGPdQ2xP-F2BGhDltesIrvA96QqnmJudxYMGHKxP9lJ8TsHTCD5AUe7TdN_6F1UkmdOYJHCx",
+                        "width":3024
+                  }
+            ],
+            "place_id":"ChIJkVweNr1bwokR_AdNCJKCQO8",
+            "plus_code":{
+                  "compound_code":"M27X+8H Brooklyn, NY, USA",
+                  "global_code":"87G8M27X+8H"
+            },
+            "price_level":null,
+            "rating":4.1,
+            "reference":"ChIJkVweNr1bwokR_AdNCJKCQO8",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":10,
+            "vicinity":"1032 Nostrand Avenue, Brooklyn",
+            "CBG":360470329004,
+            "Radius":116.1216749729
+      }
+]

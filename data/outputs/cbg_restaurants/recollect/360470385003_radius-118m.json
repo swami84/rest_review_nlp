@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.688032,
+                        "lng":-73.927219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6893809803,
+                              "lng":-73.9258700197
+                        },
+                        "southwest":{
+                              "lat":40.6866830197,
+                              "lng":-73.9285679803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/bar-71.png",
+            "name":"The Wilky",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111638149000460078228\">Joel Aponte<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJv_FWsrExmQN_f3dBT-mmU2WHe0cWXBF8iG6-EV92woWvwPm-a1esB68kj0Xp8yuZVt3eqfQNJsk6QbLibuuiFguSMZEzbntK7-7MXzxujOckGk2rLbF1ZBDxubQgwhkh8Wnmaz00oH26yqxnr7dgAQlLbyDKtzyaJ-N7ooSlcd0GM",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJVQ791AxcwokRHo6fuywJdyE",
+            "plus_code":{
+                  "compound_code":"M3QF+64 Brooklyn, NY, USA",
+                  "global_code":"87G8M3QF+64"
+            },
+            "price_level":2,
+            "rating":4.6,
+            "reference":"ChIJVQ791AxcwokRHo6fuywJdyE",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":372,
+            "vicinity":"108 Patchen Avenue, Brooklyn",
+            "CBG":360470385003,
+            "Radius":118.0572601598
+      }
+]

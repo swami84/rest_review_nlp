@@ -1,0 +1,98 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.7518285,
+                        "lng":-122.4225774
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7532246303,
+                              "lng":-122.4213624697
+                        },
+                        "southwest":{
+                              "lat":37.7505266697,
+                              "lng":-122.4240604303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Fiore Caffe",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1152,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100534726511458237475\">Fiore Caffe<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLm98H4k5WKMKHQgPDQ3RH4lCSn3uvqStETTdHmAr9Ochu92Mli45B4FXBL9q48WNK1CMLlft-BlcRUmt8jVZ0S7lxg1TSETfUor6ZQmtwPSK6Go1y2XfBGNUTSFBqrMYmIK39zuVM2H1JQSwg23wnXNgOPGSDlIafFQXV3gPk8hteV",
+                        "width":2048
+                  }
+            ],
+            "place_id":"ChIJgZruCkB-j4ARBTl8cpeOCLI",
+            "plus_code":{
+                  "compound_code":"QH2G+PX Mission District, San Francisco, CA, USA",
+                  "global_code":"849VQH2G+PX"
+            },
+            "price_level":2.0,
+            "rating":4.3,
+            "reference":"ChIJgZruCkB-j4ARBTl8cpeOCLI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bar",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":251.0,
+            "vicinity":"3599 24th Street, San Francisco",
+            "CBG":60750210002,
+            "Radius":148.7696363384
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":37.752197,
+                        "lng":-122.4226887
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":37.7535403303,
+                              "lng":-122.4214325197
+                        },
+                        "southwest":{
+                              "lat":37.7508423697,
+                              "lng":-122.4241304803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Cousins Deli",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJd49mxOx_j4ARWKhhh0heJ98",
+            "plus_code":{
+                  "compound_code":"QH2G+VW Mission District, San Francisco, CA, USA",
+                  "global_code":"849VQH2G+VW"
+            },
+            "price_level":null,
+            "rating":null,
+            "reference":"ChIJd49mxOx_j4ARWKhhh0heJ98",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"1193 Guerrero Street, San Francisco",
+            "CBG":60750210002,
+            "Radius":148.7696363384
+      }
+]

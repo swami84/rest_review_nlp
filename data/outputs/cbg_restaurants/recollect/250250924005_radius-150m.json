@@ -1,0 +1,108 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.296031,
+                        "lng":-71.087197
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2973711303,
+                              "lng":-71.0859903197
+                        },
+                        "southwest":{
+                              "lat":42.2946731697,
+                              "lng":-71.0886882803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Country Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111555170240291436349\">Anthony Craig Evans<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJaw7OpzW8_BL7nkM0hm6Qf1seS2hwkB3OAk-KNXHQzbhqap3MBMfnq9gxe228AXjP_ULn2U0UWt_qBQ-Gn0zFa7ACgr7EKn2ePIfxcVNPGwXcr9pzMJHOK_2-a10zMV_l6mR4XsSbR8R6IOIH7S5H8Z8TZbq5RWWUrWjxmhllFCVIL",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJYcsMcuZ744kRH23lVwSWFcE",
+            "plus_code":{
+                  "compound_code":"7WW7+C4 Boston, MA, USA",
+                  "global_code":"87JC7WW7+C4"
+            },
+            "price_level":1,
+            "rating":4.0,
+            "reference":"ChIJYcsMcuZ744kRH23lVwSWFcE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":165,
+            "vicinity":"838 Blue Hill Avenue, Boston",
+            "CBG":250250924005,
+            "Radius":150.1677248173
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.296222,
+                        "lng":-71.087196
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.2976007303,
+                              "lng":-71.0859517697
+                        },
+                        "southwest":{
+                              "lat":42.2949027697,
+                              "lng":-71.0886497303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Natifnatal Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3024,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108885671211235057766\">nahom assefa<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLHlNFgvgy20zdWDWdPiNBYg3Tl-q9YUKtww3Dl7kV5MsWI-zhNobK4Rs8xaQyV_WayKLib3BLEikdFVL-cde94EzarvDut8uB1EousGuvzWjO4rIg1v7NPy5Bt1e6v0b0_mMWLA5pYhdd03uwASoVLbJLwNBLUOtE9SzfCOOn6PgjA",
+                        "width":4032
+                  }
+            ],
+            "place_id":"ChIJUwBKbOZ744kRYgpW3q_ym_4",
+            "plus_code":{
+                  "compound_code":"7WW7+F4 Dorchester, Boston, MA, USA",
+                  "global_code":"87JC7WW7+F4"
+            },
+            "price_level":2,
+            "rating":4.1,
+            "reference":"ChIJUwBKbOZ744kRYgpW3q_ym_4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":195,
+            "vicinity":"830 Blue Hill Avenue, Dorchester",
+            "CBG":250250924005,
+            "Radius":150.1677248173
+      }
+]

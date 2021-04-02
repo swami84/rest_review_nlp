@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8128181,
+                        "lng":-73.9233873
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8142566303,
+                              "lng":-73.9221050197
+                        },
+                        "southwest":{
+                              "lat":40.8115586697,
+                              "lng":-73.9248029803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Texas Chicken & Burgers",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":426,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118139413808496264179\">Texas Chicken &amp; Burgers<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwIUnknAaRgG4_oePpRCSbujpmxTXBBCX7ugDcLbsdgvE6K6L8zs4cxos8grqBioFYoCYlbIp8vcS8hXhixK5PuP1aY5PNLmmtkIafurc4ufouTv03SXacfgziYgNiLC1fkQ03AKDZaEAjRrehS-XOWV-s2-rKH3b6sYeBaBhmry9Rxv",
+                        "width":640
+                  }
+            ],
+            "place_id":"ChIJw19e2sT1wokRkOyTScLZuFA",
+            "plus_code":{
+                  "compound_code":"R37G+4J New York, NY, USA",
+                  "global_code":"87G8R37G+4J"
+            },
+            "price_level":1,
+            "rating":3.7,
+            "reference":"ChIJw19e2sT1wokRkOyTScLZuFA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":290,
+            "vicinity":"2660 3rd Avenue, The Bronx",
+            "CBG":360050041003,
+            "Radius":51.4217874498
+      }
+]

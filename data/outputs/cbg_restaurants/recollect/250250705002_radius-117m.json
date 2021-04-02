@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":42.342191,
+                        "lng":-71.072912
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":42.3434802303,
+                              "lng":-71.0715918197
+                        },
+                        "southwest":{
+                              "lat":42.3407822697,
+                              "lng":-71.0742897803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Vejigantes Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1340,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116267452373623918882\">Vejigantes Restaurant<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwK_BvRX3ieFPvwJEJ5MeGtCNsrWUQh6cZWm5U_23MlXXokaHB4MJDG-mCajbE7dkYc71bGWaSZJ99JvEUDrNLyQI0NixaiUV3Jg8aNam2V0o1AQM6APS5WT0POSE0_VKARAc4qJO5ZGlQrxxYOPjLz2f9f7_EdvZoXO29i0kqwNqaV3",
+                        "width":2492
+                  }
+            ],
+            "place_id":"ChIJayHyyGx644kRA1vLAU-Bmtk",
+            "plus_code":{
+                  "compound_code":"8WRG+VR Boston, MA, USA",
+                  "global_code":"87JC8WRG+VR"
+            },
+            "price_level":2,
+            "rating":4.2,
+            "reference":"ChIJayHyyGx644kRA1vLAU-Bmtk",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1327,
+            "vicinity":"57 West Dedham Street, Boston",
+            "CBG":250250705002,
+            "Radius":117.0254867248
+      }
+]

@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8587146,
+                        "lng":-73.9052334
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8600635803,
+                              "lng":-73.9038844197
+                        },
+                        "southwest":{
+                              "lat":40.8573656197,
+                              "lng":-73.9065823803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tuti's",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3968,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114705134485416180059\">Wilfredo Mercado<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKVXjB68wv5MwvS-5uH3-0BK2heeTX52yfPMpQaxX4WefJ5N-wjdgcM2OSNpdHpytuH40jk5-Ugd4oPOSak1jrlN-BR0-ve4vJkLgNrAz2PBlP6ehZv-hLq6KH-5WhkK_jB-iqe4Kn3is4lMveRaMFjVBWWXxT11fUAlRDsxLkDyzx2",
+                        "width":2976
+                  }
+            ],
+            "place_id":"ChIJf3_Ev3b0wokRWmelK5koGio",
+            "plus_code":{
+                  "compound_code":"V35V+FW New York, NY, USA",
+                  "global_code":"87G8V35V+FW"
+            },
+            "rating":4.3,
+            "reference":"ChIJf3_Ev3b0wokRWmelK5koGio",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":26,
+            "vicinity":"34 West 183rd Street, The Bronx",
+            "CBG":360050251001,
+            "Radius":81.893046054
+      }
+]

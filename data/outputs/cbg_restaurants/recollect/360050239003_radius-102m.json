@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8556462,
+                        "lng":-73.9050319
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8569951803,
+                              "lng":-73.9036829197
+                        },
+                        "southwest":{
+                              "lat":40.8542972197,
+                              "lng":-73.9063808803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Chimichurri Frituras",
+            "photos":[
+                  {
+                        "height":2988,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105123153766062428893\">Jose Miranda<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKyNBME0b7EOhTs6_e9XDrKrrY7q1MT6JSUubd_lvGrnnzQny3fGGtUQ1OdweI-YqpkocvPiglRt2vcSZZxFJGf4StWjoS8AIy55ljO-EiF2MfRP7SEQ_K1-amX4CifceHhBw4rIY5c5DgCE08Qss8V6N4U9byUjuyK7_t2VNHDzlW7",
+                        "width":3984
+                  }
+            ],
+            "place_id":"ChIJaxuZbXH0wokRvd46bPepKHA",
+            "plus_code":{
+                  "compound_code":"V34V+7X New York, NY, USA",
+                  "global_code":"87G8V34V+7X"
+            },
+            "rating":4.5,
+            "reference":"ChIJaxuZbXH0wokRvd46bPepKHA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":43,
+            "vicinity":"1-7 East 181st Street, The Bronx",
+            "CBG":360050239003,
+            "Radius":102.2289107014
+      }
+]

@@ -1,0 +1,80 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7547409,
+                        "lng":-74.1873213
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7560898803,
+                              "lng":-74.1859723197
+                        },
+                        "southwest":{
+                              "lat":40.7533919197,
+                              "lng":-74.1886702803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"esther indira santana payano",
+            "place_id":"ChIJP50Fo5BUwokRQ-jmAF6TF7w",
+            "plus_code":{
+                  "compound_code":"QR37+V3 Newark, NJ, USA",
+                  "global_code":"87G7QR37+V3"
+            },
+            "rating":4.7,
+            "reference":"ChIJP50Fo5BUwokRQ-jmAF6TF7w",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":3,
+            "vicinity":"214 4th Street, Newark",
+            "CBG":340130009002,
+            "Radius":194.927296995
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.753992,
+                        "lng":-74.1886419
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7553170803,
+                              "lng":-74.1872123197
+                        },
+                        "southwest":{
+                              "lat":40.7526191197,
+                              "lng":-74.1899102803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Erica",
+            "place_id":"ChIJB5WJtrxVwokRJJd8xB8V4_M",
+            "plus_code":{
+                  "compound_code":"QR36+HG Newark, NJ, USA",
+                  "global_code":"87G7QR36+HG"
+            },
+            "rating":5.0,
+            "reference":"ChIJB5WJtrxVwokRJJd8xB8V4_M",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"176 North 5th Street, Newark",
+            "CBG":340130009002,
+            "Radius":194.927296995
+      }
+]

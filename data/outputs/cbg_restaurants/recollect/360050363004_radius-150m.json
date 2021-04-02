@@ -1,0 +1,99 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8419492,
+                        "lng":-73.8836145
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8432126803,
+                              "lng":-73.8823392197
+                        },
+                        "southwest":{
+                              "lat":40.8405147197,
+                              "lng":-73.8850371803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Domino's Pizza",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":674,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111404386579613708981\">Domino&#39;s Pizza<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKPPX21_6OSqPRUhaAO3Tp55ukZFj9zNuiOUtr6wWbDJcrmfFWH5ymCT80m0RvQx4IXbYO_b1C-hpArqkKUFpiSycymy6b8MqzPZJRLmCpvHTC6OzhDCU7r73fGYewmDyXnhiBjt4lfvVy-Iu1FtofdDN19AmIsftBsuwgVRVzRn0Xk",
+                        "width":1024
+                  }
+            ],
+            "place_id":"ChIJy7OCeYv0wokRzRvj0SDsMDE",
+            "plus_code":{
+                  "compound_code":"R4R8+QH New York, NY, USA",
+                  "global_code":"87G8R4R8+QH"
+            },
+            "price_level":1.0,
+            "rating":2.6,
+            "reference":"ChIJy7OCeYv0wokRzRvj0SDsMDE",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":551,
+            "vicinity":"921 East Tremont Avenue Ste A, The Bronx",
+            "CBG":360050363004,
+            "Radius":150.2747313267
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8416143,
+                        "lng":-73.8836821
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8430405803,
+                              "lng":-73.8823969697
+                        },
+                        "southwest":{
+                              "lat":40.8403426197,
+                              "lng":-73.8850949303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Tropa Pizzaria",
+            "opening_hours":null,
+            "photos":null,
+            "place_id":"ChIJ86NPeov0wokREJJJbULkWOE",
+            "plus_code":{
+                  "compound_code":"R4R8+JG The Bronx, NY, USA",
+                  "global_code":"87G8R4R8+JG"
+            },
+            "price_level":null,
+            "rating":4.2,
+            "reference":"ChIJ86NPeov0wokREJJJbULkWOE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":9,
+            "vicinity":"924 East Tremont Avenue, The Bronx",
+            "CBG":360050363004,
+            "Radius":150.2747313267
+      }
+]

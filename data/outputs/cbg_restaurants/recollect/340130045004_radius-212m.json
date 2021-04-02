@@ -1,0 +1,51 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.7118348,
+                        "lng":-74.2230285
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.7132283803,
+                              "lng":-74.2217636197
+                        },
+                        "southwest":{
+                              "lat":40.7105304197,
+                              "lng":-74.2244615803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"The Munchy Joint",
+            "photos":[
+                  {
+                        "height":675,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101447997163878202307\">The Munchy Joint<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKU2AXV0Uh0hdP3r2OlSt0BZMj67zWkl0MuI_-K8JrlAoPTeDfIg4DdZ_E-Qm7WK9XkR73vbX9AABedwt2ApM0SkWP-1eGaYmR9UF4Wnasm9bkytZL5RkpbyvIo5LW6DV_GM0YDuy1N_u4iR6BF_-fSH80gCstzzk_z4KdUlkFIjEMF",
+                        "width":750
+                  }
+            ],
+            "place_id":"ChIJoU_4ND2tw4kRQsFFM3vm2og",
+            "plus_code":{
+                  "compound_code":"PQ6G+PQ Newark, NJ, USA",
+                  "global_code":"87G7PQ6G+PQ"
+            },
+            "rating":4,
+            "reference":"ChIJoU_4ND2tw4kRQsFFM3vm2og",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":1,
+            "vicinity":"Wainwright Street, Newark",
+            "CBG":340130045004,
+            "Radius":212.2372931736
+      }
+]

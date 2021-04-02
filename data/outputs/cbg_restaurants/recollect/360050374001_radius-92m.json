@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8716411,
+                        "lng":-73.8658125
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8729900803,
+                              "lng":-73.8644635197
+                        },
+                        "southwest":{
+                              "lat":40.8702921197,
+                              "lng":-73.8671614803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Kwon Wa Chinese Kitchen",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":1920,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117937749104849656685\">Lourdes De los Santos<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKPPEa7mmr0y4D0pz0SbrajPGOBFos7kqtwhB5cut256BMDU-Kf2dNIn-fyQ1FFlH83m4-AUd4VDHg9Qri6oLRRXoir0IJUC3rqX-V5D96s7fCHULgnKv746ng1vY-pHzJADXwbhaQWLiurJyC0KdDK5zeqJaA_QHQL5-Qu1OBwZEHy",
+                        "width":1080
+                  }
+            ],
+            "place_id":"ChIJVfAWAmrzwokR6HQmIxWVDHA",
+            "plus_code":{
+                  "compound_code":"V4CM+MM The Bronx, NY, USA",
+                  "global_code":"87G8V4CM+MM"
+            },
+            "rating":4.1,
+            "reference":"ChIJVfAWAmrzwokR6HQmIxWVDHA",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":64,
+            "vicinity":"727 Burke Avenue, The Bronx",
+            "CBG":360050374001,
+            "Radius":92.4238286679
+      }
+]

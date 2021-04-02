@@ -1,0 +1,56 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.5772946,
+                        "lng":-73.9610321
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.5786257803,
+                              "lng":-73.9598574697
+                        },
+                        "southwest":{
+                              "lat":40.5759278197,
+                              "lng":-73.9625554303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Little Georgia",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":3846,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112460254303973272111\">Little Georgia<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwKCgCu4POqicENkxsT9g1WM8M1Pd7lXHDcxplK0_8826scqCXAE5fOkr307QRRfr4WMI89A-guGtNZeKsP2Jr0InHh9YLZaWDG-89pUvxgG63pupgofwMVo2L09SF5FaOqvJjW9QM4Ztr-Oe6YjchRqqXKu5rg5YZBshDHOtc8ZpBr4",
+                        "width":4633
+                  }
+            ],
+            "place_id":"ChIJAz3-wxFFwokRhHCZPZu2EbI",
+            "plus_code":{
+                  "compound_code":"H2GQ+WH New York, NY, USA",
+                  "global_code":"87G8H2GQ+WH"
+            },
+            "rating":4.7,
+            "reference":"ChIJAz3-wxFFwokRhHCZPZu2EbI",
+            "scope":"GOOGLE",
+            "types":[
+                  "bakery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+            ],
+            "user_ratings_total":53,
+            "vicinity":"3089 Brighton 6th Street, Brooklyn",
+            "CBG":360470360021,
+            "Radius":117.9453134121
+      }
+]

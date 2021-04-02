@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":41.1781924,
+                        "lng":-73.1665914
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":41.1795413803,
+                              "lng":-73.1652424197
+                        },
+                        "southwest":{
+                              "lat":41.1768434197,
+                              "lng":-73.1679403803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"China One",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":786,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108134921414648464603\">China One<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwLpk7i04bhGcSDu02X14TIiv1MWzbfrU6A8VKT6jSgnbF7xitiCIBh_QNjwtSgE9jabZaWnJhZtuEWoYSshi8SEDLQcQpu2_gYmMdovMER5oQ81DN99f8eCoxHaN1dIRnmaQ6an3GiCtCaowpV_sIHzrxzeKqhXg6NAxbBj3NXMKV5v",
+                        "width":1398
+                  }
+            ],
+            "place_id":"ChIJFedzEs8N6IkRTMZc6wzKkH4",
+            "plus_code":{
+                  "compound_code":"5RHM+79 Bridgeport, CT, USA",
+                  "global_code":"87H85RHM+79"
+            },
+            "price_level":1,
+            "rating":3.6,
+            "reference":"ChIJFedzEs8N6IkRTMZc6wzKkH4",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":12,
+            "vicinity":"1199 Stratford Avenue, Bridgeport",
+            "CBG":90010744004,
+            "Radius":250.8144754921
+      }
+]

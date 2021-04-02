@@ -1,0 +1,76 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6791717,
+                        "lng":-73.927361
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6804970803,
+                              "lng":-73.9260143197
+                        },
+                        "southwest":{
+                              "lat":40.6777991197,
+                              "lng":-73.9287122803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Rico pollo",
+            "place_id":"ChIJ2wLf0uBdwokROwBV6IiHnvA",
+            "plus_code":{
+                  "compound_code":"M3HF+M3 Brooklyn, NY, USA",
+                  "global_code":"87G8M3HF+M3"
+            },
+            "reference":"ChIJ2wLf0uBdwokROwBV6IiHnvA",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"Fulton Street, Brooklyn",
+            "CBG":360470381003,
+            "Radius":145.3869594979
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.6790721,
+                        "lng":-73.9272417
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.6804292303,
+                              "lng":-73.9259559697
+                        },
+                        "southwest":{
+                              "lat":40.6777312697,
+                              "lng":-73.9286539303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Mr. Fulton Grill & Deli",
+            "place_id":"ChIJuXCMinBcwokRRDfK2M3pFoI",
+            "plus_code":{
+                  "compound_code":"M3HF+J4 New York, NY, USA",
+                  "global_code":"87G8M3HF+J4"
+            },
+            "reference":"ChIJuXCMinBcwokRRDfK2M3pFoI",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "vicinity":"United States",
+            "CBG":360470381003,
+            "Radius":145.3869594979
+      }
+]

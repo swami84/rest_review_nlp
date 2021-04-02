@@ -1,0 +1,85 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8925927,
+                        "lng":-74.1365219
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8940521303,
+                              "lng":-74.1352072197
+                        },
+                        "southwest":{
+                              "lat":40.8913541697,
+                              "lng":-74.1379051803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/generic_business-71.png",
+            "name":"Riman Lebanese Street Food",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "place_id":"ChIJoSNzMqb-wokRmzzkmhvBRxY",
+            "plus_code":{
+                  "compound_code":"VVV7+29 Clifton, NJ, USA",
+                  "global_code":"87G7VVV7+29"
+            },
+            "rating":5.0,
+            "reference":"ChIJoSNzMqb-wokRmzzkmhvBRxY",
+            "scope":"GOOGLE",
+            "types":[
+                  "meal_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":2.0,
+            "vicinity":"141 Crooks Avenue, Clifton",
+            "CBG":340311247002,
+            "Radius":317.9252106529
+      },
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8920207,
+                        "lng":-74.1329899
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8931952303,
+                              "lng":-74.1315900197
+                        },
+                        "southwest":{
+                              "lat":40.8904972697,
+                              "lng":-74.1342879803
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"McDonalds",
+            "opening_hours":null,
+            "place_id":"ChIJCzVS-VH_wokRvVU17qJhR8Y",
+            "plus_code":{
+                  "compound_code":"VVR8+RR Clifton, NJ, USA",
+                  "global_code":"87G7VVR8+RR"
+            },
+            "rating":null,
+            "reference":"ChIJCzVS-VH_wokRvVU17qJhR8Y",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":null,
+            "vicinity":"51-23 Roosevelt Avenue, Clifton",
+            "CBG":340311247002,
+            "Radius":317.9252106529
+      }
+]

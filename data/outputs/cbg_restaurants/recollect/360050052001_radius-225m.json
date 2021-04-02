@@ -1,0 +1,55 @@
+[
+      {
+            "business_status":"OPERATIONAL",
+            "geometry":{
+                  "location":{
+                        "lat":40.8250885,
+                        "lng":-73.8828887
+                  },
+                  "viewport":{
+                        "northeast":{
+                              "lat":40.8266495803,
+                              "lng":-73.8813548697
+                        },
+                        "southwest":{
+                              "lat":40.8239516197,
+                              "lng":-73.8840528303
+                        }
+                  }
+            },
+            "icon":"https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/v1\/png_71\/restaurant-71.png",
+            "name":"Bani Restaurant",
+            "opening_hours":{
+                  "open_now":false
+            },
+            "photos":[
+                  {
+                        "height":4160,
+                        "html_attributions":[
+                              "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101954688295702117769\">Wilfredo Beato<\/a>"
+                        ],
+                        "photo_reference":"ATtYBwJSh8MT4Puvknn_4reP_dYJy1ewf_WsBiKjBbLXbkX5rUqRZXmI_tdQboHctOp03ppbKZBg4Z1bM1s0S7z9ip7ZCJG-A91BZpc91xVU1BJO5fev9_kkoutHD_nkmvpIw_YLvddi3dodIlzNTeSkGe01rPwoUgwnJyK-tPWkoWxOqW0Q",
+                        "width":2340
+                  }
+            ],
+            "place_id":"ChIJF8lk4_v0wokRk4HS31h72fE",
+            "plus_code":{
+                  "compound_code":"R4G8+2R The Bronx, NY, USA",
+                  "global_code":"87G8R4G8+2R"
+            },
+            "price_level":2,
+            "rating":4,
+            "reference":"ChIJF8lk4_v0wokRk4HS31h72fE",
+            "scope":"GOOGLE",
+            "types":[
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+            ],
+            "user_ratings_total":173,
+            "vicinity":"1056 Bronx River Avenue, The Bronx",
+            "CBG":360050052001,
+            "Radius":224.8215851225
+      }
+]
