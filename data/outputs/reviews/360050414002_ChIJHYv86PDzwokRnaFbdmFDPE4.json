@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNjRXSWZ3EAE",
+        "caption": "I've been going to this restaurant for years and the food has never disappointed me. Grateful for the delicious, authentic Island taste! Bless the chief's Lord!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Roxanne Ricketts",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107524620125480538744/reviews?hl=en-US",
+        "census_block_group": 360050414002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTa3RuVXdBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Steele2.0",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100933631848788146509/reviews?hl=en-US",
+        "census_block_group": 360050414002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaEpUQU93EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "known unknown",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109547185669221655409/reviews?hl=en-US",
+        "census_block_group": 360050414002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbDdTSW13RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "George Bryan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101129901054244989326/reviews?hl=en-US",
+        "census_block_group": 360050414002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDeUtldGJBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Kironde Kalibala",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114238400377572394847/reviews?hl=en-US",
+        "census_block_group": 360050414002
+    }
+]

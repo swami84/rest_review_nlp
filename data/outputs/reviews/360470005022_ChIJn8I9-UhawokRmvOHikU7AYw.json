@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5c2JXeEhnEAE",
+        "caption": "Good food, nice guy.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Daniel Caracci",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116356987522757875016/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTX3J6MjNnRRAB",
+        "caption": "Some of the best! Would recommend to anyone",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Marco Aronson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114300911604615307354/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTX3J5Z3dnRRAB",
+        "caption": "Kazi is yummy!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Jacob Siegler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116466716449653009261/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdUx2WXd3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Mohammed Abbas ulla",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102782467799178684929/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVdFBhTzhnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Alexis Abreu",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102990510847594005488/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbThhNHRBRRAB",
+        "caption": "I go to kazi pretty frequently and it never disappoints. Combo over rice with pita is delicious!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Ethan R",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105705501996086205466/reviews?hl=en-US",
+        "census_block_group": 360470005022
+    }
+]

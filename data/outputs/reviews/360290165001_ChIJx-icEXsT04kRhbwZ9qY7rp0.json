@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbWZLaXVRRRAB",
+        "caption": "Delicious Beer and SUPER nice staff!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "HOME",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100700442467020883675/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcWZ1d0ZBEAE",
+        "caption": "Always a great selection, have to try the Beer Mixology of beer concoctions.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Aaron D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108448991989763204051/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzMU9fZjFnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Jon Fletcher",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116371207798563591586/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzaE5hQzJBRRAB",
+        "caption": "Thoroughly enjoyed my dinner at the Rusty Nickel Brewing Company tonight. Joe and the team were friendly and hospitable. The food was good but the beer was even better! I look forward to returning next time I am in Buffalo.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Giovanni Holmquist",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110245641351925728594/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNa3VHR1NREAE",
+        "caption": "so glad this location has opened up!!!  tremendous menu and a beer list that will make your head spin (in a good way \ud83d\ude0a).",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "ericmouse",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105322500019538643285/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NzdyY1dBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Rob Angus",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113365987015277524611/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dTV1V1dREAE",
+        "caption": "Beautiful restaurant, attentive staff, excellent food. The beef Ragu is not to be missed and the cacio Pepe was excellent. I HIGHLY recommend the burrata starter.  Wishing them great success!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Jessica Kausen",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110115423527641533813/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OGYtNjZnRRAB",
+        "caption": "New Restaurant! Chic and modern design. Perfect for a date night or a a get together. Great service!!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Ora Tsukrov",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110119074017736928649/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NFllSnR3RRAB",
+        "caption": "A wonderful place for a double date! The food was tasty and the portions were just perfect size. Tiramisu, which I am a BIG fan of, was delightful. I really enjoyed the food as well as atmosphere. Will come back again!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Olga Cherkasskaya",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103508169137428236500/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a3ZpZDFRRRAB",
+        "caption": "Terrible \ud83e\udd0c\ud83c\udffc",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "High-End Vintage Shop",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103939424725860503817/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dlBqSVZBEAE",
+        "caption": "Best new place in Brooklyn, perfect service and food. Recommend this new restaurant .",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "JJ Wow",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111266726179458007016/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSUR5dkxnaRAB",
+        "caption": "Beautiful location, the food and service was excellent. Recommend this new place.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Ior Bay",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117778987817501830361/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dEkzdmJnEAE",
+        "caption": "I can\u2019t wait to go!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "LoreNWent",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105240335652652221121/reviews?hl=en-US",
+        "census_block_group": 360470033002
+    }
+]

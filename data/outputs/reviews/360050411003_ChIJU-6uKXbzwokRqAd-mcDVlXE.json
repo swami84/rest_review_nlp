@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweFl2X2tBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "William Rozinski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107408789693418551116/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRdFpqX2RREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "A JAH",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112539378217425489982/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnbHBLRkNREAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Victor Herrera",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104814066938721477482/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRemR1UFRBEAE",
+        "caption": "awesome",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "maria amaya",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109534199274375155686/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnZ0x1bXVnRRAB",
+        "caption": "Good",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Andres Mendoza",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104106130513089890876/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBeUxpc21nRRAB",
+        "caption": "Horribble service they dont attend people with a smile they are not attentive",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 2.0,
+        "username": "Nancy Pena",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115421271410886882025/reviews?hl=en-US",
+        "census_block_group": 360050411003
+    }
+]

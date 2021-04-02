@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwbDZERllBEAE",
+        "caption": "The most amazing place for lunch!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Craig Savage",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107954851821887467846/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwd19PajlnRRAB",
+        "caption": "Best meal of my life.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Corey Neil",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106925307882212810214/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZcW95Z053EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Kate Piskorowski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107645179244850801493/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvODR6VmJBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "H Stokes",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103202462343654481889/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    }
+]

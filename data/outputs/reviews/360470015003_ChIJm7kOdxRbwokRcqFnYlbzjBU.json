@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdmNuMGZREAE",
+        "caption": "Delicious! They give a lot of food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Stefry Sanchez",
+        "n_review_user": 292,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111613656693283422358/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjcGNIRXhnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Solomon Ben-Yahudah",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116291980904562880973/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzcmFfQmpnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "MARIA CAROLINA GUTIERREZ RAMIREZ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104505733559723273921/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbGNhNFBREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Quirlene",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114263872709132642431/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzaHF2TU5REAE",
+        "caption": "Great service and large menu. The smoked crab taco is outstanding! Can\u2019t wait to go back to try other tacos.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Bridget Coolick",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100117961922166228345/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbDdhZ0NnEAE",
+        "caption": "Tacos were very flavorful, we enjoyed all three! Would definitely go back again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Michael Fuller",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110405402289660268437/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQweUp1SkNBEAE",
+        "caption": "Great price and always reliably tasty tacos.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Kyle Gates",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109016056685912262020/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJb1lhV3ZnRRAB",
+        "caption": "This is a great spot for a good price...that is usually consistent. I\u2019ve probably visited this business at least half a dozen times in the last 12 months and have always been very happy with the quality of my food. For $11 plus tax I get 3 tacos (one of them is usually al pastor...a favorite of mine) and I think that\u2019s a great value for a food hall.  This last time the flavors were not on point...still good but not what I am used to. I will keep coming back because since 5 out of 6 times they nailed the flavors.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Igor Shmidt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111613518789642342011/reviews?hl=en-US",
+        "census_block_group": 360470015003
+    }
+]

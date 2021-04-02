@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOE5TcVFBEAE",
+        "caption": "Comfy and casual.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Holly Mosher",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113029837139342720134/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVbnNtWjVBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Zachary Vega",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113598471122511162804/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJcWNyUUVBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "CD 2",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115211093215326913442/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJemFiTWZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "anthony berrios",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117853876376442352013/reviews?hl=en-US",
+        "census_block_group": 360290165001
+    }
+]

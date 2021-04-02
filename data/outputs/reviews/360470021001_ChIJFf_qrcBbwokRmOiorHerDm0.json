@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5d2N6Q1ZnEAE",
+        "caption": "Delicious",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "ASKAR",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103882127174276390548/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjMmJXLTVnRRAB",
+        "caption": "$22 shrimp pad thai not worth it, have had much better at several thai places around the city like Pam Real Thai, Esanation, Wondee Siam, etc.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 3.0,
+        "username": "Anthony Muljadi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115537469985862052290/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMThENWNREAE",
+        "caption": "Located inside Timeout market. Clean and flavorful food but quantity is bit less for $ paid",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "spoorthi Shres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112693353017475869362/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    }
+]

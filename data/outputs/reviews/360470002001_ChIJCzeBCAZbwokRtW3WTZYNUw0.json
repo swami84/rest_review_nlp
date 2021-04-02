@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3bXJXdFBnEAE",
+        "caption": "My 64 year old father went to this restaurant to order take out while I waited for him in the car. He asked what soups they had, they only had chicken soup. He declined (he\u2019s not a fan of chicken soup). He asked to use the bathroom and the waiter told him he had to buy something to use the bathroom. He asked the waiter if she can make an exception and she said \u201cNo, that he can call the cops if he wanted too.\u201d When he got back in the car he told me what had happened. This is beyond rude and disgusting of this restaurant.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "alejandra arango",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113105177452833011191/reviews?hl=en-US",
+        "census_block_group": 360470002001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3bUxleHJnRRAB",
+        "caption": "Delicious Spanish food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Gloria Atariguana",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112426300278312174080/reviews?hl=en-US",
+        "census_block_group": 360470002001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3cU4tUExBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Susana Martha",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109484295996218583273/reviews?hl=en-US",
+        "census_block_group": 360470002001
+    }
+]

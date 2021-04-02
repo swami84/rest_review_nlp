@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5b2U2SF9RRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 3.0,
+        "username": "Italo Tello",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111505443413209551589/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dnVIMVF3EAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Yamileth Guillen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111255602880393631449/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OW9xRjd3RRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Juan Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111319882060553621449/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ZzZXdXF3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Marie Guillen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114557840582083168861/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aWY3OUhBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "vivian andrea perea",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113713663094183503556/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aWI2cnFRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Miguel Guillen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115216516958475098181/reviews?hl=en-US",
+        "census_block_group": 360470020001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTb2JUb3VRRRAB",
+        "caption": "Best",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Karan Nanda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118047210905495959140/reviews?hl=en-US",
+        "census_block_group": 360050426001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbGVYR21RRRAB",
+        "caption": "Great variety of food , for the family",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Easy The Mogul",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116428854282767012607/reviews?hl=en-US",
+        "census_block_group": 360050426001
+    }
+]

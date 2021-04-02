@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdjZ2RDRBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 3.0,
+        "username": "Steven Bartholf",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100850497858180451320/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBOVBfWl9nRRAB",
+        "caption": "A brand new fresh menu every Saturday evening. Can\u2019t say enough about the food or location - it\u2019s a cozy wine bar with a friendly staff, but having the pop up surprise menu means you never know what to expect but you know it\u2019ll be awesome.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Deanna Wallach",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116027027695377457868/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbTlpQ2RREAE",
+        "caption": "delicious, high quality local ingredients such a cute spot!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Eric Kristin Mercado",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104534329225788205267/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    }
+]

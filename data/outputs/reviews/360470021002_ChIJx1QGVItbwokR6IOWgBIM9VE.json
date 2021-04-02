@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MmJDR3lBRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Vladimir R",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113625697602276946245/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeGZDNEd3EAE",
+        "caption": "I ordered the gnocchi short rib and it was pink uncooked Slimy and overall just not it! The bread was dry.  Oh and when I walked in nobody helped. Didn\u2019t get a menu until I asked for one. Terrible service terrible food. Don\u2019t EVER eat here !!!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "KARMA NEW YORK",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108765138616411598547/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeWJMLVhREAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 3.0,
+        "username": "Alexis Tringas",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117129632581715921322/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaWQzQnJBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Antonio Barbagallo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112753265109785241919/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMElPRWpnRRAB",
+        "caption": "This place was really good. Got the tagliatelle with the sausage and lemon situation and that was awesome. Also tried the chicken costoletta and the red cabbage and kale salad on top was top brass. Highly recommend.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Louis Gretta",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109026910950271066802/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpb0pEVWFREAE",
+        "caption": "Great food. Stumbled across it just walking around. Came in for a drink and ended up ordering meatballs as an app and 3 meals. Tagliatelle with sweet sausage was delicious. All 3 of us cleared our plates!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Keri",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111737215811494778011/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNWRDWExBEAE",
+        "caption": "Loved the food! Great Italian restaurant.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Julia Djaoui",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114469198700887828438/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcHJQTmJREAE",
+        "caption": "The food was amazing and the service was excellent. Our waitress Menna recommended some dishes for us and was super kind. Definitely recommend this spot!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Moamen Zedan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100542946733501373061/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    }
+]

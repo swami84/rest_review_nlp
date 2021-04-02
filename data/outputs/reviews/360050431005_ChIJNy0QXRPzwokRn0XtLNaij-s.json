@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDX01fcHZRRRAB",
+        "caption": "I\u2665yummie",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "\uc870\ud76c\uc8fc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111702981120370384097/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4cDRMcjNnRRAB",
+        "caption": "Best spot to eat something when in a hurry. The service is swift, prices are reasonable, excellent mood. Keep up the good work",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Marquis Alexander",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116702522039959307794/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndl9uaFdBEAE",
+        "caption": "First time trying this place, the ox tails was great. I ordered the $10.00 plate I couldn't finish it. I will order food there again.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Egon W",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105740841328706342839/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3bWZqWmNnEAE",
+        "caption": "Yummie is where you go for home cooked Jamaican meals in the Bx if you're ever near Bedford or Kingsbridge or on Gunhill, hop on that 28 bus and go to Yummie. Sometimes they don't ave certain foods, but that is because they're breakfast meals like dumplings and rice and peas or it is just that popular. Their business just opened in January of this year, but I am already a regular customer and have been here at least 10 times. There sauce is ALWAYS on point and if ever your rice and peas is tasting a bit dry just ask for some more and they will gladly add some more. The owners, Lloyd and Latricia (I hope I spelled their names correctly) are very friendly and I always have a great experience when I eat there, whether I am solo or with friends or my boyfriend. They already know my order, which is stew chicken with plantains. Come here to get lost in the sauce.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Kat Fornier",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110708601241442685215/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnb1pyMjdnRRAB",
+        "caption": "Great food and great service",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Steven Gonzalez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117519214587916237902/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3c09pdzJBRRAB",
+        "caption": "Their food is disgusting and under seasoned. They need to be shut down immediately. They never have the food they advertise. Food wasn't even hot. Shut this garbage of a restaurant down.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 1.0,
+        "username": "James Ellis",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110816766030204336377/reviews?hl=en-US",
+        "census_block_group": 360050431005
+    }
+]

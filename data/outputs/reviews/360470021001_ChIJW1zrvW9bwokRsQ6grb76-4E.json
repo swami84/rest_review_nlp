@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDbnFHT1hREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Andrew Denno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114250712417522369700/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4XzRtYUZ3EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Ramon Alcantara",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114036408064550123482/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4aUlhRFNnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Enrique Lezama",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105714413229056282760/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzMXZHa2FREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Michael Taylor",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113107991038893607493/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdXZUTlZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Let\u00edcia Jenisch",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116795270557138866673/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNXy1IWTR3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Leah maya",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104369949014056577334/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwc3BLZXVRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Steven Caceres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100746318555328029963/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNzVDRmFnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Soley Love",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113826221896384481040/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    }
+]

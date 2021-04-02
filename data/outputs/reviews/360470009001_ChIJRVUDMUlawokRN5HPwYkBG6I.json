@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcXVMNEVREAE",
+        "caption": "It was okay.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 3.0,
+        "username": "Mandy Ho",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107448183177441394972/reviews?hl=en-US",
+        "census_block_group": 360470009001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweFpPTHZRRRAB",
+        "caption": "I have retained Salma's Halal Kitchen as my personal chef.  Salma tailors my meals to meet all of my medical conditions.  The food is very tasty.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Najmus Saqib",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103773560955391424450/reviews?hl=en-US",
+        "census_block_group": 360470009001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwMGRLMDJRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Mohamad Hussain",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116326110303557520558/reviews?hl=en-US",
+        "census_block_group": 360470009001
+    }
+]

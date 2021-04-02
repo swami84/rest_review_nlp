@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOFo3cThBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Hoang Vu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112444531819509668814/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOVphell3EAE",
+        "caption": "Vegan chorizo mac and cheese. SO GOOD!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Yair",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105069145244916405056/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcFlmZ2RREAE",
+        "caption": "The only vegan place in Time Out Market. Quite pricey and could be better.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 4.0,
+        "username": "Damian Samolej",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106537004352478137587/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcGFhbERBEAE",
+        "caption": "The quesadillas was very delicious! I have been vegan for about 2 months. The cheese was so good. I really thought I was eating cheese from a cow. It was soft and gooey like \u201creal\u201d cheese.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Candace Grace",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106873225414941744707/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNNmZuQjNnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "James Gray",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115175489637453980268/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwbXNuUGZnEAE",
+        "caption": "Great vegan food. Lots of spice and flavor.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Joel Bartlett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110994817845209636730/reviews?hl=en-US",
+        "census_block_group": 360470021001
+    }
+]

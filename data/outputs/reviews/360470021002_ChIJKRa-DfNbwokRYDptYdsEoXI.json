@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdE96LWpBRRAB",
+        "caption": "This is one of those places that keeps the same chicken on the griddle all day. The result is dried out, stringy chicken. The sauce is flavorful, but that just because it's loaded with salt and sugar. Portions are huge, but only because the quality of meat is very low.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 2.0,
+        "username": "A S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107223608182026652080/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNeWRiMTF3RRAB",
+        "caption": "Cheap food and there usually isn\u2019t much of a line.  Go to order: Steak Teriyaki with white rice",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-01",
+        "rating": 5.0,
+        "username": "Marcus Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109937643902612218253/reviews?hl=en-US",
+        "census_block_group": 360470021002
+    }
+]
