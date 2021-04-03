@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MTZMOTVRRRAB",
+        "caption": "(Translated by Google) Very good  (Original) Muy bueno",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Luis edgar Sajche robles",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114740533184525968170/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ck1TZzV3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Miguel Torres",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102546621757025887548/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MjhUZk5REAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "none of your damn business",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101501352836096994730/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcDUtRVdBEAE",
+        "caption": "These burritos are the best in the area, and the family is so nice!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Oli P",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113735160254366891023/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTOVppcnRBRRAB",
+        "caption": "The quesadillas are delicious and are my favorite item on the menu. I recommend them!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jaely Vidals",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117172833821313519567/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpOTh2VHBRRRAB",
+        "caption": "OMG! I just got the most delicious burrito from there thank you for the love you put into your food my new favorite place!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Eric Siton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113034459380550138840/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjel92R3VnRRAB",
+        "caption": "Not what you expect in the back of a shop, but great Mexican food",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Hans Damen",
+        "n_review_user": 961,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114311952553471520881/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURza05mUTZnRRAB",
+        "caption": "Amazing food and the workers are so nice\ud83d\ude0a\ud83d\udc4d",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Monserrat Hernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111913060187497998523/reviews?hl=en-US",
+        "census_block_group": 360470101001
+    }
+]

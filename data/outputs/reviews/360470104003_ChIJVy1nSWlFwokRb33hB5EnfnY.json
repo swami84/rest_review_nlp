@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpa0tyMjVBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Sandi C",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109070931172707497209/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMXVQQTFRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "\u5f20\u677e",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108942911594077058552/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzZ2ZTUU5REAE",
+        "caption": "(Translated by Google) .... Silent, unsatisfactory taste, is it necessary to divide Chinese beef and American burdock, disappointment is taste  (Original) ....\u65e0\u8bed\uff0c\u5473\u9053\u4e0d\u7406\u60f3\uff0c\u8fd8\u5206\u4e2d\u56fd\u725b\u548c\u7f8e\u56fd\u725b\ud83d\ude13\u6709\u5fc5\u8981\u5417\uff0c\u5931\u671b\u662f\u5473\u9053",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Anime boy 56 Demons",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111532248468015952030/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzdXVEclhREAE",
+        "caption": "(Translated by Google) The environment and service are good, but the taste of the food is not ideal.  (Original) \u73af\u5883\u548c\u670d\u52a1\u90fd\u5f88\u4e0d\u9519\uff0c\u4f46\u662f\u98df\u7269\u7684\u5473\u9053\u6ca1\u6709\u5f88\u7406\u60f3\u3002",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Amy Zeng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117292893440221030795/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOHZhUmlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "\u5988\u8349\u4f60",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109732388824169892171/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNNTh1Vm5BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "\u5218\u708e\u4e1c",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115591178180008444522/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNOGRtTk1nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "xueliang li",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117045912508209672722/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNODhDdVN3EAE",
+        "caption": "(Translated by Google) Come to the menu map, take a good takeaway  (Original) \u6765\u5f20\u83dc\u5355\u56fe\u597d\u70b9\u4e0b\u5916\u5356",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Zhenzhong Huang",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103645041963229864480/reviews?hl=en-US",
+        "census_block_group": 360470104003
+    }
+]

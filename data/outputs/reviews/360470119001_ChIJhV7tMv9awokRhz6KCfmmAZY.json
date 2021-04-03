@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MDczelpREAE",
+        "caption": "Great ambience and very welcoming service. The menu was crisp and delightful. Will surely recommend this place to anyone. Reasonable rates and generous meals. Keep it up.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Dean Hammond",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114778659106120320759/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDX3B6TnB3RRAB",
+        "caption": "One of my preferred places to grab something to eat. very good location, clean, and fantastic service. Very good job!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Robert Heath",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117591463180032393926/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbjdlSG5nRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Tuku Ahmeduiioky544",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100224779604258945991/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwd3A2OV9BRRAB",
+        "caption": "I simply enjoyed their dishes. I always get great service there. The place is clean and the employees are always very kind. Will come visit again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Sergio Ware",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101750265704679880215/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    }
+]

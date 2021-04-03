@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NnNueUl3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "thomas kuang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112531205011953000648/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTM3BXaG5RRRAB",
+        "caption": "Best dumplings.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Shao-ting Hong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106094879768792558911/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpN1BYeUx3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jelen Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115337308206958943522/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeThYc2pBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "glenn xu",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111705719579640910325/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbEk2X0R3EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Timothy K.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110931649564655552645/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDd0tLaGxRRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Lee Zhu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101154208955872310765/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    }
+]

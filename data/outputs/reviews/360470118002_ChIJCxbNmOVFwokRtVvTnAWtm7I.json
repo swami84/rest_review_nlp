@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cXQ3THRBRRAB",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Juan Lin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111321785529536037438/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMGZ1cGd3RRAB",
+        "caption": "(Translated by Google) The boss is extremely bad  (Original) \u8001\u677f\u6001\u5ea6\u6781\u5176\u7684\u5dee",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Que Zhang",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103697681543267378359/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4OC0yVDBnRRAB",
+        "caption": "good",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Rina Li",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105411412128690960455/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNNHF2VjZnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Skeptical",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112503621564616015709/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwbHRTSjhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Luke",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108807440554424060780/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdHBYb0lREAE",
+        "caption": "(Translated by Google) Full of good  (Original) \u6ee1\u597d\u7684",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Youtian Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112474936396546662953/reviews?hl=en-US",
+        "census_block_group": 360470118002
+    }
+]

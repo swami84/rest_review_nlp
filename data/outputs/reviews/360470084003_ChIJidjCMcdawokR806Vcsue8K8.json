@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMEpLVGtBRRAB",
+        "caption": "(Translated by Google) Very characteristic  (Original) \u5f88\u6709\u7279\u8272 \u7269\u7f8e\u4ef7\u5ec9",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Yanmei Xu",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101486705733686088723/reviews?hl=en-US",
+        "census_block_group": 360470084003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbDZ6T3NnRRAB",
+        "caption": "(Translated by Google) Eselente  (Original) Eselente",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Ernesto Heredia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108183918116574887277/reviews?hl=en-US",
+        "census_block_group": 360470084003
+    }
+]

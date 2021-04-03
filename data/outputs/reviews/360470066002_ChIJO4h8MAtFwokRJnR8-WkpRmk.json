@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eF9lSHVRRRAB",
+        "caption": "Some of the best sushi I\u2019ve ever had. The quality/freshness of the fish is incredible! The eel and scallop nigiri were my favorite. Love that they have real wasabi too. Definitely more pricey than your average sushi spot, but highly recommend if you want to treat yourself.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Joyce Chan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103592957143865413077/reviews?hl=en-US",
+        "census_block_group": 360470066002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eWVPWVZnEAE",
+        "caption": "Really fresh sushi that comes with real wasabi. Blew my mind with how little it cost. Great selection too!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jeff Tsang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115876785910354071687/reviews?hl=en-US",
+        "census_block_group": 360470066002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LXUtWXpnRRAB",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "danny chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115060846669668401801/reviews?hl=en-US",
+        "census_block_group": 360470066002
+    }
+]

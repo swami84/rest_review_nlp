@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MDh2dTVnRRAB",
+        "caption": "Tried this twice: first had it delivered, second time picked it up.  Both times the same - probably the worst pizza I have ever had.  Cannot say anything good about it, would give it zero stars if I could.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Tim Caster",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108505500258246114248/reviews?hl=en-US",
+        "census_block_group": 360470072001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNkx2OGdBRRAB",
+        "caption": "Pizza overload. Had the Prosciutto with arugula and half pepperoni half basil pizzas. Thin crust, amazing cheese, perfectly cooked. Probably best pizza I've ever had.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "carole marte",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114362965886819103916/reviews?hl=en-US",
+        "census_block_group": 360470072001
+    }
+]

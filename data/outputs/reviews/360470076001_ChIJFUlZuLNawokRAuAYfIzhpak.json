@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpX05DaHRRRRAB",
+        "caption": "Best chipotle chicken sandwich I've ever had. The guy cooking around 1230am sat night great job\ud83d\udc4d",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Greg Chrzanowski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101753967032181161598/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeXJDMUdBEAE",
+        "caption": "Food is good. Customer service skills are no good. How do you tell a customer that they are cheap. No more loyalty from this cheap customer, bet that. All through this pandemic I've been buying now I'm cheap. Penny pinching making Abraham Lincoln scream.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "david dominguez",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111287311644031055380/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzeExpYVlnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Nader Yafaee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114205024722427292477/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwamR6Ul9nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Fernando Torres",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109125693252882780476/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMHFxZUZ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Vicente Montes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102172493584601977542/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrZ3ZmWDl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Valarie Ramos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115213638997562044362/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURveC1xTWp3RRAB",
+        "caption": "Good people in this grocery store and you find Spanish food like pork chops, rice,salads etc.!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Angelo Santiago",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117753250535865152406/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBaTUtbzZ3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Arnaldo Ortiz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104376080766016885001/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBdXVXV0VREAE",
+        "caption": "The best",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Frenshy Frensh",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109979768076864815064/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMjdEaTBnRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Pedro Santos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101416385267912387141/reviews?hl=en-US",
+        "census_block_group": 360470076001
+    }
+]

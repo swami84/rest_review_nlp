@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MGFpU3lnRRAB",
+        "caption": "Amazing food with fast and friendly service! The Pupusas are especially delicious!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jason Portney",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112180597377050147818/reviews?hl=en-US",
+        "census_block_group": 360470066001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbHAtcExREAE",
+        "caption": "Great service",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Giovanny velecela",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100715076255684729247/reviews?hl=en-US",
+        "census_block_group": 360470066001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDajk3OXhnRRAB",
+        "caption": "Every food is perfect and delicious! The owners and staffs provide very good service.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "AK Holy",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112958394783578743316/reviews?hl=en-US",
+        "census_block_group": 360470066001
+    }
+]

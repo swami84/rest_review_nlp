@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcFltdWNBEAE",
+        "caption": "(Translated by Google) Super delicious sweet tofu brain, Fujianese are worth a try!  (Original) \u8d85\u597d\u5403\u7684\u751c\u8c46\u8150\u8111 \u798f\u5efa\u4eba\u503c\u5f97\u4e00\u8bd5\uff01",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Olivia Liu",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115668482826259724957/reviews?hl=en-US",
+        "census_block_group": 360470104001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDdlBpRXBRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "xiuyi feng",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114722842772768964820/reviews?hl=en-US",
+        "census_block_group": 360470104001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDakxtNVJBEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "jerkhead71",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110076700252654810207/reviews?hl=en-US",
+        "census_block_group": 360470104001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRaDZ6ZGlBRRAB",
+        "caption": "(Translated by Google) Taishan Fuling Cake, New York has not found a second home yet  (Original) \u53f0\u5c71\u4f0f\u7075\u7cd5\uff0c\u7ebd\u7ea6\u6682\u65f6\u8fd8\u6ca1\u627e\u5230\u7b2c\u4e8c\u5bb6",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Haochao Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110702952615482288042/reviews?hl=en-US",
+        "census_block_group": 360470104001
+    }
+]

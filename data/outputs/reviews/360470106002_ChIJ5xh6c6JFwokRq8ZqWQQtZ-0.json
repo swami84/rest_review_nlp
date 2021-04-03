@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LWZpMnlBRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Ds Jsjs",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107105743791128287101/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eXB5T0xREAE",
+        "caption": "(Translated by Google) The price is affordable, the taste is delicious, the service is good, and the child brings a balloon home before leaving, so happy,  (Original) \u4ef7\u683c\u5b9e\u60e0 \u53e3\u5473\u9c9c\u7f8e\u3001\u670d\u52a1\u4e5f\u597d\u3001 \u4e34\u8d70\u65f6 \u5c0f\u5b69\u5b50\u8fd8\u5e26\u4e2a\u6c14\u7403\u56de\u5bb6 \u53ef\u5f00\u5fc3\u4e86\u3001",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jiankai Ke",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101534532822500828331/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LUlXYlh3EAE",
+        "caption": "(Translated by Google) The new store opened, the price is good, the environment is beautiful, the interior is chaotic, frequent errors, the goods are vacant, and the food is fast.  (Original) \u65b0\u5e97\u5f00\u4e1a\uff0c\u4ef7\u683c\u826f\u597d\uff0c\u73af\u5883\u4f18\u7f8e\uff0c\u5185\u90e8\u6df7\u4e71\uff0c\u9891\u7e41\u51fa\u9519\uff0c\u8d27\u7269\u7a7a\u7f3a\uff0c\u4e0a\u83dc\u9f9f\u901f\u3002",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 2.0,
+        "username": "Junwei Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113528489655151614777/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    }
+]

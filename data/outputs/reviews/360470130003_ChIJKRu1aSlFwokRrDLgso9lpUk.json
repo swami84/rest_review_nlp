@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Nl9pWVZnEAE",
+        "caption": "Very good \ud83d\udc4d",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "sid khoudja",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106711862998262603824/reviews?hl=en-US",
+        "census_block_group": 360470130003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDc2JuMXh3RRAB",
+        "caption": "Amazing and clean halal market. Great prices !! Definitely my new grocery store.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Shay Zahrieh",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100707435862906605052/reviews?hl=en-US",
+        "census_block_group": 360470130003
+    }
+]

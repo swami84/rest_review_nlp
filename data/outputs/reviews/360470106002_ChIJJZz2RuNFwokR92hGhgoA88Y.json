@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMmJUWklBEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Mei Yang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106255616240828983920/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMllDUGJBEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jy Zheng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114042875436284444440/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdGRIY0JBEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Enyi Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107550371838936783257/reviews?hl=en-US",
+        "census_block_group": 360470106002
+    }
+]

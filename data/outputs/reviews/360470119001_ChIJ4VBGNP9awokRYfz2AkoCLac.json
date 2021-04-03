@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ0lMZHZBRRAB",
+        "caption": "Love it!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "New York",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103170612765665813489/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNX3NhVE5nEAE",
+        "caption": "Not bad but not the best pizza in Brooklyn despite current 5.0 rating",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Druce Vertes",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116376555111794451951/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVa3ZfRDhRRRAB",
+        "caption": "I Want To Take it \"pizza\"",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Tri Sla",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112815309381186695827/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZcThIN3BnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Marcelle Aybar",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112543767901488086200/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMWVlc0ZREAE",
+        "caption": "Honestly The Best Pizza In Town. They Have Many Choices & Combinations! Just Stop On By & See For Yourself!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "LifeAs BrittanyNichole",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101446501079962099569/reviews?hl=en-US",
+        "census_block_group": 360470119001
+    }
+]

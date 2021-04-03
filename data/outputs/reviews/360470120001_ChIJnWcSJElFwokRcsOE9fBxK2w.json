@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLUoydEdnEAE",
+        "caption": "Very nice place! barbeque had alot of flavor, very affordable",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "jerkhead71",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110076700252654810207/reviews?hl=en-US",
+        "census_block_group": 360470120001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZbzhQM1JREAE",
+        "caption": "Authentic, delicious Chinese roast items.  Roast duck is the best.  Different kinds of congee (rice porridge), and soup noodle dishes.  Highly recommended to anyone.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "R T",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115346972015053639135/reviews?hl=en-US",
+        "census_block_group": 360470120001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvNnA2T29RRRAB",
+        "caption": "Delicious Chinese roast duck, roast pork and assorted roast items.  Very reasonable priced.  Located inside a food court.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "R T",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112198774419848550295/reviews?hl=en-US",
+        "census_block_group": 360470120001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMnNyTU9BEAE",
+        "caption": "Great roasted duck, one of my favorite places to get roasted duck in NYC.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Steve Cheung",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117800710193810528648/reviews?hl=en-US",
+        "census_block_group": 360470120001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaDR6Zk1nEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Haochao Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110702952615482288042/reviews?hl=en-US",
+        "census_block_group": 360470120001
+    }
+]

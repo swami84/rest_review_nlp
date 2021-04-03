@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnOTV6UHVBRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Amarilis Valerio",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114615137986074508468/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRNHJINEF3EAE",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Xavier Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114086616554655406270/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cnMzMFZBEAE",
+        "caption": "(Translated by Google) Very good service  ; and very tasty food ..  (Original) Muy buen servicio  ; y la comida muy rica ..",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "dulce beltran",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106813319987611114230/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3emNQOW93RRAB",
+        "caption": "Fun n good food !",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "AJ Mack",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111986743279434082390/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBb05mOUdnEAE",
+        "caption": "The food is absolutely delicious and the presentation was impressing. Large portions and good service, very tentative and professional. And of cause the Latin and American music will keep you happy. I absolutely love it and have recommended it to friends and family which also had only positive things to say. Must go guys...enjoy.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Diana L Murillo",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103221121967019033595/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnZ3BqV2dnRRAB",
+        "caption": "Just a few blocks from the train and not too far from lower Manhattan where they started.  Its a fun place to dance to latin music and I heard the brunch is super good and not pricey like the city is. Check it out for eats or fun latin dance times",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Ambelique Malebranche",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117478208650138023908/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cXNiQk1nEAE",
+        "caption": "",
+        "relative_date": "10 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 4.0,
+        "username": "Wilson Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117606934369447846256/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    }
+]

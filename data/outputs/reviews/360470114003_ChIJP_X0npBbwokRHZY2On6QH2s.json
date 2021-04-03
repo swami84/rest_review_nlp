@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4djRiQTNRRRAB",
+        "caption": "Freakin lives matter!!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Mendy Werzberger",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116066761867319081206/reviews?hl=en-US",
+        "census_block_group": 360470114003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4djZDQ3BRRRAB",
+        "caption": "Freaking lives hut ess!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Yanky Werzberger",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106332469137984209707/reviews?hl=en-US",
+        "census_block_group": 360470114003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4djVETDdRRRAB",
+        "caption": "Freakin vibes!!!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "psachya krauss",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114737835111906660122/reviews?hl=en-US",
+        "census_block_group": 360470114003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjMXVTSUxREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "yidy grosinger",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116903537318417220371/reviews?hl=en-US",
+        "census_block_group": 360470114003
+    }
+]

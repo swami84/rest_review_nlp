@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMHJ5ZDVnRRAB",
+        "caption": "Very nice guy behind the counter. We were standing in line in the cold with our young one and he helpfully called one of his friends to help us warm up",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Omkar Wagh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101710344212798933052/reviews?hl=en-US",
+        "census_block_group": 360470130003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZdWQydzRBRRAB",
+        "caption": "New Deli! Food is good and cheap! Place has a good ice cream selection. Nice guy behind the counter. And open 24 Hours",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Moe Thanks -555-",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111654318848895716760/reviews?hl=en-US",
+        "census_block_group": 360470130003
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbl9qM21nRRAB",
+        "caption": "They have the duck . Food was pretty good ok prices . Gotta go back again & try some more",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "A McCarthy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116165145385916723874/reviews?hl=en-US",
+        "census_block_group": 360470084003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJek5Idk1REAE",
+        "caption": "The chef cut meat using bare hands without glove! And he washed his hands without using hand soup. It is not clean!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "first bay",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105061220622220859231/reviews?hl=en-US",
+        "census_block_group": 360470084003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRNnR6dm1nRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Kweenpisces",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105959746995561750875/reviews?hl=en-US",
+        "census_block_group": 360470084003
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcmM3cGlRRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 2.0,
+        "username": "\u4e2d\u534e\u7535\u53ec\u8f66",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103793502023204247779/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvajRPeWJ3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "bibao liu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102090390896590926244/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJelA2MC1BRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "\u950b\u950b\u738b",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113087573232204229124/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBNXY2VFR3EAE",
+        "caption": "The food is absolutely delicious. The freshest fish and seafood and most amazing dishes. Great all year round with pots or lighter fare. A hidden gem.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "jerry laster",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116140795801445623951/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMDZYQW93RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 2.0,
+        "username": "Yan fe Zhu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109642472539745892420/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBLXJUZU1BEAE",
+        "caption": "(Translated by Google) Eat it! The mandarin duck pot is so delicious.  (Original) \u5403\u8d27\u5427\uff01\u9e33\u9e2f\u9505\u592a\u597d\u5403\u4e86\u3002",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Brila Lin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106690804247512186552/reviews?hl=en-US",
+        "census_block_group": 360470108001
+    }
+]

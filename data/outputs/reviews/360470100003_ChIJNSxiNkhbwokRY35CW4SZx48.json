@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcE1EbjhBRRAB",
+        "caption": "",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Katherine Ruiz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114517848720441920888/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNE9tVFlBEAE",
+        "caption": "Good food!!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Julio Hernandez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116979417008824804788/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cmNmNVd3EAE",
+        "caption": "The food is great and delicious! The delivery was also fast. The food isn't as greasy as others.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Junior Gomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101895907819870413112/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eGJiMmxRRRAB",
+        "caption": "The portions are HUGE!!! The food tasted great and the delivery was super fast. I love the fried noodles that come with the soup! They definitely aren\u2019t stingy with the meat which is a big plus!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jennice Hyde",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109412393780337017805/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NVliTW9nRRAB",
+        "caption": "Honestly we can all say some of these restaurants are rude.. But NOT HERE the guy who picks up the phone is so nice Friendly and accommodating! I love this place .. Food is fresh and they have Super Fast delivery ! This is my new go-to spot. !!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Rain Crespo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117607401430278452456/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5M3JMSnVnRRAB",
+        "caption": "(Translated by Google) The guy who attends is really friendly and attentive speaks Spanish. I loved everything \u2764\ufe0f\u2764\ufe0f  (Original) El chico que atiende es realmente amable y atento habla espa\u00f1ol. Me encanto todo \u2764\ufe0f\u2764\ufe0f",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Georlenny Cordova",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107394786515958066602/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LXNYdUVnEAE",
+        "caption": "One of the best Chinese food i have eaten and the inside is welcoming they even have anime posters up I highly recommend this place",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Blitz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106574994450051969165/reviews?hl=en-US",
+        "census_block_group": 360470100003
+    }
+]

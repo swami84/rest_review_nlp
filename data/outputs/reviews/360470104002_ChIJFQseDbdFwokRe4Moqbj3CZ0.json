@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVaGNMS0lREAE",
+        "caption": "(Translated by Google) Good to eat @@ Go someday!  (Original) \u4e0d\u932f\u5403@@ \u6709\u671d\u4e00\u65e5\u518d\u53bb!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "\u5289\u7c73\u96ea",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116126779110964120602/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwb09qT2xnRRAB",
+        "caption": "You don't get what you ordered. I paid $13 for Banh Hoi Thi Heo Nuong (Grilled pork served w angel hair noodle, lettuce, cucumber & mint leaves). I opened the lunch box, only found grilled pork with noodle! Really disappointed!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "keyong li",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111139774932398679801/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    }
+]

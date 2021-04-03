@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwb3RMejRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Faiz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106517595887218564212/reviews?hl=en-US",
+        "census_block_group": 360470129021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZbEtQUlp3EAE",
+        "caption": "Eggplant parm was mediocre and you can't get pizza by the slice. The rice balls and mozzarella wedges were excellent!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Mike Reinitz",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101164688305470905014/reviews?hl=en-US",
+        "census_block_group": 360470129021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvNTVUMEFREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Bobby Washington",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106313907381151670305/reviews?hl=en-US",
+        "census_block_group": 360470129021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJNWVtMkVBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Brad Wolff",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111948576822630960203/reviews?hl=en-US",
+        "census_block_group": 360470129021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJM3NDSWFnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041f\u0443\u0437\u0438\u043a\u043e\u0432",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113041664642748920982/reviews?hl=en-US",
+        "census_block_group": 360470129021
+    }
+]

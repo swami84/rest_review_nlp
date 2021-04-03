@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d1p1NmJREAE",
+        "caption": "Just OK",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 2.0,
+        "username": "Aaron Tso",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101529842716166736337/reviews?hl=en-US",
+        "census_block_group": 360470106003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDd3NmNWN3EAE",
+        "caption": "Found this on uber eats, this ramen restaurant appears to be a branch of a chain that started in Flushing. The food was amazing, will 1000% order again. We tried three different broths and each was amazing and flavorful in a different way but each had the umami you expect from a quality ramen. The packaging was also well designed to separate the noodles from the broth while still keeping the noodles warm. The pork baos were also well marinated and the sauce was tangy and spicy. Very excited to find this place!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Paul Wong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106006779867177397256/reviews?hl=en-US",
+        "census_block_group": 360470106003
+    }
+]

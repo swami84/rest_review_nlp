@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5anBIVUVREAE",
+        "caption": "(Translated by Google) This place opened its door during the pandemic which means it\u2019s a fairly new restaurant. The taste of their fish had changed drastically. I wouldn\u2019t recommend this place anymore. This place opened its door during the pandemic which means it\u2019s a fairly new restaurant. It may have been a change of chef recently. The fish is not tender or fresh, and the seasoning of the soup is not good.  (Original) This place opened its door during the pandemic which means it\u2019s a fairly new restaurant. The taste of their fish had changed drastically. I wouldn\u2019t recommend this place anymore. \u8fd9\u5bb6\u7684\u9178\u83dc\u9c7c\u521a\u521a\u5f00\u5e97\u7684\u65f6\u5019\u975e\u5e38\u597d\u5403\u3002\u6700\u8fd1\u53ef\u80fd\u662f\u6362\u4e3b\u53a8\u4e86\u3002\u9c7c\u4e0d\u5ae9\uff0c\u4e0d\u65b0\u9c9c\uff0c\u6c64\u7684\u8c03\u5473\u4e5f\u4e0d\u884c\u3002",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Jinjin Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115230698203651683480/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aE82VWtnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Tracy Zhao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113462197832462023140/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeTRUTkVnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "lindan li",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102097078167001792353/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbHV5b1RREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "lin Kevin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116313321481407556607/reviews?hl=en-US",
+        "census_block_group": 360470104002
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNzRmR0d3EAE",
+        "caption": "Really crispy battered-fried fish and shrimp tacos. Eat them as soon as you get them. You will not be disappointed. I would drive across the world for these fish tacos.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Rhonda Mullins",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110825269422310806927/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdmYzSzJnRRAB",
+        "caption": "BELIEVE THE HYPE! These were hands down the best Ensenada style fish tacos I've ever had. Lightly battered (great flavor), fresh pico (green pepper - nice touch), white sauce and green salsa combo were amazing! Will absolutely come back!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 3.0,
+        "username": "Steven David",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107947340349378760050/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4cU9uZEVREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Joel Lebovits",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115961731329549923806/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjaFBiZTJBRRAB",
+        "caption": "very goof experience. I will come back with my friends",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Angela Wade",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112934992394463731533/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjZ0xpQ2hRRRAB",
+        "caption": "food here are the best",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Carolyn L. Rew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111976164100337427654/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNenVLNlp3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Connor Harris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105361518276757882619/reviews?hl=en-US",
+        "census_block_group": 360470119002
+    }
+]

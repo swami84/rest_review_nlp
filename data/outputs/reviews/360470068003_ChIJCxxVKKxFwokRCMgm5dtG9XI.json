@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ0s2R3JnRRAB",
+        "caption": "Great service great food",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "adel ahmed",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100651147437208459415/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M3M2NlF3EAE",
+        "caption": "Excellent food. The excellent people behind the counter.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Fernando Gutierrez",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110509536937174614042/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5czh5SFBREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Kiki Lin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113004178644020380718/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5czh6SXdnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Judy Pepic",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114791756889182102152/reviews?hl=en-US",
+        "census_block_group": 360470068003
+    }
+]
