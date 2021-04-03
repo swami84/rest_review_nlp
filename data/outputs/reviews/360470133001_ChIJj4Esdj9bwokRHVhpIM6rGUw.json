@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcUllc1RBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Kevin Orta",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103367330016151748469/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cFpqNTBnRRAB",
+        "caption": "Nice",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Stephen Stancil",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113923541289480586915/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MmRiYVFnEAE",
+        "caption": "Best Mexican food in the area. My go-to is the chicken enchiladas rojas, but everything I\u2019ve had is delicious. They also have a backyard - great for warmer days, especially during the pandemic.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Cameron Langford",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111602475890331415131/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MHJMT3BBRRAB",
+        "caption": "New favorite taco place in Park Slope...homemade, well-seasoned /addicting tortilla chips, flavorful but not dry al pastor and carnitas tacos that reminded me of the ones I had in Mexico...try this spot out!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Gabby Salmeron",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117481231062872427167/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LTRuYUtREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Salome Gvaramia",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117874477326727933057/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NXN1dXZRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jon Bowman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101825472690580427647/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5N09mZUhnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Chris Bate",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117401990819985498267/reviews?hl=en-US",
+        "census_block_group": 360470133001
+    }
+]

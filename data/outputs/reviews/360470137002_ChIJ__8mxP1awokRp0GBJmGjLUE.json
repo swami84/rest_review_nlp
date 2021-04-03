@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4ME9YUUp3EAE",
+        "caption": "I love this restaurant! The food is amazing and the staff are very friendly.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "claudia Fabri",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104222135745675199884/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzaWZMRDJnRRAB",
+        "caption": "Got my order wrong, didn't send parts of order, and the food made me sick \ud83d\udc4d",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 1.0,
+        "username": "Madeline Boccone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106031650681103942397/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMzlyMWFREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Kelvin Chan",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100901385347058609155/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    }
+]

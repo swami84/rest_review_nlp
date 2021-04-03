@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaHBQNWt3RRAB",
+        "caption": "Glad to see this opening, their burger is delicious",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Hamza Abusnina",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101031630038193113663/reviews?hl=en-US",
+        "census_block_group": 360470131001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjc2N2c2dBRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Fuzz Fuzz",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108858379519316048266/reviews?hl=en-US",
+        "census_block_group": 360470131001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURza05MYTJBRRAB",
+        "caption": "Agnus Burgers are very delicious! Service is great! What I don't understand is, an order of fries for $3.49 should be full. Come on guys are you counting how many fries go into an order? Not cool.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Ms Tay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111628639967062680949/reviews?hl=en-US",
+        "census_block_group": 360470131001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdWNIaHBnRRAB",
+        "caption": "The Angus Burger was very delicious and a French fries were unique and had a great taste.  The service there was very good. The person who took my order had a smile on their face.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Jacob Rosado",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107769706977389085258/reviews?hl=en-US",
+        "census_block_group": 360470131001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbnZiNlhREAE",
+        "caption": "I hope this place can open soon",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Ahnaf Jawad",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102788911050311774871/reviews?hl=en-US",
+        "census_block_group": 360470131001
+    }
+]

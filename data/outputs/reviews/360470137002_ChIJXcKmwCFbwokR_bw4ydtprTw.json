@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ODREbWpBRRAB",
+        "caption": "Really good, authentic Szechuan.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Alexander Engel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111962657337670513863/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eTdiOURnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Ryan Kuo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100231342144808616030/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5N3VianlnRRAB",
+        "caption": "Authentic Szechuan is probably my favorite Chinese food restaurant in Brooklyn. I crave the wontons in hot oil. This food is just very good and fresh and the service is always wonderful.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Gina Baldwin",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105993385564865245275/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMTVDWi1BRRAB",
+        "caption": "My favorite Chinese place! The vegetables are always fresh and when they say spicy,  they mean it. Portion sizes are generous,  too. I love the sesame noodles and spicy dumplings and mapo tofu.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Yuki J",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116021959418302995828/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDa0thaUJnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Winnie Xu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109893383796224332551/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNUpIMnNBRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Madeline Leung",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114066141248960685101/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaTdtTkN3EAE",
+        "caption": "Great food.  High quality, always hot and fresh.",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "John Parson",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110479844857999738127/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNOXItQUFREAE",
+        "caption": "Delicious food and great service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-02",
+        "rating": 5.0,
+        "username": "Lawrence and Helen Fishburne",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115123896870067385009/reviews?hl=en-US",
+        "census_block_group": 360470137002
+    }
+]
