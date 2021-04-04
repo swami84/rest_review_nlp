@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5b0tLX2NREAE",
+        "caption": "Amazing tamales",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Sonya Martines",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112244531412437882829/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaU9hY2VBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Alejandro Gomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116347702010739415500/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4NDlDZmxRRRAB",
+        "caption": "(Translated by Google) Excellent tamales\ud83d\udc4c\ud83d\ude0b  (Original) Excelente tamales\ud83d\udc4c\ud83d\ude0b",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Nayeli Juarez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108688183919674478259/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4bmZYS1h3EAE",
+        "caption": "(Translated by Google) Excellent tamales and a great variety of Mexican snacks. Very Mexican seasoning \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d  (Original) Excelentes tamales y gran variedad de antojitos mexicanos.  Sazon muy mexicanos \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Erasmo Mart\u00ednez",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105953187880199480723/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5b0lXeDN3RRAB",
+        "caption": "I sent my friends to this restaurant with my warmest recommendations. I visit this place often. This recommendation is always successful. The dishes they serve are delicious and the stuff is attentive and cooperative. always when we visit this place we have a cheerful evening.  warmly recommended.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Wilson Jensen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105597482721352142829/reviews?hl=en-US",
+        "census_block_group": 360470495001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcUpHamlnRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Sukha Singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100691742979827603230/reviews?hl=en-US",
+        "census_block_group": 360470495001
+    }
+]

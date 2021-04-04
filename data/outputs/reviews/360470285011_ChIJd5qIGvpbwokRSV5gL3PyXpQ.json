@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnc0pXZHBnRRAB",
+        "caption": "The guy is super nice. The food is delicious. I always add white sauce, hot sauce and bbq sauce on my chicken over rice and it's super delicious !",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "veronica flores",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110874989520182976797/reviews?hl=en-US",
+        "census_block_group": 360470285011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBN3VUaVZ3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "spencer amadeus wohlrab",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114146379011368363952/reviews?hl=en-US",
+        "census_block_group": 360470285011
+    }
+]

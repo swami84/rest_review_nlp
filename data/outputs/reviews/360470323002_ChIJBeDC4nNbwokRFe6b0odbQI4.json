@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbXFhVEx3EAE",
+        "caption": "",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Gaelle Castel",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107558262411416224703/reviews?hl=en-US",
+        "census_block_group": 360470323002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbFBHbnl3RRAB",
+        "caption": "Truly delicious and with reasonable prices. Try the Lalo on a Saturday afternoon! Most other spots make their Lalo with pork to cut costs but this is how I grew up having Lalo with beef and crab. Top it off with perfectly cooked white rice and bean sauce and you\u2019ve got yourself a taste of \ud83c\udded\ud83c\uddf9! The dish comes with two freshly fried plantains and piklizzzz! Just go ahead abs order already you won\u2019t be disappointed.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Jennifer Celestin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107057164620604966219/reviews?hl=en-US",
+        "census_block_group": 360470323002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LXVidnpnRRAB",
+        "caption": "The Food Was Good.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "tyreek terrell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105406348800170979635/reviews?hl=en-US",
+        "census_block_group": 360470323002
+    }
+]

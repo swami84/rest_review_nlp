@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNWEtdVlBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Eric Yin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113109195261134941293/reviews?hl=en-US",
+        "census_block_group": 360470284003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbnE3ZHJRRRAB",
+        "caption": "Its okey!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Kalai Yeung",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102460464563639664583/reviews?hl=en-US",
+        "census_block_group": 360470284003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNOXMyMmh3RRAB",
+        "caption": "Very tasty! I came here with my girlfriend from Guangzhou and she agreed it was solid Cantonese comfort food.  The food isn't special or original, but it's well executed.  The congee in particular was very flavorful and had just the right consistency.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Ryan Rodriguez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118257315022122200838/reviews?hl=en-US",
+        "census_block_group": 360470284003
+    }
+]

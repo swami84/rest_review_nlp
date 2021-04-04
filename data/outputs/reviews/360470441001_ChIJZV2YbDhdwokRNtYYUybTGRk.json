@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bW9hakNnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "semidco garlan",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116648965455515252397/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NUxIOHlBRRAB",
+        "caption": "(Translated by Google) You order the coffee that you choose because it is pleasant, delicious, I have savored the cappuccino, it beats, ecpresso ,, I like the place.  (Original) El caf\u00e9 que t\u00fa eligas lo vuelves a pedir porque es agradable , delicioso, he saboreado el capuchino, late, ecpresso,, Me agrada el lugar.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Silvia Vazquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113303986175765239229/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTLVkzei13RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Gian Luca Giovanetti",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118158785083680550762/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeEpteUJnEAE",
+        "caption": "Nice staff, really food food",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Estefania Guzman Urdaneta",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109168841672236278110/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcl9fRjF3RRAB",
+        "caption": "Excellent food and coffee. The owners are super welcoming and they are also very attentive. I love this place.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "J.C Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118142523319952209188/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMkpQUGV3EAE",
+        "caption": "Amazing coffee and food. Highly recommended, this guys are the best in the neighborhood",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Otto Dia",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117730686438119321185/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDNlA2Qm5nRRAB",
+        "caption": "(Translated by Google) As always, it is a luxury to eat here, service, quality and price are combined to make @Nativorestaurant one of my favorites.  (Original) Como siempre , es un lujo comer aqu\u00ed,  se combinan,  servicio , calidad y precio,  para hacer de @Nativorestaurant, uno de mis favoritos .",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Lucy Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101941746616914051709/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4OGRDTkRREAE",
+        "caption": "Great taco's and friendly service. Will be back soon for more.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Nate Allen",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100042869633652934094/reviews?hl=en-US",
+        "census_block_group": 360470441001
+    }
+]

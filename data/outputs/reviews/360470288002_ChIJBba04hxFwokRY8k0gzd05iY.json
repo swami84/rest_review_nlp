@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M0pQeUZnEAE",
+        "caption": "(Translated by Google) The roast duck that this restaurant used to make was delicious, but now it is very unpalatable and salty. Don't waste your money on buying things to eat here.  (Original) \u8fd9\u5bb6\u9910\u9986\u4ee5\u524d\u505a\u7684\u70e4\u9e2d\u5f88\u597d\u5403\uff0c\u73b0\u5728\u505a\u7684\u975e\u5e38\u96be\u5403\u53c8\u54b8\u3002\u4e0d\u8981\u6d6a\u8d39\u4f60\u7684\u94b1\u5728\u8fd9\u91cc\u4e70\u4e1c\u897f\u5403\u3002",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Zhenkai Weng",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111309953646808654940/reviews?hl=en-US",
+        "census_block_group": 360470288002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5b0o3U0l3EAE",
+        "caption": "(Translated by Google) I don\u2019t know the so-called takeaway claypot rice  (Original) \u5916\u8ce3\u7172\u4ed4\u98ef\u4e0d\u77e5\u6240\u8b02",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Jenny Cheung",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104293746292810722014/reviews?hl=en-US",
+        "census_block_group": 360470288002
+    }
+]

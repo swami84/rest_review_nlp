@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcnRxTzdRRRAB",
+        "caption": "\ud83d\ude0b\ud83d\ude37",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Joe Dweck",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111464578782668418070/reviews?hl=en-US",
+        "census_block_group": 360470462022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDeTVmWVl3EAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "B Jordan",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103410305926463972159/reviews?hl=en-US",
+        "census_block_group": 360470462022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzNFAtZkJREAE",
+        "caption": "Amazing food and service. The man who was upfront was very kind and the pastrami sandwich was straight out of BK delicious. I also got a plate of hot food - sausage and peppers and the portion was huge and the food was cooked perfectly. I don't leave to many reviews, but this place is a hidden gem. Oh and the prices for both items was under 15 dollars. I highly recommend this sandwich shop.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Lynette Stolz",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104320366043454928410/reviews?hl=en-US",
+        "census_block_group": 360470462022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNcmR1c1NnEAE",
+        "caption": "This was my first time having Yi's sandwich shop because someone at work ordered it, I decided why not give it a shot. That was the greatest decision of my week. The chicken cutlet hero was decadent! The chicken is seasoned to perfection, this must be what they serve in heaven",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Frank Couso",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112942672302687348140/reviews?hl=en-US",
+        "census_block_group": 360470462022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbkpMZGJBEAE",
+        "caption": "(Translated by Google) delicious very good  (Original) delicios very good",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Alberto Torres",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112523666303858487299/reviews?hl=en-US",
+        "census_block_group": 360470462022
+    }
+]

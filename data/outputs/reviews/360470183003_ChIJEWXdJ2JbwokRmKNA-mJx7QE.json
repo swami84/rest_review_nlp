@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLakl5ZlhnEAE",
+        "caption": "Excellent food and super friendly staff",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Erik Mikael",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108251276155880802134/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbE8tMW1RRRAB",
+        "caption": "Tastes like home! A really great traditional Korean restaurant that nails the classics. Highly recommended.",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Christopher Kim",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109680611901145537660/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNklPdm1BRRAB",
+        "caption": "Got the bibimbap, galbi tang and seafood pa jeon. Was not expecting it to match up with the standards I was used to in Asia, but this turned out to be a very nice surprise! Amazing flavor, clean tasting, served with care and skill. Very impressed. Best Korean food I\u2019ve had in Brooklyn so far!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "C C",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110534589089259755204/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOEpQQmVBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "zahra g",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110524719862235242563/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aWFiTG5nRRAB",
+        "caption": "The food is always well prepared and delightful, workers provides great service. I liked how neat it is and vibes. Will come visit again.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Jaxen Booth",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107777460843755846112/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M0xHMWZBEAE",
+        "caption": "The food here is great! I heavily recommend the La galbi. It was marinated perfectly, and was very juicy.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Sun Hwang",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115154330803364192205/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bk4yMFBBEAE",
+        "caption": "new korean restaurant on myrtle recently opened in long shuttered locale ...  ordered ... galbi tang (needs work), dolsot bibim bap (good especially considering it was takeout), galbi gui (tasty but pricey imho), pa jeon (a bit gummy but full of veggies) rice (i don't know why but i am partial to korean rice)  order came with ... miso soup banchan  (wanted much more of this) one korean choco pie (i like this touch and could of used another)  look forward to trying again ...",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "oscar simo de leon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105483009528630631368/reviews?hl=en-US",
+        "census_block_group": 360470183003
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M0p5UGl3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Edwin Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107563282230470340625/reviews?hl=en-US",
+        "census_block_group": 360470199003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZNnJ5N09REAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "NYE NYE",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113183869648933778195/reviews?hl=en-US",
+        "census_block_group": 360470199003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcExEczFBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Naya JACKSON",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108999433279466460714/reviews?hl=en-US",
+        "census_block_group": 360470199003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3X19URWRnEAE",
+        "caption": "(Translated by Google) Good attention and exquisite food price  (Original) Buenas atenciones y precio comida exquisitas",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Evarista Diaz",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100260765522977447194/reviews?hl=en-US",
+        "census_block_group": 360470199003
+    }
+]

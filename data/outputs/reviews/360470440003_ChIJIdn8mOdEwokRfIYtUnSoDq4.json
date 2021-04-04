@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwcmVDQlp3EAE",
+        "caption": "Wanna some fresh salami pizza?",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 2.0,
+        "username": "Yuriy Koghuch",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109886885520684530027/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdU1yTDV3RRAB",
+        "caption": "Really Really good Service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Jose Senovio",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106228258666300966457/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVamVyUHJnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "William Carrillo",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107564585200796127287/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBdmJiNlh3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Claire Notwicz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104297652591168382041/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBcmNXajdRRRAB",
+        "caption": "Cheap and tasty food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Uly Luck",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107651487476405018167/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cUpIQVhBEAE",
+        "caption": "Not bad",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Giovanny Flores",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114560179140544956207/reviews?hl=en-US",
+        "census_block_group": 360470440003
+    }
+]

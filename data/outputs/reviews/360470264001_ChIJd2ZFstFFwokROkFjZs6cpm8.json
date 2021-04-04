@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cnF2dlB3EAE",
+        "caption": "(Translated by Google) Excellent food especially the delicious pupusas I recommend it 100% i recommend this restaurant great food you wont be disappointed  (Original) Comida exelente especialmente las pupusas deliciosas lo recomiendo 100% i recommend this restaurant great food you wont be disappointed",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Arturo Soto",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107366660596138903311/reviews?hl=en-US",
+        "census_block_group": 360470264001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NU4yX2V3EAE",
+        "caption": "The food is amazing. I have ordered from here several times and everything is always very good. If you havent tried this place yet, i strongly recommend that you do, You wont be dissapointed.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Oleg Novofastovsky",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112946092580090063483/reviews?hl=en-US",
+        "census_block_group": 360470264001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTaTl5a2JBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Weimer Vel\u00e1squez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112545842496033700039/reviews?hl=en-US",
+        "census_block_group": 360470264001
+    }
+]

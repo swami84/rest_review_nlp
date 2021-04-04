@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNdVl2cmF3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Mahu Alexandru",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115792893468841927835/reviews?hl=en-US",
+        "census_block_group": 360470442001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMjRIb0RnEAE",
+        "caption": "Decorations is very nice. Waitress with a smile. Service was a little slow. Appetizer was tasty, soup was very tasty but without meat balls, as it was deckribed on the menu. Mamaliga very good, meat needs improvement big time. Overall I gave 5 \ud83c\udf1f, but please take the criticism constractivly. Good luck.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Roman Waisberg",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112916495345721252592/reviews?hl=en-US",
+        "census_block_group": 360470442001
+    }
+]

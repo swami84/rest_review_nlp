@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOTg2OC1nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Andres Saldarriaga",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104665349618128189822/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzem91WFhnEAE",
+        "caption": "Great service and food the best alcapurias in ny",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Mariselle Reyes",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118110704103825866351/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJNV9tOF9nRRAB",
+        "caption": "The best Latin food from the Caribbean",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "william bota-cortes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110790145548840221620/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZNXQ2OEZREAE",
+        "caption": "Best alcapuria in town.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "Victor Cortes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102802479899244994876/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRd0plSWl3RRAB",
+        "caption": "Great Latin food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "William Botacortes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113929554312242880532/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3dzl1RS1BRRAB",
+        "caption": "",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Ashley Romero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116878700182656564010/reviews?hl=en-US",
+        "census_block_group": 360470491002
+    }
+]

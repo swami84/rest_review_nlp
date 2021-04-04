@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdUxYb3RnRRAB",
+        "caption": "The food is great! The staff are friendly!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Corn Mo",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110422009190458241033/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MTdDZ0hBEAE",
+        "caption": "New owners there now. They are a nice family that is super friendly. The food is awesome. The flavors are spot-on! This is our new favorite Latin restaurant.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Eddy Rodriguez",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104801579683732969494/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eV9QZkFREAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Sorange Suriel",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116937100716620710961/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aHZURGFREAE",
+        "caption": "Generous portions and good food, great option in the area. They offer surplus food through Too Good To Go to fight food waste!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Mieke Houbrechts",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104295803736320871028/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpNkxuUEFnEAE",
+        "caption": "The food is DELICIOUS! I ordered the rotisserie chicken, rice and beans and plantains and it was heaven. The staff are super friendly and the place is impeccably clean. So glad they opened up in the neighborhood. Can\u2019t wait to order again",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Lisa Rubin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106342630765818726439/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpNkxyaGZnEAE",
+        "caption": "(Translated by Google) The food is very tasty  (Original) Muy rica la comida",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Gustavojesus Pineda",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117502289737982714680/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMmRHT0dREAE",
+        "caption": "The food is very good. The prices are great!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "YouAteyourDog",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116051315220584669667/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNHZmd0pREAE",
+        "caption": "Great tasting spanish food",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "jay velez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110115113891933260081/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNzVmaWt3RRAB",
+        "caption": "Never ate at a more disgusting place. It\u2019s dirty the food tastes horrible and it gave me a stomach ache. Stay away from this disgusting garbage!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "A A",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106510025863036791429/reviews?hl=en-US",
+        "census_block_group": 360470503002
+    }
+]

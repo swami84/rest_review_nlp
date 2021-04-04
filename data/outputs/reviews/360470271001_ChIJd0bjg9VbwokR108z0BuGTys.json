@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NElDQlp3EAE",
+        "caption": "New Restaurant  love The Food Friendly people, I oder 2 times already definedly must try",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Florita Benders",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105160635840608592311/reviews?hl=en-US",
+        "census_block_group": 360470271001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbWJlLUd3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Latoya Powell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102744530782377657990/reviews?hl=en-US",
+        "census_block_group": 360470271001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a1lTUm9RRRAB",
+        "caption": "Everything is so good, and taste like its home made.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "HoboAndy1",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109060748076038479327/reviews?hl=en-US",
+        "census_block_group": 360470296002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d0pLc25BRRAB",
+        "caption": "Great place for chicken and rice.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Zedi Master CLee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109568969367125879455/reviews?hl=en-US",
+        "census_block_group": 360470296002
+    }
+]

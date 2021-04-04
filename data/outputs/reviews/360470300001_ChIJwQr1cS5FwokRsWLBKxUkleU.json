@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MTV5UUp3EAE",
+        "caption": "Tortas is good .... but the tacos are nasty really a simply Mexican tacos come one !!!!!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 2.0,
+        "username": "Enjayy Xx58",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112022662851997684868/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dDhubzJnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "NYC GoogleUSA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114360082474986832894/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTeTRxRmpnRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Adam Moussaoui",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110239280869009089571/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTaUxIZGJnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Cristhian Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104213428861594900338/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    }
+]

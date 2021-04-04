@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMjR5WU1REAE",
+        "caption": "Average food. Poor service. Insolent staff and management.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 2.0,
+        "username": "Ann Schechter",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112487511320491626134/reviews?hl=en-US",
+        "census_block_group": 360470420001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNrakpPMGdRRRAB",
+        "caption": "That is Bar",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Fan Of Babar Azam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110848047733008611424/reviews?hl=en-US",
+        "census_block_group": 360470420001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZODZhUzB3RRAB",
+        "caption": "Not bad",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "M Kaba",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105579074523213263729/reviews?hl=en-US",
+        "census_block_group": 360470420001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeExQVjd3RRAB",
+        "caption": "Very nice halal food",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Reda Hamaida",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103701817435008865463/reviews?hl=en-US",
+        "census_block_group": 360470296002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNEkzTWJREAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Lawyer Mohamed Hemeida",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114582535297965168332/reviews?hl=en-US",
+        "census_block_group": 360470296002
+    }
+]

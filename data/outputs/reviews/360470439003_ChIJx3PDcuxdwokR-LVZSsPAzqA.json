@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVM2FTY0tBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Ghost12 Recon12",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102241530731227693418/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0NU1TZEVnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "melissa vargas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100102382329888779055/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZM0xhZ3pRRRAB",
+        "caption": "(Translated by Google) The best tamales in new york  (Original) Los mejores tamales en new york",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Quetzalcoatl ink Brooklyn M.G",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105422607558028519331/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    }
+]

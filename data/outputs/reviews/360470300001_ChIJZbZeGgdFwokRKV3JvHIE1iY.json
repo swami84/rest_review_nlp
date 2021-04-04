@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVdXVlMGVBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "MAHDA NIlNA SAHAL and family",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107952605476137070370/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVbDZLSkR3EAE",
+        "caption": "I regularly come by buying some food here. I like the efficient customer service and well prepared food. I recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Jaecob Hammett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100524493350356643235/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJenNHWTJnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Evi Aryanti",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112638584349361612870/reviews?hl=en-US",
+        "census_block_group": 360470300001
+    }
+]

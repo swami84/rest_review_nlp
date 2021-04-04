@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bk02X0pnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "Vidalicia Garcia",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117939888116652431383/reviews?hl=en-US",
+        "census_block_group": 360470429003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNFo3WVJnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "ZC Ykk",
+        "n_review_user": 25,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117185505158621322399/reviews?hl=en-US",
+        "census_block_group": 360470429003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdmFic293RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Yomile Lema",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113111959069966429166/reviews?hl=en-US",
+        "census_block_group": 360470429003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVajhtbmR3EAE",
+        "caption": "Everyone is always friendly, place is always clean and the food is always delicious. I eat here weekly.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "MWolf Visuals",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114195262403803214556/reviews?hl=en-US",
+        "census_block_group": 360470429003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvenVfZ3BRRRAB",
+        "caption": "(Translated by Google) A small and new place, the girl who attends is very kind, the food feels fresh and tasty, they have a variety of Mexican dishes, and fresh waters made at the moment, prices, $$, taking everything together drinks and extras, amount of food is worth it.  (Original) Un lugar peque\u00f1ito y nuevo , la chica que lo atiende es muy amable , la comida se siente fresca y sabrosa , tienen variedad de platos Mexicanos , y aguas frescas hechas al momento , los precios , $$, tomando todo en conjunto las bebidas y extras, cantidad de comida lo vale .",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Lucy Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101941746616914051709/reviews?hl=en-US",
+        "census_block_group": 360470429003
+    }
+]

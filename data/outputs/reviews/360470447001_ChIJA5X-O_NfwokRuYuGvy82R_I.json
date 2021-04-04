@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcHVlSGJnEAE",
+        "caption": "",
+        "relative_date": "10 hours ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "iticoro Hi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101133846487201658275/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2ZTM0xBEAE",
+        "caption": "Eri was super nice and helpful, the food was delicious and the ambiance pleasant .",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Estefania Guzman Urdaneta",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109168841672236278110/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5enBfZENREAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "FILE NEW TV",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106177101499090741150/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bW9XSUVnEAE",
+        "caption": "Za-Ya recently opened so I decided to give it a try. As soon as I walked in I was already impressed. It\u2019s a big open space that\u2019s well decorated and modern.  Food wise everything was a winner. The Karaage had a light and crunchy skin. The meat was very juicy. Highly recommend. I also recommend the gyoza. It was filled with beef which was different but delicious. You could tell it\u2019s made in house.  Last but not least was the ramen. I had their signature bone marrow broth ramen. Extremely rich but flavor-ful broth. The short rib was so tender and had bits of fat to add more guilty flavor. I usually don\u2019t care for the toppings but everything they added just increased the complexity and deliciousness of the flavor. Try it!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Kevin E",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105655630533285176975/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    }
+]

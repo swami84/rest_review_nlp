@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LVp1cF93RRAB",
+        "caption": "My family loves the small steamed buns as well as the Ta Bao. Nice discount when purchasing 2 lg bags of small buns. Language barrier doesn't prevent communication if one is patient.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "Mitchell Woo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103297652477209607586/reviews?hl=en-US",
+        "census_block_group": 360470210003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdS0yYldnEAE",
+        "caption": "Delicious food near my house. Fujianese taste.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Ziya Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108027125030350829191/reviews?hl=en-US",
+        "census_block_group": 360470210003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVbzVEVUFnEAE",
+        "caption": "What you see is what you get. I did not see any menus, plus the staff speaks Chinese. Small little shop with very limited seating. I came for some steamed buns filled with meat, they have vegetarian options as well.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Amy Ng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105610173382842325500/reviews?hl=en-US",
+        "census_block_group": 360470210003
+    }
+]

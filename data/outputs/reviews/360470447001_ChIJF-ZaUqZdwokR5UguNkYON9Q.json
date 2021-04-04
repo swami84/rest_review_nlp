@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NmVYdFFBEAE",
+        "caption": "(Translated by Google) Delicious \ud83d\ude0b  (Original) Delicioso \ud83d\ude0b",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Carlos Guerrero",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106718969693485971917/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OE5DMUpREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Luke L",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118360525442511673721/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cGVyODd3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "nestor rojas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113519951664156648360/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OXNITWFnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Cole Erickson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108556481975416560814/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpNVB2bENnEAE",
+        "caption": "Consistently awesome. Grab a torta every time I pass by.  Don\u2019t forget to tip.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Vernon McGhee",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105694942600430698957/reviews?hl=en-US",
+        "census_block_group": 360470447001
+    }
+]

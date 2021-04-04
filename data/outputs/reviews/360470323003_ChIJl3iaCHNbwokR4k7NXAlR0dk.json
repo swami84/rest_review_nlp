@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjc0pySlhBEAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "MAMADOU DIALLO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105662584127481227518/reviews?hl=en-US",
+        "census_block_group": 360470323003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVMWRQdVdREAE",
+        "caption": "Good place for breakfast",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Oliver Frazier",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110470966726592461824/reviews?hl=en-US",
+        "census_block_group": 360470323003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURraTZiWDBRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Omar Gomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111478793432733521317/reviews?hl=en-US",
+        "census_block_group": 360470323003
+    }
+]

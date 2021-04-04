@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLXNiaDNRRRAB",
+        "caption": "Good customer service and got and fresh food",
+        "relative_date": "21 hours ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Everton Boothe",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109839368044191481440/reviews?hl=en-US",
+        "census_block_group": 360470285021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpeXUyU3RBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "princess Bernard",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103316255932811477506/reviews?hl=en-US",
+        "census_block_group": 360470285021
+    }
+]

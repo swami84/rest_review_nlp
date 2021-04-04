@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLb3J5aFJBEAE",
+        "caption": "This place is great! Got chicken tacos, cauliflower platter and chips and guacamole and they were all excellent. I\u2019m not a vegetarian but I will definitely order the cauliflower for a meal again.",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Adam Sacks",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101875528719223728396/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcExhcjhnRRAB",
+        "caption": "Great tacos- the veggie cauliflower was GREAT. Chips and guacamole were \ud83d\udc4c\ud83c\udffcCan\u2019t wait to try the rotisserie chicken!",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Angelique Freking",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106930534904563224055/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLU43VEdnEAE",
+        "caption": "",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Hannah Lewman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109338273678374747103/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLUx6MUp3EAE",
+        "caption": "Had the rotisserie cauliflower, which was incredibly crispy, flavorful and satisfying. It's always nice to have a place where the vegetarian/vegan options don't feel like consolation prizes. Have a family member with a gluten allergy, so the fact that the whole menu is GF/DF makes it even better!  The chile plantains are a MUST ORDER! Next time I'm ordering a large!  Chips and salsa was small, but delicious. You can tell that this is the kind of place that makes everything with care, down to the sauces.  If you get one of the combos and are sharing with another person, consider ordering extra tortillas!",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Rachel Benner",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100101131274088968505/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNktiNlpBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Coleman Craddock-Willis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107407680693257673780/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcUlIcmp3RRAB",
+        "caption": "Ordered on the first opening day. Loved the food!! Authentic Mexican! Look forward to new options!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Sandra Trujillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114331100171160601407/reviews?hl=en-US",
+        "census_block_group": 360470155003
+    }
+]

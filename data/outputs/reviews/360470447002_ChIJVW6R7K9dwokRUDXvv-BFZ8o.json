@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNHVpTHV3RRAB",
+        "caption": "ordered take out and the burger was raw and fries cold. Super lame.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "Zeke Weber",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109689905708716723169/reviews?hl=en-US",
+        "census_block_group": 360470447002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNmJQOG5BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Andy Van Dinh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104575396013669430855/reviews?hl=en-US",
+        "census_block_group": 360470447002
+    }
+]

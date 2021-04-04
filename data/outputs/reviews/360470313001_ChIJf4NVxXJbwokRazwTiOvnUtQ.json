@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJOHQtMXRnRRAB",
+        "caption": "I come here nearly every day for my morning egg and cheese. Sometimes for lunch too. It\u2019s perfect. Alex, the fry cook, is the finest in all the land. It\u2019s right next to two high schools so expect a crowd.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Gabriel Barab",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100909485701807252120/reviews?hl=en-US",
+        "census_block_group": 360470313001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBdjRxeVhnEAE",
+        "caption": "Amazing place with great deli food and anything else you may need for lunch f During work or on the go.  The staff is incredible and the food is betyer than most other bodegas in the area.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "B. Sullivan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110594984346250857642/reviews?hl=en-US",
+        "census_block_group": 360470313001
+    }
+]

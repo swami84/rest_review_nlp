@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2RLclRBEAE",
+        "caption": "They have Hagen Daaz Caramel Cone ice cream :\u2019)",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Shelli Weiler",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116203309006854663284/reviews?hl=en-US",
+        "census_block_group": 360470305004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeEotVjdnRRAB",
+        "caption": "Love this place",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Ben Goodsell",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105699996497858673919/reviews?hl=en-US",
+        "census_block_group": 360470305004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrNk1IY0hREAE",
+        "caption": "Great \ud83d\udc4d \ud83d\udc4d \ud83d\udc4d \ud83d\udc4d place and food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "R Washington",
+        "n_review_user": 203,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104123910886424014198/reviews?hl=en-US",
+        "census_block_group": 360470305004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnb3RmV3h3RRAB",
+        "caption": "Great good",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Alexander Pitt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111329029999249192054/reviews?hl=en-US",
+        "census_block_group": 360470305004
+    }
+]

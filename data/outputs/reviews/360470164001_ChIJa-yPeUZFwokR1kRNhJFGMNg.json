@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcGY3X0Z3EAE",
+        "caption": "Very yummy",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Brandon Kreimeyer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102186481852523333091/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpOGJHUWZREAE",
+        "caption": "The best coffee on post Fort Hamilton",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Chiyuan Yang",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109463218511853354037/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDcXE3NFJnEAE",
+        "caption": "This location is clearly open during this 4th Phase of NY re-opening after Covid-19. Reduced staff due to low traffic, but what staff there is is WONDERFUL! My 1st time at Einstein Bros the lady who helped me was very patient & explained the dif btwn 2 sandwiches & helped me to customize my meal perfectly. Nice \ud83d\ude0a",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "Deborah Lowe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114745285727901605850/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNZzZDcGZBEAE",
+        "caption": "A much needed food and coffee option located in Ft Hamilton. Management needs to be improved, as often, no one is available at lunch time to take orders. Also, amazingly, not many types of bagels are left at lunchtime.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Larry CJ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108043914240788337443/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVNXJqb253RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Fatima Muhammad",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100633546934230704328/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVX01DVjlBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Roomana Iram",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102319537438171096424/reviews?hl=en-US",
+        "census_block_group": 360470164001
+    }
+]

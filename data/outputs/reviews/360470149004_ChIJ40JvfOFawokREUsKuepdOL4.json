@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwN2ZTQXV3RRAB",
+        "caption": "The food is fantastic the atmosphere the same what more can you ask for you can watch your favorite sports eat and they have a full BAR the drinks are amazing also try it you won't be disappointed I promise",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Paul Bavaro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113411041061439465849/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVNDhQQ3NnRRAB",
+        "caption": "Bad",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Valeria Eugenia Likhova",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108298099902270396998/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVcllEbGtBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "Sammi Lira",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112679263221294008475/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZMV95QWhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "robert mcrae",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114138099152039030537/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJc1otNE1REAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Andrea Cabello",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116755657634260031186/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNneU5QS3ZRRRAB",
+        "caption": "New South Slope restaurant with good Italian cuisine at a great value and a nice wine list. Try the tiramisu or nocciola for dessert.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "Michael Rothman",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116079236238397653063/reviews?hl=en-US",
+        "census_block_group": 360470149004
+    }
+]

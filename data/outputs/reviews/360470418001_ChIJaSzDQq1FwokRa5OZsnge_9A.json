@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLc09MY1ZBEAE",
+        "caption": "Great salads, quick and easy way to be healthy!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Stella Ftiha",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114654213475705794579/reviews?hl=en-US",
+        "census_block_group": 360470418001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NzZmNDRnRRAB",
+        "caption": "This place is horrible. I would never come back here. I found hair in my food and the people who where making my food didn\u2019t even have gloves on. I am very disappointed.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "aleena imtiaz",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111974411924262409723/reviews?hl=en-US",
+        "census_block_group": 360470418001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ejVfSGRBEAE",
+        "caption": "Delicious",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "ebrahim saif",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107226877375747051828/reviews?hl=en-US",
+        "census_block_group": 360470418001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eC1fN2lnRRAB",
+        "caption": "Amazing salads and dips!! Would totally recommend!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Vices Hall",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113168771123164520214/reviews?hl=en-US",
+        "census_block_group": 360470418001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNk4zcUZREAE",
+        "caption": "Awesome .....",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "M M",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104786729942368239114/reviews?hl=en-US",
+        "census_block_group": 360470178001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MDRyZlR3EAE",
+        "caption": "New Mexican restaurant and bakery in Bensonhurst. I ordered the breakfast burrito and camarones al gusto which were delicious. Looking forward to try more of their dishes. They also make custom cakes that looked impressive in the photos. Los Angelitos is a welcome addition to the area.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Charlie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111021807696244043445/reviews?hl=en-US",
+        "census_block_group": 360470178001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MDVfU2xRRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Los angelitos bakery 86",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109188948495549378702/reviews?hl=en-US",
+        "census_block_group": 360470178001
+    }
+]

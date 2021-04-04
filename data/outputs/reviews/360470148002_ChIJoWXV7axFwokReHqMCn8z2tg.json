@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOHFYT0VREAE",
+        "caption": "Friendly atmosphere",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "George Schuller",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113344118708858936023/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cXFyOXlRRRAB",
+        "caption": "Food is so delicious and yum",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Charles Isaiah",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100520744019346773444/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5Z0llNVB3EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Frankie D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111022606275147803765/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbHR1SVl3EAE",
+        "caption": "excellent restaurant, tasty food, friendly staff.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 4.0,
+        "username": "Fraser Is awesome",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116775824126273668105/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTd3F6RUlnEAE",
+        "caption": "A must visit!!!!!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Alexander Lozano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117057558082417078136/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdWF5c0JBEAE",
+        "caption": "A wonderful lunch with fantastic food and service!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Wendy Keegan",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108628198100364315578/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjaXJfUmJ3EAE",
+        "caption": "First, no men work here or have, not sure what the other guy was talking about. We eat here as often as possible. The girls are awesome and the food is even better!",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Bay Head",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111252701453940692648/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzX05TSDF3RRAB",
+        "caption": "Local cozy and casual place for a quality,fresh, homemade Italian meal. BYOB (for the moment)",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Susan Torrone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107985473542167365468/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbHNuZXNBRRAB",
+        "caption": "Bad services,  the guy in the front door is like  racist.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Daniel Garcia",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100445505505125547759/reviews?hl=en-US",
+        "census_block_group": 360470148002
+    }
+]

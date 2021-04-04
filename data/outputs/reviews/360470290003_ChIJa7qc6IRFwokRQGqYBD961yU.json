@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDb0ludDRBRRAB",
+        "caption": "Ordered food from here, chicken Lo mien smelled fishy and like tap water, chicken was bouncy. Gave us curry chicken instead us chicken an garlic sauce. The price was way to high for the quality food. General tso tasted like honey barbecue.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Anthony Morales",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114119976506713348974/reviews?hl=en-US",
+        "census_block_group": 360470290003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBaHNhOTN3RRAB",
+        "caption": "Excellent food and service. Very friendly people. What more do you need!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Will Lam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102435987334081268249/reviews?hl=en-US",
+        "census_block_group": 360470290003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRd29fZmZREAE",
+        "caption": "Food is delicious and worth it for its price. Clean setting with friendly workers. Would definitely come back for dinner.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Andrew Chan",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115041249864293499920/reviews?hl=en-US",
+        "census_block_group": 360470290003
+    }
+]

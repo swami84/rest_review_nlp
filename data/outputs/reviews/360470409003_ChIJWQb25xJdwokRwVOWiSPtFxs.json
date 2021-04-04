@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cnNlSk13EAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Gema Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112123849405139843465/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcC02eDJnRRAB",
+        "caption": "I often take my friends to this place with my highest recommendations. I  go to this restaurant often. I get very good feedback from my friends. The the cooking is appetizing and the team is efficient and cooperative. Whenever we eat in this place we have a lovely time.  I warmly recommend this restaurant.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Malakai Conner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104255495589316219748/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpczl1dl9RRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Gavin Zhang",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115873824098461348828/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpa2RQRVlnEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Huijun Gao",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100984412941447251147/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpak55UzBBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "Shyla Toney",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108430277145491412280/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMnBpdHB3RRAB",
+        "caption": "I had a great  in this spot. We enjoyed the amazing vibes and the menu. The waiters were super affable. I\u2019m content we eventually managed to eat here.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Trenton Shaffer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113471482070717606895/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbTVyaTJnRRAB",
+        "caption": "I miss the food",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Idk Man",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114699864312472841245/reviews?hl=en-US",
+        "census_block_group": 360470409003
+    }
+]

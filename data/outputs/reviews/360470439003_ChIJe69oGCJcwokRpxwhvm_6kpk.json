@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDc3WjJnRRAB",
+        "caption": "Does anyone know what happened to the cart? It has been MIA, and I need the momo.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Edana",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104498798627541099136/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpOXBxNUZREAE",
+        "caption": "Really enjoyed the Momos from this little stand in Ridgewood. Had the beef and looking forward to trying the chicken and veg next time I'm in the area.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Dominic Mangonon",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110379289805804539412/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeTl2cEpBEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Liesl G.",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115893587866343290642/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMTZIcEJBEAE",
+        "caption": "Delicious dumplings! Tried the beef and chicken, 8 for $6.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Christian Magno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106101123462308702171/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZMThiSkFnEAE",
+        "caption": "Delicious!  Hot sauce is really hot.  I always get the vegetable momos.  Quality is consistent.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Michelle Lc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109116681065939211659/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbThMQlFBEAE",
+        "caption": "Really tasty food for a great price!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Haven Miller",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101288151065225231033/reviews?hl=en-US",
+        "census_block_group": 360470439003
+    }
+]

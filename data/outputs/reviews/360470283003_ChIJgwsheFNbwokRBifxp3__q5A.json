@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNkl5NzJBRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "latoya walker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101676133428543443213/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dHJhTWNnEAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Alberto Velandia Puentes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118215918592132389550/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMmVyZ0tREAE",
+        "caption": "Food is delicious!!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "milly tejada",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107681062221519392964/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    }
+]

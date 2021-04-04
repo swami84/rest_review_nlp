@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZa3ZHNzl3RRAB",
+        "caption": "Best Pakistani food and banquet hall good enough for 200 people gathering",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Babar Khan",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109114387405937866432/reviews?hl=en-US",
+        "census_block_group": 360470492003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvNy02UkRREAE",
+        "caption": "I visited Gourmet Banquet with my friends to attend a birthday party and we had great experience and fun. The part hall is very spacious and well decorated, food was excellent and staff is highly professional. I will highly recommend this place.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Waseem Ahmed",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104863779443054020641/reviews?hl=en-US",
+        "census_block_group": 360470492003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvNzR5TllBEAE",
+        "caption": "Awesome ambiance, great food, superb service.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "House Of Hostings",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117948427768129629431/reviews?hl=en-US",
+        "census_block_group": 360470492003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvcklqZy1BRRAB",
+        "caption": "My cousin had his (Pakistani) wedding here. Best Pakistani food you will find in Brooklyn.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "maryam khan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116003260905612352952/reviews?hl=en-US",
+        "census_block_group": 360470492003
+    }
+]

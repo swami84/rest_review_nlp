@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDVQNjV3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Angel Balbuena",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113227568460830101453/reviews?hl=en-US",
+        "census_block_group": 360470215002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNnBTcTZRRRAB",
+        "caption": "I ordered for pick up about a week ago, I bought a few special rolls and an order of general tso's chicken. You won't be disappointed because the flavor of the chicken isn't something you can get at any chinese restaurant also even after bringing it home it's still crispy. The rolls are extremely good especially with the chef's special sauces on top also the homemade lemon tea that I bought was also one of a kind. It wasn't too sweet nor was it too sour.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Felicity Lin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111156019799512292637/reviews?hl=en-US",
+        "census_block_group": 360470215002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcW8tS1JnEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "chen sandy",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109094765842075299381/reviews?hl=en-US",
+        "census_block_group": 360470215002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcXJmQTVRRRAB",
+        "caption": "Love the food here! I have been eating here for years and their fried dumplings and General Tso\u2019s never disappoint.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "James Macdonald",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112232382046053966570/reviews?hl=en-US",
+        "census_block_group": 360470215002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwZ2NfT1RBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Alvin Cheung",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108564407547168682654/reviews?hl=en-US",
+        "census_block_group": 360470215002
+    }
+]

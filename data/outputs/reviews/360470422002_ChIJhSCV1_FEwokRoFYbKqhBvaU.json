@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb29MQWp3RRAB",
+        "caption": "I get to eat here a lot since I work right next to it. I have to say the customer service is always fantastic and they keep the place well organized at all times. Rates are fair and they serve big portions.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Camden Farmer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101557704574941062254/reviews?hl=en-US",
+        "census_block_group": 360470422002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMzR6R3l3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Jefferson Mcdade",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110629729788659470595/reviews?hl=en-US",
+        "census_block_group": 360470422002
+    }
+]

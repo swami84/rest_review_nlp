@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MzZDSkpREAE",
+        "caption": "Best charif tomato dip",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Joshua Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107080093185431983633/reviews?hl=en-US",
+        "census_block_group": 360470235001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cE9haEZnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Danniel D",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112679056446887313534/reviews?hl=en-US",
+        "census_block_group": 360470235001
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNE51VlFREAE",
+        "caption": "The barbecue pork was probably the best I had in a very long time. That and the mixed rice was mouthwatering.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Ulices Miranda",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111239925248337105435/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdmFfYU9REAE",
+        "caption": "I ordered delivery and was missing 1 item. That is a whole $7.99. When I called, I got no answer. Shameful.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 2.0,
+        "username": "Roblox Cool kids",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113989557210829013576/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjc2NUV0RREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Denielle Morrison",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118138608895965161141/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjd0pYUzVRRRAB",
+        "caption": "Their fried chicken the best",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Catherine D. Sims",
+        "n_review_user": 31,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114755228824197403924/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOExLeE1BEAE",
+        "caption": "(Translated by Google) I loved  (Original) J'ai aim\u00e9",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 5.0,
+        "username": "Abraham Ilboudo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110882835109236811724/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvaHZ5RWF3EAE",
+        "caption": "They food was nasty",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 1.0,
+        "username": "Blessedbeyond measures",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106250672762126442789/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJN0xqeFVREAE",
+        "caption": "A find place to grab a bite to eat with friendly staff and good price.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 3.0,
+        "username": "Ildiko P",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111928491167867045137/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnd2VXdHRBRRAB",
+        "caption": "I got Food poisoning from something I ate and had to seek medical Attention. When I  eat from there I get diarrhea",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-03",
+        "rating": 2.0,
+        "username": "Jessica Lewis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113068700166638077801/reviews?hl=en-US",
+        "census_block_group": 360470283003
+    }
+]
