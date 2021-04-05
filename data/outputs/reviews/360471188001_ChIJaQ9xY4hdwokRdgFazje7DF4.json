@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNczVlYm9RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Dave Kim",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102059374144944793748/reviews?hl=en-US",
+        "census_block_group": 360471188001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvX2Y3eTNnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Mohammad Khan",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117533021954696988996/reviews?hl=en-US",
+        "census_block_group": 360471188001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncXJEd3dRRRAB",
+        "caption": "not bad test chicken over rice good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Tahir Hussain",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116052024422481077259/reviews?hl=en-US",
+        "census_block_group": 360471188001
+    }
+]

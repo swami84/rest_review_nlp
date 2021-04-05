@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpa3YyTmh3RRAB",
+        "caption": "Kenneth went with his girlfriend",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Kenneth aka boot Cooper",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114345313085733780415/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4aWUzZ193RRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Nathaniel Boone Jr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100711012286967513772/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFM09fOU1BEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Franklyn Irvin",
+        "n_review_user": 72,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115192560091986128617/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0eExyN3p3RRAB",
+        "caption": "The food was fine but the service is slow and the surrounding area is dim and dismal",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Gary L",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110257046147135772449/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3Z3Zia1lBEAE",
+        "caption": "Fast service teste food like it",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Santosh chhetry",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102811105597916519377/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBM18yVjFBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jennifer Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106843365913127291220/reviews?hl=en-US",
+        "census_block_group": 360471104002
+    }
+]

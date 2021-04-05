@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdFBuU1Z3EAE",
+        "caption": "I call this outstanding restaurant every couple of days  as I love the ambiance that is outline this restaurant. The team is exceptionally cordial and experienced. The service is absolutely efficient. Not to mention, the food they cook is perfect. I have been there often and I was never disappointed. The cost is modest. I highly recommend this restaurant to to everybody.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Andrew Sroka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100233609667900350841/reviews?hl=en-US",
+        "census_block_group": 360593036002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MXRIdVFnEAE",
+        "caption": "The place serves big portions and for fair pricing. kind owner. Kudos.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Pedro Guzman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103451935364369973553/reviews?hl=en-US",
+        "census_block_group": 360593036002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbmRUQnRRRRAB",
+        "caption": "This is my new favorite go to pick up spot! This place is authentic and so tasty! The chicken burrito is amazing. Also, we love their tacos with rice and beans on the side. Awesome local spot that you must try!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Audrie Aponte",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108563255143740324075/reviews?hl=en-US",
+        "census_block_group": 360593036002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4dHBLWXJRRRAB",
+        "caption": "Really terrible place!! They are deceiving, they changed the price on the spot! I ordered online and went to pick up for lunch, I saw the pricing online and when I got there to pick up my food, they increased by more than 50%!! They didn\u2019t tell me over the phone. They also don\u2019t have any pricing on the menu at the place. I guess they\u2019ll keep coming up with pricing as it suits them, doesn\u2019t matter to them. I was left without food and lost my lunch time driving. They didn\u2019t even honor the price as it says on their website!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Farhana Islam",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100050756986610960680/reviews?hl=en-US",
+        "census_block_group": 360593036002
+    }
+]

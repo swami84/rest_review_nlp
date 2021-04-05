@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0cUtHejhnRRAB",
+        "caption": "Not bad",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "Xori Piero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107090381965492005423/reviews?hl=en-US",
+        "census_block_group": 360470510022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnb29fNi1nRRAB",
+        "caption": "They charged me 10 dollars for pernil with rice and beans and a soda. The menu said 6.50 for the pernil, and cheap spanish sodas don't cost 3.50.  Pernil was okay, but I've had better.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "William O'Leary",
+        "n_review_user": 47,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100186043109607807357/reviews?hl=en-US",
+        "census_block_group": 360470510022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3MS1QWkJREAE",
+        "caption": "Great food, nice people, low key vibe",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Nylon Vandelia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110331517855222333695/reviews?hl=en-US",
+        "census_block_group": 360470510022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dXFQLUtnEAE",
+        "caption": "Svc, timeliness, food quality.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "CF Sanders",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103310571027329020698/reviews?hl=en-US",
+        "census_block_group": 360470510022
+    }
+]

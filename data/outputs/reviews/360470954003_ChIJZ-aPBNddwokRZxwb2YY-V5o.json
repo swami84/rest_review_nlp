@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dG96VVF3EAE",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Clerveau Judlin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117218720723491119724/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5d2ZuQkp3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "John King",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105451737912547612027/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpamNtUlFBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "saniyah brown",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113487179133676638735/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbS1lMXZRRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Joshua Maynard",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110129917962512165784/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMmJPcDZRRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Eldyn Cayo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111699395158847178996/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjcXJUbm93RRAB",
+        "caption": "Good",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "christopher official",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114556312529674370548/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNamMzNXBRRRAB",
+        "caption": "bad food jk",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "sabbah ilahi",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115953394521864345453/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNanFXc1dREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Angel Rouge",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109395820789976485076/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNc05hRFdREAE",
+        "caption": "every time i got food delivered the delivery guy would light a cigarette while walking to my door.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Jakiera Forde",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100926425032785029304/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwOWMzaEx3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "D'Andra Oxley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101756054702041377193/reviews?hl=en-US",
+        "census_block_group": 360470954003
+    }
+]

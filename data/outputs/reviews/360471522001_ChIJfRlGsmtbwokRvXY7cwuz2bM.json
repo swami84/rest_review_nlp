@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpX0liS3BnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Gamal Alammari",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115941449734077151390/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcHZqcGFREAE",
+        "caption": "Very tasty overall, but the queso flameado seemed like the wrong kind of cheese, and the tortilla soup was spicy, which was strange to me.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Teddy Wenneker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115615810682284875688/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4dF9TZjNBRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Spencer Kurn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117470662969962329888/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNOU9mX1J3EAE",
+        "caption": "The best grub hub delivery food ever!!! I almost feel like I\u2019m in Oaxaca, yum yum \ud83d\ude0b!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Kyla Quinn",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109813326999934201223/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNOUtlaHBRRRAB",
+        "caption": "Really good, well worth it. Happy to have it in the neighborhood!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Pat Noonan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116262370846710932774/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwb0txUTNRRRAB",
+        "caption": "Ordered through Seamless. My girlfriend loves Jarritos tamarind, which they forgot and refused to bring it because \"they were about to close\", even though it's just a bottled drink.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Brian Nicholls",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118138120110615524293/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOUxDY0h3EAE",
+        "caption": "Wonderful food, wonderful atmosphere and service, wheelchair accessible AF.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Laura Tuthall",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108840141851281244937/reviews?hl=en-US",
+        "census_block_group": 360471522001
+    }
+]

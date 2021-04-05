@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHBHbHdRRRAB",
+        "caption": "Food taste \ud83d\ude0b",
+        "relative_date": "7 hours ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Tahir Hussain",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116052024422481077259/reviews?hl=en-US",
+        "census_block_group": 360471190002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNGR1Nk5REAE",
+        "caption": "They sell boba tea!!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Persona",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101291370600787304364/reviews?hl=en-US",
+        "census_block_group": 360471190002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwcU5MaTN3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "\u09a6\u09c7\u09b6\u09c7\u09b0 \u09aa\u09cb\u09b2\u09be \u09ac\u09bf\u09a6\u09c7\u09b6\u09c7",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100561693941170423868/reviews?hl=en-US",
+        "census_block_group": 360471190002
+    }
+]

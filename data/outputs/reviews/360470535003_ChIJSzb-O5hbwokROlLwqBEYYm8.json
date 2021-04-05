@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbHRxYTRBRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "M Glanz",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111809777834856876651/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NDhEeE93EAE",
+        "caption": "(Translated by Google) Very great kindness !!!  (Original) \u05d7\u05e1\u05d3 \u05d2\u05d3\u05d5\u05dc \u05de\u05d0\u05d5\u05d3 !!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "\u05e1\u05e4\u05e8\u05d9 \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116211909384459307985/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5by1HcWt3RRAB",
+        "caption": "(Translated by Google) In the name of R. Yeshai in R. Moshe ..  (Original) \u05dc\u05e2\"\u05e0 \u05e8' \u05d9\u05e9\u05e2\u05d9' \u05d1\"\u05e8 \u05de\u05e9\u05d4..",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "David Weiss",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101054275583332549347/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTby1xT3RnRRAB",
+        "caption": "(Translated by Google) Charitable righteousness  (Original) \u05e6\u05d3\u05e7\u05d9\u05dd \u05d1\u05e2\u05dc\u05d9 \u05d7\u05e1\u05d3",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "\u05de\u05e9\u05d4 \u05d1\u05e8\u05d2\u05e8",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108866999340757233958/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMUo3d19BRRAB",
+        "caption": "The food is delicious, the staff there are very kind and helpful, if you are hungry and in the area stop by and enjoy a good and warm meal",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Aron Gross",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104244280865261971265/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMUtiM0dnEAE",
+        "caption": "Food is amazing the accept every  members only",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Cheskel Lebovits",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117356017267101563724/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVeUpXQ3FnRRAB",
+        "caption": "It's a very Good soup kitchen in memories of rabbi from a little village in \u05e7\u05e2\u05e8\u05e2\u05e1\u05d8\u05d9\u05e8  The soup kitchen is for members only that's very good food very warm welcome in very special hosting skills",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "you rabbi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110667622012427969352/reviews?hl=en-US",
+        "census_block_group": 360470535003
+    }
+]

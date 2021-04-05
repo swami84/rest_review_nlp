@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN1lTdXBBRRAB",
+        "caption": "Safe and sound",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Melanie Valle...",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100998699707124746644/reviews?hl=en-US",
+        "census_block_group": 360470884003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNEl5MlFnEAE",
+        "caption": "Good taste",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Lydia Zhu",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100920968355457365907/reviews?hl=en-US",
+        "census_block_group": 360470884003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeVp5dGtBRRAB",
+        "caption": "Good track",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "ortiz jose",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112830541978815031173/reviews?hl=en-US",
+        "census_block_group": 360470884003
+    }
+]

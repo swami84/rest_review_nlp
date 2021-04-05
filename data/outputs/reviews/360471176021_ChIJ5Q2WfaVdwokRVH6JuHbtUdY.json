@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbHNtQjB3RRAB",
+        "caption": "",
+        "relative_date": "21 hours ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Unidos En Oracion La Voz De Maria",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111022082755521225326/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MWNYUXhnRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Angel Amador",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100391834432526507302/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cFlxek5REAE",
+        "caption": "(Translated by Google) I loved!  (Original) Me encant\u00f3!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Patricia Saint-Hilaire",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117567071797144737333/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dk1PeVR3EAE",
+        "caption": "(Translated by Google) Caroooooo  (Original) Caroooooo",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Jose De jesus",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102207872783365750499/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bHZ2NF93RRAB",
+        "caption": "Best Chimis and patacon I ever had. All the rest of the menu are good too.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "JR Rivas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104751929829863859949/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpMGRxVDBRRRAB",
+        "caption": "Food is always good and fresh \ud83e\udd24\ud83d\ude4c",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Elvin Caba",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100015989041388248054/reviews?hl=en-US",
+        "census_block_group": 360471176021
+    }
+]

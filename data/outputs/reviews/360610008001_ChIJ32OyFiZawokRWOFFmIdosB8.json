@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaktpRFl3EAE",
+        "caption": "This is my favorite Chinese restaurant. No other restaurant could change this one. Delicious food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "KENTAUR STUDIO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105289310817536305531/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBay12S3hBRRAB",
+        "caption": "(Translated by Google) salmon  (Original) laksjsjs",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "jasting farhad",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112725150888188646828/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbGFQQ3l3RRAB",
+        "caption": "You really need to try to get downstairs basement fast .  food downstairs is really really good there is Chinese oriented fuzhounese food , it's better than any other store around it ,.i will take some picture",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "David Lin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108849562541444136500/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OC1uZnFRRRAB",
+        "caption": "Very unique omakase experience   , fish was extremely fresh , presentation was a 10 as well .....already made another reservation for next week!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "NICK OHAYON",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102370263267026787263/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cGNQWGlRRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Elan Badalov",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102114945439129501284/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    }
+]

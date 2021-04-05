@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLa0tPRmxBRRAB",
+        "caption": "Gyro with chicken is amazing !",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Sencillo Mejia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107620903593806851972/reviews?hl=en-US",
+        "census_block_group": 360594098001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTLWVPaGt3RRAB",
+        "caption": "Food was prepared to order.  It was fresh, plentiful and tasted delicious. I was able to pay by card, too. The chef/cook was friendly.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Dale Gangaram",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116982027552231954367/reviews?hl=en-US",
+        "census_block_group": 360594098001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTMG9LZU1nEAE",
+        "caption": "Very Delicious and Good Food.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ahsan Latif",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117106070492254321367/reviews?hl=en-US",
+        "census_block_group": 360594098001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMjRXTGJBEAE",
+        "caption": "Amazing food",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Faisal Javed",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106573027558269423808/reviews?hl=en-US",
+        "census_block_group": 360594098001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNDdmazBRRRAB",
+        "caption": "Best halal food",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Manzoor Hussain",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113332449482706162971/reviews?hl=en-US",
+        "census_block_group": 360594098001
+    }
+]

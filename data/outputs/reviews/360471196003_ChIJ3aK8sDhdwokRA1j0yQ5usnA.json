@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNHRxTkhREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Solomon Ross",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106969590139330174581/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bjdtTFd3EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Charles R Davis II",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105633940442436540075/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOFpDT2NnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Luis Santos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116285154360907185172/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdHJIaUhnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Manuel 70",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102322487572521682147/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdHRIc2ZBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Tony Montana",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103910630978154796636/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzaWQtWTFnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Scarlet Santos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101935047402336606449/reviews?hl=en-US",
+        "census_block_group": 360471196003
+    }
+]

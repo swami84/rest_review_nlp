@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVcjZIX1l3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Soso Chickaling",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110156921905827958998/reviews?hl=en-US",
+        "census_block_group": 360470854002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNrc3ZxZDJ3RRAB",
+        "caption": "My place good for Friday after work",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Garth Moore",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101687887699505187761/reviews?hl=en-US",
+        "census_block_group": 360470854002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJdGNmeFBnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Michael Melville",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101705749445656931733/reviews?hl=en-US",
+        "census_block_group": 360470854002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnNHVEZDR3RRAB",
+        "caption": "My base",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Monica Gill",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102946083975933444370/reviews?hl=en-US",
+        "census_block_group": 360470854002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJbk9uZVlnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Dale Ramsay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114189848946712042261/reviews?hl=en-US",
+        "census_block_group": 360470854002
+    }
+]

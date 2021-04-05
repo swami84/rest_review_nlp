@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjdy1Ydmt3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Qian Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114463042587535777228/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwZ2N5OERBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ziya Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108027125030350829191/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVMktXNGRnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "\u90d1\u6668\u66dc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116638835027711268836/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbDhLdTVRRRAB",
+        "caption": "seems a bit too overrated.  I braved cat-sized thuggish rats around the garbage pile in front of the restaurant.  Like others have noticed it's a bit pricey with small portion.  My dish, seafood and tofu, was listed $10.99 on the menu, but the cook quickly corrected me that the new price was $15!  I thought food was editable, but  definitely nowhere close to $15 good.  My dish had mostly tiny, very dried squid, claims and some traces with mussels.  Won't go back.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Seung Mun",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112625675736108710211/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZZzRMVVhnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Y Sasha",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100310111930203433749/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZcFpPNElBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Qiu Jichen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111006605996466442013/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnd1pqMkRnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Sheng Wang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113946881981288395945/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNlBDZC1nRRAB",
+        "caption": "The food is great though the portions are small but reflecting the price as well. All in all I will be going back whenever I go downtown.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "joe zay",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105828384666895828365/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3b091Njh3RRAB",
+        "caption": "Language may be their handicap, food is not! Don't expect a full menu , but if you leave it to the owner who does the cooking? Real Fujian dishes! Neighborhood micro environment with a few tables. Small room for gathering downstairs.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Peter C Yew",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107911624450062515545/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    }
+]

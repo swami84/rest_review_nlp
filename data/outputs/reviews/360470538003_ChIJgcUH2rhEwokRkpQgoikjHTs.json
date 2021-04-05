@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNZzdUazR3RRAB",
+        "caption": "What\u2019s up tack!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Shea Stern",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102213667811365800984/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwaUttcHlBRRAB",
+        "caption": "Great stuff great prices need what I want and great workers",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Maria Esposito",
+        "n_review_user": 42,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105834585484202972073/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZbklhVi13RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "Lawrence",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102354202458889228022/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3anRqRXF3RRAB",
+        "caption": "Good basic family owned grocery story. Food is fresh, atmopshere is a bit dirty, staff are nice.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Mark Mann",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114594779784621349231/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3Z29xaDFBRRAB",
+        "caption": "Very simple family owned grocery stole. Food is fresh and checkout process is simple.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Mark Mann",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108568863291393360907/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMnJlSGZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 4.0,
+        "username": "Lambertfan1984",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113760514360924941854/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3X1ltaVl3EAE",
+        "caption": "Nice family owned store",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Tack Son",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105792243014666638235/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBOTVtX1JREAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 3.0,
+        "username": "Art Danilchick",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108625791953752502442/reviews?hl=en-US",
+        "census_block_group": 360470538003
+    }
+]

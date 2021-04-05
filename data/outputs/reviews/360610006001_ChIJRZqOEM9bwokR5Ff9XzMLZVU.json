@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5XzcyT3NnRRAB",
+        "caption": "Its not bad for 99 cents a slice its ok its grab and go",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Gringo Los almendros",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104064174922302051757/reviews?hl=en-US",
+        "census_block_group": 360610006001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5X29YbHpBRRAB",
+        "caption": "The ingredients were extremely fresh and we didn't feel weighed down after eating the pizza here. I still dream about this pizza!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Donna Guido",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103482980675354068728/reviews?hl=en-US",
+        "census_block_group": 360610006001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5c3RmaHR3RRAB",
+        "caption": "This place is unreal!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Melinda Smithers",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115440665663745763486/reviews?hl=en-US",
+        "census_block_group": 360610006001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbzc3VzV3RRAB",
+        "caption": "Delicious Pizza. The best 99 cent pizza I've tasted yet and it's Gluten free. Especially the chicken slice but I love pineapple slice. So good 2 dollars for topping slice. 8 dollars for whole cheese pie",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Paris1456",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109241766842290720304/reviews?hl=en-US",
+        "census_block_group": 360610006001
+    }
+]

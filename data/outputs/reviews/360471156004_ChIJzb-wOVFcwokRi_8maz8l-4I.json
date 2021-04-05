@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTOTZEY2dnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Nelly Rivera",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118100603605137201038/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4dWVxeHpBRRAB",
+        "caption": "Good prices, good food, and nice people. Relatively clean.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Halo _ YT",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102641086480214647464/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVZ1B6aEZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Fernando Perez Zapata",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113102239079543036231/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZdlBHdDB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Sobieski Jimenez",
+        "n_review_user": 28,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102901726036108035150/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZLU9EeHVRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Fabienne Barionnette",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114150915033287998146/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJeHUyMGZREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Guermo Castillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111760779628043129398/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3d2IyMG9nRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Kennet Duran",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106350702814963003270/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRN2VMeG53RRAB",
+        "caption": "Dirty and horrible",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "CallMe Preemoo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107906498941122967355/reviews?hl=en-US",
+        "census_block_group": 360471156004
+    }
+]

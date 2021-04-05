@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNzQyenV3RRAB",
+        "caption": "They serve big dishes and for convenient pricing. very nice owner. Great work.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Wilder H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102848953863972764313/reviews?hl=en-US",
+        "census_block_group": 360610007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwX3BpTkZREAE",
+        "caption": "One of my preferred places to eat. very good location, well kept, and very good customer service. Very good job!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jon Dixon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107221480331496376647/reviews?hl=en-US",
+        "census_block_group": 360610007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3elptVnJBRRAB",
+        "caption": "Place is closed, Koyzina Kafe is on the corner",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Sabas Lima",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115077969269052115004/reviews?hl=en-US",
+        "census_block_group": 360610007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRMlBEQVpnEAE",
+        "caption": "good variety of lunch options. I particularly like the back, I am not sure how it is called, they have great mixes of rice, vegetables and meats.",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Regina Miyojim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111775180834987591934/reviews?hl=en-US",
+        "census_block_group": 360610007001
+    }
+]

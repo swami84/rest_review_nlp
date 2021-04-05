@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjdDVQYzhRRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "ty d",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113682830613643284909/reviews?hl=en-US",
+        "census_block_group": 360470908003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNeWZTR1VBEAE",
+        "caption": "Not worth going its just a hangout place food is lousy",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Sukie Hernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102467786758210170608/reviews?hl=en-US",
+        "census_block_group": 360470908003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnOV9QdG5RRRAB",
+        "caption": "Love there chicken and rice nice services",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Paula Gunn",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117445911654956096485/reviews?hl=en-US",
+        "census_block_group": 360470908003
+    }
+]

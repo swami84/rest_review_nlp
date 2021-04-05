@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M3ZpeHd3RRAB",
+        "caption": "Really great sandwich shop, I've tried 3 of them and so far the Fried Chicken and Morty are my favs! really a gem. I can wait to try one their take out dinners",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "John Maher",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114480918502588616476/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDlERzZ3RRAB",
+        "caption": "L'ito's sandwiches are comically small. The Jersey City is $13 for a little less than half a sub. The Reuben is $16 for a sliver of corned beef in between two small slices of bread.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "carlos borges",
+        "n_review_user": 560,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100523151038559903070/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LWFqMWxnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Nichole Caruso",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100865977549925303126/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MExtSmVnEAE",
+        "caption": "Hard to find but worth the journey!  Delicious lunches served from a revamped hole-in-the wall pizza joint.  Me and my friend only got two sandwiches, but in retrospect we should have gotten 4 to split. They are tiny, but very good. I\u2019ll have to go back and explore the menu.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "D H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107815211108403908776/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpdnF1enF3RRAB",
+        "caption": "Great little place with a chill owner and a killer chicken sandwich. Check them out!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Drew McDonald",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100220175740459990852/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDczdueDh3RRAB",
+        "caption": "Amazing place with way more than just sandwiches.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Adam Conrad",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114591643683887144304/reviews?hl=en-US",
+        "census_block_group": 360610008006
+    }
+]

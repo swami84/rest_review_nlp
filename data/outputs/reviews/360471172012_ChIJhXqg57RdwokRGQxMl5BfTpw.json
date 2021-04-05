@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNm9ic1pREAE",
+        "caption": "This site is my preferable place.  Of all restaurants I know I prefere it most. I never miss an opportunity to go to visit this restaurant. Whenever  I feel like having a good meal, this restaurant comes straightaway to my mind. splendid and varied  food and a large menu.trained staff, and agreeable atmosphere. In addition to that, the price is decent. I suggest this spot with no doubt.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "William Gray",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106081039420645279567/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDX0lhTDR3RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Faze_ Darlin",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117341272394259542942/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZemV6bTBBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Brayan Arteaga",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106604038300769583875/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZLUxfXzNRRRAB",
+        "caption": "(Translated by Google) Excellent food quality and pure hygiene  (Original) Excelente calidad de comida y pura higiene",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Fani Roche",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112728552316305190603/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    }
+]

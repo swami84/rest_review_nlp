@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRamRMWXFRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Ron Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101482048568473385124/reviews?hl=en-US",
+        "census_block_group": 360470892003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBMThiT2hBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "lovepreet singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115520976764509117260/reviews?hl=en-US",
+        "census_block_group": 360470892003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBaXJfdkVREAE",
+        "caption": "They never answer their phone.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Angelo Joseph",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103093087226009508301/reviews?hl=en-US",
+        "census_block_group": 360470892003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3Z3E2NEtREAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Denae Stallings",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113526288791145436848/reviews?hl=en-US",
+        "census_block_group": 360470892003
+    }
+]

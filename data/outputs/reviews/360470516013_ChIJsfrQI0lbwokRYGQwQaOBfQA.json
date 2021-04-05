@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MHBiRC1BRRAB",
+        "caption": "Good food",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "S-U s-u",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103284476657727471733/reviews?hl=en-US",
+        "census_block_group": 360470516013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bk4zTEdREAE",
+        "caption": "I like this store now every thing is good  Chicken is so good  also I like  salad",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Md Ripon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102976960151630444794/reviews?hl=en-US",
+        "census_block_group": 360470516013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdmVHcTN3RRAB",
+        "caption": "Food test good, not bed I like it.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "liakath ali",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118312752241992830844/reviews?hl=en-US",
+        "census_block_group": 360470516013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTLVlQQkJREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Red Orange",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109374205140938659689/reviews?hl=en-US",
+        "census_block_group": 360470516013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTOXU2UElnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Jahangir Hossain",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108351290525859004427/reviews?hl=en-US",
+        "census_block_group": 360470516013
+    }
+]

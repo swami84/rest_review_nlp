@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaTQyYkJREAE",
+        "caption": "(Translated by Google) This company is the worst, ise a claim and they never resolved, they let belongings steal them.  (Original) Esta compa\u00f1ia es la peor, ise un reclamo y nunca resolvieron , dejan que las pertenencias se las robar.",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Angelica Familia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107913970663670814554/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJa2JMd0dnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Irma Mendez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111529513489242872090/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJNGZqMktBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Maria Inocensia Candelario Parra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109785742391423253066/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    }
+]

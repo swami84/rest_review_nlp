@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzZ1pEUmZnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Karl-ann Duran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108573890360767592369/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURva1AtTVV3EAE",
+        "caption": "Hip place trandin and good food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Manuel Aguilar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112398926877707403231/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdnEzczJ3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "jaime flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110218414931849131035/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeFB1RkFREAE",
+        "caption": "Amazing food cheap price. \ud83d\udc4d\ud83d\udc4d",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "MENG CI",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101405655928239467572/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSUR5ME04chAB",
+        "caption": "very delicious\uff01",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Rick Grimes",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102857748958445876151/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZNTVEUlR3EAE",
+        "caption": "I love this place. I have been coming here over 10 years. You choose 4 different things and they put them on your plate which comes with rice and soup. They do not speak very good English, so it takes a lot of finger pointing, but that's also fun. And it's cheap, the whole thing costs $5.50 now. It used to be $3 back in the day. I normally get pork belly, kombu kelp, daikon radish and clams. They are excellent!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Kazmo Groove",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102637207581916490953/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ0MW9uN253RRAB",
+        "caption": "(Translated by Google) Is this donation in the dish? True TMD disgusting  (Original) \u8fd9\u53ea\u87b3\u8782\u5728\u83dc\u91cc\u9762\u662f\u8d60\u9001\u7684\u5417\uff1f \u771fTMD\u6076\u5fc3",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "\u50b2\u5a07\u7684\u624b\u6b8b",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107965595638943596682/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJdHBHWDNRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Qahtan AL-Jammali",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108230965180565314385/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnMGRfdG5nRRAB",
+        "caption": "(Translated by Google) Can you eat in NY for $ 5? Yes, in this place where no English is spoken. He's a Chinese, Chinese. For the 5 dollars they give you a lot of rice with four sides to choose from different vegetables, meats, fish, seafood, offal, eggs ... A pleasure to take things that you have never had before. Recommended for those looking for new culinary experiences.  (Original) Se puede comer en NY por 5$ ? S\u00ed, en este sitio donde no se habla ingl\u00e9s. Es un chino, chino. Por los 5 d\u00f3lares te dan un mont\u00f3n de arroz con cuatro acompa\u00f1amientos a elegir entre diferentes verduras, carnes, pescados, mariscos, casquer\u00eda, huevos... Un placer para tomar cosas que no has tomado nunca. Recomendable para quien busca nuevas experiencias culinarias.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Juan Carlos Villacampa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108850993506429266002/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNWZqRmdBRRAB",
+        "caption": "Great cheap $5 meal for one or two. A bit traditional but if you are daring and not picky, this is your spot.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Kevin Zeng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107111904757026577943/reviews?hl=en-US",
+        "census_block_group": 360610008001
+    }
+]

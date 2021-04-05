@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrcWFIcTZBRRAB",
+        "caption": "The couple that run this place are fantastic! Very good cheese selection. I once asked for a cab home and they insisted I take their car!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Dylan Ellis",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114788405484431486709/reviews?hl=en-US",
+        "census_block_group": 360470549002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJNDdIOXF3RRAB",
+        "caption": "this place sucks. only vegetables.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 1.0,
+        "username": "BETSY CHEN",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102887517275232475828/reviews?hl=en-US",
+        "census_block_group": 360470549002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdE56dVJnEAE",
+        "caption": "Ask for Betsy\u2019s vegan burrito! Best in the burg no doubt.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Lisa Jamhoury",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110510261243973543756/reviews?hl=en-US",
+        "census_block_group": 360470549002
+    }
+]

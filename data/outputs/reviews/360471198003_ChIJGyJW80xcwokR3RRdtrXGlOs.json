@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbU1meEV3EAE",
+        "caption": "Best african restaurant in NY and is not close",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Emmanuel Elesin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103527620712529288277/reviews?hl=en-US",
+        "census_block_group": 360471198003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cF9LWFhREAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Yammyofficia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105003538358017223310/reviews?hl=en-US",
+        "census_block_group": 360471198003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpeS1PZm9nRRAB",
+        "caption": "Great taste ..love it",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Femi Osewa",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101801438416339918986/reviews?hl=en-US",
+        "census_block_group": 360471198003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMmF6OEpBEAE",
+        "caption": "Delicious food",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Eunice Olamijulo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103717829294113528368/reviews?hl=en-US",
+        "census_block_group": 360471198003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMll5ODZnRRAB",
+        "caption": "Great place with delicious African(Nigerian), Caribbean and American cuisine. You will love the food and service.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Kimora",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115735815578151405385/reviews?hl=en-US",
+        "census_block_group": 360471198003
+    }
+]

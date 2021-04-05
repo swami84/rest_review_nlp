@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcU5mcE53EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Shauntae Pruitt",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110244521754429815727/reviews?hl=en-US",
+        "census_block_group": 360594075022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eDlqc2VBEAE",
+        "caption": "great food!....highly recommend the steamed fish....",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Tamara Hall",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115523781227375610611/reviews?hl=en-US",
+        "census_block_group": 360594075022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbXBIRk1BEAE",
+        "caption": "Love this place! Food is always fresh and tasty! I eat from this place ever so often, def underrated.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Christian Blackwood",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114098816562538675745/reviews?hl=en-US",
+        "census_block_group": 360594075022
+    }
+]

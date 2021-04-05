@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbG9fX0N3EAE",
+        "caption": "I CALL AND NOBODY ASWER THE TELEPHONE",
+        "relative_date": "18 hours ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "PAYLESS TIRE SHOP",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103352723332098510576/reviews?hl=en-US",
+        "census_block_group": 360471184003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LWR2U0JBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Juan Junca",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101600707247726526088/reviews?hl=en-US",
+        "census_block_group": 360471184003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aW9hc1ZnEAE",
+        "caption": "Mexican style diner serving hearty portions. Come hungry I had trouble finishing the carne enchilada torta.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Charlie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111021807696244043445/reviews?hl=en-US",
+        "census_block_group": 360471184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTXzV1Q29RRRAB",
+        "caption": "The big breakfast with French Toast is to die for . Excellent Service and fresh food.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Gamationz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104659005023348502341/reviews?hl=en-US",
+        "census_block_group": 360471184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpcGNpRG53RRAB",
+        "caption": "Great food and service",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Evelyn Cabrera",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106167165713140539282/reviews?hl=en-US",
+        "census_block_group": 360471184003
+    }
+]

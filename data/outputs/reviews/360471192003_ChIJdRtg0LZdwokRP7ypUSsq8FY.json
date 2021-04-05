@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNalp5eHB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Tina M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103349743842161151655/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3M01EbElREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Aiden Lan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101939968328393528281/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3a0ktNkZBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "jesus Quiles",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105909348072628341726/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRc0liYUFnEAE",
+        "caption": "Good food",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Kevin Youman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101002779686527896744/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBMHFUN1BnEAE",
+        "caption": "Good services",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Olivia Romero",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107013619987539562965/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcThiRXpRRRAB",
+        "caption": "Good service when you order.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "RY Gaming",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101394918306374661914/reviews?hl=en-US",
+        "census_block_group": 360471192003
+    }
+]

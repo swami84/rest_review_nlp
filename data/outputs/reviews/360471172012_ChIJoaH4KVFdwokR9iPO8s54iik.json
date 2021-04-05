@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDdzdmeXNRRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Michelle Paulino",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108876233657454678399/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4ck5hZS1RRRAB",
+        "caption": "I ordered from this place and the food was really hard meaning it came cold and It was uncooked. I\u2019ll never eat from this restaurant again even if is for free.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Frehilyn Rivas",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107939102918600906887/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjaTdTczNBRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "You Ivy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105347472616739789147/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwOVpuWjJ3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "ok",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101207001797323187137/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0dGVtTGdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "omar deen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113132952701017570346/reviews?hl=en-US",
+        "census_block_group": 360471172012
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeEp2NEh3EAE",
+        "caption": "I've had better  pizza",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Ally Bajansweetie P",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113617033418651920973/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5XzlTTUl3EAE",
+        "caption": "No bad service, it's okay",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Joaquina Feliz",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114288819389062799962/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5emUzb3JRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Frantz Direk",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109458300885344735744/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDN183Mlh3EAE",
+        "caption": "It\u2019s ok",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "joti roy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111293406545906781880/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDM3FTejZBRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Krysten Haye",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110857440822776995981/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzbEtHNlFREAE",
+        "caption": "Pizza is amazing but hard to know if they are closed are not I've went there several times in the evening just to find out that they are closed",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Jahfya",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112786725275203953810/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzc2Nxb0p3EAE",
+        "caption": "They sold me bad cabbage. Good thing I didn't eat it, I probably would have ended in the hospital.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Shanti Mcgee",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107372369255694298658/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNM2Flend3RRAB",
+        "caption": "Pizza is on point, finally a good pie in tbe neighborhood",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Ryan A",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109927991445454235206/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa1o2cjBBRRAB",
+        "caption": "These guys are so nice! They treat everyone who walks through the door so well. My favorite things are the wings and the Mac & cheese.  There's like 12 different wing sauces so not just buffalo or bbq. They have a lot of options. People are always coming in and ordering the pizza too, and it looks good. I'm just too hung up on the wings and Mac& cheese to make any room for pizza when I go.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Rachel Skumanich",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116876933824676789957/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa2RldzNRRRAB",
+        "caption": "I am amazed about the new pizza restaurant being open. These wing that I got came out Amazing!!! 10/10",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Calvin Luis",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113419107508813798096/reviews?hl=en-US",
+        "census_block_group": 360470828001
+    }
+]

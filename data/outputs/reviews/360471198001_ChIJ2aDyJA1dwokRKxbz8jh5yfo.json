@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5OHIyMWlBRRAB",
+        "caption": "Fantastic food, super nice staff members, constantly great vibes. They charge reasonable prices and the food quality is very good. I recommend this place.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Mikael Farley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106926281865283056293/reviews?hl=en-US",
+        "census_block_group": 360471198001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTamJ5WmZnEAE",
+        "caption": "Nice place \u270c",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Artes Marciales",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109615234295042869834/reviews?hl=en-US",
+        "census_block_group": 360471198001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcGJIVFF3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "F a n t & L i m p",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111048133084557635383/reviews?hl=en-US",
+        "census_block_group": 360471198001
+    }
+]

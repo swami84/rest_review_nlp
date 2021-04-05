@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMmFMeV9BRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ahmad A",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114685731625679008073/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjdDVHdkl3EAE",
+        "caption": "Their food is great. The service is excellent. I love their gyros",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Shavonn Andrews",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110368498991745484685/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNlBEMW9RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "james brown",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101597142224716139681/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrbV9MUHV3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Rita Chambliss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113192245526458380145/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNmNXV21nRRAB",
+        "caption": "OMG! This place has some great, phenomenal Chicken & Lamb w/Rice! Absolutely worth the travel!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Baqir Ahmad",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103172435191963332388/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3c2RiekxREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Milad Ghaly",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100274808783651549392/reviews?hl=en-US",
+        "census_block_group": 360470968001
+    }
+]

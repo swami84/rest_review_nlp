@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzNHJyZFdBEAE",
+        "caption": "This place must be for pastrami.  They handed me directions to King Gyro, as soon I asked for lamb from a skewer.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 2.0,
+        "username": "Roy Rahway",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114875773882966558032/reviews?hl=en-US",
+        "census_block_group": 360470662001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNUpLR2hnRRAB",
+        "caption": "Very friendly over the phone, really quick delivery, and REALLY AMAZING FOOD!!! Thank You!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "Natalie Karlova",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110038888988775716541/reviews?hl=en-US",
+        "census_block_group": 360470662001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNMDVHQ2dnRRAB",
+        "caption": "I've been grabbing lunch here for the past couple of days! Their food is really good and well worth the money. You really get a lot of bang for your buck here. Plus they are prompt and quick. I highly recommend their sandwiches, and CORN FRITTERS. Please do yourself a favor and get an order of corn fritters! So sweet and crunchy. Never stop making these. They are my go to lunch spot.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-04",
+        "rating": 5.0,
+        "username": "C A",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108493720516449247235/reviews?hl=en-US",
+        "census_block_group": 360470662001
+    }
+]

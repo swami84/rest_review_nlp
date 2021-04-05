@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbGVxTnl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Carlos Rondon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107700542936629393139/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFci1MdlpnEAE",
+        "caption": "Food good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "TONY JAMES",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115081066492768750549/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZejlEWWJ3EAE",
+        "caption": "This is a FOOD TRUCK, and not a restaurant.   Not sure how it can be parked legally in the same place for so long.  While the truck seems to have a business connection to the grocery store at 3104 Fulton, this truck is parked across the street.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Erik Olson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101933677219505064407/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZa1A3TVBBEAE",
+        "caption": "(Translated by Google) It is very clean, the food is tasty and they are very charismatic  (Original) Es muy limpio, la comida es sabrosura y son bien carismaticos",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jhersin De Los Santos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106328816550057638569/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZd01qeDlRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jhelsin Alejandro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106410364505402726037/reviews?hl=en-US",
+        "census_block_group": 360471174002
+    }
+]

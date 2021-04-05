@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aTdHUEpnEAE",
+        "caption": "Very good Jamaican owned clean ital spot.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Knot Nyce",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117970179326415752849/reviews?hl=en-US",
+        "census_block_group": 360470938001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNna2IzOU5REAE",
+        "caption": "Great place to different food of the Caribbean, Rasta food,",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "G Grant",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108526077092279089788/reviews?hl=en-US",
+        "census_block_group": 360470938001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3MTZ5Yl9RRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Amanda Council",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113403065114692262315/reviews?hl=en-US",
+        "census_block_group": 360470938001
+    }
+]

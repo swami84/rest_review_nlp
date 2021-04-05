@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMnZxNUJREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Molino Sotillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108040407488610871538/reviews?hl=en-US",
+        "census_block_group": 360470888001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBOUlldDNBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Ezy from LOS NYC",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100335232924696748132/reviews?hl=en-US",
+        "census_block_group": 360470888001
+    }
+]

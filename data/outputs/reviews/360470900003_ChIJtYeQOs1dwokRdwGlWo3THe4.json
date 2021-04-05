@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLXFudllREAE",
+        "caption": "Love the spot. Great vibe with and emphasis on customer service.",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ronald Wolfe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108901641391047940685/reviews?hl=en-US",
+        "census_block_group": 360470900003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdUxHTTlRRRAB",
+        "caption": "Best pizza i have tasted in Brooklyn for sure.great vibe inside the shop with amazing artworks and statues.employees are extremely kind.they also have a bar.pizza is fresh and made to your order 10/10.would also be a great place to take the family for a nice meal",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Amaury Tejada",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104489581380694299943/reviews?hl=en-US",
+        "census_block_group": 360470900003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dDdEZG9nRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "mike brooklyn",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114783210623492859763/reviews?hl=en-US",
+        "census_block_group": 360470900003
+    }
+]

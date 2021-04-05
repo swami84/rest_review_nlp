@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcGQtY2h3RRAB",
+        "caption": "Good place",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Asad Ali",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110034283031810141817/reviews?hl=en-US",
+        "census_block_group": 360470868002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeXZiZEFnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Leslyn Hernandez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102182872016387832159/reviews?hl=en-US",
+        "census_block_group": 360470868002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVb19XU2h3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Donna Cort",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115747975886681201273/reviews?hl=en-US",
+        "census_block_group": 360470868002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBM095ODdnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Nathalie M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109873341497019518477/reviews?hl=en-US",
+        "census_block_group": 360470868002
+    }
+]

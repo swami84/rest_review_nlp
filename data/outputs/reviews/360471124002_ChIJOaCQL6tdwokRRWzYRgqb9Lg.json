@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNemV6TGtnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Infamous Villian",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103172093914739440666/reviews?hl=en-US",
+        "census_block_group": 360471124002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZdG9fdDlnRRAB",
+        "caption": "The jerk chicken was not cooked to my desired crisp. Specifically asked for dry pieces...",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Di Roc",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115933888870283131562/reviews?hl=en-US",
+        "census_block_group": 360471124002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3a3NTbUd3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Richard Bernabe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103958796727040210055/reviews?hl=en-US",
+        "census_block_group": 360471124002
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5b2RIdXBRRRAB",
+        "caption": "Food is very tasty and fresh. This is a nice restaurant for food everything is clean.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Karan Singh",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117292084172730434318/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeDc2QThBRRAB",
+        "caption": "Omg \ud83d\ude33 I love their food it\u2019s very clean and they\u2019re  so nice love you guys keep up the great service \ud83d\ude02\ud83d\udcaa\ud83c\udffd\ud83d\udcaf",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Thai Thai",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104540660222580415462/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDak1EQ1hBEAE",
+        "caption": "Very good food best place in town \ud83d\udc4c\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4c",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Lovejeet Singh",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109204621197684726416/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeEktcXVRRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "mandeep singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109475528323985047096/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeEt1UzJnRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jaswinder Kaur",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115428155991377371422/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNjhmeVFBEAE",
+        "caption": "Good and fresh. Food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Habibullah Syed",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103846582712702028547/reviews?hl=en-US",
+        "census_block_group": 360471104001
+    }
+]
