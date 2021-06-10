@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMGFDbWpBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "BBOOGIE DIVA",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101667898625946742111/reviews?hl=en-US",
+        "census_block_group": 360610215001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOWRfaG5BRRAB",
+        "caption": "Want to see weight loss results visit the shop...",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Stephanie Henderson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100517960692589082576/reviews?hl=en-US",
+        "census_block_group": 360610215001
+    }
+]

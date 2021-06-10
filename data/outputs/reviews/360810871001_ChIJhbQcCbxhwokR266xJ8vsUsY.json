@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OExMMzlnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "W. Eng",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114635479534671590086/reviews?hl=en-US",
+        "census_block_group": 360810871001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5a0l1bmhnRRAB",
+        "caption": "This is a great place for a quick Chinese take out. At least 10 different types of hot food selection. Make sure you come between 1130am to 1230pm. I ordered the 4 dish and a soup for $7.50, not overly oily and good. The best part is a huge free parking lot in front of the restaurant. I will be back for more.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Alan Fotografia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106308578109965143851/reviews?hl=en-US",
+        "census_block_group": 360810871001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NExlSS1nRRAB",
+        "caption": "Wide selection of delicious hot food for lunch. Big portion and great price.\u00a0\ud83d\udc4d\ud83d\udd25\ud83d\ude0b",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Alan and Deirdre Forever",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102881873993191823362/reviews?hl=en-US",
+        "census_block_group": 360810871001
+    }
+]

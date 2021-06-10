@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNM2F5WUJ3EAE",
+        "caption": "Best Chinese food truck in university city!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Bing J",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107695841852890727145/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweGZMZ2pnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "sheng zhong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115851781898264611401/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwcTRqa3VRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "JC Wilt",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116216778401077441790/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwLXBPWm9nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Priyanka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108814654881961400094/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcDRtdjRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Shambavi Krishnamurthi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102656033193422711253/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVa2JhVmlnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Taylor Glassman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105170705526134871597/reviews?hl=en-US",
+        "census_block_group": 421010088011
+    }
+]

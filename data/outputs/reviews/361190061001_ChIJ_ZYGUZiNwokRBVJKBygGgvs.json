@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRdF9LN1NBEAE",
+        "caption": "The food was great here!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "DarkEnding",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102745819890895751686/reviews?hl=en-US",
+        "census_block_group": 361190061001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneUpHS1VnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Zaleski Hernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103296540271807418847/reviews?hl=en-US",
+        "census_block_group": 361190061001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBd1lQLThRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Eduardo Eduardo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113811066734939756849/reviews?hl=en-US",
+        "census_block_group": 361190061001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eWQyRHpBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Roberto. Calleiro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105700656748924961056/reviews?hl=en-US",
+        "census_block_group": 120860053031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrbTVPOUJnEAE",
+        "caption": "This cafeteria is also a grocery store . they also have a dinner that serves fresh Cuban food. El Colon serves four or five specials everyday, starting at $ six dollars , and full breakfast @$4.00 dollars . Its not fancy but their food and ICE COLD BEER are a good deal",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Giraldo Borges",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111297386089913814522/reviews?hl=en-US",
+        "census_block_group": 120860053031
+    }
+]

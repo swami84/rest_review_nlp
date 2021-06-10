@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDNTZXODdnRRAB",
+        "caption": "(Translated by Google) Authentic Mexican tacos. Very good and well priced.  (Original) Tacos autenticos mexicanos. Muy bueno y bien de precio.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Beatriz Manzano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111647056825317915972/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4aU1fZWxBRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Nancy Portillo Reyes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101094319218849743334/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbjhQYXJBRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Alex Sanchez-Berroa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109113110319892964924/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNN0xLNDZnRRAB",
+        "caption": "An ordinarily decorated food house that makes a comfortable food environment. There are mostly Mexican foods. This place is very good for coming with friends. Their foods are fresh and healthy. Has reservation facility, happy hour special, outdoor seating.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "John Abreham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109730508110573650619/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    }
+]

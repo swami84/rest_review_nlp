@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURLbE9fOEFnEAE",
+        "caption": "My boo got food poisoning the same night we ate the food. It was 4 tacos... No bueno.",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Danielle Lash\u00e9 Peterson",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117415434517497968139/reviews?hl=en-US",
+        "census_block_group": 120860051023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpekxYcUxnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Yaletza Cat",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111343090740867366184/reviews?hl=en-US",
+        "census_block_group": 120860051023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpa1BfVUhBEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Michelle Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116580163503464758043/reviews?hl=en-US",
+        "census_block_group": 120860051023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDOV9TUnBBRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Bruno Vazquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113910150252518095828/reviews?hl=en-US",
+        "census_block_group": 120860051023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaDVmRUhnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "flaco Mendez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107641600056393036719/reviews?hl=en-US",
+        "census_block_group": 120860051023
+    }
+]

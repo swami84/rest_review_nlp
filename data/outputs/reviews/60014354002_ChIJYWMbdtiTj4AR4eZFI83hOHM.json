@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNnV1aUVnEAE",
+        "caption": "I had a fantastic experience in this place. We liked the wonderful environment and the menu. The staff were very affable. I am glad we finally managed to visit here.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kevin Manning",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103980077545364113317/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRMzRxUHRBRRAB",
+        "caption": "",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Tanisha Hendon",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105492372833834169477/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnem9HbkFREAE",
+        "caption": "I am definitely a fan of this place....I love the food,drinks, the workers, and most of all karaoke on Thursdays. Joe and Monica really treat you like family. See you Thursday guys. :-)",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ocie Parks",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117595454420546040460/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3MjliOFhnEAE",
+        "caption": "I've been here a couple of times with my friends for their club events, they serve food during the event's as well, so if you get hungry and want some food, you can order. Their drinks are always super strong, all you need is one adios and you're good for the night. It's a older crowd at times.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Jessica Tru",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104476571019985690728/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3amFucEJnEAE",
+        "caption": "Great vibe and great people",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jason Patton-Orme",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101810812186515843857/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    }
+]

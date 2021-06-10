@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHZES19RRRAB",
+        "caption": "",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Miguel Garay",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104007626217059262328/reviews?hl=en-US",
+        "census_block_group": 360810409003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bk43cmVREAE",
+        "caption": "(Translated by Google) Very bad attention, very rude and despises the one who attends, attended, of 2 hours waiting and they give you a pittance of creams. Very bad, I don't come back  (Original) Muy mala atencion,muy maleducado y despota \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "jorge chavez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102693941544344323045/reviews?hl=en-US",
+        "census_block_group": 360810409003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTb2FtMU13EAE",
+        "caption": "Excelent The best fast food in New York. I LIKE!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Karen Diaz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107197552809849774615/reviews?hl=en-US",
+        "census_block_group": 360810409003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTX3JQY0tREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Gisela Navarro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114264619566818356912/reviews?hl=en-US",
+        "census_block_group": 360810409003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMmVTcnZnRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "#VEVO PIERO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101892889276440805811/reviews?hl=en-US",
+        "census_block_group": 360810409003
+    }
+]

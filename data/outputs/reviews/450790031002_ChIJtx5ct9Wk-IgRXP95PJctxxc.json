@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4MTdiOWpRRRAB",
+        "caption": "Good food at good prices\ud83d\ude0d\ud83d\udc4c",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Henry Lloyd",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106628968513452605446/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMXN6R1N3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 3.0,
+        "username": "WOODY COLE",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102892014465434291565/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVc0llSmN3EAE",
+        "caption": "Good food.  Have many items.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Marc Epting",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108621680493440756125/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvc01xUm53RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 3.0,
+        "username": "Tabby Teaser",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101724530472848056927/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJMXVQcHh3RRAB",
+        "caption": "Prices are ok, could be reduced a little more.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "The Only One",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110702539998167202369/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3MklhTFhnEAE",
+        "caption": "Great place for early morning pastries",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Tamara James Gaines",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106920674840597512682/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBN1oteWZnEAE",
+        "caption": "Run far away !!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Deborah Bumgarner",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110291474361174883067/reviews?hl=en-US",
+        "census_block_group": 450790031002
+    }
+]

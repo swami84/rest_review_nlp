@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OW9UVkR3EAE",
+        "caption": "Big portions and meat is quality, good value for the price.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Alex",
+        "n_review_user": 33,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116386767942437736519/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LTVPMVN3EAE",
+        "caption": "Made my order right and gave a little surprise \u2764\ufe0f",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Tommy Bronkowski",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103604070929216913781/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTOHJxRmZ3EAE",
+        "caption": "Fresh new teriyaki spot just opened up and I had to try it. Rice was good, shrimp was on point and chicken was the best chicken ever. Chicken is flame broiled and charred. It has that fire flavor on it.  One thing to note is you have to ask \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Omert\u00e0 Italian",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114492783791743548449/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTeS02bWJBEAE",
+        "caption": "Food is amazing! The grilled chicken is by far my favorite. Their white rice is cooked perfectly. Highly recommend them!!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Brenda",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112832791030593913905/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

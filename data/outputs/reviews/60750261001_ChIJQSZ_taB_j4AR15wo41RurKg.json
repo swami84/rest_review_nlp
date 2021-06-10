@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjLXZXM213RRAB",
+        "caption": "(Translated by Google) Good place but a little invisible.  (Original) Buen lugar pero un poco invisible.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "guatemalteco en usa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106941173555278275808/reviews?hl=en-US",
+        "census_block_group": 60750261001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzeUxYTVBBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Alexandra Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114953511216827559854/reviews?hl=en-US",
+        "census_block_group": 60750261001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNemQzVTdBRRAB",
+        "caption": "My favorite Pho spot in the area. Check out #2 or #3, good portions and very tasty broth. Also spring rolls with grilled pork is the bomb.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "\u0412\u0430\u0434\u0438\u043c \u0427\u0435\u043f\u0443\u0440\u044f\u0435\u0432",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114358871881929379915/reviews?hl=en-US",
+        "census_block_group": 60750261001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZbC1UWlVBEAE",
+        "caption": "Good fresh and fair price for a bowl of comfort home made Pho. You order ana pay at the counter. The place changed owners recently, and is located next to a Subway, also aSushi place across the way, a couple of taquerias nearby with \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "Jacobblox",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104461010356017475451/reviews?hl=en-US",
+        "census_block_group": 60750261001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJNVlEdExnEAE",
+        "caption": "(Translated by Google) Check out this new spot in Excelsior. Delicious and inexpensive food. Their shrimp spring rolls and peanut sauce are pretty good as well as the seafood Pho although it's not on the menu yet. They have been open only \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "Beatriz Florez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100485396653927766258/reviews?hl=en-US",
+        "census_block_group": 60750261001
+    }
+]

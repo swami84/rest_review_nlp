@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4cTZTdDVBRRAB",
+        "caption": "I tried this specialty of mine where i mix my meats for example carne asada with pastor. I asked for a torta made like that OMG was it delicious  !!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "C-Los. C.R",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117210551143252862416/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4OHVmVkR3EAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Elmer Linares",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111307720340431083829/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4OHVmbVdBEAE",
+        "caption": "(Translated by Google) Very tasty food  (Original) Muy sabroso la comida",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Francis Linares",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117134408317048155395/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4OHVlY1BnEAE",
+        "caption": "Very tasty ! And best customer service out their !",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "stephanie linares",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113050329271961602171/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    }
+]

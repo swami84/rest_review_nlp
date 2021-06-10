@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eU1TS2tnRRAB",
+        "caption": "My preferred scene for greek food. the staff was very welcoming and sociable. the bill was appropriate for the quality.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Curtis3 L",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115285042934370319386/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNWVDUC1nRRAB",
+        "caption": "Great spot for delicious Greek food. Great food with quality ingredients.  This place has a great atmosphere. Atmosphere is similar to a place in Columbus I loved.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Miles Barrera",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114386603059818556847/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNlpIRXNnRRAB",
+        "caption": "greek food and the atmosphere at this place is excellent. Do not leave if it's busy, it is worth it. The staff was very friendly and kind. Prices that won't shock you.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Catherine Kent",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109655600957682071103/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcXVXM2hnRRAB",
+        "caption": "Greek food, very tasty. definitely worth a return trip.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christine K",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107422099905239730600/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    }
+]

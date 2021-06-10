@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzLS1YV2ZnEAE",
+        "caption": "(Translated by Google) Delicious? The food is good and well cooked I like the chicken rice it is delicious to satisfy the appetite\ud83e\udd24\ud83d\udc4c\ud83d\udc4d\ud83c\udffb  (Original) Delicioso?  La comida es buena y bien cocido me gusta el arroz con pollo es delicioso para satisfacer el apetito\ud83e\udd24\ud83d\udc4c\ud83d\udc4d\ud83c\udffb",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "KIKER 2021",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117459672067280742536/reviews?hl=en-US",
+        "census_block_group": 360810142021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjMUxhbllBEAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "budeshwar singh",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108934750592482118183/reviews?hl=en-US",
+        "census_block_group": 360810142021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzaEpTaDRRRRAB",
+        "caption": "Food is subpar. I ordered chicken and rice but what he gave me was un cooked chunks of onion. A load of salad, barely any sauce and when you ask him to put a little more, he saids \"No\"  Terrible customer service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Magnus Steel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112413434976598191983/reviews?hl=en-US",
+        "census_block_group": 360810142021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwMFl5a2dRRRAB",
+        "caption": "Had the most amazing lamb and rice with spicy sauce and yogurt sauce. Proprietor was very nice man.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Lyn Tan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117319644344832389535/reviews?hl=en-US",
+        "census_block_group": 360810142021
+    }
+]

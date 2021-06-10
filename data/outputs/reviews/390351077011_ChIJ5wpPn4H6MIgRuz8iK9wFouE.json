@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdFlUZ0d3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 2.0,
+        "username": "Jim Cuglewski",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105318262508748710711/reviews?hl=en-US",
+        "census_block_group": 390351077011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJaTR6elJREAE",
+        "caption": "Webpage and Facebook page do not have a menu for any of their locations. E-mail messages are bounced back as Undeliverable",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 2.0,
+        "username": "Ron Krueger",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107486467044188283035/reviews?hl=en-US",
+        "census_block_group": 390351077011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJMmVUSjhnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Michael Arnold",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111612509974457434653/reviews?hl=en-US",
+        "census_block_group": 390351077011
+    }
+]

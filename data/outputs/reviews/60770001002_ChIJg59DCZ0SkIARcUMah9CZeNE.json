@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwOUlUQ05REAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Guilherme Angelino",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105512379297030806108/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwX19TMzVRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Matt O'Neil",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102561479768552174180/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwZ3B6WVBREAE",
+        "caption": "It's so good! A bit pricey but delicious!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Sami DLC",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116584030594302676874/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwN1B2azVnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Jo\u00e3o Zanella",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114280218694278220130/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvb3JyZXR3RRAB",
+        "caption": "I love that you can customize anything you want to eat. The only bad thing is that adding protein is way too expensive for the quantity.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "Mackenzie Baker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107329415706340541491/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvMHJhcVNREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Chris Linebarger",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102554867908194978882/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJemM2ZUR3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Malerie Glasser",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106448322504433979737/reviews?hl=en-US",
+        "census_block_group": 60770001002
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdHJXbE1nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Simiao Wang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100679026165395730277/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZMlBxTXZBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Alice Yu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104059576322018230502/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBeG9HRVBREAE",
+        "caption": "This place was only good to use my stolen bank card information and process it.   Horrible place, black market business, a complete and total front",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "stalin martinez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104580762033070732991/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMmNlQUZ3EAE",
+        "caption": "Never coming back again! They said the burrito came with onion and silantro and it didn\u2019t. The rice was under cooked! And it\u2019s over priced",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "lupe mendoza",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101698533848434936713/reviews?hl=en-US",
+        "census_block_group": 60591106032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjcjRMRzNnRRAB",
+        "caption": "Horrible food \ud83e\udd22 the cashier doesn\u2019t wear gloves or washes her hands after touching money \ud83e\udd22 Not worth the weight or the price \ud83d\ude2a plus she takes the orders wrong half of the time she\u2019s not even paying attention",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Ana Adrian",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112579803804603976286/reviews?hl=en-US",
+        "census_block_group": 60591106032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjODlqcVdBEAE",
+        "caption": "Not returning! We were 2nd in line & 6 tacos took 35min to make. Tripe was soft, not crunchy like ordered. Mediocre tast in asada & Al Pastor. Lady taking order was slow.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Estela Tavera",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112108070529593517558/reviews?hl=en-US",
+        "census_block_group": 60591106032
+    }
+]

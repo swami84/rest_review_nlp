@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MExDQjJnRRAB",
+        "caption": "Fast service, fair prices, extensive menu. If you order pick-up over the phone, they\u2019ll take your number and call you when it\u2019s ready, so you don\u2019t have to wait around much. The classic Canto takeout that\u2019s getting harder and harder to find.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "K K",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102372390527869650264/reviews?hl=en-US",
+        "census_block_group": 360610184002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aThxNUxREAE",
+        "caption": "\ud83d\udc4d\ud83c\udfff this is my favorite Chinese food restaurant I love it",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Christina Charles",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111935928028167040510/reviews?hl=en-US",
+        "census_block_group": 360610184002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aTdTNlhBEAE",
+        "caption": "\ud83d\udc4d",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "jimmy w",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102462221582798790814/reviews?hl=en-US",
+        "census_block_group": 360610184002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dk1DQ3BBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "xiao chen",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114758410175487414804/reviews?hl=en-US",
+        "census_block_group": 360610184002
+    }
+]

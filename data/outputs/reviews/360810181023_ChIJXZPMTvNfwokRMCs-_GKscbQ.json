@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbGVXZXd3RRAB",
+        "caption": "Very friendly staff and tasty food!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Damian Holmes",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107669376067530545155/reviews?hl=en-US",
+        "census_block_group": 360810181023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjMlltN2dRRRAB",
+        "caption": "It isn\u2019t pizza like we are thinking but \u201cwinged\u201d gyoza aka den den gyoza that are connected with a batter, capped with pan fried gyoza wrapper, then sprinkled with a topping like crunchy ramen. This is a novel dish for me.  There are only \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Julie Chan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117288626194360663271/reviews?hl=en-US",
+        "census_block_group": 360810181023
+    }
+]

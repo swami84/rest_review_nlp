@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNdmI2MHhnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Bryan Todd",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101824657850012711233/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVb29IUW9RRRAB",
+        "caption": "Good",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Paula Talk",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111440129613983453826/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURraWZlWk5REAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "hanni wang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110075432826691378269/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZNF9DcS13RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Rajbir Singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117000740531651405601/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvMjdqRV9nRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Richard Barr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108692442129406232193/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcmNLRWhnRRAB",
+        "caption": "fast service",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Vanessa Alcala",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102895421533242877256/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJdzlta1pBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Marilyn Martin",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112507360782540823539/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRNTVhV1ZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christina duran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105777392308234539428/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRZ3N6Vmh3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Juan Bernal",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104453564436706940147/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcWN2X2RBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Larry De La Cruz",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111438934587996859759/reviews?hl=en-US",
+        "census_block_group": 60374006022
+    }
+]

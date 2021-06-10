@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOXM2alpREAE",
+        "caption": "i was super full. i had a brother come into town and he asked me to go back here. bring your hunger - portions are generous. food is similar to a cafe in portland i loved.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "juanita leonard",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112377306696121824412/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDajh5MkFREAE",
+        "caption": "Had a friend come into town and asked me to take him here again. This place has a good feel to it.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Edith Branch",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101509534282873408949/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDaGE3TTVnRRAB",
+        "caption": "Great hospitality. Fast and courteous service. If it was closer to my home I would be here often.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Daniela Pierce",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112801942907083143556/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZOW9lNDRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Gabriel Valadez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112817997100643240304/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvNHIzYkVREAE",
+        "caption": "Arrived at five, it wasn't busy. Certainly worth a return visit. This place has a good design. Reminds me of a cafe in Chicago I liked to visit.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Chris Keller",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112821258660217120434/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJc183bWlRRRAB",
+        "caption": "Next time I'll be back with my friends. Prices were average for the menu. Similar to a place in Denver I loved.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Damon Osborn",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117301807722322882723/reviews?hl=en-US",
+        "census_block_group": 482013124001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLOUo3ZmdBRRAB",
+        "caption": "Was sick for two days",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Anthony Jenkins",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114176512406807848804/reviews?hl=en-US",
+        "census_block_group": 360610230002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dGVIS2NREAE",
+        "caption": "They clean food is good now the pizza \ud83c\udf55well i would have to go at a time they fresh cuz they never look fresh",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Shermin Justo",
+        "n_review_user": 70,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101258999494609319791/reviews?hl=en-US",
+        "census_block_group": 360610230002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NnVuMHZ3RRAB",
+        "caption": "NYC Health Inspectors need to closely monitor this establishment!  They haven't the slightest idea of safe food handling or how long they can hold their product under heat lamps and still be safe to sell to the public.  On multiple occasions; if you try to patronize them-they will try to sell what is obviously waste product to you and your family; consider yourself warned.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Rick Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107067558674232097015/reviews?hl=en-US",
+        "census_block_group": 360610230002
+    }
+]

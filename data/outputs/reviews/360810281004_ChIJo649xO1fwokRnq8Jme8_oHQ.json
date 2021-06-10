@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aXJxdzBBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Angela Munoz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102517745102696111154/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbnRDbDJBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Yoshigizmo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100902619982961453181/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpbXRMeW93RRAB",
+        "caption": "Questionable quality... I wasn't expecting much considering the price, but the chicken I got - some of it tasted spoiled or undercooked or both! Had to spit out most of it so be careful!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 2.0,
+        "username": "David Thai",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105280680864183054390/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpX3VQT3VBRRAB",
+        "caption": "Very tasty",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Arthur Liu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106901200139811631424/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDLXVUZHRnRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Pema Wangyal",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114474014126899239413/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdXZIQVVBEAE",
+        "caption": "Got the chicken teriyaki today, they had a special for $2.99 (normally $6.99). It comes with rice and some veggies in addition to the chicken. It\u2019s a big portion, with lots of chicken! The staff was friendly, and the store was very clean. Would definitely come back!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Lucy Duggan",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108457543770843657019/reviews?hl=en-US",
+        "census_block_group": 360810281004
+    }
+]

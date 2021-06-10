@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMkl1NWt3RRAB",
+        "caption": "Good place",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Mila Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108870798447434427008/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeVBuUV9BRRAB",
+        "caption": "Perfect place to buy groceries stuff, very clean and nice people",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Parth Patel",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105321600406678585767/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMU9LVzBBRRAB",
+        "caption": "Good place\ud83d\udc4c",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Mr Patel",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117806129662166315545/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVajlpSXFBRRAB",
+        "caption": "Very nice",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Maryana Kravchenko",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116221615709832999786/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZakltdExBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jessica Colon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106938839338312728685/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3eXRTRHJRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Luis Jarama",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113521413073465841160/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cF9mUTBBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jitu patel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105977804524451196770/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdGY2OURBEAE",
+        "caption": "Very nice owner great service",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Abrar Malik",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107355829479909158055/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncU9mU2hRRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Agustin Hernandez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115557240322453229947/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNTlTanhRRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Alfredo Perez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100812600165597873415/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    }
+]

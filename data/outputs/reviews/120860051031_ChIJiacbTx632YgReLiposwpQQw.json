@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjOHBuWnFRRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Americo Toro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100346193154677923606/reviews?hl=en-US",
+        "census_block_group": 120860051031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNeDlxWFlREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Pedro Moreno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107409330575160334778/reviews?hl=en-US",
+        "census_block_group": 120860051031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ0dHBxZmF3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "CESAR VILLALOBOS",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107585968345002827962/reviews?hl=en-US",
+        "census_block_group": 120860051031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBdUlLc3R3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Amalia Ara\u00faz",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112103559861166271204/reviews?hl=en-US",
+        "census_block_group": 120860051031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBbWZxUXBRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Magda Ortiz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107654317436193231809/reviews?hl=en-US",
+        "census_block_group": 120860051031
+    }
+]

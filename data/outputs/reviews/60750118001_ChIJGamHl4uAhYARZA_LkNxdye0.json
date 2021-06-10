@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDcWRuZFN3EAE",
+        "caption": "(Translated by Google) Didn't know that I was coming. Still nice ;-)  (Original) Wusste nicht das ich komme. Trotzdem nett ;-)",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 4.0,
+        "username": "Patrick May",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110847015423050406488/reviews?hl=en-US",
+        "census_block_group": 60750118001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvdWFya0N3EAE",
+        "caption": "...its the Dragon Art I wanted you to see...who gives a damm about hocus pocus...enjoy the art.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 1.0,
+        "username": "J Se",
+        "n_review_user": 383,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101717342255133479774/reviews?hl=en-US",
+        "census_block_group": 60750118001
+    }
+]

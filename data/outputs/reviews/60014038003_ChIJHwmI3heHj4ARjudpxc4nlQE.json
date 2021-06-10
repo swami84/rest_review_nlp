@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cWNLQ2FREAE",
+        "caption": "(Translated by Google) Excellent service, varied food, delicious chicken and meat patties, delicious lamb and chicken sandwiches and a wide variety of non-alcoholic beverages. Highly recommended.  (Original) Excelente servicio,comida \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "leonardo amado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106329140730085424842/reviews?hl=en-US",
+        "census_block_group": 60014038003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d3NhWU13EAE",
+        "caption": "Their empanadas are delicious.  And their plantains!!! Oh my! One portion is not enough. Super quick and very nice service. 2 mins walk from the lake. If you like Senegalese flavors this is the place.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Alex Hughes-Smith",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101601919852968068834/reviews?hl=en-US",
+        "census_block_group": 60014038003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bjltbERREAE",
+        "caption": "Great Food! It tastes homemade and brings all the memories of the Afro food culture.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Efrem Tewelde",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112036524263799367485/reviews?hl=en-US",
+        "census_block_group": 60014038003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dDhXNUhnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Aysha Ansari",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105012184980779274963/reviews?hl=en-US",
+        "census_block_group": 60014038003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ZzZHWWlnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Andrew Chang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111574532729357790876/reviews?hl=en-US",
+        "census_block_group": 60014038003
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cHF2eThnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Nafis Ahmed",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110745600280956591798/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaXBldlB3EAE",
+        "caption": "Bathroom smeels like dead body flushed down the toilet.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Hamim Alam",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108078457030092761678/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMHFuOHNBRRAB",
+        "caption": "Worst place to eat.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Rifat Shifat",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114912751730384391248/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMHNuZHdnRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "MD Fuhad",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101244693692642925307/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMHNtd3RBRRAB",
+        "caption": "Dirty place ever. You can see rats and cockroaches running around the food.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Meme's Guru",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112890643043306595390/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaFpYQUV3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Priyatosh Dey",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116892975185678995349/reviews?hl=en-US",
+        "census_block_group": 360810446022
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3amFDRmpRRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Delores Amante",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114527393761163152642/reviews?hl=en-US",
+        "census_block_group": 482014307002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3ajlfNGJ3EAE",
+        "caption": "Friendly staff and good place to go",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Josh Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103903226680925527245/reviews?hl=en-US",
+        "census_block_group": 482014307002
+    }
+]

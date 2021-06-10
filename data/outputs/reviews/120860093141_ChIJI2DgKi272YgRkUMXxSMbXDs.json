@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdGZPamlnRRAB",
+        "caption": "Very Tasty I'll be back.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Esteban Rey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106033518451886562345/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcUlDQ19nRRAB",
+        "caption": "(Translated by Google) My experience at curramba has been wonderful, I feel at home every time I go to eat. The service, the food and the impeccable presentation !! 100% recommended.  (Original) Mi experiencia en curramba ha sido \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Mariela Cotes",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103109248286501334434/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNTVxUEN3EAE",
+        "caption": "(Translated by Google) They have lowered the quality of the fried foods too much, previously I recommended them with closed eyes but I have already had two disappointments in less than a month, \ud83d\udc4e  (Original) Han bajado demasiado la calidad \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Maria Areniz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110085001176380835835/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4MHBTZ21BRRAB",
+        "caption": "(Translated by Google) It is a family restaurant with excellent food, the truth is that the service and the quality of the products are to take off your hats, congratulations.  (Original) Es un restayrante famikiar con una comida excelente la verdad q wlnservicio y la calidad de lls productis son para quitarse el sombrero los felicito",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Usa Global",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110387507915259698697/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4aUpTM0FnEAE",
+        "caption": "Simp",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 2.0,
+        "username": "Dante Moreno",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118064819561958067420/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZMkxIU2ZnEAE",
+        "caption": "Very delicious, would come again.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Richard Toscano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116830824157398627391/reviews?hl=en-US",
+        "census_block_group": 120860093141
+    }
+]

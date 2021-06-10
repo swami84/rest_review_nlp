@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eTZ6QXF3RRAB",
+        "caption": "Ordered from DoorDash and it was pretty good but they sent the wrong Bao with my order. I would order again just in person vs a third party so I can check to make sure it\u2019s right.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Latesha K",
+        "n_review_user": 19,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103129598206571559960/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpa2UtVER3EAE",
+        "caption": "Ordered from GrubHub. The Bao were good, but they sent the wrong dumplings and the orange chicken bowl was 90% rice. At best it was okay.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Janusz Gal",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100588715265033972901/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    }
+]

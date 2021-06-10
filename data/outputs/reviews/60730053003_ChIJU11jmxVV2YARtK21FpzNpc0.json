@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTMjRhQ2h3RRAB",
+        "caption": "I certainly loved the dishes and customer service, good area nearby to where I live. The cashiers are always kind. Highly recommended.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Keagan Perkins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104512502644648269218/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbjRxSWR3EAE",
+        "caption": "Please support the hard working family in San Diego.  This family is hard working people and are serving the best hot dogs in the world. We love you guys and God bless!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Maria Yebra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102810428312836399669/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcnNqYV93RRAB",
+        "caption": "Just like NYC",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "brian mccarthy",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107290926243303861933/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBaFlDMDRnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Dena louissaint",
+        "n_review_user": 115,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110800434994173504057/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROS1QcUl3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Andrea Mays",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102157724515981499289/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3Mi1TZElnEAE",
+        "caption": "The hot dogs are good.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Christopher Ruiz",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100463593251618733822/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    }
+]

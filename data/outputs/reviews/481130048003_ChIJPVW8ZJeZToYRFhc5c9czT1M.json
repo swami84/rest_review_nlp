@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNWFLMm9nRRAB",
+        "caption": "This restaurant offers extraordinary service as well as delightful food. One of my favourite restaurants around here. The drinks and food came out fast and the rates are inexpensive. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Salvador Adams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109416344285062833130/reviews?hl=en-US",
+        "census_block_group": 481130048003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvZ1pXV1FnEAE",
+        "caption": "Not there anymore",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Frank Carter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107277647160269567590/reviews?hl=en-US",
+        "census_block_group": 481130048003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaWFYeFhBEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Angelica Carrillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110256336360906955933/reviews?hl=en-US",
+        "census_block_group": 481130048003
+    }
+]

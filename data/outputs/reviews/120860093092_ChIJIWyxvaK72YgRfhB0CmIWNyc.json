@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdWNIbjVRRRAB",
+        "caption": "(Translated by Google) The breakfast was good and the waitress's attention was good, but although the cook took off the mask for a moment, violating the safety rules, and with the manager we sent it on and he was cooking annoying and \u2026",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Luis Pardo",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106461686188994945342/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOUxEWkJREAE",
+        "caption": "(Translated by Google) I like it, I have ordered to collect a lot, I do not know about the service like the previous ones but excellent house potatoes.  (Original) I like it, he ordenado para recojer muchisimo, no se del servicio como los anteriores pero excellent papas de la casa.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "michael moreno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117140956962775048676/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcHZfdlFnEAE",
+        "caption": "(Translated by Google) Very bad service, poor quality in what they sell, I asked for a coffee with milk they gave it to me already a while ago and the cheese cake, dry, old, I asked him for cheese and he gave me meat, I went to change and \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Kool Printing Corp",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101061125334652672283/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpX3FXY19RRRAB",
+        "caption": "(Translated by Google) Aller I went to have lunch at this place already lost a lot of quality, all my family were regular customers and we don't go anymore, be careful I asked for a sailor sopon and I couldn't eat it, it smelled rotten \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Andy Llanes",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110579640342997563262/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    }
+]

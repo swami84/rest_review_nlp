@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwdnRLeEZ3EAE",
+        "caption": "Friendly, responsive staff, and good food. And super convenient.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Justin Connolly",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101001837590620974798/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwbE1UMGZnEAE",
+        "caption": "Good fresh food.  Very nice people.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Joan Temple",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116835098673048067073/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZa3VXWEFnEAE",
+        "caption": "Fast and great service \ud83d\udc4d Favorites: Cappuccino \ud83d\udc4c Tuna wrap on wheat and spring rolls \ud83e\udd17",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Elsie Abarca",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115226250359850576436/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJd2JEN2d3RRAB",
+        "caption": "Great place and good prices they deliver close by areas. Awesone staff and owner.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Raymund Asiain",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110885566384111910812/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvd19XNlZBEAE",
+        "caption": "Great food, great prices and good people. Their food is delicious and they always take care of you quickly whenever you need them.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Blake",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106452650400662305222/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURneDhLVDVnRRAB",
+        "caption": "Try the breakfast burrito with green salsa. Yum!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Kimberly Whitten",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108415686702686964404/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBemFfN3pBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jonathan Chung",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111045080260373621232/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnNU1uTDlnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jazz Shademan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100866379549955821442/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRcGZUWkhREAE",
+        "caption": "Love it! Delicious Food & Awesome Service!!!",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Yadira Hernandez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111855340937550290384/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    }
+]

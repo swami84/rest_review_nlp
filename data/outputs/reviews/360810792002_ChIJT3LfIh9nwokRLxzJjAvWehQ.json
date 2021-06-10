@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweHFXbXFnRRAB",
+        "caption": "Food was good. Beer was cold.  Bartender was by himself and a little overstretched but all in all a nice dinner",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jeff Thomas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112610095422677750045/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVekpPSmFBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "MIHAI NICOLAE",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114240710445749722232/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZOTVuWHBRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Brian Reinish",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113904567953517449600/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZOXN2dEJ3EAE",
+        "caption": "Healthy good and good services..",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Ali Hakami",
+        "n_review_user": 304,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102355021797662275197/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdXFPd2R3EAE",
+        "caption": "great service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Ej Aguilar",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114898983413872519748/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZdWVfZWtRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Olivia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101877378323622607522/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZcktHX0VREAE",
+        "caption": "Bad service. For sure I dont get back",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "jorgehut",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110678093942627512536/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJNnJlRGx3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Shannan Yates",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102219063644026424260/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJbDZXV3p3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Lopezvilla Luisa Villalobos",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100095952506522096769/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBdGRLQlpnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Sk Jamir",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107012622693711079671/reviews?hl=en-US",
+        "census_block_group": 360810792002
+    }
+]

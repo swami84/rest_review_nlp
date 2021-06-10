@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTaUpPTFRREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Alyssa Kay Thompson",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102472210582954099321/reviews?hl=en-US",
+        "census_block_group": 360610253006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpb1pDQWF3EAE",
+        "caption": "\ud83e\udd70\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Noah Wood",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109117249060947812387/reviews?hl=en-US",
+        "census_block_group": 360610253006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjeWNQVFF3EAE",
+        "caption": "On Broadway and 170th Street, there is a new salad bar &  restaurant that has recently opened.  While opening a new restaurant during a pandemic may have been bad timing, the cafe has a great selection of groceries as well as wonderful prepared foods! The owner, B.J., also owns The Prestige Cafe on Fort Washington and 169th Street.  B.J. Is an amazing guy who is also very concerned about the health of his customers and has added many additional safety measures to insure that the food he will be serving will meet the highest level of scrutiny. I\u2019m looking forward to his opening!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Arthur Glauberman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107011581015319368608/reviews?hl=en-US",
+        "census_block_group": 360610253006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdTR6ekZnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Aisha Grace",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102425668478960927099/reviews?hl=en-US",
+        "census_block_group": 360610253006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDeWRidU5nEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "alexandra johnson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118066424176099156199/reviews?hl=en-US",
+        "census_block_group": 360610253006
+    }
+]

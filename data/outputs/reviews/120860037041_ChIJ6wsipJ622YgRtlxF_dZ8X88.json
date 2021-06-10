@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTelo3QTFBRRAB",
+        "caption": "You can try a wide range of Italian dishes at this place including their eggplant parmigiana and chicken parmigiana. They also have an impressive range of salads on offer that I often have for lunch.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Lena Pattison",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102911611395190694801/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaHE3U1hBEAE",
+        "caption": "",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "devon webb",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101541609288363012994/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    }
+]

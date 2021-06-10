@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dDhPLWlBRRAB",
+        "caption": "Good delivery noodles!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Andy Day",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108024100298691843416/reviews?hl=en-US",
+        "census_block_group": 60750123011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjd3FMSUNREAE",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 3.0,
+        "username": "Mack Duan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100039461888031923639/reviews?hl=en-US",
+        "census_block_group": 60750123011
+    }
+]

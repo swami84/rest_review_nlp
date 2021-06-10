@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjc1pqVjdRRRAB",
+        "caption": "Tacolicious is the real deal people no fakes good tacos !",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "ShawnT.",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114682428098506217917/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzeVplcm1RRRAB",
+        "caption": "This place very interesting selection of meats. The stuff is friendly and the food was good.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Aram Davtyan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116995953701641814119/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNdWM2RnFBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Go Away",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101467922670877794400/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNMmEyX2NREAE",
+        "caption": "Quality ingredients and quick service, but I\u2019m not eager to go back. Barbacoca had a lot of fat which I personally don\u2019t care for. Chicken was tender and moist.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Crystal Sumner",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115713678835897203267/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNd2RYdllnEAE",
+        "caption": "\ud83c\udf2e",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Robert Chan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116410358138240743289/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwcnY3WTRBRRAB",
+        "caption": "Delicious tacos, great prices, awesome friendly service.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Sadhna Parmar",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111803655254750766529/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdWFmNmlnRRAB",
+        "caption": "Mary\u2019s is amazing, best frijoles around, great quesadillas and salsa that is deeply addictive. And she herself is a constant delight!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Hope Jenkins",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109377125985007549497/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4azd6ZzJRRRAB",
+        "caption": "Absolutley THE BEST food, full stop \u2764",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Janet Young Stanton",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111684679281815252184/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    }
+]

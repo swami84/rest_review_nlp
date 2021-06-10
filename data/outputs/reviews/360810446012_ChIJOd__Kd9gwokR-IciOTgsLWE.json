@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdGV6bGZREAE",
+        "caption": "Surely a place worth trying, the food is great and well prepared, the rates are affordable and it is regularly well kept here. 5 stars.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Davis May",
+        "n_review_user": 45,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105654567240030103070/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZzQ3T0l3EAE",
+        "caption": "We had an excellent  in this place. We enjoyed the awesome vibes and the meals. The waiters are super attentive. I am content we ultimately decided to visit here.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Oakley Downs",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109179490951273552747/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaElMZWRREAE",
+        "caption": "I ordered a beef stew and she gave me one 4 little piece and a bunch of carrots when I called they said that\u2019s not there problem",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Mary Gibbons",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101366954671419399126/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJbm9ENGtBRRAB",
+        "caption": "My review is for this location  162-10 Jamaica Ave, Jamaica, NY 11432  They give 100% service of attitude manager or the person who handles the orders with the people is nasty and when you complain about it they will ask you not to come \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "hussein badawi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101023465783635254999/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    }
+]

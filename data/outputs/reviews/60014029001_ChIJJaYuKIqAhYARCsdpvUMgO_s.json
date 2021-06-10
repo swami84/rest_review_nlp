@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjZ29PQTFRRRAB",
+        "caption": "This restaurant is doubtless one of the coolest restaurants in the area. Every time I come to this place I am deeply happy. They maintain their high  level service and the topmost level of food  they provide. You can never go wrong with this restaurant. Very  recommended.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "James Dutton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109897362447333266850/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMi1hNWRnEAE",
+        "caption": "If you are craving for real flammkush, that\u2019s the real deal!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Coralie Hykes",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105726310717497707097/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3OHYtZWRnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Javier Latorre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114395503470624637388/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRalpDcnFRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Christel Capt",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112612794201174087681/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBdnJIVENnEAE",
+        "caption": "They have really good tarts. I think it was better than some tart I had in France. It was very hard to find. (Downstairs at Pachino.), but It was totally worth the effort to find then. After I picked up my tart, I only meant to eat half of \u2026",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Yayoi Ukai",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111174108471905644898/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    }
+]

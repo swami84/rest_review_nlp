@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvenFXZEpREAE",
+        "caption": "(Translated by Google) Good Chinese Buffet type food. Tremendous variety of dishes. Good attention. Not excessive prices. Good Location and Parking.  (Original) Buena comida tipo Buffet Chino.                Tremenda variedad de platos.                    Buena Atenci\u00f3n. Precios no excesivos. Buena Ubicaci\u00f3n y Parqueo.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Oscar Jorge",
+        "n_review_user": 28,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117398143416586154350/reviews?hl=en-US",
+        "census_block_group": 120860137002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3aTZlSm53RRAB",
+        "caption": "Sushi is decent. This place is also known as sushi maki.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "arsenio buigues",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116669926995491185902/reviews?hl=en-US",
+        "census_block_group": 120860137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRek9tWWNBEAE",
+        "caption": "Great food always fresh",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "archie buigues",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118164652118526712547/reviews?hl=en-US",
+        "census_block_group": 120860137002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dWVfeUNBEAE",
+        "caption": "Great supply needs",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Luis Giraudy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105843904667982441542/reviews?hl=en-US",
+        "census_block_group": 120860137002
+    }
+]

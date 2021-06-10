@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNTlqTWVnEAE",
+        "caption": "This is the best brunch I've had in a long time!!! Awesome historic building! Waited in line for 30-40 minutes but it was definitely worth the .",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Judy Jones",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108159580212767138196/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTeVBfc3V3RRAB",
+        "caption": "We went there for St Pattys day. I wanted to go to a bar, but not an Irish bar because those were going to be way too crowded. And I liked the selection of sausages and food I saw when I looked at The Barish Away website.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Wanda Cooper",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111977066317748718264/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpME8zUFdnEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "John Ames",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102249249154296723543/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpd1phNWpRRRAB",
+        "caption": "Amazing ambience!! Like I'm transported to somewhere far far away. Drinks are absolutely delicious! Food is nothing short of true Nancy Silverton quality. Its a steakhouse so prices follow accordingly, but that said, very reasonable at that. Highly highly recommend!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "MiniMullenOasis",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116974102851576552645/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpdXRtVTNnRRAB",
+        "caption": "Good - not great. What this place has going for it is it\u2019s service and romantic setting. Service is wonderful. Loved the vibe in the courtyard for Al Fresca Dining. Generous portions for food. Unfortunately I wasn\u2019t impressed by the \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Jules Fortlage",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103781378362465261931/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpdk9Ib2l3RRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Beryl Fok",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115767273844864384807/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    }
+]

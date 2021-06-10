@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNkx6TTZBRRAB",
+        "caption": "Great pub with super friendly staff.  They show all major sports and this is a gem of a place for Liverpool supporters!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Philip Ko",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109959095773879802574/reviews?hl=en-US",
+        "census_block_group": 60750106003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjLTliY1VnEAE",
+        "caption": "Sullivan's is the only place in San Francisco to watch, enjoy and immerse yourself in the Liverpool lifestyle.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Kaptian Koach",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116419299819657421405/reviews?hl=en-US",
+        "census_block_group": 60750106003
+    }
+]

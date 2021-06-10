@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwcXBlM1dREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Teresa Rolon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117510502568192688735/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwbjdURm5nRRAB",
+        "caption": "(Translated by Google) Very good option for a party  (Original) Muy buena opci\u00f3n para una fiesta",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "agustin hrndz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111298107574018624957/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZcWFmN2dRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Dayanara Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112309837449605919443/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJc0piRkRBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Fernando Serrato",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110485794937186774841/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJd195VTBnRRAB",
+        "caption": "Dulceria El Molina was recommended as one of the best places to get custom made pi\u00f1atas. I was super impressed with the quality and turn around time.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Xiomara Rios Casanova",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104409824919979731124/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBaE1ldTB3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "yvette morris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112501916605934101526/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURneXJYaGVBEAE",
+        "caption": "I have been ordering pi\u00f1atas from here for more than 7 yrs now. Always excellent pi\u00f1atas very well made; don't look crappy like others. Get complements every time. She can make anything  just go in advance",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Amber Sibrian",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107016945708371150565/reviews?hl=en-US",
+        "census_block_group": 60372319002
+    }
+]

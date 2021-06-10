@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dnBLcEV3EAE",
+        "caption": "Good tacos",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jorge Mez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108472693586070700492/reviews?hl=en-US",
+        "census_block_group": 60710057011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjelpUODBnRRAB",
+        "caption": "Delicious and they have the original birria de chibi served every day.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jesus valdez carranza",
+        "n_review_user": 92,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105301102880415075288/reviews?hl=en-US",
+        "census_block_group": 60710057011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOGFDS1ZBEAE",
+        "caption": "It's clean, quiet, delicious, and inexpensive! Is this the perfect restaurant? The chef is passionate about food. As soon as I tasted, I swooned. I strongly recommend this restaurant.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Chiho Glaser",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103549994219488768525/reviews?hl=en-US",
+        "census_block_group": 60710057011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOFlEX1FBEAE",
+        "caption": "This little restaurant is located across from a completely dead mall and surrounded by an empty strip mall. Surrounded by this abandoned city, it's easy to pass by this place. It doesn't look like much outside, but once inside, it's like a \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Daniel Glaser",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114711258496943785632/reviews?hl=en-US",
+        "census_block_group": 60710057011
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMmFpZGJREAE",
+        "caption": "Great food and service",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Dianne Palmer",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117737115789131405739/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMWJYckx3EAE",
+        "caption": "The meals and service were beyond our expectations. I really liked the ambience of this restaurant. Fantastic restaurant to take the family out for dinner.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Donald Travis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114029010220493937814/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrNjVhZXRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "olivia wright",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115472810894037691566/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnc3BpMExBEAE",
+        "caption": "Best Oxtails in New York!!!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Nyn8tiv3",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102220044528815360186/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnNGZycXJRRRAB",
+        "caption": "Location hard to find",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Coles 0590",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111269773558676862618/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnMl95WG1BRRAB",
+        "caption": "Yes",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Sky Line",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112686196913822393199/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    }
+]

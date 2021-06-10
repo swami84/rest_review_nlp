@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaGVfaklBEAE",
+        "caption": "",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Linda Vu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105676432405195145064/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLN3JEU0tREAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Tim Out fishing",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103676876119646248875/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    }
+]

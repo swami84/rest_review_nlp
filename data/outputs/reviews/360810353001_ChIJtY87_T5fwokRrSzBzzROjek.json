@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTLTdhNUl3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Feliz Sanchez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115472455734305516135/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDLVl5clBBEAE",
+        "caption": "(Translated by Google) Very good hamburgers, the best that I have tried in New York I really liked the restaurant a good decoration of the restaurant, I quite liked the place, the restaurant has excellent service, very good service from the \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Melanie Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101584445068778829228/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDM1BYSWFBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Danny Vasquez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111243503085670428667/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4eDRhOWVnEAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jorge Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113463452966186902819/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4dHM3RG13RRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Deminis Perez",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110799750989024618684/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURza1BuTzhnRRAB",
+        "caption": "Fave food cart spot possibly the best burger in Queens !",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "J Loki",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116031218104495335205/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa1ltbFhREAE",
+        "caption": "Best burgers",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "GUIDO GUNZ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118009563125731085303/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwMGNDUWhnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Camila moreno",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117810626179312197661/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa1lXLV9RRRAB",
+        "caption": "(Translated by Google) The best burgers in all of Queens. Willie you're a loquillo! \ud83d\ude4c\ud83c\udffc  (Original) Las mejores hamburguesas en todo Queens. Willie sos un loquillo! \ud83d\ude4c\ud83c\udffc",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Christian Guzman",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102214580286806640688/reviews?hl=en-US",
+        "census_block_group": 360810353001
+    }
+]

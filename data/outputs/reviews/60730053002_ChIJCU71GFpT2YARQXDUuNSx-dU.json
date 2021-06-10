@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDZzk3MDhnRRAB",
+        "caption": "A top scene for quality seafood. good place to relax and unwind.  looking forward to coming back with my coworkers. it has a great atmosphere.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jeffrey Gray",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110771658491467769591/reviews?hl=en-US",
+        "census_block_group": 60730053002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaFlEcURBEAE",
+        "caption": "Very clean and welcoming restaurant. They offer large portions and for fair rates. I enjoyed the food very much and the staff members were super personal and chatty. Recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Izaiah Jensen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117930265389641779824/reviews?hl=en-US",
+        "census_block_group": 60730053002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOWRQS1B3EAE",
+        "caption": "If you like seafood you need to try this place you wont be disappointed!  We order clams, shrimps & king crab legs. Everything was so fresh and delicious. As of right now is one of my favorite places for sea food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Lorena Cobb",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106342846514278155708/reviews?hl=en-US",
+        "census_block_group": 60730053002
+    }
+]

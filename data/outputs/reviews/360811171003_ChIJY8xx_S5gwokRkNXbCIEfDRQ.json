@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ0dTUtWURREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Alexa Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112990619264374067700/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZLTVEOWdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Moe Thanks -555-",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111654318848895716760/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbDR6SWZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "john park",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111804580769276103143/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBd0tlMXFRRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jose Portillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104390439073209008998/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRZzZEYmJBEAE",
+        "caption": "Came here on a Thursday night with a group of 4 after a long drive from Eastern Queens, so I was not looking to be disappointed! We were instantly greeted by a lovely waitress (didn't get her name) but she was a doll. Drinks were on point, \u2026",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "xinchun he",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116220280140135909284/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBdk5yWHNnRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\uc870\ub3d9\uc778",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103687788483053488704/reviews?hl=en-US",
+        "census_block_group": 360811171003
+    }
+]

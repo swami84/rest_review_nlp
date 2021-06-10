@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZLTgyYmZnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Kimberly Guzman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101662789947149214999/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJa0xUN2tRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Phoogie Man",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113333402915500671695/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    }
+]

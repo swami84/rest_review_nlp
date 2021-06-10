@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OXZYV1RBEAE",
+        "caption": "very good food I recommend the quesadillas steak and chicken...",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Juan Pastrana",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105304573054971686753/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eU9lYzFBRRAB",
+        "caption": "(Translated by Google) To die dreaming  (Original) Morir so\u00f1ando",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Hernandes Jim\u00e9nez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115703987941190486988/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdC1EcmFREAE",
+        "caption": "(Translated by Google) The best tacos and the best service  (Original) Los mejores tacos y el mejor servicio",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "eric candia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102236423042774540850/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbS1HUUFREAE",
+        "caption": "Love'd",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Juan Jomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106669335781563079650/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcVppdklREAE",
+        "caption": "Loved",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "maria Bravo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109146787983370901452/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMG9uNGxBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Angela Bravo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112879787975602509649/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTd3NiZFJBEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Josefina Bravo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107596956811312158973/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTb3JTell3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Kimberly DeJesus",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117089645006630730234/reviews?hl=en-US",
+        "census_block_group": 360610249001
+    }
+]

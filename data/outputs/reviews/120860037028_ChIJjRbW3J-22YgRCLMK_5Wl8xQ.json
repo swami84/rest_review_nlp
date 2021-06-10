@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcGRiSnRnRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "kristianna Fritz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101899041071793518866/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MHJiWDR3RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "maria alejandra Morales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118398139708265806819/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNjgyaGJREAE",
+        "caption": "This place always satisfies my cravings. I usually go to the Sherman oaks location. I was in West Hollywood when I randomly noticed they have a location here too. I'm so glad because it's so close to my fianc\u00e9's house. I tried out their \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "Dana Garrity",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103201177606671164821/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBZ3VTUkVBEAE",
+        "caption": "AS A CHICKEN I AM APPALED",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Charles Bartthalowmuel",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115559589875829395999/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    }
+]

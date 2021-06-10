@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBaklpQ3FnRRAB",
+        "caption": "Worst experiance ever",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Lilo Tool Rental",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102480685158011403497/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnX01Md09BEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Ignacio N",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103674499931065931343/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd0lPemN3EAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 3.0,
+        "username": "Leonardo de Oliveira",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115807023221045723094/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnMVotcWp3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Veronika Radkevich",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104736501868273951214/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnZ05memFREAE",
+        "caption": "Awesome bar, very spacious with great music, people, and service.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Carlos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111619217543238845265/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRLTh6Y1lnEAE",
+        "caption": "I had a great time there at a networking event.  We had an interesting tropical Brazilian drink - I don't recall the name - and some tasty appetizers.  The most unique appetizer was a Cuban croquette made from duck pate.  The restaurant \u2026",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "John F. Sklavounos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100637028112603900763/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaUktck1BEAE",
+        "caption": "Awesome place",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Mauricio Rolo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118437120154265798958/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURncnFHUzN3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Vander Valter Viginotti",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114042287518554663671/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRM2JpRHNRRRAB",
+        "caption": "The best food",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Ludmila Machado",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109042515085844111766/reviews?hl=en-US",
+        "census_block_group": 120860067025
+    }
+]

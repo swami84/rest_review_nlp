@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDcXVLM2h3RRAB",
+        "caption": "Love me some Taqueria Ponce. Owner is friendly and personable. Food is always muy deliciosa(very delicious). Highly recommend.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Vayona Tull",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106285874570600513771/reviews?hl=en-US",
+        "census_block_group": 480270235002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNkxIb3ZBRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Esther Ponce",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103656081551112362656/reviews?hl=en-US",
+        "census_block_group": 480270235002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNkpIWHVRRRAB",
+        "caption": "Amazing food, fast service and always kind",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Simona Arreguin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106851696915821556797/reviews?hl=en-US",
+        "census_block_group": 480270235002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNkpHRHhBRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Mercedes Ponce",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113552210920543042169/reviews?hl=en-US",
+        "census_block_group": 480270235002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjNkpIWVVREAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Sebastian Tobar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101745774593737755259/reviews?hl=en-US",
+        "census_block_group": 480270235002
+    }
+]

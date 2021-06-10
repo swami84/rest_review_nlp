@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MTRLMjJRRRAB",
+        "caption": "A charming place that has something for everyone, including a warm welcome! Yummy coffee, chia tea latte, cheese danish, & tuna sandwich. Highly recommend :)",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Brooke Heinsohn",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112836472293353036605/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaWNlSGJ3EAE",
+        "caption": "Used to have my brunch there before covid.  The best coffee and gluten free sandwiches in Uptown!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Alena Walter",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112601999550918376070/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOFlDNzJBRRAB",
+        "caption": "I'm obsessed with their croissant breakfast sandwiches paired with a blood orange San Pellegrino- Customer service is A+, (always!)and food quality is superb! They also have snacks that you can take with you on your walks uptown.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Sarah Joyner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110691718701629612103/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaW9LR0lREAE",
+        "caption": "Great location to meet with friends. The bill was decent.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Cassandra26 G",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114096950589452017547/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMHNTT2lRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Jessica Mai",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118291940123397559782/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bTltZFpREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Stacey Murphy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116689568841352995167/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjelAyTmJREAE",
+        "caption": "We love Roburrito's. Always our first choice!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Rita Lynnette Wynegar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116475296695867777899/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdmZmZlZBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Jennifer Mazur",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111519969255716289994/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNaDZydi1BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Dan Thomas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118117129079447879298/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwMTdiR2lRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Bryan Bender",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113886800218778011017/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVbDRlUWd3RRAB",
+        "caption": "Staple of York PA Fresh, quality, flavorful food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Alexandrea Wambold",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102176442509821274290/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVbUtmd3l3RRAB",
+        "caption": "The burritos from here are ok, nothing too special about them. The sauces they have on the other hand are really good.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Christopher Hailey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101677743421886622967/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJN2ZEa3h3RRAB",
+        "caption": "Weekly stop. Chicken dilla. Medium sauce. Thank me later.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Dan McHugh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107377136034565060139/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3OHR5cGxRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "charles main",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104627926005579268845/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    }
+]

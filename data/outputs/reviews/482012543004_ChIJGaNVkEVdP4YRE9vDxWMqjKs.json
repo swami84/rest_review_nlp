@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzOW9USld3EAE",
+        "caption": "Honestly one some of the best tacos I\u2019ve had in a long time even when I go to Mexico they are not as good as the tacos here",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Daniel Reta",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118067730779593050444/reviews?hl=en-US",
+        "census_block_group": 482012543004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzOXJDSS1nRRAB",
+        "caption": "Amazing food best I\u2019ve had in a long time will definitely recommend y\u2019all come and eat there",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Criss",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110077369312333679739/reviews?hl=en-US",
+        "census_block_group": 482012543004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNC11blpnEAE",
+        "caption": "My favorite place to eat. The food was great, the service was wonderful and the inside and outside of the resturant was lookin good. I would recommend!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Austin Pinkerton (08)",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104840702898196480537/reviews?hl=en-US",
+        "census_block_group": 482012543004
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNDlfemxnRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Diego Lares",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106945963542128927542/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdS1HU3B3RRAB",
+        "caption": "Place is nice but definitely not what it used to be. Food quality is lacking. I ordered a pork dish and it tasted horrible so I had just a couple of bites and that was enough to food poison me. My friend told me he recently took his stepson \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Doris E",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108516491134193386059/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZdHRIUm9nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Irving Monroy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101641565548607911582/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbUthRzZnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Shirley Ayala",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105061607983300754240/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    }
+]

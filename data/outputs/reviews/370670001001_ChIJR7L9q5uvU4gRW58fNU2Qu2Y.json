@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OHRxNDZBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Daniel Lizotte",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108453691659697461814/reviews?hl=en-US",
+        "census_block_group": 370670001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzb3UzSjlRRRAB",
+        "caption": "Excellent atmosphere and food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Casey Conine",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114665344444697380474/reviews?hl=en-US",
+        "census_block_group": 370670001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbk5mX1V3EAE",
+        "caption": "Really enjoyed this place.  Great music playing. Friendly service. Pork belly was super delicious. Can't wait to be back soon.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "jamie reavis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103624241931034129237/reviews?hl=en-US",
+        "census_block_group": 370670001001
+    }
+]

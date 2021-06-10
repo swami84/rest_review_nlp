@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjMXFMX3RRRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Xavier King",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117940126061277166984/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnLWZDZTB3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 2.0,
+        "username": "Silvina Dippolito",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106918428679287589000/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    }
+]

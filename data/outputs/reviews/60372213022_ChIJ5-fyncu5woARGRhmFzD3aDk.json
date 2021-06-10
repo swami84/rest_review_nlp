@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbjRtS2VBEAE",
+        "caption": "(Translated by Google) It is a very nice place for children  (Original) Es un lugar muy bonito para los ni\u00f1os",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "William Moreno",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107515763913218099922/reviews?hl=en-US",
+        "census_block_group": 60372213022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMC1TRnh3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ivania Comayagua",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100815149841271943977/reviews?hl=en-US",
+        "census_block_group": 60372213022
+    }
+]

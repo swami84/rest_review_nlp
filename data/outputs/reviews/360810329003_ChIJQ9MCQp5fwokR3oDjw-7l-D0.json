@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb2IteDJRRRAB",
+        "caption": "(Translated by Google) Shepherd's nachos are recommended \ud83d\udc4c\ud83c\udffc  (Original) Nachos de pastor est\u00e1n recomendables \ud83d\udc4c\ud83c\udffc",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Romer Perez",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114509744556101231559/reviews?hl=en-US",
+        "census_block_group": 360810329003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJMnR5NmNREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "TROY",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114602621755237377731/reviews?hl=en-US",
+        "census_block_group": 360810329003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJN3YyaWFnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Carlos Z",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117345387702998952426/reviews?hl=en-US",
+        "census_block_group": 360810329003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dUx2RkR3EAE",
+        "caption": "Really good food, and okay prices.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Sehverence Higgins",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106435668601767062135/reviews?hl=en-US",
+        "census_block_group": 360810329003
+    }
+]

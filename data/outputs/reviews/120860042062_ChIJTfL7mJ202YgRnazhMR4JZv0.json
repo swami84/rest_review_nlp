@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBOC1fd3F3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Andi Muc",
+        "n_review_user": 47,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105225982832293333571/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbGVheUl3EAE",
+        "caption": "A hidden gem in the heart of South Beach. So peaceful and relaxing!",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Sara",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113270075404297495505/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    }
+]

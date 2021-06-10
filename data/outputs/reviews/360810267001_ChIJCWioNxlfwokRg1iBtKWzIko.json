@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjdXVXUTBRRRAB",
+        "caption": "(Translated by Google) Excellent !! Cuban sandwiches, Miami style. Delivery on time. I recommend my favorite the midnight with apple slices.  Some excellent Cuban sandwiches !! Miami style. Give on time I recommend my favorite midnight \u2026",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jose-Francisco Rivera",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103992167419177305155/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjdXA3M29RRRAB",
+        "caption": "Great Cuban sandwiches, and fast delivery!",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "The Green Standard",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110294357682953665681/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjOEpTRi1nRRAB",
+        "caption": "So apparently this restaurant does not EXIST at this location; however, a bakery called LGV does. DO NOT ORDER FROM THE CUBANO SANDWICH SHOP IT IS A STRAIGHT SCAM. Order from the bakery, you will not be disappointed \ud83d\ude0a.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Mel j",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113085191755604934688/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    }
+]

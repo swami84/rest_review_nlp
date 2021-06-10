@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeHJtUkN3EAE",
+        "caption": "\u8c22\u8c22\u4f60\u4eec\u7ed9\u6211\u8fd9\u4e48\u597d\u5403\u7684\u4e1c\u897f",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u4e1c\u65b9\u65c5\u6e38\u5305\u8f66-",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115264134557931829340/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNk8zSkRnEAE",
+        "caption": "I tried the qianbao\u524d\u5305 and fried rice cakes, and it was DELICIOUS! Nice decors inside too.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Yian Lu",
+        "n_review_user": 62,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108213240297707295615/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eWFxbkdREAE",
+        "caption": "Golden King Buns were very tasty, different from the standard pork buns, great tasting filling. Braised beef and lamb tripe also were delicious. Would recommend you try these. Prices were also amazing. They use Fantuan Delivery service and \u2026",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Charles Chen",
+        "n_review_user": 43,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117164797218223050179/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5c2ZESmd3RRAB",
+        "caption": "I ordered a few things off the menu just to try out a new spot. And WOW it was even better than what I expected, wonderfully cooked with flavor, and juicy! Definitely will be back!",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Sophronia Ma",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116414426068643267092/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTc2VDdTRBRRAB",
+        "caption": "Place is clean, and new",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "UltraEric",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104839742876607006113/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTNEt5MElREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u859b\u51b0",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102067897771003084759/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpeE8zbkd3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Ling Yip",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102383169489759952685/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbTltZjl3RRAB",
+        "caption": "Best seared bun in the neighborhood! Must try!!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Leo C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104341668572136495419/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

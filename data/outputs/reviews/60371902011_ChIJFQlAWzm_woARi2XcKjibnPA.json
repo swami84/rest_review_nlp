@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4bUpmcGtRRRAB",
+        "caption": "This place is fantastic! Affordable rates, large dishes and the staff are consistently helpful.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sonny Rich",
+        "n_review_user": 134,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117615820091153286247/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvMlBEVTF3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Patrick Morton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114816326908974813868/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdDlYdUlBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "aby baby kuruvilla",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110261394405635335848/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbWJEUXhBRRAB",
+        "caption": "Pretzels were fresh. Though they advertise usage of the app, they said the system was down.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Vanesa P",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113408090701578977466/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwcU5tY3dRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Gail C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116817316969381020787/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3eWJ6S2dRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Sebastian Lopez",
+        "n_review_user": 63,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111318696668891981279/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcU02aWJBEAE",
+        "caption": "Honors T-Mobile Tuesday deals and serves great pretzels :)",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Victoria Yang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106305010620516702549/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcU92VjF3RRAB",
+        "caption": "Yummy food and really nice employees",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "sugarcane canela",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104718610616144479083/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRd3AzWHlnRRAB",
+        "caption": "pretzels are sick as hell",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Eric Lavers",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104169741541249305113/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3MV9iOXd3RRAB",
+        "caption": "I remember the first time I had the Pretzels of AA, It was the smell that attracted me here, and the softness of the bagels, with that great taste that always bring me back. I learned one thing: If the Pretzel is not fresh, and I mean recently made, do not take it, and wait for fresh one to come out of the oven.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Jason Romano",
+        "n_review_user": 20,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104768571849525210299/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4MWViMWFnEAE",
+        "caption": "This Black owned business is amazing!!!!!!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Artistic Brown Girl",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107379932667865650722/reviews?hl=en-US",
+        "census_block_group": 370810108002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNczRPaEF3EAE",
+        "caption": "Served up the best mango lemonade I've ever had!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Antoinette Hayes",
+        "n_review_user": 38,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110132921206967779836/reviews?hl=en-US",
+        "census_block_group": 370810108002
+    }
+]

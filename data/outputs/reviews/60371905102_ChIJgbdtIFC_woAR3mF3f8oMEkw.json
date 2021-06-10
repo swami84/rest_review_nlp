@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDaWNYNDNBRRAB",
+        "caption": "This place makes AMAZING FRESH TO ORDER CHICKEN STRIPS AND SANDWICHES!!!! And you have to try their new Mac and cheese it's soooo good! Also if your a lover of spicy food this is the place for you!!!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Paul Smith",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108942949332561675899/reviews?hl=en-US",
+        "census_block_group": 60371905102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMU1pQ3BRRRAB",
+        "caption": "Oh come on. Delicious.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Thomas Scoville",
+        "n_review_user": 505,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109384615719194130589/reviews?hl=en-US",
+        "census_block_group": 60371905102
+    }
+]

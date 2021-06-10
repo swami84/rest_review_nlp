@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJbHA2VEtnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 3.0,
+        "username": "Charo Merino",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100971481051062613748/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJaTZpcC1BRRAB",
+        "caption": "Going back again",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "diego giraldo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101013233356113762308/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3bm9xSnZnRRAB",
+        "caption": "There were some good healthy options but let's say it wasn't my meal here.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 3.0,
+        "username": "Rom Shiri",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102602436072110452391/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBOUstSmhBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Susana Ramirez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105382042694313460112/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    }
+]

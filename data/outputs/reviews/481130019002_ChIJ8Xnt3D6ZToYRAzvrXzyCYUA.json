@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMGIzV1N3EAE",
+        "caption": "This spot is good! Fair rates, large dishes and the staff members are constantly welcoming.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Andrew Brownell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107874591454142220776/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdHRES3hnRRAB",
+        "caption": "entered near ten, it was not crowded. prices are fair i would say. kinda of like a restaurant in los angeles i liked to visit.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Bobby15 N",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100867171463249836295/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNGJPVEdBEAE",
+        "caption": "Rude owner",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Paula S.",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104483759291759248564/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNall1NU5REAE",
+        "caption": "This place has several ways to heat bread including a wrap press and conveyor style sandwich oven, but can only manage to microwave the meat. Ordered a Philly and they toasted the bread and cheese, while microwaving the meat, then adding \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Kendrell & Ashley Moore",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102190169438802762424/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    }
+]

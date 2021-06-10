@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZzRlcUxnEAE",
+        "caption": "One of my fav locations for delicious TexMex. dropped in on tues. i've had nothing but enjoyable experiences here and plan to keep visiting. the bill was appropriate.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Asher Garza",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112490315852023051779/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdGJMc2RBEAE",
+        "caption": "A fav spot for delicious TexMex. Do yourself a favor and try this place. Reminds me of a restaurant in Philadelphia that I enjoyed.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Eduardo Stanton",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105835836702614590188/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDd2RIbmhnRRAB",
+        "caption": "texmex and the scene here is above par. A preferred evening place. I'll return with my friends.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "jasmine bush",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113474017023635654865/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDM3VUZk53EAE",
+        "caption": "texmex at this location - very tasty. Food was so fresh. I had a cousin come into town and asked me to take him back here. The bill was average for the menu.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Dillon Evans",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112628783856874382995/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDN3FMSWd3RRAB",
+        "caption": "TexMex, yeah, excellent. Service is always timely even when they have a full house. It has a great atmosphere. Like a restaurant in Washington I liked.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Wesley Vaughn",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116356668192171870488/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZcTdfQk5REAE",
+        "caption": "texmex, delicious. Prices are reasonable I would say.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Kevin Foster",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104051927995445024478/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3dHE3c1BREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Cristie Wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112944598717247676275/reviews?hl=en-US",
+        "census_block_group": 480291101002
+    }
+]

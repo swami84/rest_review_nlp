@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aWFYYU53EAE",
+        "caption": "Very nice",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Juan Jose",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107338953579429959023/reviews?hl=en-US",
+        "census_block_group": 360810443023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwX3BLeFZREAE",
+        "caption": "Delicious food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "S. Singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103406974314532278840/reviews?hl=en-US",
+        "census_block_group": 360810443023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwd3NyZ2VBEAE",
+        "caption": "I eat here all the time..",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "shankar burathoki",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102268856099477110205/reviews?hl=en-US",
+        "census_block_group": 360810443023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMk9uYktREAE",
+        "caption": "The best halal food !!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Roshan Shah",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102367959071678899520/reviews?hl=en-US",
+        "census_block_group": 360810443023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVb0pTX2tnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Saed Paktik",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108274880484705096736/reviews?hl=en-US",
+        "census_block_group": 360810443023
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4OU5XcTRBRRAB",
+        "caption": "Very good",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Fernando Urteaga",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117901625336070067941/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzLXNIaVNnEAE",
+        "caption": "(Translated by Google) Good service and rich ceviche and beers  (Original) Buena atenci\u00f3n y rico ceviche y cervezas",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Gustavo Huapaya",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105578996107206252697/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzdXE3QzR3RRAB",
+        "caption": "Excellent food 10/10",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Mariano Ruiz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112565208857226208207/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzOUpMX2JREAE",
+        "caption": "Perfect!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Fernando Urteaga",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109534175469589767470/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMlBySkpnEAE",
+        "caption": "(Translated by Google) The sandwiches like peru (Buenzos), classic ceviche as it has to be (for those who know). 100% recommended  (Original) Los s\u00e1ndwiches como peru ( buenazos) , ceviche cl\u00e1sico como tiene que ser( para los que saben). Recomendado 100%",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Tavo Ramirez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115683486476691681674/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOTh1dGJnEAE",
+        "caption": "A really good Peruvian food, excellent service. S\u00e1ndwiches are delicious! \ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Juan Figueroa",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107630319895777878764/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcTRHT1dnEAE",
+        "caption": "(Translated by Google) Excellent cevixhe and sandwich Especially the classic ceviche and also taste the Peruvian flavor chipotle ceviche I also ordered a pork rind sandwich Highly recommended Excellent local concept Very Peruvian And \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Nestor Rojas",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104888084665511993020/reviews?hl=en-US",
+        "census_block_group": 120860028001
+    }
+]

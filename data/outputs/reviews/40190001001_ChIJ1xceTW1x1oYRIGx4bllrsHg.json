@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjeTZIRGhRRRAB",
+        "caption": "Great pizza, great service, even in lockdown.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Joe Seeger",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113450543095876113741/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNekxfMTJnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Patrick Jennings",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100714293151904220198/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQweVptRVdREAE",
+        "caption": "The place rocks and the Matty is the best!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Kristin Hahn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101153793881903452469/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMweXBQZEJ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Alexander Reed",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118017987025577187191/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    }
+]

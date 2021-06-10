@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOHAzUFp3EAE",
+        "caption": "(Translated by Google) Excellent  (Original) Excelente",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "JOSE L. JIMENEZ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110445215434369615809/reviews?hl=en-US",
+        "census_block_group": 361190014032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c3NtaGJBEAE",
+        "caption": "My go to.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Damian D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108926919188430094303/reviews?hl=en-US",
+        "census_block_group": 361190014032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ci1idWtBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "benqing zhu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107479008404394856233/reviews?hl=en-US",
+        "census_block_group": 361190014032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5emVySXVRRRAB",
+        "caption": "This place constantly delivers. They serve fantastic food for affordable prices, there no long wait even when the place is busy.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Ben Kline",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101258738182887506089/reviews?hl=en-US",
+        "census_block_group": 361190014032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dnJqUUJ3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Daniel Mendoza",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109318636315826474613/reviews?hl=en-US",
+        "census_block_group": 361190014032
+    }
+]

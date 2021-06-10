@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDX3QzYmRnEAE",
+        "caption": "The staff was very friendly and the service was good. However, the food was mediocre, especially for the price.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Noah & Michala Diestelkamp",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105358428775670580708/reviews?hl=en-US",
+        "census_block_group": 60750102001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4NmNDVnJBRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Nanda Frehe - Werner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105916471360901536255/reviews?hl=en-US",
+        "census_block_group": 60750102001
+    }
+]

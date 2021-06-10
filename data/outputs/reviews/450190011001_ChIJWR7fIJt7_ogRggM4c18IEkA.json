@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NjRxZWV3EAE",
+        "caption": "Fantastic",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "David Tinkey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115988546193849635851/reviews?hl=en-US",
+        "census_block_group": 450190011001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpck9ldVZnEAE",
+        "caption": "We just  happened across this cozy little bar while wandering back to our AirBnB and I\u2019m glad we stopped in. The owner was super friendly and though very small, it has a quaint and warm vibe. There was a nice variety and drinks were delicious! If I was a local it would be a place I would frequent.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Kimberlee Patzer",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115496377768887543079/reviews?hl=en-US",
+        "census_block_group": 450190011001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMXBmQ1lnEAE",
+        "caption": "Great beer, even better crowd. Definitely try the home brew. Rutledge is the best.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Justin Finch",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100512202389146214586/reviews?hl=en-US",
+        "census_block_group": 450190011001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMXJUbDZnRRAB",
+        "caption": "Excellent \"hole in the wall\" bar that serves up the best from the local breweries. The owner Rutledge brews some killer beers too!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Raymond Zheng",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117185552010465105150/reviews?hl=en-US",
+        "census_block_group": 450190011001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDc0t2WmR3EAE",
+        "caption": "Albeit a small space it is cozy with a good alcohol selection and cool vibes.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "D M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102864938291541148391/reviews?hl=en-US",
+        "census_block_group": 450190011001
+    }
+]

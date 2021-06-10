@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDZy1udkZREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Fernando Vazquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107915466888301007969/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNUlfVFpBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Ast_ny13",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108605708465512893797/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbC0zdm9nRRAB",
+        "caption": "I found lots of hair from my cemita and tacos  from the lady working there",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "toogudd fourdis",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102368266306481262153/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwOTR5bHdnRRAB",
+        "caption": "Im from new haven c.t and and one day I just past by this taco truck and Isabel  serve me the best tacos ever 5 stars",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "jorge portillo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104243432350348126193/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwOTR6cFpREAE",
+        "caption": "(Translated by Google) Lito Isabel prepares some tacos with love and much more. All the food was very tasty!  (Original) La Se\u00f1ito Isabel prepara unos tacos con amor y mucho m\u00e1s. Toda la comida estaba muy sabrosa!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "K 20",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110729737834094668100/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMweFpUMU9BEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "fernando vazquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117925192349401501682/reviews?hl=en-US",
+        "census_block_group": 360810327002
+    }
+]

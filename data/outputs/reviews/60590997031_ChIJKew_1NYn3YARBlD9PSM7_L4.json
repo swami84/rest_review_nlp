@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ek5DUXp3RRAB",
+        "caption": "This place is surely one of the tastiest restaurants in the area. Always when I come to this place I am remarkably satisfied. They manage their high  standard service and the topmost level of dishes  they serve. You always win with this restaurant. Warmly  recommended.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Erick Brown",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118292801323486471262/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5X1luaENnEAE",
+        "caption": "Had a fantastic experience in this spot with my wife. The food comes out rapidly and the service is just awesome. Prices are affordable.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Nash Liu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104693378422173364346/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGZEeHVBRRAB",
+        "caption": "This spot never fails to impress. They have excellent food for reasonable rates, there is no waiting time even when the spot is loaded.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Ace Hartman",
+        "n_review_user": 124,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110491601219737360700/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbnV1RVV3EAE",
+        "caption": "Yolanda sells the best tamales! Try her arroz con leche too it won\u2019t disappoint! Also, she\u2019s a very cheerful lady you\u2019ll enjoy!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Juan Gerardo",
+        "n_review_user": 35,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104242839606696370406/reviews?hl=en-US",
+        "census_block_group": 360610229001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwOGM2cV93RRAB",
+        "caption": "My whole family always go to buy our tamales from Yolanda. She is so sweet and makes the best tamales around.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Claudia lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104227971503088921520/reviews?hl=en-US",
+        "census_block_group": 360610229001
+    }
+]

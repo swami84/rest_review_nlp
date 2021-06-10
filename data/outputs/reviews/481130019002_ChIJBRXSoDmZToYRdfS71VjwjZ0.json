@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeXJxdW93RRAB",
+        "caption": "American food, my favorite treat. looking forward to a return trip. food is similar to a cafe in indianapolis i loved.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Valerie Klein",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113779114525861951069/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNDZIZkpREAE",
+        "caption": "Great place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "D Dayson",
+        "n_review_user": 104,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104606727186948294766/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNenQ2NUtnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Kimberly Fields",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100137030477279786105/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    }
+]

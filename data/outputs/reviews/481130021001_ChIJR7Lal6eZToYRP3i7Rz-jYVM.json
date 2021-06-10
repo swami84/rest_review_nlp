@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MjRHRHRnRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Jon Magruder",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104749720376441636124/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dm9tQ3V3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Roxana Mondragon",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109641259585463604911/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTN19TT0tnEAE",
+        "caption": "Great food, guys are awesome",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "scott hayes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100534336475486359356/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTamF1VHBBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Ryan Bond",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107542271518541969343/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTLWJ5RlJREAE",
+        "caption": "Trash",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "David Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103326864171951229146/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdVBTQWdBRRAB",
+        "caption": "I arrived to the food truck and the guy said it's the other truck I have no idea which truck it is cuz I do not work for the company he's very rude and slammed the window I can't believe you would have somebody working for your company like that",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "richie blackmon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115750694063453339273/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdk9Ic1NnEAE",
+        "caption": "Food cold and missing my wings",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Mrs CoCoChanel",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115866659694795208213/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbzdHN1NREAE",
+        "caption": "I always get the white chicken kabob plate. The rice is delicious everytime & when mixed with the grilled tomato there is nothing better.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Johnny Robinson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100463261268534608086/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnbTdtLUV3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Paulynne Macaspac",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110014785447531857238/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnOC1QRVp3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Raul Solis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104997172831912613386/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBeUo2STVRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Rodolfo Padilla",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103814327497710331197/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaTh6T1FnEAE",
+        "caption": "Amazing!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Trevor Ledergerber",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109130279447501012807/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURReThpRkVREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Everardo Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115868787715961458353/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRMHRqUVBnEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Genevieve Barragan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117714803335915309416/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnbnVxMmpBRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jeremy Welland",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103525144689794008029/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    }
+]

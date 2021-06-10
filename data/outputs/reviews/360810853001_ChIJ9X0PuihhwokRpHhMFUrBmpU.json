@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNE1uNm9RRRAB",
+        "caption": "Different and delicious",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "TheAnatoly1",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112186212504696186770/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LVlfT3RnRRAB",
+        "caption": "It was so yummy. I got the eel and avocado along with the shrimp tempura for everyone at work. They all loved it. The guys who are working there are super friendly and nice. Will come again. (It might take some time for them to prepare so definitely call ahead of time)",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Anna L.",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101133974820107200218/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTNlBhQzBRRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Dong Niu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103313950064992366177/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDcl9DZDl3RRAB",
+        "caption": "Their food is always fresh and comes fast",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Brenda Lin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102380112200456857284/reviews?hl=en-US",
+        "census_block_group": 360810216002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNajZudVRREAE",
+        "caption": "This restaurant has 54 HEALTH CODE VIOLATIONS! Read them on the nyc.gov website. Don\u2019t take my word for it. Read them for yourselves.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Alexandra Berene",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112276170348310281008/reviews?hl=en-US",
+        "census_block_group": 360810216002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNX2VHWFR3EAE",
+        "caption": "New Shanghai has great foods. Keep it up",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ricardo Parsons",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103873053855114973811/reviews?hl=en-US",
+        "census_block_group": 360810216002
+    }
+]

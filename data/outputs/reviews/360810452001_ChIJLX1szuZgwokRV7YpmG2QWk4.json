@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOGVmekRnEAE",
+        "caption": "I regularly stop by purchasing some food here. I like the speedy service and well prepared food. Great work.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Daniel Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113394888289838502902/reviews?hl=en-US",
+        "census_block_group": 360810452001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBa2F1MXRBRRAB",
+        "caption": "Great",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "deepa shere",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105150917040199699981/reviews?hl=en-US",
+        "census_block_group": 360810452001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd3JmV1N3EAE",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Anwar ul Islam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100221505682807563564/reviews?hl=en-US",
+        "census_block_group": 360810452001
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLeE9XN3h3RRAB",
+        "caption": "This place is wonderful. The bagel sandwich I had was the perfect amount of crunchy, chewy and savory. Their service could not have been better on a busy morning, as well. Highly recommend!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Davis Pearce",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107155724970912767532/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeElEVEJBEAE",
+        "caption": "I have been following their story on Instagram - and unsuccessfully tried to visit one of their pop up shop locations. Now that they have a permanent store front, I\u2019m coming all the time! Had an amazing breakfast sandwich and iced coffee that was reminiscent of new York bagels!! 10 out of 10 would recommend!!!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Alex Knodel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108149492466184781973/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLMk5QWHZBRRAB",
+        "caption": "Definitely the best bagel shop we've been to here in Nashville! Bagels were big and soft on the inside and toasted very nicely on the outside. Staff was amazingly friendly and fast! This is definitely our bagel place while we're here in Nashville!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Arielle Wyatt",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112338213431896375967/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5al96Y3dnRRAB",
+        "caption": "Delicious hand-rolled bagels and the friendliest staff! Definitely recommend.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Sara Crabtree",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105884944459276816639/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5emF6YkdREAE",
+        "caption": "Fresh hot bagels that have the perfect texture! And their schmears... top-notch. If you want to eat and be satisfied, definitely go here. The food is amazing and the staff is so nice.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Rachel Westerfield",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104626716520351910111/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OVlHMXJRRRAB",
+        "caption": "best hand rolled bagels and bagel sandwiches in town!!!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "jessica wills",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109020551405409213649/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    }
+]

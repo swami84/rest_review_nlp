@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4c0tta2l3RRAB",
+        "caption": "A eclectic place, indulged with a tasty class of mysterious flavors.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Harold Teran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107495102200106480728/reviews?hl=en-US",
+        "census_block_group": 60372318001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVX09mY2l3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Wuilver Martinez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101933019096235492692/reviews?hl=en-US",
+        "census_block_group": 60372318001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRb01lMDZBRRAB",
+        "caption": "Let's do this",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Mr doing stuff hasan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100903463959234883029/reviews?hl=en-US",
+        "census_block_group": 60372318001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBN3NqTDhRRRAB",
+        "caption": "Love the food and drinks",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Lte01 Company",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101616698070042176983/reviews?hl=en-US",
+        "census_block_group": 60372318001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBMksyYWt3RRAB",
+        "caption": "Bomb tacos",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "jamal anderson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115009568848647117945/reviews?hl=en-US",
+        "census_block_group": 60372318001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eGN5RXZnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "smexy raccoon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105508921937636606811/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRLXVuTGZnEAE",
+        "caption": "Whomever gave this place two stars has mental issues.  Big Cheese Dog is the bomb.  If you go to a kids nags game try their grilled cheese they are insanely good.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Debbie Reynolds",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117176148296328000593/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    }
+]

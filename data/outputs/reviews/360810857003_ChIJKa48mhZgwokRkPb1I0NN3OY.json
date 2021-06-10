@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLenR6LU93EAE",
+        "caption": "This place is worth a visit. They have large portions for fair rates. Regularly neat and with awesome vibes. Will come back again.",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "George Lindsay",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116884745735158075473/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpN1lyM0hREAE",
+        "caption": "This restaurant is fantastic and spacious, the food was delightful and the rates were very economical. quickly, effective service and very welcoming waiters. Will definitely recommend this place.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Kolby H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116293070311844331478/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDOTVieTB3RRAB",
+        "caption": "Awesome place to buy some food when in a rush. Their service is quick, rates are convenient, fantastic vibes. Would recommend to others",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Carson Rice",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106921764523896829326/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwa3RENkRBEAE",
+        "caption": "I always come purchasing some food in this place. I liked the rapid service and well prepared dishes. Keep up the good work.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Dominic Golden",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114271780217789525639/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVZ2ZXZGdBRRAB",
+        "caption": "The place offers an awesome range of fresh food. I like dining here. The employees are always nice, pricing is affordable and the place is always well organised.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Ronin Bridges",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107873985669809276869/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFbnNtc1hBEAE",
+        "caption": "Great food and service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Orlando Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100417286850355738229/reviews?hl=en-US",
+        "census_block_group": 360810857003
+    }
+]

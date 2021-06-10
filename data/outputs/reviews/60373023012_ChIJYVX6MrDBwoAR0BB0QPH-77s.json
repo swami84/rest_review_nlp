@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dXNXUmVREAE",
+        "caption": "I frequent this marvelous  place many times because I love the good mood that is outline this restaurant. The crew is very loving and well trained. The service is deeply quick. Not to mention, the food they serve is excellent. I frequent often and I was never disappointed. The pay is honest. I highly suggest this place to to all.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Randy Kerr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109955601857334288999/reviews?hl=en-US",
+        "census_block_group": 60373023012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cU1mYzh3RRAB",
+        "caption": "This spot gives superb service and tasty food. One of the best spot in the city. The food and drinks served rapidly and the rates are fair. I recommend this place.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Phoenix Roach",
+        "n_review_user": 86,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110176103232135569351/reviews?hl=en-US",
+        "census_block_group": 60373023012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbG9iYUxBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Sean Devlin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107381821648417674277/reviews?hl=en-US",
+        "census_block_group": 60373023012
+    }
+]

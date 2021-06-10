@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cGJ5YmVnEAE",
+        "caption": "The food is on point every time. The atmosphere is relaxed. Great place to bring a small group. I've been a couple times now and they never disappoint.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Free Man",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113028631065221766048/reviews?hl=en-US",
+        "census_block_group": 482014110003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzck1lU0pBEAE",
+        "caption": "Had lunch here with a friend..  We were warmly greeted.   The food was delicious.   The head chef and the Assistant chef personally greeted us and asked how we enjoyed the food. It was a very positive experience.  Can\u2019t wait to return.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Cathey Johnson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112382529354037085423/reviews?hl=en-US",
+        "census_block_group": 482014110003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNODYtd2t3RRAB",
+        "caption": "Staff is extremely nice and attentive",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Einnam Andiron",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101934783949272507554/reviews?hl=en-US",
+        "census_block_group": 482014110003
+    }
+]

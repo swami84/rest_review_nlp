@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJMWZtSVFnEAE",
+        "caption": "(Translated by Google) Very good service  (Original) Muy buen servicio",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Juancarlos Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106282575120280136666/reviews?hl=en-US",
+        "census_block_group": 360610243013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnMjltYVhnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Daniel Figueroa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117574683209654300219/reviews?hl=en-US",
+        "census_block_group": 360610243013
+    }
+]

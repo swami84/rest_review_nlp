@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcnVuUDVRRRAB",
+        "caption": "",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Yelizaveta Golub",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113076232628953332791/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTOTVxVVl3EAE",
+        "caption": "Nice place...",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Rita Todd",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110081387029637346646/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4cXV6UU9nEAE",
+        "caption": "I'm hooked. I went in for a big burrito a few weeks ago and now I frequent 1-2 per week. Very fresh and heathly options. The employees are generally very pleasant also.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Aaron Jacobs",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114042128061158395939/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjczk3SU5BEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "\uc724\uc0c1\ud638",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100881099471107528389/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjdllYSlJREAE",
+        "caption": "There more than one kokoroll around. This one has sweet fish dessert called taiyaki. Pretty good. Fresh protein and vegis. I would recommend to anyone looking for fresh spicy tuna burrito roll, its awsome!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "yang kim",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112173082096344789397/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbFBXeDhnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kasup Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108934299550392353487/reviews?hl=en-US",
+        "census_block_group": 60371902012
+    }
+]

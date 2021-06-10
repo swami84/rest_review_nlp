@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNjZUWTZnRRAB",
+        "caption": "(Translated by Google) Good atmosphere  (Original) Buen anbiente",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Gregorio Aguilar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102278392978675121767/reviews?hl=en-US",
+        "census_block_group": 360810444002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRb3BPMVl3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Osmin Serpas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115577784276562654847/reviews?hl=en-US",
+        "census_block_group": 360810444002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnMHNTQi1nRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "New York",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100976497737598283869/reviews?hl=en-US",
+        "census_block_group": 360810444002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdC03bmF3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 2.0,
+        "username": "Jossy Soriano",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106375966390880422355/reviews?hl=en-US",
+        "census_block_group": 360810444002
+    }
+]

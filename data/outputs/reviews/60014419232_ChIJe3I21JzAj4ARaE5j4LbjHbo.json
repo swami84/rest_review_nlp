@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZdFBydlRBEAE",
+        "caption": "I like it when I see them on the road",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "harjinder Dhanjal",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109186173714398042324/reviews?hl=en-US",
+        "census_block_group": 60014419232
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRdHAyNndRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "jashan mahal",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106924881934852097787/reviews?hl=en-US",
+        "census_block_group": 60014419232
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaC1INEl3EAE",
+        "caption": "Cheap apts",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "harwinder ghuman",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105484766979150883053/reviews?hl=en-US",
+        "census_block_group": 60014419232
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcmUzQ3hnRRAB",
+        "caption": "Good",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Mehakleen Ghuman",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110120520914248251441/reviews?hl=en-US",
+        "census_block_group": 60014419232
+    }
+]

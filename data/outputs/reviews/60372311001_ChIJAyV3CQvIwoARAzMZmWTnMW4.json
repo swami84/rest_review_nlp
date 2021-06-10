@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGUzT3FnRRAB",
+        "caption": "Ordered on Uber Eats. Not only was the delivery late but the meal had piece of metal in it! The soup looked like it was half-drank, the bowl was empty of actual ramen sides. Overpriced nonsense!  At least it was edible.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "Mingzhao Xu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106342648250910902646/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpc3M2SnlBRRAB",
+        "caption": "I always come by buying some food in this spot. I loved the rapid service and well cooked dishes. Highly recommended.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Zaiden Michael",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104225725947837994479/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMUxYWUd3EAE",
+        "caption": "I tried rating another place but i think i got the wrong address.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Brian Vasquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101876271661184473784/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

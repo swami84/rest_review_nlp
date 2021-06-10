@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNll1bUV3EAE",
+        "caption": "Fire\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Juan De Puente",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102805450632664014463/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLd1pYVnZnRRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Terri Toomer",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105426419941646241508/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDRmTnlBRRAB",
+        "caption": "Not bad, not amazing. Great that they deliver late. A lot of food for the price point. I think they deserve a chance for a new business.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Jasmin S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103682228782416218889/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cC0yamtRRRAB",
+        "caption": "OMG! The OMG cookies are like out of this world! Better than any dessert at this 5 star hotel we had them delivered to in Brickel. The Assad nachos also hit the spot!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Russ Britton",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101250061031394464828/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5allEbXJnRRAB",
+        "caption": "I was looking forward to this place but was very disappointed  I waited 30 minutes for a burrito that apparently had been ready for me and waiting for 10 minutes but they failed to inform me. They must\u2019ve given me the wrong burrito because \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Miguel Dupleich",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108482835150734213736/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c2RyalF3EAE",
+        "caption": "Spent $60 on food here ordered through Uber eats and they didn\u2019t even send me the whole order. Extremely disappointed.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Arianna Rodriguez",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112356474405203792878/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dU9XZWhRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Aylin Farinas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110768901490182283855/reviews?hl=en-US",
+        "census_block_group": 120860066025
+    }
+]

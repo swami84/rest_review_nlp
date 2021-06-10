@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNE9XelhBEAE",
+        "caption": "Love it , that\u2019s my favorite taste",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Dominic Pham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102272250155082066510/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ejdUWmxRRRAB",
+        "caption": "First time here, ordered Canh Bun, it wasn't good, it's salty. It's not the way the northern viet nam make.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "David Trinh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110277485230489216404/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5emJUVjV3RRAB",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Thanh Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111295482860562927625/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cGM3TEVnEAE",
+        "caption": "Very authentic b\u00fan ri\u00eau. Friendly service.  Best b\u00fan ri\u00eau in OC area.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Van Bui",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102645800494089581254/reviews?hl=en-US",
+        "census_block_group": 60590888014
+    }
+]

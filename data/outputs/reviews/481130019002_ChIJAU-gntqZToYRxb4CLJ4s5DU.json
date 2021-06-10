@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbXVhODdnRRAB",
+        "caption": "Love April at the bar.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Linda VanWinkle",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103046207567170061938/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzN2YzRlh3EAE",
+        "caption": "Bought my dad here for our first game together. The service was quick & burgers were fresh.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "xavier matthew",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104240828739860415416/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbHNYcUVREAE",
+        "caption": "If i had the option of putting no stars I would. Do NOT eat here. The chicken sandwich was like a piece of rubber. It had the worst texture biting into it. Let's just say that night I had bad stomach cramps and many trips to the bathroom.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Tamar Bederian",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116655870204941712104/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdE11Z3BBRRAB",
+        "caption": "If you like waiting for 30 minutes for a burger and being late for the game, this is your place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Jeff Giles",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116302004766067836695/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMweThYTm13RRAB",
+        "caption": "Worst chicken sandwich in entire Dallas. Sitting area is nice though.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Alex Zady",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111092927290218735391/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    }
+]

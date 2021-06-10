@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjcDk3ZzRBRRAB",
+        "caption": "not the greatest, but ok for a mid night snack",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Nick Stevens",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105133641989932742933/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdG9PZEpREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Rebeca de Moura Carpilovsky",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114408286928220736485/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3ZzllN2JBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Kartoffel Poteto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106997039460923030702/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3a2JyLXBnRRAB",
+        "caption": "I used to work here many years ago and I can honestly say that this place sucks the oriental owner of this place is homophobic be care full",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Mark smith",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106694165309433230692/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnOTlEN1pREAE",
+        "caption": "the pizza and salad tasted kind of weird. It was overpriced. The employees were very pushy. Would not reccomend.",
+        "relative_date": "12 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Dan Leveille",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101269616518480136760/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    }
+]

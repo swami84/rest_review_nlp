@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NXBhSEJBEAE",
+        "caption": "Called Ora Grill, same location. I ordered the teriyaki beef and chicken rice plate with sides of orange slices and avocado. Tasty. Healthy.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Daniel Aranda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104190785668374527761/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dGFhcW9RRRAB",
+        "caption": "Healthy product @ a reasonable price.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jeffrey Potter",
+        "n_review_user": 32,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108121711367892928770/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4ejdhOFZ3EAE",
+        "caption": "This restaurant is my favorite place.  Of all restaurants I know I favor it most. I never miss an opportunity to go to that place. when  I feel like having a fair lunchon, this is the place that comes straightaway to my mind. \u2026",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jose Fernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106802645279021722324/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNzhmX0NREAE",
+        "caption": "I was hesitant as it does come up as Waba Grill, I decided to give it a try and must say it\u2019s better than Waba and the portions are great. The meat is very savory. Customer service is exceptional.",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "George Duran",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101368038398342359372/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjcThiM0pREAE",
+        "caption": "No more Wabba Grill,Now is Ora Grill. Excelent food tasted better than Wabba. Support our small business.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Juan Miramontes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112340909892500511760/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNNzctcjl3RRAB",
+        "caption": "Waba grill beats all other places like flame broiler. The chicken and steak are high quality meats and are seasoned really well. The rice is also really good and mixes really well with the meat. I devour a bowl and feel content.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "sergio ledezma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118001416691543567366/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwbC1IdW93RRAB",
+        "caption": "This is absolutely one of the coolest place to eat in the neighborhood. Always when I come to this place I am awfully happy. They maintain their high  level service and the topmost level of dishes  they provide. You are always happy with this place. Highly  recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Colt Kane",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108745595120054271695/reviews?hl=en-US",
+        "census_block_group": 60371132132
+    }
+]

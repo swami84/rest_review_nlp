@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaklfOUhnEAE",
+        "caption": "Pasta feast tonight - Squid ink and fish, black & white thin pasta (really good...our favorite!!!!), pumpkin ravioli with butter truffle sauce (Little sweet and great flavor), bone marrow with salsa verde and calamari. Everything was really delicious. I highly recommend.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Alan lopez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109023932549661938215/reviews?hl=en-US",
+        "census_block_group": 120860042041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvb1BhSUZREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Jason Dwarzski",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107244543856788749011/reviews?hl=en-US",
+        "census_block_group": 120860042041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJXzd2c0VBEAE",
+        "caption": "Great place for a drink and dinner on Lincoln Road. \ud83d\udc4d\ud83d\udc4d",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Peter Wolfson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113077415582560124658/reviews?hl=en-US",
+        "census_block_group": 120860042041
+    }
+]

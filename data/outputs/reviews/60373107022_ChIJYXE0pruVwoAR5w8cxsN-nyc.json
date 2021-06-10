@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLVozd1h3EAE",
+        "caption": "A must eat for me whenever I go to LA. Glad to see it\u2019s expanding to so many places.",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Wei Shen",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113137176516835108421/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ei1XbER3EAE",
+        "caption": "Order food from  before 9pm they accepted the order but made wait to force the uber eat driver to cancel order. If I cancel they would have kept the money",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "ACE KNIGHT",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103537066376442120663/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LUxmdTlRRRAB",
+        "caption": "Very good sushi, simple but very fresh and tasty. If you are not a serious sushi eater, go somewhere else. This place has simple and good sushi. I would go to Pasadena or Studio City, but now I can just go to Burbank.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Haik Patatanyan",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102575815803387556608/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M3MyRmhnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Michael Wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102573015289887223306/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ME52c1dREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Jeff G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116212896888310329336/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cjR2ejNRRRAB",
+        "caption": "This place is a waste of money! Cheap quality of sushi and service.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "zara agalmazyan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110333182936678041963/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dV9QVGpnRRAB",
+        "caption": "As an avid lover of their restaurant, I would often have to make a journey to their Hollywood location. Needless to say I am thrilled they opened a location right in Downtown Burbank!  Their sushi is amazing, prices are fantastic...did I \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Charise Borja",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101609010103565771897/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    }
+]

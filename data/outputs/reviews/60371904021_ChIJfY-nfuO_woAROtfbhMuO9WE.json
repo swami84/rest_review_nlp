@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NE1HNXdRRRAB",
+        "caption": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "sathit sathirathiwat",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105671870399451980786/reviews?hl=en-US",
+        "census_block_group": 60371904021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTMDlqYkRREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Tatar Arthit",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113601573202621932920/reviews?hl=en-US",
+        "census_block_group": 60371904021
+    }
+]

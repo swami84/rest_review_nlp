@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjN05qZ3lnRRAB",
+        "caption": "Great place for brunch or dinner. Solid , simple menu and good music. I highly recommend you try the salmon dinner w/ a side of spinach & creme brulee for dessert.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "A. D.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107643211937633392617/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzNnJITzlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Jeffery Sajous",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109745483972244173921/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzcy1qVTZRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Meli La Guerre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100042359134754196199/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNdWVPZkxnEAE",
+        "caption": "Nice atmosphere",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Cynthia Brown",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113793461107300647796/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNd2Z1VEZREAE",
+        "caption": "This place is always filled with charming people who talk politics and share local laughs. Food is really good, seasoned nicely and fresh. John and Genesis are wonderful professional bartenders who make you your pleasure and treats you with much courtesy.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Bill Harris",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116728106517077810175/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    }
+]

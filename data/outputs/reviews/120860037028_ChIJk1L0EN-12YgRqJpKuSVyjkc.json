@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMHJYUFBnEAE",
+        "caption": "Had the delicious fresh guac toast this weekend. Awesome stand and the nicest people work there. They cared so much about the experience and asked if I wanted onion and olive oil on the guacamole. I will definitely be back to try more!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Mariya Wesley",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109371592584611158312/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzc01EUjNBRRAB",
+        "caption": "(Translated by Google) The best guacamole I've ever had!  (Original) El mejor guacamole que he probado!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Andr\u00e9s Ibarra",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112581411459230914513/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    }
+]

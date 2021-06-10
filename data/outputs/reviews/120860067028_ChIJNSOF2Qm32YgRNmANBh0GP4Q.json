@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdmJhYURnEAE",
+        "caption": "lebanese food and the scene at this spot is excellent. Everyone at our table was very satisfied. The staff was very helpful and observant. Prices that are reasonable.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "J Craig",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101649627003604369986/reviews?hl=en-US",
+        "census_block_group": 120860067028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzLXU2V3B3RRAB",
+        "caption": "Amazing people, better drinks and unbeliavable music!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Eduardo Berm\u00fadez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102240650491399274211/reviews?hl=en-US",
+        "census_block_group": 120860067028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzLW83U1RREAE",
+        "caption": "(Translated by Google) Brutal, my favorite nightclub in Miami, attended me excellent, brutal environments  (Original) Brutal, mi discoteca favorita de Miami, me atendieron excelente, los ambientes brutales",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Ramy Chaaban",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111770289540141032152/reviews?hl=en-US",
+        "census_block_group": 120860067028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzc3VXWWl3RRAB",
+        "caption": "They haven't started selling food yet but the atmosphere and staff are great!  Welcoming group of employees invited me in for their friends and family this past weekend and I had a wonderful time.  Prices for cocktails are the best I have \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "adam laughlin",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112020837604586347685/reviews?hl=en-US",
+        "census_block_group": 120860067028
+    }
+]

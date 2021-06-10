@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNmJfN3ZRRRAB",
+        "caption": "Wolfgang Puck Catering is the best....the food is always fresh, hot, and extremely good!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Kimberly Jones",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113958391202418953630/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvNTlxTGFREAE",
+        "caption": "Fell in love with this place from the 1st taste. The staff was very welcoming and sociable. Prices that won't shock you.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Melissa Myers",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109740220337170196747/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcDQzcXFBRRAB",
+        "caption": "Next time I'll be back with my friends. The prices are well within reason for the quality. Feels like a place in Los Angeles I liked.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Olivia Cummings",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109067926852918286118/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNveWQ3R0J3EAE",
+        "caption": "super savory. the staff was very helpful and welcoming. it has a nice atmosphere.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Phillip Raymond",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101008108140100333669/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvMm9hM2t3RRAB",
+        "caption": "I love it here. The service here is above par. The bill was good for what you get.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Hailey Cervantes",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107429255552125130665/reviews?hl=en-US",
+        "census_block_group": 481130019002
+    }
+]

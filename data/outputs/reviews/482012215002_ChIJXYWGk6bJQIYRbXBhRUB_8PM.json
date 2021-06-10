@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdk5mSERBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Alexander Villanueva",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108139586988075440414/reviews?hl=en-US",
+        "census_block_group": 482012215002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa2VQS0NBEAE",
+        "caption": "(Translated by Google) Very good food good sason I recommend it  (Original) Muy rica la comida buen sason lo recomiendo",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "fernando valle",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116571809539845090060/reviews?hl=en-US",
+        "census_block_group": 482012215002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa2R1TkhBEAE",
+        "caption": "Omg this place is the best food truck I recommend the chicken has a good flavor and the price is great and the employees are awesome y\u2019all should come buy some food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Fernando Valle",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101402513831118208795/reviews?hl=en-US",
+        "census_block_group": 482012215002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa2JteG1RRRAB",
+        "caption": "Place is a good taco spot for a quick bite. Entered all the details when I added this place on google maps from Ms. Silvia who took and gave me my order. They do accept credits cards here but a $1 fee applies to use it. I had an order of 5 \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Sergio Luviano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106133788521487686009/reviews?hl=en-US",
+        "census_block_group": 482012215002
+    }
+]

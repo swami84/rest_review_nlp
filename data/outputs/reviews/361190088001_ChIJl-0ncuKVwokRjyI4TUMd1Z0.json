@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcXJfQndRRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jennifer Hinestroza",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114781438235601227700/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M04tR0ZREAE",
+        "caption": "(Translated by Google) Delicious food and bakery, totally recommended  (Original) Comida y panader\u00eda deliciosa, recomendado totalmente",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Luisa Fernanda Pineda Cano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113967524123620356128/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOE5qa2JnEAE",
+        "caption": "(Translated by Google) What a bad experience, the bakery has nothing as advertised, on a Sunday at 10 am they did not have empanadas, donuts, etc. At the time of paying for 2 coffees they had no change for return. Terrible service \u2026",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Sebastian Sanchez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112062248479617123908/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDanVuSUhREAE",
+        "caption": "The place is really clean, everything well organized, he waiters were very nice,BUT the food was terrible, I didnt like the food at all. There is no flavor to the food and lack of condiments, at first I was told they didnt have ketchup, second no dressing for the salad. I wont be going back I was so disappointed.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Claudia Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112877953061498189520/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDaE9LTDVnRRAB",
+        "caption": "An amazing restaurant with good service especially one waitress who I believe her name is Amanda. I recommend a lot .",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "yaritza orozco",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115292799611444840232/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDd091RVRREAE",
+        "caption": "Please go here! Stumbled on it while driving, it's insanely good Latin American food.  The meal was incredible, the inside of the restaurant was super clean, and the girl taking my order was really kind and helpful (considering I know \u2026",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Justin Guiel",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100189298953810860615/reviews?hl=en-US",
+        "census_block_group": 361190088001
+    }
+]

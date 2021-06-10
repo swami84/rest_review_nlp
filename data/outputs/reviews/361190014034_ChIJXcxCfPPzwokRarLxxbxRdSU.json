@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNk4zS3dBRRAB",
+        "caption": "Sorry wrong. Post it wasn\u2019t for you guys",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Craig Colon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113209686318209285890/reviews?hl=en-US",
+        "census_block_group": 361190014034
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dTVubDZBRRAB",
+        "caption": "amazing steak tacos and nachos!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Christina A",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106750377651731166885/reviews?hl=en-US",
+        "census_block_group": 361190014034
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cVBQY25BRRAB",
+        "caption": "I was hoping this place would be good- it\u2019s down the street from me- oh boy!!! Super yummy Mexican food! Salsa on point! Cecina taco and chicken enchilada comes with a healthy side of rice and beans-  hot when it arrived and it came in like 15-20 min. Finally good Mexican food in the neighborhood!!! Very happy!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Kara Mahony",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111321801747269076402/reviews?hl=en-US",
+        "census_block_group": 361190014034
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aW9PbUVREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Liz C.",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102797066215371351766/reviews?hl=en-US",
+        "census_block_group": 361190014034
+    }
+]

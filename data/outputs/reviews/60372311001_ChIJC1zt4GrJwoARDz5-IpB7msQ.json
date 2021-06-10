@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeE1hSENREAE",
+        "caption": "Pad Thai was hard and sticky only three piece of meet \ud83d\ude10",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "miriam baez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112373625679300698858/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ejU3SjdBRRAB",
+        "caption": "Ok so the man and woman working there tonight were sooo sweet and had wonderful customer service!!!! Then when I made it home and tasted the food, OMG the best pad thai and crab fried rice we've ever had. Everything was fresh and flavorful a perfect meal to end the night. We'll definitely be returning!!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "April Bantique",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108362606672990787666/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDVMeHJ3RRAB",
+        "caption": "I tried the Crab Fried Rice .  One word.  Delicious!  Is a must try. Just thinking about it is getting my mouth watery.  Just perfect.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Oscar Soto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107447320528441540952/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dEstQkhnEAE",
+        "caption": "The green curry Thai chicken sandwich is excellent. It\u2019s listed as snack size & 2 would make a great meal",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "F.A. Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113242002011225957608/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTM1pydE1nEAE",
+        "caption": "Thai tea cheesecake is a must try. Delicious PadThai.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Pinruethai Ampornpet",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117899869551426562623/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTanZ1S2JBEAE",
+        "caption": "Ordered fried chicken and crab fried rice. Chicken is very flavorful, topped with crispy onion. The sauce that comes with the chicken is so good. Fried rice is delicious.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Hollywood Chauffeur",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114152353504827049833/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

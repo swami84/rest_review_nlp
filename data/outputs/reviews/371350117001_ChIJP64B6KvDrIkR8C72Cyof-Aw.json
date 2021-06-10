@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMXJYdk9nEAE",
+        "caption": "I truly can't say enough about Goodness Cooks! Every Thursday the menu comes out, and Tuesday is pick up. Two highlights of the week :) I'm so thankful to have nutritious, delicious, organic food thoughtfully prepared, which takes some \u2026",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Elizabeth Suggs",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111033422173099657533/reviews?hl=en-US",
+        "census_block_group": 371350117001
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSUN5M2JZcBAB",
+        "caption": "This is arguably the cleanest, healthiest, and some of the most delicious food available in the Triangle right now. Please, please, please consider supporting this service with an order, so that we can keep them cooking in our community!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Chris Holt",
+        "n_review_user": 22,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115845571239808870814/reviews?hl=en-US",
+        "census_block_group": 371350117001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpd2VUeC1nRRAB",
+        "caption": "I'm super conscientious about my food -- and also always trying to get healthy food on the table for my family every night -- and Goodness Cooks has been a game-changer for me. I order 5-7 dishes, and use each of the delicious components to \u2026",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Marisa Escolar",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113559801441949699646/reviews?hl=en-US",
+        "census_block_group": 371350117001
+    }
+]

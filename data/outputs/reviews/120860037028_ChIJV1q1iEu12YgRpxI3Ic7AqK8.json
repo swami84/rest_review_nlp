@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5M3JfRHRnRRAB",
+        "caption": "Food was great fast and the guys working are awesome !!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Brenda lebada",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104865917803454831410/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OXFmNllBEAE",
+        "caption": "The Guy making the pizza was not wearing gloves, touching the slices, money and the cashier Screen without washing his hands once after touching all that. Disgusting",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Brian Ll",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104282229708070907488/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNWJYUHlRRRAB",
+        "caption": "(Translated by Google) Service very bad staff very bad polite and without respect for tourists I do not recommend  (Original) Atendimento muito ruim pessoal muito mau educado e sem respeito com os turistas n\u00e3o recomendo",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 1.0,
+        "username": "Evandro Santana",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115188705778425283984/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDZy1IaG1nRRAB",
+        "caption": "Good pizza and good service!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Oscar Sanchez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104393249333622452035/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDN19TYUVREAE",
+        "caption": "Awesome service, awesome atmosphere, and most importantly, AWESOME PIZZA!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Lane Williams",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106628461521815639200/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    }
+]

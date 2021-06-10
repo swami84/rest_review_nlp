@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5Z1pmNkRnEAE",
+        "caption": "I tried this spot in the past with a friend and I am addicted ever since. I liked the awesome atmosphere and fresh dishes and drinks. 5 stars.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Sammy Berg",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103528005761798622618/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aXRqYkpREAE",
+        "caption": "Great and tasty food, I like the atmosphere this spot has, and the cashiers were very kind. I will surely visit here next time.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Terri a",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109149731121673041899/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwdzdxYkp3EAE",
+        "caption": "Ordered from here last night, the food is beautiful \ud83d\ude0d and taste very delicious!!! The melts are impeccable!!! Will order again very soon, thank you for not wasting my time.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Lexie Chanel",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116633229194216595671/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVc3Zhekp3EAE",
+        "caption": "Worst delivery experience. Took them an hour and a half to make/transport a grilled cheese four blocks away.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Jack King",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101059908259480364197/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJOHNpcnNRRRAB",
+        "caption": "We ordered some great food and wow it was delicious and delivery was at our door almost immediately. We order often from Melt frequently and no disappointment ever",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "anthony pardi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103676647076142488918/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    }
+]

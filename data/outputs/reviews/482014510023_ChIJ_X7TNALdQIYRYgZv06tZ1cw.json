@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzcXVDMU13EAE",
+        "caption": "Great breakfast tacos,I hope lunch is as good or better",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Matt Colley",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101947535477608550078/reviews?hl=en-US",
+        "census_block_group": 482014510023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVNlB5dGhnRRAB",
+        "caption": "I stopped by at Big Madre during lunch and the place was busy but the service was fast and quick! The portion size of my 2 beef tacos was large enough to fill me up (the quantity is generous)! I\u2019d definitely recommended! #BigMadre",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Hamna Siddiqi",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104636249036501514178/reviews?hl=en-US",
+        "census_block_group": 482014510023
+    }
+]

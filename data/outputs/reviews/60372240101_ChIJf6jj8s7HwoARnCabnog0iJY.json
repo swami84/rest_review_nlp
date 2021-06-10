@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRNnJiNzdRRRAB",
+        "caption": "Meat had no flavor it was undercooked plus long wait for delivery and I was just 4 doors down very disappointed",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "vanessa becker",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103333518420293254172/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRejl6dHBBRRAB",
+        "caption": "It's a great Mexican restraunt. The food is bomb",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Marie Sanchez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113836534528714308429/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    }
+]

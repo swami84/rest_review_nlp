@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOExfNEZREAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Natty B.",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117376951695885719932/reviews?hl=en-US",
+        "census_block_group": 360811039004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dnBhMXBBRRAB",
+        "caption": "I been to the old Malba and now to this new one & hands down loving it! I got the chicken wings with fries. The chicken was very flavorful. Friendly service and the food is awesome! Must try! Thumbs Up \ud83d\udc4d",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Mari C NYC",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108917964367134912721/reviews?hl=en-US",
+        "census_block_group": 360811039004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5azdLYjB3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Sulaiman Dewan",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101288589185907990829/reviews?hl=en-US",
+        "census_block_group": 360811039004
+    }
+]

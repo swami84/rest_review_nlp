@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdXVqVnpBRRAB",
+        "caption": "Surely a place worth stopping over, the food is awesome and well prepared, the pricing is affordable and it is consistently well kept here. Keep it up.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Julian Blair",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115326669019706316977/reviews?hl=en-US",
+        "census_block_group": 60371273002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnOThLaE5BEAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Mark Lee",
+        "n_review_user": 50,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100221686258746879124/reviews?hl=en-US",
+        "census_block_group": 60371273002
+    }
+]

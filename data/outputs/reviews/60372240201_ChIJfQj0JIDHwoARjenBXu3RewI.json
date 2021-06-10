@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMXMtZEVBEAE",
+        "caption": "(Translated by Google) Delicious cakes  (Original) Deliciosa las tortas",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Marco Pino",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105511370893120397326/reviews?hl=en-US",
+        "census_block_group": 60372240201
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNk0ycUJREAE",
+        "caption": "Very nice persons and clean",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Angel Hernandez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116886294546211465421/reviews?hl=en-US",
+        "census_block_group": 60372240201
+    }
+]

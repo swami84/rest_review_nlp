@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNTlXQ3d3RRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Nailah Abdur-Rahman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102594719004572234454/reviews?hl=en-US",
+        "census_block_group": 120860093123
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcy1EX3VnRRAB",
+        "caption": "After a highly anticipated wait, I am stoked to say that this spot met my expectations. The staff is very friendly and attentive, the location and ambience are casual yet conducive to a pleasant experience, and the food was great. The \u2026",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Enmanuel Fernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107014623624144415992/reviews?hl=en-US",
+        "census_block_group": 120860093123
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdzlhcmxBRRAB",
+        "caption": "Burgers and Fries Rock! My diet has gone out the window!!! The food and service is of a quality that these folks deserve love and support.... I\u2019ll be back!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Jose Palacios",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117717579809992356364/reviews?hl=en-US",
+        "census_block_group": 120860093123
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbl9MNFVBEAE",
+        "caption": "I hope the open soon. It looks like a great burger place and the location cannot be better.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "DP MJ",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111469452394425018429/reviews?hl=en-US",
+        "census_block_group": 120860093123
+    }
+]

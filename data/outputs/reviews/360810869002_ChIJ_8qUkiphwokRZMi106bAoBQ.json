@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpZ0pPZ3ZRRRAB",
+        "caption": "Amazing and authentic filipino food. So tasty and highly recommended!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "David Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101308868201859999637/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpZ09POVFnEAE",
+        "caption": "Amazing authentic filipino food! Highly recommend!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "David Cruz",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107746087256109721773/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpX2VULU53EAE",
+        "caption": "Food is very good",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Ron Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107828402389390750218/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    }
+]

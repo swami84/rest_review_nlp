@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeWNhT0ZnEAE",
+        "caption": "Great food. Easy pickup for deliveries, but is often pretty slammed. They do a good job keeping up though.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Mason Girard",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113613651164876536649/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cnRxWEl3EAE",
+        "caption": "Great food.  But An armed guard at the entrance??  Really?  Time for this restaurant to move out of this neighborhood.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Ray Allen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114666424403180391092/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OU1iOVN3EAE",
+        "caption": "House of Mac got the Best Soul Food In Wynwood!  Great spot to enjoy with  family & friends an Tourists alike!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Solid Reviews",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100701972351008883728/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTb0thYlRnEAE",
+        "caption": "I have never seen macaroni fixed in so many different ways! Their homemade juice is delicious too! I just want gallons of it!!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Alexis Hawkins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116773358898593923759/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN29UQjJRRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Christian Roldan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113284635204310877416/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNHVUM0FnEAE",
+        "caption": "I was in the area and wanted a quick lunch. House of Mac\u2019s new location was in the area so I decided to stop in and give them a chance. Compared to the original store I feel like it has some work to do, but it was good none the less. And \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Dante Wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106538086614424343507/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdmRlQnZnRRAB",
+        "caption": "This is the most amazing mac and cheese ever. The chicken parmesan mac and cheese had SO MUCH CHICKEN and the PERFECT AMOUNT of parmesan. The cheese was re and gooey and delicious. None of that kraft box stuff. Recommend so hard",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Peach x",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115648921787910363230/reviews?hl=en-US",
+        "census_block_group": 120860037061
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNdktIU1lnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Tom Poole",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105241458350209894503/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNM0txTTlRRRAB",
+        "caption": "Food and service were absolutely fantastic. Will definitely be coming back again and again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "James Glasson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115709860496810843629/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNellxYXJBRRAB",
+        "caption": "Bravo!!! Superb Australian Wine, food, experience, service!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Rafael Sevilla",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107721546198116464727/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVLThhM3hRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Diego Armendaris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117491180144797497360/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVMHN1MlVnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Susana Garc\u00eda",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104750945110145641541/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZcjYyaTVnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Miami Bid Secretary",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107785368158926374144/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbnVxajhRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "FUJI",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116748569498452023074/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    }
+]

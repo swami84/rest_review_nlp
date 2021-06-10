@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5OUozczNnRRAB",
+        "caption": "Fantastic atmosphere and super personal service. The menu was fresh and enchanting. Will surely recommend this restaurant to my friends. Convenient prices and generous meals. Keep it up.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Bruno Ward",
+        "n_review_user": 86,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101699580359855731900/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDa2FPeE1BEAE",
+        "caption": "Would surely recommend trying this spot. Excellent ambience, yummy dishes, great service. 5 stars.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jose Miller",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110269434116420456523/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjaHNmSklREAE",
+        "caption": "I had an excellent time in this restaurant. We liked the wonderful atmosphere and the menu. The waiters were very personal. I am glad we ultimately decided to visit this restaurant.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Arian Ali",
+        "n_review_user": 71,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118257608219479274550/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    }
+]

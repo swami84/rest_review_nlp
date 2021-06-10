@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa01MY3dnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Carlos Hernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102868840377053356848/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpalpMeHV3RRAB",
+        "caption": "Honestly! Amazing food, just like my mom's food. There is always a long line but totally worth the wait. And they have so so so many options. The owners are very caring for each customer and try their best to make my order fast but never fall short of authentic Mexican food!!!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Alejandra Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117255310454230310247/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcHIzZl9RRRAB",
+        "caption": "My husband is from Puebla and we were on the hunt for a great cemita in LA. After trying some of the more popular spots, Cemitas Alex takes the cemita game! First off bread was on point, very reminiscent of the bread in Puebla. All the \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Miriam ramirez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117920136767886335388/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa2FMbFpnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Rosa Alvarez",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102433474984346449257/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    }
+]

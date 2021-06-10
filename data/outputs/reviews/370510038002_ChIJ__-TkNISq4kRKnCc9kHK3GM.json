@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNnBuZ1B3EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Imran Shaik",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113490269880699212615/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNOWZteWN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 2.0,
+        "username": "Dawn Moede",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103230305135460584853/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa1lyb1Z3EAE",
+        "caption": "I wanted a hat",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 1.0,
+        "username": "Takatsuto",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111690018485191284323/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    }
+]

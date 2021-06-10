@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bjREN1l3EAE",
+        "caption": "The shrimp and crab pastelitos are horrible. I'm sorry but I like my onions and peppers cooked, the pastelitos are raw inside besides the protien. Never again.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Pagie Lee",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104678061302165414386/reviews?hl=en-US",
+        "census_block_group": 360610265004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dTdITmNnEAE",
+        "caption": "The place is overpriced and the food is bland. If you want seafood, go a few doors down to Juniors. They're much better.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "ADNJT 186",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113646474738794625246/reviews?hl=en-US",
+        "census_block_group": 360610265004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LS1Iam53RRAB",
+        "caption": "If you love seafood  this is the place to go Nice and clean Nice staff Good prices I love PAELLA I RECOMMEND IT Brand new just opened 2/13/2021 GOOD LUCK",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "LERUFFO CHANNEL",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109318517759358939096/reviews?hl=en-US",
+        "census_block_group": 360610265004
+    }
+]

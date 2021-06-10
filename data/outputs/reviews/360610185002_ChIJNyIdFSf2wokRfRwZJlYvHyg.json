@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNaDg2bmlBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Minnie Ortiz",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108504455874074875886/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0LV9UbHpBRRAB",
+        "caption": "Bacon egg and cheese. The bombbb",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ashley Navarro",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112932898474863861452/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0bTYzX2JREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "wileisa smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103182603825163023471/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvOHEtdGxnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "BerettaMLH",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113779724208654632122/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvb05iYl9RRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Edwin Perez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113852201063487077018/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJM0tTTWtBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "nathan and mayco Vazquez and baleon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117735850042021193461/reviews?hl=en-US",
+        "census_block_group": 360610185002
+    }
+]

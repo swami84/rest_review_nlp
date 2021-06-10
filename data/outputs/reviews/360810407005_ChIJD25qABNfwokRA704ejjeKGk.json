@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOHNITmF3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "ramon vintimilla",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100172927025460712622/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpZ3ZfeWhRRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Maydy Paola Ocampo Gutierrez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117335314638258698477/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpOEtMT1dREAE",
+        "caption": "Awesome",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Yerson Guerrero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116766033613050267360/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4Ml95V0RnEAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 2.0,
+        "username": "Manuel Tambris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102537239064758702585/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjcExUM0J3EAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Meinardo Perez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112308726909029804820/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzckxteXRRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Natalia Andrea Garc\u00eda Mej\u00eda",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108263704362203803796/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzZzZ5WktREAE",
+        "caption": "(Translated by Google) Very good  (Original) Muy bueno",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Yahir Ventura",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106736437979498977127/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcFo3bUVBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Jorge Vera",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109283026976992178922/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdlBIU0VREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Aneudy Casilla",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118344451543280225727/reviews?hl=en-US",
+        "census_block_group": 360810407005
+    }
+]

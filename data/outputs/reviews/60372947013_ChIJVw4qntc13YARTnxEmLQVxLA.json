@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLM3ZQVlVBEAE",
+        "caption": "",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Miracle Jones",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112988487155760589468/reviews?hl=en-US",
+        "census_block_group": 60372947013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aVl2dkdBEAE",
+        "caption": "Been here twice now. Nice people & food is excellent!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "P.J. Hicks",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105469028905035663271/reviews?hl=en-US",
+        "census_block_group": 60372947013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaktMbWRREAE",
+        "caption": "The bomb",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "JAKE JAKE!",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117788027586463482198/reviews?hl=en-US",
+        "census_block_group": 60372947013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMkpidXBBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Dwana Kincaid",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113306032814273277382/reviews?hl=en-US",
+        "census_block_group": 60372947013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDb0szaGRnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Marissa Ambrocio",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112952571937759735155/reviews?hl=en-US",
+        "census_block_group": 60372947013
+    }
+]

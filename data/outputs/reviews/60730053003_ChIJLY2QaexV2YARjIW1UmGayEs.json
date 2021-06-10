@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aWRDSHZBRRAB",
+        "caption": "Tacos so good wish it was in my neighborhood",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "William Lau",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112549858247509056493/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTN19xQU9REAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Rogelio Huerta",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115938367694938913629/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4XzdLc3ZRRRAB",
+        "caption": "it was bad before, now it's terrible. Smaller portions, bland- unseasoned meat, rude loud cashier.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Morris Jam",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117567278429604379347/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4ejdHYVZnEAE",
+        "caption": "The place is terrible, the food is bad and the managers don't worry about serving well.  It is Mexican food, there must be unlimited sauce.  TERRIBLE",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Ivan Romero",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103723030832288949393/reviews?hl=en-US",
+        "census_block_group": 60730053003
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLa3Npa1BREAE",
+        "caption": "Worthiest people working there they don\u2019t care about cleaning customers",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Easy Drive",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107020624939161871951/reviews?hl=en-US",
+        "census_block_group": 360610263004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a3Z6aGF3EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Leo Genao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110396161223225637098/reviews?hl=en-US",
+        "census_block_group": 360610263004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNVphak5BEAE",
+        "caption": "love this place for years. one of my favorites",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Nysr Productions",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112133903730643414936/reviews?hl=en-US",
+        "census_block_group": 360610263004
+    }
+]

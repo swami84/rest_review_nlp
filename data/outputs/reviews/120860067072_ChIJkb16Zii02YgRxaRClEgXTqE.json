@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dnJDeTl3RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "anthony johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108002324295111586031/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpenNMNGd3RRAB",
+        "caption": "Arrived at six, it was not packed. The staff was very friendly and kind. Prices that won't shock you.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "chad arroyo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106972998051469287290/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHBhU3RBRRAB",
+        "caption": "Food was so yummy. Service treated us so nice. Atmosphere is similar to a place in Columbus I loved.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "naomi smith",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106679594827279015613/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDcnV1NmRREAE",
+        "caption": "Visited on Sat I believe. There was quick, helpful, and friendly service. The place has an awesome feel to it.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Tracy2 C",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104238918654902244756/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDenNuSW9RRRAB",
+        "caption": "service is always super even when they have a full house. it has a cool atmosphere.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Walter Thomas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104422661212215687519/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjODZxRnB3RRAB",
+        "caption": "My family has been coming here for years. Consistently good food!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Hilary Zanetich",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110719423306405600532/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvMDR1cjNBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Kush Parikh",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107222753684166043560/reviews?hl=en-US",
+        "census_block_group": 120860067072
+    }
+]

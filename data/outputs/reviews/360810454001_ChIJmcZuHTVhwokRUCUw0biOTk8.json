@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMDlqMWRREAE",
+        "caption": "Awesome",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Faisal Imam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108844888723967030638/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNUppQ0F3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Cheryl Shand",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118268872752315509913/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwa2F2SEFREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Sumon Tariq",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100976043022263983701/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwN0xlMFN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "M. S.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110214643668755028409/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVaS1HS0NnEAE",
+        "caption": "VERY good FOOD and GREAT service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Sukhwinder Singh",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105881870019693053238/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvbVBlMkJBEAE",
+        "caption": "Not bad",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Aatiq Antique",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111410706898251896175/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJdXRMc3VnRRAB",
+        "caption": "Open 24 hours, food is good , for fish curry they are the best, service and employees behavior needs to be improved ,Other than that all good.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Dhap Rangpur",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106080475687133134277/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJbnBIaDlBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "SYed HAsnaeen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103949844295561770104/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJNklMUV93RRAB",
+        "caption": "great \ud83d\udc4d\ud83c\udfff for summer time",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Tahir Hussain",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116052024422481077259/reviews?hl=en-US",
+        "census_block_group": 360810454001
+    }
+]

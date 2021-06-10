@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMTRQaWV3EAE",
+        "caption": "Good food. I liked it.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Rashad El Tahrawy",
+        "n_review_user": 99,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103637063822019056755/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNcGNYb3V3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Emily t",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101394280984629665299/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwMU9Hd3FBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Christine Obando",
+        "n_review_user": 33,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104347584089912906246/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNk5ISU9REAE",
+        "caption": "(Translated by Google) A cozy place with an attentive manager and first class food  (Original) Un lugar acogedor con un gerente atento y la comida de primera clase",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "polo chimbay",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104298479952754891231/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOTRiald3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Juan Jose Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111758134425281869740/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcTRxN3hBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Gonzalo Murilo",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109729977953686686717/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJa19qajl3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "jimmy gavilanes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103924835734277599940/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cjRTM3ZBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Rosa Geradina Pinguil Aguayza",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100379898842324913955/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBaHJETFVnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Ramiro pacheco Fotografia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116225838863239849394/reviews?hl=en-US",
+        "census_block_group": 360810405002
+    }
+]

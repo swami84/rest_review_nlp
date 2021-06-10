@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZNzVhWmRREAE",
+        "caption": "Great place for tasty Mediterranean food. The staff was friendly and sociable. Kinda of like a cafe in Phoenix that I enjoyed.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Bethany Wagner",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110611808441878934418/reviews?hl=en-US",
+        "census_block_group": 482011000003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNveTgyVUdnEAE",
+        "caption": "I make it my business to grab a bite to eat here on any time that I'm down town. Great smells and even better eats!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Jimmy Bear Weston",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106343914115869644882/reviews?hl=en-US",
+        "census_block_group": 482011000003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBNllxQl93RRAB",
+        "caption": "Good food and friendly people!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Corey Chao",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102972253990180305230/reviews?hl=en-US",
+        "census_block_group": 482011000003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRck9XWVFREAE",
+        "caption": "Very good food and clean",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "NANCY VAN",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114579701646477059207/reviews?hl=en-US",
+        "census_block_group": 482011000003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBdXEzMWVnEAE",
+        "caption": "Great",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "rick wyliee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106797972312075970658/reviews?hl=en-US",
+        "census_block_group": 482011000003
+    }
+]

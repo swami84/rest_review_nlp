@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ajd2MG5nRRAB",
+        "caption": "Great addition to the neighborhood. Won ton soup has become a go-to meal. Great people, great food!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "dan tamura",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101244618554756638491/reviews?hl=en-US",
+        "census_block_group": 60014035013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5N01UVWx3RRAB",
+        "caption": "Not a promising start for this new location. The food sounded great on paper so we ordered it for lunch. We ordered ahead and were told 15 minutes. We arrive on time and are told an additional 10 minutes. Ok so we take a walk and come back \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Amber O'Dell",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100169630999965688330/reviews?hl=en-US",
+        "census_block_group": 60014035013
+    }
+]

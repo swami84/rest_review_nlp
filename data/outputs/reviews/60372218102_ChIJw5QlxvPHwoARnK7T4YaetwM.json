@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4aWJfZEdREAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Cassandra Pascua",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109809656180342796175/reviews?hl=en-US",
+        "census_block_group": 60372218102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMHEzUWhBRRAB",
+        "caption": "Best cheap tacos in LA",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Alec Lesser",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104656150621161894654/reviews?hl=en-US",
+        "census_block_group": 60372218102
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdk8yUENREAE",
+        "caption": "Lazy staff",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "Alexander the Great",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112983754626063302682/reviews?hl=en-US",
+        "census_block_group": 60372218102
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMWUtellBEAE",
+        "caption": "Mulitas are fire. Their guacamole salsa is the spiciest without bieng too much. Handmade tortillas hands down one of the best in the area. Anyone who doesn't like it probably has bad taste for mexican food.  Only downside is if you go at around 2am when the night clubs get out, the wait is ridiculous. Definitely worth the wait.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "G T",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103770010998380094466/reviews?hl=en-US",
+        "census_block_group": 60372218102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnZ0pUczN3RRAB",
+        "caption": "Not good at all \ud83e\udd22",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Alan Duran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104276843995443908872/reviews?hl=en-US",
+        "census_block_group": 60372218102
+    }
+]

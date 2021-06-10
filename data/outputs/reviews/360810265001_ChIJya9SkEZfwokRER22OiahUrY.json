@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbXZMSVZ3EAE",
+        "caption": "A very unique take on omakase. Each piece I ate took my taste buds on journey. All while sitting in a very relaxing and refreshing atmosphere. This place is a must try for anyone looking for something new and unique.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Bradley Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111813123031923083477/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLc0syaGR3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Nat Olarick",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112131485118078051857/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNEphbW9nRRAB",
+        "caption": "The worst omakase . It\u2019s a joke . Fish are small, not fresh. Tiny wage beef. OVER PRICE $89.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "swayne shu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108485318446194302703/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5XzZ6ZVp3EAE",
+        "caption": "The restaurant is amazing and spacious, the meals was enchanting and the rates were very fair. rapidly, efficient service and very welcoming waiters. Will definitely recommend this spot.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Alijah Barajas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111686852033321449602/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a2N6WGNREAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Nikki Cardamone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106516184109812972842/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5b2FIOWJBEAE",
+        "caption": "More than just great sushi omakase, Sushi On Me made us feel like we were being welcomed into someone's home. Expect to see more than your typical sushi pieces with techniques inspired by modern mixology.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Thomas Georgiou",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112235889970612036959/reviews?hl=en-US",
+        "census_block_group": 360810265001
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpdHFlLXpnRRAB",
+        "caption": "The bill was good for how much you get. Menu is similar to a restaurant in El Paso I loved.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "D Gutierrez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108349549068684458937/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdzk2VWNnEAE",
+        "caption": "I was so full. Quick and friendly service. Food and feeling reminds me of Kansas City.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Marisa B",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114355985143259295946/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDa3EtQmFnEAE",
+        "caption": "normally i would have posted a pic but food looked so good i couldn't stop. prices are fair. similar to a place in denver i liked.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Grayson Powers",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106048482848589775468/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNGVfLUhBEAE",
+        "caption": "Great",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Rhett Michael",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116037899550605857309/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVZ3NMMVlnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Isaac Street",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116797068098273694747/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrc2RhN3NBRRAB",
+        "caption": "one of the best spots of its kind in the area. this place has an awesome feel to it. makes me feel like i am back in sacramento.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Lyla Hopkins",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102497963699753959245/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJc2RDR1RnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Jim J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107235890406912105288/reviews?hl=en-US",
+        "census_block_group": 371190001005
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLN3NfM3d3RRAB",
+        "caption": "",
+        "relative_date": "3 hours ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "amaury matos",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108824702713632196874/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpZzl1aFR3EAE",
+        "caption": "(Translated by Google) Good atmosphere, good prices.  (Original) Buen ambiente, buenos precios.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Carlos Mejico Castillo Angeles",
+        "n_review_user": 29,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104155346274384630312/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMGRISTd3RRAB",
+        "caption": "(Translated by Google) A good place to eat and share a good atmosphere  (Original) Un buen lugar  para comer y compartir un buen ambiente",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Pablo Regalado",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101256180268269468183/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbGVXcmxBRRAB",
+        "caption": "(Translated by Google) A good place for entertainment and the food is very good  (Original) Un buen lugar para el entretenimiento y la comida es muy buena",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Pablo Regalado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118074268504293071381/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDeGJIVEtBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Engels Duran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115693573410659669016/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    }
+]

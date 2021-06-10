@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNHAzUFBBEAE",
+        "caption": "",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Iris Andujar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111641474007515493762/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d0lQZWtBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Yesenia Saud",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113262381718924537795/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5elp2R19RRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Pagie Lee",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104678061302165414386/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bEw2MjF3RRAB",
+        "caption": "Love the salads.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Nilda Acevedo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102959350218430060513/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbnAyQVR3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "ELIAM GARCIA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101497949234573324660/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpdkk2TFp3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Hillary Paredes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109209252072966927713/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHJILXhBRRAB",
+        "caption": "The food was so tasty",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Enzo Rodriguez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104121231030626233603/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGY2MUxREAE",
+        "caption": "Favorite spot for work break !",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "iBeenGOOFY",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103425023345938020938/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDX3VhcW1RRRAB",
+        "caption": "The food is really good and fresh",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Michelle Lesperance",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100738279597116202866/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDZ0t6QW9nRRAB",
+        "caption": "Food is outstanding, so so delicious.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Igvany Moncion",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106331305472178400708/reviews?hl=en-US",
+        "census_block_group": 360610263001
+    }
+]

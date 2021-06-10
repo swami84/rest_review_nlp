@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd3NiaU9REAE",
+        "caption": "One of the best pork Viet sandwiches ever! Great service too.",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Justine tenZeldam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117357835879473458203/reviews?hl=en-US",
+        "census_block_group": 60014030002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnaHJtejVBRRAB",
+        "caption": "Great place if you're looking for a cheap, quick lunch!!  I've only had the BBQ chicken banh mi, but every time it's delicious.  AND ONLY $3.",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Noelle Ham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116796911158844589160/reviews?hl=en-US",
+        "census_block_group": 60014030002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3aDZlckNREAE",
+        "caption": "",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jon Kennedy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118046699783677966495/reviews?hl=en-US",
+        "census_block_group": 60014030002
+    }
+]

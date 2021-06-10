@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTd2J1VnVnRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "William Ralston",
+        "n_review_user": 44,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102572494164589596508/reviews?hl=en-US",
+        "census_block_group": 360811171002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDenV5RmNREAE",
+        "caption": "korean food here - delicious. had a friend come into town and she asked me to take her here again. not close to my job, i wish it was.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Joanna Villegas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116741002226666800243/reviews?hl=en-US",
+        "census_block_group": 360811171002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVXzZXOU9nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "jerry kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118217207989954360992/reviews?hl=en-US",
+        "census_block_group": 360811171002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURReHVuMFhREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Emiri Sui",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111943917113533668574/reviews?hl=en-US",
+        "census_block_group": 360811171002
+    }
+]

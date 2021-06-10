@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M3VxMHF3RRAB",
+        "caption": "Small. Out of food. Rude.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 1.0,
+        "username": "Adam Heatley",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110347161715710687078/reviews?hl=en-US",
+        "census_block_group": 482013126002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpa1B6NVZBEAE",
+        "caption": "The food is great but the to-go packaging leaves a lot to be desired. Several different items delivered via Postmates butt there restaurant couldn't put everything in a big bag? I dripped sauce all over the place while trying to juggle several bags up two flights of stairs. It was very messy.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Cody Hughes",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114729674271596019227/reviews?hl=en-US",
+        "census_block_group": 482013126002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOE95WGFREAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "shaie pimpton",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105419599561031727482/reviews?hl=en-US",
+        "census_block_group": 482013126002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzcXBydXlnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Casey Zalomsky",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114903622726913841771/reviews?hl=en-US",
+        "census_block_group": 482013126002
+    }
+]

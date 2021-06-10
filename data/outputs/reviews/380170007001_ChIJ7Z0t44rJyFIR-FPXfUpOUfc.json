@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpME5iUmtnRRAB",
+        "caption": "Great atmosphere!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "C C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100163679090357494018/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGZibFhREAE",
+        "caption": "I would spend my whole life here if I could",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Owen Broke",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100699469701345066931/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDOGZiSnRRRRAB",
+        "caption": "I love this place!! Especially their philly sandwich, you can\u2019t beat it!! Would definitely recommend.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Sophia Sugden",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111969932562081825880/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGZiZ0N3EAE",
+        "caption": "The staff was funny and very polite! Food was soo good! Will defiantly be going back!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Dalin Fajardo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108488063633772832991/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGZLREZREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "kyle rust",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101126856224926456860/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOGJTd1hREAE",
+        "caption": "Great experience, urban atmosphere, and delicious food and cocktails!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Matthew Bengston",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105454020396286883357/reviews?hl=en-US",
+        "census_block_group": 380170007001
+    }
+]

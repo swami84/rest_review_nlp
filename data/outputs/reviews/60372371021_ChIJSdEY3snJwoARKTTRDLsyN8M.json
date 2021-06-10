@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLU5paUdREAE",
+        "caption": "Bad service.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Shameka Anderson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101025443979416122714/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a0lQZGZnEAE",
+        "caption": "I love this place. They are fast and the food is always tasty.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Giovanny Villalta",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108073483308509922127/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeTRpYnJ3RRAB",
+        "caption": "(Translated by Google) Delicious food \ud83c\udf5b \ud83d\udcaf Recommended  (Original) Deliciosa comida \ud83c\udf5b \ud83d\udcaf Recomendado",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Camino de vida",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108545621996117675600/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdHV2OXFBRRAB",
+        "caption": "I started working down the street and saw this place and decided to try it. I\u2019m glad I did! The pupusas are delicious and the chicken tamales were really good too! I tried the broth from the caldo de res and it was perfect so next time I\u2019m \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Tiffany Hendrix",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111452022267215258603/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdU9Pem9nRRAB",
+        "caption": "(Translated by Google) Delicious food I recommend.  (Original) Comida deliciosa se los recommend..",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Phoenix California",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104957551627584991462/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4MjVTWkFnEAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Patricia A",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107376117749535000833/reviews?hl=en-US",
+        "census_block_group": 60372371021
+    }
+]

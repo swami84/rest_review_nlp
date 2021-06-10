@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eS1QRWRBEAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Harris Ahmad",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106876231676961635383/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5Z2ZLejhnRRAB",
+        "caption": "One of my go-to places to grab some food. convenient location, clean, and fantastic service. A must try!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Berillo Burket",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101052162157336253239/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpM0tualh3EAE",
+        "caption": "Locally-owned, outstanding pizza and service. It reminds me of New York!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Aaron Plaat",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107195383661413147521/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwaEpUdmp3RRAB",
+        "caption": "Some good pizza",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Google User",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106919204547137025285/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbkptTlVBEAE",
+        "caption": "BE CAREFUL - THEY WILL CHEAT YOU! Ordered 3 slices. Paid. After it was ready and she asked me if it was for here or to go, she said she didn\u2019t charge me enough. Said I had to pay an extra $3.85 since she didn\u2019t ring it up right. She said \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Eddie Walker",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107467415449452411050/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnaWFteGhRRRAB",
+        "caption": "Great authentic NY pie.  Fold a slice today.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Dean Hayden",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106123001175317664033/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpc1pLM25nRRAB",
+        "caption": "Best pizza on broadway!! Staff is fun and food is wonderful",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Alan",
+        "n_review_user": 235,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102194001824835409716/reviews?hl=en-US",
+        "census_block_group": 60750106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzd1phUkRnEAE",
+        "caption": "Open late - great pizza - friendly service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jacqui Lloyd",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110449994393870403210/reviews?hl=en-US",
+        "census_block_group": 60750106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwMGJMUFVBEAE",
+        "caption": "(Translated by Google) Delicious !  (Original) D\u00e9licieux !",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Lvl L.",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113906428165937784037/reviews?hl=en-US",
+        "census_block_group": 60750106002
+    }
+]

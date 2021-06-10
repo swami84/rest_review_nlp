@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeVlXNElBEAE",
+        "caption": "Love these berria tacos",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "alfred chacon",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115046205743027703466/reviews?hl=en-US",
+        "census_block_group": 60371096041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dUxmejZRRRAB",
+        "caption": "Great tacos!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Cindy H",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104918237352597097525/reviews?hl=en-US",
+        "census_block_group": 60371096041
+    }
+]

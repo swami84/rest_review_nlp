@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMFlEMXlBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "YouJin Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101312425027145086501/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNGFTNXlRRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Yashar Partovi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105724572160617268692/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpc3FyR1NBEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "\u6797\u660e",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115767615644156588041/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpZ3NDVGJREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Albert Eng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115411907258356880109/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeTZQMWRBEAE",
+        "caption": "Its not a great place. O really don't buy those fish balls because they made of inferior quality fish meat",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Robert Morales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100997811811527505128/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjdWQ3bzJnRRAB",
+        "caption": "They sell fried fish cake. I don\u2019t think fish has balls.....do they?",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Hanz C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116396985449575181004/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcUtxR0R3EAE",
+        "caption": "The Ube concha was delicious along with the empanadas and Lumpia. While I was a little underwhelmed with the Inasal, I think that may have just been due to the place being significantly overwhelmed during their first day officially open. \u2026",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Dan F",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117032567051244800492/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dHRtV0ZBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Twee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116145395903513068620/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dG9tOFlBEAE",
+        "caption": "Worker owned, trendy restaurant that serves some really creative takes on classic cocktail pairings. We tried the sliders (LOVE the lamb and the soyrizo), and the herbaceous fingerling potatoes got snapped up in seconds! I\u2019d also recommend \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jordan Niell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112986553251078461937/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M0tldUdnEAE",
+        "caption": "Great food!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kristeen A Pareja",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111029546539041400632/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M1ByVThRRRAB",
+        "caption": "So good. Best new restaurant in Oakland.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Gordon Douglas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112778629540692638992/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    }
+]

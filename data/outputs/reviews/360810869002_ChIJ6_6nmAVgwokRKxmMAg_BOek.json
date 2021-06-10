@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMGM2Vi1nRRAB",
+        "caption": "The food is regularly fresh and yummy, workers provides fantastic customer service. I like the cleanliness and character. Will come visit again.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Santana Pugh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115704797993144595759/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOVBLZlNREAE",
+        "caption": "The meals and service were ahead of my expectations. We truly enjoyed the atmosphere of this spot. Fantastic place to take the family out for dinner.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Emmet Carroll",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113672651956278983528/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDemVpRURBEAE",
+        "caption": "They serve big dishes and for reasonable prices. welcoming employees. Keep it up.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Josue Delacruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101525456539030362147/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4dzlxTGRnEAE",
+        "caption": "Very neat and accessible place. They provide big portions and for economical prices. We loved the menu a lot and the staff were super welcoming and explanatory. Will definitely recommend this spot.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Hamza Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104842563593500992861/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzc1lHSllnEAE",
+        "caption": "The service is always speedy, great atmosphere, very nice employees. I will return again when I arrive in town.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Quentin Atkins",
+        "n_review_user": 90,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108619236916980460598/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eElQX09BEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Julia Farrow",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117385603804325479441/reviews?hl=en-US",
+        "census_block_group": 60750107004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpN05UeHN3RRAB",
+        "caption": "Literally on the border of little Italy and Chinatown. This hole in the wall pho place services a rather large menu for fair price (I ordered the #33 and it was only $10.75!) They are open late nights and after eating in today, I saw them \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113690974448120331665/reviews?hl=en-US",
+        "census_block_group": 60750107004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjdWJYYW13RRAB",
+        "caption": "Good food and good atmosphere",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "jose dzib",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104301186338019331772/reviews?hl=en-US",
+        "census_block_group": 60750107004
+    }
+]

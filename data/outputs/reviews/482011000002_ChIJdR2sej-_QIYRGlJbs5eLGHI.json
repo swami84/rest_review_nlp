@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzMnNLc3ZBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Anoop Shankaran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101693852964357333551/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVb29XUkdREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Maria Jaimes",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117671261320802900968/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJcnZQN0hBEAE",
+        "caption": "Some of the best sandwiches. They also have a nice salad bar and the place is always clean.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Angel Flores",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105139270427722718186/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRaGVycWVBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 3.0,
+        "username": "S.D. Stauffer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114497023950101552624/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBcWNfTElnEAE",
+        "caption": "Great place for a quick breakfast or lunch. Staff is very nice and will make any additional requests for your meal. Price is very reasonable for the meals.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "josh L",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104422835641550314478/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRN09hMURBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Oleg Fomichev",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110004315326287100789/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3NXYyN2RnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Roxana Flores",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107044123339368728912/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBdHN6N0tnEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 3.0,
+        "username": "Dave Hoppe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108777643449675450210/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndnAzRmxBRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Yun Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116163443794465697457/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    }
+]

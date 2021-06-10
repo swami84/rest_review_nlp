@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjaTk2VDVBRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Alberto Flores",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112329960275165024381/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjODhPdmFREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Emma Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116249889817772654581/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjOF8zYUlREAE",
+        "caption": "(Translated by Google) It looks clean  (Original) Se mira limpio",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Otoniel Flores",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108203160785871229784/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjczVxdFBnEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Josue Flores",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118130138510614474402/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjNDRiU0h3EAE",
+        "caption": "(Translated by Google) The price is good  (Original) Esta bueno el precio",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Maria Rodas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110315669138487545433/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjbmRUU2J3EAE",
+        "caption": "The lowest priced water in the area but the best in taste.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Daniel Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105990912203108307478/reviews?hl=en-US",
+        "census_block_group": 60372412013
+    }
+]

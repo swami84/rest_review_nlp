@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDc1pudTJBRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "evan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107599293006197091064/reviews?hl=en-US",
+        "census_block_group": 60730052002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbWVlT3RBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "ivan tablas",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105512040176626060572/reviews?hl=en-US",
+        "census_block_group": 60730052002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NDlLQjhnRRAB",
+        "caption": "Good simple food. Served quickly with great prices. Just go here.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "mike harris",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112724286275272349583/reviews?hl=en-US",
+        "census_block_group": 60730052002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRMVAyNERBEAE",
+        "caption": "I love this place ,   I love the Ramirez family . I love the food . The food is like my Mamadoll\u2019s food .   Wonderful authentic Mexican food. The  breakfast Is the best .!!!   I don\u2019t understand how some people think that Mexican food is \u2026",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Miss Tamara",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115218334553633946018/reviews?hl=en-US",
+        "census_block_group": 60730052002
+    }
+]

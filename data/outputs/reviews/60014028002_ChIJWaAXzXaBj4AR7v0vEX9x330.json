@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLb2F6Nnp3RRAB",
+        "caption": "I\u2019ve had good experiences in the past but tonight was terrible. It was like bad Safeway sushi. The rice had obviously been out for a long time.",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Tanner Burke",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103078415821719227033/reviews?hl=en-US",
+        "census_block_group": 60014028002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OXNiYUxREAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Grace Carsky",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116587471745292857438/reviews?hl=en-US",
+        "census_block_group": 60014028002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcXNhNld3EAE",
+        "caption": "This restaurant is my preferable restaurant.  Of all restaurants I know I like it most. I always suggests to my friends to go to this restaurant. everytime  I feel like having a delicious lunchon, this is the place that comes straightaway \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Lachlan Zamora",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113153586511581818366/reviews?hl=en-US",
+        "census_block_group": 60014028002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4ODdLNTZ3RRAB",
+        "caption": "This place is awesome. It\u2019s become our staple to go order during shelter in place. Love the rolls and the nigiri sampler.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Courtney Hughes",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114022528443646116912/reviews?hl=en-US",
+        "census_block_group": 60014028002
+    }
+]

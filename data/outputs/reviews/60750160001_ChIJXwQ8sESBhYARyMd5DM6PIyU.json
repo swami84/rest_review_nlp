@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOGRHbFJREAE",
+        "caption": "Friendly staff and well prepared dishes.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "M C",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112616449822774342733/reviews?hl=en-US",
+        "census_block_group": 60750160001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OF8yR0xBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Bozidar Todorovic",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103852185535929462138/reviews?hl=en-US",
+        "census_block_group": 60750160001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbW96MEJnEAE",
+        "caption": "ahi tuna bowl is overpriced even by SF standard. $15 for one small scoop of tuna and some iceberg lettuce salad with mayo...",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 2.0,
+        "username": "da da",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101354353997525233943/reviews?hl=en-US",
+        "census_block_group": 60750160001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4eDVqU0x3EAE",
+        "caption": "Yay a great sushi place in the area! Their rolls are pretty good, especially for the price. I particularly liked the fried salmon and crab roll.  Also tried their volcano with fried shrimp, which I though was delicious and substantial. \u2026",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Meliss M",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117223556842278304021/reviews?hl=en-US",
+        "census_block_group": 60750160001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4X2RLZl93RRAB",
+        "caption": "I am happy to see this place finally opened! The food was amazing and really fresh with unique flavors! Hope the best and will be happy to visit again :)",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Thibault Ravera",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116315657445922406992/reviews?hl=en-US",
+        "census_block_group": 60750160001
+    }
+]

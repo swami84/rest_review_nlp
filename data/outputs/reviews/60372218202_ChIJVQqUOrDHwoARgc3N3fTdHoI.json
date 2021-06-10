@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaG9yd1R3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Chevy 2 Adam",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104963872873615839531/reviews?hl=en-US",
+        "census_block_group": 60372218202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aElldk1REAE",
+        "caption": "I love this restaurant a lot. theres a nice spirit. The food is tasty. the service is efficient and the waiters are polite. The price is fair. extremely recommend.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Leonidas Mcfarland",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103540797156903274376/reviews?hl=en-US",
+        "census_block_group": 60372218202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTN2N1X05nEAE",
+        "caption": "Love their soups (especially mushroom when available), salad, wiener schnitzel (two LARGE pieces), and anything with Spatzle. Service was great, she checked on us throughout our meal and they cleaned as soon as we were done. Very German, \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Cheryl James",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105943933267149793489/reviews?hl=en-US",
+        "census_block_group": 60372218202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMUtUdkpREAE",
+        "caption": "Great food and great customer service. They are so friendly and really show that they value customer experience!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Loren Escobar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109425060564087809892/reviews?hl=en-US",
+        "census_block_group": 60372218202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDX3NTR0hnEAE",
+        "caption": "I've stopped by this place a couple of times, and the service and food is consistent. If you're eating outside there's a specific server for you table can help you - only that server will help you. If you ask someone else or ask the bar for help they direct you back to your server.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Daisy Park",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108358211912771880884/reviews?hl=en-US",
+        "census_block_group": 60372218202
+    }
+]

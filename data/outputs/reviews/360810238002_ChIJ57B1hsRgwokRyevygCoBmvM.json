@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dXJLQkR3EAE",
+        "caption": "I visit this great restaurant from time to time! This is my favorite place to dine.  I go there at least once a month. The cooking is excellent, the staff members are helpful and the charge is reasonable. I like eating in this place for a rich meal.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "moresa xzsaren",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105216018849188277020/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa3VDUm13RRAB",
+        "caption": "The place offers an awesome range of delicious food. I enjoyed dining here. Employees are always super friendly, pricing is convenient and the spot is always kept clean.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Abdiel Liu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102587800024438038576/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpbEs2MktREAE",
+        "caption": "Perfectly delicious and fresh food for a good price and very nice people, thank you for a great meal!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Toby Klinger",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106407249695876359338/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjb1lYX1hBEAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ely Suero25",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111699426520246452865/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNWJTZmF3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Derian Torres",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117221647417728409422/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwMkptQU5REAE",
+        "caption": "This restaurant is certainly one of the tastiest place in the region. Whenever I visit this place I am absolutely pleased. They preserve their high  standard service and the highest level of cooking  they offer. You will be always satisfied with this restaurant. Warmly  recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jayson Burnett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117518417828047734884/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVX3Q2LVRREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Alex el pocho",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100184634954383485063/reviews?hl=en-US",
+        "census_block_group": 360810238002
+    }
+]

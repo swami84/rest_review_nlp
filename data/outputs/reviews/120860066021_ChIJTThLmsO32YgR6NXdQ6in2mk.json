@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLMmZDTWhRRRAB",
+        "caption": "Best food truck in the 305",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Abdiel Sanchez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116473647333849767977/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbVAyNDlnRRAB",
+        "caption": "This was recommended to me by a close friend, I am very glad I stopped by. I didn't know what to expect,  but I was thoroughly pleased with the whole experience. The menu is not overwhelming and the variety fits right in with the Miami \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Nomad Productions",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118372602618466939182/reviews?hl=en-US",
+        "census_block_group": 120860066021
+    }
+]

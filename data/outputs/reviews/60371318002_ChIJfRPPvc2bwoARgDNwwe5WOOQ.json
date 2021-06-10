@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLU12ZzF3RRAB",
+        "caption": "The best Mexican food out in the valley.. Lo mejor.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Tito rafael Munoz alvarez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102194266007042990794/reviews?hl=en-US",
+        "census_block_group": 60371318002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNS0taXNBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "ricardo v",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111152583189697654175/reviews?hl=en-US",
+        "census_block_group": 60371318002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeU5DTnhnRRAB",
+        "caption": "(Translated by Google) Rich but the girl who takes the order is always angry, she has no way to attend. Is very rude  (Original) Ricos pero la chica que toma la orden siempre esta enojada , no tiene modo para atender. Es muy grosera",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Guadalupe Rico",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115511333331232646883/reviews?hl=en-US",
+        "census_block_group": 60371318002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOC1idzNRRRAB",
+        "caption": "(Translated by Google) Bad experience they don't have much hygiene in that place they should keep cleaner  (Original) Mala experiencia no tienen mucha higiene en ese lugar deber\u00edan mantener m\u00e1s limpio",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "sol kik",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114847043777038690787/reviews?hl=en-US",
+        "census_block_group": 60371318002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3aGRpaGpRRRAB",
+        "caption": "Totally loved this place! cant wait to have it again tomorrow!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "greengroup7 service",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114036136883512338747/reviews?hl=en-US",
+        "census_block_group": 60371318002
+    }
+]

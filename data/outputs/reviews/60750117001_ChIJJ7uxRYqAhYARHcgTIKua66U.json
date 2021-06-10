@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwcWNHNEd3EAE",
+        "caption": "Inexpensive.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Nam Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112385964224864664931/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZMmJTX3l3RRAB",
+        "caption": "Quick, inexpensive, and a surprisingly good reuben!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Nicholas Howard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112079232007469845176/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvdWFya2R3EAE",
+        "caption": "It's a GREAT price for a simple basic sandwich for less thank $8.00 for a tuna melt",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "J Se",
+        "n_review_user": 384,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101717342255133479774/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcXRqX0h3EAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Quocnam Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102759687354115299701/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRN0xuQzNBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Vivek Daftuar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112181517156537570058/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBa05QZTR3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Aaron Sander",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101687612764659229460/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbDV6VVRREAE",
+        "caption": "They have variety but there is a funky smell and its overpriced for what you get. Not recommended.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 2.0,
+        "username": "Thanh Phan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109411965244286615724/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcHJXaVZREAE",
+        "caption": "Good sandwiches!",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Anthony Wu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105381321899417858984/reviews?hl=en-US",
+        "census_block_group": 60750117001
+    }
+]

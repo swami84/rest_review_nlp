@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTeFlMdVdnEAE",
+        "caption": "It was a good sandwich, plain and simple. Definitely a notable stop but not necessarily wowed. The service were great and the food came out quick.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Matthew Bryant",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104300812727888471218/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMweUtTOF93RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Srinivas P",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112047203484962356967/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cllIbmdBRRAB",
+        "caption": "Food was mediocre.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 2.0,
+        "username": "Gustavo Davila",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106207573542687098645/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBd1BUOWVnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Lilia Garcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100401949700519096788/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROFkyNkVBEAE",
+        "caption": "HORRIBLE management. Not professional at all, and quite unsanitary. The food is okay, but still not worth the price.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Isarose",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109085408448577378161/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRNk03eU1BEAE",
+        "caption": "They had meat sitting on top of a trash can as you can see. I notified them and they didn't care enough to move it so I snapped a picture for you all to see. My wife was brave enough to still try it. She said the chicken wasn't tender.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Sean Mulligan",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104899948958316936329/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndnAzYVNBEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Jill Brady",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108770302906501575108/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNDdDTkV3EAE",
+        "caption": "Had the delicious western bbq chicken salad. It was perfection.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Christian *",
+        "n_review_user": 830,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100753780228758754876/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    }
+]

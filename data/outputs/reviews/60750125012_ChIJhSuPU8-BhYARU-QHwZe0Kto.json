@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzajdmejdRRRAB",
+        "caption": "The food is soooooo good! We are staying upstairs and have eaten here each night for convenience and have been blown away by the service and the quality of the food. Highly highly recommended!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Chris Collins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113121147165943278933/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzM3ZMRmlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Will Cook",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107144143337107673963/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbnRya2lBRRAB",
+        "caption": "Solid service with nice people. Good prices on drinks.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "MrFitsPantsOn",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111217657595583366844/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbnRyc3VnRRAB",
+        "caption": "Very good burgers and friendly staff!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Jay Griffiths",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114830870284449296108/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNaHV2ZC1nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "carlos perez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103036977977368601133/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNaDltc2dnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Thomas Guieu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116409394927016914735/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    }
+]

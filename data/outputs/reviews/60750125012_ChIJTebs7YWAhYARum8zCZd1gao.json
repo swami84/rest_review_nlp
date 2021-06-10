@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNX01ia3F3RRAB",
+        "caption": "I like this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Hyunsoo Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107331010161320661887/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrNWJ1VVNBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "\u7530\u7075\u5a1c",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108947393032596645765/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnM3N5TmF3EAE",
+        "caption": "Cheap sandwiches, nice owner. accepts cc",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Kevan Lucchini",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109345775366059454910/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnNjVtVzZnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Madison Hutchins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105526827571316260487/reviews?hl=en-US",
+        "census_block_group": 60750125012
+    }
+]

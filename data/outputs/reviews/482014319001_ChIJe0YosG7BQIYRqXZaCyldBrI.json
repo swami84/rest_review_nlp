@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZcU92WWlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Humberto Bonelly",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115630755592551256237/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3d3V1OUNBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Deborah Belle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102556072240664136917/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNmEzOGhnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Oscar Morales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109974160063115247717/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3MjdydnpRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Twaina Garrett",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109880134334785158957/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3d2ZqM0R3EAE",
+        "caption": "Food here is okay but Service was awesome. Will make me come back definitely",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "MAXx Styles",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107803227015934208745/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjOWN2XzNBRRAB",
+        "caption": "The service and food was really good, I love the decor and it's very casual...this is my second time here would recommend this to everyone...",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Carole Roy",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101083248499152161288/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvODZfWlZnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Luiciano Domine",
+        "n_review_user": 45,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112214164049910691647/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvM3FPck9BEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Eventos Danny Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100009447943684008635/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3bF8zVmRBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Arnoldo Trejo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106491486001343169216/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBX0p5NWdnRRAB",
+        "caption": "Ok",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Zachary Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114312296025231235537/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRMHBmcmNnEAE",
+        "caption": "Great taco spot",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Sal rafi",
+        "n_review_user": 230,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101609794616147609227/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMnZxdEZ3EAE",
+        "caption": "Perfect for quincieneras",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Zerimar Leumas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111135520091688565508/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRNFpHUXBnRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Khadafi Jamal",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101021211431699896283/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBck0tem9BRRAB",
+        "caption": "Great taco spot",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Jorge L. Reyes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110996909957541201611/reviews?hl=en-US",
+        "census_block_group": 60372393101
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMmZmajd3RRAB",
+        "caption": "Why do you put false information on here like that you offer curbside service when you really don't.................",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Y.E.S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106808311806644106286/reviews?hl=en-US",
+        "census_block_group": 482014307002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMWRmMklnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ramenio Dobbins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112911591845182928265/reviews?hl=en-US",
+        "census_block_group": 482014307002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBX09hRm53RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Sean Collins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117132176702524549484/reviews?hl=en-US",
+        "census_block_group": 482014307002
+    }
+]

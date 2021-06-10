@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5akktVWtBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Dennis Cabry",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111966486662384510201/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNzZQYXBnRRAB",
+        "caption": "Well I'll be darned these ladies were saucy. They have the most succulent sauce west of the Susquehanna. So moist and creamy 10/10. Love you girls!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Nicholas Shelly",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105313036107873844664/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMjRlUzZ3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Theresa Sechrist",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115604286771436694283/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    }
+]

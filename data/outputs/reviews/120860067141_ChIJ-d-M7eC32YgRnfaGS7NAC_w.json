@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLX19PS1NnEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Alejandro Cossio",
+        "n_review_user": 46,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115844707787579371426/reviews?hl=en-US",
+        "census_block_group": 120860067141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOTU2R0hBEAE",
+        "caption": "Next level.  Outstanding in every way.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Jonathan Berman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107424733585909236938/reviews?hl=en-US",
+        "census_block_group": 120860067141
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcDVqZ3lnRRAB",
+        "caption": "Amazing experts amazing food.  A delight.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "T Matt",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110928468854541593001/reviews?hl=en-US",
+        "census_block_group": 120860067141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTZ0k2RlV3EAE",
+        "caption": "Phenomenal! Spot on in every aspect, Caviar Russe is amazing! Definitely a unique experience, each dish (we did the 3 course tasting) was beautifully prepared, full of flavor and perfectly Balanced. We had the Osetra Caviar as well, great \u2026",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Kyle Cummings",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112214368111138172572/reviews?hl=en-US",
+        "census_block_group": 120860067141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOGZTQ0VREAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Daniel Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107473758280893547512/reviews?hl=en-US",
+        "census_block_group": 120860067141
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcFlXaDNRRRAB",
+        "caption": "This place is amazing!! The owner is so nice that he told us their new address at 135-24 40th street and even offered to meet us outside. The beef rice noodle is so delicious and reminds me soooo much of home. Two of my friends have nut allergy and they also accommodated that. Will definitely order again!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Rui",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100930865365655410145/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJcHBHY3lRRRAB",
+        "caption": "The spicy & sour vegetarian soup comes with peanuts, and is just lovely.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Gregor J. Rothfuss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104819208193648646391/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMUp2VVBBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Evelyn Huang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108608472762264185956/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcHNuNHl3RRAB",
+        "caption": "Excellent Guizhou style noodle soup! Guizhou cuisine is noted for its combination of spicy and sour flavors, and this place delivers! Don't forget to pay $1 more for extra spicy.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Aaron",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113953860962462869194/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

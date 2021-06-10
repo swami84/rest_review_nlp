@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ODR6VVRnEAE",
+        "caption": "Best cachapa ever! Really recommend this place. Everything was really fresh and the attention was excellent! Volver\u00e9 pronto!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Yessica Garcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104453885071156664752/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OXNiVVdREAE",
+        "caption": "(Translated by Google) Excellent and delicious cachapas \ud83d\ude0b  (Original) Excelente y riqu\u00edsimas cachapas \ud83d\ude0b",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Treycy Velasquez",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117365315864240785002/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbTl5NlZ3EAE",
+        "caption": "Daaaamn that's good",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Amelia Brackney",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105654274817742723675/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    }
+]

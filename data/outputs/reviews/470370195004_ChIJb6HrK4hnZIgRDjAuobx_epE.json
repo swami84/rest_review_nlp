@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLXFXMDFRRRAB",
+        "caption": "Not good at all. Veggie tacos were awful. Corn dish was decent. Won't be coming back again. Very pricey",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "shweta mundhra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105212234522831758454/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwOUl6RTdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Cj",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106770865144778815969/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMweE9IZHNBRRAB",
+        "caption": "Excellent cheese steak.  Fresh bread and real steak.  Price is on point.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Josh Rogers",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113645570377738069940/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMweE1IMUd3EAE",
+        "caption": "Fantastic burgers!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Paul Noska",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118348027534189831755/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVejZxcVpREAE",
+        "caption": "Best cheese steak in Nashville",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Jonathan Dizonno",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105099649656421910484/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    }
+]

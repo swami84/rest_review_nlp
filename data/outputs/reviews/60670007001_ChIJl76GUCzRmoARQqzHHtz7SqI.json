@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDb3J1NlJBEAE",
+        "caption": "Kale power salad for the win!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Kris Wakamiya",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110507334259605123879/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzdnFmbE9nEAE",
+        "caption": "This place sure knows how to please their customers. Constantly with a helpful attitude. The food is reasonably priced, always delicious and clean.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Gene Jones",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108697017011822253243/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwb0l5WUZBEAE",
+        "caption": "(Translated by Google) Very good  (Original) Mui bueno",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Daniel Honorio",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114729710200815970754/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVMF9LODlBRRAB",
+        "caption": "Love Sellands but never found the one in Sacramento",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Trisha Gull",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101293654559906028564/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvNTdhWjBRRRAB",
+        "caption": "Pizza and service at this place is excellent. This place will surprise you. Prices are fair.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Sonya Bradley",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102120836404067339217/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3bklTbGlnRRAB",
+        "caption": "Great weekly dinner for two special including a bottle of wine for $25. Diverse menu and great desserts. Family oriented with community seating encouraged. Cafeteria style - order upon entry then pick up your food and pay.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Lin Collins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118063052890603875143/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    }
+]

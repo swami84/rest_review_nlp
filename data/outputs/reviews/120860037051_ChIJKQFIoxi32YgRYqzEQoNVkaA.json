@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTLTk2RXBnRRAB",
+        "caption": "Great concept",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Chef Markens Isidor",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113377261303793926241/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDc3VfbFBREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Gabrielle Leteurtre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106370308528899949335/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDX29pWF9RRRAB",
+        "caption": "Franchise Ghost Kitchen / Virtual Restaurants in USA",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Alp Franko",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103076931621801590953/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaEw3U1JBEAE",
+        "caption": "Love the variety of menu items, always delicious and high quality!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Lacey Outten",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108071703399020527762/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDLUpiVkpnEAE",
+        "caption": "Best burger ever !",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "julien martin",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102232136833873899334/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDLUx6cmxnRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "gilles carriere",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110396793349898650109/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDLU1pMFF3EAE",
+        "caption": "Great concept, great food !",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Daniel Kwintner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102782494647688303507/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdU8yamhnRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Bill Manrique",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103924386742650671261/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdU5tc0tnEAE",
+        "caption": "I love the concept and how it helped my restaurant increase revenue. They are always one phone call away and helped my family save our family-owned restaurant during these hard times of COVID!!! 10000 Thanks to the team!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Anthony",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111674702949481196997/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4dFpyZGtnRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Andrew Rivera",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114873218006408419834/reviews?hl=en-US",
+        "census_block_group": 120860037051
+    }
+]

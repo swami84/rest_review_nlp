@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MzhhZmpBRRAB",
+        "caption": "(Translated by Google) Recommended  (Original) Recomendado",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Anahis Angulo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110658148987124016146/reviews?hl=en-US",
+        "census_block_group": 120860042063
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cU0yY0F3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 3.0,
+        "username": "Surayma de las Mercedes Artiles Medina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108193750779264370970/reviews?hl=en-US",
+        "census_block_group": 120860042063
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzdE9Hbml3RRAB",
+        "caption": "The gelato was as good as I expected!  Will definitely hit it again on my next Miami trip!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Dan Stephens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113315211252550380067/reviews?hl=en-US",
+        "census_block_group": 120860042063
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzZ1kzX1dREAE",
+        "caption": "This restaurant gives excellent service as well as tasty menu. The best restaurant around town. The meals served rapidly and the rates were fair. I recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Bridger Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116401163527234447198/reviews?hl=en-US",
+        "census_block_group": 481130149022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwc00yNUl3EAE",
+        "caption": "This spot is the one I always prefer. I visit a lot of restaurants but to this restaurant I go the most. The team is very welcoming and the food they serve is so good. I would always prefer to have a nice dinner in this place. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Rhea Rhea",
+        "n_review_user": 82,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116203926684367307283/reviews?hl=en-US",
+        "census_block_group": 481130149022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcTl2aWdBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Roy Silva",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105094914181161051320/reviews?hl=en-US",
+        "census_block_group": 481130149022
+    }
+]

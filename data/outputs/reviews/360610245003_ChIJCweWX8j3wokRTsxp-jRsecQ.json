@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDgzWDRBRRAB",
+        "caption": "Lowlives frequent this place and the servers are extremely disgusting.....",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Jay Santiago",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112776849891208886356/reviews?hl=en-US",
+        "census_block_group": 360610245003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LTRTNWh3RRAB",
+        "caption": "Food was not worth it, gave it 3 tries and still nothing, no taste",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 2.0,
+        "username": "Raynier olivares",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103160578140452528855/reviews?hl=en-US",
+        "census_block_group": 360610245003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LWUzXzNRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jasmine Ramsey",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103930345200820915607/reviews?hl=en-US",
+        "census_block_group": 360610245003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4Z29PaEVnEAE",
+        "caption": "(Translated by Google) The best greaves in the city of Ny  (Original) Los mejores chicharrones de la ciudad de Ny",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Renso Del Rosario",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107980985466627481255/reviews?hl=en-US",
+        "census_block_group": 360610245003
+    }
+]

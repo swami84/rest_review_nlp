@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOHVXUUZBEAE",
+        "caption": "Excellent customer service and \u201cVegan\u201d food! Thank you!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Gail George",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116220684250071582707/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aU1pZTZnRRAB",
+        "caption": "On the menu I got the Chewy,  topped with almonds , chocolate, strawberries,  granola clusters, cocoa , flex, hemp, and chia seeds , peanut butter , honey. My bowl provided the antioxidants that my body needed. Highly recommended if you are \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Jennifer lane",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109549146232776272107/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5amMzNS1RRRAB",
+        "caption": "DELICIOUS!! Highly recommend. Great service too!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Stephanie Kumm",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110628719070677147655/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    }
+]

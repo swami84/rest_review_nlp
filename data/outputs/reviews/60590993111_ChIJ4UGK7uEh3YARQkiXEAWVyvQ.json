@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVaWF6RXJnRRAB",
+        "caption": "Love this place best tacos in town!!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "erick B",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108737365505970052664/reviews?hl=en-US",
+        "census_block_group": 60590993111
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrMWU2Ml9RRRAB",
+        "caption": "They have street tacos for $1.99 a piece and they are DELICIOUS! We tried the chicken, Asada, and pastor tacos and they were all amazing. Super fast and friendly service. Just down the road from the pier. You should definitely give this place a try!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jessica Adams",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116741107936612018586/reviews?hl=en-US",
+        "census_block_group": 60590993111
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrX0lEczRnRRAB",
+        "caption": "Service was great!! Tacos were delicious! Bita was awesome very kind and had great customer service.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Angelica Fimbrez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118020287489433278962/reviews?hl=en-US",
+        "census_block_group": 60590993111
+    }
+]

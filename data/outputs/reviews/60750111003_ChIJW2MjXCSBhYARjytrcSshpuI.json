@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMmNEa0V3EAE",
+        "caption": "Not gluten free",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Jacob Fishman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104497062623189411725/reviews?hl=en-US",
+        "census_block_group": 60750111003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLXYyU0VBEAE",
+        "caption": "Yeah. I don\u2019t think this place is gluten free at all. I went here to check the place out and it\u2019s just a cool little hole in the wall.  Their pizzas might be amazing but if you\u2019re a celiac, you might want to check out another place that will not cross contaminate you.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Dominique Santos",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106951673115462202673/reviews?hl=en-US",
+        "census_block_group": 60750111003
+    }
+]

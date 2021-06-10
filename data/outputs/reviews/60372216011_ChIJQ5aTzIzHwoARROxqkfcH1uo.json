@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbGFqWnpBRRAB",
+        "caption": "Best sea food lonchera ever",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Marcos Camacho",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108668394162086158115/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwaXJlVG5BRRAB",
+        "caption": "(Translated by Google) Uuufff These seafood is very delicious I have 15 years of going to eat there I recommend them.  (Original) Uuufff. Estos mariscos esta muy riqu\u00edsimos tengo 15 a\u00f1os de ir a comer ah\u00ed se los recomiendo .",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jeorge Hernandez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116488967621674692674/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVMnUyMUtREAE",
+        "caption": "Good ceviche",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Morris Bacardy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105618695406877811281/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNkkzMUdBEAE",
+        "caption": "Good portions always fresh and well made seafood. love it. Highly recommended \ud83d\udc4d",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "walter contreras",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112601227620069527021/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBazRUeGJREAE",
+        "caption": "(Translated by Google) Edzn 2  (Original) Edzn 2",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Meliton Mendoza",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113497684481959816396/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnNXVHTFFBEAE",
+        "caption": "Best place",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Evelyn Eaton",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101361087084882459101/reviews?hl=en-US",
+        "census_block_group": 60372216011
+    }
+]

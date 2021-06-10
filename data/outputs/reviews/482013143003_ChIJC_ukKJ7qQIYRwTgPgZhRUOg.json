@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDM2NPN3JBRRAB",
+        "caption": "Great food, wonderful owners.  Great place for lunch!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Letha Compton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115982284482334724257/reviews?hl=en-US",
+        "census_block_group": 482013143003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncDZ2VHZnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Jonathan Kelly",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113514202042200625082/reviews?hl=en-US",
+        "census_block_group": 482013143003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdE4yWEVnEAE",
+        "caption": "Good food low prices",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Taylor Bonnie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117626760476515831226/reviews?hl=en-US",
+        "census_block_group": 482013143003
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LXJ6X2FREAE",
+        "caption": "Great quality beer, friendly staff, look forward to being able to enjoy the patio soon",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kevin OBrien",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114359989904887508295/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d1BxXzlBRRAB",
+        "caption": "Great beer, friendly staff. Can\u2019t wait till they open fully.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "steve larson",
+        "n_review_user": 49,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115391533608195444953/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aTlidFVREAE",
+        "caption": "Really friendly staff, good beer and it's in a chill spot - Can't wait for them to open up proper!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Michael Henn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111165935688811327853/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eElIRDBRRRAB",
+        "caption": "I just did a quick pickup here, since that's all you can do right now :(  But they had plenty of options to choose from and their new \"Juicy IPA\" was super good, like best beer they've made so far imo.  I did get to look inside the place, and when we can go inside, it's gonna be a great spot to chill I think.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Corey Strock",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109413032626718987280/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpeEpLVXdBRRAB",
+        "caption": "Tried my first beer from Gilman Brewing Company and it far exceeded my expectations. I tried the Champ Rochaux and found this saison to be flavor full and smooth and very easy to drink. It was a Creative way to drive flavor into a wheat beer. I\u2019m super excited to have a new brewery in Pleasanton.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Bryon Winget",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110940403972398996426/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaHJmbTF3RRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Brett Van den Burg",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104757001085811640744/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwZzVmRGh3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Qi Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101119795159099097471/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwbHVLTld3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Zhenkang Yao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111216526929621383421/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwbkl1MjRBRRAB",
+        "caption": "I'm not sure why there's such a lack of review as this is an amazing gem that you wouldn't expect out of flushing.  This place has amazing service & their crawfish is out of this world. I'm not one to really eat crawfish but their crawfish \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Alex Tran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114240170888378779274/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNkliNFlnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Longguo Jin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102523994563798277122/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdXJUQnJBRRAB",
+        "caption": "If you like crawfish,that\u2019s the place that you have to go!live crawfish all year round,tasty n fresh.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "vincent zhen",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105508123775845041618/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    }
+]

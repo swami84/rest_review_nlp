@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRMXVpUXdRRRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "geanina 503",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102481549590043649880/reviews?hl=en-US",
+        "census_block_group": 360810306001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBdklxeW9RRRAB",
+        "caption": "This is located in a convenient location. They have more than fried chicken. There are pizza rolls, which are good. They also offer a variety of salads. They also have burgers and fries. It is a fast food restaurant. The service is good. Prices are okay.",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "ej shortell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115082761597075271038/reviews?hl=en-US",
+        "census_block_group": 360810306001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3azhIZmp3RRAB",
+        "caption": "",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Taysha Lawson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114371791551259334258/reviews?hl=en-US",
+        "census_block_group": 360810306001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnOUxYX09BEAE",
+        "caption": "Everyday after my football practice I buy a cheese burger from here and it is delicious",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Taje Douglas",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110373132433319880148/reviews?hl=en-US",
+        "census_block_group": 360810306001
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZ3ZHU1N3EAE",
+        "caption": "I had an excellent  at this spot. We liked the superb atmosphere and the food. The staff are super welcoming. I\u2019m content we ultimately decided to visit this restaurant.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Layne Buck",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106414938656191964690/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4a3NLVElnEAE",
+        "caption": "I love Ding Dings hot pot rice..",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Grace Casale",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111808320245054805691/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa3R6ekJ3EAE",
+        "caption": "Finest spot to have something when in a hurry. The customer service is rapid, rates are reasonable, awesome atmosphere. Would recommend to others",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Martin Howard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111867863213288243633/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwbnFITUxBEAE",
+        "caption": "It takes 30 minutes to wait! Worst experience ever!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "jingyi chen",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101629550645625702862/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

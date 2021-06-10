@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweU02ZXNBRRAB",
+        "caption": "The food is made fresh when order.right in front of you",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Pauline Murphy",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117993892826602173670/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNzhiVlVBEAE",
+        "caption": "Everytime I come here they change price or restrict salad toppings.  They only allow 5 toppings for salad but didnt tell me until they rung it up.  Oh croutons will cost you 50 cents to hv with your salad for small $8.  These women were \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Bridgette M",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106621883489353661363/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNamR1ejhnRRAB",
+        "caption": "They have a terrific build your own burrito. Excellent flavor and fairly large. Very small, tight operation in the Bank of America food court. Highly Recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Gene Seberg",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105995423060813285239/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdzRfNGZ3EAE",
+        "caption": "They have really good food, it\u2019s great spot for lunch and they are quick. They have a variety of food and all of it is delicious. I love the burritos, they are to die for !!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "melanie ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118416098978378533168/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRc1BiVExnEAE",
+        "caption": "A great place good prices and healthy choices",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Janet G",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104623356077460214046/reviews?hl=en-US",
+        "census_block_group": 481130021001
+    }
+]

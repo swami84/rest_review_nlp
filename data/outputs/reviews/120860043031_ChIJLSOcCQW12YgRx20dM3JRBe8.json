@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURLcUxfWm1BRRAB",
+        "caption": "Love their Straberry Orange Mimosa!!! and the pub is looking awesome! Look forward to the opening indeed... Great location.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Ledaliz Collazo",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105387977076475622045/reviews?hl=en-US",
+        "census_block_group": 120860043031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURLcU4tYU5REAE",
+        "caption": "Love their brews! Great products, and the new pub is very cool. Covid did delay the opening, but wel  worth the wait. Look forward to the formal opening...",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Miguel Serrano",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103580543480595973765/reviews?hl=en-US",
+        "census_block_group": 120860043031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpc3JQODhRRRAB",
+        "caption": "South Beach Brewing Co.\u2019s first brewpub is anything BUT a \u2018ghost brewery\u2019 as one reviewer referred to it as? They just haven\u2019t opened yet! Still in development- hit some snags with COVID but coming soon...late 2020/early 2021. The beer is \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Devon Simpson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111138754082976540091/reviews?hl=en-US",
+        "census_block_group": 120860043031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMEtxNWNREAE",
+        "caption": "Awesome beer. The blood orange IPA is so good!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Fernando Romero-Lage",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106533169426392166604/reviews?hl=en-US",
+        "census_block_group": 120860043031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbDVLVm53RRAB",
+        "caption": "I asked another local brewery about this place and they called it a Ghost brewery. They have a location that isn't real. I asked the other brewery about them because I couldn't find their location and thats because they aren't there.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Victor Herold",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106052546184298058761/reviews?hl=en-US",
+        "census_block_group": 120860043031
+    }
+]

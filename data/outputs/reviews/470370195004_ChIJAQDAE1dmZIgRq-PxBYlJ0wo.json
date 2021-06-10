@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrbU42WXFRRRAB",
+        "caption": "We had a great enjoyed the music and my husband enjoyed the drinks and the food was delicious!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Crystal Jones",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108907753795996387706/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnczR5b0pBEAE",
+        "caption": "Fun night with great food!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Cat Sewell",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115068612885041846437/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbGJiTEZREAE",
+        "caption": "Awful.  Tiny samplings of food and drink that you stand in 5 - 10 minute lines for.  Free giveaway items on par with cheap freebies you'd get at a convention, all for the affordable price of $60-$70 per person.  Nothing wrong about the \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Jim Weaver",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111797696700562569982/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    }
+]

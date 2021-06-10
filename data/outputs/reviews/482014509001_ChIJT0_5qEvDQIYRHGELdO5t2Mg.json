@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJZ3ZHLW1nRRAB",
+        "caption": "Very limited veggie option",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Nishant Sharma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105793742490312947430/reviews?hl=en-US",
+        "census_block_group": 482014509001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNReWZ2eXVRRRAB",
+        "caption": "Best Cobb salad I've had and the specials are always good. They season their food very well. As opposed to the popular chains next door that don't season their food at all. It's on the first floor of a corporate building buy anyone is welcomed to walk  in to eat. Soups are good too. Oh, and their homemade chips. It's all good!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Brooke Browne",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107888908993028100758/reviews?hl=en-US",
+        "census_block_group": 482014509001
+    }
+]

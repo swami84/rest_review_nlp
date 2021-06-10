@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLbEtmSHRnRRAB",
+        "caption": "Need more food in my sandwich",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Vanessa Asylum",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112621540004143314807/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNktpUF9nRRAB",
+        "caption": "The workers there are super nice and friendly! The food is always delicious and the atmosphere has been consistently warm and welcoming.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "tromboneD1",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105764474894885350299/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MXJLX2FnEAE",
+        "caption": "It feels like they family and with one breakfast u can feed 2 I left like 4frenchtoast Sausage and 2 grill cheese on the grill but Dominican cheese \ud83d\udc98 love it",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Carmen Bula",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117351277291044462796/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MVlUMUhnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Erika C",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110193419127986994363/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NW9QbjF3RRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Chris Collado",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114544161771800708097/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bkttU19nRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Duke Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102899855680555681292/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    }
+]

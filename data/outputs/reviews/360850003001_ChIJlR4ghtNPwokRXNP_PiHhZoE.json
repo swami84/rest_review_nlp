@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDaTdhY2lRRRAB",
+        "caption": "Got carrot juice. Tasted pretty good. Staff was nice",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Jasmine H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104731006993930939215/reviews?hl=en-US",
+        "census_block_group": 360850003001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdTZIQmJBEAE",
+        "caption": "Try to ask question about a purchase, the employee sent me to information booth , learn English if you're going to work in the public sector, lost my business , sorry looked like a fun place , employee's not so much",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "James Gill",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118051694503476345978/reviews?hl=en-US",
+        "census_block_group": 360850003001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvNExHTWZBEAE",
+        "caption": "Decided to get a smoothie in the morning, but the lady working was not interested in helping me.   Only wanted to talk on the phone.  She saw me and turned away.  When I tried getting her attention she just walked to the other side of the \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "george simon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112648495711380020500/reviews?hl=en-US",
+        "census_block_group": 360850003001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJdl9Lem1BRRAB",
+        "caption": "I\u2019m here on a Friday night about 7:45. The server that gave me my overpriced smoothie was nasty to me when I asked for a napkin; which he should\u2019ve given me anyway. Never going back.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Jacqueline Handy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113169947748051070197/reviews?hl=en-US",
+        "census_block_group": 360850003001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5enUtaG1RRRAB",
+        "caption": "Food was fresh & delicious.  Tried the jamaica, shrimp ceviche & al pastor cauliflower taco.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jay",
+        "n_review_user": 25,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100484792326690567162/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNzhHOG1BRRAB",
+        "caption": "Really good tacos! definitely recommend coming here!!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "A G",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104407283393795122730/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdV9ISlB3EAE",
+        "caption": "The most amazing food I have ever tasted. Employees were super friendly and nice. Everything I ordered came out exactly how I asked for it very impressed. My friends loved it because they\u2019re vegan friendly. I will definitely be coming back and recommending to other people. Can\u2019t wait to come back.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Angela Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110440286443042616339/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcjY2NWNBEAE",
+        "caption": "First time trying and I\u2019m disappointed..Tortillas kept ripping and that\u2019s a big NO.. (use two tortillas).The meat was burnt and the shrimp was ok. The onion and cilantro had a weird taste. The presentation was nice but I don\u2019t think I\u2019ll eat here again. Hope you take this feedback to improve.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Alex Barcenas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110535622485728741719/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzLXJ1dEhnEAE",
+        "caption": "They have veggie tacos here! So good.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ken Pekowski",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117540116138290755336/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    }
+]

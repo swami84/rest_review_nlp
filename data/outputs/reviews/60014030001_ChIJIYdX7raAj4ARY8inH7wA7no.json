@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0bE96aFJnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Roland Kawakami",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108683149043544402301/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZcnJiejJnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Walter Rosado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105712005664933312547/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZalpDMTV3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Kathy Ko Chin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100886440562304178786/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnbS1iLUZnEAE",
+        "caption": "Good, not great, hotel fare.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "robert lieberson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106144102232338801046/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBM2RIV1N3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Mary fitzhugh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117768171810144130085/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cklMRVZ3EAE",
+        "caption": "Surprisingly good food for the location. Inside a very average Courtyard by Marriott, the breakfast selection and quality was super impressive and tasty. If staying at the Marriott, this is a very solid choice for breakfast (I recommend the breakfast bowl: home fries, kale, Chinese broccoli with two poached eggs)",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Alex Czartoryski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116300769210116322305/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    }
+]

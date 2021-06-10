@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnbGRTSjRnRRAB",
+        "caption": "Very good food, large proportion(s) friendly staff.  Extremely welled priced\ud83d\udc4d",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "breck livingston",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101010889531062966270/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnODkyaVJREAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Brian W",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102418028147528341580/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNneTdfMVB3EAE",
+        "caption": "I have tried over 15 pho places in the past 2 years. This is my FAVORITE OF ALL TIME! The pho noodles are so soft and everything is fresh and delicious! The service is amazing. Always very friendly and I never have to ask for a refill for \u2026",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Alicia Castaneda",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116360874201090365353/reviews?hl=en-US",
+        "census_block_group": 60014030001
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdU9MRkFREAE",
+        "caption": "A little jewel in downtown Hayward! If the $30+ flagship fish dish is too pricy, try their $10+ Spicy-Sour Fish Fillet with Noodles. We always add one different lunch specials for our 3-member family. Leftover rice and unique homemade noodles serve for the staple of next meal.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "alex huang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115819709240906994772/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGViT193RRAB",
+        "caption": "Good food. Nice Lady.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Rosalina Mendez",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109299469742661322339/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcFk2TTVRRRAB",
+        "caption": "A bit pricey but totally worth it. Great food!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kassem AlHussein",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115498973179847736197/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDd3ZiTU9REAE",
+        "caption": "Chicken with explosive peppers was excellent! Our other dishes were solid, but nothing special.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Maxx Kumiski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103103714944211827977/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjLUpyRmFREAE",
+        "caption": "great place to stop by for spicy sour fish. Not the best one I ever had and a bit pricy.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Junyan Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109348075018602120525/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOWR5TFZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "TT",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111475771833915439619/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzMnRlVnZ3RRAB",
+        "caption": "Food is good and light",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Matthew Zhao",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100275057623638518034/reviews?hl=en-US",
+        "census_block_group": 60014354003
+    }
+]

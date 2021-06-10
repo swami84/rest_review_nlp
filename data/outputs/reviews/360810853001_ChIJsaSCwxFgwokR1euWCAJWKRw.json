@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcXQ3QW93RRAB",
+        "caption": "We met with friends at this place for dinner. my friend recommended this restaurant.  Well, it was a winning. The crew welcomed us with a smile and we felt very good. The food was just great. We loved this restaurant very much and we shall absolutely come back again. Recommended.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Toby Marquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113315241632528482918/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQweG9mbXhBRRAB",
+        "caption": "food has no taste. i cook better than this place. not recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "jojo gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101989723868918235371/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRNTh6QzB3RRAB",
+        "caption": "the best",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Tony Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109091242616213914503/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    }
+]

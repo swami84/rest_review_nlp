@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dEk3Q21nRRAB",
+        "caption": "Family owned, great noodles, snacks, & rice dishes. Thai street food.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "charlie ouichareon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113486457887660314682/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NllMRXFRRRAB",
+        "caption": "Best Pork noodle soup in town. I highly recommend. Affordable and tasty! And did I mention..They have lunch special everyday!?",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "So Slick",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115275217926913592178/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NmR5RVBnEAE",
+        "caption": "I love eating their beef noodle soup! My favorite soup for the cold. I also love the crispy pork there too! Really good service!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Aisha Pierson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110203265517087365217/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTZ3ZlTmRnEAE",
+        "caption": "This restaurant just opened and I love it. Homemade Thai noodle soup and yummy appetizers! Just what I need for this weather!",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Sawanya P",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109495653046530285508/reviews?hl=en-US",
+        "census_block_group": 360810267001
+    }
+]

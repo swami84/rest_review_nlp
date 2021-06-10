@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdHBpV0pnEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Edgardo martinez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112576370778425751359/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDcGR5eThBRRAB",
+        "caption": "Food was good parking was hard to find",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Mikka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118309951647409573246/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNzd5aXlRRRAB",
+        "caption": "Good food, friendly service, and a deal to boot. Great if you have a wait between LIRR connections at Jamaica: just one block up Sutphin and cross the street.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Az Dad",
+        "n_review_user": 34,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112471272143678826155/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNNlp1UW9nRRAB",
+        "caption": "Best Halal Food I\u2019ve tried",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jose Hernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114263015440303600347/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMjd1VFBnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Husni Zannat",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117296398828412624860/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnLUtiN0xBEAE",
+        "caption": "Masha allah best chicken over rice!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Abdullah Shaker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103528702864196274314/reviews?hl=en-US",
+        "census_block_group": 360810212001
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LWQtZEpREAE",
+        "caption": "Edible but it doesn\u2019t taste like pizza at all. The plain slice taste like bland cheese... couldn\u2019t even finish it. The pepperoni slice was super salty but better than the plain.  Would not get again.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Kelli C",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103566347483268462153/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cnJHTXZBRRAB",
+        "caption": "Immaculate pizza, would go again",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "nuthug4927",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117001153147961413698/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpa3RySTVBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Nestor H",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104238774834734912307/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaW9ldnJBRRAB",
+        "caption": "Amazing Pizza! Priced slightly higher than at other places but worth it!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Erdem Kent",
+        "n_review_user": 64,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112563047894442662026/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

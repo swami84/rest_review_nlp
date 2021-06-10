@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvdjhXdE53EAE",
+        "caption": "Looking forward to a return visit. Prices that won't break you.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Alexandria Johnson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101412545630053593641/reviews?hl=en-US",
+        "census_block_group": 481130031011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvNEt2SGNREAE",
+        "caption": "its bad i found a huge toenail in my food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Mark Tellez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114453061402107611149/reviews?hl=en-US",
+        "census_block_group": 481130031011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJZ2Z2VmRnEAE",
+        "caption": "Terrific! Will definitely be actually coming back again. The area is great for me.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Tim Allendale",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111185068484061534994/reviews?hl=en-US",
+        "census_block_group": 481130031011
+    }
+]

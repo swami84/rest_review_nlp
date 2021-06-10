@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzZ0lXV1VREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ivon Telles",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109051091596767932072/reviews?hl=en-US",
+        "census_block_group": 360610213031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdTYyYmVnEAE",
+        "caption": "Great food and excellent customer service!!!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Judith Cabral",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105017771616775964300/reviews?hl=en-US",
+        "census_block_group": 360610213031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwNGRPWEdnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Yerlisa Guzman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108597979907507060208/reviews?hl=en-US",
+        "census_block_group": 360610213031
+    }
+]

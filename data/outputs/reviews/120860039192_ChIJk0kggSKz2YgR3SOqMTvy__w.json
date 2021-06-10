@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOU9iVk1BEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Eric Engel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116223924273053560926/reviews?hl=en-US",
+        "census_block_group": 120860039192
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNcTRhZnNnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "FL3X",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108226279994444137170/reviews?hl=en-US",
+        "census_block_group": 120860039192
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBZ3YtcVRBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Lucas Sabena",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103478500095808239376/reviews?hl=en-US",
+        "census_block_group": 120860039192
+    }
+]

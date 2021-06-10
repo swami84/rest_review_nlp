@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NmVxSmZREAE",
+        "caption": "The wings are huge and delicious!!!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Cathy Kelcher",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100746095088919897088/reviews?hl=en-US",
+        "census_block_group": 484391136291
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NmZEUFpREAE",
+        "caption": "BEST WINGS I'VE EVER HAD. HANDS DOWN!!!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Marc Sims",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110107523415574641497/reviews?hl=en-US",
+        "census_block_group": 484391136291
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cVl1d0x3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Erik Sjolander",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112340288917757283555/reviews?hl=en-US",
+        "census_block_group": 484391136291
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cWVPWHl3RRAB",
+        "caption": "Wow, smoked and seasoned perfectly... I didn\u2019t realize just how big they are, 3 was more than enough for a meal!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "mark kelcher",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101833356587545356783/reviews?hl=en-US",
+        "census_block_group": 484391136291
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cWNPbEd3EAE",
+        "caption": "very big delicious wings",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Olga Eriksson",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117797506104844032721/reviews?hl=en-US",
+        "census_block_group": 484391136291
+    }
+]

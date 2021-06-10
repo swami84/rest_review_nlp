@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpZ3Z5TEJ3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Chelsea Anstine",
+        "n_review_user": 25,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116919716627330908542/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeE42dENBEAE",
+        "caption": "Grabbed lunch here yesterday and had a wonderful experience! The employees were kind and fun to chat with, and the food was great. I was a little too hungry to snap a photo of my pasta, but I went with alfredo with mushrooms and spinach as my choice of vegetables. Totally delicious <3",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Afi Belgrave",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114684445667907983373/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDM2JlRUF3EAE",
+        "caption": "Fresh made pasta that's absolutely phenomenal. Better than other pasta competitors in the area. Will definitely be returning.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Jordan Gay",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103058020214483196261/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOHE3Q0NREAE",
+        "caption": "My son and I got lunch here today (The one in West York) and we were very pleased.  The pasta is fresh and you can tell the difference.  I got their pesto pasta with veggies and it was very good.  My son got their alfredo and being an \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Teri Marlowe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108711640968526295325/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    }
+]

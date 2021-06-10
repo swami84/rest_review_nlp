@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MFlYMk5BEAE",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Ivan Castro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107795895525820252587/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbjkzbU9REAE",
+        "caption": "Unfortunately, looks like this great little place I loved didn't survive the COVID crisis and went under. Bummer",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Micah Anthony",
+        "n_review_user": 31,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105231792816687889955/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwOVlXSV93RRAB",
+        "caption": "Looking for fresh quick food options? GO HERE. This place opened a few months ago and I had no clue. I saw the Boars Head umbrella outside and figured to stop in. They have a huge selection for lunch, salads, sandwiches, chips, fruit and \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Liz Lang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110137399171933201618/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aTh6S01BEAE",
+        "caption": "INSIDE MANHATTAN VALLEY, another Indian restuarant. Same owners, I think. Beautiful decor, yummy food, reasonable prices. Staff had masks and were very conscientious about Covid. Lots of regular and gluten-free options (not marked on menu, so ask). I just wish they had a brown rice option. Otherwise, everything was phenomenal.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Lisa Snow",
+        "n_review_user": 86,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103196636552534415341/reviews?hl=en-US",
+        "census_block_group": 360610187006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTb3Zia1JnEAE",
+        "caption": "Phenomenal, you'd never know it was vegan. Everything we get is always great.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Bradley Coleman August",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113717867384864434886/reviews?hl=en-US",
+        "census_block_group": 360610187006
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdkxtQ2ZBEAE",
+        "caption": "Incredible food. This would be delicious Indian food by any measure, but the fact that it's vegan is mind blowing. I have no idea how they made these dishes so creamy and buttery without cream and butter, but I'm just happy to have found it. Will definitely be ordering take out from here for a long time to come.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Hannah August",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103755341584673058899/reviews?hl=en-US",
+        "census_block_group": 360610187006
+    }
+]

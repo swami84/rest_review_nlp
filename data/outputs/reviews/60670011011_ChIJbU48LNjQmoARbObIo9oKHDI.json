@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMnNPNklBEAE",
+        "caption": "Great food. I wish they were open more hours",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Liesl English",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103599482324501033091/reviews?hl=en-US",
+        "census_block_group": 60670011011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBbUxpM0lREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Isabel Maldonado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104186663565380745099/reviews?hl=en-US",
+        "census_block_group": 60670011011
+    }
+]

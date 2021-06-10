@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cE5EenR3RRAB",
+        "caption": "Arguably the best part of my current work from home situation is that Miguelito\u2019s burritos are a block away! Tortilla chips are awesome, burritos are massive and delicious, and the guac is excellent.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Dylan Kiselbach",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107136824978011420032/reviews?hl=en-US",
+        "census_block_group": 60750109001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTeXVpbGhBRRAB",
+        "caption": "Tried the Veggie burrito without avocado and light rice, and enjoyed it. The sauces are a must try as well.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Shivani Kaw",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117504950556829177207/reviews?hl=en-US",
+        "census_block_group": 60750109001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOFkzdkxREAE",
+        "caption": "We go there 2 to 3 times a week after our walks. Good prices for the quality and shrimp street tacos are super good. It's all really good and the portions are good sized. They also offer beer and wine if you like. Also quick service.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Andrew Contreras",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107563741171380001558/reviews?hl=en-US",
+        "census_block_group": 60750109001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMHV1MmdBRRAB",
+        "caption": "Good food. Quick service, in a really convenient location to take out. While the restaurant doesn't have indoor seating it's a great place for takeout that's quick and yummy!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Kelly Joslin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116350359060431303174/reviews?hl=en-US",
+        "census_block_group": 60750109001
+    }
+]

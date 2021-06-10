@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZdUxHbGhnRRAB",
+        "caption": "Various options for dumplings, noodles etc. Got some vegetarian dumplings which were quite tasty.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Gregor J. Rothfuss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104819208193648646391/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3b09uamFREAE",
+        "caption": "Boon",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Evelyn Holmstedt",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111618002408748434478/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

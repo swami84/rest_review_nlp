@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLaGUzNTFRRRAB",
+        "caption": "",
+        "relative_date": "3 hours ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ellie Smith",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106286006485043566176/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLaFpYYTR3RRAB",
+        "caption": "",
+        "relative_date": "4 hours ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sofia Robinson",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103043229120346522695/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLaFlYR2l3RRAB",
+        "caption": "",
+        "relative_date": "4 hours ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Anna Charles",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100754534357291933902/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLaFlqaWxBRRAB",
+        "caption": "",
+        "relative_date": "9 hours ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Jason Ngo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105078235215659613215/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLVlPYjVRRRAB",
+        "caption": "The best part of this restaurant is their BBQ. You won't find any other authentic Chinese BBQ in Houston and this place did a really great job with their BBQ. Very authentic food and atmosphere. Drinks are amazing yoo",
+        "relative_date": "12 hours ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Yide Cai",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111327781589167919455/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeWNtRmVREAE",
+        "caption": "Lamb skewers were fantastic. Everything we had was fantastic! Highly recommended. Seems like it was a pretty new place.",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "David Schaverien",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116980825985973899256/reviews?hl=en-US",
+        "census_block_group": 482014331001
+    }
+]

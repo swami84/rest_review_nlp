@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d0t6U2lRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Mina Ghaly",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106289358044463570242/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4LXNXUl9BRRAB",
+        "caption": "Nice place",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Oscar Rodriguez",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105267150270047333928/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjc1AtWklBEAE",
+        "caption": "Great happy hour specials. Best Indian and Mexican food in the town. Issa lit \ud83d\udd25",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "amandeep mundi",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105128037074919484306/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjc0puZS1RRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Karnail Singh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107067873503773573400/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzai1YV3FnRRAB",
+        "caption": "Congrats pretty mom \u2764\ufe0f we had a good time \ud83d\udc4d delicious food \ud83e\udd58 \ud83e\udd42\ud83d\udcaf friendly stuff \ud83d\udc4d excellent restaurant i recommended for everyone \ud83d\udc4d",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Martha Ebrahem",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100724048226102470443/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbDl5NHNRRRAB",
+        "caption": "Very slow service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "Grisell Guzman",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117878876134905740915/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNX183OS13RRAB",
+        "caption": "This is a new restaurant/bar & grill, just opened a month ago. It was 10:15pm and the blue lights around the the building caught my eye. I had been on the road all day and just wanted a drink and this was the place i chose. Very friendly \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Tamara Ward",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103923867073004797448/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNOU5lQTJRRRAB",
+        "caption": "Delicious Food, Friendly Staff, Great Music and Good Prices .",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Michael Tawadrous",
+        "n_review_user": 35,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105179210768755797282/reviews?hl=en-US",
+        "census_block_group": 481210217391
+    }
+]

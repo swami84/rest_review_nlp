@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNzhiS0JnEAE",
+        "caption": "The service is terrible. There is only one guy taking orders and cooking, it takes forever for the food to come out. The food is OK but not worth all that wait.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Linda Salavarria",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102215330482065676265/reviews?hl=en-US",
+        "census_block_group": 120860067091
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwaGVUTG9BRRAB",
+        "caption": "Too slow.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 2.0,
+        "username": "Cecile Blanco",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101059775491557307417/reviews?hl=en-US",
+        "census_block_group": 120860067091
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwa3JxT0FnEAE",
+        "caption": "Best spicy tuna bowl ever! Always fresh and tasty. Good portion size and even comes with a fried egg. I love it im hooked have to come here at least once a week to get my fix.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Pablo Martinez",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118101922069754218393/reviews?hl=en-US",
+        "census_block_group": 120860067091
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnLS1pTUlBEAE",
+        "caption": "Great place! Very tasty! Michener Star dish!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "AL VO",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110611283821099068541/reviews?hl=en-US",
+        "census_block_group": 120860067091
+    }
+]

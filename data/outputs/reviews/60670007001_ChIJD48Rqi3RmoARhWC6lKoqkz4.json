@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcWJXWkNREAE",
+        "caption": "The place is amazing The service is fantastic and great atmosphere.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Oscar Abdulov",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118313690810923793741/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNbjdxY0NnEAE",
+        "caption": "Good food for first time here!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Steven James",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106746522013848673228/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZXzhXQTBnRRAB",
+        "caption": "Great charcuterie board and the pickled vegetables are great.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Cory Robertson",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102961976852000420640/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvcDhUdFZREAE",
+        "caption": "Great environment to socialize.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "T.J. Andrews",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106037531845374968282/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBckpUM0FREAE",
+        "caption": "I was very disappointed when I recently purchased a turkey club sandwich(one thin slice of turkey, onions, sprouts, 1/2 piece of bacon) for $13.00 at the  Butcher Block in the Golden One Center on March 5, 2017.  I had tried it at the Fan \u2026",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Kristine Olson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113984454997309928237/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    }
+]

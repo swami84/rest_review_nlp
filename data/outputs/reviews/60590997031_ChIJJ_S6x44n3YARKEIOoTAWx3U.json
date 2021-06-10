@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bjZxWUZnEAE",
+        "caption": "One of my favorite places to eat. fantastic location, always clean, and good service. Very good job!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Blake Valentine",
+        "n_review_user": 88,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105913986434234105027/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OHVIVDlBRRAB",
+        "caption": "Very clean and convenient place. They serve big portions and for reasonable prices. We loved the food very much and the staff were very attentive and informative. Recommended.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "M Newton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109838694877169878541/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    }
+]

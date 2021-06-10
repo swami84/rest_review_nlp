@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNTlqOW93RRAB",
+        "caption": "Delicious fresh buns",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Stanley Weinberg",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112267666651010968425/reviews?hl=en-US",
+        "census_block_group": 360810855001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzemVpOUh3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Stanley Weinberg",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103552598567478881521/reviews?hl=en-US",
+        "census_block_group": 360810855001
+    }
+]

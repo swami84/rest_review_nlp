@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzcE5pUV9RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 2.0,
+        "username": "Nathan Allen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105227748372378788872/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNazVLcmFREAE",
+        "caption": "Great drinks",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Ashley Stearns",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117688402320024749080/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrN2R1UkdREAE",
+        "caption": "Great place, very fancy but not over priced. drinks are very good Marco is a great ambassador",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Patricio Gordillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100507111333331712858/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnMGNiWlNBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Michelle Trella",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102347336180468561072/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnOXZDM3lnRRAB",
+        "caption": "(Translated by Google) Excellent  (Original) Excelente",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Jes\u00fas Soto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107961133377749454206/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3OTQyRDBBRRAB",
+        "caption": "Good gin drinks obviously... last call at 10:42...",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 2.0,
+        "username": "Scott Ramsey",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113277527263195299584/reviews?hl=en-US",
+        "census_block_group": 120860041032
+    }
+]

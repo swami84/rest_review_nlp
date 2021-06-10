@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5dEtqWG1BRRAB",
+        "caption": "Rustic Spoon is a cute little trendy thai restaurant on the outskirts of Universal Studios. You should know that parking is strictly limited to street parking and an extremely tiny parking lot in the back.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Mona Powell",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111844949020885005379/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpb0pyMktREAE",
+        "caption": "We are their regular customers. All the time visiting this place because they serve very delicious thai foods. All of the food fresh and well seasoned. Only the problem is parking. Their parking all the time full and we are looking 15-20 min to find a parking. But the food and service are great!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Edward S Giglio",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102349784286722207380/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDajRuS2dBRRAB",
+        "caption": "I order the same dish every single time bc they make it perfect every single time. They are masters at making a killer chicken pad kee mo! Love this place and super cute ambiance!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Alisha Steffanie",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111509057782856434051/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4OTVLR05nEAE",
+        "caption": "Love this place tai pad is great",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Dana Fears",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106083533456369082806/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjcVBQZXFRRRAB",
+        "caption": "I had the pad thai noodles and a green papaya salad. They were both excellent and thanks to the generous portions I was able to enjoy some leftovers the next day!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Darrin Moret",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117572707045584191493/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjdjZ1UjBnRRAB",
+        "caption": "Awesome food, at an awesome price, portions were more than enough. Fresh and delicious, reminiscent of our trip to Thailand, so happy we found this place.",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Dennis Skinner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117029011699802132123/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

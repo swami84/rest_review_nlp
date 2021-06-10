@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4OFozVDdBRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Thanh Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111295482860562927625/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNjdHT1ZBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Manuel Esquivel",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107201290677085733404/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzN2NDbmhBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Isabelle Ick",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107165535682856024678/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbGFLUDdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Malvin Mathanda",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105904011283333349026/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbGRDY3p3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Salvador Bou",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100695814185498539690/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNza05xYlNREAE",
+        "caption": "They have amazing tacos, mulitas, and burritos. I usually get the carne asada burrito. It\u2019s delicious! The price is really good for the amount of food you get. I highly recommend them.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Katherine Herrera",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114066484649354885551/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNel95THVBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Antoniie Jimenez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108228776059290255200/reviews?hl=en-US",
+        "census_block_group": 60372713001
+    }
+]

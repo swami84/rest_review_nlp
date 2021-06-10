@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURFMjZQRWVnEAE",
+        "caption": "Yoga on the deck",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jessica Hurtt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118194328898763765466/reviews?hl=en-US",
+        "census_block_group": 60730054004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3X0p6MTJBRRAB",
+        "caption": "Average place to crash for a drink and food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "True Knight",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106734063985529595599/reviews?hl=en-US",
+        "census_block_group": 60730054004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3cDZqTDNBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Lenrock",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109197919925300234389/reviews?hl=en-US",
+        "census_block_group": 60730054004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBeTd5X1hBEAE",
+        "caption": "great service and delicious bites",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Ark M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111420492269482277590/reviews?hl=en-US",
+        "census_block_group": 60730054004
+    }
+]

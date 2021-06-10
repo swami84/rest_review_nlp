@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNeXR1ckdnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Kevin Ives",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109807413456206729540/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVXy1YQVNBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Savitri Sharma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117279653753839277357/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvOHJpdktREAE",
+        "caption": "(Translated by Google) Eco efficiency  (Original) Eco eficiencia",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Sheyla cust",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117659078911948252502/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJbjhhUld3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Sabib Hussain",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113084477287420497087/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJc195elJBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Edwin Montalvo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114479014747116982309/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJam9QMV9RRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Tom Lally",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118183513762244167117/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    }
+]

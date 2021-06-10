@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLaHNpWjV3RRAB",
+        "caption": "(Translated by Google) Convenient and friendly  (Original) \u65b9\u4fbf\uff0c\u89aa\u5207",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Chang S Wang",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106080049043252908755/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcC1HS09BEAE",
+        "caption": "My mom's friend works here, the food is one of the best foods that I ate in my entire life.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "JAMES CHOY",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117334880772337709653/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMlBiUF9nRRAB",
+        "caption": "First time trying this place, ordered through grubhub.  The food was so tasty. The combos that I tried was amazing the seafood you can tell was very fresh and the seasoning was on point not too salty just perfection. And portions was just enough. I definitely recommend!! Will be ordering again.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "fanny h",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102405576942549701512/reviews?hl=en-US",
+        "census_block_group": 360810869001
+    }
+]

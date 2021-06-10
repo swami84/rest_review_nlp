@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZd2FXZGhnRRAB",
+        "caption": "ok",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Cornelius Harris",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112402124603838239361/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvNWNtUnRRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Jimbo Clembo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105398636925097931366/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJcHBXVlVBEAE",
+        "caption": "Chicken quesadilla and sliders are awesome. Best appetizers ever! I've also tried the garden flatbread and I would 10/10 recommend to vegetarians.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Andie Igl",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114837259960249398921/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNROGRiZmFnEAE",
+        "caption": "This steak was so bad for $27! I got a $3 cut of meat and no seasoning whatsoever. This restaurant just made$24 profit off what is without a doubt the worst steak I've ever had. And of all places Texas! Do not eat here save your money go to \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Kirk Baerresen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103380028701256001510/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbS1TcGlBRRAB",
+        "caption": "Tea tastes like it\u2019s made from toilet water.. literally! Waited over 30 minutes for food",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "M Steen",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103049190312085671388/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbzZ1NGlBRRAB",
+        "caption": "Better than the mexican food",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Matthew Myers",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112649336405409159442/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnc29MVDB3RRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kayla Schermer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117031617182209786216/reviews?hl=en-US",
+        "census_block_group": 482014401004
+    }
+]

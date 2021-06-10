@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzX01UeURnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jaime Moran cortez",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111224801799857786220/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzLTlMV2p3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Ileana Bernabe",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104039027370951787693/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNeE1xYmt3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Miguel A Molina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105929763498485761989/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdXZUWjlBRRAB",
+        "caption": "Food is delicious thumbs up and great customer service . I totally recommend this place .",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Serli Adan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102501998932182349953/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwdEo3cWNnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jeffrey Massey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118211701082828624103/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNl95d2l3RRAB",
+        "caption": "Good salvadorian food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jose Munguia",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110862578838812962306/reviews?hl=en-US",
+        "census_block_group": 60372411202
+    }
+]

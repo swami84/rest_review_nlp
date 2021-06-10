@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTZ082NW1nRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "lena",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111408086277320243694/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDazhlZzl3RRAB",
+        "caption": "I had my food delivered through Uber Eats. It was an unpleasant experience and not due to the Uber driver but the restaurant themselves.  The food was missing the fries and the soda that I paid an extra $6.00 for!! The food was not good \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "LadyT No nonsense",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111213951171300394808/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

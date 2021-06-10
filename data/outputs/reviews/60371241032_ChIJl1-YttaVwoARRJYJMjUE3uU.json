@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDamVtNTlBRRAB",
+        "caption": "This place never disappoints. They have awesome dishes for affordable rates, there is no waiting time even when they are loaded.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Chance C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101716670503161864479/reviews?hl=en-US",
+        "census_block_group": 60371241032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDN3UzMzZRRRAB",
+        "caption": "very filling. the place has an awesome atmosphere. menu is similar to a restaurant in el paso i liked.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Brody Mcmillan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112135685163832107347/reviews?hl=en-US",
+        "census_block_group": 60371241032
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjNnFEaWF3EAE",
+        "caption": "I frequent this outstanding place many times because I love the good air that is characterizes this restaurant. The crew is extremely welcoming and skilfull. The service is extremely rapid. Also, the food they serve is highly distinguished. \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Johnny Wolff",
+        "n_review_user": 34,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104135854908498761034/reviews?hl=en-US",
+        "census_block_group": 60371241032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3LXJXQm93RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Arshak K",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100571272023991980178/reviews?hl=en-US",
+        "census_block_group": 60371241032
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpN2RiNlVBEAE",
+        "caption": "(Translated by Google) The eggs are not put. The beef is not cooked yet.  (Original) \u9e21\u86cb\u6ca1\u653e\u3002\u725b\u8089\u8fd8\u4e0d\u719f\u3002",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "LoVe YaYaYa",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115430620355866253635/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZeVBMVkNnEAE",
+        "caption": "I would not recommend it",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "VASILY KROPYVNYTSKYI",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108067762995629019897/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZcktEc2pRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "yinji pan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104956403250431314006/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    }
+]

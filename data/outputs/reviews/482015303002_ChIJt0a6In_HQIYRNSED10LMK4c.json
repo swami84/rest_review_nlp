@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwOHVxVVF3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "CLIBELAN GARCIA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112596551154259788594/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFa1lDTlhREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "timmaq",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105963841861847825390/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvZ2Fhcnp3RRAB",
+        "caption": "Food is good.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Darrell Osborne",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117075601166033229619/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJajRyN2RnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "marco gonzalez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113268315265449654565/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NGJxX2pnRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Je VaSunny",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116312463075334513114/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndnRiVW5BRRAB",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Randall Hinojosa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117410741940245913717/reviews?hl=en-US",
+        "census_block_group": 482015303002
+    }
+]

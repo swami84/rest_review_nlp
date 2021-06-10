@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMUtXeVdnEAE",
+        "caption": "I really like their food. I always get good customer service there. The place is neat and the cashiers are always kind. I highly recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "T Stark",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113401012648463806859/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnN3FmMUJREAE",
+        "caption": "Delicious",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Kid Menace",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107807138186499763727/reviews?hl=en-US",
+        "census_block_group": 120860062052
+    }
+]

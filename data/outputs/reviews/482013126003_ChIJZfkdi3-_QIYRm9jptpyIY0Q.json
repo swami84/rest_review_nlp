@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5bHNUbkxBEAE",
+        "caption": "Truck not at address on google. NA @ phone number. 10pm on a Thursday",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 1.0,
+        "username": "D Barber",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106372891130017150273/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbDVYX0dREAE",
+        "caption": "Been here twice and now it\u2019s one of my favorite places, my favorite one, the cachapa, has a sweet taste that combined perfectly with the cheese \ud83e\udd29. I also tried the chicken patacon, and the arepas, awesome taste, I highly recommend this place",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "omaira bolivar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112498290859653535323/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbDVYZUh3EAE",
+        "caption": "(Translated by Google) Very good food excellent portions good taste highly recommended one hundred percent thanks to my friend Jean Pierre excellent service.  (Original) Muy buena comida excelentes porciones buen sabor recomendadisimo cien por ciento gracias a mi pana Jean Pierre excelente servicio .",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Alensahi S\u00e1nchez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106640958044805924836/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNl9uaXpRRRAB",
+        "caption": "Just delicious! It\u2019s been the best chicken taco salad i\u2019ve ever tried. Best Mexican food! I\u2019II Definitely order again.",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Paul Gonzalez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110978777327555479093/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjcTdlZTNnRRAB",
+        "caption": "(Translated by Google) This place really is incredible, my family and I were delighted with the food and the attention we received. We will definitely return.  (Original) Realmente este lugar es incre\u00edble, mi familia y yo quedamos encantados con la comida y la atenci\u00f3n que recibimos. Sin duda alguna volveremos.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Julia Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105833154334585064156/reviews?hl=en-US",
+        "census_block_group": 482013126003
+    }
+]

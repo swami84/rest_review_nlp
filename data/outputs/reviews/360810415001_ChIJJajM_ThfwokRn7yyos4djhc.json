@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOThhcUx3EAE",
+        "caption": "(Translated by Google) Super good food \ud83e\udd58 Dominican seasoning  (Original) S\u00faper buena la comida \ud83e\udd58 saz\u00f3n Dominicano",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Mayra Dmgz",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100876001500343488974/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZamRLaUtREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "DIAMOND",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113625806530254005893/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJM1pQSkd3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Alejo More",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113260839628974068583/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3c1piWTB3RRAB",
+        "caption": "Best dominican food in Corona, maybe Queens. Serving size is huge and price is right. The staff speaks mostly Spanish and they make you feel like you are in your home kitchen.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "George Espino",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104784370573377891933/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnb2FUOTdnRRAB",
+        "caption": "Chicken and Beans over rice$6",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Ling Yip",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102383169489759952685/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    }
+]

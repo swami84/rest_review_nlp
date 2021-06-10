@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnblpfYktnEAE",
+        "caption": "(Translated by Google) the site is very good, the view of the bay of manhattan is very beautiful, the music is fun and the coffee is good.  (Original) el sitio es muy bueno, la vista de la bahia de manhattan es muy linda, la musica es divertida y el cafe es bueno.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Alejandro Rivas Benjumea",
+        "n_review_user": 30,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107556740248983890787/reviews?hl=en-US",
+        "census_block_group": 360610015021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbl91ZW1nRRAB",
+        "caption": "I wouldn't come here for the food.  It's not bad but obviously overpriced per the location. The steak sandwich was decent I suppose. The fries were good. They had a decent happy from 4 to 8pm of 5 dollar margaritas. That was a plus.  The pasta (lobster ravioli or something like that) a friend ordered was actually really good.",
+        "relative_date": "8 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Kevin Wu",
+        "n_review_user": 163,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112478077321292017341/reviews?hl=en-US",
+        "census_block_group": 360610015021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURneWJxeWhBRRAB",
+        "caption": "I'm only here for drinks and a free band that's playing on the pier. Would recommend to stay away otherwise.",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Matt Stone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102346400614635340030/reviews?hl=en-US",
+        "census_block_group": 360610015021
+    }
+]

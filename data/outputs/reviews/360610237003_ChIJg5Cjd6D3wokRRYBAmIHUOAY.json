@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjMkszYTBBRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "ogoin.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100753859988318753048/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjMkszc2R3EAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jo\u00e3o Vitor Souza",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105636566706693332060/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjMkszRTNRRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jo\u00e3o Vitor Danbtec8",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100778900899191480608/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNMDUtVzNBRRAB",
+        "caption": "My experience was me ordering at midnight and waiting until 1:10am; since nothing happened I decided to call. First time, hung up on me while I talked. Second time engaged in an argument since the person who answered the phone did not believe I have not received my order. Said many times I should check with everyone in the house because someone received it: there was nobody other than me awake. He kept insisting it was delivered and that\u2019s it. He didn\u2019t offer any solution, didn\u2019t offer a refund. Was just being rude. Grubhub refunded me.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Camila Rufino",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109130561252348323244/reviews?hl=en-US",
+        "census_block_group": 360610237003
+    }
+]

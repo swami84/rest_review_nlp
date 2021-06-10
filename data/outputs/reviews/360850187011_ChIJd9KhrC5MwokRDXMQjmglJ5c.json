@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMWYzNVNBEAE",
+        "caption": "I constantly stop by buying some food here. I enjoyed the efficient customer service and well cooked food. Never disappointing.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Cary Anderson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110468718259708953337/reviews?hl=en-US",
+        "census_block_group": 360850187011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnbnNiTXRRRRAB",
+        "caption": "Ok this place was Good,  the thai dishes are enjoyable and fresh. Soups here are excellent and for the decent price you can't go wrong If you like spicy tasty food it is a good restaurant. They have basil fried rice and curry.  It was pretty good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Halfbakedd69",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108667242455693986822/reviews?hl=en-US",
+        "census_block_group": 360850187011
+    }
+]

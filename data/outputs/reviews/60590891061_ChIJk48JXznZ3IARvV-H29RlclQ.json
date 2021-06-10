@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MWJtNnlBRRAB",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Briana Belle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104315892186476058336/reviews?hl=en-US",
+        "census_block_group": 60590891061
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NXJYOGpRRRAB",
+        "caption": "Yummy",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jenny",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116926710772391645207/reviews?hl=en-US",
+        "census_block_group": 60590891061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMUpTUVJREAE",
+        "caption": "First time eating here and i enjoyed my visit. The food was delicious and the service was kind. I'm glad I'm nearby!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "al mont",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101068342494606150726/reviews?hl=en-US",
+        "census_block_group": 60590891061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDbS0tUlpnEAE",
+        "caption": "Good restaurant to eat",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Linh Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105778346469129442424/reviews?hl=en-US",
+        "census_block_group": 60590891061
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcy16VlBBEAE",
+        "caption": "(Translated by Google) Bun rieu here is very delicious. Tasty right.  (Original) B\u00fan ri\u00eau \u1edf \u0111\u00e2y ngon l\u1eafm lu\u00f4n. Ngon \u0111\u00fang \u0111i\u1ec7u.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Uy\u00ean L\u00ea",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111152581875335092455/reviews?hl=en-US",
+        "census_block_group": 60590891061
+    }
+]

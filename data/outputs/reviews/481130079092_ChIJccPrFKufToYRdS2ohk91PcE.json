@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eGZHQ0FnEAE",
+        "caption": "No southwestern location.... where did it go?",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Lia Karagianopoulos",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109871772382379901373/reviews?hl=en-US",
+        "census_block_group": 481130079092
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSUNjNDdCXxAB",
+        "caption": "Delicious tacos, convenient, and fast!!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Felix Tamez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107143650117004329536/reviews?hl=en-US",
+        "census_block_group": 481130079092
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjM2ZfX2tBRRAB",
+        "caption": "For a small taco shop in a gas station, the tacos are delicious! There\u2019s no indoor seating, but you can order online and get $1 tacos. Perfect for takeout and delivery when you want solid street tacos. The Nopales (cactus) were my fave.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Joseph Brewster",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111007258912054073587/reviews?hl=en-US",
+        "census_block_group": 481130079092
+    }
+]

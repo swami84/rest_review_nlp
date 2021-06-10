@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ell6Ri1RRRAB",
+        "caption": "Absolutely recommend the BBQ Bacon sandwich, great flavor",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Camille Depierreux",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112773883588769635862/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTX2FMQkd3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Unique Purvis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103999247369248222307/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpXzlPRVNnEAE",
+        "caption": "even though the line is super long, it's worth the wait. i waited in the line just to see what all the buzz was about, and i was not disappointed. the chicken is juicy and well flavored. i'm not good with heat so i went with medium spice level and my mouth was burning but i kept eating more. staff is awesome, great place.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Faye Richards",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105871435918968157313/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcjdHdF9RRRAB",
+        "caption": "I would live inside a Hank's Chicken Sandwiches Sando if I could and bathe in the comeback sauce. The service, the staff, the food. It's all top shelf. Chef and the crew hold it down and always work to give you their best. There is no better chicken in LA.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Vera Stephens",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101355432582329604499/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDZ182UGpRRRAB",
+        "caption": "These guys make a fantastic chicken sandwich.  I ordered off Postmates and was very impressed.  The sandwich was large and flavorful.  It came with a healthy portion of waffle fries and the presentation was top notch.  If you see them on Postmates, it's worth the order.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Kenneth Bubar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100860599676484506031/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeU5MTDlRRRAB",
+        "caption": "(Translated by Google) When does business start  (Original) \u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\u8425\u4e1a",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Jiu Liu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108012285687959455279/reviews?hl=en-US",
+        "census_block_group": 360811123002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOGV2QVdnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Binhua Shi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112940624324100487806/reviews?hl=en-US",
+        "census_block_group": 360811123002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOGNuOGRREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Joe Li",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117476724003716077272/reviews?hl=en-US",
+        "census_block_group": 360811123002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzam9XTXlBRRAB",
+        "caption": "So many choices, taste good. I love it.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Scarlett Chan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111058324378222353596/reviews?hl=en-US",
+        "census_block_group": 360811123002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOXUtbjlRRRAB",
+        "caption": "Something unhygienic, diarrhea\uff0cFailed experience",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Kevin Qu",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114456149959574909509/reviews?hl=en-US",
+        "census_block_group": 360811123002
+    }
+]

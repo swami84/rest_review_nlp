@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJaC1uTDJBRRAB",
+        "caption": "Still great!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Broom Tonni",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105046927949570851767/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3X3V6ejZ3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Tim Connors",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105774668936717034040/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRd29yT193RRAB",
+        "caption": "What does the Westwood Village Association do to fight the increasing crime in Westwood? On Wednesday, a group of 6 black females and a black male terrorized the Denny's restaurant in the village, attacking people, throwing things and \u2026",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "A D",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109856625753546949056/reviews?hl=en-US",
+        "census_block_group": 60372655101
+    }
+]

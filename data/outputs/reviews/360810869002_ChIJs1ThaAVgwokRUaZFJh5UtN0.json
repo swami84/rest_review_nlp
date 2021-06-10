@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5LUlxTE9REAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jin Bai",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113228073134625094520/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaHZYUXJ3RRAB",
+        "caption": "(Translated by Google) The best lamb soup and lamb skewers. none of them.  (Original) \u6700\u597d\u5403\u7684\u7f8a\u6c64\u8ddf\u7f8a\u4e32\u3002\u6ca1\u6709\u4e4b\u4e00\u3002",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Angel Angel",
+        "n_review_user": 19,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115591506538021046108/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaXVQLWN3EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Chen Lyu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111301203056951312551/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrelltLW9nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u51cc\u6e05",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100208131794951359807/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZeTltY2tnRRAB",
+        "caption": "(Translated by Google) Grilled fish is delicious  (Original) \u70e4\u9c7c\u597d\u5403",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Songyi Zheng",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105538186046787375835/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvaDV2Y2p3RRAB",
+        "caption": "(Translated by Google) The kebabs are really good. The charcoal fire is not very good. The skewers are always baked.  (Original) \u7f8a\u8089\u4e32\u771f\u5fc3\u4e0d\u9519 \u5c31\u662f\u70ad\u706b\u6392\u70df\u4e0d\u592a\u597d \u4e32\u603b\u662f\u70e4\u7684\u7cca\u7cca\u7684",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u5b8bVivian",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107731527259467640211/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcEppeGpRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "han xuehua",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102292170658429937261/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    }
+]

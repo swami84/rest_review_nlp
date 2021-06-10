@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVX2RQZkJnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "monica figueroa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106911154922314362036/reviews?hl=en-US",
+        "census_block_group": 40131068011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRanFMeHNnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 2.0,
+        "username": "tomas moreno",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110365075974781033372/reviews?hl=en-US",
+        "census_block_group": 40131068011
+    }
+]

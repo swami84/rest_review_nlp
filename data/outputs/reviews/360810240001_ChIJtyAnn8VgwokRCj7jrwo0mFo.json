@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcGE2Vi1BRRAB",
+        "caption": "Good food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Francis Reborn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103370721062387113368/reviews?hl=en-US",
+        "census_block_group": 360810240001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvdU5ybzRnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Anthony Wright",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100949694686966520719/reviews?hl=en-US",
+        "census_block_group": 360810240001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR3Mkt6RVdBEAE",
+        "caption": "Good food at a Good Price..",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "annette williams",
+        "n_review_user": 140,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109205283840018891624/reviews?hl=en-US",
+        "census_block_group": 360810240001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBbVlhMjlRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Komaljeet Kaur",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100292508898342602574/reviews?hl=en-US",
+        "census_block_group": 360810240001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBMTlyN3J3RRAB",
+        "caption": "The best.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Miyagi Lee",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105249805837014799692/reviews?hl=en-US",
+        "census_block_group": 360810240001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvMHI2NmFBEAE",
+        "caption": "Good place to hang and eat some good food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Jonah Skinner",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117290360823208109809/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvNHAyWWJBEAE",
+        "caption": "The service was helpful and kind. This place has an awesome atmosphere. Feeling here is like a restaurant in Fort Worth I liked.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Joshua Hull",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108668550279804865206/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    }
+]

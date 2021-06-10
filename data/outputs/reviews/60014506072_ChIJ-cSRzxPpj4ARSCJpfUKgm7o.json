@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bHBLMUlnEAE",
+        "caption": "Excelente lugar, exquisita comida y muy buen servicio",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Martha Venegas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111889055637156260976/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdUxtdzlnRRAB",
+        "caption": "Excellent food and service .",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Dan Schuett",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102267379707535511635/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MmJpeHdRRRAB",
+        "caption": "Nice place, great food and excellent service!  If you're looking for that good old time charm try Downtown Cafe.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ramon Arellano II",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101893524629502681859/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cVBMai1BRRAB",
+        "caption": "Services were ok but the food was less than mediocre.   We missed the previous owner of the Bread Loaf.  Oh well.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Michael Finneran",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100254439574021501327/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5M3ZDV2pBRRAB",
+        "caption": "(Translated by Google) Delicious and fantastic service  (Original) Delicioso y servicio fant\u00e1stico",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Claudia Arreola",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116857755775841364279/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NE5mRzNRRRAB",
+        "caption": "Highly recommend the taco night on Friday and Saturday nights! Super tasty!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jordan Cetrone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111130468394486930043/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdHB1d1RBEAE",
+        "caption": "Slow service but some of food okay.  The first time I went to that place",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Dolores Ferguson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113835134274239039044/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDN3NMcmRnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Gabriela Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112589009546707860702/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDcF96ZlpnEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Isabel Guerra",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100535177902443072260/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeF9qby1nRRAB",
+        "caption": "A longtime favorite! Try their famous chicken salad, delicious omelettes, sandwiches, spiced tea and more!  Excellent service!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kelly Patterson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117002818161523443416/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    }
+]

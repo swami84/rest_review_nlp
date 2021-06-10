@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJOXZYdUh3EAE",
+        "caption": "Great food great place to work",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "vinnie ambrosino",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108636069060753057579/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnbXJXTVpREAE",
+        "caption": "If I could I would give this company no stars at all for how I've been treated, I would. Let's start from the beginning, I was so excited to take this job but I've only been met with disappointment. My orientation was last Saturday, th he \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 1.0,
+        "username": "Tiana Gumpert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104785107216353241487/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBaWRuZXB3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Ron Lombard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115322505170520334932/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    }
+]

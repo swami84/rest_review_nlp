@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbDlUVnRnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Igor Khavkin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117639942039789756345/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpLXB2Wmt3RRAB",
+        "caption": "Got 2 scoops of ice cream for $9! One scoop was a kids size. He didn't tell me that counts as a small so for the tiniest scoop I paid $3. And he made it really small, about 1.5\" in diameter small. I didn't say anything because I thought \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "cheryl pascual",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106789528972564541851/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4OC1qeWtRRRAB",
+        "caption": "I\u2019ve only had drinks, so I don\u2019t know how other snacks are, but if you want boba I would suggest going somewhere else. They add milk (for milk drinks) instead of the primary ingredient in order to fill up the cup, ie. my brother\u2019s milkshake \u2026",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "klowi kim",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112391754086513851693/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4eUltY3dnRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Lexi King",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100813840151591647663/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjdU9qMWt3RRAB",
+        "caption": "I normally don\u2019t like boba but this place is really good",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ashley Livingstone",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106967537039085534294/reviews?hl=en-US",
+        "census_block_group": 60014506072
+    }
+]

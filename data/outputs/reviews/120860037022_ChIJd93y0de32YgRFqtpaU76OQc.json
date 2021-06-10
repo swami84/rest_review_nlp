@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOU9yaFBBEAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Maria Mejia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108897360402619754592/reviews?hl=en-US",
+        "census_block_group": 120860037022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeU9mTVBREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "michael forero perez",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117021009871180478368/reviews?hl=en-US",
+        "census_block_group": 120860037022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeUxTeGxnRRAB",
+        "caption": "(Translated by Google) Delicious homemade arepas, alone or stuffed !!! Very good and fresh service. Corn ground at home and pre-cooked.  (Original) Riqu\u00edsimas arepas caseras, solas o rellenas!!! Muy buen servicio y frescas. Ma\u00edz molido en casa y pre-cocinadas.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Ana Marcela Alaniz",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100599829477827679253/reviews?hl=en-US",
+        "census_block_group": 120860037022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeU1UMzd3RRAB",
+        "caption": "(Translated by Google) Delicious and fresh arepas. I really recommend a lot of variety \ud83d\udc4c\ud83c\udffc  (Original) Deliciosas y frescas arepas. Mucha variedad de verdad las recomiendo \ud83d\udc4c\ud83c\udffc",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Julie Moreno",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112426542543135665681/reviews?hl=en-US",
+        "census_block_group": 120860037022
+    }
+]

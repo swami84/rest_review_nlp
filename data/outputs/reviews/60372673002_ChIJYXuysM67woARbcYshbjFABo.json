@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cWV2WVBBEAE",
+        "caption": "I admire this venue very much. It has a happy atmosphere. The cuisine is good. the service is effective and the waiters are trained. The pay is decent. truly recommend.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Jonathan Chan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113458513363755780174/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdzY3VlRREAE",
+        "caption": "I love this restaurant a lot. there is a different mood. The cuisine is very tasty. the service is effective and the stuff is well trained. The price is decent. truly recommend.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Adrian Reese",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102023138937890149542/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDc05yQlJnEAE",
+        "caption": "Awesome! Lunch special is a great deal. Two selections of Thai foods for $10.95 plus a side (salad or soup). Wonderful service",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Noah Colombus",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114594009044695682853/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4NnQzVlJnEAE",
+        "caption": "I meet friends in this restaurant from time to time! This is my favorite restaurant to eat.  I visit this spot at least once a month. The food is just great, the workers are courteous and the payment is fair. I like eating in this place over a decent meal.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Roman Blanchard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114620442890457869202/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcXVpM1F3EAE",
+        "caption": "It's like a picnic with service. Check out the bathroom. Food was wonderful.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Julia B",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117557067069186665524/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4a1AzUTlnRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Frehiwot Damtew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115645834146844229013/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjaDZxdmpRRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Diana Ossers",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110102804336284747359/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbnMtUjZRRRAB",
+        "caption": "I was ignored on Sunday Afternoon for Brunch @ the Bar receiving a Cold Eggs Benedict then a Replacement Order w / No Silverware when there was hot food.  It is the policy to offend and ignore people who arent Black & Brown...Everyone in Newark knows this.....",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Lee Jay Ellison",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100015902928311882627/reviews?hl=en-US",
+        "census_block_group": 360610200002
+    }
+]

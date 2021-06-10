@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cnZXN2R3EAE",
+        "caption": "Nice Pizza store",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Jasmine H",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104731006993930939215/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTdjVUQ3pBRRAB",
+        "caption": "Literally the best 99 cent pizza in NYC. Prove me wrong- I dare you.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Alexandra MacDonald",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113776496678552535463/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNOF9YVnd3RRAB",
+        "caption": "Best dollar slice in NYC. Hit this spot up every time I cross the bridge and it never fails to deliver. NYC 10 years, I've tried a ton. Crispy light crust. Owners are homies. Eat it!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Casual Blasphemy",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111413070132089468399/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    }
+]

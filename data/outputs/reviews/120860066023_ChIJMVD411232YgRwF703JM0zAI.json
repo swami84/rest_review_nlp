@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbnBfdldREAE",
+        "caption": "Amazing Pok\u00e9 !!!! Best Ive tasted  in Miami! Tuna chunks were big and the bowl and the toppings were scrumptious\ud83d\udc95\u2b50\ufe0f\u2b50\ufe0f",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Emma Romero",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100331854639154742083/reviews?hl=en-US",
+        "census_block_group": 120860066023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbnAtLURREAE",
+        "caption": "AMAZING SERVICE! Delicious food \ud83d\ude0d\ud83d\ude0d 100% Recommend.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Jossely Mejia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112979955993076543829/reviews?hl=en-US",
+        "census_block_group": 120860066023
+    }
+]

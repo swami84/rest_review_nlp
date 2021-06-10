@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDLUtlNWpBRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "F\u00e9 Boutique",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110051400959315911474/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrcjVIVVRBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Alberto Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118129589267402639763/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbV96SDd3RRAB",
+        "caption": "El Charro...one of our favorite places We go El Charros in Paradise Valley, on Lincoln, with members of our family. It is always a memorable occasion. Nesteled at the foot of a mountain, it is steeped, rich in tradition. Like an old Spanish \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "GODS KID",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116755090697270868739/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJOFlTajdRRRAB",
+        "caption": "I really enjoy going to coffee places and this is definitely must try. Very chill very relaxing the coffee was great.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "atilec aguirre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110016412147705780737/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJX3IteExnEAE",
+        "caption": "The food was wonderful, the service was the worst!! Our waiter was non-existent at best.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 1.0,
+        "username": "Kandace Price",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116679115150618619835/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnazRhc1BBEAE",
+        "caption": "(Translated by Google) Very good coffee  (Original) Muy buen caf\u00e9",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "CJPROSEICA, SRL",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100999485535798595479/reviews?hl=en-US",
+        "census_block_group": 40131141001
+    }
+]

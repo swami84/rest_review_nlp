@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aTlUSmFnEAE",
+        "caption": "The food is constantly well prepared and flavorful, cashiers hands over good service. I like how clean it is and vibes. Would recommend to others.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Zayden Mcneil",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118087629081911792382/reviews?hl=en-US",
+        "census_block_group": 360610287003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjcW8tVnR3RRAB",
+        "caption": "This place always delivers. They serve good food for reasonable pricing, there no long wait even when they are packed.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Kian Sweeney",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109536977396302597455/reviews?hl=en-US",
+        "census_block_group": 360610287003
+    }
+]

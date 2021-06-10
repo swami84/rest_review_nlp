@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aFo3RkFREAE",
+        "caption": "Nice people, generous portions, and very tasty. Had panuchos and empanadas and could definitely taste that everything is fresh and hand made.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Gil Shohet",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106743911306537261775/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5d3JhNFJnEAE",
+        "caption": "I really love this place. I usually get grilled pork panuchos but I have tried cheese empanadas, chicken empanadas and cochinita pibil. The salsa they give you is so delicious. I think they make their panucho shells by hand. Very heroes \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "isabelle C",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100462063022681430743/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTMDhhUm5nRRAB",
+        "caption": "best mexican food i ever did have",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Jordan Locke",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110684423195490208891/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTN3NPSXN3RRAB",
+        "caption": "delicious",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "chef victor aguilera",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112024503573093594410/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpaHR5WGhnRRAB",
+        "caption": "Really good food!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Brandon Ortiz Franco",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110551794206808375841/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    }
+]

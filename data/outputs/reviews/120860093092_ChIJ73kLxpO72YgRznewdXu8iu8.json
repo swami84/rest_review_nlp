@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aE5hWUVREAE",
+        "caption": "I go with my wife to this lovely place quite a bit! This is my favorite spot to to have a good dinner.  I visit this spot at least once a month. The food is fantastic, the staff members are professional and the cost is decent. I enjoy being in this place over a tasty meal.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "B Velasquez",
+        "n_review_user": 89,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103836079278226050961/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpdTdXYzFRRRAB",
+        "caption": "The New York style pizza was sooooo yummy ! Not only was the pizza delicious but the guava cheese fried Oreos were the best, there\u2019s no other like them. Will for sure be ordering delivery from here again!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "pewpew juju",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104024464261795952059/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpdTdyX2hRRRAB",
+        "caption": "Fry Haus is amazing!! Unique and creative concept with lots of fried goodness\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d I loved all the items that I have tried and will definitely be back",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Hannah sklar",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104317194871290595116/reviews?hl=en-US",
+        "census_block_group": 120860093092
+    }
+]

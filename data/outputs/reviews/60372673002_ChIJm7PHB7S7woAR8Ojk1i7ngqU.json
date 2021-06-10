@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4bDVUel93RRAB",
+        "caption": "Slightly better than cafeteria food at high prices. Chicken teriyaki tough like a bike tire. I feel bamboozled by having gotten food here, especially when there are tons of legit Japanese places nearby. This is not a restaurant either, just a cloud kitchen where they make a bunch of heat-lamp stuff under various fly-by-night names.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "Jake Kaminsky",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110390224513050932312/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjLUtlV09BEAE",
+        "caption": "Food was alright. Portion size was a bit small for the price. I paid 18 for salmon bento and it was basically a bowl with two gyoza.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "ZEN ZVN",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112571854470992139313/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

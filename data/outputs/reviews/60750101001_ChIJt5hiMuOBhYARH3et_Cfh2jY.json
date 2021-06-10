@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpME82b0VnEAE",
+        "caption": "Great drinks!  We had the coconut shrimp, which was very good.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jeff Westrick",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108356480464049295600/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4bHFxbWJ3EAE",
+        "caption": "Prices too high for the amount of food. Do not get clam showder , poopcorn shrimp, or calamari. Tasted old and the amount of food was ridiculous. Go to Boudin or anywhere else but not here!!!",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Ivan C.",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111484567482700147710/reviews?hl=en-US",
+        "census_block_group": 60750101001
+    }
+]

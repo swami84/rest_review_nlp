@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLX0tXaV9RRRAB",
+        "caption": "I get a coffee from here everyday. I don't know about trusting the rest of their menu though.  The coffee is very good though always fresh",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Courtney Marshall",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115180245819800313044/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5anMzMDhnRRAB",
+        "caption": "Their Korean soups are really good",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Ke Cheng",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107659326853544758355/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpczRycmtnRRAB",
+        "caption": "Extremely unreliable menu.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Stephen O",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116704598206549330948/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDMUpLeWZBEAE",
+        "caption": "Chicken cutlet sandwich on a hoagie with mozzarella cheese is phenomenal",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Guido Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109570535323731499781/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4NWU2M0RREAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Daniel Martinez Frutos",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101360362283553827778/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjbUt5N2lRRRAB",
+        "caption": "(Translated by Google) Aur interested webside  (Original) Aur interested webside",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "arun entertainment Dot com",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117560315025581335075/reviews?hl=en-US",
+        "census_block_group": 360610013002
+    }
+]

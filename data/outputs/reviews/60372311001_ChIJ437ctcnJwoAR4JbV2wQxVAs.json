@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Z1Bha1lBEAE",
+        "caption": "More like taco feet .  Who puts sandwich cheese on a quesadilla?",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Karina T",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112071915951596407130/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpd3RlRldBEAE",
+        "caption": "I must say these were so good and fresh and presentation was awesome.  Thank you!!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Patrice Young-Davis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100873576686790802548/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMF83NVFnEAE",
+        "caption": "Tasty mexican food for reasonable prices.  The tacos taste homemade (which they advertise correctly), and they got a variety of meats including turkey.  They are on Postmates if you want delivery.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Kenneth Bubar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100860599676484506031/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDaklxX1R3EAE",
+        "caption": "I went through their website to order & had it delivered and it was quick and easy. Ordered 4 beef tacos\ud83c\udf2e\ud83d\udca3\ud83e\udd2f\ud83e\udd24 they were suberb! The tacos were filled fat, juicy & delicious! Door dash delivered my food in a sealed clear plastic bag & \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Rita Mae",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109016968598714578284/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

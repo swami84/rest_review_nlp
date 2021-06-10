@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNE5YRWNBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Pablo Galvez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106008722613794771601/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpd3BHMjdBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Daniel Lozano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101505782777794520217/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpX1pYNXhRRRAB",
+        "caption": "(Translated by Google) Good. Place to. Enjoy  (Original) Buen. Lugar   para. Disfrutar",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Juan Fajardo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114700221345070099779/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpMWZLS05REAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 2.0,
+        "username": "Roberto Valencia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117477736006840902170/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdnUtRVFREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Angel Pilamunga",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102443085049392681653/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjOE5iamVnEAE",
+        "caption": "Great food and amazing drinksssss !!!!  Waiters are super friendly !",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jennifer Karina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106358129268797375780/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjOEphTGxRRRAB",
+        "caption": "Amazing staff , great food , great service. Enjoyable . Would really recommend .",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "lizbeth Ramirez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110463405567911416002/reviews?hl=en-US",
+        "census_block_group": 360810269011
+    }
+]

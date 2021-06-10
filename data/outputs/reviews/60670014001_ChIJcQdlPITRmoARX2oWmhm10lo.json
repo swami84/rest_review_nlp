@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMVpXbUZREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Danielw863",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118067352433365275220/reviews?hl=en-US",
+        "census_block_group": 60670014001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZLTlmUEtBEAE",
+        "caption": "Best Banana Pudding I have ever tasted!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Terminator72",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102150133651976287921/reviews?hl=en-US",
+        "census_block_group": 60670014001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZd192ZGdRRRAB",
+        "caption": "Some of the Best Banana pudding I\u2019ve ever had in my whole 24 years, they customer service is awesome I won\u2019t get my pudding from no one else A+",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Rosita Williams",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115667284164992852052/reviews?hl=en-US",
+        "census_block_group": 60670014001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnNEs2WFVnEAE",
+        "caption": "I met the co owner, this lovely woman, around 21st and she had asked for my help and of course I would never refuse and she gave me a pudding cup in exchange, I had never really like banana pudding before now I love theirs. It\u2019s not to sweet and very delicious!!!! Looking forward to the opening :) !!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jenni V",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108280411074316538640/reviews?hl=en-US",
+        "census_block_group": 60670014001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRelBQNDFnRRAB",
+        "caption": "Hello I was delighted to meet one of the owners at fatsos at a women's marketing meeting and I bought two of her banana pudding cups. Oh my goodness, it was the best banana pudding that I have ever tasted. I grew up on banana pudding and \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "black is freaking beautiful",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108325986399399080587/reviews?hl=en-US",
+        "census_block_group": 60670014001
+    }
+]

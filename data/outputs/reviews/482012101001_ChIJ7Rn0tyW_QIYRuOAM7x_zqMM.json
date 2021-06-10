@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bl9mVnN3RRAB",
+        "caption": "One of the best dining experience I've had in recent memory -- you have to go! I've been to many Michelin-starred restaurants in Europe, and Littlefoot easily held a candle to (if not surpassed, especially at the price point) many of those. Extremely impressed by all courses and amuses.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "James Dohm",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107613350746092703008/reviews?hl=en-US",
+        "census_block_group": 482012101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NHYyRU93EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Steffi Russell-Egbert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110261999531325685230/reviews?hl=en-US",
+        "census_block_group": 482012101001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5M01UcEJ3EAE",
+        "caption": "Incredible experience from beginning to end. Great food, great drinks, and great service. The sorrel ice cream, savory Madeleines, and quail stood out!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Gavin Johnson",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105474218929193475284/reviews?hl=en-US",
+        "census_block_group": 482012101001
+    }
+]

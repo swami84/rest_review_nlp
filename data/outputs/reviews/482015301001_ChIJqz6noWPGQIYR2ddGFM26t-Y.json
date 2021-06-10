@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOFpPdU9BEAE",
+        "caption": "This does not exist :( I wish we had coffee in our building!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Stefanie Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101312076033396509530/reviews?hl=en-US",
+        "census_block_group": 482015301001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjc082NmJnEAE",
+        "caption": "Definitely not food",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Alex J",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109319148133270778201/reviews?hl=en-US",
+        "census_block_group": 482015301001
+    }
+]

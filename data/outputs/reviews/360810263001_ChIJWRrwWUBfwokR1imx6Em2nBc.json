@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpOGEtYUpREAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "miris escob",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115652102932581233362/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbU9mYzBRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Odalys G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106507112370266874178/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbVB1UHZRRRAB",
+        "caption": "Delicious food!!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Lourdes Garcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114126836421384463035/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbUx2UzFRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Domitilo Guzman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113677182439603881607/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbUx2dXZRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Fredy Guzman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112256168449070549137/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeU1MQmxnRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Diana Guzman",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114207722917408985068/reviews?hl=en-US",
+        "census_block_group": 360810263001
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ODdMV0NREAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "michael liang",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101808068954005757982/reviews?hl=en-US",
+        "census_block_group": 360810853002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdkxfYjJBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Joseph Tung",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111771178027364275743/reviews?hl=en-US",
+        "census_block_group": 360810853002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvd3FfSnlRRRAB",
+        "caption": "A true hole-in-the-wall, this place is great! I came here with a few friends on a weekend, and we shared two plates of #1 and #2 dumplings. #2 was great because of the leeks, but #1 was great as well. The food takes a bit of time to come \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Andrea Wu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105616891941805106238/reviews?hl=en-US",
+        "census_block_group": 360810853002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBZ0xYalBREAE",
+        "caption": "(Translated by Google) Not too clean!  (Original) \u4e0d\u592a\u5e72\u51c0\uff01",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Eric D",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105209394643520215791/reviews?hl=en-US",
+        "census_block_group": 360810853002
+    }
+]

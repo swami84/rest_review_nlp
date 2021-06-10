@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbmJpNjN3RRAB",
+        "caption": "Went with the Pepperoni. Fresh, delicious, high quality. I had been going to the coffee shop that its based off of all week. He's meticulous about the wood he uses, his dough, his fresh ingredients. Great place to try - gives any Pizza spot a run for their money in Tucson. They do pick up/online ordering during the COVID thing too!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Reese Dare",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106780720053034671336/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjclpESmh3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Andrew Browning",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108022653126289828249/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjemV1TjJRRRAB",
+        "caption": "Fresh.  Delicious.  Casual.  Will go many times!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Rick Lindsey",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107977237654036043271/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjOWRtdmVREAE",
+        "caption": "We got the primavera pizza and it was delicious! The ricotta was super creamy. We will definitely be back!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Leeann",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101848002014890741526/reviews?hl=en-US",
+        "census_block_group": 40190001001
+    }
+]

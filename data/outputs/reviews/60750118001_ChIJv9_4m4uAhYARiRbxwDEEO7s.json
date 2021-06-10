@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvdWFyazF3RRAB",
+        "caption": "It's what makes this San Francisco and NOT Disneyland or FAKE Dubai",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "J Se",
+        "n_review_user": 383,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101717342255133479774/reviews?hl=en-US",
+        "census_block_group": 60750118001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNneUptZ1NBEAE",
+        "caption": "A building in downtown San Francisco.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 3.0,
+        "username": "Sunny Roland",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103757360332110094084/reviews?hl=en-US",
+        "census_block_group": 60750118001
+    }
+]

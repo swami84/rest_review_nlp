@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaEkzWjdnRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Raul Diaz",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106571406234838551123/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURZLTg5axAB",
+        "caption": "I had a Turkey sandwich. The bread was toasted & had a little bit of butter. It was good!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 3.0,
+        "username": "Guadalupe Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107620479067760326056/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZMkxLSHlBRRAB",
+        "caption": "Good people, great food, locally owned. A great place for lunch.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Chris Hoehne",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104140965986781543786/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvOTczQTBBRRAB",
+        "caption": "Good",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Ayodeji Arojo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105810450442636618612/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvNHYyWm93RRAB",
+        "caption": "One of my favorite spots for tasty mexican food. Good place to hang and eat some good food. Prices were reasonable. Feels like a place in Los Angeles I liked.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Eliana Mclaughlin",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102158644267640917300/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcDhhUGh3RRAB",
+        "caption": "Love the food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Gwendolyn Wiley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105406119008700807012/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NFAzRmt3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "GB Pharmacy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113193472664545633907/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaE42MUFnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Day Tripper",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117512800526486552412/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3b0t6WndRRRAB",
+        "caption": "All of there food is delicious",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "sarai wilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117750140062563197001/reviews?hl=en-US",
+        "census_block_group": 482013125001
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5OGNmNmJBEAE",
+        "caption": "Food was GREAT!!",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Brandon Hall",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102437731337711082481/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eHUtS2lRRRAB",
+        "caption": "Really enjoy the food. Food is done to order so you know you are getting fresh food. Have ordered food several times. My favorite is the fish hoagie, reminds me of home\u2764\ufe0f",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Janay Johnson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105440092635882563508/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcGE3MVV3EAE",
+        "caption": "Great food good price!  Had the best fried whiting sandwich I can remember.  Home made slaw was excellent.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Chris Farr",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105352294827558871207/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTbGMzMGtRRRAB",
+        "caption": "Amazing food with amazing Service love going back  on my lunch break Food was great prices are amazing",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "dimitri adams",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102536909222690884679/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbTkyWDRnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Dominic Hunter",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110280392003956608454/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaFltdWZ3EAE",
+        "caption": "Fantastic mac & cheese and great service! Stachia is so friendly and really cares about her food and her customers. Soul Food Sundays are a must! Can't wait to go back and try more of the menu.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Samantha Belmont",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113748901959377941347/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaGZIWlNnEAE",
+        "caption": "Got a cheesesteak combo for lunch today; it was out of this world! The meal was cooked to order so it was piping hot, but it didn't take me long at all to get my food. Everyone there was also super friendly. I'd upload a picture to show off how good it looked, but I honestly wolfed it down before I even thought about leaving a review.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "George Sawyer",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113281156321004104937/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4X19tZXFRRRAB",
+        "caption": "This is the same as the location in Spring Lake. Exact menu options. This location also provides our customers with the usual it's found in a convenience store. STACHIA'S FULLY LOADED GRILL & MART.. OPENING SOON",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Eustachia Arnold",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112876463548999397100/reviews?hl=en-US",
+        "census_block_group": 370510038002
+    }
+]

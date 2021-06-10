@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOHBiRGhnRRAB",
+        "caption": "A fav spot for delicious Breakfast. prices were fair.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "landon shea",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115211483553022665164/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZal9DSUxnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Amy Mlynarski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100590858785905377310/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJcG9YSnJ3RRAB",
+        "caption": "(Translated by Google) The food is very good  (Original) Esta muy buena la comida",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Luis Molina",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102092692603536547520/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURncllLai13RRAB",
+        "caption": "Not the best at all, paid $9 for 7 pieces of small shrimp that wasn't good, the \"boneless hot wings\" are just frozen buffalo chicken strips, and food wasn't that great",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Jeremy Wheeler",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102325774368890960561/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3bm9LaVNBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Ramona Honan",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103538042063199929735/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBdGRtQ2d3RRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Caitie Donovan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112773648783149506264/reviews?hl=en-US",
+        "census_block_group": 481130021002
+    }
+]

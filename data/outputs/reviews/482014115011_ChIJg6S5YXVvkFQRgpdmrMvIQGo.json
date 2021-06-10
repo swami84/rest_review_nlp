@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjaGRpVml3RRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "daisy Jon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105579221830979216814/reviews?hl=en-US",
+        "census_block_group": 482014115011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNl9uX3lnRRAB",
+        "caption": "They tell you it's all fruit with no sugar added, that's a lie ,the smoothie mix has artificial sugar known to cause diabetes.AND the fruit is not fresh, it comes frozen in a box .It is Not a healthy drink .",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "conniving womanizing narcissist",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101360969252261340238/reviews?hl=en-US",
+        "census_block_group": 482014115011
+    }
+]

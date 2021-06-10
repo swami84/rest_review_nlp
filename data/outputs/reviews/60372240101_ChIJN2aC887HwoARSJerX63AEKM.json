@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOWJmX09BEAE",
+        "caption": "The best Chicken milanesa for over 20 years!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Kenia Monteilh",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105010880026087506407/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdHNMY09nEAE",
+        "caption": "The customer service was great!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Gerard Gamna",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102815037983475491305/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwaUplUXVnRRAB",
+        "caption": "Bad  costumer service",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "drnatedog yt Ramos",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107691453515978191571/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0Z0szRVFREAE",
+        "caption": "Good food",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "EFRAIN MENDOZA",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118076974851638297596/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdHF6V0JnEAE",
+        "caption": "BEST prices and good food. Delivery always on time!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christopher Aguilar",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113800461802682766019/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvem9yQTRBRRAB",
+        "caption": "It's a hole in the wall but great food.  Everything is made to order and fresh.  The prices are very low and tax included!  This will be my to go place....not really a sit down restaurant.  Best teriyaki chicken I ever had!  Also the spicy pork....jaeyuk bokkum was so good.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "iKONIC VIP",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105930893596611883909/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRbS1XYjR3RRAB",
+        "caption": "horrible customer service, the cashier told me to f**k off.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Marcos Barocio",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114801797105292828168/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    }
+]

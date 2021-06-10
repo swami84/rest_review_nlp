@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cGV6VHV3RRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Nancy Perez",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111543688822417392315/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNc1lpM2FBEAE",
+        "caption": "(Translated by Google) Okay  (Original) Bueno",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Indira Mena",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117178917289723316319/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVeGJhbkJBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "familia gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100040124350464413475/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrMFl1emdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Fernando Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113421873481010975131/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ0d19DRDNnRRAB",
+        "caption": "delicious Tacos",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Martin Cisneros",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109868710948577926099/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZMzhIakNREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Armando Melchor",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104255110525951002478/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvLU1MZkJnEAE",
+        "caption": "I have only had the vegan/vegetarian tacos off menu and they are VERY good. Care was taken in putting them together. The type of taco often depends, I believe, on who\u2019s cooking as the recipe changes but all version are fantastic, the best I have found in Queens!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Margaret Mulligan",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107851908317927844420/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRb19PQ2NnEAE",
+        "caption": "(Translated by Google) The food is good and the price is accessible  (Original) La comida es buena y el precio es accesible",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Irene Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105934218078101819742/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMHVpRXV3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Isai Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101109093358879022012/reviews?hl=en-US",
+        "census_block_group": 360810353002
+    }
+]

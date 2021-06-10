@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMmJ6WEtREAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jake Kwaschnefski",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103730169748846840234/reviews?hl=en-US",
+        "census_block_group": 60371289103
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNnNmNkJBEAE",
+        "caption": "I just had this place for lunch and I'm so glad there's another vegan place I can order from.  Especially one that brings something new to the table, like the Tonkatsu sandwich I ordered.  It was really tasty.  Great crunchy texture with a \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Michael Ramos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113078983744308700316/reviews?hl=en-US",
+        "census_block_group": 60371289103
+    }
+]

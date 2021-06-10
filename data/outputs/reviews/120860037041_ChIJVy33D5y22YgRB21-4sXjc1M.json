@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpNWJXVE1BEAE",
+        "caption": "Pretty good pizza, good crust thickness, not too much grease, large slices",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Susan Sublett",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109316404409395010038/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOWZxYXNRRRAB",
+        "caption": "if you are patient enough to wait, the food is delicious and the service is fine.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "diana macfarlane",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107530936888577549275/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4MGV1aUFnEAE",
+        "caption": "Exceptional food, super nice staff, constantly fantastic vibes. They charge affordable pricing and the food quality is awesome. Great work.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Carl Evanoff",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102516076619701832131/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3aUxyU2RREAE",
+        "caption": "I brought my mom here for their Mother's Day Brunch and loved it! They were super busy, and there was live music, but the server was pretty attentive. The portions were on the small side, but we were full and happy after the three-course meal.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "Van Wise",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117594693254412677182/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnNGVpZGhBRRAB",
+        "caption": "Boom. Delicious pizza. Highly recommended. Ropa Vieja Pizza, Vaca Frita Pizza, Picadillo de Pollo, Guajiro Pizza, and so mamy more delicious Cuban-inspired pizzas. The location is a little bit odd at first, if you're picking up at night; \u2026",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Sklep Glep",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115745480323521536503/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    }
+]

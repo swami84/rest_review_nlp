@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLVlUSGhnRRAB",
+        "caption": "Great stuff. Good guys. Give it a try!",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Drew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103664856617163175512/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MlpiRm13RRAB",
+        "caption": "Incredible rib sandwich. Forget about pulled pork. This is the real deal. The Mack smacks 100%",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Shant Thomassian",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109857842583708849395/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    }
+]

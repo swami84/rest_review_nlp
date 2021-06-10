@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcG9LQ21nRRAB",
+        "caption": "This is awesome",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Eros Villasmil",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117804495547116932331/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LTduWjVRRRAB",
+        "caption": "The food here is amazing.  Found out about this place because I was going to Laughing Monk Brewery (also very good), and the food truck was at the brewery.  Got the birria in a few different forms and fish tacos.  All of it was fantastic.  Amazing food and very nice people running it.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Sam Ogee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100002464047966045055/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5Mm82bnZnRRAB",
+        "caption": "Had the opportunity to El Fuego at Spark Social yesterday. So glad they were there, hands down best quesabirria tacos I've ever had. Literally bursting with so much flavor and they dont skimp you out on the meat. I LOVED the consomm\u00e9! I did \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Noah Herbert",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106418377248817562051/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNWVLaEJnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Christine Growth",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111813190199916514304/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNkx5aG53RRAB",
+        "caption": "I love this place!! They have the best quesabirria in San Francisco",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Mario Meza",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110852739752562581787/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDb3BENWt3RRAB",
+        "caption": "Highly recommend! I've had tons of tacos, from all over, including Mexico, many claiming to be \"the best tacos\". These guys ARE literally the best, at least that I've ever had.  We came here because my husband is on the keto diet and they \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Michelle Lynn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108488293072821066097/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDck5HaUV3EAE",
+        "caption": "Delicious and crispy Quesabirria with flavorful salsas on a side!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Olha Ivanchenko",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100577311574139461110/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4bTVuRkpnEAE",
+        "caption": "Awesome birria tacos and great service! Highly recommend",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Kevin Chanthasiriphan",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105942346710828166015/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4eVp5T0pBEAE",
+        "caption": "The best tacos I have ever had. This tavo truck is awesome and extremely clean...",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Freedom Funker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115598469704475809199/reviews?hl=en-US",
+        "census_block_group": 60750227041
+    }
+]

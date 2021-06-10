@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5enRTd3lnRRAB",
+        "caption": "Welcome to Mcdonald's cafe. People, you will Know why someday.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Brandon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105484577833129522623/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dHZxT2pRRRAB",
+        "caption": "Been to many city Starbucks, and the Baristas here are the BEST: kind, enthusiastic and attentive. Definitely care about the product itself and the experience for customers! :)",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Peyton McGovern",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102651536188219462999/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MEp2UWVREAE",
+        "caption": "Very bad service from the staff. The woman who attended us had very bad energy, she confused our request and when we ask her, she answered us badly by yelling at us. Avoid it!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Juan Martin Kiemesz",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117495705226200164036/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbllLNFNnEAE",
+        "caption": "The women that work in this Starbucks (I met 4) have such good energy and strive to get your order right right. Enjoyed my pumpkin sweet cream cold brew every morning while I stayed at the Marriott Downtown.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Satara Cali",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104628763399920167093/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcmNIQkx3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Marina Robirosa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117586536023553936414/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNaU9XVXRBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Stefry Sanchez",
+        "n_review_user": 292,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111613656693283422358/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdDlMVDN3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Sina Dadras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106702643378439383024/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwdTl6LXdnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "PANKAJ KAPOOR",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116876919501977752676/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwLUw2b1RREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Xiomara Mota",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103131943665787645977/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

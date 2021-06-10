@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdG9tWFlREAE",
+        "caption": "Fresh, delicious, and good prices....the people are very nice!!",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Angelica Murcia",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106328929777600044069/reviews?hl=en-US",
+        "census_block_group": 360810460003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaXFqY2RBEAE",
+        "caption": "If you like chargrilled chicken then you\u2019ll love their chicken. Absolutely delicious and not to mention fairly priced. The empanadas (both chicken and beef) are very good too. They have a nice selection of side dishes. I will DEFINITELY be stopping in again.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "cindy wung",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109831964471948701562/reviews?hl=en-US",
+        "census_block_group": 360810460003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbUlUM0RBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Lily Juarez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117276727240199265749/reviews?hl=en-US",
+        "census_block_group": 360810460003
+    }
+]

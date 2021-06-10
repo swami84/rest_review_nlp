@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dUt5c3VRRRAB",
+        "caption": "Yummy!  Order: - Iced Vietnamese Coffee",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Wells Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116298665011038622021/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNjdmc3J3RRAB",
+        "caption": "Good",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Hung Chun Leung",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110238270415457272006/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDdGM2ak1REAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "Juan Carlos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113175331251957575488/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDdmVpbmxRRRAB",
+        "caption": "Good service when the boss is there but when she isn't the service is lacking. Good products there but always short or run out of the items we need.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "L Chew",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103124451066780100345/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOV9XbWF3EAE",
+        "caption": "I had pho here twice. Like it.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Dongling Ma",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112717090445335135319/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNOXE2cUFnEAE",
+        "caption": "Delicious sandwiches.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Stefan Kondelka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114431216341018762538/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNeGMtVWlRRRAB",
+        "caption": "Ordered a chicken pho. Pho is flavorful and it was only $8. So, I am satisfied.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Joshua Chau",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109693698053602216980/reviews?hl=en-US",
+        "census_block_group": 60750107003
+    }
+]

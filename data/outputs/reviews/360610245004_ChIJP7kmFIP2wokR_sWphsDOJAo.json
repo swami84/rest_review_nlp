@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbk9YZ1J3EAE",
+        "caption": "(Translated by Google) Best restaurant  (Original) El mejor restaurante",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Adenawell Mejia",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112496653255840752763/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwbkpxQm5BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Osvaldo Dajer",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107448384257820904097/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ0MXNlT3B3RRAB",
+        "caption": "the worses patelitos .",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Josefina Rojas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110570750226969512823/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ0MnRlT0NBEAE",
+        "caption": "Excellent",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Alex Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116015704541811786344/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRMDVhU3JBRRAB",
+        "caption": "(Translated by Google) Very tasty food, everything is very good, very friendly people, and small but cozy place. Great food, everything is delicious, small but cozy.  (Original) Comida muy sabrosa , todo es muy bueno , gente muy amable , y lugar peque\u00f1o pero acogedor . Great food, everything is delicious , small but cozy.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Mark Guardamino",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105664002159525686906/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcjVENWJREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jake Petterson",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106805134647597093478/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBMFBpSF9RRRAB",
+        "caption": "The food there is delicious!",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Arian Burgos",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101994997725220710494/reviews?hl=en-US",
+        "census_block_group": 360610245004
+    }
+]

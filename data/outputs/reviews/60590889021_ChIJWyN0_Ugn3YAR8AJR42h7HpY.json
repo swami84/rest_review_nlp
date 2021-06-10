@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpemZpRmVBEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Vinh Lam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116335577782962362711/reviews?hl=en-US",
+        "census_block_group": 60590889021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDcktPLXJnRRAB",
+        "caption": "Good place, I had a good experience.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Evan-JIriah Pham",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117551966005452608538/reviews?hl=en-US",
+        "census_block_group": 60590889021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNzZTVi1RRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Bichhong Congtang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100613188684930975214/reviews?hl=en-US",
+        "census_block_group": 60590889021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwcGJPZmhBRRAB",
+        "caption": "One hidden gem restaurants, pretty tasty would definitely recommend to who love vietnamese grill fish",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Trung Vi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115919195685953337962/reviews?hl=en-US",
+        "census_block_group": 60590889021
+    }
+]

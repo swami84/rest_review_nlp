@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdHZxSk5BEAE",
+        "caption": "I went n the lady just sat there ... didn't bother taking my order so i left",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Bernard Saludado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111650667266894021073/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNnRiSEVnEAE",
+        "caption": "Fantastic hand made tortillas and excellent al pastor, some of the best in north east LA",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jesse Einhorn-Johnson",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100610666080880253207/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBbTVqZ1RREAE",
+        "caption": "(Translated by Google) The tortillas are made by hand! And they use good dough. The roast beef is well seasoned, maybe it would be better with less salt and a better selection of pieces, since it had some nerve. I tried the melon water, \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "B. C a v a z o s",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104158223914759442956/reviews?hl=en-US",
+        "census_block_group": 60371853202
+    }
+]

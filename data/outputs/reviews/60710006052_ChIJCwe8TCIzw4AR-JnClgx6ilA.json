@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvdzVlSGpBRRAB",
+        "caption": "Ok cool",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 3.0,
+        "username": "romeo aranda",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100988348808719632075/reviews?hl=en-US",
+        "census_block_group": 60710006052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBb2VEd05BEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "J GUZMAN",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113579275996893026328/reviews?hl=en-US",
+        "census_block_group": 60710006052
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3OFl6bjNBRRAB",
+        "caption": "(Translated by Google) delicious food is delighted excellent place and excellent service  (Original) deliciosa comida quede encantada exelente lugar y exelente servicio",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Elizabeth Moctezuma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118357355718871286297/reviews?hl=en-US",
+        "census_block_group": 60710006052
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd3BpWkhnEAE",
+        "caption": "(Translated by Google) Great food for great prices. Authentic seafood sinaloences. I recommend it.  (Original) Great food for great prices. Mariscos autenticos sinaloences. Se los recomiendo.",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Gerardo Aguilar",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109190005452153325061/reviews?hl=en-US",
+        "census_block_group": 60710006052
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvbjVQemp3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Anna Ye",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105892775814685372696/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvdDdtQndnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "cj eagle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101931340667964712023/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvOWFPSDVnRRAB",
+        "caption": "I used to make fun of people who paid $11 for a smoothie... but the Blue Royale is really healthy, only 280 calories and delicious. And everyone who works here is so nice, putting lots of care into each drink. Thanks especially to Laz!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Donna Rivera",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100616334574254841588/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJMWNuU1pBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Brett Kramer",
+        "n_review_user": 93,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109388182503433249995/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    }
+]

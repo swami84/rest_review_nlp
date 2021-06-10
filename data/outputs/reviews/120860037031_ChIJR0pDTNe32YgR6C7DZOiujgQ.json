@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpdUk2bUZnEAE",
+        "caption": "(Translated by Google) Rumba  (Original) Rumba",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Joel Gadea",
+        "n_review_user": 255,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100857414143701154007/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzZ01pRE5BEAE",
+        "caption": "It was a nice place but i really didn't care for the music the dj was playing.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 2.0,
+        "username": "Noelia Rodriguez",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117189276720986568928/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNNmVHOFRREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Diana Rosa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100956268506745598937/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    }
+]

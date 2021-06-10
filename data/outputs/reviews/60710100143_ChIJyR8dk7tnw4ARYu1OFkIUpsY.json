@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpN0t2LWpBRRAB",
+        "caption": "Great food and even better service. Highly recommended the quesadillas de asada.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "guillermo Figueroa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112779925410488213340/reviews?hl=en-US",
+        "census_block_group": 60710100143
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpekwtMVhREAE",
+        "caption": "So good!! I only have two go-to taco spots in the HD. This is one of them! Will not disappoint!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Karina Segura",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110178291150873813241/reviews?hl=en-US",
+        "census_block_group": 60710100143
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpc09Td2lnRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Rita Fernandez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103535670647757458304/reviews?hl=en-US",
+        "census_block_group": 60710100143
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcTRDclFREAE",
+        "caption": "Real mexican food. Delicious! Quick service",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Daniel A",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110335661748722048602/reviews?hl=en-US",
+        "census_block_group": 60710100143
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDLWMteHN3RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Felipe Lara",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100353703610040316672/reviews?hl=en-US",
+        "census_block_group": 60710100143
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcmNxMzRBRRAB",
+        "caption": "Good location for tasty greek food. Everyone at our table was quite pleased. Nothing but enjoyable experiences here.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Braxton Cummings",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105086160222016285215/reviews?hl=en-US",
+        "census_block_group": 482013123001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3MmJ1WkxREAE",
+        "caption": "Good service",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Pancho Villa",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108108234669835070289/reviews?hl=en-US",
+        "census_block_group": 482013123001
+    }
+]

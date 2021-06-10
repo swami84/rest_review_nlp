@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURReHBxQjBnRRAB",
+        "caption": "I eat here often and the food has always been good but they have moved in with the restaurant across the hall for renovations, and running the 2 out of one tiny kitchen is not working. I got horrible, cold french fries and after mentioning \u2026",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 1.0,
+        "username": "Terri Lynne Starr",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112209118999527194200/reviews?hl=en-US",
+        "census_block_group": 370810108002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcHU2UDdnRRAB",
+        "caption": "Bbq and mac&cheese were great!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Corey Markham",
+        "n_review_user": 53,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102605578875820652429/reviews?hl=en-US",
+        "census_block_group": 370810108002
+    }
+]

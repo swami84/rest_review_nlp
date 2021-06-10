@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjMUpxdFZREAE",
+        "caption": "One of my main spots to grab some food. convenient location, well kept, and awesome service. Keep it up!",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Cullen Mata",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106637355766007232220/reviews?hl=en-US",
+        "census_block_group": 120860043034
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNbEtEM0tBEAE",
+        "caption": "This place always delivers. They have awesome food for affordable rates, there no long wait even when the place is busy.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Declan Proctor",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104346809555584738000/reviews?hl=en-US",
+        "census_block_group": 120860043034
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaTk2MUNREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Darline Calhoun",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104264479098686440764/reviews?hl=en-US",
+        "census_block_group": 120860043034
+    }
+]

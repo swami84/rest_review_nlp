@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJbHYyN3VnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Deval Patel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117351594218358871275/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJdjhQYk53EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "Linn Pierce",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100170811736206110752/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnbWQ2S3hRRRAB",
+        "caption": "I work in the building where this deli is located. It's always clean and the owner is always friendly.   When I'm on the run I like the Roc-N-Taco for breakfast and I recently had a tuna panini melt...delicious! It was so good, the next \u2026",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "SJ Johnson",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101523025861042896132/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    }
+]

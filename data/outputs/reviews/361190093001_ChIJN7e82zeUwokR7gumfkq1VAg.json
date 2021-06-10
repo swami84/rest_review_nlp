@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4Nk1iS0dBEAE",
+        "caption": "This restaurant is my favored. I eat in many restaurants but to this place I keep coming back again and again. The crew is very friendly and the cuisine they place on your table is so appetizing. I never miss an opportunity to have a good meal in this restaurant. Highly recommended.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Konner G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111435442868526276975/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjNWMtUzNBRRAB",
+        "caption": "I celebrated my graduation earlier this evening in this gorgeous place. Well we passed a fabulous evening and the venue was definitely the reason for that strong evening. The crew  cooperated in a gorgeous manner, the meals were appetizing \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Bradley Buckingham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111653093571578502740/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVa3UyRWRnEAE",
+        "caption": "Delicious food!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Hwang Dental",
+        "n_review_user": 27,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117082928650160299975/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRdzYtVm1nRRAB",
+        "caption": "On a diet good place to get plain grilled chicken plus a  salad or vegtables with no added sauces.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Erick Gamero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107662129833685465283/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    }
+]

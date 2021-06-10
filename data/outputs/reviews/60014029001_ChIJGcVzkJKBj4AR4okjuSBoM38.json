@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjaTduSkR3EAE",
+        "caption": "Incredibly tasty!! Nice sized portions, decent $$, good quality food, homemade.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Bang Urhead",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111261583497880422637/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMVlhOFVBEAE",
+        "caption": "Friendly staff, excellent service, delicious food \ud83d\ude01",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Travis Pitrat",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111485040427102658191/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOGVXaDFBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Marlon Evangelista",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108178792843407619493/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzOGNXM21nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Richard Haynie",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103964790891346619987/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzbHNPeW5nRRAB",
+        "caption": "Stopped for the first time today.   Loved the food and the serving size was larger than I expected.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Bob Porter",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110255960022749493194/reviews?hl=en-US",
+        "census_block_group": 60014029001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDVfZGh3RRAB",
+        "caption": "Can't go wrong about this place if you're a seafood lover!  Amazing taste, great portion and customer service is on point!  I highly recommend checking their menu online and order ahead of time since it is seafood you really can't rush it.  They're in the gas station so plenty of parking spaces!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ralph David",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110253704084455760728/reviews?hl=en-US",
+        "census_block_group": 60371287023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aGFET1lnEAE",
+        "caption": "(Translated by Google) Very good food  (Original) Muy buena comida",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Hugo Aguilar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117599298865444406403/reviews?hl=en-US",
+        "census_block_group": 60371287023
+    }
+]

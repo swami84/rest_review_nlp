@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURLLU1mLVlnEAE",
+        "caption": "Get food from here at least once a week",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "David White",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116456489966744411464/reviews?hl=en-US",
+        "census_block_group": 60750124022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcC1xMUd3EAE",
+        "caption": "I'm such a fan I love Dickey's BBQ. I support anything texas and this is another go to if you're in the in the San Fran area!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Ty perryman",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102649575550732935513/reviews?hl=en-US",
+        "census_block_group": 60750124022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHBTWWhBRRAB",
+        "caption": "The food is great and the staff is really nice. A little hard to find the place but worth it",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Anthony Sinibaldi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109654431670538039724/reviews?hl=en-US",
+        "census_block_group": 60750124022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MHNUN1RnEAE",
+        "caption": "This particular Dickies had THE BEST Brisket I've ever had from a Dickies.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Charlotte Glass",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112808067899672159393/reviews?hl=en-US",
+        "census_block_group": 60750124022
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURpaWFKQhAB",
+        "caption": "Got some barbecue on UberEats. The 2 for $24 deal is amazing! Quality food, very filling. Highly recommend!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Xuanyi Liu",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117846345439902655970/reviews?hl=en-US",
+        "census_block_group": 60750124022
+    }
+]

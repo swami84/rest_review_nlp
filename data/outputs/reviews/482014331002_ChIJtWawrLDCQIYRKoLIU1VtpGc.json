@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M3BtZHpBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jorge Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111702363069955770987/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dHJqeDZBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Luisito Martinez",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111232231209309393903/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aUxISmpnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Cesar Amaya",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105989145599766727686/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bmV1UnRnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Castro Milton",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110843264085708172724/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aG9MOVdBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jose pilar Ortiz",
+        "n_review_user": 31,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103081906150992244503/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTMHNUMXp3RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Karla Valadez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117593573364522975091/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNU42RXhRRRAB",
+        "caption": "(Translated by Google) Everything is very rich, except for the cashier who, every time I went, makes out of place comments about Mexicans and Hondurans, she is a skinny little girl, she does not have the best attitude for customer service, \u2026",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "JORGE",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110217532599070169323/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVcVplb2dRRRAB",
+        "caption": "Great food!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Shellyann Lim",
+        "n_review_user": 68,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107507221056300026330/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJOE5DYzRRRRAB",
+        "caption": "Best taco in this block of Beechnut.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Luis M Chen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111840420575909736094/reviews?hl=en-US",
+        "census_block_group": 482014331002
+    }
+]

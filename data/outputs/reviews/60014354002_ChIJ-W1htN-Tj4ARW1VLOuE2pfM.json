@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLeVpiQ0RnEAE",
+        "caption": "",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Don Orque",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103129022917700418107/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNkttd1ZBEAE",
+        "caption": "Best in town right here. Friendly employees and very clean and quick service.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "UanLiLRaS",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116359553903307761787/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaU5tTVR3EAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Rob Delisle",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110172561516749236845/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OXV5VHdBRRAB",
+        "caption": "Place is on point! Love the food!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Shad Roach",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108171813510863255725/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dHF1Mmx3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Dooski 7",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113808516095629183767/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bXZHNXRBRRAB",
+        "caption": "Dope place! Glad they just opened because the food is pretty bomb and they had a surprise drink that blew me away! If you're looking for a taqueria I highly suggest this!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Andrew Salcedo Photography",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106524362151458134154/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5Nkw2QThBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Viridiana Reynoso",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109203775688086999325/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bTd1UjRRRRAB",
+        "caption": "Yummy! I had the veggie burrito and chips and guac AND THE QUESADILLA. It was amazing. They made everything vegetarian for us too :)",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sabrina Zenad",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113824313816566958210/reviews?hl=en-US",
+        "census_block_group": 60014354002
+    }
+]

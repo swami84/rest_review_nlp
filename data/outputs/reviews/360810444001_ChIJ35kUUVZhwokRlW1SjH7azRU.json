@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLX3ZtQTlnRRAB",
+        "caption": "",
+        "relative_date": "14 hours ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Eulalita Lantigua",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117494468403931598809/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLM3V1OERnEAE",
+        "caption": "",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Julio Pomaquiza",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104538581876909976136/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSUNLbHFrVhAB",
+        "caption": "Great",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Roshana Lall",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100042780983280273369/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5N1lMcDlnRRAB",
+        "caption": "(Translated by Google) The food has always been as in the first restaurant VERY GOOD, IT IS RICH but the service is the only thing that gives a lot to say. Let's hope that little by little they will improve that.  (Original) La comida \u2026",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Stephanie Ortiz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115344279857833296554/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d3NIRThRRRAB",
+        "caption": "(Translated by Google) I give it a star because the food does not work. Yesterday I bought a ripe banana, beans, cheese and an egg. And I got a hair \ud83d\ude33\ud83d\ude33 on the beans. I do not recommend it. And the attention is lousy.  (Original) Le doy \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "morena mia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101931180726677900139/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cklHSi1BRRAB",
+        "caption": "(Translated by Google) They told me about this restaurant but the reality the food is disgusting, the person who was there to serve the customers was talking as if nothing with another person, a meal that they had all day, apart is an area \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Hny Lhv",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103912141243039117799/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDc1BxeXNRRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Allan Rodriguez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113524444068749603787/reviews?hl=en-US",
+        "census_block_group": 360810444001
+    }
+]

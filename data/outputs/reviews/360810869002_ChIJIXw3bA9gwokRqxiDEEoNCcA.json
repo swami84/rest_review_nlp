@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OXNMMXVnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "michael ye",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104002153742446969997/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MXYtOHVnRRAB",
+        "caption": "(Translated by Google) The dried powder tastes just right, and the price/performance ratio is good. All menus have a normal size of $8, and one serving is just full!  (Original) \u7c89\u5e72\u5473\u9053 \u521a\u597d\uff0c\u6027\u4ef7\u6bd4\u53ef\u4ee5 \u3002\u6240\u6709\u83dc\u5355 \u6b63\u5e38size\u90fd\u662f$8 \u4e00\u4e2a\u4eba\u4e00\u4efd\u521a\u597d\u9971\uff01",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Iki Kei",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111852266628223491934/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LWFMYmVnEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u6674\u5929",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107132275184601053975/reviews?hl=en-US",
+        "census_block_group": 360810869002
+    }
+]

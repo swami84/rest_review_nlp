@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MGMtTm1nRRAB",
+        "caption": "",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Joseph Sebastiano",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116970916377003186446/reviews?hl=en-US",
+        "census_block_group": 360810987002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LVBhYWp3RRAB",
+        "caption": "MUST TRY !",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Michael Soviero",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110475734124608974113/reviews?hl=en-US",
+        "census_block_group": 360810987002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bl91VnB3RRAB",
+        "caption": "One word, outstanding \ud83d\udc4f I cannot find any other word to describe how perfect our first experience ordering out from Giovannas kitchen. We ordered chicken parm, rice balls (best I've ever had) and bombolinis. Everything was delicious, hott, fresh, big portions simply perfect! Please do yourself a favor and try Giovanna out asap!!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Michelle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114841293687289332512/reviews?hl=en-US",
+        "census_block_group": 360810987002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bV9LdHFBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Irene Skandalakis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105123718673616446846/reviews?hl=en-US",
+        "census_block_group": 360810987002
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTaXViRHl3RRAB",
+        "caption": "amazing food, we liked the paneer matter and Japanese curry. We were on our way to San Diego, the owner let us stay for 2 weeks, she\u2019s very nice, beware she spills beer on your belongings",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Parth Shah",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100442977401556183421/reviews?hl=en-US",
+        "census_block_group": 60014006002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDR2OXFRRRAB",
+        "caption": "We went for pad Thai but the owner dropped beer on our seats. She also tried to eat from our plate",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Aditya Yelisetty",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100452377219313191364/reviews?hl=en-US",
+        "census_block_group": 60014006002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTZ2FpRkpnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Tracia Bliss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116338145664643267034/reviews?hl=en-US",
+        "census_block_group": 60014006002
+    }
+]

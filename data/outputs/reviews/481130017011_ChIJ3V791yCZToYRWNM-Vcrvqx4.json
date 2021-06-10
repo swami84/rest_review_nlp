@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLenBuUDVRRRAB",
+        "caption": "Best Philly cheesesteak in Dallas imo.  Affordable prices.",
+        "relative_date": "4 days ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Music",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102559941361458393282/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbzlINTJBRRAB",
+        "caption": "Best cheesesteak in Dallas.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "In Choi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117115280783154975367/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzNGNIVmlBRRAB",
+        "caption": "People are nice, food is great, and the waiting time isn't long",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Zakir Syed",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110349549007441017879/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzX3Nqb1hBEAE",
+        "caption": "The breakfast burritos are excellent no problem. My main issue is I have been coming to this spot for over 2 years. Suddenly burritos went up by .50 cents. I asked the lady why and she did not give me a clear answer. Today I was charged  as \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "John Enriquez",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112433554576682091291/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZOHUtX2hnRRAB",
+        "caption": "So good always",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Jeasung Lee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112377047665119002760/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcy1QanFBRRAB",
+        "caption": "Delicious breakfast and lunch items. They need to update their times. They close at 2:30p CST, not 3:00p as they list.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Filiberto Alvarado, Jr.",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115474594891895192247/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3M2MtRUNBEAE",
+        "caption": "Great cheesesteaks and crispy fries. They also have a great breakfast selection. It's hard to beat them for the price.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Oscar Kham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105798085823640583221/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnb0tTc1ZREAE",
+        "caption": "Perfect breakfast bacon burritos. I have two every morning and the lunches they have are great as well",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Robert Mullins",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111303345019705827503/reviews?hl=en-US",
+        "census_block_group": 481130017011
+    }
+]

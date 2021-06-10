@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdm9ISWpRRRAB",
+        "caption": "Great fried rice and special hotpot. Hostess was great with my kid. I would recommend for fun eating experience or family dinner.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Michael HPM",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103777538278051665095/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaU9xY0ZBEAE",
+        "caption": "My 1st time there and I was very pleased and pleasantly surprised. Will definitely go back! Everyone was so nice.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Doreen Valadez",
+        "n_review_user": 32,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102356054016337857512/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NTdEOEV3EAE",
+        "caption": "Real food from south VIETNAM. frienly. Good price",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "dung nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114414836266886064417/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTNjY3bk1REAE",
+        "caption": "Great place for Vietnamese seafood hotpot",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Tysha Nguyen",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115687156962455114647/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTc0pUdHRBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Kay M. Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107665482635730806971/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa2ZtSzJBRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Anh Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111980352650055575298/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpa2U2X2VBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Trang Nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104704705167236727734/reviews?hl=en-US",
+        "census_block_group": 60590992501
+    }
+]

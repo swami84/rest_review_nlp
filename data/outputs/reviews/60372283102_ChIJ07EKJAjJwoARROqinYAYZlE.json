@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5eTg3dHZRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Judith Reyes",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102839860461777761900/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5akliOTdBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "JC Your MS Solutions Guy",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110240791558152157251/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNjZhN0xnEAE",
+        "caption": "(Translated by Google) Small but cozy place. Salvadoran / Central American food. You have to park on the street. They have a promotion of 12 pupusas for $ 18.00 + taxes, good promotion, bean pupusas with cheese or good tasting scrambled \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Jose Jacinto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113246234246323111262/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDai1pTDZnRRAB",
+        "caption": "(Translated by Google) Variety of food and affordable prices  (Original) Variedad de comida y precios accesibles",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Bigotes Blanco",
+        "n_review_user": 144,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104333295888330667545/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4OFpDLWpnRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "jason broke",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107111680006704736989/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4OFpEVXNnRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Ivy Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116953128389097918126/reviews?hl=en-US",
+        "census_block_group": 60372283102
+    }
+]

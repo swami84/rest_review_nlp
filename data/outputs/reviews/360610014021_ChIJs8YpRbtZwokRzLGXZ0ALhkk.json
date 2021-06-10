@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDOS1MSV93RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jeffrey Buckley",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111056016102278408236/reviews?hl=en-US",
+        "census_block_group": 360610014021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4MjVqVk53EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "MATTHEW STEWART",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109878834831136001628/reviews?hl=en-US",
+        "census_block_group": 360610014021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNMjluUE9BEAE",
+        "caption": "Simply the best and most delicious dim sum and noodles i have ever had in my ENTIRE life. The soup dumplings are delicious as well. I went for the first time last week and can\u2019t wait until I return. My only wish is that they had a slightly expanded menu, but all in due time. Sloppy joe noodles are excellent. To avoid the crowd, try and go in the daytime. They are insanely busy at night. Just delicious.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Carmen Kath",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114310124434550653769/reviews?hl=en-US",
+        "census_block_group": 360610014021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNeUwza25RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jin Chan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102462280293413739315/reviews?hl=en-US",
+        "census_block_group": 360610014021
+    }
+]

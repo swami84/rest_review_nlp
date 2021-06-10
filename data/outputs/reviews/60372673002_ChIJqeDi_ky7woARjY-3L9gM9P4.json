@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDLXAzdGNnEAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Ali Makarehchi",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101421389818958836536/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcFBUZTdnRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Mathew Yaeger",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114408016321457489485/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdmRfNEZnEAE",
+        "caption": "Wit wiz please. You absolutely must try the EGG ROLLS, but take your seatbelt off... Magical deliciousness! Will be back!!! Go to the back alleyway to order late night! Must CALL to ORDER!!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Michael Che Romero",
+        "n_review_user": 23,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117062105031994482454/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

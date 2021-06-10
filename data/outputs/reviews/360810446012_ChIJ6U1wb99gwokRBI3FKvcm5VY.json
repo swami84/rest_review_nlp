@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvX2NHVVlREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Mohammad Khan",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117533021954696988996/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBLU9yTlpnEAE",
+        "caption": "Had a good experience when I went and the food was great",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Sanjiv Medical",
+        "n_review_user": 88,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112388885810945581661/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBb3BhUVVBEAE",
+        "caption": "Is not here",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "G K",
+        "n_review_user": 16,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105108430217504315815/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBaVpQdnV3RRAB",
+        "caption": "Halal food cart that's there 24 hours , however the food quality differs. It's a hit and miss at times ...",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Adnan Samia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110075028344669940370/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    }
+]

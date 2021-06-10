@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLZ1oyQkN3EAE",
+        "caption": "Awesome place .. Great Macaroons and wonderful Lemonade's . We love visiting La Tea Da . Highly Recommend go check it out.",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Johnna Tyler",
+        "n_review_user": 34,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117897593254359567921/reviews?hl=en-US",
+        "census_block_group": 40159536022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLXV2OExBEAE",
+        "caption": "During our visit to Kingman we stumble upon this cute shop and decided to go in. We got the most amazing macaroons we've ever tasted! It is a must stop in Kingman!",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Sara Ives",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114952282515019855141/reviews?hl=en-US",
+        "census_block_group": 40159536022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLa29PSTRBRRAB",
+        "caption": "I'm giving this a 4 because the owner stepped out as I was coming in for some tea & her husband who was left behind to run the show didn't know how to make it, so I was disappointed I didn't get what I was after. HOWEVER, the other 4 stars \u2026",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Angelica Brown",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105729683004433421073/reviews?hl=en-US",
+        "census_block_group": 40159536022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LWQzYmxRRRAB",
+        "caption": "Love their macaroons!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Michael Steiger",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106520735625488272149/reviews?hl=en-US",
+        "census_block_group": 40159536022
+    }
+]

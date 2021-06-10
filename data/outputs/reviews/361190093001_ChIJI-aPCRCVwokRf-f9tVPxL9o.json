@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dEtQeUZnEAE",
+        "caption": "Rude staff/employee",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "\u0627\u0644\u0631\u0623\u064a \u0627\u0644\u062d\u0631",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101137497297345035106/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bDVQenJRRRAB",
+        "caption": "\ud83d\udc4d",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Alwin Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117077208327025109182/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eUsyVE9BEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Clarence Harley",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101940581712639854577/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDNGZxMVZnEAE",
+        "caption": "Really bad costumer service",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Javier Lanza",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106333545977940252731/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZ3Vlc0RREAE",
+        "caption": "\ud83d\udc4d",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Rafael ayala",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108932349040389004699/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbU5mbVh3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Kashif Syed",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111135130177276299788/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNemRuWm9RRRAB",
+        "caption": "Does not accept coupons rude employees",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Bernardo Martinez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118225468242887673822/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNdnZlWi1BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Daniel Swart",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110403401186568393224/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvenJXamlRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "sugarcane canela",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104718610616144479083/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnN3YyV1NnEAE",
+        "caption": "",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Aisha Arenas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108875851947124176830/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    }
+]

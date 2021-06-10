@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJay1YRDFnRRAB",
+        "caption": "Great authentic Mexican food.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Eduardo Salazar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109086469223608045400/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJbmZ5WUdBEAE",
+        "caption": "I order an Al Pastor burrito from here and it was pretty good with that authentic taste, and it was a big burrito for $8 the only thing I had a problem was that the burrito came apart after a few bites into it making it messy to hold \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 3.0,
+        "username": "Hector Cruz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110675415287070185804/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    }
+]

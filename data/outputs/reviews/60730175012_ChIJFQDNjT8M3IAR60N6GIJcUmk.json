@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dUxydnVBRRAB",
+        "caption": "Great spot!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Joey G",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115922407384198863195/reviews?hl=en-US",
+        "census_block_group": 60730175012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDb182Q253RRAB",
+        "caption": "Surely a spot worth stopping by, the food is good and well prepared, the pricing is fair and it is constantly clean in here. Highly recommended.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Cedric Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102775445154019658796/reviews?hl=en-US",
+        "census_block_group": 60730175012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNOF9uOXBRRRAB",
+        "caption": "Awesome food!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Clara Lake",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104343418824147061033/reviews?hl=en-US",
+        "census_block_group": 60730175012
+    }
+]

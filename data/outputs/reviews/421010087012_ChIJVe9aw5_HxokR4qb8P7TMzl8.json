@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdXZ2bzB3RRAB",
+        "caption": "",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Fikrtemariam Duressa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116368758936509794546/reviews?hl=en-US",
+        "census_block_group": 421010087012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNWY2bmZBEAE",
+        "caption": "Every time I go here I get something new and it wows me every time.  The prices?  Fantastic The food?  Out of this world!  You have a few seconds of wait time as it appears everything is freshly made and up to super high quality.  I would absolutely recommend the turkey club lunch sandwich or the breakfast bagels.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Matt Byers",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112339162812548699068/reviews?hl=en-US",
+        "census_block_group": 421010087012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbHZXRXVRRRAB",
+        "caption": "Delicious lattes and sandwiches.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Irma Mazariego",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114472054728463133638/reviews?hl=en-US",
+        "census_block_group": 421010087012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDa3FldjdRRRAB",
+        "caption": "Lovely little shop! Stopped in for a cold brew was not disappointed. Great quality, average prices, you can't go wrong!",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Michael Lynch",
+        "n_review_user": 21,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113205096706280997265/reviews?hl=en-US",
+        "census_block_group": 421010087012
+    }
+]

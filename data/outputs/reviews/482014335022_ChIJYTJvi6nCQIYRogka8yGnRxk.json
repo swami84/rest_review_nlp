@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjajZMem5nRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Caitlin Morrison",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112034767636324518651/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbTdURVhnEAE",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Essence Hite",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101338102992547214134/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNM2QtbmVnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "bob hope",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102416165945564538791/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwLVl5N2xnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Perrie Burgin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109193684659483007125/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNFd2VhOWdnRRAB",
+        "caption": "A touch of the motherland",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Mark Conwell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113800961794374655359/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBMzdxYjh3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jeyli Villalta",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100938002099489032193/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaFlEQ1FREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "E p",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101046988157494310018/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRbnJURTRRRRAB",
+        "caption": "I was really pleased  the food is amazing! Large portions of very unique food you can\u2019t quite get elsewhere. Definitely a great experience and a fun time. The servers are great and very proud of their restaurant. Seek this place out, you won't be disappointed!",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Christian Minoue",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113286949143848906808/reviews?hl=en-US",
+        "census_block_group": 482014335022
+    }
+]

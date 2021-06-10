@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaE02eWJBEAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Juan Jose",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112906554331508275210/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OVllbW13RRAB",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "primavera angulo",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117005720955193802194/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dGJqOFpBEAE",
+        "caption": "Is good place",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Rafael Hernandez",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107900587629049103356/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpcUlEMFJREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "Edgar Hernandez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108987813746549655928/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDai1meWtBRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Rosanna Lucas",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110163723783276994351/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeEp2Qy1BRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Carlos Alvarado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102363522564304389616/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDaV9pTFJREAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "esteban villa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112344477940242801404/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbHBLdmpRRRAB",
+        "caption": "(Translated by Google) It's cool, quiet to have a nice time  (Original) Es ch\u00e9vere, tranquilo para pasar un rato agradable",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Julio C. Tauzard",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107284527054044017644/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNcHFyVHJ3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "BASSTER ONE",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107192297326981333782/reviews?hl=en-US",
+        "census_block_group": 360810271001
+    }
+]

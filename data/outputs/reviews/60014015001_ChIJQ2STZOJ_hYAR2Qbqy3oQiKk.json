@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVajZfY1J3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Yoni LopezJuarez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110981872880683433398/reviews?hl=en-US",
+        "census_block_group": 60014015001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVcExERGpnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Giovanni Alvarez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111568270505901376419/reviews?hl=en-US",
+        "census_block_group": 60014015001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0MGFHVHdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Maria Magdalena",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105128799697169910631/reviews?hl=en-US",
+        "census_block_group": 60014015001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0anRHX05REAE",
+        "caption": "Don\u2019t let the location fool you. These pupusas are spot on.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Alexander Ang-Angco",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115694123052356676215/reviews?hl=en-US",
+        "census_block_group": 60014015001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0Z05yWmp3RRAB",
+        "caption": "Friendly neighbourhood taco truck, awesome custom tacos...",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Freedom Funker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115598469704475809199/reviews?hl=en-US",
+        "census_block_group": 60014015001
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDN0tPQVZ3EAE",
+        "caption": "(Translated by Google) The food is delicious with all the Peruvian flavor, its best lomo saltado dish, delicious, the first-class meat, they give it to you made at the moment highly recommended and everything fresh  (Original) La comida es \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Patricia Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104208694527573130750/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzZ2JTVUx3EAE",
+        "caption": "Great staff, great food \ud83d\ude4f\ud83c\udffb",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Espa\u00e7o e Buffet J3D Festas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105552045575672809956/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdWNQa2x3RRAB",
+        "caption": "Great Peruvian cuisine, if you love lomo saltado (sauteed steak strips with onion tomato and cilantro), pollo saltado, grilled steak or chicken, salads and lots of sodas, and drinks to chose from, I'll definitely be back to taste the whole menu......but that's just me, cause. I love Peruvian food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Victor Lopez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115993599319887652721/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNM2NqTXlnRRAB",
+        "caption": "Awful, expensive low quality food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Alen Tatavosian",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108675545075791345334/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    }
+]

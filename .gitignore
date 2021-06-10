@@ -5,4 +5,3 @@ config/
 catboost_info/
 data/inputs/
 geckodriver.log
-data/spark/

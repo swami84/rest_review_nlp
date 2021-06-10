@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bjVTaGR3EAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "CANDACE SIMPSON",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110465922642839999084/reviews?hl=en-US",
+        "census_block_group": 60014013002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpNXJ2M3JBRRAB",
+        "caption": "Doesn't exist",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Ben Yee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103581261017671790842/reviews?hl=en-US",
+        "census_block_group": 60014013002
+    }
+]

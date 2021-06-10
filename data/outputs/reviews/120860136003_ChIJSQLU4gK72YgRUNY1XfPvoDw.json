@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwamFDeER3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 3.0,
+        "username": "Deyaniris Gonzalez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107831317383141411968/reviews?hl=en-US",
+        "census_block_group": 120860136003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdGRYVExBEAE",
+        "caption": "Nice music good food open till 5 am on Fridays",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Lilly Serrano",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116984968169902189393/reviews?hl=en-US",
+        "census_block_group": 120860136003
+    }
+]

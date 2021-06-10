@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZaFByU293RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jose Luis Simon",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102624972333547738468/reviews?hl=en-US",
+        "census_block_group": 360810297002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURvOTlPcGZnEAE",
+        "caption": "(Translated by Google) Great Spanish products at a great price !!!  (Original) Estupendos productos espa\u00f1oles a muy buen precio!!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Javier Valera",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100502986208653402558/reviews?hl=en-US",
+        "census_block_group": 360810297002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvNF92YXl3RRAB",
+        "caption": "5 star",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Oscar Lopez",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100823680461277291987/reviews?hl=en-US",
+        "census_block_group": 360810297002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRc2VIVFZnEAE",
+        "caption": "They have the best food products from Spain and I had a lot of fun looking at the variety of cheese and ham thinking which should I buy to eat and accompany with wine.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Frank Granados",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104644370172456362600/reviews?hl=en-US",
+        "census_block_group": 360810297002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnbG9UZlVnEAE",
+        "caption": "(Translated by Google) The best products from Spain  (Original) Los mejores productos de espa\u00f1a",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Alejandro Vicuna",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108365588313346752650/reviews?hl=en-US",
+        "census_block_group": 360810297002
+    }
+]

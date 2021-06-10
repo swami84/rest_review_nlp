@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5N3VMb3hBRRAB",
+        "caption": "I really enjoyed the food and this is my go to spot",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Sincerely A",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115035299043861161876/reviews?hl=en-US",
+        "census_block_group": 360810803013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDNVp2RkpREAE",
+        "caption": "I ordered from this place tonight and it took over an hour and a half to get here even though it\u2019s only 2 miles away. I ordered online and they never provided me with an estimated delivery time or delivery updates. I called the place 5 \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Noreen Kelly",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112147118941168386566/reviews?hl=en-US",
+        "census_block_group": 360810803013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzZ3ZlTXJBRRAB",
+        "caption": "I really love the food and service, excellent location right next to my home. The employees are always super friendly. Will come visit again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Arnold Ricci",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107598530253175845891/reviews?hl=en-US",
+        "census_block_group": 360810803013
+    }
+]

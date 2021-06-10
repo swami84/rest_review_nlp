@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpbnFMbWx3RRAB",
+        "caption": "Bar food at this spot - great. Certainly worth going back to. Prices are appropriate.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Brittney Robertson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101438659133140299387/reviews?hl=en-US",
+        "census_block_group": 361190031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZN3YtbkVREAE",
+        "caption": "No help",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Darin ORourke",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114206018753286789949/reviews?hl=en-US",
+        "census_block_group": 361190031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnX3NXWHRBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "LumiTV",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111367623465949805851/reviews?hl=en-US",
+        "census_block_group": 361190031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBNW9EME5BEAE",
+        "caption": "A bit boring and the drinks and food wasn't all that",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Embeth James",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100290600284174199220/reviews?hl=en-US",
+        "census_block_group": 361190031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBeEt1RWxBRRAB",
+        "caption": "This is the most satisfying restaurant and lounge in Mount Vernon NY.",
+        "relative_date": "7 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jermane'S Views",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115775815623861342618/reviews?hl=en-US",
+        "census_block_group": 361190031001
+    }
+]

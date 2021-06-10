@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5OXJTWGRREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Jason An",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103394704714060378150/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aXFHa1RnEAE",
+        "caption": "I simply liked their food. I always get fantastic service there. The place is clean and the staff members are always friendly. Highly recommended.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Lyric Ibarra",
+        "n_review_user": 69,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117964390850368909064/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnLXJ6dTd3RRAB",
+        "caption": "Ask for Kev!!!! Makes everything with love & great customer service.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Rachelle Reagler",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109249132827760498424/reviews?hl=en-US",
+        "census_block_group": 481130079133
+    }
+]

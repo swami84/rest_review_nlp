@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjbWZxbnZnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Evencio Alvarez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105133840919810228334/reviews?hl=en-US",
+        "census_block_group": 360610227001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzc282RnNnRRAB",
+        "caption": "The food arrived on time. The packaging is very beautiful. The food was tasty but a tad under seasoned. I would have given the place a five if the chicken was more seasoned. I called the place to ensure my order was recieved and the woman who picked up was very kind over the phone. Presentation-5, Taste-3:5, Service 4.5.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Brenda L",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109412621890098440352/reviews?hl=en-US",
+        "census_block_group": 360610227001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzaEt1N1hBEAE",
+        "caption": "One of my favourite Italian food which is usually very tasty. There aren\u2019t so many piadina spots in the city so i am excited to try this one soon",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Kiariladyboss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110444959236507042957/reviews?hl=en-US",
+        "census_block_group": 360610227001
+    }
+]

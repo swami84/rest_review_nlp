@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLb3Z6cGpRRRAB",
+        "caption": "2 stars for the ladies being so nice. But the service is SO SLOW. I won't be coming back for food here any time soon. Been waiting for over 20 min on one Torta and French Fries",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "A Grain of Salt Podcast",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112831422149259800062/reviews?hl=en-US",
+        "census_block_group": 481130096051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjMGRDZTVRRRAB",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Rafael Del Prado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114636731558813903730/reviews?hl=en-US",
+        "census_block_group": 481130096051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjb2VlN3lBRRAB",
+        "caption": "The worst service you can find racist in all kinds of ways. This guy so disrespectful in everyway highly dont approve",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Benjamin Reza",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112219229361724391465/reviews?hl=en-US",
+        "census_block_group": 481130096051
+    }
+]

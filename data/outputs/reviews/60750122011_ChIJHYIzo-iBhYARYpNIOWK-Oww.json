@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjcHBmWkNREAE",
+        "caption": "We arrived at this restaurant for lunch. This place was recommended to us by a friend.  Well, it was a winning. The staff were extremely nice and we felt fantastic. The meal was great. We had a great time and we shall definitely come back again. Keep it up.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "William Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107242478453835880685/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzNGFQREJREAE",
+        "caption": "Fire fire fire this pizza is delicious 100%",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Nathan Jackson",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113045587248999603745/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzZ0pxWE93EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Bennett McCutcheon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105300332980001450939/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNcmV1VzhRRRAB",
+        "caption": "Mmmm delicious, best in the neighborhood",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "emmanuel delgado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116038100561607236792/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdmNMZGdBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Jonathan Allen",
+        "n_review_user": 20,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104930918524139833815/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwa2FXN0dnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-01",
+        "rating": 5.0,
+        "username": "Please Be Here Now",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110352890457567024694/reviews?hl=en-US",
+        "census_block_group": 60750122011
+    }
+]

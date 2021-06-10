@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcGVDQmd3RRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Shirley G. Traylor",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110403565815344833409/reviews?hl=en-US",
+        "census_block_group": 60372404022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4dC0yU2R3EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "VIDEOS & MEMES",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115347145466646416510/reviews?hl=en-US",
+        "census_block_group": 60372404022
+    }
+]

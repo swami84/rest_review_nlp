@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNXNyXy13RRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "zzz Z",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101011848088902808088/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDgtZ3hRRRAB",
+        "caption": "LOVE IT HERE! This place has amazing dishes!!! I\u2019ve been coming here with my friends for a long time (usually after band competitions). The hot and sour soup is delightfully tangy, the pork belly is tender and flavorful, the braised string \u2026",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Sadie Kaufman",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108278941266957648150/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5LXNlV2J3EAE",
+        "caption": "WARNING!!! DO NOT ORDER FROM HERE! (27-January-2021)  This is THE WORST place. Food is low quality, and the restaurant needs a health inspection ASAP. It looks dirty and gross inside. I'll be submitting a separate complaint to the health \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Brian Carlton",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117865276680284820070/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cU5XcS1nRRAB",
+        "caption": "Excellent Chinese food, ordered the orange beef and general Tso. So far the best that I\u2019ve found in LA",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Andrew Herman",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108307964734342585692/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTd19fVkFnEAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Michael Ong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113756196827913439761/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTOF9Tb1J3EAE",
+        "caption": "I\u2019ve been going here since I was a child.  I think the food at the restaurant is great, but delivery is a whole other story.  Sometimes it takes over an hour to come even though I live 10 mins away, and often things are missing / not like \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Guy Hartstein",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117152910118400880089/reviews?hl=en-US",
+        "census_block_group": 60372678003
+    }
+]

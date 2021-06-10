@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bF9MV2tnRRAB",
+        "caption": "I had a fantastic  in this restaurant. We enjoyed the amazing environment and the food. The staff members were super friendly. I\u2019m glad we finally decided to visit this spot.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Todd Rockey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107590426813691924075/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDei1lMFlnEAE",
+        "caption": "this place is absolutely amazing! if i could give it more stars i would, it's definitely a business worth supporting in these times. they have what is probably the best fried chicken i've ever had. the sides here are amazing too, especially the mac and cheese.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "Willard Ryan",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108330257249118733464/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzdExhRVJ3EAE",
+        "caption": "I regularly come by getting some food in this place. I like the efficient customer service and well prepared food. Fantastic work.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Dash Marks",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109094097515691376450/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnLXRtSEx3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Hazel Amboy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102835685326902247289/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBMDdTS0hREAE",
+        "caption": "Affordable oriental snacks and drinks  :)",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Elena A",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118242613827560640101/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnaWNUYlB3EAE",
+        "caption": "Best mom-and-pop store for Filipino/oriental snacks and products.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Tormund G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115555568426830040232/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    }
+]

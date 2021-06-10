@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVcWJxOEJREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "BLAISE",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113937235562937146729/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNFNGFpQ21nRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "FadedAura",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107055418444005841445/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRdXFTYk9BEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Paull Young",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109652345266844090618/reviews?hl=en-US",
+        "census_block_group": 60371901002
+    }
+]

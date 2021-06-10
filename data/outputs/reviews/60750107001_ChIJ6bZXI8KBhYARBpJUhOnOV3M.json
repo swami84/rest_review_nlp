@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwX05HVXR3RRAB",
+        "caption": "That\u2019s just to cool for words",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Julia Case",
+        "n_review_user": 140,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109850036504455166857/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJMjZ5VEp3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jeronimo Sanchez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112218404131513940751/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRNmNtNkRBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Miguel Angel Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111366089110235022401/reviews?hl=en-US",
+        "census_block_group": 60750107001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR3d3BpUTBRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Justin Galvan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114359466638732594987/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBaDhIRVhREAE",
+        "caption": "Sweet Southern Mom Style Strongly and Thumb Up!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Kenny Kenny",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115002825816786109958/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRcWN2a2JnEAE",
+        "caption": "Pretty reasonable price for foods",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "julie yang",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110196885241589171506/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnZ0xtOEpREAE",
+        "caption": "Can soda.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Skip Whittington",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105388378853366169755/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cXEzTEN3EAE",
+        "caption": "Located inside Amegy Bank. Mostly employees of the bank eat here.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 3.0,
+        "username": "Johnnie Scott",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102435142544452771745/reviews?hl=en-US",
+        "census_block_group": 482011000002
+    }
+]

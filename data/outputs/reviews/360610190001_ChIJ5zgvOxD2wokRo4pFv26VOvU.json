@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnelo3U3lBRRAB",
+        "caption": "Hype n trendy",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Kemoy Gorousingh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107395219036626602640/reviews?hl=en-US",
+        "census_block_group": 360610190001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcE1LY0lnEAE",
+        "caption": "He was to spicy",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "AvertxFoxx999",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115756166877931505691/reviews?hl=en-US",
+        "census_block_group": 360610190001
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aW9HUWFnEAE",
+        "caption": "We like a lot going out. Last night we  found this delicious place which friends recommended to us. We enjoyed a beautiful time there with fine dishes and  an experienced team and an impressive chief cook. We  added this place in our list  and we will no doubt come back very soon.  Highly recommended.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "A Leonard",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101752416745281620361/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcXFIWHZ3RRAB",
+        "caption": "burgers at this place - very tasty. Visited Fri evening I think.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jillian26 M",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117146261733932854406/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwd1lMaVZREAE",
+        "caption": "Outstanding location for tasty Burgers. everyone at our table was very satisfied. staff treated us so kindly. prices were decent. i see why this place has so many great reviews.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "edgar shelton",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116854966084465146942/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVczZyZEJnEAE",
+        "caption": "Does not exist somebodies joke.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "William Sese",
+        "n_review_user": 66,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111348193349679323235/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrazctdHZnRRAB",
+        "caption": "Placed an order through Uber eats and I was really excited but the food was bland, no salt or pepper on the patty no condiments not even the batter on the onion rings were flavorful. I also orders fries and a drink at an up charge but I \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Kaye Bella",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100683418481211092687/reviews?hl=en-US",
+        "census_block_group": 60371253201
+    }
+]

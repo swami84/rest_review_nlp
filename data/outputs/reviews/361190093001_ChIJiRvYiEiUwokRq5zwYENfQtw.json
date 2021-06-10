@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjazhQb2lBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Rachel Clapp",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110113731241113611172/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNazZxMkJREAE",
+        "caption": "great food selections. The staff is always very friendly and welcoming.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Elizabeth",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109582482552684638293/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZdE5fU1RREAE",
+        "caption": "The food is great and fairly priced.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Andre Powell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111850328779565760330/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZeVlTb3VRRRAB",
+        "caption": "Great place for a quick to go lunch",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Gabriel Roman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116355097102549932230/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJcDdiQkxBEAE",
+        "caption": "The food is great and fairly priced.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "juan Rom",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114921539457890472734/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJaHVtSTdRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Juan Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112904620809811692439/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcUpybXhRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Duane Turner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100967141187691585595/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURncDhENXh3RRAB",
+        "caption": "Amazing food !",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Joe Nardi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110942754908825968983/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBOHUybUF3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Krisha Rhee",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115041739728646145762/reviews?hl=en-US",
+        "census_block_group": 361190093001
+    }
+]

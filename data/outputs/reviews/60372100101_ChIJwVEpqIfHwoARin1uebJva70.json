@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNXZ2bkxREAE",
+        "caption": "So so good.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Antonio Thompson",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106675878071330285057/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNenA3ZU1nEAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "pedro svr",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116660374960977703907/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MW9Ub0t3EAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Santos Alberto Carrillo Alvarez",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112701722426852321842/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwbThpbEtBEAE",
+        "caption": "(Translated by Google) The best tacos  (Original) Los mejores tacos",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Alexander blogs",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115059228483887620795/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcGF6WS1BRRAB",
+        "caption": "extremely good! highly recommended! the tacos here are the best",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Valeria Olmos",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114310234303703367491/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcVllR3BBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Wayne Lesnear",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116052376614547712778/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMUtXbERBEAE",
+        "caption": "Best tacos in LA.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jhonny JC&JC",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107747044708123284676/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcG9UYWFBEAE",
+        "caption": "It's super good, prices are right super friendly. Rice's is amazing. They make the tortillas fresh.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Cristian Ortiz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109926339009354580580/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNM3BtOFJnEAE",
+        "caption": "I love the tortilla, they are hand made and the meat is so fresh. Specialy the horchata.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "virginia francisco",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106937818775470044775/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURrMDRUOGhBRRAB",
+        "caption": "The tacos were the best I've had in a while \ud83d\udca3. com",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "ShadowSlayer 11R",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110598999072967783272/reviews?hl=en-US",
+        "census_block_group": 60372100101
+    }
+]

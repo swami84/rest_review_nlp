@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBN0pqLWx3RRAB",
+        "caption": "(Translated by Google) Very delicious and economical  (Original) Muy delicioso y econ\u00f3mico",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Paola Andrea Arenas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117003161324089646729/reviews?hl=en-US",
+        "census_block_group": 360810845003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBdHViZ3dnRRAB",
+        "caption": "(Translated by Google) It's clean, cheap and delicious.  (Original) \u304d\u308c\u3044\u3067\u5b89\u304f\u3066\u304a\u3044\u3057\u3044\u3067\u3059\u3002",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Yoko Saito",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115456737887860602212/reviews?hl=en-US",
+        "census_block_group": 360810845003
+    }
+]

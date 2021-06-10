@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aDVIZ1N3EAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Emily Cordero",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102248620348209523848/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNnZLTHV3RRAB",
+        "caption": "Cool wood fired pizza truck on Drexel's campus. They have interesting combos like pear and goat cheese, also they do nice arugula salads",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Eric Pfaff-Moody",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109549485359586569258/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    }
+]

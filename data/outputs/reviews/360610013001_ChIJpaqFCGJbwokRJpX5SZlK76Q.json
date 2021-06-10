@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpeEtMU2FnEAE",
+        "caption": "Great find for late nights.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jeff Melvin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114858659450097874977/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4aVlQUUd3EAE",
+        "caption": "Excellent, generous-topping\u2019ed, emblematic NY pizza!!!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Christine Morrow",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102915617090822200269/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjOXRPSFRBEAE",
+        "caption": "This must be what Elio's tastes like before they freeze it",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "James Coster",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100318873011702670371/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzaWNMXzRBRRAB",
+        "caption": "An amazing slice of prosciutto pizza pilled high with meat!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "David Jhinku",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108491455838665536037/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

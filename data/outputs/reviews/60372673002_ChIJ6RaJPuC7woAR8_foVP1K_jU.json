@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcG91bEV3EAE",
+        "caption": "I had a lively and tasty dinner with friends here. We went for a few coconut waters and Thai iced teas, which hit our sweet spot. Although, they were a little pricey for the amount of ice they have ;).We went for the chicken Pad Thai, Tofu \u2026",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Jackson Grimes",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111412774115482654311/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjN1kyWk5REAE",
+        "caption": "Thai chicken rice is the best. Try the signature dish. Khao mun gai :) yum yum",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "mootod honghao",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104541956783194160995/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNja2RLTm9BRRAB",
+        "caption": "I wasn\u2019t going to leave details on my review, but the company left a comment asking why I left a one-star review. I came to this restaurant after calling 4 times, only to be sent to voicemail. So I drove to the store, and went to the order \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "James Lantz",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109827919293369379180/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNN0tqT0l3EAE",
+        "caption": "Quick and tasty to go Hainan chicken rice. I will definitely order again.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Chotika Wongwichai",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114872834877287842191/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

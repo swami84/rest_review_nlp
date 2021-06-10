@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLOUtMV19RRRAB",
+        "caption": "(Translated by Google) It\u2019s so sad, I don\u2019t understand why grilled scallops are all cut apart...the pork feet are not good, except for the chicken wings, which are really not delicious, the edamame is all shriveled...it was obviously good \u2026",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "\u60c5\u75b4",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106621719611129990864/reviews?hl=en-US",
+        "census_block_group": 360810865001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bnFlS2tRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "guodong qu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109013723806256054020/reviews?hl=en-US",
+        "census_block_group": 360810865001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpdWN1UUVnEAE",
+        "caption": "If you're not Asian be prepared to wait, they'll place their own peoples orders ahead of others that have been waiting longer for the same exact food. Unbelievable!!!  I'll say that the food is good, not great, but good. The price is matches the food quality.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Mike Fatak",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115367413159584859128/reviews?hl=en-US",
+        "census_block_group": 360810865001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvcjhDUzNBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "Peggy Pei",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103094705649190580310/reviews?hl=en-US",
+        "census_block_group": 360810865001
+    }
+]

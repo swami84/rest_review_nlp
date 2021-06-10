@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLbnNPR2FBEAE",
+        "caption": "Love the broth of Curry Ramen and the Karaage Chicken.",
+        "relative_date": "6 days ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Yasmin Salas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117972906177739709292/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOG9lLU1nEAE",
+        "caption": "Both tsukemen and ramen were great, and matsu cutlet hit the spot. Nice, chewy noodles and well balanced curry",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Liana E",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105935561264239176905/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dDgyWGVnEAE",
+        "caption": "This spot just opened. And it\u2019s so good. Had the curry ramen. It\u2019s amazing. I love curry noodles and ramen so this is heaven. Only thing I\u2019m really missing is tofu as an option to replace the pork. Add that to the menu and this will become my new go-to spot.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christopher Scheimann",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100988882582201895987/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dDlTQThRRRAB",
+        "caption": "Absolutely fantastic ramen\u2014by far my favorite spot in Sawtelle.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Michael Camele",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115416403057599994449/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NjZta0hnEAE",
+        "caption": "",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "David Liu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113928790341668385127/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cnZuZzdBRRAB",
+        "caption": "Small menu of dishes done incredibly well.  So much flavor.  Pleasant and attentive staff.  Can\u2019t wait to come back!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Matt and Emma Morrison",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101861504973631755466/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aXFQczRnRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "jiahua huang",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109408544074221761037/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5ci0yS19nRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Thomas Verdone",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113477180436698601981/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eTRxQUdnEAE",
+        "caption": "I felt like getting anzu and decided to try a small keema rice bowl at their new place (menya tigre).  I forgot how good anzu karaage chicken is and the keema curry rice bowl took it to a whole new level. The rice bowl was a great value for \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Kevin Cohen",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106611556411521227740/reviews?hl=en-US",
+        "census_block_group": 60372677002
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MmNTX1FBEAE",
+        "caption": "Nice and good place!!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Christine Lee",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107643902267206811977/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN19xZzR3RRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "David K",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114977162681690667327/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDZzRIRDJRRRAB",
+        "caption": "Tasty tea and raspberry cake. Very friendly stuff. I like this place.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Aigul Rakhmetova",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105063251376026351123/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

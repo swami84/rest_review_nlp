@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d3NEOFVnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Marcos Rojas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105715055518608914443/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5aE1PV2xRRRAB",
+        "caption": "last night was the first time in this restaurant. But It is absolutely not the last. We enjoyed the evening a lot with the generous service, with the exceptional  meal and fine drinks and with the decent payment. We will surely come back in a short time.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Yahir Richmond",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114207975774648004776/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cUl2cWNBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Alexis Arias",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117257606388748840136/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTcGVqaFF3EAE",
+        "caption": "(Translated by Google) The food is fine, but the service is excellent. \ud83d\udcaf\ud83d\udc4d Thank you.  (Original) La comida esta bien,  pero el servicio  esta excelente. \ud83d\udcaf\ud83d\udc4d Gracias.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Miguel Jarochov",
+        "n_review_user": 26,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112780344017697275693/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTMHZLQWd3RRAB",
+        "caption": "(Translated by Google) Good meals and nice place to enjoy some very cold beers  (Original) Buenas comidas y lugar agradable para disfrutar de unas cervezas bien fr\u00edas",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Daniel Galicio",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114607460243532335313/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDajdyWkFREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "raul Juarez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108628414024431375105/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNd2VYcWlBRRAB",
+        "caption": "The best mexican food ever",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "M Larrea",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107403020901129727008/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRa0ppcXFBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Mauricio Parroquin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109093024022634509043/reviews?hl=en-US",
+        "census_block_group": 360810375002
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5djlDMmJnEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Vanesa Bengtsson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112762164389833635226/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MW9tUmtBRRAB",
+        "caption": "Tried to go but its closed and under construction indefinitely",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 3.0,
+        "username": "Ian",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108531135057608050073/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURFeW9teVR3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "MARTA BOZA",
+        "n_review_user": 48,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115129571883754748209/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvdUl5UTR3RRAB",
+        "caption": "Lovely Peruvian restaurant! Amazing menu, great service, great drinks!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Eva-Marie Ankuma",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108819793163311694387/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBaXVMdU53EAE",
+        "caption": "(Translated by Google) Wasska Lounge. In this cozy bar & lounge in Miami, I had the pleasure of contributing with a photographic report of the \u00a8Sandy Relief Fashion Show\u00a8 event on November 21, 2012, the purpose of which was to raise funds \u2026",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "H\u00e9ctor Falag\u00e1n De Cabo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116929405721718340963/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnb29XellBEAE",
+        "caption": "Nice place",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Peter USA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118166200617624929907/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnci11T193RRAB",
+        "caption": "Joint part of chi.che 105 super good. Exciting atmosphere  with great lighting and decor.   Food is  awesome a lot of flavor Peruvian style food   we ate at the bar and Felix n. Yasmani we're awesome as well. Help find what I would like on \u2026",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Carl Francis",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109163170024936596748/reviews?hl=en-US",
+        "census_block_group": 120860037028
+    }
+]

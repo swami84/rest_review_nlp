@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwbXRQUlRREAE",
+        "caption": "Friendly staff and new building.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "TIm Larkin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112530713683788116307/reviews?hl=en-US",
+        "census_block_group": 480291110002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNZdEpHeWRREAE",
+        "caption": "Nice staff",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Calvin Rich",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116310774931547901922/reviews?hl=en-US",
+        "census_block_group": 480291110002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvcjdPRFBBEAE",
+        "caption": "They were very helpful in setting up my first brokerage account and explained everything to me since I'm very new to investing. Also they have a 24 hour line with professionals which is great whenever I have an investing question!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Lauren Brian",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103522764507194092095/reviews?hl=en-US",
+        "census_block_group": 480291110002
+    }
+]

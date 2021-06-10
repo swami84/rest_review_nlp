@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJeUoyTkxREAE",
+        "caption": "One of my favorite places to visit, especially when it's cold out.  It's tucked away against the back wall, but definitely worth the stop.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Erik Shinn",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115411629102889268634/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNneDZEZnBnRRAB",
+        "caption": "Best chicken salad sandwiche!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Dawn N",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112905001706767070381/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRZ3VLR0dREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Randall Rigg",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100034702348244094711/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3dnJQZFRnEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Rodney Cherry",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105269517065586831736/reviews?hl=en-US",
+        "census_block_group": 421330001001
+    }
+]

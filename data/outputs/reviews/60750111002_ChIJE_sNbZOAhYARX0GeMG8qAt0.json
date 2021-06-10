@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MFozMThRRRAB",
+        "caption": "Dutch Crunch turkey with provolone, yum!  Great sandwiches at a good price. 1 feeds two. Thank you \ud83d\ude0a",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "jesse garcia",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117006534104570210890/reviews?hl=en-US",
+        "census_block_group": 60750111002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURFcHVUZkNREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Rhuddhesh Kirtikar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101181890513789107220/reviews?hl=en-US",
+        "census_block_group": 60750111002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBNElMZVd3EAE",
+        "caption": "Cheap homemade sandwiches to go.",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Chad Tuckerman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116022048132647960195/reviews?hl=en-US",
+        "census_block_group": 60750111002
+    }
+]

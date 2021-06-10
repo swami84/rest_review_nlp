@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OEozVzZ3RRAB",
+        "caption": "Delicious, fresh, tasty Ethiopian food! This spot has only been opened a week but I'm sure they will have a successful future, the quality of the food speaks for itself. I had the lamb tibs and veggie combo and both were divine. Also tried \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "ethogirl1",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102945595314335503240/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OEpxeDNRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Elizabeth Yemane",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112370484923797592590/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MEpHenRRRRAB",
+        "caption": "Fresh and delicious i will visit again!!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Fethiya Kedir",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101216331784157605993/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    }
+]

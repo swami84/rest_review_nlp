@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbWVfZENREAE",
+        "caption": "(Translated by Google) very rich food I really recommend it  (Original) comida muy rica en verdad lo recomiendo",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "David Williams",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109907210681925588883/reviews?hl=en-US",
+        "census_block_group": 120860049013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbmEybXVRRRAB",
+        "caption": "I eat in this spot a lot since I work in the area. I got to say their service is always awesome and they keep the spot neat all the time. Pricing is fair and they serve sizeable portions.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "chanhtin nguyen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110608900067453964251/reviews?hl=en-US",
+        "census_block_group": 120860049013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMmJmeVN3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "chilly chunflai",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106381303145711589410/reviews?hl=en-US",
+        "census_block_group": 120860049013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndlpqYW5nRRAB",
+        "caption": "(Translated by Google) The tacos are spectacular, my favorites are al pastor, very good service, calm and organized place, cold beers and tacos, life itself  (Original) Los tacos son espectaculares,mis preferidos son al pastor,muy buena atenci\u00f3n,lugar tranquilo y organizado,cervezas fr\u00edas y tacos,la vida misma",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 4.0,
+        "username": "LeoSMG",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104585536788032988388/reviews?hl=en-US",
+        "census_block_group": 120860049013
+    }
+]

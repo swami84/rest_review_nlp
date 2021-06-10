@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcG9fSW5RRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 3.0,
+        "username": "Juan Carlos Gomez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107416962650569629654/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM0anVmZmxnRRAB",
+        "caption": "Beautifully put together,great music to get you dancing but even better food and drinks!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Marvy MillzTM",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114937380014699808317/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURncnRtSVVBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Jesus Omar Sierra",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100154495945132649997/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNndVBTV1NBEAE",
+        "caption": "Excellent food and nice attention.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Nelson Granado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116516187521995026198/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNndDVhWXJ3RRAB",
+        "caption": "Don't waste your time, there are two taqueria's within a stone's throw of this place that are better. That's not an exaggeration either. There is one in the Exxon gas station next door and one in the hut across the street from that. I recommend the gas station.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Shawn H.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100006911662183318945/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3LTVmYW9nRRAB",
+        "caption": "Great",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "nai",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113696290589893324600/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd1lfNEpREAE",
+        "caption": "Haven't been there.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "John Tribble",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106993415564801034666/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnemRyYlp3EAE",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 3.0,
+        "username": "Margarita Manrique",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105344413088703096645/reviews?hl=en-US",
+        "census_block_group": 481210217392
+    }
+]

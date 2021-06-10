@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcXVXeHp3RRAB",
+        "caption": "Excellent ambience and super attentive service. The menu was crisp and delightful. Will clearly recommend this spot to my friends. Reasonable prices and big meals. Keep up the great work.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Armani Crawford",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109536130139633693466/reviews?hl=en-US",
+        "census_block_group": 481130079141
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwNGF1SDFRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Marcey Fortune",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108930879310501441917/reviews?hl=en-US",
+        "census_block_group": 481130079141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZbEkyaENREAE",
+        "caption": "Nice",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "David Braly",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115007580925764090612/reviews?hl=en-US",
+        "census_block_group": 481130079141
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpa0llT1hREAE",
+        "caption": "This place was really good, we came here in October and sat outside and got skewers (lamb, beef, and shrimp) which were awesome, especially the lamb. We also got budaejjigae (\ubd80\ub300\ucc0c\uac1c) and it was crazy filling, in its kimchi, ramen, rice cakes, spam, etc. They offered us beer on the house too. Good spot.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Diana L",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118338834475959281215/reviews?hl=en-US",
+        "census_block_group": 360811171001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURreWF5QmNnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Won Jung Yun",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112139307616263615858/reviews?hl=en-US",
+        "census_block_group": 360811171001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbmN2QTlnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Kim Myeonghwan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112044674788318360331/reviews?hl=en-US",
+        "census_block_group": 360811171001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNZNHVmdnB3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Jung Kim",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106950297513036272866/reviews?hl=en-US",
+        "census_block_group": 360811171001
+    }
+]

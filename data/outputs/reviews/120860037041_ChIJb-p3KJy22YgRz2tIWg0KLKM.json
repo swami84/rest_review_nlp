@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dVBtT0h3EAE",
+        "caption": "Awesome and fresh food, I like the atmosphere this place has, and the workers were nice. I will surely come back.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Brett Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102130637952052670344/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5LTlXVF9nRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Laura Abreu",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106349896052090674790/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4cDZIWEp3EAE",
+        "caption": "I eat here a lot since I work right next to it. I love how their service is always fantastic and they keep the place well kept constantly. Rates are convenient and they serve generous portions.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Ezekiel Marquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102170477235865456319/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjenVESkpREAE",
+        "caption": "This restaurant provides first-rate service and yummy meals. The best spot in town. The meals came out rapidly and the rates were fair. Will definitely recommend this restaurant.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "David Rouse",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111355367686684835276/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNGZ1VFpREAE",
+        "caption": "This spot never fails to impress. They serve awesome food for fair rates, there are no long waits even when the spot is full.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Javier Graham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115052113032140630403/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    }
+]

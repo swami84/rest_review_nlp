@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNODVMXzd3RRAB",
+        "caption": "Everything I\u2019ve ordered here was great. I especially love the breakfast",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Jim Traynor",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105895098393748069230/reviews?hl=en-US",
+        "census_block_group": 360810997032
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNeGR5eXhnRRAB",
+        "caption": "I had the fresh roasted turkey and it was awesome. My friend had the fresh roast beef and she loved it as well. We both had a yummy salad too. The food is very fresh and the customer service is excellent! Highly recommend!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Dr. Cori Stern Take Control Of Your Health",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107759474696366756405/reviews?hl=en-US",
+        "census_block_group": 360810997032
+    }
+]

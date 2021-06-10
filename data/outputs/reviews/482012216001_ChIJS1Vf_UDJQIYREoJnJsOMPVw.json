@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5dktTS3NBRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Heltons Diaz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101008316205515879105/reviews?hl=en-US",
+        "census_block_group": 482012216001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5NUthMHpnRRAB",
+        "caption": "(Translated by Google) Those churros are delicious, with cajeta and lechera !! Good service and price. I have to go back soon !!  (Original) Son deliciosos esos churros, con cajeta y lechera!! Buen servicio y precio. Tengo que volver pronto!!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Jessica Estrella",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113110655308172590083/reviews?hl=en-US",
+        "census_block_group": 482012216001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cEp2SFl3EAE",
+        "caption": "(Translated by Google) They are very friendly, the churros and the champurrado are very delicious, the churros especially with lechera and cajeta, I loved them I will definitely return :)  (Original) Son muy amables, los churros y el \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Anairis Ventura",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105643392963144887958/reviews?hl=en-US",
+        "census_block_group": 482012216001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5MGFYWVVREAE",
+        "caption": "(Translated by Google) Friend! They are the best Churros around here, highly recommended, the champurrado is also very good  (Original) Amigo! Son los mejores Churros de por aqu\u00ed, muy recomendados, el champurrado tambi\u00e9n est\u00e1 bien bueno",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Eliel Vj",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100697387465916217426/reviews?hl=en-US",
+        "census_block_group": 482012216001
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNrLW9IVm1RRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Manoor Channel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111764033209388784479/reviews?hl=en-US",
+        "census_block_group": 60372672003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJbWItYXh3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Thamer Althubety",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109501886423350713118/reviews?hl=en-US",
+        "census_block_group": 60372672003
+    }
+]

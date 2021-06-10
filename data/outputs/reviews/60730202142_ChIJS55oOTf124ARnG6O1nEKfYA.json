@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdGVUYWhnRRAB",
+        "caption": "Great place. Friendly folks and a locals hang. Solid burger and live music. Go here!",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Andrew Salisbury",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103778057665752068230/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cUxXQ2hBRRAB",
+        "caption": "Great spot in Escondido that has something for everyone 's palate. We had the Ramen and it was incredible. Great patio seating as well and dog friendly. Private areas for having large groups and events.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Shonna Gearhart",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102299153360162835336/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5eThxQkNREAE",
+        "caption": "The food is amazing and love the Bulgogi pizza! Great vibe and definitely going back.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Chris Williams",
+        "n_review_user": 35,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115440246273602323705/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aTh5a2FBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Andersen Family",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115605250136214786206/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MC1maHFRRRAB",
+        "caption": "New place. Great place. Outstanding tap beers and wine selections. Yes I enjoyed both. And someone shared sake with me. Their ramen is tasty. I prefer the individual pizza (margherita for me). And really nice nice owners and servers.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Bob H",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107564667647078959006/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Z19hVmVREAE",
+        "caption": "Pizza and Bulgogi fries are a must! Cool, little spot down Grand Ave.  Waited to post until a few visits.....the food and beer selection are growing daily.  Do yourself a favor and step in for a pint....will not be disappointed.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Larry O",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116190469860602915682/reviews?hl=en-US",
+        "census_block_group": 60730202142
+    }
+]

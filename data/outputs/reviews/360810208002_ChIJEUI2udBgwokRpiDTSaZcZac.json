@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLanNXUVdBEAE",
+        "caption": "",
+        "relative_date": "a day ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Yaqui Escobar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103913285551092667391/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpa2VxOFNnEAE",
+        "caption": "Very good food!  Very fast and I can't wait to try their breakfast!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Sharon Rudolph",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113900123941691049718/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDOXB5S053EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "erlina thomas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111632150308376173191/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDcXNuaEtnEAE",
+        "caption": "Good place for fast breakfast",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Pedro A.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112760368472050270445/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwekt1WmV3EAE",
+        "caption": "Wonderful food!!!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Carlos Moya",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114480219771347058448/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0NVpMZGRBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Llasmin Silvestre",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115010897517967961502/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJNDZxbmtRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Elizabeth M.",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102233320888927104690/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dTdPNFNBEAE",
+        "caption": "Stopped by while we were shopping at the Ranch Market.  Got fried pork dumplings, and they were very tasty and went well with the sauce they were served with.  Good food!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Derek Gantt",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111474493420140780393/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdTdHbG1BRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Awkward Potato",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103479941394894995137/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNWYzMGh3RRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "ItsDub C",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112366072349444114166/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpMDl1dm1nRRAB",
+        "caption": "Delicious pot stickers here! Beef noodle soup loaded with shank meat. Traditional hot n sour soup $3! Yea boy.",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Soo Chin",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100912777724382114511/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbXFQSkdnEAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sean Nored",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112676018743711689408/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzME5TV3JRRRAB",
+        "caption": "Food was ok and price was reasonable. But when I asked for a disposable bowl to take home the left-over, the female clerk refused first and then asked for 50 cents. Really? I don\u2019t believe I\u2019ve ever seen this kind of practice anywhere in the world.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "B B",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100676373100787543731/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwNFpTZWRnEAE",
+        "caption": "Great food.  Dumpling with beef soup.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Richard Santos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102159612241570759034/reviews?hl=en-US",
+        "census_block_group": 482015223012
+    }
+]

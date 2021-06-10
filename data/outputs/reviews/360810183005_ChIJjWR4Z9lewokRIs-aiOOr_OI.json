@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNc2RIMFlREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "Ifernando Allaico",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112524781251284339033/reviews?hl=en-US",
+        "census_block_group": 360810183005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwdG9QblNBEAE",
+        "caption": "Small no frills eatery, mostly local neighborhood people come here. Spanish food is basi served.. The coin operated  ride in the front of the store is a great treat for your small kids.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "MarkGoldberg Brooklyn",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110911319192512460944/reviews?hl=en-US",
+        "census_block_group": 360810183005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJMXEzOGNnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Beatriz Tapia",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103958328693402654285/reviews?hl=en-US",
+        "census_block_group": 360810183005
+    }
+]

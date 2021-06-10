@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNjlhX1JBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Tahsin Afgan Chowdhury",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113696977096456283174/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDMjl2UWhRRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Md Shaker",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117066328864576696595/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDeWJpU2d3RRAB",
+        "caption": "Best dollar slice in market",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Saber Barkat",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118001049258728625714/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN3UzTXBBRRAB",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "farzana shaker",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118169273013850204858/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDN3EyRlhnEAE",
+        "caption": "soo good",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "shaker shaikat",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103447415795296802907/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDN3EyTTR3RRAB",
+        "caption": "best $1 slice......i ever had ,",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Farzana Shaker",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109450873532407304909/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDLXQtNk1nEAE",
+        "caption": "This pizza is \ud83d\udd25 fire, Soo good",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "md shaker",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108880839789420707443/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    }
+]

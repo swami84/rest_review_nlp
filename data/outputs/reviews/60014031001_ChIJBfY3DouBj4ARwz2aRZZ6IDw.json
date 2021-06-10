@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdnFmc0dBEAE",
+        "caption": "",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Syamantak Roy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110003664859871540966/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLN1AzOWtRRRAB",
+        "caption": "Very clean restaurant.  Staff is very complimentary with current COVID 19 safety regulations. Food is fresh and delicious.  Staff are very friendly and courteous. A must visit place if you're in the Bay Area.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Derek Tempongko",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112891566865228185738/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDVmMDB3RRAB",
+        "caption": "Slow as hell and tastes just ok but not recommend",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Sagar Basnet",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101544116105983274333/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5Nk5HSkZBEAE",
+        "caption": "Very tasty food at reasonable prices - portion size was a little smaller than expected but overall would recommend",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Adam W",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115803272028114543438/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cGI2OXl3RRAB",
+        "caption": "Like Panda Express for Japanese food, but Panda is at least 1 level up. Food came from across the street and it was room temperature which made the food not enjoyable.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Carrie G",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116246965655595284260/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cGE2dm5nRRAB",
+        "caption": "I tried gyu kaku for the first time since my girlfriend said she had tried it before and the food was good. We ordered pick up, the staff seemed extremely friendly and the food was reasonably priced and really tasty. The shrimp garlic \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Oscar Bowden",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100680300069215068009/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5Z0tiUXFBRRAB",
+        "caption": "Had a craving for the Kalbi and the Bento definitely hit the spot. Good amount of food and was super filling.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sameer Karim",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116359426711640591120/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5Z0pUWFBBEAE",
+        "caption": "I didn\u2019t realize Gyu-Kaku was open in Oakland until I saw it on the Uber Eats app. I had a craving for their salad and it didn\u2019t disappoint. Can\u2019t wait for indoor dining to reopen again.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Yoichi Miyazaki",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102882390015866429763/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    }
+]

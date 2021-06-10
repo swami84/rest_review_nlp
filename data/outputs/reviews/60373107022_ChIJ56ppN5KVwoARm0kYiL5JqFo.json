@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLb2VtMUVnEAE",
+        "caption": "Great food, good service.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Miles Theron",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111253150341942622377/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MV9fZDNnRRAB",
+        "caption": "I got their Signature Burger. Their picture of it looks amazing. Ordered it without fries because in picture looks enormous. But...it was flat, the bread mediocre. Foster Freeze burger tastes better, it's bigger and even with fries is half the price. The staff was nice.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "Whisper Films",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117661087704130576556/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cWZLek13EAE",
+        "caption": "Yum.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christopher Petzel",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100288041350694639146/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cC02MWh3RRAB",
+        "caption": "Awesome",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christopher Petzel",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117213029954701090867/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NHJUNDF3RRAB",
+        "caption": "Great new spot in Burbank - nice to see folks making an effort - we have done takeout and delivery and enjoyed all.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "MC Fabeo",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104522757519912030344/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNjgtZmpRRRAB",
+        "caption": "Great new addition to Burbank + lots of choices + Fried Chicken & Waffles + Fish and Chips + deli sandwiches + Grilled Cheese + Wraps",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Alan Moore",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118263330251129549545/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpbVlHbUp3EAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "A Ruletka",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116920674278190711714/reviews?hl=en-US",
+        "census_block_group": 60373107022
+    }
+]

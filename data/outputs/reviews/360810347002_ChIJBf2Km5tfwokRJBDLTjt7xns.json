@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjNEx1a2pnRRAB",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jorge Morales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114375011611362224248/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjaF9XYTdnRRAB",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "Manny Arzola",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116950382064373453603/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwb3NiQ0V3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Bruno Castro",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109865455139742986624/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVNnYzMUtREAE",
+        "caption": "Great food , great people and great prices can\u2019t go wrong coming here",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "melina herrera",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109856023037760654840/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURndmZHeVV3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Cesar Riveros",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113145492244284765287/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNncThfYnJBRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Charles Hegenauer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106793711701008155731/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnd0tTbUhREAE",
+        "caption": "Great food. Great people. Can get a little crowded between 11AM-12PM",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Ramon Amaro",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116019526540264531232/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBd291d1hBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Jeff Bruzzo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103651916325000190761/reviews?hl=en-US",
+        "census_block_group": 360810347002
+    }
+]

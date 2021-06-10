@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNNMGJhekFREAE",
+        "caption": "Nice people and cheap",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jilly Bean",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101406560459408194683/reviews?hl=en-US",
+        "census_block_group": 60372213031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwMVByalFnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Raymond Lorenzo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104784216397295764728/reviews?hl=en-US",
+        "census_block_group": 60372213031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRbnBLWVJ3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Gregory Guerra",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116684762525868931792/reviews?hl=en-US",
+        "census_block_group": 60372213031
+    }
+]

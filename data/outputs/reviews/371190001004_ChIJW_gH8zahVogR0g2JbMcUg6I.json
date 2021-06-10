@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzb2E2Z2tnRRAB",
+        "caption": "I really enjoy their mocha latte here, the coffee has just the right amount of bitterness. Recently added a shot of caramel to that and it's turned out to be awesome.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Farah Naz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106303920793375229607/reviews?hl=en-US",
+        "census_block_group": 371190001004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNU03ZHB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Josh Foster",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100214042045254784939/reviews?hl=en-US",
+        "census_block_group": 371190001004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNd0tUc3VnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Manuel Martin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108133739532697856055/reviews?hl=en-US",
+        "census_block_group": 371190001004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVMS1qUlNREAE",
+        "caption": "Great spot, use counter culture coffee, LaMarzocco Machine and super friendly staff.  Tucked away in the plaza for Hearst Tower.  Would recommend!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Mike Knapp",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101581191028822456513/reviews?hl=en-US",
+        "census_block_group": 371190001004
+    }
+]

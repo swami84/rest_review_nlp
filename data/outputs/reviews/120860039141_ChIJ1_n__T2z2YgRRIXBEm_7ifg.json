@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdzlYQWZBEAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 2.0,
+        "username": "andyto aguila",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100216453724555386067/reviews?hl=en-US",
+        "census_block_group": 120860039141
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjMnNuNEpREAE",
+        "caption": "Wings were super dry. Terrible food.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Daniel P",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106636309290162554555/reviews?hl=en-US",
+        "census_block_group": 120860039141
+    }
+]

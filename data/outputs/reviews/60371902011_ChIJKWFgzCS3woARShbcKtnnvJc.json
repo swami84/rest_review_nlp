@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTay1pS2VREAE",
+        "caption": "This place obviously knows how to serve their clients. Regularly with a kind demeanor. The food is affordably priced, always tasty and neat.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Archer Ho",
+        "n_review_user": 15,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109120106260965919399/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpbVlqZ0hREAE",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "JEM Inc",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108386111941436151660/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpNU4ybmFBEAE",
+        "caption": "I regularly stop purchasing some food here. I loved the quick service and well prepared food. Keep it up.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "John M",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105143852631302262575/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDeGJDeVlBEAE",
+        "caption": "This food is really good! I had the surf and turf sandwich and a mango smoothie. The meat has alot of flavor and I liked the spice level.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Thomas Lowery",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104882799524463006943/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDcEpIaTlRRRAB",
+        "caption": "Delmar (owner) is THE man. Every meal is so flavorful, I highly recommend  the oxtail. I had an item accidentally left out of my order, and Delmar took care of the issue SO fast, and he went above and beyond. Amazing and unforgettable service.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Alyssa Escarcega",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111570970089988894870/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4a3BHVmpnRRAB",
+        "caption": "I admire this place very much. theres a nice atmosphere. The cuisine is great. the service is effective and the stuff is very professional. The cost is reasonable. deeply recommend.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Justus Orozco",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109407194119843104455/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    }
+]

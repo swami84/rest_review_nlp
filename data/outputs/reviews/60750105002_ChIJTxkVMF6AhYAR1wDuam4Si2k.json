@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcEpDTG53RRAB",
+        "caption": "We could not be happier, from the process of planning our kitchen to the final product.  Craig really has a vision for making the space as functional and efficient as possible while balancing with the aesthetic aspects.  A perfect combination for us in our small kitchen that doesn\u2019t feel small anymore!",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Ashley Fors",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113950436045956166592/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzLXZtMHp3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Leonardo Lobo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114953994255883400989/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBejZyS0lnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Jonathan da Costa",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103026488591200659497/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnZ0xQS19nRRAB",
+        "caption": "We used CJB when we redesigned our kitchen, including adding a new island to coordinate with our existing cabinets.  Craig's showroom offered lots of options for cabinetry and countertops, and his design of the island fit our needs perfectly.  We love the results!",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Pat Calley",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112146944408206213161/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    }
+]

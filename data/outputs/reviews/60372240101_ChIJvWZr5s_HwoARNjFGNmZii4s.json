@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4aGRXejlnRRAB",
+        "caption": "This is a review for take out. The good: Place was clean and the personnel had gloves and face mask. Overall pleasant attitude. The bad: parking not available. The mediocre: the food was fine. Not terrible, not great. We ordered Pad Thai, \u2026",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Charles Jackson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110704206996042523566/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNdC1UY3JRRRAB",
+        "caption": "This place provides fantastic service as well as delicious food. My favourite restaurant in town. The food arrived quick and the prices are affordable. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Christopher Owens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113127625491103682611/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQweXRXWlNBEAE",
+        "caption": "This place is doubtless one of the tastiest restaurants in the region. Always when I come to this place I am remarkably glad. They manage their high  standard service and the highest level of cooking  they give. You surely will enjoy this this place. Warmly  recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Kade Lucas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108885904586893823518/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwMmVibHdBRRAB",
+        "caption": "This spot is worth a visit. They have big portions for fair rates. Constantly well kept and with awesome vibes. Highly recommended.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Matteo Contreras",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112296859854371267693/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    }
+]

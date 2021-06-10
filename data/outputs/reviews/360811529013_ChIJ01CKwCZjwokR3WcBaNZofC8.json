@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5bXRXdjZnRRAB",
+        "caption": "Food was incredible. Everything I ordered was great and I'm super picky about vegan food. Definitely my new go to place because it's not easy finding good vegan places in this area.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Hans Inglish",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102643425806762700007/reviews?hl=en-US",
+        "census_block_group": 360811529013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTd0xQU1B3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Amy Chen",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115262038700894395360/reviews?hl=en-US",
+        "census_block_group": 360811529013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNTd0xQbzhnRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u9648\u7fc1\u946b",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101228883131825625750/reviews?hl=en-US",
+        "census_block_group": 360811529013
+    }
+]

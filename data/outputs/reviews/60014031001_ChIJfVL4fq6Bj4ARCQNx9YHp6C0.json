@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTblpfeTl3RRAB",
+        "caption": "I actually like the food and service, good location next to where I live. The workers are always friendly. Would recommend to others.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Dominique Rodriguez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101291704220411459261/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzOTZYRWVREAE",
+        "caption": "Beautiful, convenient location. Not a lot of indoor seating, so it\u2019s best for take out. I like the shaking beef curry bowl.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Michelle Peralta",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117366772384926734619/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzODhUTlNREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Bunthoeun Hack",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113940534815642013286/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzLVpiNzZ3RRAB",
+        "caption": "The concept is cool and the restaurant looks nice. However, I would pass on this one.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Pietro Puducay",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107068286307008975371/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNlozYndnRRAB",
+        "caption": "I gave this place a shot after trying in SF, why not right?! I went for the Japanese food. I had again had a bad experience. They saw me in line and made me wait,  then rush me through the order. I requested the northern catch and they \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Cindy C.",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101268744173596810480/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzNllyeVVnEAE",
+        "caption": "The food was ok, the only great thing is the rice  was cooked perfectly and it was hot and fresh",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "e huey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103234645816205552148/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzbHNmWENBEAE",
+        "caption": "Not good. No sriracha in the building. Japanese window is bland; \"spicy tuna\" is not spicy, and doubtfully fresh. Vietnamese window also dull, and made me sick immediately after. Green beans are rubbery. Broccoli tasted a bit past its due date. Not risking the Indian window.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 2.0,
+        "username": "Kimberly Pye",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102929383495563208053/reviews?hl=en-US",
+        "census_block_group": 60014031001
+    }
+]

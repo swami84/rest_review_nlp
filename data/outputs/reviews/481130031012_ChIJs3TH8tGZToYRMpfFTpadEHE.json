@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d1lYZGJBEAE",
+        "caption": "Awesome atmosphere..cocktails..and staff",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Demi Saint Laurent",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107807516874317131533/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5aHJUbVJnEAE",
+        "caption": "Tessa and Jonathan are beyond fabulous!  Fantastic food. Enjoyable drinks.  Amazing service again.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Chantal Logston",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104763861943081173668/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTZy1PM3hBRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Eduardo Gonzalez",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100001236805429261566/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    }
+]

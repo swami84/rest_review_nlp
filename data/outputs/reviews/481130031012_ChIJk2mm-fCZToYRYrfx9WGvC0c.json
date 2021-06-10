@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjdkstbW9nRRAB",
+        "caption": "Great chicken salad!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Kathy Jordan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100694468677389262903/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzNjllX3F3RRAB",
+        "caption": "Very good food & healthy...I sure would like to work there..Let me know if you need any good cooks",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Anthony Oliva",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107538638149413586432/reviews?hl=en-US",
+        "census_block_group": 481130031012
+    }
+]

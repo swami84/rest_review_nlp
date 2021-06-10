@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLMXVlS3RBRRAB",
+        "caption": "",
+        "relative_date": "3 days ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "David Taus",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115969345278238878465/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBbDRUcy1nRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Fakhrul Islam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110393414429224160420/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZckttVVp3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Not suitable for all ages",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111669852448216046066/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJdTVHSFBBEAE",
+        "caption": "Best 99 c pizza I ever had.I also tried their mix vegetables pizza which amazing.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Nabila Islam",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109108024876098044954/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJLUpIWjNRRRAB",
+        "caption": "Amazing hole in the wall pizza !",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Peter Hatzioannides",
+        "n_review_user": 123,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116386830505861260509/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnaWNmcGJ3EAE",
+        "caption": "Really good pizza and their beef frank,I loved it.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Pamela Goldberg",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111417509749624596721/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBMDVxQVFnEAE",
+        "caption": "Simply delecious !!!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Mike Johnson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103324171575182239789/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRanNQMW1nRRAB",
+        "caption": "I had really good experience with them but they had indoor space than it could have been great.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Juan Perez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103516170465872308714/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBcEtPVEVREAE",
+        "caption": "It\u2019s a great place to have pizza. The stuffs are really friendly and quick. I loved their pizza very much !",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Hizbur Rahman Jibon",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103786577038374644629/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    },
+    {
+        "id_review": "ChRDSUhNMG9nS0VJQ0FnSURnMk1JYhAB",
+        "caption": "Wow best pizza I ever had in this price range and I also tried their beef hotdogs which is amazing.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "CREATIVE USA",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105838270957800755022/reviews?hl=en-US",
+        "census_block_group": 360810446012
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ejV1X1hnEAE",
+        "caption": "The thing that bums me out is their food is delicious, but the fact that they told me $20 as a total and then when I got the receipt emailed to me it was for $23.  This is the second time the amount that was charged was different than the \u2026",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Jay Koch",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114380755170491829149/reviews?hl=en-US",
+        "census_block_group": 60372966002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTaTVtNWZBEAE",
+        "caption": "Favorite taco truck in San Pedro. They take credit cards with a fee.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Paula Seo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108199098893062073706/reviews?hl=en-US",
+        "census_block_group": 60372966002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjd3FiOExREAE",
+        "caption": "Bomb food!!",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Corina Padilla",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116179110104278528911/reviews?hl=en-US",
+        "census_block_group": 60372966002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwOXRMMUdBEAE",
+        "caption": "These tacos are super dank. Better than the other trucks in town by far. Cash only so be ready.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Andrew Ray",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103960571725101610639/reviews?hl=en-US",
+        "census_block_group": 60372966002
+    }
+]

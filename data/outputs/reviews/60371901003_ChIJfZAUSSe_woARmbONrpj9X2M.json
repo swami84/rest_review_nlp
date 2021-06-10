@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMXFlVlRBEAE",
+        "caption": "Just a fantastic experience. The food, the service the views and the company were all exceptional.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Christi Johnson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108964324120700479669/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NTdTRlhBEAE",
+        "caption": "Great experience, wonderful creations and one of a kind service! Thanks",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Brent B",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105136642065487076480/reviews?hl=en-US",
+        "census_block_group": 60371901003
+    }
+]

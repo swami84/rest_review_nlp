@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNanBlaVF3EAE",
+        "caption": "20 minutes for 1 item???",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Jeff Gervais",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100613751533578508974/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNckwzNlBREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Chris Hauge",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117837396188197453133/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNcGM3OTRBRRAB",
+        "caption": "This place is unique. Located inside the Anaheim Packing House on the bottom floor, they offer waffle dogs, waffle cheese sticks and fresh agua frescas.  You can kind of think of them as hot dog on a stick, but with waffle batter as the \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Jason Weller",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109890307279432171560/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwa2ZiWS13RRAB",
+        "caption": "(Translated by Google) I love its fresh waters, especially watermelon.  (Original) Me encantan sus aguas frescas, en especial la de sand\u00eda.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Noe Gaytan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111972563827918693324/reviews?hl=en-US",
+        "census_block_group": 60590873003
+    }
+]

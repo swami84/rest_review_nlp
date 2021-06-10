@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDa2R5Q0F3EAE",
+        "caption": "",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "mike zimmerman",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115856276135186899199/reviews?hl=en-US",
+        "census_block_group": 421010369001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDaE5femdRRRAB",
+        "caption": "Awesome vegan food cart with friendly owners! Great University City lunch spot",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Annie Jules",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108022044757562062378/reviews?hl=en-US",
+        "census_block_group": 421010369001
+    }
+]

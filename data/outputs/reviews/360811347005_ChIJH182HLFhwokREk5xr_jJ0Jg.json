@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNkxIcWhBRRAB",
+        "caption": "No Menu & No Phone Number How to Order Take out ???????",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Bob W",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107891057572498334688/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpb2RLazZRRRAB",
+        "caption": "Good quality food, but the customer service needs improvement.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Marc Williams",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107038785655025143446/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJaFlmZlpBEAE",
+        "caption": "Cool guy, also delicious food",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Cesar Andrade",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116044747067868120673/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3dXZhWV9nRRAB",
+        "caption": "It's delicious and the dude is awesome.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Alif Hirani",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112107149950772856982/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNnN3Yzd3pBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 2.0,
+        "username": "Jonathan Cung",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114101821025756345097/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnaHNlT0JnEAE",
+        "caption": "Very nice guy and has been around for years. Clean and hygienic chicken and rice. Better than the ones in the city.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "vishal patel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110397397878093515614/reviews?hl=en-US",
+        "census_block_group": 360811347005
+    }
+]

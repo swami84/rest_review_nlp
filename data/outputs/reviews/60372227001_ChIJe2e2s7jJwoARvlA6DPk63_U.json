@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cnRub1VnEAE",
+        "caption": "I went to this place several times, and only one time the machine they use to make smoothies was working.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Alice Usagi",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113073778847739017280/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4a19HYWVnEAE",
+        "caption": "Went in got two smoothie definitely didnt taste the same as other surf city smoothies.. bananas were nasty looking... i seriously wanted to ask for my money back",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Terry Menendez",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111614368018341057120/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4eHN2NV9BRRAB",
+        "caption": "The employees were so rude it was 2 employees helping one costumer and when I walked in to order they didn\u2019t even ask could they help me they let me stand they for 2 minutes not even helping anybody until I finally said can I place an \u2026",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Felicia Hammonds",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102651601986931887467/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzMktidlV3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Sasha Rugamas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108701600620138363729/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwcXJxcnd3RRAB",
+        "caption": "Nice smooths",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Doug Keller",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104276448852552840076/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvdFoyMmZREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Abel Diaz",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105411763432263552205/reviews?hl=en-US",
+        "census_block_group": 60372227001
+    }
+]

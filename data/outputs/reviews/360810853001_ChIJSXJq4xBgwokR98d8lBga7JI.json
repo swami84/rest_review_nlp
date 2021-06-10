@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cG9TaXdRRRAB",
+        "caption": "I celebrated my nomination today in this delicious restaurant. happy to tell that we had a terrific evening and the place was unquestionably the reason for this fruitful celebration. The stuff  contributed in a lovely style, the cuisine was \u2026",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Paul R",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103184709041470917145/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4dl9yUWVnEAE",
+        "caption": "(Translated by Google) I just bought it and found it rotten when I came home  (Original) \u521a\u4e70\u7684  \u56de\u5bb6\u53d1\u73b0 \u998a\u4e86",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "menghai li",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107966574215151505980/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4Ni1mSC1RRRAB",
+        "caption": "We met with friends at this place for dinner. my friend recommended this restaurant.  Well, we were not disappointed. we were warmly welcomed by the staff members  and we had a fantastic feeling. The food was just great. We enjoyed every moment and we will visit this place again. we highly recommend this place.",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Robert Montgomery",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103521793549218369934/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    }
+]

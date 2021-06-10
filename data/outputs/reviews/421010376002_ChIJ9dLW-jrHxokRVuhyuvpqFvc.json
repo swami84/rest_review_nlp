@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbC1hS2xBRRAB",
+        "caption": "Nice set up ....good beer and food truck was excellent",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Dave Chorba",
+        "n_review_user": 17,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105348454287608720071/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDbnREeF93RRAB",
+        "caption": "Plenty of seating available on a Saturday night. Lots of different beers and food. They close early at 10 pm though on a Saturday",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Rohan Drummond",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105970040549566739372/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDN3ZXMkZ3EAE",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Patrick Casey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109238313962059457234/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4bzVmZ3dBRRAB",
+        "caption": "Brilliant spot next to Love City Brewing. Four local breweries trying to out flank Covid19. Triple Bottom Brewing, Love City, Roy Pitz and Yards have split a space. Tons of tables, food trucks and loads of space between the tables. One of the best socially distanced spots in Philly",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Ben Jeffs",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107177372666358934489/reviews?hl=en-US",
+        "census_block_group": 421010376002
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzenVpdnZBRRAB",
+        "caption": "Nice Bar",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Andy Tck",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117590273625450127340/reviews?hl=en-US",
+        "census_block_group": 360610015013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnMWRTUmlnRRAB",
+        "caption": "(Translated by Google) Terrible attention, it seems to rest and continue to know NY but what a disappointment.  (Original) P\u00e9sima atenci\u00f3n, se antoja para descansar y seguir conociendo NY pero que decepci\u00f3n.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 1.0,
+        "username": "Israel Pradillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111068207735117839299/reviews?hl=en-US",
+        "census_block_group": 360610015013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBb3R5NG5BRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Murilo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107395849907628245127/reviews?hl=en-US",
+        "census_block_group": 360610015013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRa05pZWdnRRAB",
+        "caption": "(Translated by Google) Good selection of beers. Relaxed place in Seaport.  (Original) Boa sele\u00e7\u00e3o de cervejas. Lugar descontra\u00eddo no Seaport.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Helio S Filho",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113640865470826041827/reviews?hl=en-US",
+        "census_block_group": 360610015013
+    }
+]

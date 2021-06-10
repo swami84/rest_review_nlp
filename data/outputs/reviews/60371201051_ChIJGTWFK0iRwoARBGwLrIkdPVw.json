@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ajYzUVdBEAE",
+        "caption": "Wow, this food is amazing. It's a 5/5 restaurant and I hope they become bigger because you guys deserve it.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Sulen Carranza",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104500063204934236560/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d3ZiVnlnRRAB",
+        "caption": "This is such a cute restaurant. Amazing food, service and for an added bonus, the food presentation is incredible. They also have the best Thai iced tea. Check it out! Here is the shrimp fried rice, huge servings too",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Darlene",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114651601708345651907/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5emVDbU1REAE",
+        "caption": "When you enter the cozy establishment you're automatically hit with a medley of delicious aromas which reassure the food here must be tasty and you bet your taste buds it is! Fried rice is fresh and savory and orange chicken is gourmet rare \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Emmanuel Nieto",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107013797967634883222/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5enZia3pnRRAB",
+        "caption": "This place is worth trying. They serve large portions for affordable rates. Always well organized and with fantastic vibes. Will come back again.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Graham Walsh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114561228867400248695/reviews?hl=en-US",
+        "census_block_group": 60371201051
+    }
+]

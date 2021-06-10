@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN3cUktZ1JREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Nikhil Joshi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104897947785324341126/reviews?hl=en-US",
+        "census_block_group": 360811529013
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURndTdqZVdBEAE",
+        "caption": "Walked in off the street and in a little over 2 hrs drove away in a new Wrangler Unlimited. Very knowledgeable staff, friendly and easy to deal with. Matt Fass took care of me. And Jessica the Finance Manager made the paperwork a breeze. Would recommend this dealership to anybody interested in a Dodge, Chrysler or Jeep.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "X-xi",
+        "n_review_user": 179,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106059783822400562683/reviews?hl=en-US",
+        "census_block_group": 360811529013
+    }
+]

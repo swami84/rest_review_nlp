@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVbk1lYjB3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Michael Di Rocco",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113267755335859893473/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvb096Yk1REAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "Carmen Dichtiar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116300105669083709578/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJeVotNGtRRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Hsien Wang",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100186140436732719372/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJNjktdmh3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Arturo Velazco",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106712368073551268835/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJZ1lfNUtBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 3.0,
+        "username": "BENJAMIN MARTIN",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116743979621583615486/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJck92R0h3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "DJ MACHACA ESPINOZA",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118330422108386814791/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBOEs3T0dBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Haifeng Li",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100972337945973072953/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRa0xITnF3RRAB",
+        "caption": "Tried to order. Website says everything is closed. So, we tried to call but a recording also says they're closed... Is not even 6pm and their site says they're open until 830pm.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Gretchen Netz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105039173931113512352/reviews?hl=en-US",
+        "census_block_group": 60590867023
+    }
+]

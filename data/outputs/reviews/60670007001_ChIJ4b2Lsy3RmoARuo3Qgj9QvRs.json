@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5OTc2czB3RRAB",
+        "caption": "I adore this restaurant a lot. theres a different air. The food is marvelous. the service is effective and the stuff is very professional. The cost is reasonable. greatly recommend.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Donald Amaya",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109745130447597588290/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MmY3S3B3RRAB",
+        "caption": "Great food, love the location. Sitting outside is my favorite \ud83d\ude0d",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Oksana Bugriyev-Gorodetskaya",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105275303281780854159/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5X19tOU9BEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Linda Bootman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109144244108638077285/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5c1l5X2FREAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Jan Gilson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101028620113410147165/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDbE5UTjVRRRAB",
+        "caption": "I like this restaurant! They serve good food, their menu is varied, The chief cook in that restaurant is a real pro, I like very much trying all their dishes. The food is always of high qualtity, the service towards the visitors  is very good too. I often go to  this place and I not even once was discontended. I recommend this place.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Harlan Mccarthy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107880038031200864385/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURjN01iNFdnEAE",
+        "caption": "",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Lucas Rucker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108825425205240506817/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNdnJiM053EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Katina Aitkens",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111366821046898330526/reviews?hl=en-US",
+        "census_block_group": 60670007001
+    }
+]

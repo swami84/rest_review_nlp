@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNaDVIMElnEAE",
+        "caption": "I order from this Coffee shop daily but after today, they definitely lost a loyal customer. Being an employee at a car dealership for over\u00a0three years, I have learned that customer service is EVERYTHING. One of my co-workers ordered her \u2026",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 1.0,
+        "username": "stephanie nicole",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103234652279835710160/reviews?hl=en-US",
+        "census_block_group": 360810257001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRd3B5aU9REAE",
+        "caption": "(Translated by Google) Good food  (Original) Buena comida",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 3.0,
+        "username": "RODRIGO BARBITAS RIOS",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108622231640656604742/reviews?hl=en-US",
+        "census_block_group": 360810257001
+    }
+]

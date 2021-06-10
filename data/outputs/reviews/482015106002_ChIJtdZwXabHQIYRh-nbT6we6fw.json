@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5cWZyZk5nEAE",
+        "caption": "Bad first time experience. Not the employee fault. But they only had 1 person working there. People were lining up. Waited about 30 mins for 2 bowls. One of them was already melted but I had to leave so I couldn't afford the time to ask for \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Hernan Flores",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112933310951063031971/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5NXNMUUJBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Earl Leverenz",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103236778784496854428/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTdi1HemlBRRAB",
+        "caption": "Closest location to me and friendly service",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jackie Robinson",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116300759404845766349/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdF9PT1RREAE",
+        "caption": "Very unhelpful. Systems were down.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Yufei Nie",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108486695963118928765/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbGNucll3EAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Joshua Harrell",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107651445972188712425/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTdXJXTmVnEAE",
+        "caption": "This is the smallest Jamba I have been to. The place is very narrow. I am assuming it is new since my app does not recognize the location for points via the receipt. They do not have a scanner yet. The people are friendly and accommodating. Usually at Jamba cups is filled to the top, but there was some distance for one of my orders.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Sasha Swan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110000956484242294773/reviews?hl=en-US",
+        "census_block_group": 482015106002
+    }
+]

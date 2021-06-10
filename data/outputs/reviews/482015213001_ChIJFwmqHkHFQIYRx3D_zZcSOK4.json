@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDQyeHp3RRAB",
+        "caption": "(Translated by Google) Excellent micheladas! Rich micheladas!  (Original) Excellent micheladas! Ricas micheladas!",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Isabel Garcia",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100148888748504034971/reviews?hl=en-US",
+        "census_block_group": 482015213001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bnRQVDZBRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Moiises Armstrong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109889059740917012597/reviews?hl=en-US",
+        "census_block_group": 482015213001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTNS1MMjBRRRAB",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "alonsxo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101217592185958013076/reviews?hl=en-US",
+        "census_block_group": 482015213001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpajk3VmFBEAE",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Justin Hurtado",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109792498431807798282/reviews?hl=en-US",
+        "census_block_group": 482015213001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpcklfVDZ3RRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Teresita Hilario Alvarez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100745532019430335721/reviews?hl=en-US",
+        "census_block_group": 482015213001
+    }
+]

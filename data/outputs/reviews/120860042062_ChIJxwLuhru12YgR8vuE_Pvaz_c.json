@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bDctRFJBEAE",
+        "caption": "Fish tacos so good",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Tai Sia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105972848938465033368/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwaThUMTl3RRAB",
+        "caption": "Great spot for breakfast.  Service was quick and super friendly.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "E Var",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104941465568741844744/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwNnBXRDlnRRAB",
+        "caption": "Great place for breakfast. Nice views. Fresh fruits and vegetables. Friendly staff. Thank you, I will be back.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Jean-Patrick Fays",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111395040377648520644/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZanBTdW9BRRAB",
+        "caption": "Nice place to stay... enjoyed swimming in the pool. This is the place you can relax and enjoy. The food is very delicious. . I like my spacious and clean room. Staff assisted me with the best service.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "lannie chaves",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100804627474184275012/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJN09uM2dnRRAB",
+        "caption": "Great place for breakfast. I ate there every morning during my stay at the Shelborne hotel. The buffet is a great option with lots of fruits.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Eran Dromy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112881117875837566873/reviews?hl=en-US",
+        "census_block_group": 120860042062
+    }
+]

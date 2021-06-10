@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzeTRUWW1BRRAB",
+        "caption": "Absolutely wonderful service . Highly recommend food. Great staff and the food is the best I've tasted",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Gibxrh Rhgdbtv",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104276677669040147887/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzcUplSlR3EAE",
+        "caption": "his place is expensive, but worth every penny. Service is professional, smooth and with no attitude. Food is simply outstanding.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Redid Coauf",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115099441610929656214/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZZ2VXb0x3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Mel Tawers",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112907947539707560996/reviews?hl=en-US",
+        "census_block_group": 120860037031
+    }
+]

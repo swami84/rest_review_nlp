@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNnJYcF9BRRAB",
+        "caption": "The ambiance was relaxing and the smell when you step inside was heavenly, such a soothing environment! Food was delicious! Will visit there again!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "RAKESH A",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108362255075111312683/reviews?hl=en-US",
+        "census_block_group": 60372643013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNnNieHJBRRAB",
+        "caption": "Visited this place with Friends. Amazing ambience, Delicious food and mainly very humble owner. Must try for good food experience.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Vid Fav",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107826442954405345061/reviews?hl=en-US",
+        "census_block_group": 60372643013
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaHBYTHR3RRAB",
+        "caption": "NOT ALL VEGAN. I ordered on door dash thinking because it has vegan in the NAME OF THE RESTAURANT that it would in fact be vegan food. I received naan with real cheese and presumably with real dairy in the bread itself. It has been a really long time since I had dairy and my stomach and morals are really unhappy with me.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 2.0,
+        "username": "Lorelei Astle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108334827004745174726/reviews?hl=en-US",
+        "census_block_group": 60372643013
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcnBlbnJBRRAB",
+        "caption": "This place obviously knows how to treat their customers. Regularly with a nice demeanor. The food is conveniently priced, regularly flavorful and clean.",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Jase Mercer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113192699709531565113/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDOUxldWtnRRAB",
+        "caption": "The place offers a large variety of fresh food. I love eating here. The employees are always very nice, rates are reasonable and the place is always well organised.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Frances Corinne",
+        "n_review_user": 81,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101866782126436921153/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzazVyd3NRRRAB",
+        "caption": "This lovely place, formerly known as Modhu Mita, has delicious food with incredible nice service. They have many vegan options (as well as vegetarian and meat options) so give it a shot! Simply call the place and they will deliver to you even if you\u2019re out of zone on different apps. I\u2019m adding a picture of their vegetarian options, some of which are actually vegan.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Uygar",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116356645637356380542/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzX2ZfUkpBEAE",
+        "caption": "Amazing food! Will definitely be coming back!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Lucy Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112521328687294232616/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzdmN6T0hnEAE",
+        "caption": "Wow 10 out of 10 lovely people and delicious food.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Sayed Naqvi",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108910302706546992753/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURza2RYbUp3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Rubina Akhtar",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111353069018290421305/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURza2RYWTR3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Mahnoor Fatima",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113696039723264243201/reviews?hl=en-US",
+        "census_block_group": 360610234002
+    }
+]

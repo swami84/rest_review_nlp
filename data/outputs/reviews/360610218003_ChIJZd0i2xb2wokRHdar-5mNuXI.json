@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjb3V6U3BnRRAB",
+        "caption": "I like this restaurant! They provide good food, they have a rich menu, The cook in that place is an expert, I enjoy very much eating all their dishes. The food is always fresh and tasty, the attitude towards the clients  is good. I often go to  this restaurant and I was never unsatisfied. Highly recommended.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Marcus Garcia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112991694209148912078/reviews?hl=en-US",
+        "census_block_group": 360610218003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQwMGVLR09nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Devon Jackson",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103517406211873114173/reviews?hl=en-US",
+        "census_block_group": 360610218003
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpdVlxRmlnRRAB",
+        "caption": "The food is great",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Hoolysav",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103625833483478974823/reviews?hl=en-US",
+        "census_block_group": 360610188003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4eHRmLVJREAE",
+        "caption": "",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "TENICKA BROWN",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107889064964983989343/reviews?hl=en-US",
+        "census_block_group": 360610188003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbnV5Yzl3RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "Bruce Sabb",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110608116414325226671/reviews?hl=en-US",
+        "census_block_group": 360610188003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNRek9qNWN3EAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Lisa Butler",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100228074786817790740/reviews?hl=en-US",
+        "census_block_group": 360610188003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRMllPX3dnRRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Tia Randle",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104217186964610698847/reviews?hl=en-US",
+        "census_block_group": 360610188003
+    }
+]

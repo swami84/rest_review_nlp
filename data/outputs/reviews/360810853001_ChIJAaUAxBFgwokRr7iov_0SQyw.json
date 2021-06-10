@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a3Q3MVNBEAE",
+        "caption": "last night was our first time in this fine restaurant. But It is no doubt not the last time. We had a good time with the good service, with the excellent  food and wine and with the friendly charge. We will definitely come back soon.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Santana Pugh",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115704797993144595759/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzdWU2a3NnRRAB",
+        "caption": "Bought teriyaki chicken.. It had no teriyaki.. Just so much salt it was disgusting. It was missing the vegetables as well. Spent $35 on garbage.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Daniel Kaj",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108045079637200684987/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNa29malJREAE",
+        "caption": "Very mediocre food that cost more than the average in the area. Just a few slices of beef. Tax is not included in the price. Plenty of options in the area. Not coming back.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Sam Lau",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105822450217811338799/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNveUl1SDNBRRAB",
+        "caption": "Quick fast and okay food for cheap.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 3.0,
+        "username": "Steven Yip",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111304348982609930448/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcHJiNnB3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "\u65bd\u5b54\u9716",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104945436132980023944/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURJNE8yLUtBEAE",
+        "caption": "I saw short changed a penny. The cashier didn't want to give it to me said it was $6.75 instead of the $6.74 that was stated on the receipt.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 1.0,
+        "username": "Herbert Medina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116802804043938257850/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnX3R1S1BREAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 4.0,
+        "username": "E. Huang",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107096595687411869754/reviews?hl=en-US",
+        "census_block_group": 360810853001
+    }
+]

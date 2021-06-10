@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNjazhhejFRRRAB",
+        "caption": "Job well done! You handled the sale of our restaurant super professionally. Will definitely refer you to my friends that are looking to sell.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Lucy Tarafa",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115485512490035322559/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzc0xEVk9REAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Oscar",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101178647270438347277/reviews?hl=en-US",
+        "census_block_group": 120860037041
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MllHZEl3EAE",
+        "caption": "Burritos are delicious!  Horchata was no good I think the milk was bad..",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Flor Ramirez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101023218740941635091/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMzlMVlhnEAE",
+        "caption": "Great asada tacos for a good price.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Andrew Therriault",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105136515038236888532/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvbHNTLU9BEAE",
+        "caption": "Fast,frienly service.  Great prices.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Byron Rivas",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108640848878713814871/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNveHZlVW1RRRAB",
+        "caption": "(Translated by Google) This really cool amburguesas tacos all delisioso grab him instantly  (Original) Esta buenisimo los tacos amburguesas todo delisioso lo asen al instante",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Hector a Castaneda",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111750502692376306720/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBeHNDMEd3EAE",
+        "caption": "Delicious tacos! Came to LA for vacation and ate them several times. Better every time.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Joseph Camilleri",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106066463026551609049/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBakppaTN3RRAB",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Diego Gaucin",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118124577302518749325/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNna01Qa05nEAE",
+        "caption": "(Translated by Google) I love this place. It\u2019s perfect in every way. I love this place. It is perfect in every way.  (Original) I love this place. It\u2019s perfect in every way. Amo este lugar. Es perfecto en todos los sentidos.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Arthur Challenger Oemke",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105834689382113039763/reviews?hl=en-US",
+        "census_block_group": 60371902011
+    }
+]

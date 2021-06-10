@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNNdFpPOHJnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "\u0627\u0635\u064a\u0644 \u062d\u062c\u0631\u0627\u0646",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104518881621901337379/reviews?hl=en-US",
+        "census_block_group": 360610225003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURvamZMd3h3RRAB",
+        "caption": "It went from good to really bad.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "K Castillo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105247109730942727280/reviews?hl=en-US",
+        "census_block_group": 360610225003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM0M3EyNVZnEAE",
+        "caption": "Perfect spot for late night munchies",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ramon Delarosa",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111554068393522465897/reviews?hl=en-US",
+        "census_block_group": 360610225003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRaHU2aERREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "TONY Touch",
+        "n_review_user": 12,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102777216634167560292/reviews?hl=en-US",
+        "census_block_group": 360610225003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURveS1uSGJREAE",
+        "caption": "I started frequenting this deli because they are down the street from where I live. I enjoy it because they have curly fries! Occasionally, they forget some aspects of what you order. Bell peppers, onions, and so on. Not the worse thing in the world, but it could get annoying. They take credit card as well and open 24/7.",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 3.0,
+        "username": "Kato La",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114325983286597120077/reviews?hl=en-US",
+        "census_block_group": 360610225003
+    }
+]

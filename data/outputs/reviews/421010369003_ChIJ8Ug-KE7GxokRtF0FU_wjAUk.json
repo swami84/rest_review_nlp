@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwdTR6TG9BRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Aubrey Otchere",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107289488086850677825/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwaG9XdjF3RRAB",
+        "caption": "This is the best halal truck I have ever been too. !!!This truck is about 25 minutes from my house but I drive down to the drexel area just to get food from this truck .",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Donna Reid",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103423377153318223529/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQwcXE3bDBBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "King Khan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104543991436801367025/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVdzlpTC13RRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "al yo",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105880185056189963887/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURna3ByWXVnRRAB",
+        "caption": "-1 star for every $1 price increase",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Peter Stolarski",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113212334172478343755/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURRbzZpVlZBEAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Aslam Khan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109640754757904417404/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRcjdXN25RRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Mehul Patel",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103527419537083940824/reviews?hl=en-US",
+        "census_block_group": 421010369003
+    }
+]

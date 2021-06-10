@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURzcV9mUzZnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Mark lester",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113825569201102022629/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVMHZieFRBEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Tony Duong",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112882781912849904058/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVeUtQQzR3RRAB",
+        "caption": "Very good Experience",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Rajendra Chauhan",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111932990315582753495/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrM19DZ0x3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "Steve Goulet",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101839889736509389881/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNFLV9yLVNBEAE",
+        "caption": "Really good sushi for people like me that love it.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Oleduddydawg 5",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108532208457758220136/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZellYcTVBRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "f33lsogood",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110017035418975095886/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURZcGRyTUdnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Sara Valentine",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103281580913240522405/reviews?hl=en-US",
+        "census_block_group": 482014319001
+    }
+]

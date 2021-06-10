@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdXV2eVZ3EAE",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Miguel Torres",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105131001315656793385/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLa0oyd25RRRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 4.0,
+        "username": "Ercan karaalioglu",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109937595632607242840/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bDR1bU9BEAE",
+        "caption": "Amazing birria quesadilla. And the consome is the \ud83d\udca5",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Oshira Medina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101274855573761437829/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5czlqLUZREAE",
+        "caption": "You will enjoy everything. Beans are my favorite and you can add meat.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "JamalzCutz Yurd",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101169203912547797553/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5c1lpLWJREAE",
+        "caption": "Sooooo good! Best elote in a cup I\u2019ve had in a while! Everything we\u2019ve had is super good. We\u2019ve tried the barbacoa, birria tacos, torta and burritos! Def recommend, we\u2019ll be back!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "drea nicole",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113606179153902468190/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5d2NLTTlRRRAB",
+        "caption": "Wow wow wow. I have a illness that makes me a picky eater. Nope the food is amazing and really worked well with my stomach. Packaged amazingly got it thru uber. Will be ordering again. Machete and limonda amazing and authentic.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-11",
+        "rating": 5.0,
+        "username": "Antonia Reyes",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106571589754588863911/reviews?hl=en-US",
+        "census_block_group": 482013122001
+    }
+]

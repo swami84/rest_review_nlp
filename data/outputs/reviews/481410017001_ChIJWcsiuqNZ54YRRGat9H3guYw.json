@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDdpV2pRRRAB",
+        "caption": "Food is amazing!! Always hot and fresh. The service is excellent. Our favorite place for a delicious meal. Glad to see it is open for dine in again.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Michelle Villalobos",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108267419635701316712/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eXFLY1ZnEAE",
+        "caption": "The food here is excellent. The service is also very amazing!! \ud83d\ude0b\ud83d\ude0b",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "1double 0",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102735150866638769141/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5el9xVUxnEAE",
+        "caption": "Great service!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Elijah Garcia",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116911406626639065961/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDb0xQRjlnRRAB",
+        "caption": "I had a wonderful dine in experience at this amazing restaurant. I highly recommend Peking Express El Paso, International Restaurant and Bar to everyone in El Paso and anybody in town visiting that is looking for a variety of fresh and delicious foods!!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Nate Limo",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102529807098034357397/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDb05Pa1RBEAE",
+        "caption": "Food always served fresh and delicious! I\u2019ll definitely be coming back here again. Good job guys",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Tracy Watkins",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107935364292068875766/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdl9UUUt3EAE",
+        "caption": "One of the most delicious international food experiences I have ever had. I highly recommend Peking express and international restaurant bar to everybody in El Paso!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Mcee Hummer",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110662853754299121723/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    }
+]

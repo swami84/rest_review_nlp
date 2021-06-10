@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpaG9MWWVnEAE",
+        "caption": "This will be a weird review.   Something is odd, and it is not the fault of Vegan Sesame.  I am trying to bring it to Google's attention. When clicking on Vegan Sesame in Google Maps, you are given the option to order online.  That is what \u2026",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Michael Koss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113328901736426806494/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDal8yMHBRRRAB",
+        "caption": "Great vegetarian sushi, love the flavors and contrasts. Also appreciate that Vegan Sesame is not trying to make \"fake\" fish but rather is celebrating vegetables as the star of their beautiful and delicious rolls. I enjoyed the eggplant and okra nigiri and the Colonel's Pipe.",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Hicronia Raynile",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110162257293516982035/reviews?hl=en-US",
+        "census_block_group": 60372673002
+    }
+]

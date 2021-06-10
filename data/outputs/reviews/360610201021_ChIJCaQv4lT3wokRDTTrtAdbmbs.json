@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5bXBXREp3EAE",
+        "caption": "Ripped me off 3 different times Never got a full order from them DO NOT BUY FROM HERE",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 1.0,
+        "username": "Joseph Collins",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106864026307317745364/reviews?hl=en-US",
+        "census_block_group": 360610201021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NGZYRzl3RRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "JonahDaBoy",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112201943718536154041/reviews?hl=en-US",
+        "census_block_group": 360610201021
+    }
+]

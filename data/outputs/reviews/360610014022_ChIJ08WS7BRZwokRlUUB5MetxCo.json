@@ -1,0 +1,62 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDNDU2czJnRRAB",
+        "caption": "Very good slice of $1 pizza. Consistent quality, crispy and cheesy pizza. Great for late night quick bites",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Space Dandy",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100563658592719678557/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURDMGNYU1N3EAE",
+        "caption": "(Translated by Google) I was on the road  (Original) estaba de ruta",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Santi",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117418402822862649573/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUM4dnRmUHpRRRAB",
+        "caption": "Truly my favourite dollar slice in the city!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "P\u00e1raic McLean",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106336307799434455090/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjd0w3aXF3RRAB",
+        "caption": "These guys have the best $1 pizza in NY. Its a dollar, set your expectations and enjoy a tasty slice.",
+        "relative_date": "10 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Drew King",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115983472141017605195/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURNbnNPQjBnRRAB",
+        "caption": "Classic dollar pizza.  Hockey rink variety",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Marcus Smith",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109937643902612218253/reviews?hl=en-US",
+        "census_block_group": 360610014022
+    }
+]

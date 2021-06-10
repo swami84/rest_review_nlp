@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTbHYtNWJREAE",
+        "caption": "",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Justice Clark",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115399307043654966806/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNraW9MSlhREAE",
+        "caption": "Love this convenience store ! Great and quick service (:",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Nicol Moon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108349078164480843983/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNvN3NiT2ZnEAE",
+        "caption": "Good peolpe that works here",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Leon Joiner",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105002642606945310697/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNRdC0ycWhBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "sara wayne",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116074621533232154303/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBeWFpZ2p3RRAB",
+        "caption": "Good sized convenience store, easy to access from the highway",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Drew Kimzey",
+        "n_review_user": 601,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108064178940097188721/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnZ00ybUJREAE",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Kristin Turner Stephens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100427618337396550441/reviews?hl=en-US",
+        "census_block_group": 60670004002
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUQ4amFxWExBEAE",
+        "caption": "Had hard time finding location. Seriously they just answered phone in a rude manner. They don\u2019t deserve my business.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Jessica Lopez",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113343216960088397791/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzc0tTbmlRRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "MIAGISTERIUM FLEXIBLE EXECUTIVE SERVICES EDUCATION",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103191676774648923553/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNaFlxUGZ3EAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Miriam",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116576561890324364946/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNna2JuejZ3RRAB",
+        "caption": "GREAT SMOOTHIES!!!",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 5.0,
+        "username": "Katelyn Custer",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100443423887719206977/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNnd0lUcEJnEAE",
+        "caption": "Great smoothies. Overpriced tho.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 4.0,
+        "username": "Eduardo Morales",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100816630149360295455/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBdF9Pd1JBEAE",
+        "caption": "Smoothies are good (a bit sweet). Downside is that they start to set up shop at 8 am. They actually \u201copen\u201d for business at 8:15. If you start work at 8:30 do not count on that smoothie to be ready on time.",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 3.0,
+        "username": "Albert Regalado",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103327430449413988483/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBNU9HS2tnRRAB",
+        "caption": "Worst customer service i ever had. The manager is mean. This deserves 0 stars and manager should be fired immediately. She is always texting, talking on the phone and having a rude attitude with customers. WORST EXPERIENCE EVER!",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-05-04",
+        "rating": 1.0,
+        "username": "Martin Avondo",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106972615208479859438/reviews?hl=en-US",
+        "census_block_group": 120860067021
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNTbGFuU1dnEAE",
+        "caption": "(Translated by Google) Beef louver is very fresh  (Original) \u725b\u767e\u53f6\u5f88\u65b0\u9c9c",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Iki Kei",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111852266628223491934/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURNc05PaEVnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Camille S",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118359163409275909692/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURnX2RDcUxREAE",
+        "caption": "(Translated by Google) The price is ok  (Original) \u4ef7\u683c\u8fd8ok",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "kiehl marry",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111100730005689702983/reviews?hl=en-US",
+        "census_block_group": 360810849002
+    }
+]

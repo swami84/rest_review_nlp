@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LUszWjZRRRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Elvin Jr",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107914948223059515915/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4blp2VHVnRRAB",
+        "caption": "Fire",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Jus NYC",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116336465837508426914/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNzX3BpYjRnRRAB",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Angry Jordan",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101769316987744460278/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUMwcHFXX1pBEAE",
+        "caption": "(Translated by Google) It was amazing and more the night shift those guys are organized and decent  (Original) Fue incre\u00edble y mas el turno de la noche esos chicos son organizados y decente",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Rey Gomez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112843013924653639217/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVN1l2Tk9nEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "vena sims",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100431576720269172964/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrcHVXZVdREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Alfreaddi Coleman",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102426564151034962625/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZbTZHeTZBRRAB",
+        "caption": "Pizza",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Evette Ramos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117259882411315209490/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJNG9ickhBEAE",
+        "caption": "Good enought",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 3.0,
+        "username": "Gediminas Karalius",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118444762988527488876/reviews?hl=en-US",
+        "census_block_group": 360610196003
+    }
+]

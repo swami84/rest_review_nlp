@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5d2Q3Z0V3EAE",
+        "caption": "The food was very good and they gave nice portions.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Erin McGlover",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116644700008342947564/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5M2FxZzJRRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 5.0,
+        "username": "Antonio Flores",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102353803256742413990/reviews?hl=en-US",
+        "census_block_group": 60372240101
+    }
+]

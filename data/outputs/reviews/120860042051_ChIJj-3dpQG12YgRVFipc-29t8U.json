@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURLeU9xTE9BEAE",
+        "caption": "",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Eli Mac",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108903870242581496552/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHViWXJBRRAB",
+        "caption": "Avoid at all cost",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Jo Anna",
+        "n_review_user": 13,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102263917306092876604/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHFhZmxBRRAB",
+        "caption": "Rip off",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Ana Maria Voinea",
+        "n_review_user": 6,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111406647236468400149/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLXJ2UUxREAE",
+        "caption": "Way too expensive for nothing special",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Monica I",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115633317787197862167/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNk02WVVREAE",
+        "caption": "Horrible! They overcharged us and the gelato was so bad I threw mine away.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 1.0,
+        "username": "Athie L",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106677072462953616018/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MGUybmR3EAE",
+        "caption": "I went Saturday night with my friends and we had a awesome experience! Great customer service from the guy that was there that night ! I totally recommend! My favorite is the hazelnut ice cream cone! \ud83d\ude4c\ud83c\udffc",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "lisa022191",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111643332313554180106/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5M04zaHNnRRAB",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Rebecca Villasenor",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106635814685304281872/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNzb2JYeFZ3EAE",
+        "caption": "Excellent place! The customer service was fantastic! And the gelatos are deliciously flavored, creamy and organic. My wife had the Strawberry flavor, it had pieces of strawberry in it and I had the lemon flavored one. I totally recommend this place.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-05-03",
+        "rating": 5.0,
+        "username": "Luis Cintron",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116645115576907621976/reviews?hl=en-US",
+        "census_block_group": 120860042051
+    }
+]

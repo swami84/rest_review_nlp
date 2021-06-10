@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5ejZLN2JnEAE",
+        "caption": "Good food & generous portions at a reasonable price",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Gianni Carlo Contardo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101684718283144961727/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5dFlhSkpBEAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "U Dessert Story",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116193801234700739930/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpMFlqSWJREAE",
+        "caption": "Stopped in for take out. Food was flavorful and ready quickly! Thanks for the great dinner!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Jacob Romanowitz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114129631589445144364/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDdXE3NEp3EAE",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Raju Reddy",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109549262764015404424/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUM4czZuR2F3EAE",
+        "caption": "Most authentic Thai food in SF. The attention to detail in the presentation is very high.",
+        "relative_date": "9 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Reza Hussein",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108291864904558456650/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURjN052SG1RRRAB",
+        "caption": "Nice staff, clean and amazing food",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 5.0,
+        "username": "Yousef Alsbaihi",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101478532765981148156/reviews?hl=en-US",
+        "census_block_group": 60750128001
+    }
+]

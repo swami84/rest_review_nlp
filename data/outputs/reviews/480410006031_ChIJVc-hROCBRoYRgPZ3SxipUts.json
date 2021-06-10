@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MjQySEl3EAE",
+        "caption": "This place is awesome. The muffuletta sandwich was delicious...",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Fred Tholen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111530818339581594287/reviews?hl=en-US",
+        "census_block_group": 480410006031
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5a2Y2V0J3EAE",
+        "caption": "Still wonderful soup and salads! Glad I stopped.",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Marci Loesch",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107273566569277872189/reviews?hl=en-US",
+        "census_block_group": 480410006031
+    }
+]

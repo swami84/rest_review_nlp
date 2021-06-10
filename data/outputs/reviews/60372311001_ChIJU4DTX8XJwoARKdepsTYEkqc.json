@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDZzRYVHN3RRAB",
+        "caption": "If I could give zero stars I would!! Rude staff and horrible food. Burgers were completely raw and soggy. Place was also located in an alley.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Ashley Valladares",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103138361959775523717/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDXzYtY0VREAE",
+        "caption": "We just ordered from this place, we thought we were getting pranked. What happened to the real Umami Burgers?? Is this a joke? I would never put a bad review, but this time I just can\u2019t let it pass. The patties were ridiculously tiny, the \u2026",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Yassine Bennani",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104399976429440488920/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDak12WmJ3EAE",
+        "caption": "My first time exploring LA and I have to say this was one of my favorite places. The burgers were great and so were the fries. The staff was friendly and service was quick. The restaurant itself was clean and cozy. I totally recommend going if you're looking for a good burger. Definitely going again when I venture to the Bay area.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Nicolasa Cortes",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105938354318537888646/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ4NVl2dl9nRRAB",
+        "caption": "I would honestly give this place a zero stars! I don\u2019t leave reviews but this place must be avoided! Go to another umami! This location doesn\u2019t know the difference between their own burgers! TRASH!",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Paul Martinez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106981671628084596857/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

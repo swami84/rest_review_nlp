@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcEktMnVnRRAB",
+        "caption": "Grabbed an order just before closing time and everything was fabulous.  The fried pork bun was tasty and juicy. Pork dumplings were first rate.  Scallion pancake was top notch and not greasy. I was disappointed by the vegetable dumpling.  Not that they were poor by any means but they seemed more of a spinach or leek filling rather than a veggie mix. Nice staff manning the ordering station. Fabulous addition to Chinese-food starved FiDi.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 4.0,
+        "username": "joe brancatelli",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104285312384493339172/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5cTk2cFF3EAE",
+        "caption": "Not too expensive but nice food. Staff were helpful. Will come back here for sure!!!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Zi Lin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115571805184850933047/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cTk3V3hRRRAB",
+        "caption": "New dim sum restaurant in manhattan downtown, love the soup dumpling they have. looking forward to it.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Alex He",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114086803345105419848/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cTdibDRRRRAB",
+        "caption": "Ordered the dim sum sampler from it. It tastes so good! Will order again!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Viktor ZHAI",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105952261187144473028/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

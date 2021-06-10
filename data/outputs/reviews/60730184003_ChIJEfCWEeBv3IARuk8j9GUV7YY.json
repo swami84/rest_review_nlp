@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLNXF2cHJnRRAB",
+        "caption": "This is place is awesome. We stumbled upon it after dinner and had a great time. The music is great, the vibe is good, the wine and beer are good, everything is good.  Come here for a really good night out.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Christopher Edge",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116898765558990463807/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNXF2R0NnEAE",
+        "caption": "This place is awesome, great live music. The owners, Susan and Tim are wonderful! An absolute must visit!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Sam Edge",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100466494158990870452/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aW9tUHJ3RRAB",
+        "caption": "This is an awesome little jazz style bar with great music good prices and excellent customer service.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Keith Hersch",
+        "n_review_user": 18,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107480982159861813464/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aXBiRHNnRRAB",
+        "caption": "Tim and Susan friendly and vibrant owners. Love the authentic and original design of Southern jazz. So laid back. Totally enjoyed the live Louisiana jazz music. Food was homemade with a lot of love. Our first time there and we absolutely loved it. Great place to hang out.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Susan Hersch",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117055900271540233641/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5c0tDNHN3RRAB",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Johnny V.",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115979924165131350735/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NEtPUlZ3EAE",
+        "caption": "",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Roger Lindstrom",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108236174615570860390/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5bzdEdnRnRRAB",
+        "caption": "Bomb place with awesome owners!  Come. You will not regret it!",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Maggie Berkebill",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116094829416131399518/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTbTZtRzFBRRAB",
+        "caption": "This place is great! The owners are amazing and they get some great live music in here",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Karen Ek",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107278357295505271295/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpa1pfY3hBRRAB",
+        "caption": "Great food, wine, beer and LOVE the Jazz!",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Nedra Flansburg",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107710541568999254785/reviews?hl=en-US",
+        "census_block_group": 60730184003
+    }
+]

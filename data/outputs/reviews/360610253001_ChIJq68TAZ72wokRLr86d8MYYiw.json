@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURrbGQzLUNREAE",
+        "caption": "The dumplings I had were good.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "marina panagiotopoulos",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107551747515825776449/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJeWNUdzlBRRAB",
+        "caption": "A beautiful restaurant Great Mills even better drinks fun vibrant upbeat Place absolutely love it here",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Marcus Griffith",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101373684870117425961/reviews?hl=en-US",
+        "census_block_group": 360610253001
+    }
+]

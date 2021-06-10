@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5dGYzbkNREAE",
+        "caption": "I have ordered from this restaurant three times. Twice my order was canceled or unfulfilled. Very very bad experience.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Angels Bite",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113316064058965412655/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5aGNtNlNnEAE",
+        "caption": "The menu has changed on Postmates, I ordered last spring all the time and now they had barely any options. I used to love it here, but today they SCAMMED ME. I ordered two orders of ceviche and an order of lomo and they LEFT OUT THE LOMO! A \u2026",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Thomas Columbus",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112527693997030207504/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURTcHZDRi1nRRAB",
+        "caption": "(Translated by Google) Please do not visit this place food is horrible and expensive order lomo saltado and they poured a pound of salt all over it and horrible customer service lousy staff please recommend changing cooks and all staff if \u2026",
+        "relative_date": "3 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 1.0,
+        "username": "Melissa Moz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107001715102789098696/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNpaFplRGZBEAE",
+        "caption": "I always wanted to try Peruvian food classics like the ceviche. And then one day I found out this restaurant on Grubhub. I ordered the ceviche and the yellow quinoa bowl. Both of these dishes were really amazing. And I would definitely \u2026",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-13",
+        "rating": 4.0,
+        "username": "Haebel Abraham Varghese",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117748739216699378980/reviews?hl=en-US",
+        "census_block_group": 60372311001
+    }
+]

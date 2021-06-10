@@ -1,0 +1,86 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLLXRXMGt3RRAB",
+        "caption": "I love eating the pizza! Very friendly staff. It\u2019s so nice to have pizza in the neighborhood.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Peggy Sinnott",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100556074506947111341/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLLXBXbE1BEAE",
+        "caption": "Great pizza. Try a soda with the pizza.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "William Weber",
+        "n_review_user": 10,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105897793230948675465/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MWZDYURBEAE",
+        "caption": "(Translated by Google) Very rich food, the amburgesa, the wings and especially the pizza, the best I've had in a long time\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d  (Original) Muy rica comida la amburgesa las alitas y sobretodo la pizza la mejor q he probado en mucho tiempo\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "relative_date": "4 weeks ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Roberto Lopez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114937926251981535725/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5d3EyMS13RRAB",
+        "caption": "Great food! Loved the pizza wings and fries ! Apparently they have other items as well. Will be back!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Andrew De Leon",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107363630057883383890/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5b09TX1ZnEAE",
+        "caption": "Cool little spot in Silverlake. Great pizza great wings great sandwiches. I really enjoyed the food",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ernesto C",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102141489739757522345/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5NTdTdzFBRRAB",
+        "caption": "cute little place with a friendly vibe. food was some of the best i\u2019ve ever had, will definitely be back!",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Ashley",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109028151100712230725/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5cDlmTGd3RRAB",
+        "caption": "Best pizza i ever try & i also try the fake meat sandwich i couldn't tast the difference \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4dgrate flavor \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Paz Delgadillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109810044474185034096/reviews?hl=en-US",
+        "census_block_group": 60371873001
+    }
+]

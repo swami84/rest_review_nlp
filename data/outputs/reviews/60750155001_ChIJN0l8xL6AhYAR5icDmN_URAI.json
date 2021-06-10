@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURBcTVTUndRRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 3.0,
+        "username": "2o20march23 acct-COMPROMISEDbyhacker",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104233256871570520841/reviews?hl=en-US",
+        "census_block_group": 60750155001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURRaDlTX3NnRRAB",
+        "caption": "",
+        "relative_date": "9 years ago",
+        "retrieval_date": "2021-05-02",
+        "rating": 4.0,
+        "username": "b nine",
+        "n_review_user": 7,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116273965708612931125/reviews?hl=en-US",
+        "census_block_group": 60750155001
+    }
+]

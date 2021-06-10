@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLc3BfZ2lnRRAB",
+        "caption": "Not nearly as good as any of the places within a mile.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 2.0,
+        "username": "Super Squatchie",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107303957971963900358/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLMUpHcWFREAE",
+        "caption": "I have had Texas BBQ,  Mississippi BBQ and honestly, this was the best BBQ sandwich I have ever eaten! I have never been a big fan of BBQ, but I am now! The toasted bun, just the right amount of spice, grilled onions...yum! I have been craving one since and will be going back.",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Missy Ainsworth",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111862171815539975577/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdVAzdUVBEAE",
+        "caption": "Best baked bean I've ever had and rib tips were the bomb.com",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Michael Saunders",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101840656048886798228/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDMlozMTRBRRAB",
+        "caption": "This place is super delish! A much needed addition to the Arcade menu of options. I got the rib tips. The meat was tender and the sauce was a perfect balance of sweet and heat. I also really liked the potato salad and coleslaw. Mario and Hollywood were extra nice. They just opened so give them some business!",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Morgan Matens",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103631911207824753728/reviews?hl=en-US",
+        "census_block_group": 470370195003
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVbFozeGFREAE",
+        "caption": "The bacon egg and cheese is  delicious",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 5.0,
+        "username": "Amin",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106451607685022643524/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN3NnAyNDd3RRAB",
+        "caption": "I tried their bacon, egg and cheese with home fries breakfast and found it disappointing. The bacon, egg and cheese was fine, nothing special though, but the home fries where just unseasoned boiled potatoes, not fried at all.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-05",
+        "rating": 2.0,
+        "username": "Matt Thomas",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103092405821910325668/reviews?hl=en-US",
+        "census_block_group": 360610013001
+    }
+]

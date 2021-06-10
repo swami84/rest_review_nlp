@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaXZMV0FnEAE",
+        "caption": "Whaaaaaaat they got a touchscreen jukebox!!!!!! This place is the vibes legit! Just a nice place for a drink after work on the weekends just nice place and the flavors of the beers were super bomb \ud83d\udd25 yeah definitely my new little hangout spot",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "nick ventura",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103733742944169887788/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLa3Z5R2l3RRAB",
+        "caption": "Great customer service and good beer",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "John and Amy Vasquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/103355234352525250743/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURDcy1tRHhRRRAB",
+        "caption": "Solid beer and great atmosphere.",
+        "relative_date": "6 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Garrett Vosburg",
+        "n_review_user": 14,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/111658947081523259760/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDczkzNGdBRRAB",
+        "caption": "",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Christian X",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104003251157474534594/reviews?hl=en-US",
+        "census_block_group": 60590997031
+    }
+]

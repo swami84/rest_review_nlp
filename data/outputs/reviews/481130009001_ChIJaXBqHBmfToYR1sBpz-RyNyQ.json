@@ -1,0 +1,110 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLdG9Iak93EAE",
+        "caption": "",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Jeff Marsicano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110149145805719557572/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcEthNkN3EAE",
+        "caption": "Great new place! Delicious food. Tasty drinks. Attentive service.  I got the Build Your Own Taco meal. Wow! Twice as big as I expected. The fajita beef was crazy tender. The Buffalo cauliflower and artichokes was fabulous. The friend \u2026",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Kimberly P",
+        "n_review_user": 42,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116799614932744893306/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLcE82TXhBRRAB",
+        "caption": "The chicken sandwich I had was Bless!",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Michael Stewart",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101263633936308261016/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLcUtHa09nEAE",
+        "caption": "Fun new spot on Henderson. Welcoming staff, good atmosphere, great food and cocktails.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Stephen Sanderson",
+        "n_review_user": 3,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114270324157552366426/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLaU5ub0Z3EAE",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Logan",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118242538754524736439/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MTZhZzB3RRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Erika Miller",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116223654900445405020/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5MS15M013EAE",
+        "caption": "Great little spot for drinks and food. It has a nice patio. The staff is very welcoming!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Glenn Philp",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107112914878415646091/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5MTZTVHZ3RRAB",
+        "caption": "Food and service is great! Owner constantly walking around to check on how you\u2019re doing.  Cool vibe at this pub and a lot of outside patio space.  First time here and will definitely come back!",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Nick Pinho",
+        "n_review_user": 24,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116653932997118738520/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5eDVxSWJREAE",
+        "caption": "This isn't a good place to work.They are holding my check cause I have a great opportunity on another job",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 1.0,
+        "username": "Rosie Blackmon",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102133007893270936502/reviews?hl=en-US",
+        "census_block_group": 481130009001
+    }
+]

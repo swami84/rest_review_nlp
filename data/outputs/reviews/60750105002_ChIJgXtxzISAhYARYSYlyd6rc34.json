@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdUxYajZ3RRAB",
+        "caption": "",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Sarthak Kamat",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100778301699376874218/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURJcWNHOGtRRRAB",
+        "caption": "Seemed ok",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "April L. Johnson",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109242979028769792592/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURBc3RUS1pnEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Vivian Joseph",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101525595428549256534/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNBZzRHRUd3EAE",
+        "caption": "I love this place and it was a sad day when the food court closed for construction! I have not heard definitively whether or not they are coming back. Has anyone heard any news about them coming back or moving?? I'm dying to know! :'(",
+        "relative_date": "4 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "Marina Iida",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108764775371736551489/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURnc3NUTzV3RRAB",
+        "caption": "",
+        "relative_date": "5 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "Charlie Cowin",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114603884709300368878/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBM0w3YjdRRRAB",
+        "caption": "I went in around 2:15pm today on my lunch break to grab a quick bite.  I went for the beef terriaki to try and stay on the safe side.  Unfortunately, I think the sushi would have been safer.  The food was handled well (prepared and plated \u2026",
+        "relative_date": "6 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 1.0,
+        "username": "Matthew McMillan",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107687347987344683348/reviews?hl=en-US",
+        "census_block_group": 60750105002
+    }
+]

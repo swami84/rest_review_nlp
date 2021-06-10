@@ -1,0 +1,98 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVOUxQelJnEAE",
+        "caption": "Good food and good cooker",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Hany Elbashandy",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108562855833804840120/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVdU1haFFnEAE",
+        "caption": "Best food ever",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ziad Mouhbani",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107149549868979030994/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVNkxhLXp3RRAB",
+        "caption": "This guy has great food right outside the factory building for a great price! You can't go wrong",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Call_Em_Jay",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101168376382917072613/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURVcUxDWUtREAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Ivan Panov",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106607587213008308059/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVOTdmbUVnEAE",
+        "caption": "Delicious food  best halal car Mido is the best \ud83d\udc68\u200d\ud83c\udf73 chef",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "El Masry",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109382567712119138031/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVOS11emFnEAE",
+        "caption": "Excellent food I love it",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Edwin Jaramillo",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105536244369542311341/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNVOTh2ZjN3RRAB",
+        "caption": "Modo is the best halal food in NYC",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "emad farghaly",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105619530159680973781/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVOTRYM1lnEAE",
+        "caption": "One of the best",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Nelson Nigel",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106622592201001453681/reviews?hl=en-US",
+        "census_block_group": 360810199001
+    }
+]

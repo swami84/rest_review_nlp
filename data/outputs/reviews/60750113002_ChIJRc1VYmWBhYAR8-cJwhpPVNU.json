@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNjbDVHVlNnEAE",
+        "caption": "",
+        "relative_date": "11 months ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 4.0,
+        "username": "\u611b\u570b\u8005\u5c0e\u5f48\u70b8\u6975\u5de6",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105848099953764433844/reviews?hl=en-US",
+        "census_block_group": 60750113002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNvLTdQQXpRRRAB",
+        "caption": "(Translated by Google) Good taste\ud83e\udd17\ud83e\udd17  (Original) \u597d\u5473\u9053\ud83e\udd17\ud83e\udd17",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-14",
+        "rating": 5.0,
+        "username": "\u611b\u570b\u8005\u64cd\u6975\u5de6",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116219890691986049609/reviews?hl=en-US",
+        "census_block_group": 60750113002
+    }
+]

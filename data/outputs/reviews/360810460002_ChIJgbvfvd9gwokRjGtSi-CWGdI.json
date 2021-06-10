@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURzcm9xdERnEAE",
+        "caption": "",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "John G",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117640573089652338241/reviews?hl=en-US",
+        "census_block_group": 360810460002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURVeHVuZl93RRAB",
+        "caption": "Freshly baked hand rolled pretzels so tasty, #1 in New York, they are open 11am -7pm , Monday to Saturday, the lady is a Christian , closed on Sunday. It\u2019s clean shop!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Cathy Ding",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117423729686819919605/reviews?hl=en-US",
+        "census_block_group": 360810460002
+    }
+]

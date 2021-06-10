@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aUtPZXN3RRAB",
+        "caption": "This is the only place I can get Happy Lemon and Liang pi. My old spots have closed and I'm just happy I'm able to still get these things here.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Amy Gantz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112147018429841316842/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNJeWRIVEdBEAE",
+        "caption": "",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Gen",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112619904054800504225/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJcHVIM29nRRAB",
+        "caption": "You can get 10 dumplings for $5, and they're quite big.",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Gregor J. Rothfuss",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104819208193648646391/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNJLXNIczV3RRAB",
+        "caption": "Small shop inside the food court specializing in handmade dumplings - look for the counter with the lady making it out the front.  Must try their number one top seller which is their fish dumplings - the filling is smooth and tastes like \u2026",
+        "relative_date": "2 years ago",
+        "retrieval_date": "2021-04-08",
+        "rating": 5.0,
+        "username": "Isabelle Tran",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107301438362214008475/reviews?hl=en-US",
+        "census_block_group": 360810871002
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLNlpQUWF3EAE",
+        "caption": "Always good pizza",
+        "relative_date": "2 days ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 3.0,
+        "username": "gary ingraham",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/101786105647812234119/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURpLUlMcmhRRRAB",
+        "caption": "Best price if you love pizza :)",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 4.0,
+        "username": "Elias Bishop",
+        "n_review_user": 5,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/113667737648220584360/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDeFB2N2pBRRAB",
+        "caption": "",
+        "relative_date": "8 months ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Diana Karanjia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108041874990579465771/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNVeF9xNEh3EAE",
+        "caption": "Everyone here is super nice. Whenever I order a whole pizza from here, they always have it ready to go and are great about seeing if i need plates or napkins or parmesan. Would recommend",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Jeremy Swartzwelder",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115880339207434191922/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUQ0azZEQTd3RRAB",
+        "caption": "Not fresh and they don't honor discounts like every other store",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 1.0,
+        "username": "Ismael Rivera",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115787900658827121421/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSURZM2M3LXVBRRAB",
+        "caption": "Good fresh pizza! New in the mall!",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-12",
+        "rating": 5.0,
+        "username": "Kevin Sheffield",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118113213659566151170/reviews?hl=en-US",
+        "census_block_group": 60371287022
+    }
+]

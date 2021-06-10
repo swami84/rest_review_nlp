@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ODVmNHdnRRAB",
+        "caption": "May have been door dash issue... But food arrived somewhat late and the bread was extremely soggy... Definitely not tasty \ud83d\ude14 maybe next time.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 2.0,
+        "username": "Nikk Spiert",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106433397089005287032/reviews?hl=en-US",
+        "census_block_group": 390490013004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUN5X2ZmRllnEAE",
+        "caption": "The mega zombie is amazing.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "rory monto",
+        "n_review_user": 19,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/104671606664031875013/reviews?hl=en-US",
+        "census_block_group": 390490013004
+    }
+]

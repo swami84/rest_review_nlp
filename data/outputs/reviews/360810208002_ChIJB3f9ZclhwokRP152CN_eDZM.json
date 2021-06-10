@@ -1,0 +1,74 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLa012NFdREAE",
+        "caption": "Coffee shop is on point ! Great coffe and bread",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Sencillo Mejia",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107620903593806851972/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ejhUMzZBRRAB",
+        "caption": "I ordered on seamless and the food was sooooo good, I just had to come on here and leave a second review. It was late night when I ordered so I wasn\u2019t expecting much since bakeries usually are closing up and don\u2019t make fresh things by \u2026",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Cindy Chen",
+        "n_review_user": 4,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114009046836855024095/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpZ0liSmhnRRAB",
+        "caption": "",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 4.0,
+        "username": "geraldine O",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108891385125102808865/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURpd09MQWZBEAE",
+        "caption": "(Translated by Google) Good coffee, excellent service  (Original) Buen caf\u00e9, excelente atenci\u00f3n",
+        "relative_date": "4 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Marly Mendoza",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/114455465128629605485/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNpaVkydC1RRRAB",
+        "caption": "",
+        "relative_date": "5 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Serrano Serrano",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110456827159020587488/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNDa3BtODBBRRAB",
+        "caption": "(Translated by Google) Super well attended.  (Original) Super bn atendida.",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-06",
+        "rating": 5.0,
+        "username": "Liliana Chiquito",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106962378735979495664/reviews?hl=en-US",
+        "census_block_group": 360810208002
+    }
+]

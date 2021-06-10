@@ -1,0 +1,122 @@
+[
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NzdfVEl3EAE",
+        "caption": "Excellent very good Colombian food",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Ricardo Marquez",
+        "n_review_user": 1,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/118139779803702884937/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5cDZMcXJRRRAB",
+        "caption": "Excelente service, clean place and delicious food.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Hernan Restrepo",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102716403110734012770/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5amVtMEdBEAE",
+        "caption": "(Translated by Google) Good vacano  (Original) Bueno vacano",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "TODOINVENTOSTV",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/112993045788286306229/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5eGJXZDJ3RRAB",
+        "caption": "(Translated by Google) Delicious the menu. It's very diverse. The attention is very good. Congratulations.  (Original) Delicioso el men\u00fa. Es muy variado. La atenci\u00f3n es muy buena. Felicitaciones.",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Chrisstina Ospina",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/116959476658673655914/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5aGQyTjV3RRAB",
+        "caption": "(Translated by Google) Excellent service  (Original) Excelente servicio",
+        "relative_date": "3 weeks ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Gonzalo Pardo",
+        "n_review_user": 11,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107357376145865953502/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUR5NG9YeU53EAE",
+        "caption": "Great food and service",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "Alberto Montoya",
+        "n_review_user": 8,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115700899988016471968/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUN5MHVIc2tRRRAB",
+        "caption": "(Translated by Google) The meat empanadas, highly recommended.  (Original) Las empanadas de carne, recomendadisimas.",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Juan Giovanny Rodr\u00edguez Fonseca",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/105895272395587060041/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSURTNzRMZFVBEAE",
+        "caption": "",
+        "relative_date": "2 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "Christian rene Velasquez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102380288047476665200/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDOFlmSUtnEAE",
+        "caption": "Fresh delicious food",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 4.0,
+        "username": "N\u00e9stor Ibarra",
+        "n_review_user": 35,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/115246844621108994153/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNDZ3Q3aGJnEAE",
+        "caption": "(Translated by Google) I love the fritters they sell, the best I've ever eaten  (Original) Me encantan los bu\u00f1uelos que venden, los mejores que he comido",
+        "relative_date": "7 months ago",
+        "retrieval_date": "2021-04-07",
+        "rating": 5.0,
+        "username": "antonia hornoz",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/106686861007723685627/reviews?hl=en-US",
+        "census_block_group": 360810415001
+    }
+]

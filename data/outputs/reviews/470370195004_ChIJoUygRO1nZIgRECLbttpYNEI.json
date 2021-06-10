@@ -1,0 +1,50 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ3J5bG9RRRAB",
+        "caption": "I was there last week. Love the service and the homey atmosphere. Very delicious Latin foods with a homemade flavor ! My favorite was the chorizo and papa empanadas.",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Abraham Show",
+        "n_review_user": 9,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102798121451810919225/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLdHJIOW5BRRAB",
+        "caption": "Quick, delicious and inexpensive. Yesterday was my 2nd trip at this place and was happy to to learn there were a few more items added to the menu. Of course I had to try it all and I can honestly say it was all delicious. The pork rind \u2026",
+        "relative_date": "5 days ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Oscar Sanchez",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/117848731031405086281/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNLZ29TQ3pnRRAB",
+        "caption": "",
+        "relative_date": "a week ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "Ariel Valey",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/109197274762707324163/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    },
+    {
+        "id_review": "ChZDSUhNMG9nS0VJQ0FnSUNLOElmVlNnEAE",
+        "caption": "Nice place to eat, I love the empanadas and the gorditas those are so delicious, love it. I am sure I\u2019ll be back again soon.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 5.0,
+        "username": "jaime dector",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/100613782283361643411/reviews?hl=en-US",
+        "census_block_group": 470370195004
+    }
+]

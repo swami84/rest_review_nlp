@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUMwaG9tc3ZBRRAB",
+        "caption": "Good food. Great service.",
+        "relative_date": "a year ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Esteliux YQUE",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/110187325143547126430/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUNBaWFxUjlBRRAB",
+        "caption": "",
+        "relative_date": "3 years ago",
+        "retrieval_date": "2021-04-10",
+        "rating": 4.0,
+        "username": "Jorge Vasquez",
+        "n_review_user": 2,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/108304194832244317226/reviews?hl=en-US",
+        "census_block_group": 481410017001
+    }
+]

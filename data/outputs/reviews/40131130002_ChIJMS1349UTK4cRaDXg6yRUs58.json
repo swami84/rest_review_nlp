@@ -1,0 +1,26 @@
+[
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5ei1hcmdBRRAB",
+        "caption": "Various food truck/pop up kitchen style restaurants concentrated in a few open courtyards. Park somewhere along the side streets and walk into courtyard and go to the back. Pizza was certainly tasty but on the pricey side.",
+        "relative_date": "2 weeks ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 4.0,
+        "username": "Mike X",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/102806648432274211800/reviews?hl=en-US",
+        "census_block_group": 40131130002
+    },
+    {
+        "id_review": "ChdDSUhNMG9nS0VJQ0FnSUR5LVBUSGdBRRAB",
+        "caption": "Great pizza. Interesting location behind a little house. Pizzas are one size and wood fired.",
+        "relative_date": "a month ago",
+        "retrieval_date": "2021-04-09",
+        "rating": 5.0,
+        "username": "Wm R",
+        "n_review_user": 0,
+        "n_photo_user": 0,
+        "url_user": "https://www.google.com/maps/contrib/107860549960444503161/reviews?hl=en-US",
+        "census_block_group": 40131130002
+    }
+]
